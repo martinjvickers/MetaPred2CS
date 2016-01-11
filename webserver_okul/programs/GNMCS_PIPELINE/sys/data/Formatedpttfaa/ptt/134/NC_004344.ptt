@@ -1,0 +1,614 @@
+Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis chromosome, complete genome - 1..697724
+611 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+182..2068	+	628	32490750	-	WGLp001	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+2230..3066	+	278	32490751	-	WGLp002	-	COG0356C	F0F1 ATP synthase subunit A
+3076..3315	+	79	32490752	atpE	WGLp003	-	COG0636C	F0F1 ATP synthase subunit C
+3328..3813	+	161	32490753	atpF	WGLp004	-	COG0711C	hypothetical protein
+3817..4347	+	176	32490754	atpH	WGLp005	-	COG0712C	hypothetical protein
+4368..5900	+	510	32490755	atpA	WGLp006	-	COG0056C	F0F1 ATP synthase subunit alpha
+5954..6817	+	287	32490756	atpG	WGLp007	-	COG0224C	hypothetical protein
+6842..8230	+	462	32490757	atpD	WGLp008	-	COG0055C	F0F1 ATP synthase subunit beta
+8242..8658	+	138	32490758	atpC	WGLp009	-	COG0355C	hypothetical protein
+8848..10233	+	461	32490759	glmU	WGLp010	-	COG1207M	hypothetical protein
+10399..12237	+	612	32490760	glmS	WGLp011	-	COG0449M	hypothetical protein
+12243..13604	-	453	32490761	trmE	WGLp012	-	COG0486R	tRNA modification GTPase TrmE
+13661..15283	-	540	32490762	yidC	WGLp013	-	COG0706U	hypothetical protein
+15893..16036	-	47	32490763	rpmH	WGLp014	-	-	hypothetical protein
+16358..17467	+	369	32490764	dnaN	WGLp015	-	COG0592L	hypothetical protein
+17566..19977	+	803	32490765	gyrB	WGLp016	-	COG0187L	hypothetical protein
+20102..22273	+	723	32490766	imp	WGLp017	-	COG1452M	hypothetical protein
+22260..23618	+	452	32490767	surA	WGLp018	-	COG0760O	hypothetical protein
+23625..24623	+	332	32490768	pdxA	WGLp019	-	COG1995H	hypothetical protein
+24633..25418	+	261	32490769	ksgA	WGLp020	-	COG0030J	hypothetical protein
+25461..26279	+	272	32490770	apaH	WGLp021	-	COG0639T	diadenosine tetraphosphatase
+26330..26818	-	162	32490771	folA	WGLp022	-	COG0262H	hypothetical protein
+26828..30082	-	1084	32490772	carB	WGLp023	-	COG0458EF	hypothetical protein
+30092..31222	-	376	32490773	carA	WGLp024	-	COG0505EF	carbamoyl phosphate synthase small subunit
+31233..32030	-	265	32490774	dapB	WGLp025	-	COG0289E	hypothetical protein
+32290..33360	+	356	32490775	yb1688	WGLp026	-	-	hypothetical protein
+34105..34482	+	125	32490776	rpsL	WGLp027	-	COG0048J	30S ribosomal protein S12
+34525..34995	+	156	32490777	rpsG	WGLp028	-	COG0049J	30S ribosomal protein S7
+35041..37158	+	705	32490778	fusA	WGLp029	-	COG0480J	hypothetical protein
+37981..38325	+	114	32490779	flhD	WGLp030	-	-	transcriptional activator FlhD
+38330..38884	+	184	32490780	flhC	WGLp031	-	-	transcriptional activator FlhC
+38997..39887	+	296	32490781	motA	WGLp032	-	COG1291N	flagellar motor protein MotA
+39892..40872	+	326	32490782	motB	WGLp033	-	COG1360N	flagellar motor protein MotB
+40924..42081	+	385	32490783	flhB	WGLp034	-	COG1377NU	hypothetical protein
+42014..44200	+	728	32490784	flhA	WGLp035	-	COG1298NU	hypothetical protein
+44197..44652	-	151	32490785	flgN	WGLp036	-	COG3418NUO	hypothetical protein
+44781..45458	-	225	32490786	flgA	WGLp037	-	COG1261NO	hypothetical protein
+45617..46027	+	136	32490787	flgB	WGLp038	-	COG1815N	hypothetical protein
+46031..46432	+	133	32490788	flgC	WGLp039	-	COG1558N	hypothetical protein
+46485..47324	+	279	32490789	flgD	WGLp040	-	COG1843N	hypothetical protein
+47376..48608	+	410	32490790	flgE	WGLp041	-	COG1749N	hypothetical protein
+48619..49359	+	246	32490791	flgF	WGLp042	-	COG4787N	hypothetical protein
+49376..50158	+	260	32490792	flgG	WGLp043	-	COG4786N	flagellar basal body rod protein FlgG
+50205..50891	+	228	32490793	flgH	WGLp044	-	COG2063N	flagellar basal body L-ring protein
+50901..52013	+	370	32490794	flgI	WGLp045	-	COG1706N	flagellar basal body P-ring protein
+52406..54043	+	545	32490795	flgK	WGLp046	-	COG1256N	hypothetical protein
+54078..55019	+	313	32490796	flgL	WGLp047	-	COG1344N	hypothetical protein
+55039..55815	-	258	32490797	fliR	WGLp048	-	COG1684NU	hypothetical protein
+55812..56084	-	90	32490798	fliQ	WGLp049	-	COG1987NU	hypothetical protein
+56094..56885	-	263	32490799	fliP	WGLp050	-	COG1338NU	flagellar biosynthesis protein FliP
+56895..57224	-	109	32490800	fliO	WGLp051	-	COG3190N	hypothetical protein
+57221..57628	-	135	32490801	fliN	WGLp052	-	COG1886NU	hypothetical protein
+57633..58592	-	319	32490802	fliM	WGLp053	-	COG1868N	hypothetical protein
+58599..59087	-	162	32490803	fliL	WGLp054	-	COG1580N	hypothetical protein
+59149..60384	-	411	32490804	fliK	WGLp055	-	COG3144N	hypothetical protein
+60381..60833	-	150	32490805	fliJ	WGLp056	-	COG2882NUO	hypothetical protein
+60838..62214	-	458	32490806	fliI	WGLp057	-	COG1157NU	hypothetical protein
+62211..62882	-	223	32490807	fliH	WGLp058	-	COG1317NU	hypothetical protein
+62863..63876	-	337	32490808	fliG	WGLp059	-	COG1536N	hypothetical protein
+63846..65555	-	569	32490809	fliF	WGLp060	-	COG1766NU	hypothetical protein
+65797..66126	+	109	32490810	fliE	WGLp061	-	COG1677NU	hypothetical protein
+66160..66552	-	130	32490811	fliS	WGLp062	-	COG1516NUO	hypothetical protein
+66578..68095	-	505	32490812	fliD	WGLp063	-	COG1345N	hypothetical protein
+68298..69563	+	421	32490813	fliC	WGLp064	-	COG1344N	hypothetical protein
+69626..70573	-	315	32490814	yceA	WGLp065	-	COG1054R	hypothetical protein
+70638..73118	-	826	32490815	mdoH	WGLp066	-	COG2943M	glucosyltransferase MdoH
+73379..74134	-	251	32490816	gloB	WGLp067	-	COG0491R	hypothetical protein
+74186..74659	-	157	32490817	rnhA	WGLp068	-	COG0328L	hypothetical protein
+74707..75447	+	246	32490818	dnaQ	WGLp069	-	COG0847L	hypothetical protein
+75536..76117	-	193	32490819	yhhF	WGLp070	-	COG0742L	hypothetical protein
+76243..77223	+	326	32490820	ftsY	WGLp071	-	COG0552U	hypothetical protein
+77376..78221	+	281	32490821	rpoH	WGLp072	-	COG0568K	RNA polymerase factor sigma-32
+78231..79538	-	435	32490822	hemL	WGLp073	-	COG0001H	hypothetical protein
+79688..80032	+	114	32490823	yadR	WGLp074	-	COG0316S	hypothetical protein
+80078..81145	-	355	32490824	mltC	WGLp075	-	COG0741M	hypothetical protein
+81230..81466	-	78	32490825	yggX	WGLp076	-	COG2924CO	hypothetical protein
+82454..83269	-	271	32490826	yggW	WGLp077	-	COG0635H	hypothetical protein
+83256..83855	-	199	32490827	yggV	WGLp078	-	COG0127F	hypothetical protein
+83947..84822	-	291	32490828	proC	WGLp079	-	COG0345E	hypothetical protein
+84806..85507	-	233	32490829	yggS	WGLp080	-	COG0325R	hypothetical protein
+85827..87737	+	636	32490830	thrS	WGLp081	-	COG0441J	hypothetical protein
+87700..88290	+	196	32490831	infC	WGLp082	-	COG0290J	hypothetical protein
+88380..88580	+	66	32490832	rpmI	WGLp083	-	-	hypothetical protein
+88625..88978	+	117	32490833	rplT	WGLp084	-	COG0292J	50S ribosomal protein L20
+89116..90117	+	333	32490834	pheS	WGLp085	-	COG0016J	hypothetical protein
+90128..92539	+	803	32490835	pheT	WGLp086	-	COG0072J	hypothetical protein
+92559..93608	-	349	32490836	pyrC	WGLp087	-	COG0418F	dihydroorotase
+93717..96068	-	783	32490837	rne	WGLp088	-	COG1530J	hypothetical protein
+97518..97697	+	59	32490838	rpmF	WGLp089	-	COG0333J	hypothetical protein
+97697..98641	+	314	32490839	fabD	WGLp090	-	COG0331I	hypothetical protein
+98638..99372	+	244	32490840	fabG	WGLp091	-	COG1028IQR	hypothetical protein
+99504..99740	+	78	32490841	acpP	WGLp092	-	COG0236IQ	hypothetical protein
+99853..100899	+	348	32490842	yceG	WGLp093	-	COG1559R	hypothetical protein
+100886..101590	+	234	32490843	tmk	WGLp094	-	COG0125F	hypothetical protein
+101594..102583	+	329	32490844	holB	WGLp095	-	COG0470L	hypothetical protein
+102583..103377	+	264	32490845	ycfH	WGLp096	-	COG0084L	hypothetical protein
+103420..103761	+	113	32490846	ycfF	WGLp097	-	COG0537FGR	hypothetical protein
+103858..105165	+	435	32490847	ndh	WGLp098	-	COG1252C	hypothetical protein
+105179..107236	-	685	32490848	mfd	WGLp099	-	COG1197LK	hypothetical protein
+107487..108692	+	401	32490849	ycfU	WGLp100	-	COG4591M	hypothetical protein
+108685..109374	+	229	32490850	ycfV	WGLp101	-	COG1136V	hypothetical protein
+109825..110625	+	266	32490851	ycfW	WGLp102	-	COG4591M	hypothetical protein
+110647..112041	-	464	32490852	purB	WGLp103	-	COG0015F	adenylosuccinate lyase
+112153..113259	-	368	32490853	ycfB	WGLp104	-	COG0482J	hypothetical protein
+113657..114541	+	294	32490854	htpX	WGLp105	-	COG0501O	heat shock protein HtpX
+114740..116014	+	424	32490855	yoaE	WGLp106	-	COG0861P	hypothetical protein
+116454..118301	+	615	32490856	sppA	WGLp107	-	COG0616OU	protease 4
+118416..119414	+	332	32490857	gapA	WGLp108	-	COG0057G	hypothetical protein
+119533..120204	-	223	32490858	grpE	WGLp109	-	COG0576O	hypothetical protein
+120308..121195	+	295	32490859	yfjB	WGLp110	-	COG0061G	hypothetical protein
+121214..121654	-	146	32490860	b2619	WGLp111	-	COG2867I	hypothetical protein
+121720..122202	+	160	32490861	smpB	WGLp112	-	COG0691O	SsrA-binding protein
+122671..124353	+	560	32490862	aspS	WGLp113	-	COG0173J	hypothetical protein
+124416..124901	+	161	32490863	ruvC	WGLp114	-	COG0817L	hypothetical protein
+124935..125732	-	265	32490864	yebI	WGLp115	-	COG1108P	hypothetical protein
+125763..126461	-	232	32490865	yebM	WGLp116	-	COG1121P	hypothetical protein
+126635..127960	+	441	32490866	yebA	WGLp117	-	COG0739M	hypothetical protein
+127977..129317	-	446	32490867	b2392	WGLp118	-	COG1914P	hypothetical protein
+129798..130253	+	151	32490868	ubiE	WGLp119	-	COG2226H	hypothetical protein
+130709..132325	+	538	32490869	yigR	WGLp120	-	COG0661R	hypothetical protein
+132576..134045	+	489	32490870	yigC	WGLp121	-	COG0043H	hypothetical protein
+134389..135843	+	484	32490871	trkH	WGLp122	-	COG0168P	hypothetical protein
+135860..136378	+	172	32490872	hemG	WGLp123	-	COG4635CH	hypothetical protein
+141730..142926	+	398	32490873	aspC	WGLp124	-	COG1448E	aromatic amino acid aminotransferase
+142930..143574	-	214	32490874	ycbL	WGLp125	-	COG0491R	hypothetical protein
+143672..145093	-	473	32490875	gltX	WGLp126	-	COG0008J	hypothetical protein
+145749..146570	+	273	32490876	ubiA	WGLp127	-	COG0382H	hypothetical protein
+146588..148972	-	794	32490877	plsB	WGLp128	-	COG2937I	glycerol-3-phosphate acyltransferase
+149259..150989	+	576	32490878	argS	WGLp129	-	COG0018J	hypothetical protein
+151011..152555	-	514	32490879	mviN	WGLp130	-	COG0728R	hypothetical protein
+152624..153637	-	337	32490880	pyrD	WGLp131	-	COG0167F	dihydroorotate dehydrogenase 2
+153868..154842	+	324	32490881	hemB	WGLp132	-	COG0113H	delta-aminolevulinic acid dehydratase
+155079..155885	+	268	32490882	murI	WGLp133	-	COG0796M	hypothetical protein
+155914..157281	-	455	32490883	pssA	WGLp134	-	COG1502I	phosphatidylserine synthase
+157354..158910	-	518	32490884	pitA	WGLp135	-	COG0306P	hypothetical protein
+159224..160663	+	479	32490885	pykA	WGLp136	-	COG0469G	hypothetical protein
+160672..164562	-	1296	32490886	purL	WGLp137	-	COG0046F	phosphoribosylformylglycinamidine synthase
+164618..165073	-	151	32490887	yfhC	WGLp138	-	COG0590FJ	hypothetical protein
+165127..165516	-	129	32490888	rpsI	WGLp139	-	COG0103J	30S ribosomal protein S9
+165538..165966	-	142	32490889	rplM	WGLp140	-	COG0102J	50S ribosomal protein L13
+166053..167159	-	368	32490890	yhcM	WGLp141	-	COG1485R	hypothetical protein
+167313..167684	+	123	32490891	yhcB	WGLp142	-	COG3105S	hypothetical protein
+167776..169149	+	457	32490892	degQ	WGLp143	-	COG0265O	hypothetical protein
+169179..171059	-	626	32490893	dxs	WGLp144	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+171081..171983	-	300	32490894	ispA	WGLp145	-	COG0142H	hypothetical protein
+172523..173425	-	300	32490895	apbA	WGLp146	-	COG1893H	hypothetical protein
+173693..174541	+	282	32490896	cyoA	WGLp147	-	COG1622C	hypothetical protein
+174604..176568	+	654	32490897	cyoB	WGLp148	-	COG0843C	hypothetical protein
+176586..177203	+	205	32490898	cyoC	WGLp149	-	COG1845C	hypothetical protein
+177200..177529	+	109	32490899	cyoD	WGLp150	-	-	hypothetical protein
+177561..178427	+	288	32490900	cyoE	WGLp151	-	COG0109O	hypothetical protein
+178436..180322	-	628	32490901	ppiD	WGLp152	-	-	hypothetical protein
+180382..182712	-	776	32490902	lon	WGLp153	-	COG0466O	hypothetical protein
+182895..184142	-	415	32490903	clpX	WGLp154	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+184236..184820	-	194	32490904	clpP	WGLp155	-	COG0740OU	hypothetical protein
+184934..186241	-	435	32490905	tig	WGLp156	-	COG0544O	hypothetical protein
+186668..187834	-	388	32490906	yajR	WGLp157	-	-	hypothetical protein
+188010..189023	-	337	32490907	nadA	WGLp158	-	COG0379H	quinolinate synthetase
+189447..190418	+	323	32490908	b2254	WGLp159	-	COG0463M	hypothetical protein
+190415..192379	+	654	32490909	b2255	WGLp160	-	COG0223J	bifunctional UDP-glucuronic acid decarboxylase/UDP-4-amino-4-deoxy-L-arabinose formyltransferase
+192437..193297	+	286	32490910	b2256	WGLp161	-	COG0726G	hypothetical protein
+193264..194952	+	562	32490911	arnT	WGLp162	-	COG1807M	4-amino-4-deoxy-L-arabinose transferase
+194967..195579	-	203	32490912	yihA	WGLp163	-	COG0218R	hypothetical protein
+195679..196113	-	144	32490913	yqgF	WGLp164	-	COG0816L	hypothetical protein
+196110..196673	-	187	32490914	yqgE	WGLp165	-	COG1678K	hypothetical protein
+196754..197737	-	327	32490915	gshB	WGLp166	-	COG0189HJ	glutathione synthetase
+197724..198341	-	205	32490916	yggJ	WGLp167	-	COG1385S	hypothetical protein
+198753..201347	+	864	32490917	leuS	WGLp168	-	COG0495J	hypothetical protein
+201337..201858	+	173	32490918	rlpB	WGLp169	-	COG2980M	hypothetical protein
+201872..202915	+	347	32490919	holA	WGLp170	-	-	hypothetical protein
+202915..203550	+	211	32490920	ybeN	WGLp171	-	COG1057H	hypothetical protein
+203839..205596	+	585	32490921	mrdA	WGLp172	-	COG0768M	hypothetical protein
+205612..206718	+	368	32490922	mrdB	WGLp173	-	COG0772D	hypothetical protein
+206758..207990	+	410	32490923	dacA	WGLp174	-	COG1686M	hypothetical protein
+208052..208702	+	216	32490924	lipB	WGLp175	-	COG0321H	hypothetical protein
+208729..209679	+	316	32490925	lipA	WGLp176	-	COG0320H	lipoyl synthase
+209761..209970	-	69	32490926	cspE	WGLp177	-	COG1278K	cold shock protein CspE
+210258..211010	-	250	32490927	yjfH	WGLp178	-	COG0566J	hypothetical protein
+211151..212455	-	434	32490928	purA	WGLp179	-	COG0104F	hypothetical protein
+212680..214818	-	712	32490929	pta	WGLp180	-	COG0280C	hypothetical protein
+214865..216064	-	399	32490930	ackA	WGLp181	-	COG0282C	hypothetical protein
+216232..217659	-	475	32490931	phrB	WGLp182	-	COG0415L	hypothetical protein
+217960..218928	+	322	32490932	miaA	WGLp183	-	COG0324J	hypothetical protein
+218987..219250	+	87	32490933	hfq	WGLp184	-	COG1923R	hypothetical protein
+219509..220729	+	406	32490934	hflK	WGLp185	-	COG0330O	hypothetical protein
+220765..221754	+	329	32490935	hflC	WGLp186	-	COG0330O	FtsH protease regulator HflC
+222555..223901	-	448	32490936	ygcS	WGLp187	-	-	hypothetical protein
+224028..224705	-	225	32490937	gltK	WGLp188	-	COG0765E	hypothetical protein
+224745..225467	-	240	32490938	gltJ	WGLp189	-	COG0765E	hypothetical protein
+225484..226257	-	257	32490939	gltL	WGLp190	-	COG1126E	hypothetical protein
+226290..227162	-	290	32490940	fliY	WGLp191	-	COG0834ET	hypothetical protein
+227140..227286	-	48	32490941	yacG	WGLp192	-	COG3024S	hypothetical protein
+227354..227980	-	208	32490942	yacE	WGLp193	-	COG0237H	hypothetical protein
+228282..230081	+	599	32490943	lepA	WGLp194	-	COG0481M	GTP-binding protein LepA
+230106..231047	+	313	32490944	lepB	WGLp195	-	COG0681U	hypothetical protein
+231140..231820	+	226	32490945	rnc	WGLp196	-	COG0571K	hypothetical protein
+231927..232664	+	245	32490946	pdxJ	WGLp197	-	COG0854H	pyridoxine 5'-phosphate synthase
+232655..233074	+	139	32490947	acpS	WGLp198	-	COG0736I	hypothetical protein
+233242..233982	+	246	32490948	fliA	WGLp199	-	COG1191K	flagellar biosynthesis sigma factor
+234013..236511	-	832	32490949	secA	WGLp200	-	COG0653U	preprotein translocase subunit SecA
+236659..237555	-	298	32490950	lpxC	WGLp201	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+237588..238742	-	384	32490951	ftsZ	WGLp202	-	COG0206D	cell division protein FtsZ
+238799..240055	-	418	32490952	ftsA	WGLp203	-	COG0849D	cell division protein FtsA
+240096..240824	-	242	32490953	ftsQ	WGLp204	-	COG1589M	hypothetical protein
+240845..242272	-	475	32490954	murC	WGLp205	-	COG0773M	hypothetical protein
+242294..243373	-	359	32490955	murG	WGLp206	-	COG0707M	hypothetical protein
+243370..244515	-	381	32490956	ftsW	WGLp207	-	COG0772D	hypothetical protein
+244530..245846	-	438	32490957	murD	WGLp208	-	COG0771M	hypothetical protein
+245848..246930	-	360	32490958	mraY	WGLp209	-	COG0472M	hypothetical protein
+246911..248302	-	463	32490959	murF	WGLp210	-	COG0770M	hypothetical protein
+248299..249789	-	496	32490960	murE	WGLp211	-	COG0769M	hypothetical protein
+249808..251496	-	562	32490961	ftsI	WGLp212	-	COG0768M	hypothetical protein
+251532..251846	-	104	32490962	ftsL	WGLp213	-	COG3116D	hypothetical protein
+251839..252768	-	309	32490963	yabC	WGLp214	-	COG0275M	hypothetical protein
+252905..253399	-	164	32490964	ftn	WGLp215	-	COG1528P	hypothetical protein
+253457..253687	+	76	32490965	holE	WGLp216	-	-	DNA polymerase III subunit theta
+253702..254754	-	350	32490966	ddlA	WGLp217	-	COG1181M	hypothetical protein
+254973..255677	+	234	32490967	gpmA	WGLp218	-	COG0588G	hypothetical protein
+255732..257465	-	577	32490968	mdlB	WGLp219	-	COG1132V	hypothetical protein
+257471..259219	-	582	32490969	mdl	WGLp220	-	COG1132V	hypothetical protein
+259378..261129	-	583	32490970	deaD	WGLp221	-	COG0513LKJ	hypothetical protein
+261158..263275	-	705	32490971	pnp	WGLp222	-	COG1185J	polynucleotide phosphorylase/polyadenylase
+263372..263641	-	89	32490972	rpsO	WGLp223	-	COG0184J	hypothetical protein
+263762..264745	-	327	32490973	truB	WGLp224	-	COG0130J	hypothetical protein
+264696..265073	-	125	32490974	rbfA	WGLp225	-	COG0858J	hypothetical protein
+265136..267661	-	841	32490975	infB	WGLp226	-	COG0532J	translation initiation factor IF-2
+267684..269168	-	494	32490976	nusA	WGLp227	-	COG0195K	transcription elongation factor NusA
+269576..269917	-	113	32490977	secG	WGLp228	-	COG1314U	hypothetical protein
+269977..271317	-	446	32490978	mrsA	WGLp229	-	COG1109G	hypothetical protein
+271307..272107	-	266	32490979	folP	WGLp230	-	COG0294H	hypothetical protein
+272201..274117	-	638	32490980	hflB	WGLp231	-	COG0465O	hypothetical protein
+274162..274772	-	203	32490981	ftsJ	WGLp232	-	COG0293J	hypothetical protein
+274883..275359	-	158	32490982	greA	WGLp233	-	COG0782K	hypothetical protein
+275701..278322	-	873	32490983	alaS	WGLp234	-	COG0013J	hypothetical protein
+278424..279419	-	331	32490984	recA	WGLp235	-	COG0468L	recombinase A
+279549..280586	+	345	32490985	aroF	WGLp236	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+280655..281296	-	213	32490986	ribB	WGLp237	-	COG0108H	hypothetical protein
+281667..282878	+	403	32490987	cca	WGLp238	-	COG0617J	hypothetical protein
+282948..283166	+	72	32490988	infA	WGLp239	-	COG0361J	translation initiation factor IF-1
+283269..284144	+	291	32490989	hemC	WGLp240	-	COG0181H	hypothetical protein
+284141..284878	+	245	32490990	hemD	WGLp241	-	COG1587H	hypothetical protein
+285143..285994	+	283	32490991	folD	WGLp242	-	COG0190H	hypothetical protein
+286018..287409	-	463	32490992	cysS	WGLp243	-	COG0215J	hypothetical protein
+287552..288298	+	248	32490993	ybbF	WGLp244	-	COG2908S	UDP-2,3-diacylglucosamine hydrolase
+288355..288849	+	164	32490994	purE	WGLp245	-	COG0041F	hypothetical protein
+288830..289930	+	366	32490995	purK	WGLp246	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit
+289964..291481	+	505	32490996	gshA	WGLp247	-	COG2918H	hypothetical protein
+291535..292875	+	446	32490997	ffh	WGLp248	-	COG0541U	hypothetical protein
+292923..293165	+	80	32490998	rpsP	WGLp249	-	COG0228J	hypothetical protein
+294467..294814	+	115	32490999	rplS	WGLp250	-	COG0335J	50S ribosomal protein L19
+294827..295558	-	243	161347495	kdsB	WGLp251	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+295563..295733	-	56	32491001	ycaR	WGLp252	-	COG2835S	hypothetical protein
+295802..296893	-	363	32491002	ycaH	WGLp253	-	COG1663M	hypothetical protein
+296859..298604	-	581	32491003	msbA	WGLp254	-	COG1132V	lipid transporter ATP-binding/permease protein
+299222..299563	+	113	32491004	yajC	WGLp255	-	COG1862U	hypothetical protein
+299584..300453	-	289	32491005	polA	WGLp256	-	COG0258L	hypothetical protein
+300479..301108	-	209	32491006	dsbA	WGLp257	-	-	hypothetical protein
+301221..302861	-	546	32491007	mopA	WGLp258	-	COG0459O	hypothetical protein
+302907..303200	-	97	32491008	groES	WGLp259	-	COG0234O	co-chaperonin GroES
+304074..304526	-	150	32491009	rplI	WGLp260	-	COG0359J	hypothetical protein
+304569..304796	-	75	32491010	rpsR	WGLp261	-	COG0238J	hypothetical protein
+304915..305256	-	113	32491011	rpsF	WGLp262	-	COG0360J	30S ribosomal protein S6
+305690..307090	+	466	32491012	asnC	WGLp263	-	COG0017J	asparaginyl-tRNA synthetase
+307583..308074	+	163	32491013	folK	WGLp264	-	COG0801H	hypothetical protein
+308131..311382	+	1083	32491014	recC	WGLp265	-	COG1330L	hypothetical protein
+311419..314907	+	1162	32491015	recB	WGLp266	-	COG1074L	hypothetical protein
+315053..316057	+	334	32491016	recD	WGLp267	-	-	hypothetical protein
+316867..318085	+	405	32491017	b2817	WGLp268	-	COG0860M	hypothetical protein
+318194..319288	+	364	32491018	ompF	WGLp269	-	-	hypothetical protein
+319379..320209	+	276	32491019	dapF	WGLp270	-	COG0253E	hypothetical protein
+320258..320974	+	238	32491020	yigB	WGLp271	-	COG1011R	hypothetical protein
+321005..323164	+	719	32491021	uvrD	WGLp272	-	COG0210L	hypothetical protein
+323297..324244	+	315	32491022	corA	WGLp273	-	COG0598P	magnesium/nickel/cobalt transporter CorA
+324239..325009	-	256	32491023	tpiA	WGLp274	-	COG0149G	hypothetical protein
+325080..325829	-	249	32491024	fpr	WGLp275	-	COG1018C	hypothetical protein
+326030..327196	+	388	32491025	emrD	WGLp276	-	COG2814G	multidrug resistance protein D
+327225..328580	-	451	32491026	hslU	WGLp277	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+328558..329100	-	180	32491027	hslV	WGLp278	-	COG5405O	ATP-dependent protease peptidase subunit
+330158..330373	+	71	32491028	rpmE	WGLp279	-	COG0254J	hypothetical protein
+330636..331544	+	302	32491029	yadG	WGLp280	-	COG1131V	hypothetical protein
+331550..332332	+	260	32491030	yadH	WGLp281	-	COG1682GM	hypothetical protein
+332401..333531	+	376	32491031	dapE	WGLp282	-	COG0624E	succinyl-diaminopimelate desuccinylase
+333709..334233	-	174	32491032	ung	WGLp283	-	COG0692L	uracil-DNA glycosylase
+334301..335461	-	386	32491033	yfhO	WGLp284	-	COG1104E	hypothetical protein
+335658..336467	+	269	32491034	suhB	WGLp285	-	COG0483G	hypothetical protein
+336617..337297	+	226	32491035	Wg003	WGLp286	-	COG1664M	hypothetical protein
+337818..338387	+	189	32491036	efp	WGLp287	-	COG0231J	hypothetical protein
+338486..340135	+	549	32491037	glnS	WGLp288	-	COG0008J	glutaminyl-tRNA synthetase
+340141..340647	-	168	32491038	kdtB	WGLp289	-	COG0669H	hypothetical protein
+340732..342015	-	427	32491039	kdtA	WGLp290	-	COG1519M	hypothetical protein
+342123..343301	+	392	32491040	purT	WGLp291	-	COG0027F	phosphoribosylglycinamide formyltransferase 2
+343315..344262	-	315	32491041	lytB	WGLp292	-	COG0761IM	hypothetical protein
+344274..344735	-	153	32491042	lspA	WGLp293	-	COG0597MU	hypothetical protein
+344754..347576	-	940	32491043	ileS	WGLp294	-	COG0060J	hypothetical protein
+347566..348528	-	320	32491044	ribF	WGLp295	-	COG0196H	hypothetical protein
+348688..348954	+	88	32491045	rpsT	WGLp296	-	COG0268J	hypothetical protein
+348974..350164	-	396	32491046	nhaA	WGLp297	-	COG3004P	hypothetical protein
+350225..351349	-	374	32491047	dnaJ	WGLp298	-	COG0484O	hypothetical protein
+351424..353361	-	645	32491048	dnaK	WGLp299	-	COG0443O	hypothetical protein
+354408..354941	+	177	32491049	fabA	WGLp300	-	COG0764I	3-hydroxydecanoyl-(acyl carrier protein) dehydratase
+355634..356257	-	207	32491050	yhgI	WGLp301	-	COG0694O	hypothetical protein
+356800..357948	-	382	32491051	wecE	WGLp302	-	COG0399M	TDP-4-oxo-6-deoxy-D-glucose transaminase
+357968..359227	-	419	32491052	rho	WGLp303	-	COG1158K	transcription termination factor Rho
+359362..359700	-	112	32491053	trxA	WGLp304	-	COG3118O	hypothetical protein
+360154..361338	+	394	32491054	pgk	WGLp305	-	COG0126G	hypothetical protein
+361361..362431	+	356	32491055	fba	WGLp306	-	COG0191G	fructose-bisphosphate aldolase
+362541..363293	+	250	32491056	surE	WGLp307	-	COG0496R	hypothetical protein
+364200..365336	+	378	32491057	pdxB	WGLp308	-	COG0111HE	hypothetical protein
+365375..366169	+	264	32491058	truA	WGLp309	-	COG0101J	hypothetical protein
+366273..367133	+	286	32491059	accD	WGLp310	-	COG0777I	hypothetical protein
+367171..368457	+	428	32491060	folC	WGLp311	-	COG0285H	hypothetical protein
+368538..369026	+	162	32491061	cvpA	WGLp312	-	COG1286R	hypothetical protein
+369054..370466	+	470	32491062	purF	WGLp313	-	COG0034F	amidophosphoribosyltransferase
+370539..371120	+	193	32491063	ubiX	WGLp314	-	COG0163H	hypothetical protein
+371530..372078	-	182	32491064	pgsA	WGLp315	-	COG0558I	hypothetical protein
+372580..373737	+	385	32491065	metK	WGLp316	-	COG0192H	S-adenosylmethionine synthetase
+373905..374555	+	216	32491066	folE	WGLp317	-	COG0302H	GTP cyclohydrolase I
+374559..375377	-	272	32491067	thiD	WGLp318	-	COG0351H	hypothetical protein
+375563..376402	+	279	32491068	lgt	WGLp319	-	COG0682M	hypothetical protein
+376418..377212	+	264	32491069	thyA	WGLp320	-	COG0207F	thymidylate synthase
+377214..378644	-	476	32491070	lpdA	WGLp321	-	COG1249C	hypothetical protein
+378711..380201	-	496	32491071	aceF	WGLp322	-	COG0508C	hypothetical protein
+380215..382875	-	886	32491072	aceE	WGLp323	-	COG2609C	pyruvate dehydrogenase subunit E1
+383537..384412	+	291	32491073	nadC	WGLp324	-	COG0157H	hypothetical protein
+384985..385551	+	188	32491074	yrbK	WGLp325	-	COG3117S	hypothetical protein
+386031..386750	+	239	32491075	yhbG	WGLp326	-	COG1137R	hypothetical protein
+386747..387730	-	327	32491076	yrbH	WGLp327	-	COG0794M	hypothetical protein
+388313..388585	+	90	32491077	yrbA	WGLp328	-	COG5007K	hypothetical protein
+388614..389870	+	418	32491078	murA	WGLp329	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+389905..390669	-	254	32491079	purC	WGLp330	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+390660..391556	-	298	32491080	dapA	WGLp331	-	COG0329EM	dihydrodipicolinate synthase
+391748..392788	-	346	32491081	purM	WGLp332	-	COG0150F	phosphoribosylaminoimidazole synthetase
+393111..393731	+	206	32491082	ribE	WGLp333	-	COG0307H	riboflavin synthase subunit alpha
+393772..394092	+	106	32491083	ydhD	WGLp334	-	COG0278O	hypothetical protein
+394117..394764	-	215	32491084	rnt	WGLp335	-	COG0847L	ribonuclease T
+395221..395655	+	144	32491085	slyA	WGLp336	-	COG1846K	transcriptional regulator SlyA
+395750..396400	+	216	32491086	pdxH	WGLp337	-	COG0259H	hypothetical protein
+396237..397727	+	496	32491087	tyrS	WGLp338	-	COG0162J	hypothetical protein
+397742..398371	-	209	32491088	nth	WGLp339	-	COG0177L	hypothetical protein
+398380..398931	-	183	32491089	Wg002	WGLp340	-	COG1502I	hypothetical protein
+399041..400435	-	464	32491090	fumC	WGLp341	-	COG0114C	fumarate hydratase
+400483..401307	-	274	32491091	nadE	WGLp342	-	COG0171H	NAD synthetase
+401355..402200	-	281	32491092	kdsA	WGLp343	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+402235..403080	-	281	32491093	hemK	WGLp344	-	COG2890J	hypothetical protein
+403085..404179	-	364	32491094	prfA	WGLp345	-	COG0216J	hypothetical protein
+404202..405464	-	420	32491095	hemA	WGLp346	-	COG0373H	hypothetical protein
+405813..406226	+	137	32491096	hemM	WGLp347	-	COG3017M	hypothetical protein
+406187..407101	+	304	32491097	ychB	WGLp348	-	COG1947I	hypothetical protein
+407163..408080	+	305	32491098	prsA	WGLp349	-	COG0462FE	hypothetical protein
+408155..408730	+	191	32491099	pth	WGLp350	-	COG0193J	peptidyl-tRNA hydrolase
+408773..409846	+	357	32491100	ychF	WGLp351	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+409881..410810	+	309	32491101	ybiS	WGLp352	-	COG1376S	hypothetical protein
+410807..412138	-	443	32491102	eno	WGLp353	-	COG0148G	hypothetical protein
+412187..413827	-	546	161347494	pyrG	WGLp354	-	COG0504F	CTP synthetase
+414110..414343	+	77	32491104	lpp	WGLp355	-	COG4238M	hypothetical protein
+414377..414811	-	144	32491105	ynhA	WGLp356	-	COG2166R	cysteine desufuration protein SufE
+414829..416061	-	410	32491106	b1680	WGLp357	-	COG0520E	hypothetical protein
+416058..417353	-	431	32491107	ynhC	WGLp358	-	COG0719O	hypothetical protein
+417319..418059	-	246	32491108	ynhD	WGLp359	-	COG0396O	hypothetical protein
+418111..419631	-	506	32491109	ynhE	WGLp360	-	COG0719O	cysteine desulfurase activator complex subunit SufB
+419570..420007	-	145	32491110	ydiC	WGLp361	-	COG0316S	hypothetical protein
+420266..421060	+	264	32491111	fabI	WGLp362	-	COG0623I	hypothetical protein
+421114..421812	-	232	32491112	pyrF	WGLp363	-	COG0284F	hypothetical protein
+422347..422940	+	197	32491113	ribA	WGLp364	-	COG0807H	GTP cyclohydrolase II
+423854..424627	+	257	32491114	yciC	WGLp365	-	-	hypothetical protein
+424838..426325	+	495	32491115	cls	WGLp366	-	COG1502I	cardiolipin synthetase
+426735..427142	+	135	32491116	hns	WGLp367	-	COG2916R	global DNA-binding transcriptional dual regulator H-NS
+427252..428628	-	458	32491117	ugd	WGLp368	-	COG1004M	hypothetical protein
+428659..429498	-	279	32491118	galU	WGLp369	-	COG1210M	hypothetical protein
+429728..430597	+	289	32491119	purU	WGLp370	-	COG0788F	hypothetical protein
+430685..431488	+	267	32491120	xthA	WGLp371	-	COG0708L	exonuclease III
+431491..432183	+	230	32491121	yeaZ	WGLp372	-	COG1214O	hypothetical protein
+432203..432478	-	91	32491122	minE	WGLp373	-	COG0851D	hypothetical protein
+432465..433298	-	277	32491123	minD	WGLp374	-	COG2894D	hypothetical protein
+433309..434040	-	243	32491124	minC	WGLp375	-	COG0850D	hypothetical protein
+434225..435298	+	357	32491125	dadX	WGLp376	-	COG0787M	hypothetical protein
+435368..436825	-	485	32491126	b1191	WGLp377	-	COG3263P	potassium/proton antiporter
+436884..437837	-	317	32491127	accA	WGLp378	-	COG0825I	hypothetical protein
+437834..441313	-	1159	32491128	dnaE	WGLp379	-	COG0587L	hypothetical protein
+441335..442492	-	385	32491129	lpxB	WGLp380	-	COG0763M	hypothetical protein
+442508..443323	-	271	32491130	lpxA	WGLp381	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+443873..444895	-	340	32491131	lpxD	WGLp382	-	COG1044M	hypothetical protein
+444895..445404	-	169	32491132	hlpA	WGLp383	-	COG2825M	hypothetical protein
+445490..447907	-	805	32491133	yaeT	WGLp384	-	COG4775M	hypothetical protein
+447944..449284	-	446	32491134	yaeL	WGLp385	-	COG0750M	hypothetical protein
+449291..450160	-	289	32491135	cdsA	WGLp386	-	COG4589R	hypothetical protein
+450135..450917	-	260	32491136	yaeS	WGLp387	-	COG0020I	hypothetical protein
+451109..452302	-	397	32491137	yaeM	WGLp388	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+452411..452968	-	185	32491138	frr	WGLp389	-	COG0233J	hypothetical protein
+453030..453754	-	241	32491139	pyrH	WGLp390	-	COG0528F	hypothetical protein
+453793..454605	-	270	32491140	tsf	WGLp391	-	COG0264J	elongation factor Ts
+454650..455372	-	240	32491141	rpsB	WGLp392	-	COG0052J	30S ribosomal protein S2
+455608..456399	+	263	32491142	map	WGLp393	-	COG0024J	hypothetical protein
+456535..457359	+	274	32491143	dapD	WGLp394	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+457957..459396	+	479	32491144	aspA	WGLp395	-	COG1027E	aspartate ammonia-lyase
+459441..459812	+	123	32491145	cutA	WGLp396	-	COG1324P	hypothetical protein
+460610..461284	+	224	32491146	ydeB	WGLp397	-	COG2095U	multiple drug resistance protein MarC
+461469..463511	+	680	32491147	prlC	WGLp398	-	COG0339E	hypothetical protein
+463814..465016	-	400	32491148	mesJ	WGLp399	-	COG0037D	hypothetical protein
+465091..465744	+	217	161347493	pyrE	WGLp400	-	COG0461F	orotate phosphoribosyltransferase
+465741..466202	-	153	32491150	dut	WGLp401	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+466186..467400	-	404	32491151	dfp	WGLp402	-	COG0452H	hypothetical protein
+467680..467916	+	78	32491152	rpmB	WGLp403	-	COG0227J	hypothetical protein
+467909..468076	+	55	32491153	rpmG	WGLp404	-	-	hypothetical protein
+468087..468275	-	62	32491154	rpoZ	WGLp405	-	COG1758K	hypothetical protein
+468326..468949	-	207	32491155	gmk	WGLp406	-	COG0194F	hypothetical protein
+469163..469588	-	141	32491156	emrR	WGLp407	-	COG1846K	hypothetical protein
+470322..471545	-	407	32491157	fabB	WGLp408	-	COG0304IQ	hypothetical protein
+472134..473057	-	307	32491158	yfcB	WGLp409	-	COG2890J	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+473309..474064	-	251	32491159	ybgF	WGLp410	-	COG1729S	hypothetical protein
+474082..474594	-	170	32491160	pal	WGLp411	-	COG2885M	hypothetical protein
+474635..475930	-	431	32491161	tolB	WGLp412	-	COG0823U	hypothetical protein
+475985..476740	-	251	32491162	tolA	WGLp413	-	COG3064M	hypothetical protein
+476776..477189	-	137	32491163	tolR	WGLp414	-	-	hypothetical protein
+477179..477886	-	235	32491164	tolQ	WGLp415	-	COG0811U	hypothetical protein
+478018..478908	-	296	32491165	sucD	WGLp416	-	COG0074C	hypothetical protein
+478874..480064	-	396	32491166	sucC	WGLp417	-	COG0045C	hypothetical protein
+480134..481375	-	413	32491167	sucB	WGLp418	-	COG0508C	hypothetical protein
+481388..484117	-	909	32491168	sucA	WGLp419	-	COG0567C	2-oxoglutarate dehydrogenase E1 component
+484199..484942	-	247	32491169	sdhB	WGLp420	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+484944..486710	-	588	32491170	sdhA	WGLp421	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+486721..487062	-	113	32491171	sdhD	WGLp422	-	COG2142C	hypothetical protein
+487056..487475	-	139	32491172	sdhC	WGLp423	-	-	hypothetical protein
+487595..488344	-	249	32491173	ybgI	WGLp424	-	COG0327S	hypothetical protein
+488375..489991	-	538	32491174	pgm	WGLp425	-	COG0033G	phosphoglucomutase
+490237..490749	+	170	32491175	fldA	WGLp426	-	COG0716C	flavodoxin FldA
+491724..494987	-	1087	32491176	yjeP	WGLp427	-	COG3264M	hypothetical protein
+495015..495878	-	287	32491177	psd	WGLp428	-	COG0688I	hypothetical protein
+496137..496697	+	186	32491178	yjeR	WGLp429	-	COG1949A	oligoribonuclease
+496750..497409	-	219	32491179	yqjA	WGLp430	-	COG0586S	hypothetical protein
+497548..498735	-	395	32491180	ubiH	WGLp431	-	COG0654HC	hypothetical protein
+498740..500071	-	443	32491181	pepP	WGLp432	-	COG0006E	hypothetical protein
+500198..500536	+	112	32491182	ygfE	WGLp433	-	COG3027S	hypothetical protein
+500583..504533	-	1316	32491183	putA	WGLp434	-	COG4230C	trifunctional transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+504830..506605	-	591	32491184	lig	WGLp435	-	COG0272L	hypothetical protein
+507068..507793	+	241	32491185	pfs	WGLp436	-	COG0775F	hypothetical protein
+507840..508769	-	309	32491186	ygfZ	WGLp437	-	COG0354R	hypothetical protein
+508908..509162	+	84	32491187	ygfY	WGLp438	-	COG2938S	hypothetical protein
+509181..510923	+	580	32491188	recJ	WGLp439	-	COG0608L	hypothetical protein
+511256..512092	+	278	32491189	prfB	WGLp440	-	COG1186J	hypothetical protein
+512171..513652	+	493	32491190	lysS	WGLp441	-	COG1190J	hypothetical protein
+513658..514251	-	197	32491191	yhgN	WGLp442	-	COG2095U	hypothetical protein
+514373..515476	+	367	32491192	asd	WGLp443	-	COG0136E	aspartate-semialdehyde dehydrogenase
+515504..516184	-	226	32491193	ubiG	WGLp444	-	COG2227H	3-demethylubiquinone-9 3-methyltransferase
+516367..518910	+	847	32491194	gyrA	WGLp445	-	COG0188L	hypothetical protein
+518941..520440	-	499	32491195	lnt	WGLp446	-	COG0815M	hypothetical protein
+520511..520969	-	152	32491196	ybeY	WGLp447	-	COG0319R	hypothetical protein
+520984..521850	-	288	32491197	panC	WGLp448	-	COG0414H	hypothetical protein
+521860..522657	-	265	32491198	panB	WGLp449	-	COG0413H	hypothetical protein
+523185..524030	-	281	32491199	yraL	WGLp450	-	COG0313R	hypothetical protein
+524160..524723	+	187	32491200	yraP	WGLp451	-	COG2823R	hypothetical protein
+524770..526071	-	433	32491201	bioA	WGLp452	-	COG0161H	hypothetical protein
+526027..527196	+	389	32491202	bioB	WGLp453	-	COG0502H	hypothetical protein
+527190..528377	+	395	32491203	bioF	WGLp454	-	COG0156H	hypothetical protein
+528358..529119	+	253	32491204	bioC	WGLp455	-	COG2226H	hypothetical protein
+529112..529795	+	227	32491205	bioD	WGLp456	-	COG0132H	hypothetical protein
+529802..530860	-	352	32491206	yjgQ	WGLp457	-	COG0795R	hypothetical protein
+530869..531942	-	357	32491207	yjgP	WGLp458	-	COG0795R	hypothetical protein
+532107..533612	+	501	32491208	pepA	WGLp459	-	COG0260E	hypothetical protein
+533696..536341	+	881	32491209	valS	WGLp460	-	COG0525J	hypothetical protein
+536440..537369	+	309	32491210	pyrB	WGLp461	-	COG0540F	hypothetical protein
+537574..538728	+	384	32491211	ribD	WGLp462	-	COG0117H	hypothetical protein
+538755..539219	+	154	32491212	ribH	WGLp463	-	COG0054H	hypothetical protein
+539233..539358	+	41	32491213	nusB	WGLp464	-	-	hypothetical protein
+539665..540654	+	329	32491214	thiL	WGLp465	-	COG0611H	hypothetical protein
+540659..541159	+	166	32491215	pgpA	WGLp466	-	COG1267I	hypothetical protein
+541395..542198	+	267	32491216	yqeI	WGLp467	-	COG3710K	hypothetical protein
+542374..544179	-	601	32491217	rpoD	WGLp468	-	COG0568K	hypothetical protein
+544259..546007	-	582	32491218	dnaG	WGLp469	-	COG0358L	hypothetical protein
+546067..546282	-	71	32491219	rpsU	WGLp470	-	COG0828J	hypothetical protein
+546461..547483	+	340	32491220	ygjD	WGLp471	-	COG0533O	hypothetical protein
+547487..547846	+	119	32491221	ygiG	WGLp472	-	COG1539H	hypothetical protein
+547879..548682	+	267	32491222	bacA	WGLp473	-	COG1968V	hypothetical protein
+548679..549860	-	393	32491223	yleB	WGLp474	-	COG0654HC	hypothetical protein
+549913..550926	-	337	32491224	obgE	WGLp475	-	COG0536R	GTPase ObgE
+551028..551291	-	87	32491225	rpmA	WGLp476	-	COG0211J	50S ribosomal protein L27
+551305..551616	-	103	32491226	rplU	WGLp477	-	COG0261J	hypothetical protein
+551734..552705	+	323	32491227	ispB	WGLp478	-	COG0142H	hypothetical protein
+553002..553988	+	328	32491228	fbp	WGLp479	-	COG0158G	fructose-1,6-bisphosphatase
+554083..554622	+	179	32491229	ppa	WGLp480	-	COG0221C	hypothetical protein
+554700..556949	-	749	32491230	ytfN	WGLp481	-	COG2911S	hypothetical protein
+557189..557908	-	239	32491231	Wg004	WGLp482	-	-	hypothetical protein
+557905..559644	-	579	32491232	ytfM	WGLp483	-	COG0729M	hypothetical protein
+559826..561490	-	554	32491233	rpsA	WGLp484	-	COG0539J	30S ribosomal protein S1
+561558..562118	-	186	32491234	cmk	WGLp485	-	COG0283F	hypothetical protein
+562335..563420	-	361	32491235	serC	WGLp486	-	COG1932HE	phosphoserine aminotransferase
+563664..564263	+	199	32491236	ahpC	WGLp487	-	COG0450O	hypothetical protein
+564307..565626	-	439	32491237	brnQ	WGLp488	-	COG1114E	hypothetical protein
+565684..566973	-	429	32491238	serS	WGLp489	-	COG0172J	seryl-tRNA synthetase
+567055..567675	-	206	32491239	lolA	WGLp490	-	COG2834M	hypothetical protein
+567753..568247	-	164	32491240	ftsK	WGLp491	-	-	hypothetical protein
+568538..569482	+	314	32491241	trxB	WGLp492	-	COG0492O	hypothetical protein
+569560..570849	+	429	32491242	sdaC	WGLp493	-	COG0814E	hypothetical protein
+570866..572245	-	459	32491243	trkA	WGLp494	-	COG0569P	potassium transporter peripheral membrane component
+572299..573258	-	319	32491244	fmt	WGLp495	-	COG0223J	hypothetical protein
+573308..573766	-	152	32491245	def	WGLp496	-	COG0242J	hypothetical protein
+574031..574615	+	194	32491246	yrdC	WGLp497	-	COG0009J	hypothetical protein
+574805..575536	+	243	32491247	plsC	WGLp498	-	COG0204I	hypothetical protein
+575696..577093	+	465	32491248	dnaB	WGLp499	-	COG0305L	hypothetical protein
+577143..577646	+	167	32491249	ssb	WGLp500	-	COG0629L	hypothetical protein
+577670..578932	-	420	32491250	glyA	WGLp501	-	COG0112E	hypothetical protein
+579178..579834	-	218	32491251	rpiA	WGLp502	-	COG0120G	ribose-5-phosphate isomerase A
+580285..580614	+	109	32491252	yccV	WGLp503	-	COG3785S	heat shock protein HspQ
+580634..581755	-	373	32491253	thiH	WGLp504	-	COG1060HR	thiamine biosynthesis protein ThiH
+581766..582530	-	254	32491254	thiG	WGLp505	-	COG2022H	thiazole synthase
+583484..584131	-	215	32491255	thiE	WGLp506	-	COG0352H	hypothetical protein
+584133..585947	-	604	32491256	thiC	WGLp507	-	COG0422H	thiamine biosynthesis protein ThiC
+586253..587335	+	360	32491257	hemE	WGLp508	-	COG0407H	hypothetical protein
+587709..587981	+	90	32491258	hupA	WGLp509	-	COG0776L	hypothetical protein
+588056..589360	-	434	32491259	purD	WGLp510	-	COG0151F	hypothetical protein
+589375..590964	-	529	32491260	purH	WGLp511	-	COG0138F	hypothetical protein
+591184..592206	+	340	32491261	murB	WGLp512	-	COG0812M	hypothetical protein
+592203..592970	+	255	32491262	birA	WGLp513	-	COG0340H	hypothetical protein
+593030..593827	-	265	32491263	coaA	WGLp514	-	COG1072H	pantothenate kinase
+594570..595754	+	394	32491264	tufA	WGLp515	-	COG0050J	elongation factor Tu
+595775..596158	+	127	32491265	secE	WGLp516	-	COG0690U	hypothetical protein
+596160..596705	+	181	32491266	nusG	WGLp517	-	COG0250K	hypothetical protein
+596751..597179	+	142	32491267	rplK	WGLp518	-	COG0080J	50S ribosomal protein L11
+597181..597909	+	242	32491268	rplA	WGLp519	-	COG0081J	50S ribosomal protein L1
+597999..598484	+	161	32491269	rplJ	WGLp520	-	COG0244J	hypothetical protein
+598524..598895	+	123	32491270	rplL	WGLp521	-	COG0222J	hypothetical protein
+599101..603129	+	1342	32491271	rpoB	WGLp522	-	COG0085K	hypothetical protein
+603173..607390	+	1405	32491272	rpoC	WGLp523	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+607573..607776	-	67	32491273	hha	WGLp524	-	-	hemolysin expression-modulating protein
+608213..609310	+	365	32491274	dnaX	WGLp525	-	COG2812L	hypothetical protein
+609366..609674	+	102	32491275	ybaB	WGLp526	-	COG0718S	hypothetical protein
+609735..611651	+	638	32491276	htpG	WGLp527	-	COG0326O	heat shock protein 90
+611679..612311	+	210	32491277	adk	WGLp528	-	COG0563F	hypothetical protein
+612344..613309	+	321	32491278	hemH	WGLp529	-	COG0276H	hypothetical protein
+613618..614277	+	219	32491279	yccA	WGLp530	-	COG0670R	hypothetical protein
+614360..614833	-	157	32491280	ygbB	WGLp531	-	COG0245I	hypothetical protein
+614839..615528	-	229	32491281	ygbP	WGLp532	-	COG1211I	hypothetical protein
+615551..615874	-	107	32491282	b2748	WGLp533	-	COG2919D	hypothetical protein
+615964..616644	-	226	32491283	yfiO	WGLp534	-	COG4105R	hypothetical protein
+616722..617666	+	314	32491284	rluD	WGLp535	-	COG0564J	hypothetical protein
+619557..621209	-	550	32491285	metG	WGLp536	-	COG0143J	methionyl-tRNA synthetase
+621398..621988	+	196	32491286	dcd	WGLp537	-	COG0717F	deoxycytidine triphosphate deaminase
+622318..623013	+	231	32491287	cpxR	WGLp538	-	COG0745TK	DNA-binding transcriptional regulator CpxR
+623472..624461	-	329	32491288	gpsA	WGLp539	-	COG0240C	hypothetical protein
+624649..624882	-	77	32491289	grxC	WGLp540	-	COG0695O	hypothetical protein
+624907..625335	-	142	32491290	yibN	WGLp541	-	COG0607P	hypothetical protein
+625817..626128	+	103	32491291	rpsJ	WGLp542	-	COG0051J	30S ribosomal protein S10
+626166..626813	+	215	32491292	rplC	WGLp543	-	COG0087J	50S ribosomal protein L3
+626825..627430	+	201	32491293	rplD	WGLp544	-	COG0088J	50S ribosomal protein L4
+627427..627732	+	101	32491294	rplW	WGLp545	-	COG0089J	hypothetical protein
+627747..628574	+	275	32491295	rplB	WGLp546	-	COG0090J	50S ribosomal protein L2
+628441..628869	+	142	32491296	rpsS	WGLp547	-	COG0185J	hypothetical protein
+628889..629224	+	111	32491297	rplV	WGLp548	-	COG0091J	50S ribosomal protein L22
+629241..629951	+	236	32491298	rpsC	WGLp549	-	COG0092J	30S ribosomal protein S3
+629955..630365	+	136	32491299	rplP	WGLp550	-	COG0197J	50S ribosomal protein L16
+630365..630571	+	68	32491300	rpmC	WGLp551	-	COG0255J	hypothetical protein
+630537..630815	+	92	32491301	rpsQ	WGLp552	-	COG0186J	30S ribosomal protein S17
+630921..631292	+	123	32491302	rplN	WGLp553	-	COG0093J	50S ribosomal protein L14
+631310..631624	+	104	32491303	rplX	WGLp554	-	COG0198J	hypothetical protein
+631643..632179	+	178	32491304	rplE	WGLp555	-	COG0094J	50S ribosomal protein L5
+632189..632494	+	101	32491305	rpsN	WGLp556	-	COG0199J	hypothetical protein
+632514..632906	+	130	32491306	rpsH	WGLp557	-	COG0096J	30S ribosomal protein S8
+632926..633462	+	178	32491307	rplF	WGLp558	-	COG0097J	50S ribosomal protein L6
+633466..633819	+	117	32491308	rplR	WGLp559	-	COG0256J	50S ribosomal protein L18
+633838..634338	+	166	32491309	rpsE	WGLp560	-	COG0098J	30S ribosomal protein S5
+634349..634525	+	58	32491310	rpmD	WGLp561	-	COG1841J	hypothetical protein
+634529..634963	+	144	32491311	rplO	WGLp562	-	COG0200J	50S ribosomal protein L15
+634963..636312	+	449	32491312	secY	WGLp563	-	COG0201U	preprotein translocase subunit SecY
+636330..636446	+	38	32491313	rpmJ	WGLp564	-	COG0257J	hypothetical protein
+636557..636913	+	118	32491314	rpsM	WGLp565	-	COG0099J	30S ribosomal protein S13
+636932..637327	+	131	32491315	rpsK	WGLp566	-	COG0100J	30S ribosomal protein S11
+637350..637970	+	206	161347492	rpsD	WGLp567	-	COG0522J	30S ribosomal protein S4
+638000..638986	+	328	32491317	rpoA	WGLp568	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+638999..639367	+	122	32491318	rplQ	WGLp569	-	COG0203J	hypothetical protein
+639483..639911	+	142	32491319	ndk	WGLp570	-	COG0105F	hypothetical protein
+639914..641062	+	382	32491320	yfgB	WGLp571	-	COG0820R	hypothetical protein
+641232..641708	+	158	32491321	yfgA	WGLp572	-	COG1426S	hypothetical protein
+641779..642879	+	366	32491322	gcpE	WGLp573	-	COG0821I	hypothetical protein
+642902..644200	+	432	32491323	hisS	WGLp574	-	COG0124J	hypothetical protein
+644295..644696	+	133	32491324	yfgM	WGLp575	-	COG2976S	hypothetical protein
+644792..646162	+	456	32491325	b2511	WGLp576	-	COG1160R	hypothetical protein
+646210..647835	-	541	32491326	pckA	WGLp577	-	COG1866C	phosphoenolpyruvate carboxykinase
+648271..648831	+	186	32491327	aroK	WGLp578	-	COG0703E	hypothetical protein
+649280..650104	+	274	32491328	damX	WGLp579	-	COG3266S	hypothetical protein
+650195..650896	+	233	32491329	rpe	WGLp580	-	COG0036G	hypothetical protein
+650913..651917	+	334	32491330	trpS	WGLp581	-	COG0180J	tryptophanyl-tRNA synthetase
+651914..653923	-	669	32491331	tktB	WGLp582	-	COG0021G	transketolase
+653926..654885	-	319	32491332	talA	WGLp583	-	COG0176G	transaldolase B
+655014..655925	-	303	32491333	hemF	WGLp584	-	COG0408H	coproporphyrinogen III oxidase
+656084..656863	+	259	32491334	bioH	WGLp585	-	COG0596R	hypothetical protein
+656931..657245	+	104	32491335	emrE	WGLp586	-	COG2076P	hypothetical protein
+657618..659255	-	545	32491336	asnB	WGLp587	-	COG0367E	asparagine synthetase B
+659401..659997	-	198	32491337	b1728	WGLp588	-	COG1988R	hypothetical protein
+660030..661433	-	467	32491338	glnA	WGLp589	-	COG0174E	hypothetical protein
+661526..661987	-	153	32491339	pyrI	WGLp590	-	COG1781F	aspartate carbamoyltransferase regulatory subunit
+662318..664765	+	815	32491340	thrA	WGLp591	-	COG0527E	hypothetical protein
+664788..665825	-	345	32491341	Wg001	WGLp592	-	COG0628R	hypothetical protein
+665990..666898	+	302	32491342	glyQ	WGLp593	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+666895..668979	+	694	32491343	glyS	WGLp594	-	COG0751J	hypothetical protein
+669031..669657	-	208	32491344	sodA	WGLp595	-	COG0605P	hypothetical protein
+669724..671514	-	596	32491345	mrcB	WGLp596	-	COG0744M	hypothetical protein
+672550..674235	+	561	32491346	proS	WGLp597	-	COG0442J	prolyl-tRNA synthetase
+674329..675975	+	548	32491347	pgi	WGLp598	-	COG0166G	glucose-6-phosphate isomerase
+675981..676487	-	168	32491348	mreD	WGLp599	-	COG2891M	hypothetical protein
+676502..677410	-	302	32491349	mreC	WGLp600	-	COG1792M	hypothetical protein
+677464..678507	-	347	32491350	mreB	WGLp601	-	COG1077D	rod shape-determining protein MreB
+678993..679451	+	152	32491351	accB	WGLp602	-	COG0511I	hypothetical protein
+679455..680792	+	445	32491352	accC	WGLp603	-	COG0439I	hypothetical protein
+685954..687486	-	510	32491353	yojH	WGLp604	-	COG0579R	malate:quinone oxidoreductase
+687812..689275	+	487	32491354	guaB	WGLp605	-	COG0516F	hypothetical protein
+689380..690948	+	522	32491355	guaA	WGLp606	-	COG0519F	GMP synthase
+690979..691842	+	287	32491356	yicC	WGLp607	-	COG1561S	hypothetical protein
+691957..693834	+	625	32491357	kup	WGLp608	-	COG3158P	hypothetical protein
+693847..694821	-	324	32491358	nrdF	WGLp609	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+694843..696957	-	704	32491359	nrdE	WGLp610	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+696950..697375	-	141	32491360	nrdI	WGLp611	-	COG1780F	ribonucleotide reductase stimulatory protein

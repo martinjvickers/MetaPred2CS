@@ -1,0 +1,756 @@
+Borrelia burgdorferi B31 chromosome, complete genome - 1..910724
+753 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+105..677	+	190	15594347	-	BB_0001	-	-	hypothetical protein
+768..1796	-	342	15594348	-	BB_0002	-	COG1472G	beta-N-acetylhexosaminidase
+3419..5188	+	589	365992270	-	BB_0004	-	-	phosphoglucomutase
+5251..6306	-	351	365992271	trpS	BB_0005	-	-	tryptophanyl-tRNA synthetase
+6309..7397	-	362	365992272	-	BB_0006	-	-	membrane protein
+7458..8315	-	285	15594353	-	BB_0007	-	-	hypothetical protein
+8427..9197	+	256	365992273	-	BB_0008	-	-	hypothetical protein
+9202..10206	+	334	15594355	-	BB_0009	-	-	hypothetical protein
+10203..10577	+	124	15594356	-	BB_0010	-	COG0736I	holo-acyl-carrier protein synthase
+10581..11420	+	279	15594357	-	BB_0011	-	COG1655S	hypothetical protein
+11421..12161	+	246	15594358	truA	BB_0012	-	COG0101J	tRNA pseudouridine synthase A
+12154..12753	+	199	15594359	-	BB_0013	-	-	hypothetical protein
+12746..14728	+	660	15594360	priA	BB_0014	-	COG1198L	primosomal protein N
+14725..15345	-	206	365992274	udk	BB_0015	-	-	uridine kinase
+15345..15716	-	123	365992275	-	BB_0016	-	-	GlpE protein
+15995..16804	+	269	365992276	-	BB_0017	-	-	hypothetical protein
+17792..18304	-	170	15594365	-	BB_0019	-	-	hypothetical protein
+21058..22101	-	347	15594368	ruvB	BB_0022	-	COG2255L	Holliday junction DNA helicase RuvB
+22146..22739	-	197	15594369	ruvA	BB_0023	-	COG0632L	Holliday junction DNA helicase RuvA
+22819..23958	+	379	15594370	-	BB_0024	-	COG2133G	hypothetical protein
+23965..24696	-	243	15594371	-	BB_0025	-	COG0217S	hypothetical protein
+24697..25623	-	308	15594372	-	BB_0026	-	COG0190H	methylenetetrahydrofolate dehydrogenase
+25753..26391	+	212	15594373	-	BB_0027	-	-	hypothetical protein
+26399..27448	+	349	15594374	-	BB_0028	-	-	hypothetical protein
+27434..27865	-	143	15594375	-	BB_0029	-	COG1671S	hypothetical protein
+27855..28490	-	211	15594376	lepB	BB_0030	-	-	signal peptidase I
+28492..29472	-	326	15594377	lepB	BB_0031	-	COG0681U	signal peptidase I
+29543..31015	+	490	15594378	-	BB_0032	-	COG1262S	hypothetical protein
+31027..31479	+	150	15594379	smpB	BB_0033	-	COG0691O	SsrA-binding protein
+31550..32089	-	179	15594380	-	BB_0034	-	-	hypothetical protein
+32157..34037	-	626	15594381	-	BB_0035	-	COG0188L	DNA topoisomerase IV subunit A
+34037..35836	-	599	15594382	-	BB_0036	-	COG0187L	DNA topoisomerase IV subunit B
+35857..36609	-	250	15594383	-	BB_0037	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+38136..39638	-	500	15594385	-	BB_0039	-	-	hypothetical protein
+39826..40677	+	283	15594386	cheR	BB_0040	-	COG1352NT	chemotaxis protein CheR
+40761..41432	-	223	15594388	phoU	BB_0042	-	COG0704P	phosphate transport system regulatory protein
+41443..42483	-	346	15594389	-	BB_0043	-	-	hypothetical protein
+42480..42881	-	133	15594390	-	BB_0044	-	-	hypothetical protein
+42907..45354	-	815	365992277	-	BB_0045	-	-	P115 protein
+45446..45991	+	181	15594392	rnhB	BB_0046	-	COG0164L	ribonuclease HII
+46011..46379	-	122	365992278	-	BB_0047	-	-	hypothetical protein
+46601..46771	-	56	15594394	-	BB_0048	-	-	hypothetical protein
+47167..47841	+	224	15594396	-	BB_0050	-	COG1738S	hypothetical protein
+47917..48606	+	229	365992279	-	BB_0051	-	-	hypothetical protein
+48603..49259	-	218	15594398	-	BB_0052	-	COG0566J	SpoU protein
+49341..50012	+	223	15594399	ung	BB_0053	-	COG0692L	uracil-DNA glycosylase
+50112..50474	-	120	365992280	-	BB_0054	-	-	putative protein-export membrane protein SecG
+50490..51251	-	253	15594401	tpiA	BB_0055	-	COG0149G	triosephosphate isomerase
+51253..52434	-	393	15594402	pgk	BB_0056	-	COG0126G	phosphoglycerate kinase
+52454..53461	-	335	15594403	gap	BB_0057	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+53534..55504	-	656	15594404	-	BB_0058	-	COG2956G	hypothetical protein
+55501..56280	-	259	15594405	-	BB_0059	-	COG1253R	hemolysin C
+56281..56748	-	155	15594406	-	BB_0060	-	COG0319R	metal-binding heat shock protein
+56832..57185	-	117	15594407	trx	BB_0061	-	COG3118O	thioredoxin
+57259..57975	+	238	15594408	-	BB_0062	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+58029..58982	-	317	365992281	-	BB_0063	-	-	pasta domain protein
+59101..60039	-	312	15594410	fmt	BB_0064	-	COG0223J	methionyl-tRNA formyltransferase
+60036..60533	-	165	365992282	def	BB_0065	-	-	peptide deformylase
+60568..61257	-	229	15594412	-	BB_0066	-	-	hypothetical protein
+63147..64028	+	293	15594414	-	BB_0068	-	COG0561R	hypothetical protein
+64038..65276	+	412	15594415	-	BB_0069	-	COG2309E	aminopeptidase II
+65291..65752	+	153	15594416	-	BB_0070	-	COG1963S	hypothetical protein
+67248..69569	+	773	15594418	-	BB_0072	-	COG4656C	hypothetical protein
+69566..70126	+	186	15594419	-	BB_0073	-	-	hypothetical protein
+70142..71219	+	358	365992283	prfB	BB_0074	-	-	peptide chain release factor 2
+71201..72610	+	469	15594421	-	BB_0075	-	-	hypothetical protein
+72647..73492	+	281	15594422	ftsY	BB_0076	-	COG0552U	signal recognition particle-docking protein FtsY
+75774..76454	+	226	365992284	-	BB_0080	-	-	ABC transporter ATP-binding protein
+76451..77701	+	416	15594427	-	BB_0081	-	COG4591M	hypothetical protein
+77711..79009	-	432	15594428	-	BB_0082	-	-	hypothetical protein
+79002..79322	-	106	365992285	-	BB_0083	-	-	hypothetical protein
+79505..80773	+	422	15594430	-	BB_0084	-	COG0520E	aminotransferase
+80983..81408	+	141	15594431	-	BB_0085	-	COG0822C	hypothetical protein
+81405..82940	+	511	15594432	-	BB_0086	-	COG0606O	hypothetical protein
+82970..83920	-	316	15594433	-	BB_0087	-	COG0039C	L-lactate dehydrogenase
+84041..85720	-	559	15594434	lepA	BB_0088	-	COG0481M	GTP-binding protein LepA
+85880..86854	-	324	15594435	-	BB_0089	-	-	hypothetical protein
+86926..87360	-	144	15594436	-	BB_0090	-	-	V-type ATP synthase subunit K
+89200..89808	-	202	365992286	-	BB_0092	-	-	V-type ATPase subunit D
+89811..91115	-	434	15594439	-	BB_0093	-	COG1156C	V-type ATP synthase subunit B
+92878..93423	-	181	15594441	-	BB_0095	-	-	hypothetical protein
+93433..94032	-	199	365992287	-	BB_0096	-	-	V-type ATP synthase subunit E (V-type ATPase subunit E)
+94219..94605	-	128	15594443	-	BB_0097	-	-	hypothetical protein
+94611..96953	-	780	15594444	-	BB_0098	-	COG1193L	recombination and DNA strand exchange inhibitor protein
+96943..97866	-	307	15594445	rsgA	BB_0099	-	COG1162R	hypothetical protein
+97863..98648	-	261	15594446	murI	BB_0100	-	COG0796M	glutamate racemase
+98817..100205	+	462	365992288	asnS	BB_0101	-	-	asparaginyl-tRNA synthetase
+100228..100749	+	173	15594448	-	BB_0102	-	-	hypothetical protein
+100746..101339	-	197	15594449	-	BB_0103	-	COG2236R	hypothetical protein
+101525..102949	-	474	365992289	-	BB_0104	-	-	periplasmic serine protease DO
+103016..103771	-	251	15594451	map	BB_0105	-	COG0024J	methionine aminopeptidase
+103764..105299	-	511	365992290	-	BB_0106	-	-	hypothetical protein
+105418..105846	-	142	365992291	nusB	BB_0107	-	-	transcription antitermination factor NusB
+105884..106894	-	336	15594454	-	BB_0108	-	COG0760O	basic membrane protein
+106974..108170	-	398	15594455	-	BB_0109	-	COG0183I	acetyl-CoA C-acetyltransferase
+108307..109671	+	454	15594456	-	BB_0110	-	-	hypothetical protein
+109675..111042	-	455	15594457	dnaB	BB_0111	-	COG0305L	DNA helicase
+111046..111567	-	173	15594458	rplI	BB_0112	-	COG0359J	50S ribosomal protein L9
+111585..111875	-	96	15594459	rpsR	BB_0113	-	COG0238J	30S ribosomal protein S18
+111889..112338	-	149	15594460	-	BB_0114	-	COG0629L	single-stranded DNA-binding protein
+112350..112769	-	139	15594461	-	BB_0115	-	COG0360J	30S ribosomal protein S6
+112909..114603	-	564	365992292	-	BB_0116	-	-	pts system, maltose and glucose-specific iiabc component
+114807..115508	+	233	15594463	-	BB_0117	-	COG1272R	hemolysin III
+115505..116806	-	433	365992293	rseP	BB_0118	-	-	RIP metalloprotease RseP
+117678..118370	-	230	15594465	uppS	BB_0120	-	COG0020I	undecaprenyl pyrophosphate synthase
+118375..118929	-	184	15594466	frr	BB_0121	-	COG0233J	ribosome recycling factor
+118964..119803	-	279	15594467	tsf	BB_0122	-	COG0264J	elongation factor Ts
+119807..120589	-	260	15594468	rpsB	BB_0123	-	COG0052J	30S ribosomal protein S2
+120804..121082	-	92	15594469	-	BB_0124	-	-	hypothetical protein
+121101..121823	-	240	15594470	-	BB_0125	-	-	hypothetical protein
+121880..122491	-	203	15594471	-	BB_0126	-	-	hypothetical protein
+122491..124146	-	551	365992294	-	BB_0127	-	-	30S ribosomal protein S1
+124149..124814	-	221	15594473	cmk	BB_0128	-	COG0283F	cytidylate kinase
+124798..125547	-	249	15594474	-	BB_0129	-	COG1187J	hypothetical protein
+125534..126301	-	255	15594475	-	BB_0130	-	-	hypothetical protein
+126316..127413	-	365	15594476	recA	BB_0131	-	COG0468L	recombinase A
+127427..130132	-	901	15594477	-	BB_0132	-	COG1747S	transcript cleavage factor/unknown domain fusion protein
+130170..131114	-	314	15594478	-	BB_0133	-	-	hypothetical protein
+131298..132425	+	375	365992295	-	BB_0134	-	-	hypothetical protein
+132472..133842	-	456	365992296	hisS	BB_0135	-	-	histidyl-tRNA synthetase
+133975..135864	+	629	15594481	-	BB_0136	-	COG0768M	penicillin-binding protein
+135874..137766	-	630	15594482	-	BB_0137	-	COG1022I	long-chain-fatty-acid CoA ligase
+137880..138089	-	69	15594483	-	BB_0138	-	-	hypothetical protein
+138434..138745	-	103	365992297	-	BB_0139	-	-	hypothetical protein
+141979..142932	-	317	365992298	-	BB_0141	-	-	membrane fusion protein
+142944..144230	-	428	365992299	-	BB_0142	-	-	outer membrane efflux protein
+144307..144597	+	96	15594488	-	BB_0143	-	COG0759S	hypothetical protein
+144586..145458	-	290	15594489	-	BB_0144	-	COG2113E	glycine/betaine ABC transporter substrate-binding protein
+145471..146370	-	299	15594490	-	BB_0145	-	COG4176E	glycine/betaine ABC transporter permease
+146377..147495	-	372	15594491	-	BB_0146	-	COG4175E	glycine/betaine ABC transporter ATP-binding protein
+147649..148659	-	336	15594492	-	BB_0147	-	COG1344N	flagellin
+150974..152179	+	401	15594496	nagA	BB_0151	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+152206..153012	+	268	15594497	nagB	BB_0152	-	COG0363G	glucosamine-6-phosphate deaminase
+153075..153686	-	203	365992300	-	BB_0153	-	-	superoxide dismutase [Mn] (General stress protein 24)(GSP24)
+153701..156400	-	899	15594499	secA	BB_0154	-	COG0653U	preprotein translocase subunit SecA
+156462..157598	+	378	15594500	-	BB_0155	-	-	hypothetical protein
+157627..158061	+	144	15594501	-	BB_0156	-	-	hypothetical protein
+158076..158474	+	132	365992301	-	BB_0157	-	-	hypothetical protein
+158628..159344	+	238	15594503	-	BB_0158	-	-	antigen, S2
+159368..160042	+	224	15594504	-	BB_0159	-	-	hypothetical protein
+160090..161208	+	372	15594505	alr	BB_0160	-	COG0787M	alanine racemase
+161200..162801	-	533	365992302	-	BB_0161	-	-	hypothetical protein
+162878..163045	+	55	15594507	-	BB_0162	-	-	hypothetical protein
+163072..164820	-	582	15594508	-	BB_0163	-	-	hypothetical protein
+164901..165887	-	328	365992303	-	BB_0164	-	-	putative K+-dependent Na+/Ca+ exchanger-like protein
+165915..167759	-	614	15594510	-	BB_0165	-	COG1306S	hypothetical protein
+167879..169399	-	506	15594511	malQ	BB_0166	-	COG1640G	4-alpha-glucanotransferase
+169563..170708	+	381	365992304	-	BB_0167	-	-	outer membrane protein
+170720..171097	-	125	15594513	-	BB_0168	-	COG1734T	dnaK suppressor
+171263..171484	+	73	365992305	infA	BB_0169	-	-	translation initiation factor IF-1
+171532..173535	-	667	365992306	-	BB_0170	-	-	hypothetical protein
+173529..174116	-	195	15594516	-	BB_0171	-	-	hypothetical protein
+174098..174970	-	290	365992307	-	BB_0172	-	-	von Willebrand factor type A domain-containing protein
+176069..176974	-	301	15594519	-	BB_0174	-	-	hypothetical protein
+176978..177853	-	291	15594520	-	BB_0175	-	COG1721R	hypothetical protein
+177868..178860	-	330	365992308	-	BB_0176	-	-	ATPase family associated with various cellular activities (AAA), putative
+178917..179543	-	208	15594522	gidB	BB_0177	-	COG0357M	glucose inhibited division protein B
+179540..181405	-	621	365992309	gidA	BB_0178	-	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+181408..182802	-	464	15594524	trmE	BB_0179	-	COG0486R	tRNA modification GTPase TrmE
+182886..183380	+	164	15594525	-	BB_0180	-	-	flagellar protein
+186554..186946	+	130	15594528	-	BB_0183	-	COG1699S	flagellar assembly protein FliW
+186949..187194	+	81	15594529	csrA	BB_0184	-	COG1551T	carbon storage regulator
+187178..187831	-	217	15594530	-	BB_0185	-	COG1214O	hypothetical protein
+187824..188237	-	137	15594531	-	BB_0186	-	COG0802R	hypothetical protein
+188234..188494	-	86	15594532	-	BB_0187	-	-	hypothetical protein
+189076..189276	-	66	15594534	rpmI	BB_0189	-	COG0291J	50S ribosomal protein L35
+189299..189859	-	186	15594535	infC	BB_0190	-	COG0290J	translation initiation factor IF-3
+190187..190717	+	176	365992310	-	BB_0192	-	-	hypothetical protein
+190719..191459	+	246	15594538	-	BB_0193	-	-	hypothetical protein
+191518..192327	-	269	15594539	-	BB_0194	-	COG0084L	hypothetical protein
+192324..193463	-	379	15594540	-	BB_0195	-	COG2956G	cell division control protein 27
+194876..195736	+	286	15594542	-	BB_0197	-	COG2890J	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+195693..197696	+	667	15594543	-	BB_0198	-	COG0317TK	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+199965..201050	-	361	365992311	-	BB_0200	-	-	D-alanine--D-alanine ligase
+201052..202578	-	508	15594546	-	BB_0201	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+202850..204088	+	412	15594547	-	BB_0202	-	COG1253R	hemolysin
+204137..205072	+	311	15594548	hflK	BB_0203	-	COG0330O	lambda CII stability-governing protein
+205175..206044	+	289	365992312	hflC	BB_0204	-	-	HflC protein
+206529..208106	+	525	15594550	-	BB_0205	-	COG2206T	hypothetical protein
+208084..208581	-	165	365992313	-	BB_0206	-	-	putative methyltransferase
+211301..212068	+	255	15594554	-	BB_0209	-	-	hypothetical protein
+215427..217259	+	610	15594556	-	BB_0211	-	COG0323L	DNA mismatch repair protein
+217278..218312	+	344	15594557	-	BB_0212	-	-	hypothetical protein
+218425..219078	-	217	15594558	-	BB_0213	-	-	hypothetical protein
+219056..219634	-	192	15594559	efp	BB_0214	-	COG0231J	elongation factor P
+219800..220639	+	279	365992314	-	BB_0215	-	-	phosphate ABC transporter substrate-binding protein
+220729..221637	+	302	15594561	pstC	BB_0216	-	COG0573P	phosphate ABC transporter permease
+221742..223178	+	478	365992315	pstA	BB_0217	-	-	phosphate ABC transporter, permease protein PstA
+223179..223961	+	260	15594563	pstB	BB_0218	-	COG1117P	phosphate ABC transporter ATP-binding protein
+223964..224785	-	273	15594564	-	BB_0219	-	COG0428P	gufA protein
+224826..226610	-	594	15594565	-	BB_0220	-	COG0013J	alanyl-tRNA synthetase
+226610..227827	-	405	365992316	-	BB_0221	-	-	flagellar motor switch protein
+227814..228521	-	235	15594567	-	BB_0222	-	COG0363G	glucose-6-phosphate 1-dehydrogenase
+229217..230224	+	335	15594570	-	BB_0225	-	COG0042J	tRNA-dihydrouridine synthase A
+230214..231491	-	425	15594571	serS	BB_0226	-	COG0172J	seryl-tRNA synthetase
+231621..232322	+	233	15594572	-	BB_0227	-	-	hypothetical protein
+232338..235253	+	971	15594573	-	BB_0228	-	COG1026R	hypothetical protein
+235289..235534	-	81	15594574	rpmE	BB_0229	-	COG0254J	50S ribosomal protein L31
+235595..237142	-	515	15594575	rho	BB_0230	-	COG1158K	transcription termination factor Rho
+237222..237629	-	135	15594576	-	BB_0231	-	COG1664M	hypothetical protein
+237630..237956	-	108	15594577	hbb	BB_0232	-	COG0776L	hbbU protein
+237969..238226	-	85	161511081	rpsT	BB_0233	-	COG0268J	30S ribosomal protein S20
+238301..239128	-	275	15594579	-	BB_0234	-	-	hypothetical protein
+239144..240250	-	368	15594580	ychF	BB_0235	-	COG0012J	GTP-binding protein YchF
+240283..242289	-	668	15594581	-	BB_0236	-	-	hypothetical protein
+242438..244003	+	521	15594582	lnt	BB_0237	-	COG0815M	apolipoprotein N-acyltransferase
+243943..244713	-	256	365992317	-	BB_0238	-	-	hypothetical protein
+244777..245382	-	201	365992318	-	BB_0239	-	-	deoxyguanosine/deoxyadenosine kinase
+245790..246554	+	254	15594585	-	BB_0240	-	COG0580G	glycerol uptake facilitator
+246597..248102	+	501	15594586	glpK	BB_0241	-	COG0554C	glycerol kinase
+248156..248434	+	92	15594587	-	BB_0242	-	-	hypothetical protein
+248506..250089	+	527	15594588	-	BB_0243	-	COG0578C	glycerol-3-phosphate dehydrogenase
+250176..250670	-	164	15594589	-	BB_0244	-	COG1728S	hypothetical protein
+250657..251211	-	184	15594590	-	BB_0245	-	COG1664M	hypothetical protein
+251212..252237	-	341	15594591	-	BB_0246	-	COG0739M	hypothetical protein
+252434..253039	+	201	15594592	rdgB	BB_0247	-	COG0127F	putative deoxyribonucleotide triphosphate pyrophosphatase
+253159..254931	+	590	15594593	pepF	BB_0248	-	COG1164E	oligoendopeptidase F
+254945..255649	+	234	15594594	-	BB_0249	-	COG1183I	phosphatidyltransferase
+255646..256260	+	204	15594595	-	BB_0250	-	COG0586S	DedA protein
+256463..258985	+	840	15594596	leuS	BB_0251	-	COG0495J	leucyl-tRNA synthetase
+261292..263712	-	806	15594598	lon	BB_0253	-	COG0466O	ATP-dependent protease LA
+263988..266114	+	708	15594599	recJ	BB_0254	-	COG0608L	single-stranded-DNA-specific exonuclease
+266107..267051	+	314	365992319	-	BB_0255	-	-	M23 peptidase domain-containing protein
+267066..267275	+	69	15594601	rpsU	BB_0256	-	COG0828J	30S ribosomal protein S21
+269673..270473	-	266	15594603	-	BB_0258	-	COG1968V	undecaprenyl pyrophosphate phosphatase
+270488..272641	-	717	365992320	-	BB_0259	-	-	transglycosylase SLT domain protein
+272634..273647	-	337	15594605	-	BB_0260	-	-	hypothetical protein
+273857..275236	+	459	365992321	-	BB_0261	-	-	hypothetical protein
+275243..276496	-	417	15594607	-	BB_0262	-	COG0739M	hypothetical protein
+276672..277064	+	130	365992322	lepB	BB_0263	-	-	signal peptidase I
+277090..278559	-	489	365992323	-	BB_0264	-	-	heat shock protein 70
+278537..279058	-	173	15594610	-	BB_0265	-	-	hypothetical protein
+279078..279380	-	100	365992324	-	BB_0266	-	-	hypothetical protein
+279407..281311	-	634	15594612	-	BB_0267	-	COG1315L	hypothetical protein
+281314..281793	-	159	15594613	-	BB_0268	-	-	hypothetical protein
+281800..282687	-	295	15594614	-	BB_0269	-	COG0455D	ATP-binding protein
+282699..283865	-	388	15594615	-	BB_0270	-	COG1419N	flagellar biosynthesis regulator FlhF
+283869..285962	-	697	15594616	flhA	BB_0271	-	COG1298NU	flagellar biosynthesis protein FlhA
+285971..287089	-	372	15594617	flhB	BB_0272	-	COG1377NU	flagellar biosynthesis protein FlhB
+287089..287877	-	262	365992325	fliR	BB_0273	-	-	flagellar biosynthetic protein FliR
+287910..288173	-	87	15594619	fliQ	BB_0274	-	COG1987NU	flagellar biosynthesis protein FliQ
+288182..288946	-	254	15594620	fliP	BB_0275	-	COG1338NU	flagellar biosynthesis protein FliP
+288957..289583	-	208	15594621	-	BB_0276	-	-	flagellar biosynthesis protein FliZ
+289576..289917	-	113	15594622	-	BB_0277	-	COG1886NU	flagellar motor switch protein FliN
+289963..291021	-	352	15594623	fliM	BB_0278	-	COG1868N	flagellar motor switch protein FliM
+291059..291595	-	178	15594624	fliL	BB_0279	-	COG1580N	flagellar basal body-associated protein FliL
+291644..292426	-	260	15594625	-	BB_0280	-	COG1360N	flagellar motor protein MotB
+292426..293208	-	260	15594626	-	BB_0281	-	COG1291N	flagellar motor rotation protein A
+293205..293429	-	74	15594627	-	BB_0282	-	COG1582N	flagellar protein FlbD
+293452..294780	-	442	15594628	-	BB_0283	-	COG1749N	flagellar hook protein FlgE
+294785..295228	-	147	15594629	flgD	BB_0284	-	COG1843N	flagellar basal body rod modification protein
+295242..296420	-	392	365992326	-	BB_0285	-	-	flagellar protein
+296428..297045	-	205	365992327	-	BB_0286	-	-	flagellar protein
+297038..297469	-	143	15594632	-	BB_0287	-	-	flagellar protein FlbA
+297466..298776	-	436	15594633	fliI	BB_0288	-	COG1157NU	flagellum-specific ATP synthase FliI
+298795..299715	-	306	15594634	-	BB_0289	-	COG1317NU	flagellar assembly protein H
+299730..300764	-	344	15594635	fliG	BB_0290	-	COG1536N	flagellar motor switch protein G
+300780..302489	-	569	15594636	fliF	BB_0291	-	COG1766NU	flagellar MS-ring protein
+302504..302839	-	111	15594637	fliE	BB_0292	-	COG1677NU	flagellar hook-basal body protein FliE
+302851..303309	-	152	15594638	flgC	BB_0293	-	COG1558N	flagellar basal body rod protein FlgC
+303333..303740	-	135	15594639	flgB	BB_0294	-	COG1815N	flagellar basal body rod protein FlgB
+303774..305120	-	448	365992328	hslU	BB_0295	-	-	heat shock protein HslVU, ATPase subunit HslU
+305113..305661	-	182	15594641	-	BB_0296	-	COG5405O	ATP-dependent protease subunit HslV
+305671..306615	-	314	365992329	-	BB_0297	-	-	protein smf
+306625..307317	-	230	15594643	-	BB_0298	-	-	hypothetical protein
+307318..308517	-	399	365992330	ftsZ	BB_0299	-	-	cell division protein FtsZ
+308539..309780	-	413	15594645	ftsA	BB_0300	-	COG0849D	cell division protein FtsA
+309780..310523	-	247	15594646	-	BB_0301	-	COG1589M	cell division protein B
+310559..311617	-	352	365992331	ftsW	BB_0302	-	-	cell division protein FtsW
+311660..312715	-	351	15594648	mraY	BB_0303	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+312729..314123	-	464	15594649	-	BB_0304	-	COG0770M	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+314146..314427	-	93	15594650	-	BB_0305	-	-	hypothetical protein
+314424..315314	-	296	15594651	mraW	BB_0306	-	COG0275M	hypothetical protein
+315307..316143	-	278	15594652	-	BB_0307	-	-	hypothetical protein
+316140..317216	-	358	15594653	-	BB_0308	-	-	hypothetical protein
+317247..318005	-	252	365992332	-	BB_0309	-	-	hypothetical protein
+318277..319116	-	279	365992333	-	BB_0311	-	-	putative inorganic polyphosphate/ATP-NAD kinase (Poly(P)/ATP NAD kinase)
+319106..319636	-	176	15594657	-	BB_0312	-	COG0835NT	chemotaxis protein CheW
+319680..320249	-	189	365992334	rrmJ	BB_0313	-	-	ribosomal RNA large subunit methyltransferase J
+320309..321352	+	347	15594659	-	BB_0314	-	COG0142H	octaprenyl-diphosphate synthase
+321352..322038	+	228	15594660	-	BB_0315	-	-	hypothetical protein
+322040..322846	-	268	15594661	-	BB_0316	-	COG1079R	hypothetical protein
+322847..323779	-	310	15594662	-	BB_0317	-	COG4603R	hypothetical protein
+323776..325236	-	486	15594663	-	BB_0318	-	COG1129G	methylgalactoside ABC transporter ATP-binding protein
+325236..326288	-	350	15594664	-	BB_0319	-	COG1744R	hypothetical protein
+326469..326666	-	65	15594666	-	BB_0321	-	-	hypothetical protein
+326699..327757	-	352	15594667	-	BB_0322	-	-	hypothetical protein
+328032..329165	+	377	15594668	-	BB_0323	-	COG1652S	hypothetical protein
+329262..329621	+	119	15594669	-	BB_0324	-	-	hypothetical protein
+329643..330752	-	369	15594670	-	BB_0325	-	-	hypothetical protein
+330803..333598	-	931	15594671	-	BB_0326	-	COG3063NU	hypothetical protein
+333619..334515	-	298	15594672	-	BB_0327	-	-	glycerol-3-phosphate O-acyltransferase
+334937..336508	+	523	365992335	-	BB_0328	-	-	family 5 extracellular solute-binding protein
+338358..339983	+	541	15594675	-	BB_0330	-	COG4166E	peptide ABC transporter substrate-binding protein
+340062..340217	-	51	15594676	-	BB_0331	-	-	hypothetical protein
+340341..341261	+	306	15594677	-	BB_0332	-	COG0601EP	peptide ABC transporter permease
+341274..342323	+	349	15594678	-	BB_0333	-	COG1173EP	peptide ABC transporter permease
+342335..343207	+	290	15594679	-	BB_0334	-	COG0444EP	peptide ABC transporter ATP-binding protein
+343208..344179	+	323	15594680	-	BB_0335	-	COG1123R	peptide ABC transporter ATP-binding protein
+345063..346364	+	433	15594682	eno	BB_0337	-	COG0148G	enolase
+346431..346841	-	136	15594683	rpsI	BB_0338	-	COG0103J	30S ribosomal protein S9
+346861..347301	-	146	15594684	rplM	BB_0339	-	COG0102J	50S ribosomal protein L13
+347351..348160	-	269	15594685	-	BB_0340	-	-	hypothetical protein
+348153..349610	-	485	15594686	-	BB_0341	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+349600..351045	-	481	365992336	-	BB_0342	-	-	glutamyl-tRNA(Gln) amidotransferase subunit A
+351056..351331	-	91	15594688	gatC	BB_0343	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+351341..353437	-	698	365992337	-	BB_0344	-	-	DNA helicase
+353440..354636	-	398	15594690	-	BB_0345	-	COG1426S	hypothetical protein
+354648..355298	-	216	15594691	-	BB_0346	-	COG2834M	hypothetical protein
+355491..356909	+	472	365992338	-	BB_0347	-	-	fibronectin/fibrinogen-binding protein, putative
+357007..358440	+	477	15594693	pyk	BB_0348	-	COG0469G	pyruvate kinase
+358458..359198	+	246	15594694	-	BB_0349	-	-	hypothetical protein
+359217..359495	-	92	15594695	rpmB	BB_0350	-	COG0227J	50S ribosomal protein L28
+359513..361078	-	521	365992339	-	BB_0351	-	-	hypothetical protein
+361188..362321	+	377	15594697	-	BB_0352	-	-	hypothetical protein
+362318..364117	-	599	15594698	-	BB_0353	-	-	hypothetical protein
+364130..364972	-	280	365992340	-	BB_0354	-	-	hypothetical protein
+365115..365603	-	162	15594700	-	BB_0355	-	COG1329K	transcription factor
+366229..366960	-	243	15594703	-	BB_0358	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+368456..368881	+	141	15594705	-	BB_0360	-	-	hypothetical protein
+368885..370027	+	380	15594706	-	BB_0361	-	COG0455D	ATP-binding protein
+370027..371013	+	328	15594707	lgt	BB_0362	-	COG0682M	prolipoprotein diacylglyceryl transferase
+371034..373046	+	670	15594708	-	BB_0363	-	COG2200T	hypothetical protein
+373140..373520	+	126	15594709	mgsA	BB_0364	-	COG1803G	methylglyoxal synthase
+373567..374151	-	194	15594710	la7	BB_0365	-	-	lipoprotein LA7
+374277..375653	+	458	15594711	-	BB_0366	-	COG1362E	putative aminopeptidase
+375661..375939	+	92	15594712	-	BB_0367	-	COG1264G	hypothetical protein
+375961..377019	-	352	365992341	-	BB_0368	-	-	glycerol-3-phosphate dehydrogenase
+377039..379258	-	739	365992342	-	BB_0369	-	-	ATP-dependent Clp protease, subunit A
+379341..380558	-	405	15594715	tyrS	BB_0370	-	COG0162J	tyrosyl-tRNA synthetase
+380555..381892	-	445	15594716	glyS	BB_0371	-	COG0423J	glycyl-tRNA synthetase
+381910..383382	-	490	15594717	gltX	BB_0372	-	COG0008J	glutamyl-tRNA synthetase
+383395..384162	-	255	15594718	-	BB_0373	-	-	hypothetical protein
+384287..385426	+	379	15594719	-	BB_0374	-	COG2206T	hypothetical protein
+385449..386162	+	237	15594720	pfs	BB_0375	-	COG0775F	pfs protein
+386159..387337	+	392	15594721	metK	BB_0376	-	COG0192H	S-adenosylmethionine synthetase
+387334..387807	+	157	161511080	luxS	BB_0377	-	COG1854T	S-ribosylhomocysteinase
+387818..388480	-	220	15594723	-	BB_0378	-	-	hypothetical protein
+388507..388926	-	139	365992343	-	BB_0379	-	-	protein kinase C1 inhibitor
+388977..390341	-	454	15594725	mgtE	BB_0380	-	COG2239P	Mg2+ transport protein
+390392..391819	-	475	15594726	-	BB_0381	-	COG1626G	hypothetical protein
+391932..392957	-	341	15594727	bmpB	BB_0382	-	COG1744R	hypothetical protein
+393044..394063	-	339	15594728	bmpA	BB_0383	-	COG1744R	hypothetical protein
+394105..395166	-	353	15594729	bmpC	BB_0384	-	COG1744R	hypothetical protein
+395481..396506	-	341	365992344	bmpD	BB_0385	-	-	basic membrane protein D (bmpD)
+396604..397077	-	157	15594731	rpsG	BB_0386	-	COG0049J	30S ribosomal protein S7
+397102..397476	-	124	15594732	rpsL	BB_0387	-	COG0048J	30S ribosomal protein S12
+397544..401677	-	1377	15594733	rpoC	BB_0388	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+405243..405617	-	124	15594735	rplL	BB_0390	-	COG0222J	50S ribosomal protein L7/L12
+405688..406176	-	162	365992345	-	BB_0391	-	-	50S ribosomal protein L10
+406181..406861	-	226	15594737	rplA	BB_0392	-	COG0081J	50S ribosomal protein L1
+406861..407292	-	143	15594738	rplK	BB_0393	-	COG0080J	50S ribosomal protein L11
+407344..407898	-	184	15594739	nusG	BB_0394	-	COG0250K	transcription antitermination factor
+407922..408092	-	56	15594740	secE	BB_0395	-	COG0690U	preprotein translocase subunit SecE
+408201..408380	-	59	15594741	rpmG	BB_0396	-	COG0267J	50S ribosomal protein L33
+408554..409402	-	282	15594742	-	BB_0397	-	-	hypothetical protein
+409416..410447	-	343	15594743	-	BB_0398	-	-	hypothetical protein
+410787..411446	+	219	15594744	-	BB_0399	-	-	hypothetical protein
+411456..413006	-	516	15594745	-	BB_0400	-	-	hypothetical protein
+413113..414315	+	400	15594746	-	BB_0401	-	COG1301C	glutamate transporter
+414327..415793	-	488	15594747	proS	BB_0402	-	COG0442J	prolyl-tRNA synthetase
+415846..416478	-	210	365992346	-	BB_0403	-	-	hypothetical protein
+416689..417105	+	138	15594749	-	BB_0404	-	-	hypothetical protein
+417102..417713	+	203	15594750	-	BB_0405	-	-	hypothetical protein
+417724..418335	+	203	15594751	-	BB_0406	-	-	hypothetical protein
+418388..419506	-	372	15594752	manA	BB_0407	-	COG1482G	mannose-6-phosphate isomerase
+419503..421380	-	625	15594753	-	BB_0408	-	COG1299G	PTS system, fructose-specific IIABC component (fruA-1)
+421554..422183	+	209	15594754	-	BB_0409	-	-	hypothetical protein
+423055..423834	+	259	15594757	-	BB_0412	-	-	hypothetical protein
+423822..424442	-	206	365992347	-	BB_0413	-	-	hypothetical protein
+424694..425551	+	285	15594759	-	BB_0414	-	COG1352NT	chemotaxis protein CheR
+425584..426711	+	375	15594760	-	BB_0415	-	COG2201NT	chemotaxis protein CheB
+426736..427950	+	404	15594761	-	BB_0416	-	COG1916S	hypothetical protein
+427987..428622	+	211	15594762	-	BB_0417	-	COG0563F	adenylate kinase
+428646..429674	+	342	15594763	-	BB_0418	-	-	hypothetical protein
+429693..430616	-	307	15594764	-	BB_0419	-	COG3706T	response regulator
+430619..435103	-	1494	15594765	-	BB_0420	-	COG0642T	sensory transduction histidine kinase
+441713..442552	-	279	15594766	-	BB_0421	-	COG0561R	hydrolase
+442688..443248	-	186	15594767	-	BB_0422	-	COG2094L	3-methyladenine DNA glycosylase
+446327..446875	-	182	365992348	-	BB_0426	-	-	nucleoside 2-deoxyribosyltransferase superfamily
+446969..447736	-	255	365992349	-	BB_0427	-	-	hypothetical protein
+447855..448172	+	105	15594773	-	BB_0428	-	-	hypothetical protein
+448202..448591	-	129	15594774	-	BB_0429	-	-	hypothetical protein
+448708..449310	+	200	365992350	-	BB_0430	-	-	hypothetical protein
+449419..450171	+	250	15594776	-	BB_0431	-	COG1192D	hypothetical protein
+451139..451921	-	260	15594779	spo0J	BB_0434	-	COG1475K	stage 0 sporulation protein J
+452040..454472	-	810	15594780	gyrA	BB_0435	-	COG0188L	DNA gyrase subunit A
+454484..456388	-	634	365992351	gyrB	BB_0436	-	-	DNA gyrase subunit B
+456576..458036	+	486	15594782	dnaA	BB_0437	-	COG0593L	chromosomal replication initiation protein
+458277..459434	+	385	15594783	dnaN	BB_0438	-	COG0592L	DNA polymerase III subunit beta
+459525..459824	+	99	15594784	-	BB_0439	-	-	hypothetical protein
+459916..460071	+	51	15594785	rpmH	BB_0440	-	-	50S ribosomal protein L34
+460052..460411	+	119	15594786	rnpA	BB_0441	-	COG0594J	ribonuclease P
+462045..462773	+	242	15594788	-	BB_0443	-	COG1847R	spoIIIJ-associtated protein
+462819..463886	+	355	15594789	-	BB_0444	-	COG0451MG	nucleotide sugar epimerase
+464053..465132	+	359	15594790	fbaA	BB_0445	-	COG0191G	fructose-bisphosphate aldolase
+465518..467278	-	586	161511079	aspS	BB_0446	-	COG0173J	aspartyl-tRNA synthetase
+467282..469387	-	701	15594792	-	BB_0447	-	COG0475P	Na+/H+ antiporter
+469390..469665	-	91	15594793	-	BB_0448	-	COG1925G	phosphocarrier protein
+469678..469971	-	97	15594794	-	BB_0449	-	COG1544J	hypothetical protein
+469961..471220	-	419	15594795	rpoN	BB_0450	-	COG1508K	RNA polymerase sigma-54 factor
+471223..471756	-	177	15594796	-	BB_0451	-	COG2059P	chromate transport protein
+471771..472358	-	195	365992352	-	BB_0452	-	-	chromate transporter superfamily
+472566..473408	+	280	15594798	-	BB_0453	-	COG0668M	hypothetical protein
+473405..474556	-	383	15594799	-	BB_0454	-	COG0438M	lipopolysaccharide biosynthesis-like protein
+474613..475602	+	329	15594800	-	BB_0455	-	COG1466L	hypothetical protein
+475606..476211	+	201	15594801	-	BB_0456	-	-	hypothetical protein
+476263..478005	-	580	365992353	uvrC	BB_0457	-	-	excinuclease ABC subunit C
+479709..481019	+	436	15594804	-	BB_0459	-	-	hypothetical protein
+481344..482057	-	237	15594805	-	BB_0460	-	-	hypothetical protein
+482600..484282	+	560	15594806	-	BB_0461	-	COG2812L	DNA polymerase III subunits gamma and tau
+484287..484586	+	99	365992354	efbC	BB_0462	-	-	putative DNA-binding protein, ebfC protein
+484757..485266	+	169	15594808	-	BB_0463	-	COG0105F	nucleoside diphosphate kinase
+485550..486077	+	175	15594809	-	BB_0464	-	-	hypothetical protein
+486074..486769	+	231	15594810	-	BB_0465	-	COG1452M	hypothetical protein
+486747..487538	+	263	365992355	-	BB_0466	-	-	ABC transporter ATP-binding protein
+487535..488224	+	229	15594812	-	BB_0467	-	COG1496S	hypothetical protein
+488226..488972	+	248	15594813	-	BB_0468	-	COG0327S	hypothetical protein
+488983..489495	+	170	15594814	lspA	BB_0469	-	COG0597MU	signal peptidase II
+489540..489719	+	59	365992356	-	BB_0470	-	-	hypothetical protein
+489733..490554	+	273	15594816	-	BB_0471	-	COG1692S	hypothetical protein
+490644..491927	+	427	365992357	murA	BB_0472	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+492588..493952	+	454	15594818	-	BB_0473	-	COG0534V	hypothetical protein
+494150..494539	-	129	365992358	-	BB_0475	-	-	lipoprotein
+495033..496217	+	394	161511078	tuf	BB_0476	-	COG0050J	elongation factor Tu
+496268..496579	+	103	15594822	rpsJ	BB_0477	-	COG0051J	30S ribosomal protein S10
+496615..497235	+	206	15594823	rplC	BB_0478	-	COG0087J	50S ribosomal protein L3
+497245..497874	+	209	15594824	rplD	BB_0479	-	COG0088J	50S ribosomal protein L4
+497895..498191	+	98	365992359	rplW	BB_0480	-	-	50S ribosomal protein L23
+498213..499046	+	277	15594826	rplB	BB_0481	-	COG0090J	50S ribosomal protein L2
+499056..499334	+	92	15594827	rpsS	BB_0482	-	COG0185J	30S ribosomal protein S19
+499341..499703	+	120	15594828	rplV	BB_0483	-	COG0091J	50S ribosomal protein L22
+499707..500588	+	293	15594829	rpsC	BB_0484	-	COG0092J	30S ribosomal protein S3
+500593..501009	+	138	15594830	rplP	BB_0485	-	COG0197J	50S ribosomal protein L16
+501015..501212	+	65	365992360	rpmC	BB_0486	-	-	50S ribosomal protein L29
+501215..501469	+	84	15594832	rpsQ	BB_0487	-	COG0186J	30S ribosomal protein S17
+501497..501865	+	122	161511077	rplN	BB_0488	-	COG0093J	50S ribosomal protein L14
+501880..502185	+	101	15594834	rplX	BB_0489	-	COG0198J	50S ribosomal protein L24
+502191..502739	+	182	15594835	-	BB_0490	-	COG0094J	50S ribosomal protein L5
+502756..502941	+	61	161511076	rpsN	BB_0491	-	COG0199J	30S ribosomal protein S14
+502951..503349	+	132	15594837	rpsH	BB_0492	-	COG0096J	30S ribosomal protein S8
+503366..503908	+	180	15594838	-	BB_0493	-	COG0097J	50S ribosomal protein L6
+503926..504285	+	119	15594839	rplR	BB_0494	-	COG0256J	50S ribosomal protein L18
+504298..504795	+	165	15594840	rpsE	BB_0495	-	COG0098J	30S ribosomal protein S5
+504799..505104	+	101	15594841	-	BB_0496	-	-	50S ribosomal protein L30
+505104..505541	+	145	15594842	rplO	BB_0497	-	COG0200J	50S ribosomal protein L15
+505554..506858	+	434	15594843	-	BB_0498	-	COG0201U	preprotein translocase subunit SecY
+506865..506984	+	39	15594844	rpmJ	BB_0499	-	-	50S ribosomal protein L36
+507002..507379	+	125	15594845	rpsM	BB_0500	-	COG0099J	30S ribosomal protein S13
+507406..507798	+	130	365992361	rpsK	BB_0501	-	-	30S ribosomal protein S11
+507814..508848	+	344	365992362	rpoA	BB_0502	-	-	DNA-directed RNA polymerase subunit alpha
+508870..509241	+	123	15594848	rplQ	BB_0503	-	COG0203J	50S ribosomal protein L17
+509314..510846	+	510	15594849	-	BB_0504	-	COG1418R	phosphodiesterase
+510836..511624	+	262	15594850	-	BB_0505	-	COG1692S	hypothetical protein
+512393..513139	-	248	365992363	-	BB_0507	-	-	hypothetical protein
+513226..514527	+	433	15594853	engA	BB_0508	-	COG1160R	GTP-binding protein Der
+514524..515783	+	419	15594854	-	BB_0509	-	-	hypothetical protein
+516493..522993	+	2166	15594857	-	BB_0512	-	COG1196D	hypothetical protein
+524554..526254	+	566	15594859	pheT	BB_0514	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+528104..529198	-	364	15594862	dnaJ	BB_0517	-	COG0484O	chaperone protein DnaJ
+529198..531105	-	635	15594863	dnaK	BB_0518	-	COG0443O	molecular chaperone DnaK
+531129..531692	-	187	15594864	grpE	BB_0519	-	COG0576O	grpE protein
+534301..535155	+	284	15594869	-	BB_0524	-	COG0483G	inositol monophosphatase
+535178..535600	-	140	15594870	-	BB_0525	-	-	hypothetical protein
+535704..537527	+	607	15594871	-	BB_0526	-	-	hypothetical protein
+537544..538308	+	254	365992364	-	BB_0527	-	-	transcriptional activator, putative, Baf family
+538328..539275	-	315	15594873	-	BB_0528	-	COG0667C	aldose reductase
+542263..543024	+	253	15594878	-	BB_0533	-	COG1235R	phnP protein
+543049..543816	+	255	15594879	xth	BB_0534	-	COG0708L	exodeoxyribonuclease III
+543832..544605	+	257	15594880	-	BB_0535	-	-	hypothetical protein
+544586..547387	+	933	15594881	-	BB_0536	-	COG0612R	zinc protease
+547846..548490	-	214	15594882	-	BB_0537	-	COG4783R	hypothetical protein
+548487..548885	-	132	15594883	-	BB_0538	-	COG1664M	hypothetical protein
+548920..549618	-	232	15594884	-	BB_0539	-	COG0670R	hypothetical protein
+549642..551723	-	693	15594885	fusA	BB_0540	-	COG0480J	elongation factor G
+553139..553789	+	216	365992365	-	BB_0543	-	-	hypothetical protein
+553992..555212	+	406	15594889	-	BB_0544	-	COG0462FE	phosphoribosylpyrophosphate synthetase
+555216..556580	+	454	15594890	-	BB_0545	-	COG1070G	xylulokinase
+556563..557423	-	286	15594891	-	BB_0546	-	COG3147S	hypothetical protein
+557407..558024	-	205	15594892	coaE	BB_0547	-	COG0237H	dephospho-CoA kinase
+558006..560732	-	908	15594893	polA	BB_0548	-	COG0749L	DNA polymerase I
+560729..561127	-	132	15594894	-	BB_0549	-	-	hypothetical protein
+561117..561554	-	145	15594895	fliS	BB_0550	-	COG1516NUO	flagellar protein FlaJ
+561563..561943	-	126	365992366	-	BB_0551	-	-	protein CheY
+562185..564167	+	660	15594897	ligA	BB_0552	-	COG0272L	NAD-dependent DNA ligase LigA
+565955..567823	+	622	365992367	-	BB_0554	-	-	hypothetical protein
+567810..568277	+	155	15594900	-	BB_0555	-	COG2080C	hypothetical protein
+568270..569139	+	289	15594901	-	BB_0556	-	COG1319C	hypothetical protein
+569278..569538	+	86	15594902	-	BB_0557	-	COG1925G	phosphocarrier protein HPr
+569559..571280	+	573	15594903	ptsP	BB_0558	-	COG1080G	phosphoenolpyruvate-protein phosphatase
+571283..571852	+	189	15594904	-	BB_0559	-	COG2190G	PTS system glucose-specific transporter
+571890..573740	-	616	365992368	-	BB_0560	-	-	chaperone protein HtpG
+573853..575247	+	464	15594906	gnd	BB_0561	-	COG0362G	6-phosphogluconate dehydrogenase
+575274..575816	-	180	15594907	-	BB_0562	-	-	hypothetical protein
+575981..576499	-	172	365992369	-	BB_0563	-	-	hypothetical protein
+576582..577187	-	201	15594909	-	BB_0564	-	-	hypothetical protein
+577395..577937	+	180	15594910	-	BB_0565	-	COG0835NT	chemotaxis protein CheW
+577950..578261	+	103	15594911	-	BB_0566	-	-	hypothetical protein
+578277..580421	+	714	15594912	-	BB_0567	-	COG0643NT	chemotaxis protein CheA
+580486..581643	+	385	15594913	-	BB_0568	-	COG2201NT	chemotaxis protein CheB
+581645..583417	+	590	15594914	-	BB_0569	-	-	hypothetical protein
+583458..583832	+	124	15594915	-	BB_0570	-	COG0745TK	chemotaxis protein CheY
+584191..584880	-	229	15594916	-	BB_0571	-	COG0528F	uridylate kinase
+585080..586156	+	358	15594917	-	BB_0572	-	COG0463M	glycosyl transferase family protein
+587031..587882	+	283	15594919	-	BB_0574	-	-	hypothetical protein
+588066..589667	+	533	15594920	pyrG	BB_0575	-	COG0504F	CTP synthetase
+589684..590208	-	174	365992370	-	BB_0576	-	-	hypothetical protein
+590348..590935	+	195	15594922	-	BB_0577	-	-	hypothetical protein
+591188..592357	+	389	15594923	-	BB_0578	-	COG0840NT	methyl-accepting chemotaxis protein
+592446..595931	+	1161	15594924	-	BB_0579	-	COG0587L	DNA polymerase III subunit alpha
+595943..596521	+	192	15594925	-	BB_0580	-	-	hypothetical protein
+596531..598591	+	686	15594926	recG	BB_0581	-	COG1200LK	ATP-dependent DNA helicase RecG
+598588..599376	-	262	15594927	-	BB_0582	-	COG1876M	carboxypeptidase
+599495..600844	+	449	15594928	-	BB_0583	-	COG0534V	hypothetical protein
+601010..602344	+	444	365992371	-	BB_0584	-	-	hypothetical protein
+602374..603729	+	451	15594930	murD	BB_0585	-	COG0771M	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+603726..604769	-	347	15594931	-	BB_0586	-	COG2348V	FemA protein
+604779..606983	-	734	15594932	metG	BB_0587	-	COG0143J	methionyl-tRNA synthetase
+607138..607935	+	265	15594933	bgp	BB_0588	-	COG0775F	pfs protein
+609061..609906	-	281	15594935	ksgA	BB_0590	-	COG0030J	KsgA/Dim1 family 16S ribosomal RNA methyltransferase
+609943..611193	-	416	15594936	-	BB_0591	-	-	competence locus E
+611309..612022	+	237	15594937	-	BB_0592	-	-	hypothetical protein
+612048..613985	+	645	15594938	-	BB_0593	-	COG1022I	long-chain-fatty-acid CoA ligase
+614014..615771	-	585	365992372	argS	BB_0594	-	-	arginyl-tRNA synthetase
+615764..616390	-	208	15594940	-	BB_0595	-	-	hypothetical protein
+616412..618559	-	715	15594941	-	BB_0596	-	COG0840NT	methyl-accepting chemotaxis protein
+618828..621035	+	735	15594942	-	BB_0597	-	COG0840NT	methyl-accepting chemotaxis protein
+621045..621953	-	302	15594943	murB	BB_0598	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+622005..623447	+	480	15594944	cysS	BB_0599	-	COG0215J	cysteinyl-tRNA synthetase
+623451..625007	+	518	15594945	-	BB_0600	-	-	hypothetical protein
+625007..626260	+	417	15594946	glyA	BB_0601	-	COG0112E	serine hydroxymethyltransferase
+626286..627038	+	250	15594947	-	BB_0602	-	COG0484O	chaperonin
+627092..628948	-	618	15594948	p66	BB_0603	-	-	membrane-associated protein p66
+629196..630698	-	500	15594949	-	BB_0604	-	COG1620C	L-lactate permease
+630796..631986	+	396	365992373	-	BB_0605	-	-	serine-type D-Ala-D-Ala carboxypeptidase
+631991..632482	+	163	15594951	-	BB_0606	-	COG1871NT	chemoreceptor glutamine deamidase CheD
+632485..634464	+	659	15594952	pcrA	BB_0607	-	COG0210L	single-stranded DNA-dependent ATPase
+634581..636011	+	476	15594953	-	BB_0608	-	COG2195E	aminoacyl-histidine dipeptidase
+636593..637957	+	454	15594955	tig	BB_0610	-	COG0544O	trigger factor
+637972..638556	+	194	365992374	clpP	BB_0611	-	-	ATP-dependent Clp protease, proteolytic subunit ClpP
+638580..639872	+	430	15594957	clpX	BB_0612	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+639859..642249	+	796	365992375	lon	BB_0613	-	-	ATP-dependent protease La
+642289..642441	+	50	15594959	-	BB_0614	-	-	hypothetical protein
+642500..643126	-	208	365992376	rpsD	BB_0615	-	-	30S ribosomal protein S4
+643295..644650	-	451	15594961	-	BB_0616	-	COG0053P	hypothetical protein
+644772..645140	+	122	15594962	-	BB_0617	-	-	hypothetical protein
+645137..645601	-	154	15594963	cdd	BB_0618	-	COG0295F	cytidine deaminase
+645719..646681	+	320	365992377	-	BB_0619	-	-	DHH family
+646659..648254	-	531	365992378	-	BB_0620	-	-	beta-glucosidase, putative
+648553..649107	+	184	15594966	-	BB_0621	-	COG0693R	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis protein
+649170..650387	-	405	365992379	ackA	BB_0622	-	-	acetate kinase
+650413..653790	-	1125	15594968	mfd	BB_0623	-	COG1197LK	transcription-repair coupling factor
+653887..654849	+	320	15594969	-	BB_0624	-	-	hypothetical protein
+654863..656902	+	679	365992380	-	BB_0625	-	-	N-acetylmuramoyl-L-alanine amidase
+656998..657543	-	181	15594971	rnmV	BB_0626	-	COG1658L	hypothetical protein
+658898..659623	+	241	15594973	-	BB_0628	-	-	hypothetical protein
+659644..661515	-	623	365992381	-	BB_0629	-	-	pts system, fructose-specific iiabc component
+661606..662529	+	307	15594975	pfkB	BB_0630	-	COG1105G	1-phosphofructokinase
+662603..662917	-	104	15594976	-	BB_0631	-	-	hypothetical protein
+663179..665011	-	610	15594977	recD	BB_0632	-	COG0507L	exodeoxyribonuclease V subunit alpha
+665008..668517	-	1169	15594978	recB	BB_0633	-	COG1074L	exodeoxyribonuclease V subunit beta
+671767..673167	-	466	365992382	pncB	BB_0635	-	-	nicotinate phosphoribosyltransferase
+673342..674778	+	478	15594981	zwf	BB_0636	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+675035..676378	+	447	365992383	-	BB_0637	-	-	Na+/H+ antiporter family
+676472..677860	+	462	15594983	-	BB_0638	-	COG1757C	Na+/H+ antiporter
+677892..678938	-	348	15594984	-	BB_0639	-	COG0687E	spermidine/putrescine ABC transporter substrate-binding protein
+678959..679750	-	263	15594985	-	BB_0640	-	COG1177E	spermidine/putrescine ABC transporter permease
+679754..680557	-	267	365992384	-	BB_0641	-	-	putrescine transport system permease protein PotH
+680563..681606	-	347	15594987	potA	BB_0642	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+681685..682524	-	279	15594988	ylqF	BB_0643	-	COG1161R	GTPase YlqF
+682679..683377	+	232	15594989	-	BB_0644	-	COG3010G	N-acetylmannosamine-6-phosphate 2-epimerase
+683423..684967	+	514	15594990	-	BB_0645	-	COG1263G	PTS system, glucose-specific IIBC component (ptsG)
+684997..685980	-	327	15594991	-	BB_0646	-	COG1647R	hypothetical protein
+685977..686507	-	176	15594992	bosR	BB_0647	-	COG0735P	ferric uptake regulation protein
+688490..690127	+	545	15594994	groL	BB_0649	-	COG0459O	chaperonin GroEL
+690193..690489	+	98	365992385	-	BB_0650	-	-	hypothetical protein
+690482..690799	+	105	15594996	yajC	BB_0651	-	COG1862U	hypothetical protein
+690885..692645	+	586	15594997	secD	BB_0652	-	COG0342U	preprotein translocase subunit SecD
+692629..693528	+	299	15594998	secF	BB_0653	-	COG0341U	preprotein translocase subunit SecF
+693554..694696	+	380	15594999	-	BB_0654	-	-	hypothetical protein
+694693..695523	-	276	15595000	-	BB_0655	-	COG0484O	heat shock protein DnaJ
+695631..696764	+	377	15595001	-	BB_0656	-	COG0635H	oxygen-independent coproporphyrinogen III oxidase
+696751..697437	-	228	15595002	rpiA	BB_0657	-	COG0120G	ribose 5-phosphate isomerase
+697586..698332	+	248	365992386	-	BB_0658	-	-	phosphoglycerate mutase
+698400..699965	-	521	15595004	lysS	BB_0659	-	COG1384J	lysyl-tRNA synthetase
+700052..700924	-	290	15595005	era	BB_0660	-	COG1159R	GTPase Era
+701029..701385	+	118	365992387	-	BB_0661	-	-	hypothetical protein
+701395..701805	+	136	15595007	-	BB_0662	-	-	hypothetical protein
+701825..702274	+	149	15595008	-	BB_0663	-	COG1430S	hypothetical protein
+702283..702951	-	222	365992388	-	BB_0664	-	-	lipoprotein
+703009..703968	+	319	15595010	-	BB_0665	-	COG1216R	hypothetical protein
+703961..704959	+	332	365992389	-	BB_0666	-	-	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+704949..705500	+	183	15595012	-	BB_0667	-	-	hypothetical protein
+705580..706605	+	341	365992390	-	BB_0668	-	-	flagellar filament outer layer protein
+706673..709267	+	864	15595014	-	BB_0669	-	COG0643NT	chemotaxis protein CheA
+709274..710674	+	466	15595015	-	BB_0670	-	COG1352NT	chemotaxis protein CheW
+710686..711171	+	161	15595016	-	BB_0671	-	COG1406N	chemotaxis protein CheX
+711211..711651	+	146	15595017	-	BB_0672	-	COG2201NT	chemotaxis protein CheY
+711692..712207	-	171	15595018	-	BB_0673	-	-	hypothetical protein
+712204..713250	-	348	15595019	-	BB_0674	-	-	hypothetical protein
+713244..714107	-	287	15595020	-	BB_0675	-	-	hypothetical protein
+714104..714766	-	220	15595021	-	BB_0676	-	COG0546R	phosphoglycolate phosphatase
+715009..716619	+	536	15595022	rbsA	BB_0677	-	COG3845R	sugar ABC transporter ATP-binding protein
+716620..717771	+	383	15595023	-	BB_0678	-	COG4603R	sugar ABC transporter permease
+717743..718669	+	308	365992391	-	BB_0679	-	-	ribose/galactose ABC transporter, permease protein
+718827..721088	+	753	15595025	-	BB_0680	-	COG0840NT	methyl-accepting chemotaxis protein
+721119..723020	+	633	365992392	-	BB_0681	-	-	methyl-accepting chemotaxis protein
+723063..724130	-	355	15595027	trmU	BB_0682	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+724224..725447	+	407	15595028	-	BB_0683	-	COG3425I	3-hydroxy-3-methylglutaryl-CoA synthase
+725431..726495	+	354	365992393	fni	BB_0684	-	-	isopentenyl-diphosphate delta-isomerase
+726458..727753	+	431	15595030	-	BB_0685	-	COG1257I	3-hydroxy-3-methylglutaryl-CoA reductase
+727737..728675	+	312	15595031	mvaD	BB_0686	-	COG3407I	mevalonate pyrophosphate decarboxylase
+728666..729619	+	317	15595032	-	BB_0687	-	COG3890I	phosphomevalonate kinase
+729613..730506	+	297	15595033	mvk	BB_0688	-	COG1577I	mevalonate kinase
+730632..731099	-	155	15595034	-	BB_0689	-	COG2340S	hypothetical protein
+731184..731720	+	178	365992394	napA	BB_0690	-	-	neutrophil activating protein A (napA)
+731794..733803	+	669	15595036	fusA	BB_0691	-	COG0480J	elongation factor G
+734081..735289	+	402	15595038	-	BB_0693	-	COG1940KG	xylose operon regulatory protein
+735352..736686	+	444	365992395	ffh	BB_0694	-	-	signal recognition particle protein
+736699..736959	+	86	15595040	rpsP	BB_0695	-	COG0228J	30S ribosomal protein S16
+736960..737208	+	82	15595041	-	BB_0696	-	COG1837R	hypothetical protein
+737212..737712	+	166	15595042	rimM	BB_0697	-	COG0806J	16S rRNA-processing protein RimM
+737709..738428	+	239	15595043	trmD	BB_0698	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+738406..738771	+	121	15595044	rplS	BB_0699	-	COG0335J	50S ribosomal protein L19
+739144..739683	+	179	15595046	-	BB_0701	-	-	hypothetical protein
+739685..740176	+	163	15595047	coaD	BB_0702	-	COG0669H	phosphopantetheine adenylyltransferase
+740240..740422	+	60	15595048	rpmF	BB_0703	-	COG0333J	50S ribosomal protein L32
+740446..740688	+	80	15595049	acpP	BB_0704	-	COG0236IQ	acyl carrier protein
+740688..741425	+	245	365992396	rnc	BB_0705	-	-	ribonuclease III
+741396..742628	-	410	15595051	-	BB_0706	-	COG0617J	polynucleotide adenylyltransferase
+742744..744516	+	590	365992397	-	BB_0707	-	-	hypothetical protein
+744522..744845	+	107	15595053	-	BB_0708	-	-	hypothetical protein
+745302..746333	+	343	15595054	-	BB_0709	-	COG1559R	hypothetical protein
+748123..750018	+	631	15595057	-	BB_0712	-	COG0568K	RNA polymerase sigma factor RpoD
+750031..750789	+	252	365992398	-	BB_0713	-	-	hypothetical protein
+751191..752159	+	322	15595059	-	BB_0714	-	-	hypothetical protein
+752170..753219	+	349	365992399	-	BB_0715	-	-	cell division protein FtsA
+753292..754068	+	258	365992400	mreC	BB_0716	-	-	rod shape-determining protein MreC
+754068..754550	+	160	15595062	-	BB_0717	-	-	hypothetical protein
+754637..756349	+	570	365992401	-	BB_0718	-	-	penicillin-binding protein
+756354..757670	+	438	365992402	mrdB	BB_0719	-	-	rod shape-determining protein RodA
+759586..760215	+	209	15595066	pgsA	BB_0721	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+760226..761647	+	473	365992403	-	BB_0722	-	-	hypothetical protein
+763579..764361	+	260	365992404	-	BB_0725	-	-	lectin
+764371..765342	+	323	15595071	-	BB_0726	-	COG0455D	ATP-binding protein
+765373..766716	+	447	365992405	-	BB_0727	-	-	phosphofructokinase
+766733..768064	-	443	365992406	cdr	BB_0728	-	-	CoA-disulfide reductase
+768079..769470	-	463	15595074	-	BB_0729	-	COG1823R	glutamate transporter
+769547..771139	-	530	365992407	pgi	BB_0730	-	-	glucose-6-phosphate isomerase
+771162..771563	-	133	15595076	-	BB_0731	-	COG1475K	hypothetical protein
+771570..774368	-	932	15595077	-	BB_0732	-	COG5009M	penicillin-binding protein
+774677..775462	+	261	365992408	-	BB_0733	-	-	hypothetical protein
+775666..776679	-	337	15595079	-	BB_0734	-	COG0009J	hypothetical protein
+776785..777573	+	262	365992409	-	BB_0735	-	-	rare lipoprotein A
+777765..778754	+	329	365992410	-	BB_0737	-	-	histidine phosphokinase/phophatase, putative
+778758..781385	+	875	15595083	valS	BB_0738	-	COG0525J	valyl-tRNA synthetase
+782152..782829	-	225	15595085	-	BB_0740	-	COG4121S	hypothetical protein
+782976..783248	-	90	365992411	groS	BB_0741	-	-	chaperonin GroS
+783390..785021	+	543	365992412	-	BB_0742	-	-	ABC transporter ATP-binding protein
+785057..786754	+	565	15595088	-	BB_0743	-	COG1520S	hypothetical protein
+786860..788962	+	700	15595089	p83/100	BB_0744	-	-	antigen, p83/100
+789303..789938	+	211	365992413	-	BB_0745	-	-	endonuclease III
+789947..790807	-	286	15595091	-	BB_0746	-	COG4239R	peptide ABC transporter permease
+790807..791787	-	326	15595092	-	BB_0747	-	COG0601EP	peptide ABC transporter permease
+791794..792252	-	152	15595093	-	BB_0748	-	-	hypothetical protein
+792351..793625	+	424	365992414	-	BB_0749	-	-	hypothetical protein
+793842..794855	-	337	365992415	-	BB_0751	-	-	hypothetical protein
+797119..798048	-	309	15595099	-	BB_0754	-	COG1131V	ABC transporter ATP-binding protein
+798057..799016	-	319	15595100	rnz	BB_0755	-	COG1234R	ribonuclease Z
+799208..800275	-	355	15595101	-	BB_0756	-	COG0665E	hypothetical protein
+800476..801072	+	198	365992416	clpP	BB_0757	-	-	Clp protease
+801119..801778	+	219	365992417	-	BB_0758	-	-	hypothetical protein
+801941..802798	-	285	15595104	-	BB_0759	-	COG2035S	hypothetical protein
+802838..803167	-	109	365992418	-	BB_0760	-	-	gene 37 protein (Gp37)
+805775..806923	-	382	15595109	-	BB_0764	-	COG0642T	sensory transduction histidine kinase
+806920..807966	-	348	15595110	-	BB_0765	-	COG2812L	hypothetical protein
+807976..808464	-	162	15595111	cvpA	BB_0766	-	COG1286R	colicin V production protein
+808461..809552	-	363	15595112	murG	BB_0767	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+809701..810495	-	264	15595113	-	BB_0768	-	COG2240H	pyridoxal kinase
+810470..811510	-	346	15595114	-	BB_0769	-	COG0533O	UGMP family protein
+811507..812388	-	293	15595115	-	BB_0770	-	COG2861S	hypothetical protein
+812439..813239	-	266	15595116	rpoS	BB_0771	-	COG0568K	RNA polymerase sigma factor
+813386..813706	-	106	365992419	-	BB_0771a	-	-	hypothetical protein
+813690..814697	-	335	15595117	-	BB_0772	-	COG1706N	flagellar basal body P-ring protein
+814868..815302	-	144	15595118	-	BB_0773	-	-	hypothetical protein
+815502..816299	-	265	15595119	flgG	BB_0774	-	COG4786N	flagellar basal body rod protein FlgG
+816312..817160	-	282	365992420	-	BB_0775	-	-	flagellar hook-basal body complex protein
+817396..817956	+	186	365992421	-	BB_0776	-	-	hypothetical protein
+818018..818548	+	176	15595122	apt	BB_0777	-	COG0503F	adenine phosphoribosyltransferase
+818605..818916	+	103	15595123	rplU	BB_0778	-	COG0261J	50S ribosomal protein L21
+819036..819242	+	68	365992422	-	BB_0779	-	-	hypothetical protein
+819242..819487	+	81	15595125	rpmA	BB_0780	-	COG0211J	50S ribosomal protein L27
+819542..820528	+	328	15595126	-	BB_0781	-	COG0536R	GTPase CgtA
+820607..821188	+	193	365992423	nadD	BB_0782	-	-	nicotinate (nicotinamide) nucleotide adenylyltransferase
+821185..822369	+	394	15595128	-	BB_0783	-	COG1316K	hypothetical protein
+822344..822694	+	116	365992424	-	BB_0784	-	-	iojap-like ribosome-associated protein
+822810..823103	+	97	15595130	-	BB_0785	-	COG2088M	regulatory protein SpoVG
+823263..823811	+	182	161511075	-	BB_0786	-	COG1825J	50S ribosomal protein L25/general stress protein Ctc
+823816..824382	+	188	15595132	pth	BB_0787	-	COG0193J	peptidyl-tRNA hydrolase
+824382..825704	+	440	15595133	tilS	BB_0788	-	COG0037D	hypothetical protein
+825701..827620	+	639	15595134	-	BB_0789	-	COG0465O	cell division protein FtsH
+827631..829112	+	493	365992425	-	BB_0790	-	-	hypothetical protein
+829218..830321	+	367	15595136	-	BB_0791	-	COG1435F	thymidine kinase
+830318..830941	-	207	15595137	-	BB_0792	-	-	hypothetical protein
+830955..831563	-	202	365992426	tmk	BB_0793	-	-	thymidylate kinase
+836061..838526	+	821	15595140	-	BB_0795	-	COG4775M	outer membrane protein
+838547..839080	+	177	365992427	-	BB_0796	-	-	hypothetical protein
+839244..841832	+	862	15595142	mutS	BB_0797	-	COG0249L	DNA mismatch repair protein MutS
+841834..842451	+	205	15595143	-	BB_0798	-	COG1040R	competence protein F
+842501..842989	+	162	15595144	-	BB_0799	-	COG0779S	hypothetical protein
+843003..844451	+	482	15595145	-	BB_0800	-	COG0195K	transcription elongation factor NusA
+844454..847102	+	882	15595146	-	BB_0801	-	COG0532J	translation initiation factor IF-2
+847126..847488	+	120	365992428	rbfA	BB_0802	-	-	ribosome-binding factor A
+847491..848339	+	282	15595148	truB	BB_0803	-	COG0130J	tRNA pseudouridine 55 synthase
+848538..848804	+	88	15595149	rpsO	BB_0804	-	COG0184J	30S ribosomal protein S15
+848837..850987	+	716	365992429	-	BB_0805	-	-	polyribonucleotide nucleotidyltransferase (Polynucleotidephosphorylase) (PNPase) (Vegetative protein 15) (VEG15)
+850994..852514	+	506	15595151	-	BB_0806	-	-	hypothetical protein
+852489..853778	+	429	15595152	-	BB_0807	-	COG0795R	hypothetical protein
+853775..854842	+	355	15595153	-	BB_0808	-	COG0795R	hypothetical protein
+854869..855996	+	375	15595154	tgt	BB_0809	-	COG0343J	queuine tRNA-ribosyltransferase
+855989..857509	+	506	365992430	mviN	BB_0810	-	-	integral membrane protein MviN
+857506..858915	+	469	15595156	-	BB_0811	-	COG1413C	hypothetical protein
+858939..860111	-	390	15595157	coaBC	BB_0812	-	COG0452H	pantothenate metabolism flavoprotein
+860440..861774	+	444	15595159	panF	BB_0814	-	COG4145H	sodium/panthothenate symporter
+862699..863646	+	315	365992431	-	BB_0816	-	-	hypothetical protein
+863636..865042	+	468	15595162	murC	BB_0817	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+865053..865919	+	288	15595163	-	BB_0818	-	COG1561S	hypothetical protein
+865916..866458	+	180	15595164	-	BB_0819	-	COG1102F	cytidylate kinase
+866494..866694	+	66	15595165	rpoZ	BB_0820	-	COG1758K	hypothetical protein
+866681..867601	+	306	15595166	miaA	BB_0821	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+867743..868114	-	123	15595168	-	BB_0823	-	-	hypothetical protein
+868195..868740	+	181	365992432	-	BB_0824	-	-	hypothetical protein
+868733..869380	-	215	365992433	-	BB_0825	-	-	hypothetical protein
+869508..870023	-	171	15595171	-	BB_0826	-	-	hypothetical protein
+870112..872583	-	823	15595172	-	BB_0827	-	COG1643L	ATP-dependent helicase
+872586..875132	-	848	15595173	topA	BB_0828	-	COG0550L	DNA topoisomerase I subunit A
+875207..876448	+	413	15595174	-	BB_0829	-	COG0420L	exonuclease SbcD
+876492..879281	+	929	365992434	-	BB_0830	-	-	exonuclease SbcC
+879315..880250	+	311	365992435	-	BB_0831	-	-	xylose operon regulatory protein
+880267..881091	-	274	15595177	-	BB_0832	-	-	hypothetical protein
+881085..884213	-	1042	15595178	ileS	BB_0833	-	COG0060J	isoleucyl-tRNA synthetase
+884228..886447	-	739	15595179	-	BB_0834	-	COG0542O	ATP-dependent Clp protease subunit C
+886470..888179	-	569	365992436	-	BB_0835	-	-	phosphomannomutase
+890322..893174	+	950	15595182	uvrA	BB_0837	-	COG0178L	excinuclease ABC subunit A
+893129..896569	+	1146	15595183	-	BB_0838	-	COG1452M	hypothetical protein
+896579..897127	-	182	365992437	-	BB_0838a	-	-	hypothetical protein
+897096..897695	-	199	365992438	-	BB_0839	-	-	hypothetical protein
+897704..899320	-	538	15595185	-	BB_0840	-	-	hypothetical protein
+899499..900731	+	410	15595186	arcA	BB_0841	-	COG2235E	arginine deiminase
+900799..901782	+	327	365992439	argF	BB_0842	-	-	ornithine carbamoyltransferase
+901834..903258	+	474	365992440	-	BB_0843	-	-	arginine-ornithine antiporter
+903929..904900	-	323	15595189	-	BB_0844	-	-	hypothetical protein
+908407..909591	+	394	15595196	-	BB_0852	-	COG4748S	hypothetical protein

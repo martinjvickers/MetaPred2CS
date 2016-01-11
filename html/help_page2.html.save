@@ -1,0 +1,205 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title id='title'>MetaPred2cs at bioinsilico \dot\ org</title>
+<link rel="stylesheet" type="text/css" href="/MetaPred2cs/CSS/response.css" />
+</head>
+
+<body>
+<div class="body_div" >
+<div class="header_div" ><div class="title_div" >MetaPred2cs<i> Webserver</i></div>
+<div class="subtitle_div" ><a href="http://www.bioinsilico.org" >@ bioinsilico \dot\ org</a></div></div><div class="response_div" >
+<div style="position:relative;" class="can_pathway" >
+</span></div>
+
+<div style="text-align:justify;">
+
+<h3_main>
+  <H3> General Information</H3>
+
+All methods implemented in MetaPred2CS requires a <a href="http://www.ncbi.nlm.nih.gov/pubmed/2231712">BLAST</a> search to 
+identify homologous proteins to the query proteins. 
+In the case of i2h and MT methods, the search is performed against <a href="http://www.uniprot.org/downloads">UniProtKB</a> downloaded 
+from UniProt.
+
+In the case of genomics context based methods, sequences search are performed against our local reference genome database that included 243 genomes (see Table 1). The genomes and genome annotation were downloaded from NCBI database and operon 
+architecture and transcription units from RegulonDB. 
+in the case of genomics context based methods, BLASTP search will be 
+performed against our local reference genomics database. This database includes 243 genomes. 
+These genomes and their annotations were downloaded from 
+<a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/">NCBI database</a>. Operon data for these reference genomes was obtained 
+from <a href="http://microbiome.wlu.ca/public/TUpredictions/Predictions/"> here</a>.
+To see the content and organism distribution of this database please click on
+
+<script>
+function toggleTable() {
+    var lTable = document.getElementById("loginTable");
+    lTable.style.display = (lTable.style.display == "table") ? "none" : "table";
+}
+</script>
+<style>
+
+table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:sans-serif;
+    font-size:10pt;
+}
+
+th {
+  font-weight: bold;
+  font-family:sans-serif;
+  font-size:10pt;
+  background: #CEDADA;
+                text-align:center;
+                }
+
+td {
+  font-family:sans-serif;
+  font-size:10pt;  
+  background: #F0F0F0;
+  text-align:center;
+}
+
+</style>
+<a id="loginLink" onclick="toggleTable();" href="#">Table 1</a>.
+<table id="loginTable" border="1" align="center" style="display:none">
+
+<tr><th>Class/Group</th>
+<th>Organism Number Included in Database</th></tr>
+<tr><td>Alphaproteobacteria</td><td>27</td></tr>
+<tr><td>Aquificae</td><td>1</td></tr>
+<tr><td>Firmicutes</td><td>49</td></tr>
+<tr><td>Bacteroidetes/Chlorobi</td><td>5</td>
+</tr><tr><td>Delta/epsilon subdivisions</td><td>10</td>
+</tr><tr><td>Actinobacteria</td><td>16</td>
+</tr><tr><td>Betaproteobacteria</td><td>13</td>
+</tr><tr><td>Spirochaetes</td><td>2</td>
+</tr><tr><td>Gammaproteobacteria</td><td>49</td>
+</tr><tr><td>Chlamydiae/Verrucomicrobia</td><td>10</td>
+</tr><tr><td>Deinococcus-Thermus</td><td>3</td>
+</tr><tr><td>Fusobacteria</td><td>1</td></tr>
+<tr><td>Cyanobacteria</td><td>11</td></tr>
+<tr><td>Fibrobacteres/Acidobacteria</td><td>3</td></tr>
+<tr><td>Spirochaetes</td><td>4</td></tr>
+<tr><td>Tenericutes</td><td>12</td></tr>
+<tr><td>Planctomycetes</td><td>1</td></tr>
+<tr><td>Thermotogae</td><td>1</td></tr>
+<tr><td>Chloroflexi</td><td>2</td></tr>
+<tr><td>Crenarchaeota*</td><td>6</td></tr>
+<tr><td>Euryarchaeota*</td><td>16</td></tr>
+<tr><td>Nanoarchaeota*</td><td>1</td></tr>
+</table>
+<br>
+
+<H3>Submission Form</H3>
+MetaPred2cs requires 4 input files and 13 parameters to run.<br>
+
+<ul>
+<h4>Required Input Files</h4>
+At the first section of submission form users will be requested to upload 4 individual files. 
+These files are 2 fasta files, one for each of the query proteins, a tus file and a ptt file for the specie that query proteins belong to.<br>
+</ul>
+<p align="center"><img src="/MetaPred2cs/images/1.png" width="75%"/></p>
+
+<ul>
+
+<h4>Fasta Files:</h4>
+Sequences of query proteins should be upload in fasta format as separate files and the header of fasta files must contain the following information and format.<br>
+Example Header:<br>
+>gi|16128384|ref|NP_414933.1| response regulator in two-component regulatory system with PhoR (or CreC) [Escherichia coli str. K-12 substr. MG1655]<br>
+Fasta files in required format can be downloaded from <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/">here</a>.<br>
+
+<h4>TUS File:</h4>
+To be able to run GO Method users need to give information about the transcription units of the target specie.<br>  
+Click <a href="http://microbiome.wlu.ca/public/TUpredictions/Predictions/uid158055.tus">here</a> to see an example of a .tus file.<br>
+TUS files in required format can be downloaded from <a href="http://microbiome.wlu.ca/public/TUpredictions/Predictions/">here</a>.<br>
+
+<h4>Ptt File:</h4>
+Ptt file is basically a NCBI protein table that includes a list of all proteins for their genomes. 
+To be able to run GN Method users need to upload this file for the specie that query proteins are belong.<br>
+Click <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.ptt">here</a> to see an example of a .ptt file.<br>
+NCBI Ptt files can be downloaded from <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/">here</a>.<br>
+
+<h4>Parameters for i2h & MT methods</h4> 
+At the second section of submission form users need to specify 6 different parameters to be able to run i2h and MT methods. There are some values by default.
+
+<p align="center"><img src="/MetaPred2cs/images/2.png" width="75%"/></p>
+
+i2h and MT methods requires multiple sequence alignments (MSAs) of query proteins. MSAs will be created automatically from user's query proteins using 
+BLAST and <a href="http://www.ncbi.nlm.nih.gov/pubmed/17846036">clustalw</a>. For BLAST search, users can adjust the 
+<b> e_value </b> and <b> b_value</b>. The rest of the parameters will be used as default such as the as scoring matrix which is 
+<a href="http://www.ncbi.nlm.nih.gov/Class/FieldGuide/BLOSUM62.txt">BLOSUM_62</a>.<br> <br>
+
+<b> e_value : </b> This variable stands for the expectation value that going to identify the threshold for saving hits 
+during BLAST search.<br>
+
+<b> b_value : </b> By setting -b number users are limitting top BLAST output/hits which going to be used in MSAs.<br><br>
+
+
+At second step, i2h & MT methods will go to a <b> MSA reducing step</b>. The reduced MSAs is derived by using only the proteins from species that common to both query proteins. 
+For this reason users need to define minimum and maximum number of required common species that going to be used by setting <b> Min Matches </b> and <b> Max Matches</b>. 
+Maximum matches will be used as cut off value for the top number of common species that going to be used in reduced MSAs when the first condition (minimum number of common species) is achived.
+<br>
+At the final step, the correlation between these two query proteins will be calculate based on the reduced MSAs. For this calculation users need to select a scoring function. 
+There are two options available: <a href="http://www.ncbi.nlm.nih.gov/pubmed/11933068"> corr </a> and <a href="http://www.ncbi.nlm.nih.gov/pubmed/11933068"> rankorr</a>. Among them <b> rankorr </b> is computationally more time consuming. Finally, users need to identify substitution matrix 
+a matrice (amino acid exchange matrix) for residue homology calculation. 
+There are two options available as matrices: <a href="ftp://ftp.genesilico.pl/lukaskoz/other_stuff/PHDsec/phd/mat/Maxhom_GCG.metric">Maxhom_GCG.metric</a> and <a href="http://csbg.cnb.csic.es/pazos/Xdet/Maxhom_McLachlan.metric">Maxhom_McLachlan.metric</a>.
+
+<h4>Parameters for genomics context methods</h4>
+
+At third section of submission form users will be requested to set 7 parameters to be able to run genomics methods.
+
+<p align="center"><img src="/MetaPred2cs/images/3.png" width="75%"/></p>
+
+<b> Phylogenetic profiles </b> will be created for query proteins by detecting homologous proteins as being present or absent 
+in reference organisms with a pre-determined threshold BLASTP E-value. For this reason determination of a suitable e_value 
+is a critical step for PP method. To see more about this step please take a look at <a href="http://www.ncbi.nlm.nih.gov/pubmed/15947018">reference</a>.<br>
+The second parameter is the <a href="http://www.ncbi.nlm.nih.gov/pubmed/15947018"> threshold value for mutual information</a>. 
+Mutual information can be described in the simplest way as the similarity level of the PPs which created for 2 query proteins. 
+If the similarity score will be higher than users selected threshold, method will evaluate your query proteins as positively 
+interacting or functionally related proteins.<br><br> 
+
+
+During <b> Gene Fusion </b> calculation, after BLASTP step, a local alignment will be performed by <a href="http://www.genome.jp/tools-bin/show_man?fasta">ssearch36</a> for query proteins which using 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/1774068">Smith-Waterman algorithm</a> to identify fusion events. Besides defining the BLAST e-value, users need to identify 
+a cut-off score by setting <b> Cut_off Value for Bits </b>.<br><br>
+
+For <b> Gene Neighbourhood & Gene Operon methods </b>, users need to input <b> nucleic acid distance </b> beside BLASTP e_value. 
+There are several methods developed to define the most accurate value for nucleic acid distance 
+(<a href="http://www.ncbi.nlm.nih.gov/pubmed/10823905">Salgado H. et al., 2000</a>; <a href="http://www.ncbi.nlm.nih.gov/pubmed/11222772">Ermolaeva MD. et al, 2001</a>; <a href="http://www.ncbi.nlm.nih.gov/pubmed/12169563">Moreno-HG. et al., 2002</a>; 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/12952538">Strong M. et al., 2003</a>). 
+Among these studies, distance generally assigned as 300bp (<a href="http://www.ncbi.nlm.nih.gov/pubmed/10077608">Ross O. et al., 1999</a>).
+</ul>
+
+
+<H3> Result </H3>
+Depends on the parameters which selected by user, the running time of each prediction will be shorter or longer. User can bookmark the web-page that shows the progress of the job and return at a later
+time.<br>  
+The result page includes 4 different tables. The first 3 tables describe the information about the submitted files and prediction parameters, i.e. files and cutoff values. The final table contains the
+prediction score, that ranges between 0-1.<br>
+Based on prediction score, predictions can be classified as <b>high confidence</b>, <b>medium confidence</b> or <b>low confidence</b>. 
+Score ranges of these classes are defined as <b>0.999-0.700</b>, <b>0.699-0.400</b> and <b>0.399-0.000</b>, respectively.<br><br>
+Example result page can be seen below.
+
+<p align="center"><img src="/MetaPred2cs/images/4.png" width="75%"/></p>
+
+<H3>Important Points</H3>
+
+<b> 1) </b> MetaPred2cs is trained on <b> single domain </b> two-component system protein-protein interactions, i.e. one histidine kinase domain against one response regulator. 
+For <b>hybrid</b> two-component system proteins, users need to decompose the protein sequences into domains and these given separately instead of complete protein sequence.<br><br>
+
+<b> 2) </b> During the MSA reducing step in the i2h and MT methods, if required minimum number of common species is not reached, the job will be terminated. Under this circumstance, 
+users should <b> lower </b> the <b> min matches limit </b> 
+or <b> higher </b> the <b> b_value </b> and <b>restart</b> the job.
+
+
+<div class="footer_div" >
+<hr/><h5 >Finding it useful? Please cite the server.</h5>
+</div>
+</div>
+
+</body>
+</html>

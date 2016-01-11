@@ -1,0 +1,694 @@
+Mycoplasma hyopneumoniae 232 chromosome, complete genome - 1..892758
+691 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1392	+	463	54019970	dnaA	mhp001	-	COG0593L	chromosomal replication initiation protein
+1537..2673	+	378	54019971	dnaN	mhp002	-	COG0592L	DNA polymerase III subunit beta
+2775..4634	+	619	54019972	gidA	mhp003	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+4634..5092	+	152	54019973	-	mhp004	-	COG1576S	hypothetical protein
+5106..6089	+	327	54019974	-	mhp005	-	COG0618R	MgpA like-protein
+6073..7053	+	326	54019975	-	mhp006	-	COG0618R	hypothetical protein
+7156..7725	+	189	54019976	-	mhp007	-	-	hypothetical protein
+7815..8816	+	333	54019977	ftsY	mhp008	-	COG0552U	cell division protein ftsY
+8985..11006	+	673	54019978	-	mhp009	-	COG0595R	hypothetical protein
+11091..12098	+	335	54019979	hrcA	mhp010	-	COG1420K	heat-inducible transcription repressor
+12101..12847	+	248	54019980	grpE	mhp011	-	COG0576O	heat shock protein
+12831..14435	+	534	54019981	argS	mhp012	-	COG0018J	arginyl-tRNA synthetase
+14407..14685	+	92	54019982	-	mhp013	-	COG3343K	hypothetical protein
+14755..15618	+	287	54019983	fba	mhp014	-	COG0191G	fructose-bisphosphate aldolase
+15625..16470	+	281	54019984	rluC	mhp015	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+16504..17586	-	360	54020307	-	mhp016	-	-	hypothetical protein
+17729..18595	+	288	54019985	-	mhp017	-	-	hypothetical protein
+18552..19355	+	267	54019986	-	mhp018	-	-	hypothetical protein
+19034..19285	-	83	54020308	-	mhp019	-	-	hypothetical protein
+19664..19897	-	77	54020309	-	mhp020	-	COG1136V	hypothetical protein
+20052..22328	-	758	54020310	-	mhp021	-	COG1136V	ABC transporter ATP-binding protein
+22521..24764	-	747	54020311	-	mhp022	-	COG1136V	ABC transporter ATP-binding protein
+24838..27165	-	775	54020312	-	mhp023	-	COG1136V	ABC transporter ATP-binding protein
+27152..27973	-	273	54020313	-	mhp024	-	-	hypothetical protein
+28143..30425	-	760	54020314	-	mhp025	-	COG1136V	ABC transporter ATP-binding protein
+30536..32863	-	775	54020315	-	mhp026	-	COG1136V	ABC transporter ATP-binding protein
+32850..33653	-	267	54020316	-	mhp027	-	-	hypothetical protein
+34028..34510	+	160	54019987	-	mhp028	-	COG4959OU	signal peptidase I
+34903..36222	+	439	54019988	gatA	mhp029	-	COG0154J	amidase
+36215..37615	+	466	54019989	gatB	mhp030	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+37851..38354	+	167	54019990	-	mhp031	-	-	hypothetical protein
+38471..39070	-	199	54020317	lspA	mhp032	-	COG0597MU	lipoprotein signal peptidase
+39042..41702	-	886	54020318	ileS	mhp033	-	COG0060J	isoleucyl-tRNA synthetase
+41702..44242	-	846	54020319	parC	mhp034	-	COG0188L	DNA topoisomerase IV subunit A
+44235..46160	-	641	54020320	parE	mhp035	-	COG0187L	topoisomerase IV subunit B
+46370..47380	+	336	54019991	gap	mhp036	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+47479..49491	+	670	54019992	-	mhp037	-	-	hypothetical protein
+49592..51676	-	694	54020321	-	mhp038	-	COG0557K	VACB-like ribonuclease II
+51682..51915	-	77	54020322	-	mhp039	-	-	hypothetical protein
+51969..53495	-	508	54020323	cls	mhp040	-	COG1502I	cardiolipin synthetase
+53512..54525	-	337	54020324	recA	mhp041	-	COG0468L	recombinase A
+54678..55487	+	269	54019993	licA	mhp042	-	COG0510M	PTS system lichenan-specific transporter subunit IIA
+55489..56748	+	419	54019994	obgE	mhp043	-	COG0536R	GTPase ObgE
+56833..57204	+	123	54019995	-	mhp044	-	-	hypothetical protein
+57208..58416	+	402	54019996	-	mhp045	-	-	hypothetical protein
+58511..58843	+	110	54019997	-	mhp046	-	-	hypothetical protein
+58888..60045	+	385	54019998	-	mhp047	-	COG0389L	DNA polymerase IV
+60050..60481	+	143	54019999	-	mhp048	-	-	hypothetical protein
+60481..61209	+	242	54020000	atpB	mhp049	-	COG0356C	F0F1 ATP synthase subunit A
+61237..61542	+	101	54020001	atpE	mhp050	-	COG0636C	F0F1 ATP synthase subunit C
+61596..62162	+	188	54020002	atpF	mhp051	-	COG0711C	ATP synthase subunit B
+62162..62725	+	187	54020003	atpH	mhp052	-	COG0712C	F0F1 ATP synthase subunit delta
+62743..64266	+	507	54020004	atpA	mhp053	-	COG0056C	F0F1 ATP synthase subunit alpha
+64295..65125	+	276	54020005	atpG	mhp054	-	COG0224C	ATP synthase subunit gamma
+65143..66558	+	471	54020006	atpD	mhp055	-	COG0055C	F0F1 ATP synthase subunit beta
+66905..67399	+	164	54020007	recU	mhp057	-	COG3331R	Holliday junction-specific endonuclease
+67615..68571	+	318	54020008	rpsB	mhp058	-	COG0052J	30S ribosomal protein S2
+68596..69507	+	303	54020009	tsf	mhp059	-	COG0264J	elongation factor Ts
+69592..70914	+	440	54020010	ffh	mhp060	-	COG0541U	signal recognition particle protein
+70941..72308	+	455	54020011	glyS	mhp061	-	COG0423J	glycyl-tRNA synthetase
+72301..74145	+	614	54020012	dnaG	mhp062	-	COG0358L	DNA primase
+74727..76196	+	489	161936260	rpoD	mhp063	-	COG0568K	RNA polymerase sigma factor
+76203..76976	+	257	54020014	-	mhp064	-	COG0327S	hypothetical protein
+76970..77800	+	276	54020015	nfo	mhp065	-	COG0648L	endonuclease IV
+77817..79061	+	414	54020016	tyrS	mhp066	-	COG0162J	tyrosyl tRNA synthetase
+79134..83834	+	1566	54020017	-	mhp067	-	COG1112L	hypothetical protein
+83882..84061	+	59	54020018	-	mhp068	-	-	hypothetical protein
+84177..86786	+	869	54020019	-	mhp069	-	-	hypothetical protein
+86844..88394	-	516	54020325	uvrC	mhp070	-	COG0322L	excinuclease ABC subunit C
+88512..88820	+	102	54020020	-	mhp071	-	-	hypothetical protein
+88928..90811	+	627	54020021	dnaK	mhp072	-	COG0443O	molecular chaperone DnaK
+91551..92147	+	198	54020022	dnaJ	mhp073	-	COG0484O	heat-shock protein
+92206..92895	+	229	54020023	cmk	mhp074	-	COG0283F	cytidylate kinase
+92913..94214	+	433	54020024	engA	mhp075	-	COG1160R	GTP-binding protein EngA
+94190..94480	-	96	54020326	-	mhp076	-	-	hypothetical protein
+94248..94538	+	96	54020025	-	mhp077	-	COG0776L	nucleoid DNA-binding protein
+94541..94771	+	76	54020026	lepA	mhp078	-	-	hypothetical protein
+94772..96568	+	598	54020027	lepA	mhp079	-	COG0481M	GTP-binding protein LepA
+96588..97586	+	332	54020028	-	mhp080	-	-	hypothetical protein
+97805..97948	+	47	54020029	-	mhp081	-	-	hypothetical protein
+97921..99579	-	552	54020327	tnp	mhp082	-	COG5421L	transposase
+99856..101940	-	694	54020328	fusA	mhp083	-	COG0480J	elongation factor G
+101953..102423	-	156	54020329	rpsG	mhp084	-	COG0049J	30S ribosomal protein S7
+102476..102895	-	139	54020330	rpsL	mhp085	-	COG0048J	30S ribosomal protein S12
+103026..103406	-	126	54020331	-	mhp086	-	-	hypothetical protein
+103410..103922	-	170	54020332	-	mhp087	-	-	hypothetical protein
+103913..104356	-	147	54020333	-	mhp088	-	-	hypothetical protein
+104691..105272	+	193	54020030	-	mhp089	-	-	hypothetical protein
+105217..106224	+	335	54020031	-	mhp090	-	-	hypothetical protein
+106211..106909	+	232	54020032	-	mhp091	-	COG1136V	hypothetical protein
+106933..108528	+	531	54020033	-	mhp092	-	COG4591M	hypothetical protein
+108688..109140	+	150	54020034	-	mhp093	-	-	hypothetical protein
+109412..109678	+	88	54020035	rpsP	mhp094	-	COG0228J	30S ribosomal protein S16
+109700..110383	+	227	54020036	trmD	mhp095	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+110436..110801	+	121	54020037	rplS	mhp096	-	COG0335J	50S ribosomal protein L19
+110806..112716	+	636	54020038	topA	mhp097	-	COG0550L	DNA topoisomerase I
+112746..113393	+	215	54020039	-	mhp098	-	-	hypothetical protein
+113375..113974	+	199	54020040	psgA	mhp099	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+113986..115590	-	534	54020334	pyrG	mhp100	-	COG0504F	CTP synthetase
+116100..116915	+	271	54020041	-	mhp101	-	COG1737K	hypothetical protein
+116902..117747	-	281	54020335	ribF	mhp102	-	COG0196H	hypothetical protein
+117749..118558	-	269	54020336	-	mhp103	-	COG0561R	hypothetical protein
+118572..119555	-	327	54020337	truB	mhp104	-	COG0130J	tRNA pseudouridine synthase B
+120296..122452	-	718	54020338	pheT	mhp105	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+122463..123143	-	226	54020339	pheS	mhp106	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+123647..126745	+	1032	54020042	-	mhp107	-	-	hypothetical protein
+126796..129828	+	1010	54020043	-	mhp108	-	-	hypothetical protein
+129959..130297	-	112	54020340	-	mhp109	-	COG1525L	hypothetical protein
+130585..131022	-	145	54020341	smpB	mhp110	-	COG0691O	SsrA-binding protein
+131112..133727	+	871	54020044	pacL	mhp111	-	COG0474P	cation-transporting P-type ATPase
+133724..134677	-	317	54020342	-	mhp112	-	COG1323R	hypothetical protein
+134747..136825	-	692	54020343	lig	mhp113	-	COG0272L	DNA ligase
+136829..137791	-	320	54020344	-	mhp114	-	COG0619P	ABC transporter permease
+137781..138683	-	300	54020345	-	mhp115	-	COG1122P	cobalt transporter ATP-binding subunit
+138656..139474	-	272	54020346	cbiO	mhp116	-	COG1122P	cobalt transporter ATP-binding subunit
+139503..140039	-	178	54020347	hpt	mhp117	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+140072..140806	-	244	54020348	-	mhp118	-	COG0313R	hypothetical protein
+140810..141682	-	290	54020349	-	mhp119	-	COG0470L	DNA polymerase III subunit delta'
+141663..142298	-	211	54020350	tmk	mhp120	-	COG0125F	thymidylate kinase
+142301..142885	-	194	54020351	recR	mhp121	-	COG0353L	recombination protein RecR
+142888..143169	-	93	54020352	-	mhp122	-	COG0718S	hypothetical protein
+143240..145420	-	726	54020353	dnaX	mhp123	-	COG2812L	DNA polymerase III subunits gamma and tau
+145527..145862	+	111	54020045	-	mhp124	-	-	hypothetical protein
+145867..146877	+	336	54020046	lplA	mhp125	-	COG0095H	lipoate-protein ligase A
+146878..147678	+	266	54020047	-	mhp126	-	COG0596R	triacylglycerol lipase
+147681..148217	-	178	54020354	-	mhp127	-	COG0693R	hypothetical protein
+148330..149571	-	413	54020355	serS	mhp128	-	COG0172J	seryl-tRNA synthetase
+149580..150938	-	452	54020356	eno	mhp129	-	COG0148G	phosphopyruvate hydratase
+151217..152011	+	264	54020048	-	mhp130	-	COG0758LU	DNA processing protein SMF
+152011..152319	+	102	54020049	-	mhp131	-	-	hypothetical protein
+152319..154571	+	750	54020050	-	mhp132	-	-	hypothetical protein
+154605..157247	+	880	54020051	trsE	mhp133	-	COG3451U	transfer complex protein
+157247..160879	+	1210	54020052	-	mhp134	-	-	hypothetical protein
+161043..161315	-	90	54020357	rpsT	mhp135	-	COG0268J	30S ribosomal protein S20
+161457..162041	-	194	54020358	-	mhp136	-	COG2731G	hypothetical protein
+161989..163698	-	569	54020359	aspS	mhp137	-	COG0173J	aspartyl-tRNA synthetase
+163685..164971	-	428	54020360	hisS	mhp138	-	COG0124J	histidyl-tRNA synthetase
+165060..167657	-	865	54020361	secD	mhp139	-	COG0341U	preprotein translocase subunit SecD/SecF
+168185..169105	+	306	54020053	-	mhp140	-	-	hypothetical protein
+169086..169664	+	192	54020054	-	mhp141	-	-	hypothetical protein
+170042..170476	+	144	229557956	-	mhp142	-	-	hypothetical protein
+170480..171538	+	352	54020056	-	mhp143	-	-	hypothetical protein
+171649..172692	-	347	54020362	-	mhp144	-	COG0673R	dehydrogenase
+172715..173920	-	401	54020363	-	mhp145	-	COG1879G	periplasmic sugar-binding proteins
+173943..175757	-	604	54020364	rbsC	mhp146	-	COG1172G	ribose ABC transporter
+175770..177215	-	481	54020365	rbsA	mhp147	-	COG1129G	ribose ABC transporter ATP-binding protein
+177311..178213	-	300	54020366	-	mhp148	-	COG1082G	myo-inositol catabolism protein
+178213..180183	-	656	54020367	iolD	mhp149	-	COG3962E	myo-inositol catabolism protein
+180183..181202	-	339	54020368	-	mhp150	-	COG0673R	hypothetical protein
+181192..181998	-	268	54020369	-	mhp151	-	COG3718G	myo-inositol catabolism protein
+181982..183034	-	350	54020370	iolC	mhp152	-	COG0524G	myo-inositol catabolism protein
+182998..184467	-	489	54020371	mmsA	mhp153	-	COG1012C	methylmalonate-semialdehyde dehydrogenase
+184972..186228	+	418	54020057	glyA	mhp154	-	COG0112E	serine hydroxymethyltransferase
+186644..186802	+	52	54020058	-	mhp155	-	-	hypothetical protein
+186885..187946	+	353	54020059	nrdF	mhp156	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+187927..188400	+	157	54020060	nrdI	mhp157	-	COG1780F	ribonucleotide reductase stimulatory protein
+188455..190617	+	720	54020061	nrdE	mhp158	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+190820..191074	-	84	54020372	-	mhp159	-	-	hypothetical protein
+191245..191496	+	83	54020062	-	mhp160	-	-	hypothetical protein
+191598..192071	+	157	54020063	-	mhp161	-	-	hypothetical protein
+192131..192343	+	70	54020064	-	mhp163	-	-	hypothetical protein
+192435..195113	-	892	54020373	-	mhp164	-	COG4166E	hypothetical protein
+195124..201267	-	2047	54020374	-	mhp165	-	-	hypothetical protein
+201254..202585	-	443	54020375	oppF	mhp166	-	COG4608E	oligopeptide ABC transporter ATP-binding protein
+202575..203987	-	470	54020376	oppD	mhp167	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein
+203989..204954	-	321	54020377	oppC	mhp168	-	COG1173EP	oligopeptide transport system permease
+204954..206054	-	366	54020378	oppB	mhp169	-	COG0601EP	oligopeptide ABC transporter system permease
+206513..207565	-	350	54020379	-	mhp170	-	-	hypothetical protein
+207735..209351	+	538	54020065	-	mhp171	-	COG0488R	ABC transporter ATP-binding protein
+209395..210723	+	442	54020066	trmE	mhp172	-	COG0486R	tRNA modification GTPase TrmE
+210712..211542	-	276	54020380	-	mhp173	-	COG0561R	hypothetical protein
+211544..213214	-	556	54020381	lysS	mhp174	-	COG1190J	lysyl-tRNA synthetase
+213132..215279	-	715	54020382	ftsH	mhp175	-	COG0465O	cell division protein
+215319..216212	-	297	54020383	-	mhp176	-	COG0037D	hypothetical protein
+216190..216744	-	184	54020384	pth	mhp177	-	COG0193J	peptidyl-tRNA hydrolase
+216778..217206	-	142	54020385	-	mhp178	-	-	hypothetical protein
+217212..217643	-	143	54020386	-	mhp179	-	COG0816L	hypothetical protein
+217619..220270	-	883	54020387	alaS	mhp180	-	COG0013J	alanyl-tRNA synthetase
+220345..221028	+	227	54020067	-	mhp181	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+221345..224059	-	904	54020388	P102	mhp182	-	-	protein p102
+224080..227406	-	1108	54020389	P97	mhp183	-	-	protein p97; cilium adhesin
+227818..228327	-	169	54020390	-	mhp184	-	-	hypothetical protein
+228071..228250	+	59	54020068	-	mhp185	-	-	hypothetical protein
+228737..229150	+	137	54020069	rpsJ	mhp186	-	COG0051J	30S ribosomal protein S10
+229152..229844	+	230	54020070	rplC	mhp187	-	COG0087J	50S ribosomal protein L3
+229837..230481	+	214	54020071	rplD	mhp188	-	COG0088J	50S ribosomal protein L4
+230485..230988	+	167	54020072	rplW	mhp189	-	COG0089J	50S ribosomal protein L23
+231109..231957	+	282	54020073	rplB	mhp190	-	COG0090J	50S ribosomal protein L2
+231957..232229	+	90	54020074	rpsS	mhp191	-	COG0185J	30S ribosomal protein S19
+232167..232907	-	246	54020391	-	mhp192	-	-	hypothetical protein
+232243..232854	+	203	54020075	rplV	mhp193	-	COG0091J	50S ribosomal protein L22
+232854..233537	+	227	54020076	rpsC	mhp194	-	COG0092J	30S ribosomal protein S3
+233540..233950	+	136	54020077	rplP	mhp195	-	COG0197J	50S ribosomal protein L16
+233958..234323	+	121	54020078	rpmC	mhp196	-	COG0255J	50S ribosomal protein L29
+234307..234603	+	98	54020079	rpsQ	mhp197	-	COG0186J	30S ribosomal protein S17
+234605..234973	+	122	54020080	rplN	mhp198	-	COG0093J	50S ribosomal protein L14
+234978..235301	+	107	54020081	rplX	mhp199	-	COG0198J	50S ribosomal protein L24
+235305..235850	+	181	54020082	rplE	mhp200	-	COG0094J	50S ribosomal protein L5
+235897..236082	+	61	54020083	rpsN	mhp201	-	COG0199J	30S ribosomal protein S14
+236088..236483	+	131	161936259	rpsH	mhp202	-	COG0096J	30S ribosomal protein S8
+236490..237029	+	179	54020085	rplF	mhp203	-	COG0097J	50S ribosomal protein L6
+237032..237397	+	121	54020086	rplR	mhp204	-	COG0256J	50S ribosomal protein L18
+237399..238049	+	216	54020087	rpsE	mhp205	-	COG0098J	30S ribosomal protein S5
+238161..238604	+	147	54020088	rplO	mhp206	-	COG0200J	50S ribosomal protein L15
+238604..240025	+	473	54020089	secY	mhp207	-	COG0201U	preprotein translocase subunit SecY
+240071..240709	+	212	54020090	adk	mhp208	-	COG0563F	adenylate kinase
+240700..241452	+	250	54020091	map	mhp209	-	COG0024J	methionine aminopeptidase
+241453..241680	+	75	54020092	infA	mhp210	-	COG0361J	translation initiation factor IF-1
+241984..242397	+	137	54020093	rpsM	mhp211	-	COG0099J	30S ribosomal protein S13
+242400..242804	+	134	54020094	rps11	mhp212	-	COG0100J	30S ribosomal protein S11
+242811..243809	+	332	54020095	rpoA	mhp213	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+243812..244174	+	120	54020096	rplQ	mhp214	-	COG0203J	50S ribosomal protein L17
+244385..245107	-	240	54020392	-	mhp215	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+245088..245516	-	142	54020393	-	mhp216	-	COG0822C	hypothetical protein
+245509..246654	-	381	54020394	nifS	mhp217	-	COG0520E	nitrogen fixation protein
+246647..247360	-	237	54020395	hlyA	mhp218	-	COG1189J	hemolysin
+247361..247822	-	153	54020396	-	mhp219	-	-	hypothetical protein
+247794..248555	-	253	54020397	-	mhp220	-	COG0781K	hypothetical protein
+248777..250108	-	443	54020398	DeoB	mhp221	-	COG1015G	phosphopentomutase
+250051..252090	+	679	54020097	ABC	mhp222	-	COG2274V	ATP-dependent transport protein
+252062..252445	+	127	54020098	-	mhp223	-	-	hypothetical protein
+252463..252915	+	150	54020099	-	mhp224	-	COG0319R	hypothetical protein
+252915..253310	+	131	54020100	cdd	mhp225	-	COG0295F	cytidine deaminase
+253317..254198	+	293	54020101	era	mhp226	-	COG1159R	GTP-binding protein Era
+254678..255358	+	226	54020102	-	mhp227	-	COG1381L	hypothetical protein
+255385..255945	+	186	54020103	-	mhp228	-	COG0742L	hypothetical protein
+255926..256519	+	197	54020104	gmk	mhp229	-	COG0194F	guanylate kinase
+256520..257377	+	285	54020105	-	mhp230	-	COG1162R	hypothetical protein
+257358..258008	+	216	54020106	rpe	mhp231	-	COG0036G	ribulose-phosphate 3-epimerase
+258092..258514	-	140	54020399	-	mhp232	-	-	hypothetical protein
+258589..259986	-	465	54020400	tig	mhp233	-	COG0544O	trigger factor
+260182..261417	-	411	54020401	-	mhp234	-	COG1281O	hypothetical protein
+261433..262245	-	270	54020402	-	mhp235	-	-	hypothetical protein
+262255..262905	-	216	54020403	-	mhp236	-	COG2059P	chromate transport protein, putative
+262889..263494	-	201	54020404	-	mhp237	-	COG2059P	chromate transport protein, putative
+263634..264392	-	252	54020405	spoU	mhp238	-	COG0566J	tRNA/rRNA methyltransferase
+264379..264903	-	174	54020406	spoU	mhp239	-	COG0219J	tRNA/rRNA methyltransferase
+264896..265306	-	136	54020407	-	mhp240	-	-	hypothetical protein
+265297..266700	-	467	54020408	gltX	mhp241	-	COG0008J	glutamyl-tRNA synthetase
+266761..267477	-	238	54020409	hemK	mhp242	-	COG2890J	protoporphirogen oxidase
+267464..268549	-	361	54020410	prfA	mhp243	-	COG0216J	peptide chain release factor 1
+268594..271545	-	983	54020411	-	mhp244	-	-	hypothetical protein
+271839..272855	-	338	54020412	IctD	mhp245	-	COG0039C	L-lactate dehydrogenase
+272912..274366	-	484	54020413	-	mhp246	-	COG2814G	hypothetical protein
+274584..275687	-	367	54020414	-	mhp247	-	COG1284S	hypothetical protein
+275939..276763	+	274	54020107	lip3	mhp248	-	COG0596R	lipase-esterase
+277021..277275	-	84	54020415	rpmA	mhp249	-	COG0211J	50S ribosomal protein L27
+277284..277583	-	99	54020416	rplU	mhp250	-	COG0261J	50S ribosomal protein L21
+277729..278394	+	221	54020108	ung	mhp251	-	COG0692L	uracil-DNA glycosylase
+278447..279517	+	356	54020109	celM	mhp252	-	COG1363G	endo-1,4-beta-glucanase
+279545..279820	-	91	54020417	-	mhp253	-	-	hypothetical protein
+279895..280686	+	263	54020110	-	mhp254	-	-	hypothetical protein
+280782..282218	+	478	54020111	pyk	mhp255	-	COG0469G	pyruvate kinase
+282448..283101	+	217	54020112	infC	mhp256	-	COG0290J	translation initiation factor IF-3
+283094..283288	+	64	54020113	rpmI	mhp257	-	COG0291J	50S ribosomal protein L35
+283334..283687	+	117	54020114	rplT	mhp258	-	COG0292J	50S ribosomal protein L20
+283743..283937	+	64	54020115	rpmB	mhp259	-	COG0227J	50S ribosomal protein L28
+284102..284803	-	233	54020418	-	mhp260	-	-	hypothetical protein
+284772..285644	-	290	54020419	-	mhp261	-	-	hypothetical protein
+286429..287178	-	249	54020420	-	mhp262	-	-	hypothetical protein
+287187..288014	-	275	54020421	-	mhp263	-	-	hypothetical protein
+288847..289851	-	334	54020422	pdhB	mhp264	-	COG0022C	pyruvate dehydrogenase
+289851..290975	-	374	54020423	pdhA	mhp265	-	COG1071C	pyruvate dehydrogenase E1-subunit alpha
+291165..291680	-	171	54020424	apt	mhp266	-	COG0503F	adenine phosphoribosyltransferase
+291693..293303	-	536	54020425	-	mhp267	-	-	hypothetical protein
+293369..294598	-	409	54020426	-	mhp268	-	-	hypothetical protein
+295045..296013	+	322	54020116	pfkA	mhp269	-	COG0205G	6-phosphofructokinase
+296484..298403	+	639	54020117	gyrB	mhp270	-	COG0187L	DNA gyrase subunit B
+298681..301839	+	1052	54020118	-	mhp271	-	-	p97 cilium adhesin
+301860..304697	+	945	54020119	-	mhp272	-	-	hypothetical protein
+304924..305523	+	199	54020120	-	mhp273	-	-	hypothetical protein
+305756..307111	+	451	54020121	-	mhp274	-	-	hypothetical protein
+307286..308668	+	460	54020122	-	mhp275	-	-	hypothetical protein
+309245..309511	-	88	54020427	rpsO	mhp276	-	COG0184J	30S ribosomal protein S15
+309630..310358	-	242	54020428	tpiA	mhp277	-	COG0149G	triosephosphate isomerase
+310541..312619	+	692	54020123	clpB	mhp278	-	COG0542O	ATP-dependent protease binding protein
+312624..315554	-	976	54020429	-	mhp279	-	-	hypothetical protein
+315563..318997	-	1144	54020430	P95	mhp280	-	-	p95 outer membrane protein
+319023..319940	-	305	54020431	trxB	mhp281	-	COG0492O	thioredoxin reductase
+320077..321063	-	328	54020432	lgt	mhp282	-	COG0682M	prolipoprotein diacylglyceryl transferase
+321607..322098	-	163	54020433	tpx	mhp283	-	COG2077O	thiol peroxidase
+322469..323056	+	195	54020124	-	mhp284	-	COG4508S	hypothetical protein
+323079..324641	-	520	54020434	-	mhp285	-	COG1196D	hypothetical protein
+324777..325109	+	110	54020125	-	mhp286	-	-	hypothetical protein
+325305..327746	+	813	54020126	-	mhp287	-	COG0595R	serine protease
+327761..330604	+	947	54020127	uvrA	mhp288	-	COG0178L	excinuclease ABC subunit A
+330987..331709	-	240	54020435	-	mhp289	-	-	hypothetical protein
+331977..332231	-	84	54020436	-	mhp290	-	-	hypothetical protein
+332219..332428	-	69	54020437	-	mhp291	-	-	hypothetical protein
+332529..334619	+	696	54020128	aprE	mhp292	-	COG1404O	subtilisin-like serine protease
+334609..336081	+	490	54020129	-	mhp293	-	-	hypothetical protein
+336367..337185	-	272	54020438	rbgA	mhp294	-	COG1161R	ribosomal biogenesis GTPase
+338426..341377	+	983	161936258	secA	mhp295	-	COG0653U	preprotein translocase subunit SecA
+341546..342004	+	152	54020131	-	mhp296	-	-	hypothetical protein
+342093..342791	+	232	54020132	deoD	mhp297	-	COG0813F	purine-nucleoside phosphorylase
+342796..344079	+	427	54020133	deoA	mhp298	-	COG0213F	thymidine phosphorylase
+344263..345645	-	460	54020439	nox	mhp299	-	COG0446R	NADH oxidase
+345860..347209	-	449	54020440	potE	mhp300	-	COG0531E	amino acid permease
+348358..348693	-	111	54020441	-	mhp302	-	-	hypothetical protein
+348703..349245	-	180	54020442	-	mhp303	-	-	hypothetical protein
+350489..351592	-	367	54020443	gtp1	mhp304	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+351602..351865	-	87	54020444	rpsR	mhp305	-	COG0238J	30S ribosomal protein S18
+351883..352443	-	186	54020445	-	mhp306	-	COG0629L	single-strand binding protein
+352461..353186	-	241	54020446	rpsF	mhp307	-	COG0360J	30S ribosomal protein S6
+353648..353863	+	71	54020134	-	mhp308	-	-	hypothetical protein
+353914..355098	-	394	54020447	-	mhp309	-	-	hypothetical protein
+355286..356428	-	380	54020448	-	mhp310	-	-	hypothetical protein
+356467..357333	-	288	54020449	-	mhp311	-	-	hypothetical protein
+357410..358162	+	250	54020135	-	mhp312	-	-	hypothetical protein
+359025..360107	+	360	54020136	-	mhp313	-	-	hypothetical protein
+360085..360276	+	63	54020137	-	mhp314	-	-	hypothetical protein
+360505..361137	+	210	54020138	-	mhp315	-	-	hypothetical protein
+361272..362720	+	482	54020139	-	mhp316	-	COG2211G	permease
+362713..363447	+	244	54020140	glpQ	mhp317	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+364021..365985	-	654	54020450	mglA	mhp318	-	COG1136V	ATP-binding protein
+366062..368344	-	760	54020451	mglA	mhp319	-	COG1136V	ABC transporter ATP-binding protein
+368310..369203	-	297	54020452	-	mhp320	-	-	hypothetical protein
+369714..375641	+	1975	54020141	-	mhp321	-	-	hypothetical protein
+375960..377132	-	390	54020453	baiH	mhp322	-	COG1902C	NADH-dependent flavin oxidoreductase
+377135..378166	-	343	54020454	lplA	mhp323	-	COG0095H	lipoate-protein ligase A
+378169..379032	-	287	54020455	-	mhp324	-	COG0846K	hypothetical protein
+379013..379345	-	110	54020456	-	mhp325	-	COG0509E	hypothetical protein
+379703..380596	+	297	54020142	-	mhp326	-	-	hypothetical protein
+380599..382917	+	772	54020143	mglA	mhp327	-	COG1136V	ATP-binding protein
+383007..384959	+	650	54020144	mglA	mhp328	-	COG1136V	ABC transporter ATP-binding protein
+385110..385508	+	132	54020145	-	mhp329	-	-	hypothetical protein
+385720..386823	+	367	54020146	mod	mhp330	-	COG2189L	site-specific DNA-methyltransferase (adenine-specific)
+386828..389239	+	803	54020147	-	mhp331	-	-	hypothetical protein
+389891..390886	+	331	54020148	-	mhp332	-	-	hypothetical protein
+390909..392237	+	442	54020149	-	mhp334	-	-	hypothetical protein
+392227..392580	+	117	54020150	-	mhp335	-	-	hypothetical protein
+393352..394824	-	490	54020457	-	mhp336	-	-	hypothetical protein
+394814..395467	-	217	54020458	-	mhp337	-	-	hypothetical protein
+395997..396233	+	78	54020151	-	mhp338	-	-	hypothetical protein
+396365..397030	-	221	54020459	-	mhp339	-	-	hypothetical protein
+397129..398550	-	473	54020460	-	mhp340	-	COG0286V	hypothetical protein
+398719..399606	-	295	54020461	-	mhp341	-	-	hypothetical protein
+399707..400636	-	309	54020462	-	mhp342	-	-	hypothetical protein
+400638..401546	-	302	54020463	-	mhp343	-	-	hypothetical protein
+401739..401966	-	75	54020464	-	mhp344	-	-	hypothetical protein
+402170..402802	-	210	54020465	-	mhp345	-	-	hypothetical protein
+403196..404278	+	360	54020152	-	mhp346	-	-	hypothetical protein
+404348..404995	+	215	54020153	-	mhp347	-	COG1704S	hypothetical protein
+405532..405978	-	148	54020466	-	mhp348	-	-	hypothetical protein
+406579..407280	+	233	54020154	-	mhp349	-	-	hypothetical protein
+407894..409366	-	490	54020467	-	mhp350	-	-	hypothetical protein
+409368..410828	-	486	54020468	-	mhp351	-	-	hypothetical protein
+411727..414114	-	795	54020469	ABC	mhp352	-	COG1136V	ABC transporter ATP-binding protein
+414293..416020	-	575	54020470	-	mhp353	-	-	hypothetical protein
+415993..416661	-	222	54020471	-	mhp354	-	-	hypothetical protein
+418127..419140	-	337	54020472	-	mhp355	-	-	hypothetical protein
+420130..420453	+	107	54020155	-	mhp356	-	-	hypothetical protein
+420484..421041	+	185	54020156	-	mhp357	-	-	hypothetical protein
+421071..422138	+	355	54020157	-	mhp358	-	-	hypothetical protein
+423276..424112	-	278	54020473	-	mhp359	-	COG1158K	hypothetical protein
+425135..425926	-	263	54020474	-	mhp360	-	-	hypothetical protein
+426125..427096	-	323	54020475	-	mhp361	-	COG3611L	hypothetical protein
+427117..428457	-	446	54020476	-	mhp362	-	COG0561R	hypothetical protein
+428617..430722	+	701	54020158	-	mhp363	-	-	hypothetical protein
+430738..432336	+	532	54020159	-	mhp364	-	-	hypothetical protein
+432368..432700	+	110	54020160	-	mhp365	-	COG0537FGR	HIT-like protein
+432755..434422	-	555	54020477	-	mhp366	-	-	hypothetical protein
+434536..436110	-	524	54020478	-	mhp367	-	-	hypothetical protein
+436224..437780	+	518	54020161	-	mhp368	-	COG0531E	membrane lipoprotein
+438175..438921	-	248	54020479	glpF	mhp369	-	COG0580G	glycerol uptake facilitator protein
+438935..440467	-	510	54020480	glpK	mhp370	-	COG0554C	glycerol kinase
+440806..442071	+	421	54020162	-	mhp371	-	-	high affinity transport system protein p37 precursor
+442055..442825	+	256	54020163	-	mhp372	-	COG3638P	ABC transporter ATP-binding protein
+442803..444524	+	573	54020164	-	mhp373	-	COG3639P	transport system permease protein p69
+444632..445108	+	158	54020165	-	mhp374	-	-	hypothetical protein
+445177..446412	+	411	54020166	-	mhp375	-	-	hypothetical protein
+446331..447260	+	309	54020167	-	mhp376	-	COG1466L	hypothetical protein
+447568..449781	+	737	54020168	-	mhp377	-	-	lipoprotein
+449787..451913	+	708	54020169	-	mhp378	-	-	lipoprotein
+451940..452872	+	310	54020170	-	mhp379	-	COG1525L	lipoprotein
+452886..455063	+	725	54020171	potA	mhp380	-	COG3839G	ABC transporter ATP-binding protein
+455063..456073	+	336	54020172	ugpA	mhp381	-	COG1175G	sn-glycerol-3-phosphate transport system permease
+456036..457001	+	321	229557955	ugpE	mhp382	-	COG0395G	sn-glycerol-3-phosphate transport system permease
+457005..457172	+	55	54020174	-	mhp383	-	-	hypothetical protein
+457334..460207	-	957	54020481	-	mhp384	-	-	hypothetical protein
+460220..463186	-	988	54020482	-	mhp385	-	-	hypothetical protein
+463356..463835	-	159	54020483	sgaA	mhp386	-	COG1762GT	PTS system transporter subunit IIA
+463860..464150	-	96	54020484	sgaB	mhp387	-	COG3414G	pentitol phosphotransferase enzyme II, B component
+464573..466342	-	589	54020485	ulaA	mhp388	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+466406..467458	-	350	54020486	-	mhp389	-	COG1735R	hypothetical protein
+467644..469458	-	604	54020487	-	mhp390	-	-	lipoprotein B
+469575..470762	+	395	54020175	gtsA	mhp391	-	COG3839G	glycerol transporter subunit A
+470707..471687	+	326	54020176	-	mhp392	-	COG1175G	hypothetical protein
+471671..472510	+	279	54020177	-	mhp393	-	COG0395G	hypothetical protein
+472520..473086	+	188	54020178	-	mhp394	-	COG1739S	hypothetical protein
+473196..475496	+	766	54020179	-	mhp395	-	COG1136V	hypothetical protein
+475591..475923	-	110	54020488	trxA	mhp396	-	COG0526OC	thioredoxin
+475990..477429	-	479	54020489	proS	mhp397	-	COG0442J	prolyl-tRNA synthetase
+477888..478283	+	131	54020180	-	mhp399	-	-	hypothetical protein
+478396..479658	+	420	54020181	-	mhp400	-	COG2189L	hypothetical protein
+479793..479966	+	57	54020182	-	mhp401	-	-	hypothetical protein
+480222..480428	+	68	54020183	-	mhp402	-	-	hypothetical protein
+480419..480631	+	70	54020184	-	mhp403	-	-	hypothetical protein
+480743..482122	-	459	54020490	-	mhp404	-	-	hypothetical protein
+482912..483352	+	146	54020185	-	mhp405	-	COG2001S	cell division protein MraZ
+483354..484244	+	296	54020186	-	mhp406	-	COG0275M	hypothetical protein
+484275..485258	+	327	54020187	ftsZ	mhp407	-	COG0206D	cell division protein ftsZ
+485486..486499	+	337	54020188	-	mhp408	-	COG1488H	nicotinate phosphoribosyltransferase
+486489..487259	+	256	54020189	-	mhp409	-	COG4123R	hypothetical protein
+487231..488793	+	520	54020190	metG	mhp410	-	COG0143J	methionyl-tRNA synthetase
+488790..489665	-	291	54020491	-	mhp411	-	-	hypothetical protein
+489865..490416	-	183	54020492	rnc	mhp412	-	COG0571K	ribonuclease III
+490613..491140	-	175	54020493	-	mhp413	-	-	hypothetical protein
+491593..493002	+	469	54020191	-	mhp414	-	-	hypothetical protein
+492983..493177	-	64	54020494	-	mhp415	-	-	hypothetical protein
+493490..494839	+	449	54020192	asnC	mhp416	-	COG0017J	asparaginyl-tRNA synthetase
+494853..495494	+	213	54020193	-	mhp417	-	-	hypothetical protein
+495448..497757	+	769	54020194	pcrA	mhp418	-	COG0210L	ATP-dependent helicase PcrA
+497759..499183	+	474	54020195	-	mhp419	-	-	hypothetical protein
+499177..499338	+	53	54020196	-	mhp420	-	-	hypothetical protein
+499287..499952	+	221	161936257	ruvA	mhp421	-	COG0632L	Holliday junction DNA helicase RuvA
+499930..500886	+	318	54020198	ruvB	mhp422	-	COG2255L	Holliday junction DNA helicase RuvB
+500902..502794	-	630	54020495	-	mhp423	-	-	hypothetical protein
+502821..503969	-	382	54020496	-	mhp424	-	-	hypothetical protein
+504093..504635	-	180	54020497	-	mhp425	-	-	hypothetical protein
+504803..504952	-	49	54020498	-	mhp426	-	-	hypothetical protein
+505079..506137	-	352	54020499	-	mhp427	-	COG2189L	hypothetical protein
+506371..506754	-	127	54020500	-	mhp428	-	-	hypothetical protein
+507084..507401	-	105	54020501	-	mhp429	-	-	hypothetical protein
+507688..508245	+	185	54020199	efp	mhp430	-	COG0231J	elongation factor P
+508289..510136	+	615	54020200	tktA	mhp431	-	COG0021G	transketolase
+510321..511217	+	298	54020201	-	mhp432	-	-	hypothetical protein
+511172..512335	+	387	54020202	mnmA	mhp433	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+512342..513568	-	408	54020502	-	mhp434	-	COG1881R	hypothetical protein
+513773..515176	-	467	54020503	-	mhp435	-	-	hypothetical protein
+515390..517300	-	636	54020504	-	mhp436	-	-	hypothetical protein
+517423..517935	-	170	54020505	-	mhp437	-	-	hypothetical protein
+517928..518854	-	308	54020506	-	mhp438	-	COG0561R	hypothetical protein
+518808..519530	-	240	54020507	araD	mhp439	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+519520..520449	-	309	54020508	sgaU	mhp440	-	COG3623G	L-xylulose 5-phosphate 3-epimerase
+520385..521053	-	222	54020509	ulaD	mhp441	-	COG0269G	3-keto-L-gulonate-6-phosphate decarboxylase
+521033..521209	+	58	54020203	-	mhp442	-	-	hypothetical protein
+521368..523578	-	736	54020510	-	mhp443	-	-	hypothetical protein
+523652..525424	-	590	54020511	-	mhp444	-	-	hypothetical protein
+525621..527462	-	613	54020512	-	mhp445	-	-	hypothetical protein
+527933..539437	-	3834	54020513	-	mhp446	-	-	hypothetical protein
+539538..551447	-	3969	54020514	-	mhp447	-	-	hypothetical protein
+551791..552387	-	198	54020515	engB	mhp448	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+552529..553326	-	265	54020516	-	mhp449	-	COG1692S	hypothetical protein
+553573..554709	-	378	54020517	metK	mhp450	-	COG0192H	S-adenosylmethionine synthetase
+554796..555365	-	189	54020518	-	mhp451	-	COG1136V	hypothetical protein
+555804..563759	-	2651	54020519	-	mhp452	-	-	hypothetical protein
+563951..564535	+	194	54020204	acpD	mhp453	-	COG1182I	acyl carrier protein phosphodiesterase
+564477..565154	+	225	54020205	acpD	mhp454	-	COG1182I	acyl carrier protein phosphodiesterase
+565213..565434	+	73	54020206	rpmE	mhp455	-	COG0254J	50S ribosomal protein L31
+565452..565889	+	145	54020207	napA	mhp456	-	COG0783P	neutrophil activating factor
+565867..566781	+	304	54020208	rluD	mhp457	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+566843..567538	-	231	54020520	rplA	mhp458	-	COG0081J	50S ribosomal protein L1
+567540..567989	-	149	54020521	rplK	mhp459	-	COG0080J	50S ribosomal protein L11
+568648..570042	+	464	54020209	-	mhp460	-	-	hypothetical protein
+570629..572710	+	693	54020210	-	mhp461	-	-	hypothetical protein
+572918..574297	-	459	54020522	pepA	mhp462	-	COG0260E	leucyl aminopeptidase
+574441..575046	-	201	54020523	trmB	mhp463	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+575070..575849	-	259	54020524	-	mhp464	-	-	hypothetical protein
+576001..576942	-	313	54020525	-	mhp465	-	-	hypothetical protein
+576947..579010	-	687	54020526	-	mhp466	-	-	hypothetical protein
+579010..579726	-	238	54020527	bcrA	mhp467	-	COG1131V	ABC transporter ATP-binding protein
+579726..581507	-	593	54020528	-	mhp468	-	-	hypothetical protein
+581688..582602	+	304	54020211	ldh	mhp469	-	COG0039C	hypothetical protein
+582677..584413	+	578	54020212	ptsI	mhp470	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+584587..585327	+	246	54020213	nadE	mhp471	-	COG0171H	NH(3)-dependent NAD+ synthetase
+585327..586055	+	242	54020214	-	mhp472	-	COG0217S	hypothetical protein
+586085..586741	-	218	54020529	-	mhp473	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+586722..587807	-	361	54020530	nadD	mhp474	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+587811..588731	-	306	54020531	-	mhp475	-	COG0561R	hypothetical protein
+589290..590663	-	457	54020532	atpD	mhp476	-	COG0055C	F0F1 ATP synthase subunit beta
+590666..592204	-	512	54020533	atpA	mhp477	-	COG0056C	F0F1 ATP synthase subunit alpha
+592204..594438	-	744	54020534	-	mhp478	-	-	hypothetical protein
+594431..594901	-	156	54020535	-	mhp479	-	-	hypothetical protein
+594902..595768	-	288	54020536	-	mhp480	-	-	hypothetical protein
+595787..596347	-	186	54020537	-	mhp481	-	-	hypothetical protein
+596365..597906	-	513	54020538	-	mhp482	-	-	hypothetical protein
+598244..599047	+	267	54020215	-	mhp483	-	COG0561R	hypothetical protein
+599092..599787	-	231	54020539	-	mhp484	-	-	hypothetical protein
+599898..601358	-	486	54020540	mgtE	mhp485	-	COG2239P	Mg2+ transporter
+601368..601976	-	202	54020541	-	mhp486	-	COG1624S	hypothetical protein
+602210..604849	-	879	54020542	-	mhp487	-	-	hypothetical protein
+605197..606411	+	404	54020216	pgk	mhp488	-	COG0126G	phosphoglycerate kinase
+606587..606841	+	84	54020217	-	mhp489	-	-	hypothetical protein
+606952..608934	+	660	54020218	-	mhp490	-	COG1299G	PTS system fructose-specific transporter subunit IIABC
+608916..609215	+	99	54020219	-	mhp491	-	-	hypothetical protein
+609218..610150	+	310	54020220	pmi	mhp492	-	COG1482G	mannnose-6 phosphate isomerase
+610482..616121	-	1879	54020543	-	mhp493	-	-	hypothetical protein
+616248..620480	-	1410	54020544	p110	mhp494	-	-	p110 membrane protein precursor
+620770..622050	-	426	54020545	yx1	mhp495	-	-	hypothetical protein
+622034..623662	-	542	54020546	-	mhp496	-	COG1363G	hypothetical protein
+623664..624719	-	351	54020547	asnS	mhp497	-	COG0017J	asparagine synthetase A
+624928..627252	-	774	54020548	oppF	mhp498	-	COG1123R	oligopeptide ABC transporter ATP-binding protein
+627252..628304	-	350	54020549	oppD	mhp499	-	COG0444EP	oligopeptide transport system permease
+628304..629461	-	385	54020550	oppC	mhp500	-	COG1173EP	oligopeptide transport system permease
+629454..630494	-	346	54020551	oppB	mhp501	-	COG0601EP	oligopeptide ABC transporter permease
+630494..633310	-	938	54020552	-	mhp502	-	-	hypothetical protein
+634345..635265	+	306	54020221	aceF	mhp503	-	COG0508C	dihydrolipoamide acetyltransferase
+635265..637112	+	615	54020222	pdhD	mhp504	-	COG1249C	dihydrolipoamide dehydrogenase
+637346..638554	-	402	54020553	ackA	mhp505	-	COG0282C	acetate kinase
+638554..639507	-	317	54020554	eutD	mhp506	-	COG0280C	phosphotransacetylase
+639627..640640	-	337	54020555	-	mhp507	-	-	hypothetical protein
+640645..641064	-	139	54020556	-	mhp508	-	-	hypothetical protein
+641289..641693	-	134	54020557	-	mhp509	-	-	hypothetical protein
+641662..642552	-	296	54020558	-	mhp510	-	-	hypothetical protein
+642797..644056	+	419	54020223	P46	mhp511	-	COG4213G	46kd surface antigen precursor
+644182..645720	+	512	54020224	-	mhp512	-	COG1129G	xylose ABC transporter ATP-binding protein
+645720..646970	+	416	54020225	-	mhp513	-	COG4214G	xylose ABC transporter permease protein
+646942..647538	+	198	54020226	-	mhp514	-	-	hypothetical protein
+647525..648418	+	297	54020227	glcK	mhp515	-	COG1940KG	glucokinase
+648659..649687	-	342	54020559	-	mhp516	-	-	hypothetical protein
+649723..650610	-	295	54020560	-	mhp517	-	-	hypothetical protein
+650645..650989	-	114	54020561	-	mhp518	-	-	hypothetical protein
+651629..651787	-	52	54020562	-	mhp519	-	-	hypothetical protein
+652104..653927	-	607	54020563	pepF	mhp520	-	COG1164E	oligoendopeptidase F
+654202..655599	+	465	54020228	-	mhp521	-	-	hypothetical protein
+655617..656069	+	150	54020229	-	mhp522	-	COG0629L	hypothetical protein
+656076..657110	+	344	54020230	-	mhp523	-	-	hypothetical protein
+657353..657619	+	88	54020231	-	mhp525	-	-	hypothetical protein
+657660..659900	+	746	54020232	-	mhp526	-	COG3505U	hypothetical protein
+659928..660989	+	353	54020233	-	mhp527	-	-	hypothetical protein
+661112..661303	+	63	54020234	-	mhp528	-	-	hypothetical protein
+661305..661694	+	129	54020235	-	mhp529	-	-	hypothetical protein
+661713..663413	+	566	54020236	-	mhp530	-	COG0530P	hypothetical protein
+663391..664800	+	469	54020237	-	mhp531	-	-	hypothetical protein
+664815..666089	+	424	54020238	trsE	mhp532	-	COG0433R	transfer complex protein
+666037..666954	+	305	54020239	-	mhp533	-	-	hypothetical protein
+666932..670579	+	1215	54020240	-	mhp534	-	-	hypothetical protein
+670627..672303	-	558	54020564	-	mhp535	-	-	hypothetical protein
+672272..672520	-	82	54020565	-	mhp536	-	-	hypothetical protein
+672492..673640	-	382	54020566	-	mhp537	-	-	hypothetical protein
+673759..674976	+	405	54020241	-	mhp538	-	-	hypothetical protein
+675374..681295	+	1973	54020242	-	mhp539	-	COG2755E	hypothetical protein
+681396..682604	-	402	54020567	tuf	mhp540	-	COG0050J	elongation factor Tu
+682899..685511	-	870	54020568	lon	mhp541	-	COG0466O	heat shock ATP-dependent protease
+685682..686377	-	231	54020569	-	mhp542	-	-	hypothetical protein
+686380..686994	-	204	54020570	upp	mhp543	-	COG0035F	uracil phosphoribosyltransferase
+687087..687752	-	221	54020571	deoC	mhp544	-	COG0274F	deoxyribose-phosphate aldolase
+688193..690754	+	853	54020243	gyrA	mhp545	-	COG0188L	DNA gyrase subunit A
+690805..691233	-	142	54020572	pmsR	mhp546	-	COG0229O	methionine sulfoxide reductase B
+691309..691770	-	153	54020573	-	mhp547	-	-	hypothetical protein
+691830..693119	-	429	54020574	pgi	mhp548	-	COG0166G	glucose-6-phosphate isomerase
+693258..697667	-	1469	54020575	polC	mhp549	-	COG2176L	DNA polymerase III PolC
+697701..698627	-	308	54020576	cdsA	mhp550	-	COG0575I	phosphatidate cytidylyltransferase
+698629..699189	-	186	54020577	frr	mhp551	-	COG0233J	ribosome recycling factor
+699193..699903	-	236	54020578	pyrH	mhp552	-	COG0528F	uridylate kinase
+700063..701412	+	449	54020244	-	mhp553	-	-	hypothetical protein
+701439..701978	+	179	54020245	-	mhp554	-	COG1214O	hypothetical protein
+701998..702834	-	278	54020579	-	mhp555	-	-	hypothetical protein
+702870..704585	-	571	54020580	-	mhp556	-	-	hypothetical protein
+704570..705394	-	274	54020581	potC	mhp557	-	COG1177E	spermidine/putrescine ABC transporter permease
+705387..706247	-	286	54020582	potB	mhp558	-	COG1176E	spermidine/putrescine ABC transporter permease
+706234..707568	-	444	54020583	potA	mhp559	-	COG3842E	spermidine/putrescine transport ATP-binding protein
+708007..708267	+	86	54020246	-	mhp560	-	-	hypothetical protein
+708662..710260	+	532	54020247	-	mhp561	-	-	hypothetical protein
+710341..711036	-	231	54020584	ktrA	mhp562	-	COG0569P	potassium uptake protein
+711340..712818	+	492	54020248	ntpJ	mhp564	-	COG0168P	potassium uptake protein
+713062..717132	-	1356	54020585	-	mhp565	-	-	hypothetical protein
+717110..717271	+	53	54020249	-	mhp566	-	-	hypothetical protein
+717506..717934	-	142	54020586	mtlF	mhp567	-	COG4668G	PTS system mannitol-specific component IIA
+717925..719028	-	367	54020587	mtlD	mhp568	-	COG0246G	mannitol-1-phosphate 5-dehydrogenase
+719028..720503	-	491	54020588	mtlA	mhp569	-	COG2213G	PTS system mannitol-specific transporter subunit IIBC
+720537..721316	+	259	54020250	-	mhp570	-	COG1737K	hypothetical protein
+721639..723153	-	504	54020589	ulaA	mhp571	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+723169..723444	-	91	54020590	-	mhp572	-	COG3414G	hypothetical protein
+723434..723889	-	151	54020591	-	mhp573	-	COG1762GT	hypothetical protein
+723876..724190	-	104	54020592	-	mhp574	-	-	hypothetical protein
+724191..724859	-	222	54020593	-	mhp575	-	-	hypothetical protein
+724852..725475	-	207	54020594	-	mhp576	-	-	hypothetical protein
+725462..726118	-	218	54020595	rpe	mhp577	-	COG0036G	ribulose-phosphate 3-epimerase
+726885..728654	-	589	54020596	-	mhp578	-	-	hypothetical protein
+728626..730059	-	477	54020597	-	mhp579	-	-	hypothetical protein
+730185..731045	-	286	54020598	-	mhp580	-	COG5421L	hypothetical protein
+731203..731646	-	147	54020599	-	mhp581	-	-	hypothetical protein
+731633..731845	-	70	54020600	-	mhp582	-	-	hypothetical protein
+732744..734513	-	589	54020601	-	mhp583	-	-	hypothetical protein
+734485..735102	-	205	54020602	-	mhp584	-	-	hypothetical protein
+735072..735629	-	185	54020603	-	mhp585	-	-	hypothetical protein
+736276..736938	+	220	54020251	-	mhp586	-	COG0265O	hypothetical protein
+737068..738432	-	454	54020604	pdhD	mhp587	-	COG1249C	dihydrolipoamide dehydrogenase
+738609..739763	+	384	54020252	nagA	mhp588	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+739818..740648	-	276	54020605	-	mhp589	-	COG0191G	fructose-bisphosphate aldolase
+740648..742429	-	593	54020606	nagE	mhp590	-	COG1263G	pts system, n-acetylglucosamine-specific enzyme II, ABC component
+742453..743217	-	254	54020607	nagB	mhp591	-	COG0363G	glucosamine-6-phosphate deaminase
+743361..743504	-	47	54020608	-	mhp592	-	-	hypothetical protein
+743585..744202	+	205	54020253	rpsD	mhp593	-	COG0522J	30S ribosomal protein S4
+744316..744750	+	144	54020254	-	mhp594	-	COG0698G	ribose-5-phosphate isomerase B
+744750..745577	+	275	54020255	fpg	mhp595	-	COG0266L	formamidopyrimidine-DNA glycosylase
+745688..746359	-	223	54020609	-	mhp596	-	COG0510M	hypothetical protein
+746386..747519	-	377	54020610	mnuA	mhp597	-	COG2374R	membrane nuclease, lipoprotein
+747541..748425	-	294	54020611	polA	mhp598	-	COG0258L	DNA polymerase I
+748418..751375	-	985	54020612	dnaE	mhp599	-	COG0587L	DNA polymerase III DnaE
+751425..751754	-	109	54020613	rbfA	mhp600	-	COG0858J	ribosome-binding factor A
+751767..753566	-	599	161936256	infB	mhp601	-	COG0532J	translation initiation factor IF-2
+753533..753823	-	96	54020615	-	mhp602	-	COG2740K	hypothetical protein
+753833..755677	-	614	54020616	nusA	mhp603	-	COG0195K	transcription elongation factor NusA
+755670..755897	-	75	54020617	-	mhp604	-	-	hypothetical protein
+756206..758206	+	666	54020256	-	mhp605	-	COG1523G	pullulanase
+758307..759470	-	387	54020618	glpD	mhp606	-	COG0579R	glycerol-3-phosphate dehydrogenase
+759532..759951	-	139	54020619	-	mhp607	-	-	hypothetical protein
+759944..761683	-	579	54020620	thrS	mhp608	-	COG0441J	threonyl-tRNA synthetase
+761687..762670	-	327	54020621	trpS	mhp609	-	COG0180J	tryptophanyl-tRNA synthetase
+762737..763093	+	118	54020257	-	mhp610	-	COG1264G	hypothetical protein
+763130..766330	+	1066	54020258	-	mhp611	-	COG1112L	ABC transporter ATP-binding protein
+766259..767014	-	251	54020622	-	mhp612	-	-	hypothetical protein
+766317..767063	+	248	54020259	rnhB	mhp613	-	COG1039L	ribonuclease HII
+767047..767349	+	100	54020260	-	mhp614	-	COG3763S	hypothetical protein
+767336..768874	+	512	54020261	pgm	mhp615	-	COG0696G	phosphoglyceromutase
+769029..770402	+	457	54020262	-	mhp616	-	-	hypothetical protein
+770374..772161	+	595	54020263	-	mhp617	-	-	hypothetical protein
+772359..773840	+	493	54020264	-	mhp618	-	-	hypothetical protein
+773812..775599	+	595	54020265	-	mhp619	-	-	hypothetical protein
+776483..776851	+	122	54020266	-	mhp620	-	COG1481S	hypothetical protein
+776841..777641	+	266	54020267	-	mhp621	-	-	hypothetical protein
+777692..778249	+	185	54020268	ppa	mhp622	-	COG0221C	inorganic pyrophosphatase
+778502..779857	+	451	54020269	-	mhp623	-	COG1744R	ABC transporter
+780019..781533	+	504	54020270	mglA	mhp624	-	COG3845R	sugar ABC transporter ATP-binding protein
+781536..783248	+	570	54020271	-	mhp625	-	COG4603R	hypothetical protein
+783248..784159	+	303	54020272	-	mhp626	-	COG1079R	hypothetical protein
+784218..784772	+	184	54020273	tdk	mhp627	-	COG1435F	thymidine kinase
+785012..785281	+	89	54020274	ptsH	mhp628	-	COG1925G	phosphocarrier protein HPr
+785500..786096	+	198	54020275	-	mhp629	-	COG2190G	hypothetical protein
+786427..788655	-	742	54020623	-	mhp630	-	-	hypothetical protein
+788907..790991	-	694	54020624	-	mhp631	-	-	hypothetical protein
+791442..791942	-	166	54020625	-	mhp632	-	-	hypothetical protein
+791932..793182	-	416	54020626	-	mhp633	-	COG0270L	cytosine specific DNA methyltransferase
+793244..793663	-	139	54020627	-	mhp634	-	COG0802R	hypothetical protein
+793670..797908	-	1412	54020628	rpoC	mhp635	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+797965..801627	-	1220	54020629	rpoB	mhp636	-	COG0085K	DNA-directed RNA polymerase subunit beta
+801834..802199	-	121	54020630	rplL	mhp637	-	COG0222J	50S ribosomal protein L7/L12
+802211..802708	-	165	161936255	rplJ	mhp638	-	COG0244J	50S ribosomal protein L10
+803140..805638	+	832	54020276	-	mhp639	-	-	hypothetical protein
+805652..808120	+	822	54020277	-	mhp640	-	-	membrane lipoprotein
+808158..809807	-	549	54020632	-	mhp641	-	COG0338L	DNA adenine methylase
+810098..810274	+	58	54020278	-	mhp642	-	-	hypothetical protein
+810462..812072	+	536	54020279	pr1	mhp643	-	COG2274V	ABC transporter ATP-binding protein; multidrug resistance protein
+812083..813696	+	537	54020280	-	mhp644	-	COG4988CO	ABC transporter ATP-binding protein
+814144..814284	+	46	54020281	tnp	mhp645	-	-	transposase
+814459..816048	-	529	54020633	-	mhp646	-	COG0286V	hypothetical protein
+816284..816823	-	179	54020634	-	mhp647	-	-	hypothetical protein
+817157..818767	+	536	54020282	-	mhp648	-	COG2274V	hypothetical protein
+818776..820395	+	539	54020283	-	mhp649	-	COG2274V	hypothetical protein
+820483..822291	-	602	54020635	-	mhp650	-	-	hypothetical protein
+822354..824498	-	714	54020636	ushA	mhp651	-	COG0737F	5'-nucleotidase
+824850..825587	+	245	54020284	-	mhp652	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+825587..826336	+	249	54020285	scpA	mhp653	-	COG1354S	segregation and condensation protein A
+826326..826913	+	195	54020286	scpB	mhp654	-	COG1386K	segregation and condensation protein B
+826920..829757	+	945	54020287	-	mhp655	-	COG0392S	hypothetical protein
+829741..830709	-	322	54020637	gcp	mhp656	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+831245..831817	-	190	54020638	nusG	mhp657	-	COG0250K	transcription antitermination protein NusG
+831838..832062	-	74	54020639	secE	mhp658	-	-	preprotein translocase subunit SecE
+832266..832811	-	181	54020640	-	mhp659	-	-	hypothetical protein
+832832..833533	-	233	54020641	-	mhp660	-	COG0566J	hypothetical protein
+833567..834781	-	404	54020642	cysS	mhp661	-	COG0215J	cysteinyl-tRNA synthetase
+834768..835451	-	227	54020643	-	mhp662	-	COG1451R	hypothetical protein
+835435..836667	-	410	54020644	hlyC	mhp663	-	COG1253R	hemolysin
+836667..838058	-	463	54020645	dnaC	mhp664	-	COG0305L	replicative DNA helicase
+838051..838488	-	145	54020646	rplI	mhp665	-	COG0359J	50S ribosomal protein L9
+838469..840466	-	665	54020647	-	mhp666	-	COG3887T	hypothetical protein
+840470..842737	-	755	54020648	leuS	mhp667	-	COG0495J	leucyl-tRNA synthetase
+842793..842987	-	64	54020649	-	mhp668	-	-	hypothetical protein
+842990..845029	+	679	54020288	uvrB	mhp669	-	COG0556L	excinuclease ABC subunit B
+845051..845914	+	287	54020289	-	mhp670	-	COG0009J	hypothetical protein
+846103..846501	-	132	54020650	rpsI	mhp671	-	COG0103J	30S ribosomal protein S9
+846505..846939	-	144	54020651	rplM	mhp672	-	COG0102J	50S ribosomal protein L13
+847071..847850	-	259	54020652	ksgA	mhp673	-	COG0030J	dimethyladenosine transferase
+847831..849078	-	415	54020653	-	mhp674	-	COG0084L	hypothetical protein
+849175..850167	+	330	54020290	prsA	mhp675	-	COG0462FE	ribose-phosphate pyrophosphokinase
+850190..850798	+	202	54020291	gidB	mhp676	-	COG0357M	16S rRNA methyltransferase GidB
+850938..852821	+	627	54020292	p65	mhp677	-	-	surface lipoprotein
+853019..855958	+	979	54020293	p115	mhp678	-	COG1196D	p115 protein
+856080..856232	+	50	54020294	rpmG	mhp679	-	-	50S ribosomal protein L33
+856234..857271	+	345	54020295	pepP	mhp680	-	COG0006E	XAA-Pro aminopeptidase
+857326..859011	+	561	54020296	-	mhp681	-	-	hypothetical protein
+859075..860640	+	521	54020297	-	mhp682	-	-	hypothetical protein
+861222..864806	-	1194	54020654	-	mhp683	-	-	hypothetical protein
+864835..868788	-	1317	54020655	p146	mhp684	-	-	p146 adhesin like-protein, p97
+869337..870935	+	532	54020298	pr1	mhp685	-	COG1132V	multidrug resistance protein
+870928..872541	+	537	54020299	pr2	mhp686	-	COG2274V	multidrug resistance protein
+878322..878936	+	204	54020300	-	mhp688	-	-	hypothetical protein
+878945..879478	-	177	54020656	-	mhp689	-	-	hypothetical protein
+878976..879458	+	160	54020301	greA	mhp690	-	COG0782K	transcription elongation factor GreA
+879458..881020	+	520	54020302	-	mhp691	-	COG0534V	hypothetical protein
+881101..882066	+	321	54020303	-	mhp692	-	-	hypothetical protein
+882079..883992	+	637	54020304	-	mhp693	-	-	hypothetical protein
+884003..886471	+	822	54020305	valS	mhp694	-	COG0525J	valyl-tRNA synthetase
+886478..887557	-	359	54020657	-	mhp695	-	-	hypothetical protein
+887535..890138	-	867	54020658	-	mhp696	-	-	hypothetical protein
+890232..892061	-	609	54020659	-	mhp697	-	COG0706U	inner membrane protein translocase component YidC
+892334..892609	+	91	54020306	-	mhp698	-	-	hypothetical protein
+892407..892550	-	47	54020660	rpmH	mhp699	-	-	50S ribosomal protein L34

@@ -1,0 +1,766 @@
+Mycoplasma gallisepticum CA06_2006.052-5-2P chromosome, complete genome - 1..976412
+763 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1886..2674	+	262	401770402	parA	HFMG06CAA_0005	-	-	ParA/Soj family protein
+2664..3143	+	159	401770403	-	HFMG06CAA_0007	-	-	hypothetical protein
+3159..4544	+	461	401770404	dnaA	HFMG06CAA_0010	-	-	chromosomal replication initiator protein DnaA
+4669..5076	+	135	401770405	-	HFMG06CAA_0016	-	-	ABC transporter domain-containing protein
+5125..6072	+	315	401770406	-	HFMG06CAA_0020	-	-	ABC-type multidrug/protein/lipid (MdlB-like) transport system component domain-containing protein
+6116..6382	+	88	401770407	-	HFMG06CAA_0024	-	-	ABC transporter ATP-binding protein domain-containing protein
+6388..6549	+	53	401770408	-	HFMG06CAA_0027	-	-	ABC-type multidrug/protein/lipid (MdlB-like) transport system component domain-containing protein
+6642..8288	+	548	401770409	-	HFMG06CAA_0029	-	-	ABC-type multidrug/protein/lipid (MdlB-like) transport system component domain-containing protein
+8383..8532	+	49	401770410	rpL34	HFMG06CAA_0043	-	-	50S ribosomal protein L34
+8544..8891	+	115	401770411	rnpA	HFMG06CAA_0046	-	-	ribonuclease P protein component
+8896..10047	+	383	401770412	yidC/oxaA	HFMG06CAA_0048	-	-	inner membrane protein translocase component YidC
+10047..10853	+	268	401770413	ksgA	HFMG06CAA_0057	-	-	dimethyladenosine transferase
+10768..11553	+	261	401770414	ispE	HFMG06CAA_0063	-	-	diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase
+11566..13215	+	549	401770415	argS	HFMG06CAA_0067	-	-	arginyl-tRNA synthetase
+13224..14393	+	389	401770416	mnuA	HFMG06CAA_0074	-	-	membrane nuclease MnuA
+14448..15179	-	243	401770417	glpF	HFMG06CAA_0082	-	-	glycero uptake facilitator protein GlpF
+15179..16705	-	508	401770418	glpK	HFMG06CAA_0093	-	-	glycerol kinase
+16744..17934	-	396	401770419	glpO	HFMG06CAA_0098	-	-	glycerol 3-P oxidase
+18177..20429	-	750	401770420	-	HFMG06CAA_0109	-	-	hypothetical protein
+20656..21171	-	171	401770421	-	HFMG06CAA_0112	-	-	ferritin-like protein
+21299..22126	+	275	401770422	-	HFMG06CAA_0113	-	-	GMP synthase
+22123..23823	-	566	401770423	-	HFMG06CAA_0133	-	-	hydrolase
+24255..28340	+	1361	401770424	-	HFMG06CAA_0137	-	-	ABC transporter permease
+28344..29843	+	499	401770425	-	HFMG06CAA_0152	-	-	ABC transporter ATP-binding protein
+30244..30417	+	57	401770426	-	HFMG06CAA_0162	-	-	hypothetical protein
+30411..30926	+	171	401770427	-	HFMG06CAA_0164	-	-	hypothetical protein
+31400..31867	+	155	401770428	ispF	HFMG06CAA_0170	-	-	2-C-methyl-D-erythritol 2,4-cyclo diphosphate synthase
+31874..32419	+	181	401770429	hpt	HFMG06CAA_0173	-	-	Hypoxanthine-guanine phosphoribosyltransferase Hpt
+32445..34742	+	765	401770430	ftsH	HFMG06CAA_0177	-	-	cell division protease ftsH-like protein
+34788..35411	+	207	401770431	-	HFMG06CAA_0194	-	-	dihydroxyacetone kinase family protein, ADP-binding subunit dhaL
+35401..36291	+	296	401770432	-	HFMG06CAA_0195	-	-	hypothetical protein
+36349..36615	+	88	401770433	fruB	HFMG06CAA_0198	-	-	phosphocarrier protein HPr
+36680..38668	+	662	401770434	tktA_1	HFMG06CAA_0201	-	-	transketolase
+38658..41330	+	890	401770435	secA	HFMG06CAA_0211	-	-	protein translocase subunit secA
+41610..43838	+	742	401770436	mslA	HFMG06CAA_0226	-	-	mycoplasma specific lipoprotein A
+43903..44733	+	276	401770437	-	HFMG06CAA_0236	-	-	nuclease-like lipoprotein
+44797..46530	+	577	401770438	ugpC	HFMG06CAA_0242	-	-	ABC-type sn-glycerol-3-phosphate transport system ATP-binding protein
+46533..47522	+	329	401770439	ugpA	HFMG06CAA_0252	-	-	ABC-type sn-glycerol-3-phosphate transport system permease ugpA
+47497..48474	+	325	401770440	ugpE	HFMG06CAA_0259	-	-	ABC-type sn-glycerol-3-phosphate transport system permease ugpE
+48667..49635	+	322	401770441	-	HFMG06CAA_0265	-	-	exopolyphosphatase-like protein
+50445..52541	+	698	401770442	uvrB	HFMG06CAA_0276	-	-	excinuclease ABC subunit B
+52599..53756	+	385	401770443	pstS	HFMG06CAA_0287	-	-	ABC-type phosphate transport system periplasmic phosphate binding protein
+53756..55714	+	652	401770444	pstC/pstA	HFMG06CAA_0296	-	-	ABC-type phosphate transport system permease pstC/pstA
+55707..56684	+	325	401770445	pstB	HFMG06CAA_0302	-	-	ABC-type phosphate transport system ATP-binding protein pstB
+56687..57373	+	228	401770446	phoU	HFMG06CAA_0307	-	-	phosphate transport system protein PhoU
+57453..59621	-	722	401770447	nrdA	HFMG06CAA_0327	-	-	ribonucleotide-diphosphate reductase subunit alpha
+59718..60173	-	151	401770448	nrdI	HFMG06CAA_0330	-	-	ribonucleotide reductase stimulatory protein NrdI
+60176..61195	-	339	401770449	nrdF	HFMG06CAA_0339	-	-	Ribonucleoside-diphosphate reductase subunit beta
+61741..62610	+	289	401770450	thyA	HFMG06CAA_0343	-	-	thymidylate synthase
+62610..63563	+	317	401770451	folA/cd	HFMG06CAA_0347	-	-	bifunctional dihydrofolate reductase/deoxycytidylate deaminase
+63595..63789	-	64	401770452	-	HFMG06CAA_0355	-	-	hypothetical protein
+65184..66065	-	293	401770453	-	HFMG06CAA_0367	-	-	hypothetical protein
+66318..66683	+	121	401770454	rpsJ	HFMG06CAA_0369	-	-	30S ribosomal protein S10
+66715..67425	+	236	401770455	rplC	HFMG06CAA_0373	-	-	50S ribosomal protein L3
+67452..68081	+	209	401770456	rplD	HFMG06CAA_0380	-	-	50S ribosomal protein L4
+68084..68410	+	108	401770457	rplW	HFMG06CAA_0384	-	-	50S ribosomal protein L23
+68457..69308	+	283	401770458	rplB	HFMG06CAA_0388	-	-	50S ribosomal protein L2
+69329..69592	+	87	401770459	rpsS	HFMG06CAA_0396	-	-	30S ribosomal protein S19
+69603..70037	+	144	401770460	rplV	HFMG06CAA_0399	-	-	50S ribosomal protein L22
+70040..70831	+	263	401770461	rpsC	HFMG06CAA_0403	-	-	30S ribosomal protein S3
+70837..71253	+	138	401770462	rplP	HFMG06CAA_0409	-	-	50S ribosomal protein L16
+71253..71714	+	153	401770463	rpmC	HFMG06CAA_0414	-	-	50S ribosomal protein L29
+71720..71977	+	85	401770464	rpsQ	HFMG06CAA_0417	-	-	30S ribosomal protein S17
+72005..72379	+	124	401770465	rplN	HFMG06CAA_0420	-	-	50S ribosomal protein L14
+72390..72719	+	109	401770466	rplX	HFMG06CAA_0422	-	-	50S ribosomal protein L24
+72719..73276	+	185	401770467	rplE	HFMG06CAA_0426	-	-	50S ribosomal protein L5
+73269..73454	+	61	401770468	rpsN	HFMG06CAA_0428	-	-	30S ribosomal protein S14
+73478..73879	+	133	401770469	rpsH	HFMG06CAA_0430	-	-	30S ribosomal protein S8
+73898..74449	+	183	401770470	rplF	HFMG06CAA_0433	-	-	50S ribosomal protein L6
+74456..74815	+	119	401770471	rplR	HFMG06CAA_0437	-	-	50S ribosomal protein L18
+74829..75494	+	221	401770472	rpsE	HFMG06CAA_0440	-	-	30S ribosomal protein S5
+75510..75953	+	147	401770473	rplO	HFMG06CAA_0447	-	-	50S ribosomal protein L15
+75966..77462	+	498	401770474	secY	HFMG06CAA_0451	-	-	preprotein translocase subunit secY
+77456..78100	+	214	401770475	adk	HFMG06CAA_0459	-	-	adenylate kinase
+78111..78863	+	250	401770476	map	HFMG06CAA_0466	-	-	methionine aminopeptidase
+79043..80014	+	323	401770477	ldh	HFMG06CAA_0472	-	-	L-lactate dehydrogenase
+83595..86981	-	1128	401770478	-	HFMG06CAA_0537	-	-	hypothetical protein
+87038..88516	+	492	401770479	lysS	HFMG06CAA_0538	-	-	lysyl-tRNA synthetase
+88553..89683	+	376	401770480	dnaJ	HFMG06CAA_0548	-	-	DnaJ-like molecular chaperone
+89704..90453	+	249	401770481	-	HFMG06CAA_0557	-	-	hypothetical protein
+90613..91677	+	354	401770482	-	HFMG06CAA_0562	-	-	hypothetical protein
+91654..92469	-	271	401770483	-	HFMG06CAA_0573	-	-	hypothetical protein
+92560..94296	+	578	401770484	ptsA	HFMG06CAA_0574	-	-	phosphoenolpyruvate-protein kinase
+94377..94922	+	181	401770485	-	HFMG06CAA_0584	-	-	sigma factor-like protein
+95357..95629	+	90	401770486	rpsO	HFMG06CAA_0588	-	-	30S ribosomal protein S15
+95660..97441	+	593	401770487	-	HFMG06CAA_0590	-	-	hydrolase
+97461..99416	+	651	401770488	ftsK	HFMG06CAA_0603	-	-	DNA translocase ftsK
+99420..99749	+	109	401770489	trxA_1	HFMG06CAA_0611	-	-	thioredoxin
+99758..102373	+	871	401770490	-	HFMG06CAA_0615	-	-	hypothetical protein
+102373..105231	+	952	401770491	uvrA	HFMG06CAA_0625	-	-	excinuclease ABC subunit A UvrA
+105270..106157	+	295	401770492	tsf	HFMG06CAA_0641	-	-	elongation factor Ts (EF-Ts)
+106181..106891	+	236	401770493	pyrH	HFMG06CAA_0646	-	-	uridylate kinase
+106904..107455	+	183	401770494	frr	HFMG06CAA_0652	-	-	ribosome-recycling factor (RRF) (Ribosome-releasing factor)
+107455..108573	+	372	401770495	cdsA	HFMG06CAA_0654	-	-	phosphatidate cytidylyltransferase
+108578..109684	+	368	401770496	dxr	HFMG06CAA_0661	-	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+109687..110502	+	271	401770497	-	HFMG06CAA_0667	-	-	protease
+110525..115009	+	1494	401770498	polC	HFMG06CAA_0673	-	-	DNA polymerase III subunit alpha polC/Gram positive-type
+115031..118411	+	1126	401770499	-	HFMG06CAA_0695	-	-	helicase superfamily protein
+119156..120643	-	495	401770500	-	HFMG06CAA_0720	-	-	hypothetical protein
+120657..122600	-	647	401770501	-	HFMG06CAA_0730	-	-	subtilisin-like serine protease
+122915..124366	-	483	401770502	-	HFMG06CAA_0741	-	-	hypothetical protein
+124380..124547	-	55	401770503	-	HFMG06CAA_0742	-	-	subtilisin-like serine protease domain-containing protein
+124711..124812	-	33	401770504	-	HFMG06CAA_0744	-	-	HAD superfamily hydrolase Cof domain-containing protein
+125008..125436	-	142	401770505	-	HFMG06CAA_0749	-	-	transposase domain-containing protein
+125298..125552	-	84	401770506	-	HFMG06CAA_0751	-	-	transposase domain-containing protein
+125536..125868	-	110	401770507	-	HFMG06CAA_0754	-	-	transposase domain-containing protein
+126385..128217	+	610	401770508	-	HFMG06CAA_0756	-	-	ABC transporter protein
+128217..128921	+	234	401770509	-	HFMG06CAA_0767	-	-	ABC-type multidrug-like transport system ATP-binding protein
+128899..129912	+	337	401770510	-	HFMG06CAA_0773	-	-	hypothetical protein
+129896..130909	+	337	401770511	-	HFMG06CAA_0775	-	-	hypothetical protein
+130899..131780	+	293	401770512	-	HFMG06CAA_0778	-	-	hypothetical protein
+131781..132707	+	308	401770513	-	HFMG06CAA_0783	-	-	hypothetical protein
+133197..133571	-	124	401770514	-	HFMG06CAA_0791	-	-	hypothetical protein
+133855..133995	-	46	401770515	-	HFMG06CAA_0793	-	-	transposase domain-containing protein
+133952..134185	-	77	401770516	-	HFMG06CAA_0796	-	-	transposase domain-containing protein
+135189..135293	+	34	401770517	-	HFMG06CAA_0801	-	-	subtilisin-like serine protease domain-containing protein
+135534..135860	+	108	401770518	-	HFMG06CAA_0803	-	-	hypothetical protein
+137662..139638	+	658	401770519	-	HFMG06CAA_0812	-	-	subtilisin-like serine protease
+139654..141153	+	499	401770520	-	HFMG06CAA_0826	-	-	hypothetical protein
+141451..143319	+	622	401770521	nusA	HFMG06CAA_0835	-	-	transcription elongation factor NusA
+143334..143603	+	89	401770522	-	HFMG06CAA_0849	-	-	hypothetical protein
+143596..145443	+	615	401770523	infB	HFMG06CAA_0851	-	-	translation initiation factor IF-2
+145443..145802	+	119	401770524	rbfA	HFMG06CAA_0863	-	-	ribosome-binding factor A
+146123..146677	-	184	401770525	-	HFMG06CAA_0870	-	-	transposase domain-containing protein
+146641..146916	-	91	401770526	-	HFMG06CAA_0875	-	-	transposase domain-containing protein
+146961..147362	-	133	401770527	-	HFMG06CAA_0880	-	-	transposase domain-containing protein
+147678..149546	-	622	401770528	-	HFMG06CAA_0889	-	-	hypothetical protein
+149882..149986	+	34	401770529	-	HFMG06CAA_0891	-	-	hypothetical protein
+150595..151026	+	143	401770530	-	HFMG06CAA_0894	-	-	hypothetical protein
+151035..151679	+	214	401770531	truB	HFMG06CAA_0896	-	-	tRNA pseudouridine synthase B
+151651..153624	+	657	401770532	ribF/trmU	HFMG06CAA_0898	-	-	multifunctional functional FAD synthetase/iboflavin kinase/tRNA-specific 2-thiouridylase
+153626..154942	-	438	401770533	ach1	HFMG06CAA_0916	-	-	acetyl-CoA hydrolase
+155394..158138	+	914	401770534	alaS	HFMG06CAA_0919	-	-	alanyl-tRNA synthetase
+158126..158554	+	142	401770535	-	HFMG06CAA_0933	-	-	Holliday junction resolvase
+158529..159101	+	190	401770536	smtA	HFMG06CAA_0934	-	-	SAM-dependent methyltransferase
+159070..160023	+	317	401770537	-	HFMG06CAA_0937	-	-	collagenase/U32-family protease
+160023..161252	+	409	401770538	-	HFMG06CAA_0941	-	-	collagenase/U32-family protease
+161264..161518	-	84	401770539	rpsT	HFMG06CAA_0952	-	-	30S ribosomal protein S20
+161595..162254	+	219	401770540	-	HFMG06CAA_0953	-	-	hypothetical protein
+162261..163208	+	315	401770541	fmt	HFMG06CAA_0957	-	-	methionyl-tRNA formyltransferase
+163214..165364	+	716	401770542	-	HFMG06CAA_0959	-	-	hypothetical protein
+165409..165897	+	162	401770543	-	HFMG06CAA_0968	-	-	beta-galactosidase-like protein
+165888..167918	+	676	401770544	-	HFMG06CAA_0972	-	-	hypothetical protein
+167878..168615	+	245	401770545	-	HFMG06CAA_0982	-	-	hypothetical protein
+169701..169967	+	88	401770546	-	HFMG06CAA_0992	-	-	hypothetical protein
+170025..172697	+	890	401770547	ptsG_1	HFMG06CAA_0994	-	-	PTS system glucose-specific transporter subunit IIABC
+172785..174272	+	495	401770548	putA	HFMG06CAA_1013	-	-	glyceraldehyde-3-phosphate dehydrogenase
+174339..174647	+	102	401770549	rpmE	HFMG06CAA_1025	-	-	50S ribosomal protein L31
+174729..175811	+	360	401770550	prfA	HFMG06CAA_1029	-	-	peptide chain release factor 1
+175816..176670	+	284	401770551	hemK	HFMG06CAA_1040	-	-	HemK-like methylase
+176658..177206	+	182	401770552	-	HFMG06CAA_1043	-	-	translation factor/ribosome maturation factor (Sua5)
+177298..177768	+	156	401770553	rpiB	HFMG06CAA_1046	-	-	ribose 5-phosphate isomerase
+177704..178252	+	182	401770554	-	HFMG06CAA_1048	-	-	hypothetical protein
+178299..178823	+	174	401770555	recU	HFMG06CAA_1050	-	-	Holliday junction resolvase recU (Recombination protein U-like protein)
+178795..179166	-	123	401770556	himA/hup	HFMG06CAA_1055	-	-	Histone-like DNA-binding superfamily protein HimA/HU/Integration host factor
+179306..179755	+	149	401770557	-	HFMG06CAA_1057	-	-	hypothetical protein
+179758..179967	+	69	401770558	-	HFMG06CAA_1059	-	-	hypothetical protein
+180140..180649	+	169	401770559	rplJ	HFMG06CAA_1061	-	-	50S ribosomal protein L10
+180689..181051	+	120	401770560	rplL	HFMG06CAA_1064	-	-	50S ribosomal protein L7/L12
+181100..181273	+	57	401770561	rpL32	HFMG06CAA_1065	-	-	50S ribosomal protein L32
+181273..181464	+	63	401770562	-	HFMG06CAA_1068	-	-	hypothetical protein
+181611..182786	-	391	401770563	dnaJ	HFMG06CAA_1079	-	-	DnaJ-like molecular chaperone
+183141..184346	+	401	401770564	-	HFMG06CAA_1081	-	-	hypothetical protein
+184316..184447	+	43	401770565	-	HFMG06CAA_1085	-	-	hypothetical protein
+184481..186613	+	710	401770566	-	HFMG06CAA_1090	-	-	hypothetical protein
+186680..187354	-	224	401770567	metG	HFMG06CAA_1103	-	-	methionyl-tRNA synthetase
+187396..187698	-	100	401770568	dnaJ	HFMG06CAA_1109	-	-	DnaJ-like molecular chaperone domain-containing protein
+187881..188273	-	130	401770569	dnaJ	HFMG06CAA_1115	-	-	DnaJ-like molecular chaperone domain-containing protein
+188613..189803	+	396	401770570	-	HFMG06CAA_1117	-	-	hypothetical protein
+189841..189993	+	50	401770571	-	HFMG06CAA_1122	-	-	hypothetical protein
+189921..191972	+	683	401770572	-	HFMG06CAA_1124	-	-	hypothetical protein
+192041..192718	-	225	401770573	metG	HFMG06CAA_1141	-	-	methionyl-tRNA synthetase
+192760..193062	-	100	401770574	dnaJ	HFMG06CAA_1147	-	-	DnaJ-like molecular chaperone domain-containing protein
+193245..193637	-	130	401770575	dnaJ	HFMG06CAA_1153	-	-	DnaJ-like molecular chaperone domain-containing protein
+193977..195167	+	396	401770576	-	HFMG06CAA_1155	-	-	hypothetical protein
+195205..195357	+	50	401770577	-	HFMG06CAA_1160	-	-	hypothetical protein
+195285..197336	+	683	401770578	-	HFMG06CAA_1162	-	-	hypothetical protein
+197405..199177	-	590	401770579	metG	HFMG06CAA_1183	-	-	methionyl-tRNA synthetase
+199197..200567	-	456	401770580	engA	HFMG06CAA_1194	-	-	GTPase EngA
+200560..201234	-	224	401770581	cmk	HFMG06CAA_1197	-	-	cytidylate kinase
+201237..201878	-	213	401770582	-	HFMG06CAA_1200	-	-	hypothetical protein
+201969..202520	+	183	401770583	-	HFMG06CAA_1201	-	-	glutamine amidotransferase-domain-containing protein
+204071..206029	+	652	401770584	-	HFMG06CAA_1219	-	-	subtilisin-like serine protease
+206051..207505	+	484	401770585	-	HFMG06CAA_1234	-	-	hypothetical protein
+208126..209625	+	499	401770586	-	HFMG06CAA_1245	-	-	hypothetical protein
+209899..210714	-	271	401770587	-	HFMG06CAA_1257	-	-	hypothetical protein
+210780..211700	+	306	401770588	miaA	HFMG06CAA_1258	-	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+211693..212739	+	348	401770589	hemN	HFMG06CAA_1265	-	-	coproporphyrinogen III oxidase
+212846..215797	+	983	401770590	smc	HFMG06CAA_1271	-	-	chromosome segregation ATPase SMC
+215797..216843	+	348	401770591	ftsY	HFMG06CAA_1286	-	-	signal recognition particle receptor ftsY
+216818..217144	+	108	401770592	-	HFMG06CAA_1290	-	-	hypothetical protein
+217207..217827	+	206	401770593	-	HFMG06CAA_1293	-	-	hypothetical protein
+217827..218111	+	94	401770594	-	HFMG06CAA_1301	-	-	single-stranded DNA binding protein
+218124..219845	+	573	401770595	thrS	HFMG06CAA_1303	-	-	threonyl-tRNA synthetase
+219857..220681	+	274	401770596	-	HFMG06CAA_1308	-	-	hypothetical protein
+220797..223973	+	1058	401770597	hlp3	HFMG06CAA_1311	-	-	cytadherence-associated protein Hlp3
+223973..224782	+	269	401770598	licA	HFMG06CAA_1328	-	-	choline kinase
+224850..225767	+	305	401770599	mgc2	HFMG06CAA_1334	-	-	cytadhesin protein MGC2
+225928..229305	+	1125	401770600	gapA	HFMG06CAA_1343	-	-	cytadhesin protein GapA
+229327..232503	+	1058	401770601	crmA	HFMG06CAA_1365	-	-	cytadherence related molecule A (CrmA)
+232665..235430	+	921	401770602	crmB	HFMG06CAA_1386	-	-	cytadherence related molecule B (CrmB)
+235437..237986	+	849	401770603	crmC	HFMG06CAA_1400	-	-	cytadherence related molecule C (CrmC)
+238077..239336	+	419	401770604	hisS	HFMG06CAA_1418	-	-	histidyl-tRNA synthetase
+239346..241094	+	582	401770605	aspS	HFMG06CAA_1423	-	-	aspartyl-tRNA synthetase
+241098..243266	+	722	401770606	spoT	HFMG06CAA_1438	-	-	Guanosine polyphosphate pyrophosphohydrolases/synthetase
+243274..244896	+	540	401770607	pyrG	HFMG06CAA_1448	-	-	CTP synthase
+244907..247837	+	976	401770608	-	HFMG06CAA_1457	-	-	hypothetical protein
+247841..248377	+	178	401770609	apt	HFMG06CAA_1474	-	-	adenine phosphoribosyltransferase
+248461..249243	+	260	401770610	-	HFMG06CAA_1478	-	-	hypothetical protein
+249304..249831	+	175	401770611	-	HFMG06CAA_1482	-	-	hypothetical protein
+249851..250330	+	159	401770612	greA	HFMG06CAA_1484	-	-	transcription elongation factor GreA
+251221..252615	+	464	401770613	potE	HFMG06CAA_1495	-	-	amino acid permease
+252759..253181	+	140	401770614	-	HFMG06CAA_1502	-	-	DNA-binding ferritin-like protein
+253544..255487	+	647	401770615	-	HFMG06CAA_1509	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+255805..257886	+	693	401770616	-	HFMG06CAA_1525	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+258211..260280	+	689	401770617	-	HFMG06CAA_1535	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+260617..262695	+	692	401770618	-	HFMG06CAA_1550	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+263006..265096	+	696	401770619	-	HFMG06CAA_1563	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+265398..267836	+	812	401770620	-	HFMG06CAA_1572	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+268204..270270	+	688	401770621	-	HFMG06CAA_1584	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+270568..272586	+	672	401770622	-	HFMG06CAA_1599	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+273717..273866	-	49	401770623	-	HFMG06CAA_1617	-	-	transposase domain-containing protein
+273906..274046	-	46	401770624	-	HFMG06CAA_1620	-	-	transposase domain-containing protein
+274010..274237	-	75	401770625	-	HFMG06CAA_1623	-	-	transposase domain-containing protein
+274751..274909	-	52	401770626	-	HFMG06CAA_1631	-	-	transposase domain-containing protein
+275362..275508	-	48	401770627	-	HFMG06CAA_1635	-	-	hypothetical protein
+275950..277818	+	622	401770628	-	HFMG06CAA_1637	-	-	hypothetical protein
+278281..278724	+	147	401770629	dut	HFMG06CAA_1646	-	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+278794..279369	-	191	401770630	-	HFMG06CAA_1654	-	-	protease-like protein
+279375..280310	-	311	401770631	rluA_1	HFMG06CAA_1660	-	-	pseudouridine synthase
+280303..281217	-	304	401770632	lspA	HFMG06CAA_1664	-	-	lipoprotein signal peptidase
+281349..281930	+	193	401770633	-	HFMG06CAA_1665	-	-	glutamine amidotransferase-domain-containing protein
+282171..282296	-	41	401770634	-	HFMG06CAA_1672	-	-	restriction modification methylase domain-containing protein
+282583..282792	+	69	401770635	-	HFMG06CAA_1674	-	-	restriction endonuclease-like domain-containing protein
+283024..283854	-	276	401770636	-	HFMG06CAA_1681	-	-	esterase/lipase
+283972..288144	+	1390	401770637	rpoB	HFMG06CAA_1682	-	-	DNA-directed RNA polymerase subunit beta (RNAP subunit beta)
+288168..292028	+	1286	401770638	rpoC	HFMG06CAA_1704	-	-	DNA-directed RNA polymerase subunit beta' (RNAP subunit beta')
+292141..295152	+	1003	401770639	-	HFMG06CAA_1727	-	-	hypothetical protein
+295252..298758	+	1168	401770640	-	HFMG06CAA_1742	-	-	hypothetical protein
+298834..300351	+	505	401770641	-	HFMG06CAA_1756	-	-	hypothetical protein
+301731..302831	+	366	401770642	hatA	HFMG06CAA_1777	-	-	ABC-type high affinity transport system protein HatA
+302831..303577	+	248	401770643	hatB	HFMG06CAA_1784	-	-	ABC-type high affinity transport system ATPase HatB
+303549..305168	+	539	401770644	hatC	HFMG06CAA_1788	-	-	ABC-type high affinity transport system permease HatC
+305313..306737	+	474	401770645	proS	HFMG06CAA_1796	-	-	prolyl-tRNA synthetase
+306945..307361	+	138	401770646	-	HFMG06CAA_1805	-	-	hypothetical protein
+307365..308447	+	360	401770647	-	HFMG06CAA_1809	-	-	hypothetical protein
+308447..309046	+	199	401770648	-	HFMG06CAA_1816	-	-	hypothetical protein
+309089..309322	+	77	401770649	acpP	HFMG06CAA_1822	-	-	acyl carrier protein
+309597..310781	+	394	401770650	tuf	HFMG06CAA_1825	-	-	translation longation factor Tu (EF-Tu)
+310821..311744	+	307	401770651	degV	HFMG06CAA_1832	-	-	DegV-like protein
+311747..312382	+	211	401770652	-	HFMG06CAA_1834	-	-	tRNA-binding domain-containing protein
+312385..314115	+	576	401770653	-	HFMG06CAA_1838	-	-	hypothetical protein
+319830..321305	+	491	401770654	-	HFMG06CAA_1908	-	-	hypothetical protein
+321407..321691	+	94	401770655	-	HFMG06CAA_1915	-	-	hypothetical protein
+321698..324769	+	1023	401770656	dnaE	HFMG06CAA_1916	-	-	DNA polymerase III subunit alpha
+324786..325652	+	288	401770657	exo	HFMG06CAA_1929	-	-	5'-3' exonuclease
+325662..326486	+	274	401770658	mutM	HFMG06CAA_1935	-	-	formamidopyrimidine-DNA glycosylase
+326467..327069	+	200	401770659	coaE	HFMG06CAA_1939	-	-	dephospho-CoA kinase
+327261..328409	+	382	401770660	-	HFMG06CAA_1941	-	-	replication initiation/membrane attachment protein DnaB
+328427..330160	+	577	401770661	-	HFMG06CAA_1947	-	-	hypothetical protein
+330263..333052	+	929	401770662	-	HFMG06CAA_1953	-	-	cation-transporting P-type ATPase
+333200..334570	+	456	401770663	asnS_1	HFMG06CAA_1971	-	-	asparaginyl-tRNA synthetase
+334512..335210	+	232	401770664	pgsA	HFMG06CAA_1978	-	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+335217..335693	+	158	401770665	-	HFMG06CAA_1982	-	-	hypothetical protein
+335668..336381	+	237	401770666	ispD	HFMG06CAA_1985	-	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+336374..337501	+	375	401770667	-	HFMG06CAA_1989	-	-	hypothetical protein
+337644..339182	+	512	401770668	-	HFMG06CAA_1992	-	-	hypothetical protein
+339274..341097	+	607	401770669	-	HFMG06CAA_2002	-	-	hypothetical protein
+341115..342263	+	382	401770670	-	HFMG06CAA_2012	-	-	ABC-type sugar transport system ATP-binding protein
+342267..343226	+	319	401770671	-	HFMG06CAA_2017	-	-	ABC-type sugar transport system permease
+343213..344052	+	279	401770672	-	HFMG06CAA_2020	-	-	ABC-type sugar transport system permease
+344361..347783	+	1140	401770673	-	HFMG06CAA_2026	-	-	hypothetical protein
+349168..349329	+	53	401770674	-	HFMG06CAA_2044	-	-	transposase domain-containing protein
+349501..349992	-	163	401770675	-	HFMG06CAA_2048	-	-	flavodoxin-like protein
+349997..350374	-	125	401770676	-	HFMG06CAA_2052	-	-	hypothetical protein
+350362..352053	-	563	401770677	-	HFMG06CAA_2062	-	-	hypothetical protein
+352126..352821	-	231	401770678	-	HFMG06CAA_2065	-	-	hypothetical protein
+352834..353727	-	297	401770679	-	HFMG06CAA_2070	-	-	HAD superfamily hydrolase Cof
+353807..356746	+	979	401770680	-	HFMG06CAA_2071	-	-	cytadherence-related molecule (crmB)-like protein domain-containing protein
+357064..357750	-	228	401770681	-	HFMG06CAA_2086	-	-	hypothetical protein
+357823..358380	+	185	401770682	ppa	HFMG06CAA_2087	-	-	inorganic pyrophosphatase
+358450..359169	+	239	401770683	-	HFMG06CAA_2090	-	-	metal-dependent hydrolase
+359577..360383	+	268	401770684	-	HFMG06CAA_2092	-	-	SufC-like ABC transporter ATP-binding protein
+360390..361028	+	212	401770685	-	HFMG06CAA_2096	-	-	SufB-like domain-containing protein
+361009..362205	+	398	401770686	csdB	HFMG06CAA_2101	-	-	cysteine desulfurase
+362192..362626	+	144	401770687	-	HFMG06CAA_2105	-	-	NifU-like protein
+362630..364030	+	466	401770688	-	HFMG06CAA_2108	-	-	SufB-like protein
+364064..365194	+	376	401770689	dnaJ	HFMG06CAA_2117	-	-	DnaJ-like molecular chaperone
+365276..366265	+	329	401770690	gpsA	HFMG06CAA_2125	-	-	glycerol-3-phosphate dehydrogenase
+366269..367165	+	298	401770691	dnaJ	HFMG06CAA_2131	-	-	dnaJ-domain molecular chaperone
+367425..368441	+	338	401770692	-	HFMG06CAA_2139	-	-	ABC-type multidrug-like transport system ATP-binding protein
+368441..369547	+	368	401770693	-	HFMG06CAA_2144	-	-	multidrug ABC transporter permease
+369693..370130	-	145	401770694	osmC	HFMG06CAA_2151	-	-	organic hydroperoxide resistance protein
+370205..371560	-	451	401770695	ffh	HFMG06CAA_2158	-	-	signal recognition particle protein Ffh
+371548..372795	-	415	401770696	tyrS	HFMG06CAA_2164	-	-	tyrosyl-tRNA synthetase
+372842..374071	-	409	401770697	glyA	HFMG06CAA_2170	-	-	serine hydroxymethyltransferase
+375258..376070	+	270	401770698	-	HFMG06CAA_2181	-	-	transposase domain-containing protein
+377123..378823	-	566	401770699	-	HFMG06CAA_2207	-	-	papain family protease
+378966..379409	+	147	401770700	rplM	HFMG06CAA_2210	-	-	50S ribosomal protein L13
+379409..379801	+	130	401770701	rpsI	HFMG06CAA_2212	-	-	30S ribosomal protein S9
+379725..380936	+	403	401770702	ispG	HFMG06CAA_2215	-	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+380940..381572	+	210	401770703	upp	HFMG06CAA_2223	-	-	uracil phosphoribosyltransferase
+381687..383441	+	584	401770704	-	HFMG06CAA_2229	-	-	hypothetical protein
+383617..384126	+	169	401770705	atpI	HFMG06CAA_2236	-	-	ATP synthase protein I
+384089..384982	+	297	401770706	atpB	HFMG06CAA_2241	-	-	ATP synthase F0 subunit a
+385083..385373	+	96	401770707	atpE	HFMG06CAA_2248	-	-	ATP synthase subunit C
+385376..385972	+	198	401770708	atpF	HFMG06CAA_2249	-	-	ATP synthase subunit B
+385977..386522	+	181	401770709	atpH	HFMG06CAA_2253	-	-	ATP synthase F1 subunit delta
+386526..388082	+	518	401770710	atpA	HFMG06CAA_2258	-	-	ATP synthase F1 subunit alpha
+388090..388959	+	289	401770711	atpG	HFMG06CAA_2267	-	-	ATP synthase F1 subunit gamma
+388963..390378	+	471	401770712	atpD	HFMG06CAA_2276	-	-	ATP synthase F1 subunit beta
+390371..390763	+	130	401770713	atpC	HFMG06CAA_2289	-	-	ATP synthase F1 subunit epsilon
+390763..391689	+	308	401770714	-	HFMG06CAA_2291	-	-	hypothetical protein
+391683..392543	+	286	401770715	-	HFMG06CAA_2300	-	-	hypothetical protein
+392872..393756	+	294	401770716	-	HFMG06CAA_2304	-	-	DegV-like protein
+393878..394906	+	342	401770717	gapd	HFMG06CAA_2308	-	-	glyceraldehyde-3-P dehydrogenase
+394914..396155	+	413	401770718	pgk	HFMG06CAA_2314	-	-	phosphoglycerate kinase
+396423..398183	+	586	401770719	-	HFMG06CAA_2321	-	-	amino acid permease
+398241..399287	+	348	401770720	-	HFMG06CAA_2335	-	-	hypothetical protein
+399324..399506	+	60	401770721	rpsU	HFMG06CAA_2341	-	-	30S ribosomal protein S21
+399877..402543	+	888	401770722	-	HFMG06CAA_2346	-	-	hypothetical protein
+402545..403186	-	213	401770723	-	HFMG06CAA_2363	-	-	tRNA (guanine-N(7)-)-methyltransferase
+403192..403683	-	163	401770724	cspR	HFMG06CAA_2366	-	-	SpoU class rRNA methylase
+403771..406464	+	897	401770725	ileS	HFMG06CAA_2367	-	-	isoleucyl-tRNA synthetase
+406465..406977	+	170	401770726	fldA	HFMG06CAA_2379	-	-	flavodoxin fldA
+407133..409616	+	827	401770727	plpA	HFMG06CAA_2386	-	-	pneumoniae-like protein A
+409630..415425	+	1931	401770728	hlp2	HFMG06CAA_2405	-	-	cytadherence-associated protein Hlp2
+415428..418610	+	1060	401770729	-	HFMG06CAA_2439	-	-	cytadherence-associated protein
+418620..419846	+	408	401770730	-	HFMG06CAA_2455	-	-	hypothetical protein
+419860..422784	+	974	401770731	-	HFMG06CAA_2463	-	-	hypothetical protein
+422910..423530	-	206	401770732	-	HFMG06CAA_2486	-	-	hypothetical protein
+423540..423830	-	96	401770733	-	HFMG06CAA_2489	-	-	hypothetical protein
+424187..424951	-	254	401770734	-	HFMG06CAA_2497	-	-	hypothetical protein
+425289..425726	-	145	401770735	arcA	HFMG06CAA_2502	-	-	arginine deiminase domain-containing protein
+425896..426042	+	48	401770736	-	HFMG06CAA_2503	-	-	transposase domain-containing protein
+426061..426831	+	256	401770737	-	HFMG06CAA_2505	-	-	transposase domain-containing protein
+427153..427893	-	246	401770738	arcA	HFMG06CAA_2518	-	-	arginine deiminase domain-containing protein
+427933..428919	-	328	401770739	trxB_1	HFMG06CAA_2522	-	-	thioredoxin reductase
+428979..430673	+	564	401770740	-	HFMG06CAA_2523	-	-	hypothetical protein
+430807..433014	+	735	401770741	-	HFMG06CAA_2529	-	-	hypothetical protein
+433063..433851	+	262	401770742	-	HFMG06CAA_2546	-	-	esterase/lipase
+433932..437420	+	1162	401770743	topJ	HFMG06CAA_2552	-	-	cytadherence-associated molecular chaperone TopJ
+437437..438498	+	353	401770744	grpE	HFMG06CAA_2574	-	-	Molecular chaperone GrpE (Heat shock protein-70 cofactor)
+438706..439197	+	163	401770745	-	HFMG06CAA_2583	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+439207..439467	+	86	401770746	-	HFMG06CAA_2586	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+439484..441316	+	610	401770747	-	HFMG06CAA_2589	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+441569..443908	+	779	401770748	-	HFMG06CAA_2602	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+444269..446263	+	664	401770749	-	HFMG06CAA_2614	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+446600..448672	+	690	401770750	-	HFMG06CAA_2632	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+449010..451103	+	697	401770751	-	HFMG06CAA_2648	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+451406..453457	+	683	401770752	-	HFMG06CAA_2658	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+453787..455814	+	675	401770753	-	HFMG06CAA_2672	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+456109..458109	+	666	401770754	-	HFMG06CAA_2685	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+458415..460544	+	709	401770755	-	HFMG06CAA_2697	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+460843..463020	+	725	401770756	-	HFMG06CAA_2713	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+463385..465280	+	631	401770757	-	HFMG06CAA_2727	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+465304..465453	+	49	401770758	-	HFMG06CAA_2739	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+465756..467945	+	729	401770759	-	HFMG06CAA_2743	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+468637..470484	+	615	401770760	-	HFMG06CAA_2760	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+470537..470842	-	101	401770761	beta-pgm	HFMG06CAA_2776	-	-	beta-phosphoglucomutase (beta-PGM) domain-containing protein
+471094..471213	-	39	401770762	beta-pgm	HFMG06CAA_2779	-	-	beta-phosphoglucomutase (beta-PGM) domain-containing protein
+471194..471394	-	66	401770763	-	HFMG06CAA_2782	-	-	maltose phosphorylase domain-containing protein
+471418..471537	-	39	401770764	-	HFMG06CAA_2783	-	-	maltose phosphorylase domain-containing protein
+471538..471807	-	89	401770765	-	HFMG06CAA_2787	-	-	maltose phosphorylase domain-containing protein
+471925..472113	-	62	401770766	-	HFMG06CAA_2793	-	-	hypothetical protein
+472106..472555	-	149	401770767	-	HFMG06CAA_2795	-	-	hypothetical protein
+472834..474579	-	581	401770768	-	HFMG06CAA_2812	-	-	1-deoxy-D-xylulose-5-phosphate synthase
+474579..475667	-	362	401770769	uvrC	HFMG06CAA_2822	-	-	UvrABC system protein C (Protein uvrC) (Excinuclease ABC subunit C)
+475417..477429	+	670	401770770	hrcA	HFMG06CAA_2821	-	-	Heat-inducible transcription repressor hrcA
+477395..477760	-	121	401770771	-	HFMG06CAA_2833	-	-	hypothetical protein
+478079..478708	+	209	401770772	infC	HFMG06CAA_2836	-	-	translation initiation factor IF-3
+478718..478912	+	64	401770773	rpmI	HFMG06CAA_2843	-	-	50S ribosomal protein L35
+478938..479285	+	115	401770774	rplT	HFMG06CAA_2845	-	-	50S ribosomal protein L20
+479291..479815	+	174	401770775	-	HFMG06CAA_2850	-	-	dUTPase
+479864..480880	+	338	401770776	pheS	HFMG06CAA_2855	-	-	phenylalanyl-tRNA synthetase subunit alpha
+480890..483304	+	804	401770777	pheT	HFMG06CAA_2865	-	-	phenylalanyl-tRNA synthetase subunit beta
+483463..484179	-	238	401770778	-	HFMG06CAA_2889	-	-	PTS system mannitol-specific (MtlA)-like IIB domain-containing protein
+485654..487414	+	586	401770779	-	HFMG06CAA_2895	-	-	ABC transporter ATP-binding protein domain-containing protein
+487404..489173	+	589	401770780	-	HFMG06CAA_2899	-	-	ABC-type multidrug transport system permease/ATP-binding protein
+489292..489663	+	123	401770781	rplU	HFMG06CAA_2907	-	-	50S ribosomal protein L21
+489674..489988	+	104	401770782	-	HFMG06CAA_2911	-	-	hypothetical protein
+489990..490286	+	98	401770783	rpmA	HFMG06CAA_2915	-	-	50S ribosomal protein L27
+490356..491267	+	303	401770784	nfo	HFMG06CAA_2917	-	-	Endonuclease 4
+491254..491766	+	170	401770785	-	HFMG06CAA_2922	-	-	inorganic ion uptake regulation protein
+491672..492544	+	290	401770786	-	HFMG06CAA_2926	-	-	hypothetical protein
+492600..493931	+	443	401770787	tig	HFMG06CAA_2929	-	-	trigger factor Tig
+494035..496473	+	812	401770788	lon	HFMG06CAA_2938	-	-	ATP-dependent Lon protease
+496540..498489	+	649	401770789	-	HFMG06CAA_2957	-	-	ABC transporter permease
+498482..499432	+	316	401770790	-	HFMG06CAA_2968	-	-	ABC-type transport system ATP-binding protein
+499903..500154	+	83	401770791	maoC	HFMG06CAA_2975	-	-	MaoC-like dehydratase domain-containing protein
+500034..500258	+	74	401770792	maoC	HFMG06CAA_2977	-	-	MaoC-like dehydratase domain-containing protein
+500560..501453	+	297	401770793	-	HFMG06CAA_2984	-	-	transposase domain-containing protein
+501542..501820	+	92	401770794	-	HFMG06CAA_2994	-	-	transposase domain-containing protein
+501789..503009	+	406	401770795	ach1	HFMG06CAA_2996	-	-	acetyl-CoA hydrolase
+503081..503935	-	284	401770796	-	HFMG06CAA_3005	-	-	hypothetical protein
+503944..504498	-	184	401770797	-	HFMG06CAA_3007	-	-	5-formyltetrahydrofolate cyclo-ligase
+504488..506743	-	751	401770798	uvrD	HFMG06CAA_3018	-	-	DNA helicase II
+506746..507465	-	239	401770799	-	HFMG06CAA_3022	-	-	hypothetical protein
+507465..508475	-	336	401770800	-	HFMG06CAA_3026	-	-	glycosyltransferase
+508536..510395	+	619	401770801	-	HFMG06CAA_3027	-	-	hypothetical protein
+510477..512465	+	662	401770802	-	HFMG06CAA_3036	-	-	hypothetical protein
+512520..512819	-	99	401770803	-	HFMG06CAA_3046	-	-	hypothetical protein
+512823..513551	-	242	401770804	-	HFMG06CAA_3049	-	-	hypothetical protein
+513558..514334	-	258	401770805	-	HFMG06CAA_3052	-	-	NIF3-family protein
+514301..514981	-	226	401770806	-	HFMG06CAA_3055	-	-	SAM-dependent methyltransferase
+514965..516896	-	643	401770807	rpoD	HFMG06CAA_3066	-	-	RNA polymerase sigma factor RpoD (Sigma-A)
+516938..518926	-	662	401770808	dnaG	HFMG06CAA_3077	-	-	DNA primase
+518919..520310	-	463	401770809	glyS	HFMG06CAA_3084	-	-	glycyl-tRNA synthetase
+520318..521043	-	241	401770810	-	HFMG06CAA_3087	-	-	recombinational DNA repair protein RecO
+521031..521933	-	300	401770811	era	HFMG06CAA_3092	-	-	GTP-binding protein Era
+521897..522391	-	164	401770812	-	HFMG06CAA_3095	-	-	metalloprotease ybeY
+522400..522825	-	141	401770813	-	HFMG06CAA_3099	-	-	hypothetical protein
+522761..524758	-	665	401770814	-	HFMG06CAA_3105	-	-	ABC-type bacteriocin/lantibiotic exporter
+525002..526261	-	419	401770815	-	HFMG06CAA_3117	-	-	transposase
+526518..527063	+	181	401770816	-	HFMG06CAA_3119	-	-	hypothetical protein
+527478..528863	-	461	401770817	ftsZ	HFMG06CAA_3131	-	-	cell division GTPase FtsZ
+528863..530152	-	429	401770818	-	HFMG06CAA_3138	-	-	hypothetical protein
+530156..531097	-	313	401770819	mraW	HFMG06CAA_3142	-	-	S-adenosyl-L-methionine-dependent methyltransferase mraW
+531084..531512	-	142	401770820	mraZ	HFMG06CAA_3145	-	-	cell division protein MraZ
+531726..532601	-	291	401770821	scpB	HFMG06CAA_3154	-	-	segregation and condensation protein B
+532611..534389	-	592	401770822	scpA/dhfr	HFMG06CAA_3168	-	-	bifunctional segregation and condensation protein A/dihydrofolate reductase
+534521..535318	-	265	401770823	plsC	HFMG06CAA_3171	-	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+535318..535653	-	111	401770824	acpS	HFMG06CAA_3174	-	-	Holo-[acyl-carrier-protein] synthase
+535726..536154	-	142	401770825	-	HFMG06CAA_3176	-	-	hypothetical protein
+536223..537218	+	331	401770826	rnhC	HFMG06CAA_3177	-	-	ribonuclease HIII
+537380..539656	-	758	401770827	-	HFMG06CAA_3189	-	-	hypothetical protein
+539601..540470	-	289	401770828	-	HFMG06CAA_3193	-	-	hypothetical protein
+540686..541360	-	224	401770829	-	HFMG06CAA_3199	-	-	LemA family protein
+541379..543976	-	865	401770830	-	HFMG06CAA_3209	-	-	hypothetical protein
+544210..544359	-	49	401770831	-	HFMG06CAA_3210	-	-	hypothetical protein
+544471..545355	-	294	401770832	-	HFMG06CAA_3213	-	-	hypothetical protein
+545400..545693	-	97	401770833	-	HFMG06CAA_3215	-	-	hypothetical protein
+545938..546723	-	261	401770834	mtn	HFMG06CAA_3219	-	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+546677..547771	-	364	401770835	nadD	HFMG06CAA_3226	-	-	nicotinate-nucleotide adenylyltransferase
+547779..548876	-	365	401770836	-	HFMG06CAA_3230	-	-	GTPase
+548869..551259	-	796	401770837	parC	HFMG06CAA_3248	-	-	DNA topoisomerase IV subunit A
+551259..553160	-	633	401770838	parE	HFMG06CAA_3257	-	-	DNA topoisomerase IV subunit B
+553233..553532	-	99	401770839	himA/hup	HFMG06CAA_3259	-	-	histone-like DNA-binding superfamily protein HimA/HU/Integration host factor
+553562..555973	-	803	401770840	-	HFMG06CAA_3268	-	-	hypothetical protein
+556634..557131	-	165	401770841	-	HFMG06CAA_3277	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+557211..558671	-	486	401770842	-	HFMG06CAA_3285	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+558995..561028	-	677	401770843	-	HFMG06CAA_3299	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+561306..563312	-	668	401770844	-	HFMG06CAA_3311	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+563634..565730	-	698	401770845	-	HFMG06CAA_3326	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+566038..568122	-	694	401770846	-	HFMG06CAA_3336	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+568459..570564	-	701	401770847	-	HFMG06CAA_3348	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+570933..573275	-	780	401770848	-	HFMG06CAA_3362	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+573599..575659	-	686	401770849	-	HFMG06CAA_3374	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+575955..578048	-	697	401770850	-	HFMG06CAA_3387	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+578363..580408	-	681	401770851	-	HFMG06CAA_3400	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+580714..582789	-	691	401770852	-	HFMG06CAA_3410	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+583351..584046	-	231	401770853	-	HFMG06CAA_3415	-	-	hypothetical protein
+584054..585118	-	354	401770854	-	HFMG06CAA_3418	-	-	hypothetical protein
+585277..585948	+	223	401770855	trkA	HFMG06CAA_3419	-	-	Trk system potassium uptake proteinTrkA
+585962..588379	+	805	401770856	leuS	HFMG06CAA_3421	-	-	leucyl-tRNA synthetase
+588473..589141	-	222	401770857	-	HFMG06CAA_3440	-	-	phospholipid-binding protein
+589163..589738	-	191	401770858	-	HFMG06CAA_3443	-	-	phospholipid-binding protein
+590094..590672	-	192	401770859	-	HFMG06CAA_3448	-	-	aldo/keto reductase family protein
+590960..591301	+	113	401770860	-	HFMG06CAA_3449	-	-	hypothetical protein
+591396..591806	-	136	401770861	-	HFMG06CAA_3453	-	-	hypothetical protein
+591796..592257	-	153	401770862	-	HFMG06CAA_3459	-	-	hypothetical protein
+592227..593717	-	496	401770863	pepC_1	HFMG06CAA_3465	-	-	aminopeptidase C
+593717..595357	-	546	401770864	pepC_2	HFMG06CAA_3473	-	-	aminopeptidase C
+595365..595796	-	143	401770865	smpB	HFMG06CAA_3477	-	-	SsrA-binding protein
+595796..596536	-	246	401770866	-	HFMG06CAA_3479	-	-	hypothetical protein
+596542..597603	-	353	401770867	-	HFMG06CAA_3489	-	-	Xaa-Pro aminopeptidase
+597603..597764	-	53	401770868	rpmG	HFMG06CAA_3490	-	-	50S ribosomal protein L33
+599326..600696	-	456	401770869	arcA	HFMG06CAA_3500	-	-	arginine deiminase
+600771..601415	+	214	401770870	udk	HFMG06CAA_3501	-	-	uridine kinase
+601405..601689	+	94	401770871	-	HFMG06CAA_3506	-	-	hypothetical protein
+601692..602996	-	434	401770872	obg	HFMG06CAA_3524	-	-	GTPase ObgE
+603001..603639	-	212	401770873	-	HFMG06CAA_3528	-	-	hypothetical protein
+603706..603987	-	93	401770874	-	HFMG06CAA_3531	-	-	hypothetical protein
+604012..605349	-	445	401770875	pepA	HFMG06CAA_3542	-	-	cytosol aminopeptidase
+605498..606613	+	371	401770876	-	HFMG06CAA_3543	-	-	permease
+606798..608621	-	607	401770877	-	HFMG06CAA_3557	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+608897..610645	-	582	401770878	-	HFMG06CAA_3568	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+610828..611460	-	210	401770879	-	HFMG06CAA_3576	-	-	hypothetical protein
+611451..613625	-	724	401770880	rnr	HFMG06CAA_3588	-	-	exoribonuclease R (VacB)
+613656..613889	-	77	401770881	-	HFMG06CAA_3590	-	-	preprotein translocase subunit SecG
+613934..614821	-	295	401770882	-	HFMG06CAA_3596	-	-	hypothetical protein
+614822..615763	-	313	401770883	trxB_2	HFMG06CAA_3599	-	-	thioredoxin reductase
+615844..616617	-	257	401770884	-	HFMG06CAA_3604	-	-	transcriptional regulator
+616687..617805	+	372	401770885	-	HFMG06CAA_3605	-	-	hypothetical protein
+617887..619011	-	374	401770886	metK	HFMG06CAA_3619	-	-	S-adenosylmethionine synthetase
+619120..620082	-	320	401770887	gcp	HFMG06CAA_3628	-	-	O-silalo-glycoprotein endopeptidase
+620111..621550	-	479	401770888	-	HFMG06CAA_3636	-	-	ABC-type spermidine/putrescine-binding periplasmic transport protein potD
+621528..622373	-	281	401770889	potC	HFMG06CAA_3641	-	-	ABC-type spermidine/putrescine transport system permease component II
+622366..623340	-	324	401770890	potB	HFMG06CAA_3648	-	-	ABC-type spermidine/putrescine transport system permease component I
+623288..623932	-	214	401770891	potA	HFMG06CAA_3652	-	-	ABC-type spermidine/putrescine import ATP-binding protein potA domain-containing protein
+623948..624796	-	282	401770892	potA	HFMG06CAA_3659	-	-	ABC-type spermidine/putrescine import ATP-binding protein potA domain-containing protein
+625160..626638	-	492	401770893	-	HFMG06CAA_3667	-	-	hypothetical protein
+626702..628483	-	593	401770894	cvfA	HFMG06CAA_3678	-	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+628499..629554	-	351	401770895	recA	HFMG06CAA_3685	-	-	RecA (Recombinase A)
+630316..630777	-	153	401770896	msrB	HFMG06CAA_3694	-	-	peptide methionine sulfoxide reductase MsrB
+630881..632485	-	534	401770897	groEL	HFMG06CAA_3699	-	-	60 kDa chaperonin Cpn60
+632485..632778	-	97	401770898	groES	HFMG06CAA_3701	-	-	10 kDa chaperonin GroES/Hsp10/Cpn10
+632788..634314	-	508	401770899	pykF	HFMG06CAA_3711	-	-	pyruvate kinase
+634323..635321	-	332	401770900	pfkA	HFMG06CAA_3714	-	-	6-phosphofructokinase
+635359..636354	-	331	401770901	lplA	HFMG06CAA_3718	-	-	Lipoate-protein ligase A
+636413..637810	-	465	401770902	lpd	HFMG06CAA_3727	-	-	pyruvate dehydrogenase complex component dihydrolipoamide dehydrogenase
+637815..639143	-	442	401770903	aceF	HFMG06CAA_3731	-	-	pyruvate dehydrogenase complex component dihydrolipoamide acetyltransferase
+639301..640278	-	325	401770904	acoB	HFMG06CAA_3737	-	-	pyruvate dehydrogenase E1 component subunit beta
+640303..641382	-	359	401770905	acoA	HFMG06CAA_3743	-	-	pyruvate dehydrogenase E1 component subunit alpha
+641432..642850	-	472	401770906	-	HFMG06CAA_3749	-	-	NADH oxidase
+643020..644186	-	388	401770907	ackA	HFMG06CAA_3755	-	-	acetate kinase
+644307..646073	-	588	401770908	trkG	HFMG06CAA_3770	-	-	Cation transport protein
+646075..647412	-	445	401770909	-	HFMG06CAA_3775	-	-	TlyC-like protein
+647589..648236	+	215	401770910	-	HFMG06CAA_3778	-	-	deoxynucleoside kinase
+648239..648865	+	208	401770911	-	HFMG06CAA_3785	-	-	deoxynucleoside kinase
+648923..651076	-	717	401770912	clp	HFMG06CAA_3798	-	-	chaperone protein ClpB
+651182..653149	-	655	401770913	rnc	HFMG06CAA_3813	-	-	ribonuclease III
+653217..654260	-	347	401770914	plsX	HFMG06CAA_3818	-	-	fatty acid/phospholipid synthesis protein PlsX
+654203..655927	-	574	401770915	-	HFMG06CAA_3827	-	-	dihydroxyacetone kinase-like protein
+655936..656208	-	90	401770916	-	HFMG06CAA_3830	-	-	hypothetical protein
+656230..657222	-	330	401770917	rluA_2	HFMG06CAA_3833	-	-	RNA pseudouridine synthase
+657192..658031	-	279	401770918	-	HFMG06CAA_3841	-	-	SpoU rRNA methylase family protein
+658003..658989	-	328	401770919	-	HFMG06CAA_3850	-	-	phosphodiesterase
+658974..660164	-	396	401770920	thiI	HFMG06CAA_3860	-	-	thiamine biosynthesis protein ThiI
+660182..661099	-	305	401770921	-	HFMG06CAA_3871	-	-	hypothetical protein
+661067..661585	+	172	401770922	-	HFMG06CAA_3870	-	-	hypothetical protein
+661931..667663	-	1910	401770923	-	HFMG06CAA_3918	-	-	cytadherence-associated protein
+667812..669182	-	456	401770924	-	HFMG06CAA_3931	-	-	SrmB-like ATP-dependent RNA helicase
+669266..670693	-	475	401770925	eno	HFMG06CAA_3940	-	-	enolase
+670914..672293	-	459	401770926	-	HFMG06CAA_3950	-	-	hypothetical protein
+672324..672764	+	146	401770927	-	HFMG06CAA_3951	-	-	histidine triad (HIT) hydrolase-like protein
+672761..673417	-	218	401770928	-	HFMG06CAA_3958	-	-	hypothetical protein
+673421..673813	-	130	401770929	-	HFMG06CAA_3960	-	-	transcription termination factor N utilization substance protein B (NusB)
+673813..674145	-	110	401770930	-	HFMG06CAA_3962	-	-	hypothetical protein
+674114..674680	-	188	401770931	efp	HFMG06CAA_3966	-	-	elongation factor P
+675485..676033	-	182	401770932	-	HFMG06CAA_3972	-	-	hypothetical protein
+676012..678531	-	839	401770933	dppF/oppF	HFMG06CAA_3984	-	-	ABC-type dipeptide/oligopeptide/nickel transport ATP-binding protein
+678500..679831	-	443	401770934	dppD/oppD	HFMG06CAA_3993	-	-	ABC-type dipeptide/oligopeptide/nickel transport system ATP-binding protein (DppD/OppD)
+679831..680970	-	379	401770935	dppC/oppC	HFMG06CAA_3998	-	-	ABC-type dipeptide/oligopeptide/nickel transport system permease (DppC/OppC)
+680975..682180	-	401	401770936	dppB/oppB	HFMG06CAA_4007	-	-	ABC-type dipeptide/oligopeptide/nickel transport system permease (DppB/OppB) domain-containing protein
+682300..684996	-	898	401770937	-	HFMG06CAA_4020	-	-	hypothetical protein
+685172..685324	-	50	401770938	-	HFMG06CAA_4022	-	-	hypothetical protein
+685432..686871	-	479	401770939	dppF/oppF	HFMG06CAA_4032	-	-	ABC-type dipeptide/oligopeptide/nickel transport ATP-binding protein DppF
+686768..688000	-	410	401770940	dppD/oppD	HFMG06CAA_4045	-	-	ABC-type dipeptide/oligopeptide/nickel transport system ATP-binding protein (DppD/OppD)
+688016..689092	-	358	401770941	dppC/oppC	HFMG06CAA_4055	-	-	ABC-type dipeptide/oligopeptide/nickel transport system permease (DppC/OppC)
+689102..690154	-	350	401770942	dppB/oppB	HFMG06CAA_4063	-	-	ABC-type dipeptide/oligopeptide/nickel transport system permease (DppB/OppB)
+690163..693267	-	1034	401770943	oppA	HFMG06CAA_4077	-	-	ABC-type oligopeptide transport solute binding protein OppA
+693306..698897	-	1863	401770944	-	HFMG06CAA_4108	-	-	hypothetical protein
+699509..700480	-	323	401770945	rpsB	HFMG06CAA_4119	-	-	30S ribosomal protein S2
+700580..701173	-	197	401770946	acpD/azoR	HFMG06CAA_4122	-	-	FMN-dependent NADH-azoreductase
+701981..702859	+	292	401770947	-	HFMG06CAA_4124	-	-	hypothetical protein
+702929..704170	-	413	401770948	-	HFMG06CAA_4132	-	-	replication-associated recombination protein A (rarA)
+704148..704969	-	273	401770949	-	HFMG06CAA_4136	-	-	methyl transferase
+705034..706344	+	436	401770950	-	HFMG06CAA_4137	-	-	hypothetical protein
+706574..706822	-	82	401770951	-	HFMG06CAA_4146	-	-	Osmotically inducible protein C (OsmC)-like protein
+706912..707106	-	64	401770952	rpmB	HFMG06CAA_4148	-	-	50S ribosomal protein L28
+707184..707822	+	212	401770953	-	HFMG06CAA_4149	-	-	hypothetical protein
+707909..709000	-	363	401770954	pvpA	HFMG06CAA_4161	-	-	phase-variant protein A (pvpA) domain-containing protein
+709131..711212	-	693	401770955	fusA	HFMG06CAA_4178	-	-	Elongation factor G
+711227..711694	-	155	401770956	rpsG	HFMG06CAA_4182	-	-	30S ribosomal protein S7
+711704..712129	-	141	401770957	rpsL	HFMG06CAA_4187	-	-	30S ribosomal protein S12
+712149..712772	-	207	401770958	rpsD	HFMG06CAA_4191	-	-	30S ribosomal protein S4
+713118..714965	-	615	401770959	-	HFMG06CAA_4200	-	-	hypothetical protein
+715553..715954	+	133	401770960	-	HFMG06CAA_4204	-	-	lipoprotein
+715917..716138	+	73	401770961	-	HFMG06CAA_4208	-	-	hypothetical protein
+716063..716251	+	62	401770962	-	HFMG06CAA_4209	-	-	hypothetical protein
+716312..716692	+	126	401770963	-	HFMG06CAA_4212	-	-	hypothetical protein
+716698..717183	+	161	401770964	-	HFMG06CAA_4216	-	-	hypothetical protein
+717762..719921	-	719	401770965	-	HFMG06CAA_4233	-	-	hypothetical protein
+720204..721985	-	593	401770966	dnaK	HFMG06CAA_4242	-	-	chaperone protein dnaK (Heat shock protein 70)
+722170..723333	+	387	401770967	-	HFMG06CAA_4243	-	-	hypothetical protein
+723936..725135	+	399	401770968	-	HFMG06CAA_4248	-	-	ion channel-like protein
+725188..725850	+	220	401770969	mscL	HFMG06CAA_4254	-	-	large-conductance mechanosensitive channel MscL
+725904..727658	-	584	401770970	-	HFMG06CAA_4266	-	-	amino acid permease
+727754..728131	-	125	401770971	ptsG_2	HFMG06CAA_4269	-	-	PTS system glucose-specific transporter subunit IIB PtsG
+728214..729038	-	274	401770972	ppnK	HFMG06CAA_4276	-	-	inorganic polyphosphate/ATP-NAD kinase
+728995..729474	-	159	401770973	spxA	HFMG06CAA_4281	-	-	regulatory protein spx
+729460..730599	+	379	401770974	trpS	HFMG06CAA_4280	-	-	tryptophanyl-tRNA synthetase
+730602..731468	+	288	401770975	-	HFMG06CAA_4287	-	-	HAD superfamily hydrolase Cof
+731845..732714	-	289	401770976	-	HFMG06CAA_4299	-	-	HAD superfamily hydrolase Cof
+732714..733703	-	329	401770977	-	HFMG06CAA_4304	-	-	hypothetical protein
+733750..739503	-	1917	401770978	-	HFMG06CAA_4341	-	-	cytadherence-associated protein
+739571..741013	-	480	401770979	-	HFMG06CAA_4353	-	-	permease
+741006..742805	-	599	401770980	lepA	HFMG06CAA_4363	-	-	GTP-binding protein lepA
+742822..743628	-	268	401770981	-	HFMG06CAA_4366	-	-	hypothetical protein
+743649..744446	-	265	401770982	-	HFMG06CAA_4372	-	-	hypothetical protein
+744453..745229	-	258	401770983	-	HFMG06CAA_4379	-	-	hypothetical protein
+745237..748812	-	1191	401770984	-	HFMG06CAA_4395	-	-	hypothetical protein
+748852..752304	-	1150	401770985	-	HFMG06CAA_4411	-	-	hypothetical protein
+752402..753418	-	338	401770986	-	HFMG06CAA_4419	-	-	hypothetical protein
+753306..753563	-	85	401770987	-	HFMG06CAA_4420	-	-	hypothetical protein
+753584..756400	-	938	401770988	-	HFMG06CAA_4433	-	-	sialidase
+756586..757128	-	180	401770989	-	HFMG06CAA_4437	-	-	glyceraldehyde 3-P dehydrogenase domain-containing protein
+757223..758002	-	259	401770990	-	HFMG06CAA_4444	-	-	hypothetical protein
+758111..759013	-	300	401770991	-	HFMG06CAA_4451	-	-	hypothetical protein
+759016..760383	-	455	401770992	-	HFMG06CAA_4459	-	-	hypothetical protein
+760373..761290	-	305	401770993	-	HFMG06CAA_4463	-	-	DNA polymerase III subunit delta
+761290..762417	-	375	401770994	-	HFMG06CAA_4466	-	-	hypothetical protein
+762434..765016	-	860	401770995	valS	HFMG06CAA_4481	-	-	valyl-tRNA synthetase
+765034..765594	-	186	401770996	engB	HFMG06CAA_4484	-	-	GTPase EngB
+765600..765821	-	73	401770997	-	HFMG06CAA_4487	-	-	hypothetical protein
+765927..767858	-	643	401770998	tktA_2	HFMG06CAA_4497	-	-	transketolase
+767877..768875	-	332	401770999	-	HFMG06CAA_4503	-	-	glycosyl transferase
+768981..770186	+	401	401771000	dinB	HFMG06CAA_4504	-	-	DNA polymerase IV
+770170..770730	-	186	401771001	-	HFMG06CAA_4513	-	-	small primase-like protein
+770682..771704	-	340	401771002	prsA	HFMG06CAA_4519	-	-	ribose-phosphate pyrophosphokinase
+771823..772614	-	263	401771003	truA	HFMG06CAA_4525	-	-	tRNA pseudouridine synthase A
+772547..773716	-	389	401771004	cbiQ	HFMG06CAA_4532	-	-	ABC-type cobalt transport permease
+773700..774656	-	318	401771005	cbiO_1	HFMG06CAA_4540	-	-	ABC-type cobalt transport ATP-binding protein
+774629..775468	-	279	401771006	cbiO_2	HFMG06CAA_4545	-	-	ABC-type cobalt transport ATP-binding protein
+775516..777027	-	503	401771007	gpmI	HFMG06CAA_4552	-	-	phosphoglyceromutase
+777031..777789	-	252	401771008	tpiA	HFMG06CAA_4558	-	-	triosephosphate isomerase
+777810..779459	-	549	401771009	cpsG/manB	HFMG06CAA_4568	-	-	phosphomannomutase
+779461..779892	-	143	401771010	cdd	HFMG06CAA_4572	-	-	Cytidine deaminase
+779855..781114	-	419	401771011	deoA	HFMG06CAA_4582	-	-	thymidine phosphorylase
+781125..781796	-	223	401771012	deoC_2	HFMG06CAA_4584	-	-	deoxyribose-phosphate aldolase
+781802..782512	-	236	401771013	deoD	HFMG06CAA_4585	-	-	purine nucleoside phosphorylase
+782592..783524	-	310	401771014	-	HFMG06CAA_4591	-	-	ABC transporter permease
+783524..785173	-	549	401771015	-	HFMG06CAA_4602	-	-	ABC transporter permease
+785160..786818	-	552	401771016	-	HFMG06CAA_4611	-	-	ABC-type transport system ATP-binding protein
+787228..789636	-	802	401771017	-	HFMG06CAA_4628	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+789961..792210	-	749	401771018	-	HFMG06CAA_4647	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+792527..794623	-	698	401771019	-	HFMG06CAA_4658	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+794952..796898	-	648	401771020	-	HFMG06CAA_4671	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+797231..797431	-	66	401771021	-	HFMG06CAA_4675	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+797761..799332	-	523	401771022	-	HFMG06CAA_4688	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+799643..801799	-	718	401771023	-	HFMG06CAA_4698	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+802174..804810	-	878	401771024	-	HFMG06CAA_4715	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+805119..807179	-	686	401771025	-	HFMG06CAA_4727	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+807475..809568	-	697	401771026	-	HFMG06CAA_4740	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+809880..810980	-	366	401771027	-	HFMG06CAA_4749	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+811218..811925	-	235	401771028	-	HFMG06CAA_4753	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+812231..814282	-	683	401771029	-	HFMG06CAA_4763	-	-	variably expressed lipoprotein and hemagglutinin (VlhA) family protein
+814716..815150	-	144	401771030	-	HFMG06CAA_4768	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+815806..816273	-	155	401771031	-	HFMG06CAA_4774	-	-	lipoprotein and hemagglutinin (VlhA) family protein
+816752..818506	-	584	401771032	-	HFMG06CAA_4787	-	-	macrophage-activating lipoprotein-like protein
+818654..819274	-	206	401771033	recR	HFMG06CAA_4791	-	-	recombination protein RecR
+819280..819582	-	100	401771034	-	HFMG06CAA_4794	-	-	hypothetical protein
+819623..821470	-	615	401771035	dnaX	HFMG06CAA_4802	-	-	DNA polymerase III subunits gamma and tau
+821564..823060	-	498	401771036	-	HFMG06CAA_4810	-	-	hypothetical protein
+823070..823990	-	306	401771037	ruvB	HFMG06CAA_4814	-	-	Holliday junction DNA helicase subunit RuvB
+823977..824657	-	226	401771038	ruvA	HFMG06CAA_4820	-	-	Holliday junction DNA helicase subunit RuvA
+824691..826439	-	582	401771039	-	HFMG06CAA_4831	-	-	hypothetical protein
+826450..827889	-	479	401771040	gatB	HFMG06CAA_4842	-	-	aspartyl/glutamyl-tRNA
+827867..829315	-	482	401771041	gatA	HFMG06CAA_4850	-	-	glutamyl-tRNA(Gln) amidotransferase subunit A
+829319..830695	-	458	401771042	gatC	HFMG06CAA_4856	-	-	Aspartyl/glutamyl-tRNA amidotransferase subunit C-like protein
+830731..831426	-	231	401771043	ung	HFMG06CAA_4862	-	-	uracil-DNA glycosylase
+831432..832991	-	519	401771044	-	HFMG06CAA_4867	-	-	hypothetical protein
+832994..834613	-	539	401771045	dnaB	HFMG06CAA_4877	-	-	replicative DNA helicase
+834617..835060	-	147	401771046	rplI	HFMG06CAA_4878	-	-	50S ribosomal protein L9
+835093..835419	-	108	401771047	rpsR	HFMG06CAA_4881	-	-	30S ribosomal protein S18
+835453..836070	-	205	401771048	ssb	HFMG06CAA_4888	-	-	ssDNA-binding protein
+836082..836657	-	191	401771049	rpsF	HFMG06CAA_4892	-	-	30S ribosomal protein S6
+836840..837823	+	327	401771050	asnA	HFMG06CAA_4893	-	-	aspartate-ammonia ligase
+837820..839208	-	462	401771051	-	HFMG06CAA_4905	-	-	esterase/lipase
+839158..840102	+	314	401771052	-	HFMG06CAA_4904	-	-	nicotinate phosphoribosyltransferase
+840077..840451	+	124	401771053	-	HFMG06CAA_4910	-	-	hypothetical protein
+840437..841309	-	290	401771054	-	HFMG06CAA_4913	-	-	HAD superfamily hydrolase Cof
+841313..842290	-	325	401771055	pta	HFMG06CAA_4916	-	-	phosphate acetyltransferase
+842320..843144	-	274	401771056	rbgA	HFMG06CAA_4919	-	-	ribosomal biogenesis GTPase
+843157..844443	-	428	401771057	-	HFMG06CAA_4927	-	-	hypothetical protein
+844473..844841	-	122	401771058	rplS	HFMG06CAA_4930	-	-	50S ribosomal protein L19
+844846..845550	-	234	401771059	trmD	HFMG06CAA_4934	-	-	tRNA (guanine-N(1)-)-methyltransferase
+845560..845820	-	86	401771060	rpsP	HFMG06CAA_4936	-	-	30S ribosomal protein S16
+845877..846350	-	157	401771061	rplQ	HFMG06CAA_4940	-	-	50S ribosomal protein L17
+846359..847381	-	340	401771062	rpoA	HFMG06CAA_4947	-	-	DNA-directed RNA polymerase subunit alpha (RpoA)
+847354..847719	-	121	401771063	rpsK	HFMG06CAA_4950	-	-	30S ribosomal protein S11
+847729..848103	-	124	401771064	rpsM	HFMG06CAA_4954	-	-	30S ribosomal protein S13
+848107..848220	-	37	401771065	rpL36	HFMG06CAA_4956	-	-	50S ribosomal protein L36
+848234..848446	-	70	401771066	infA	HFMG06CAA_4959	-	-	translation initiation factor IF-1
+850548..850850	-	100	401771067	trxA_2	HFMG06CAA_4982	-	-	thioredoxin
+850906..853065	-	719	401771068	-	HFMG06CAA_4999	-	-	hypothetical protein
+853004..853249	+	81	401771069	topA	HFMG06CAA_4998	-	-	DNA topoisomerase 1
+853196..853843	-	215	401771070	rpe	HFMG06CAA_5000	-	-	ribulose-phosphate 3-epimerase
+853843..855129	-	428	401771071	pgi	HFMG06CAA_5006	-	-	glucose-6-phosphate isomerase
+855160..855984	-	274	401771072	rsgA	HFMG06CAA_5010	-	-	ribosome biogenesis GTPase rsgA
+855984..857246	-	420	401771073	-	HFMG06CAA_5018	-	-	serine/threonine protein kinase
+857239..858033	-	264	401771074	ptc1	HFMG06CAA_5027	-	-	PP2C-like serine/threonine protein phosphatase
+858033..858620	-	195	401771075	gmk	HFMG06CAA_5030	-	-	guanylate kinase
+858694..859284	+	196	401771076	def	HFMG06CAA_5031	-	-	peptide deformylase
+859353..860930	-	525	401771077	-	HFMG06CAA_5045	-	-	major facilitator superfamily transporter
+861252..863087	+	611	401771078	mnmG/gidA	HFMG06CAA_5046	-	-	tRNA uridine 5-carboxymethylaminomethyl modification enzyme mnmG (Glucose-inhibited division protein A)
+863080..863808	+	242	401771079	rsmG/gidB	HFMG06CAA_5052	-	-	ribosomal RNA small subunit methyltransferase G (glucose-inhibited division protein B)
+863714..864523	+	269	401771080	-	HFMG06CAA_5055	-	-	hypothetical protein
+864555..865115	-	186	401771081	-	HFMG06CAA_5061	-	-	hypothetical protein
+865140..865943	-	267	401771082	nusG	HFMG06CAA_5067	-	-	transcription termination factor NusG
+865966..866352	-	128	401771083	secE	HFMG06CAA_5070	-	-	preprotein translocase subunit SecE
+866357..866560	-	67	401771084	rpmG/rpl33	HFMG06CAA_5071	-	-	50S ribosomal protein L33
+866719..867552	+	277	401771085	-	HFMG06CAA_5072	-	-	transposase
+867929..869587	+	552	401771086	-	HFMG06CAA_5079	-	-	hypothetical protein
+869587..870084	+	165	401771087	-	HFMG06CAA_5087	-	-	hypothetical protein
+870091..871035	+	314	401771088	-	HFMG06CAA_5091	-	-	hypothetical protein
+871039..871530	+	163	401771089	-	HFMG06CAA_5097	-	-	hypothetical protein
+871520..873754	+	744	401771090	-	HFMG06CAA_5101	-	-	hypothetical protein
+873763..875295	+	510	401771091	aptA	HFMG06CAA_5116	-	-	F0F1 ATP synthase subunit alpha
+876732..878567	+	611	401771092	-	HFMG06CAA_5135	-	-	hypothetical protein
+878658..880697	+	679	401771093	-	HFMG06CAA_5145	-	-	hypothetical protein
+880828..881232	+	134	401771094	rpoE	HFMG06CAA_5154	-	-	DNA-directed RNA polymerase subunit delta (RpoE)
+881239..882111	+	290	401771095	fba	HFMG06CAA_5157	-	-	fructose-bisphosphate aldolase
+882122..883225	+	367	401771096	engD	HFMG06CAA_5160	-	-	YchF subfamily translation-associated GTPase
+883287..883961	+	224	401771097	tdk	HFMG06CAA_5166	-	-	thymidine kinase
+884045..884503	+	152	401771098	rplK	HFMG06CAA_5173	-	-	50S ribosomal protein L11
+884510..885190	+	226	401771099	rplA	HFMG06CAA_5175	-	-	50S ribosomal protein L1
+885215..885766	+	183	401771100	pth	HFMG06CAA_5180	-	-	peptidyl-tRNA hydrolase
+885750..886613	+	287	401771101	tilS	HFMG06CAA_5182	-	-	tRNA(Ile)-lysidine synthase
+886853..888886	+	677	401771102	fruA	HFMG06CAA_5185	-	-	PTS system fructose-specific transporter subunits IIABC
+888889..889335	+	148	401771103	-	HFMG06CAA_5195	-	-	hypothetical protein
+889283..890233	+	316	401771104	manA	HFMG06CAA_5198	-	-	mannose-6-phosphate isomerase (phosphomannose isomerase)
+891318..892760	-	480	401771105	-	HFMG06CAA_5214	-	-	hypothetical protein
+892669..894858	-	729	401771106	-	HFMG06CAA_5224	-	-	subtilisin-like serine protease domain-containing protein
+895338..899147	+	1269	401771107	-	HFMG06CAA_5227	-	-	Csn1 family CRISPR-associated protein
+899215..900141	+	308	401771108	cas1	HFMG06CAA_5253	-	-	CRISPR-associated protein Cas1
+900128..900457	+	109	401771109	cas2	HFMG06CAA_5258	-	-	CRISPR-associated protein Cas2
+900505..901221	+	238	401771110	-	HFMG06CAA_5259	-	-	hypothetical protein
+903210..903992	-	260	401771111	-	HFMG06CAA_5282	-	-	SpoU rRNA methylase family protein
+903996..905303	-	435	401771112	cysS	HFMG06CAA_5291	-	-	cysteinyl-tRNA synthetase
+906101..908389	-	762	401771113	-	HFMG06CAA_5313	-	-	hypothetical protein
+908393..909430	-	345	401771114	-	HFMG06CAA_5318	-	-	AAA ATPase-domain-containing protein
+909655..910590	+	311	401771115	-	HFMG06CAA_5320	-	-	transposase domain-containing protein
+910886..911149	+	87	401771116	-	HFMG06CAA_5332	-	-	HAD superfamily hydrolase Cof domain-containing protein
+911146..911712	-	188	401771117	-	HFMG06CAA_5335	-	-	hypothetical protein
+912045..912887	-	280	401771118	-	HFMG06CAA_5339	-	-	hypothetical protein
+913030..916320	-	1096	401771119	-	HFMG06CAA_5349	-	-	hypothetical protein
+916390..919986	-	1198	401771120	-	HFMG06CAA_5362	-	-	hypothetical protein
+920006..922273	-	755	401771121	-	HFMG06CAA_5375	-	-	major surface antigen P75
+923054..924850	-	598	401771122	-	HFMG06CAA_5386	-	-	hypothetical protein
+924980..925822	-	280	401771123	-	HFMG06CAA_5393	-	-	hypothetical protein
+925956..926174	-	72	401771124	-	HFMG06CAA_5395	-	-	SpoU rRNA methylase family protein domain-containing protein
+926125..926559	-	144	401771125	-	HFMG06CAA_5398	-	-	SpoU rRNA methylase family protein domain-containing protein
+926285..927040	+	251	401771126	-	HFMG06CAA_5396	-	-	NAD-dependent aldehyde dehydrogenase domain-containing protein
+927067..927450	+	127	401771127	-	HFMG06CAA_5401	-	-	NAD-dependent aldehyde dehydrogenase domain-containing protein
+928317..929633	+	438	401771128	-	HFMG06CAA_5407	-	-	hypothetical protein
+929611..929898	+	95	401771129	-	HFMG06CAA_5412	-	-	hypothetical protein
+930104..930235	+	43	401771130	atpD	HFMG06CAA_5416	-	-	F0F1 ATP synthase subunit beta domain-containing protein
+930183..930503	+	106	401771131	atpD	HFMG06CAA_5417	-	-	F0F1 ATP synthase subunit beta domain-containing protein
+930701..933121	+	806	401771132	-	HFMG06CAA_5420	-	-	hypothetical protein
+933135..933362	-	75	401771133	-	HFMG06CAA_5429	-	-	hypothetical protein
+933464..933808	-	114	401771134	-	HFMG06CAA_5434	-	-	hypothetical protein
+933875..934033	-	52	401771135	-	HFMG06CAA_5439	-	-	hypothetical protein
+934537..936684	-	715	401771136	lig	HFMG06CAA_5448	-	-	DNA ligase
+936947..937429	-	160	401771137	msrA	HFMG06CAA_5454	-	-	peptide methionine sulfoxide reductase MsrA
+937519..940845	+	1108	401771138	-	HFMG06CAA_5455	-	-	SNF2 family helicase
+940923..941624	+	233	401771139	-	HFMG06CAA_5470	-	-	hypothetical protein
+941677..943758	-	693	401771140	-	HFMG06CAA_5486	-	-	hypothetical protein
+944077..944310	-	77	401771141	-	HFMG06CAA_5489	-	-	hypothetical protein
+944490..945647	-	385	401771142	-	HFMG06CAA_5495	-	-	hypothetical protein
+945525..945947	+	140	401771143	-	HFMG06CAA_5494	-	-	hypothetical protein
+945961..948336	-	791	401771144	-	HFMG06CAA_5503	-	-	hypothetical protein
+948705..949493	-	262	401771145	atpD	HFMG06CAA_5511	-	-	F0F1 ATP synthase subunit beta domain-containing protein
+949450..951474	-	674	401771146	-	HFMG06CAA_5521	-	-	hypothetical protein
+951600..953717	-	705	401771147	-	HFMG06CAA_5535	-	-	hypothetical protein
+953897..955993	-	698	401771148	-	HFMG06CAA_5549	-	-	hypothetical protein
+956155..957573	-	472	401771149	-	HFMG06CAA_5559	-	-	NAD-dependent aldehyde dehydrogenase
+957654..958997	-	447	401771150	-	HFMG06CAA_5565	-	-	metal-dependent phosphohydrolase
+958987..960483	-	498	401771151	gltX	HFMG06CAA_5576	-	-	glutamyl-tRNA synthetase
+960514..961365	-	283	401771152	folD	HFMG06CAA_5583	-	-	bifunctional protein methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+961368..962477	-	369	401771153	lgt	HFMG06CAA_5591	-	-	prolipoprotein diacylglyceryl transferase
+962484..963416	-	310	401771154	hprK	HFMG06CAA_5600	-	-	HPr kinase/phosphorylase
+963788..964687	+	299	401771155	-	HFMG06CAA_5602	-	-	hypothetical protein
+964690..965490	-	266	401771156	tatD	HFMG06CAA_5617	-	-	TatD-like metal-dependent hydrolase
+965494..966855	-	453	401771157	trmE/mnmE	HFMG06CAA_5622	-	-	tRNA modification GTPase MnmE
+966848..967630	-	260	401771158	holB	HFMG06CAA_5624	-	-	DNA polymerase III subunit delta'
+967617..968249	-	210	401771159	tmk	HFMG06CAA_5631	-	-	thymidylate kinase
+968266..969528	-	420	401771160	serS	HFMG06CAA_5637	-	-	seryl-tRNA synthetase
+969546..972086	-	846	401771161	gyrA	HFMG06CAA_5654	-	-	DNA gyrase subunit A
+972105..974051	-	648	401771162	gyrB	HFMG06CAA_5669	-	-	DNA gyrase subunit B
+974244..975212	-	322	401771163	dnaJ	HFMG06CAA_5677	-	-	DnaJ-like molecular chaperone
+975215..976390	-	391	401771164	dnaN	HFMG06CAA_5685	-	-	DNA polymerase III subunit beta DnaN

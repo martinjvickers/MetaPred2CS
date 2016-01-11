@@ -1,0 +1,8 @@
+The dynamic library named "libJETreat.so" in linux can be made by the command as following:
+	g++ -fPIC -I $JAVA_HOME/include -I $JAVA_HOME/include/linux -shared -O3 -o libJETreat.so *.c
+And copy the libJETreat.so into the working directory.
+
+# The java.library.path system property must be set as:
+# 	java -Djava.library.path=. xxxx
+# Or set the LD_LIBRARY_PATH environment variable:
+	export LD_LIBRARY_PATH=.:$LD_LIBRARY_PATH

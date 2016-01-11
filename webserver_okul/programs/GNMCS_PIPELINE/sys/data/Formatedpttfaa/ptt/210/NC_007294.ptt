@@ -1,0 +1,662 @@
+Mycoplasma synoviae 53, complete genome - 1..799476
+659 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+57..1427	+	456	71894026	dnaA	MS53_0001	-	COG0593L	chromosome replication initiator DnaA
+1582..2715	+	377	71894027	dnaN	MS53_0002	-	COG0592L	DNA polymerase III beta subunit
+2722..2937	+	71	71894028	-	MS53_0003	-	COG2501S	hypothetical protein
+2974..7329	-	1451	71894029	polC	MS53_0004	-	COG2176L	DNA polymerase III PolC
+7336..8406	-	356	71894030	cdsA	MS53_0005	-	COG4589R	phosphatidate cytidylyltransferase
+8415..9146	-	243	71894031	-	MS53_0006	-	COG1521K	hypothetical protein
+9143..10297	-	384	71894032	-	MS53_0007	-	COG0452H	pantothenate metabolism flavoprotein
+10320..10919	+	199	71894033	-	MS53_0008	-	-	hypothetical protein
+12011..13369	-	452	71894034	eno	MS53_0009	-	COG0148G	phosphopyruvate hydratase
+13509..13763	+	84	71894035	rpsP	MS53_0010	-	COG0228J	30S ribosomal protein S16
+13760..14446	+	228	71894036	trmD	MS53_0011	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+14448..14789	+	113	71894037	rplS	MS53_0012	-	COG0335J	50S ribosomal protein L19
+14828..15226	+	132	71894038	-	MS53_0013	-	COG0802R	hypothetical protein
+15223..15795	+	190	71894039	-	MS53_0014	-	COG1214O	hypothetical protein
+15789..16712	+	307	161611240	gcp	MS53_0015	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+16713..17258	-	181	71894041	-	MS53_0016	-	COG0693R	hypothetical protein
+17258..18163	-	301	71894042	-	MS53_0017	-	-	hypothetical protein
+18163..19317	-	384	71894043	-	MS53_0018	-	COG0815M	hypothetical protein
+19340..19900	-	186	71894044	def	MS53_0019	-	COG0242J	polypeptide deformylase
+19920..20624	+	234	71894045	-	MS53_0020	-	COG0344S	hypothetical protein
+20649..22016	+	455	71894046	ffh	MS53_0021	-	COG0541U	signal recognition particle
+22038..24893	-	951	71894047	uvrA	MS53_0022	-	COG0178L	excinuclease ABC subunit A
+24936..25667	-	243	71894048	glpQ	MS53_0023	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+26237..27085	-	282	71894049	rpiR	MS53_0024	-	COG1737K	transcriptional regulator
+27311..28372	+	353	71894050	-	MS53_0025	-	COG1735R	hypothetical protein
+28390..30123	+	577	71894051	ulaA	MS53_0026	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+30182..30433	+	83	71894052	-	MS53_0027	-	COG3414G	PTS system, IIB component
+30445..30912	+	155	71894053	sgaA	MS53_0028	-	COG1762GT	pentitol phosphotransferase enzyme II, A component
+30922..31575	+	217	71894054	ulaD	MS53_0029	-	COG0269G	3-keto-L-gulonate-6-phosphate decarboxylase
+31553..32428	+	291	161611239	sgaU	MS53_0030	-	COG3623G	L-xylulose 5-phosphate 3-epimerase
+32428..33162	+	244	161611238	araD	MS53_0031	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+33164..34516	+	450	71894057	-	MS53_0032	-	COG0561R	hypothetical protein
+35887..36678	-	263	71894058	-	MS53_0034	-	COG1131V	ABC transporter ATP binding protein
+36688..37764	-	358	71894059	-	MS53_0035	-	-	hypothetical protein
+38025..39134	-	369	71894060	-	MS53_0036	-	COG1404O	hypothetical protein
+39551..40573	+	340	71894061	-	MS53_0037	-	-	hypothetical protein
+40875..41114	-	79	71894063	-	MS53_0039	-	COG0480J	hypothetical protein
+41408..41797	-	129	71894064	sipS	MS53_0040	-	COG2932K	signal peptidase I
+41840..44026	-	728	71894065	-	MS53_0041	-	COG1136V	ABC transporter ATP-binding protein
+44141..44665	-	174	71894066	-	MS53_0042	-	-	hypothetical protein
+44677..46338	-	553	71894067	-	MS53_0043	-	-	hypothetical protein
+46340..46903	-	187	71894068	-	MS53_0044	-	COG0561R	hypothetical protein
+46938..47429	-	163	71894069	-	MS53_0045	-	COG0510M	hypothetical protein
+47473..47880	-	135	71894070	-	MS53_0046	-	-	hypothetical protein
+48403..50493	-	696	71894071	fusA	MS53_0047	-	COG0480J	elongation factor G
+50500..50970	-	156	71894072	rpsG	MS53_0048	-	COG0049J	30S ribosomal protein S7
+51004..51417	-	137	71894073	rpsL	MS53_0049	-	COG0048J	30S ribosomal protein S12
+51527..52225	-	232	71894074	-	MS53_0050	-	COG0313R	hypothetical protein
+52218..53135	-	305	71894075	-	MS53_0051	-	COG2812L	DNA polymerase III subunit delta'
+53139..53783	-	214	71894076	tmk	MS53_0052	-	COG0125F	thymidylate kinase
+53791..54375	-	194	71894077	recR	MS53_0053	-	COG0353L	recombination protein RecR
+54375..54638	-	87	71894078	-	MS53_0054	-	COG0718S	hypothetical protein
+54672..56501	-	609	71894079	dnaX	MS53_0055	-	COG2812L	DNA polymerase III subunits gamma and tau
+56556..57680	-	374	71894080	-	MS53_0056	-	-	hypothetical protein
+57927..60509	+	860	71894081	parC	MS53_0057	-	COG0188L	DNA topoisomerase IV subunit A
+60516..62522	+	668	71894082	uvrB	MS53_0058	-	COG0556L	excinuclease ABC subunit B
+62537..62887	+	116	71894083	-	MS53_0059	-	-	hypothetical protein
+62897..63877	+	326	71894084	lplA	MS53_0060	-	COG0095H	lipoate-protein ligase A
+63880..64695	+	271	71894085	-	MS53_0061	-	COG0596R	hypothetical protein
+64801..65028	-	75	71894086	-	MS53_0062	-	COG0236IQ	acyl carrier protein
+65050..65433	-	127	71894087	-	MS53_0063	-	-	hypothetical protein
+65447..66529	-	360	71894088	-	MS53_0064	-	-	hypothetical protein
+66570..66977	-	135	71894089	-	MS53_0065	-	-	hypothetical protein
+67218..67409	+	63	71894090	rpmB	MS53_0066	-	COG0227J	50S ribosomal protein L28
+67451..68134	-	227	71894091	-	MS53_0067	-	COG3557J	hypothetical protein
+68221..68436	+	71	71894092	-	MS53_0068	-	-	hypothetical protein
+68593..70704	-	703	71894093	-	MS53_0069	-	-	hypothetical protein
+70746..72842	-	698	71894094	-	MS53_0070	-	COG3087D	hypothetical protein
+72933..73199	-	88	71894095	rpsT	MS53_0071	-	COG0268J	30S ribosomal protein S20
+73627..74121	+	164	71894096	-	MS53_0072	-	COG1555L	hypothetical protein
+74145..75392	+	415	71894097	-	MS53_0073	-	COG0658R	hypothetical protein
+75404..76336	+	310	71894098	-	MS53_0074	-	COG1466L	hypothetical protein
+76359..77603	+	414	71894099	-	MS53_0075	-	-	hypothetical protein
+77706..78140	+	144	71894100	rplM	MS53_0076	-	COG0102J	50S ribosomal protein L13
+78140..78535	+	131	161611237	rpsI	MS53_0077	-	COG0103J	30S ribosomal protein S9
+78714..80060	+	448	71894102	aldA	MS53_0078	-	COG1012C	aldehyde dehydrogenase
+80201..81889	+	562	71894103	-	MS53_0079	-	COG5421L	transposase
+82300..83916	+	538	71894104	-	MS53_0080	-	COG0488R	ABC transporter ATP-binding protein
+83916..84593	+	225	71894105	-	MS53_0081	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+84874..85209	-	111	71894106	rbfA	MS53_0082	-	COG0858J	ribosome-binding factor A
+85209..86396	-	395	71894107	deoB	MS53_0083	-	COG1015G	phosphopentomutase
+86419..87924	+	501	71894108	-	MS53_0084	-	COG0510M	hypothetical protein
+88197..89867	-	556	71894109	-	MS53_0085	-	COG3639P	transport system permease protein p69
+89864..90610	-	248	71894110	-	MS53_0086	-	COG3638P	ABC transporter atp-binding protein
+90624..91838	-	404	71894111	-	MS53_0087	-	-	P37-like ABC transporter substrate-binding lipoprotein
+92036..92635	+	199	71894112	acpD	MS53_0088	-	COG1182I	azoreductase
+92678..93151	-	157	71894113	-	MS53_0089	-	COG0009J	hypothetical protein
+93145..94254	-	369	71894114	-	MS53_0090	-	COG1295S	hypothetical protein
+94247..95668	-	473	71894115	gatB	MS53_0091	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+95661..96980	-	439	71894116	gatA	MS53_0092	-	COG0154J	amidase
+96980..97282	-	100	71894117	gatC	MS53_0093	-	COG0721J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit
+97289..98134	-	281	71894118	rluC	MS53_0094	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+98134..98703	-	189	161611236	scpB	MS53_0095	-	COG1386K	segregation and condensation protein B
+98693..99436	-	247	71894120	scpA	MS53_0096	-	COG1354S	segregation and condensation protein A
+99426..100163	-	245	71894121	plsC	MS53_0097	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+100187..100474	-	95	71894122	acpS	MS53_0098	-	COG0736I	holo-acyl-carrier protein synthase
+100492..100890	-	132	71894123	-	MS53_0099	-	-	hypothetical protein
+100880..102280	-	466	71894124	gltX	MS53_0100	-	COG0008J	glutamyl-tRNA synthetase
+102417..103736	+	439	71894125	-	MS53_0101	-	COG1284S	hypothetical protein
+103982..105697	-	571	71894126	-	MS53_0102	-	COG3839G	ABC transporter protein
+105728..106585	-	285	71894127	-	MS53_0103	-	COG0395G	ABC transporter, permease protein
+106585..107439	-	284	71894128	-	MS53_0104	-	COG1175G	multiple sugar ABC transporter permease
+107442..108995	-	517	71894129	-	MS53_0105	-	COG1653G	ABC transporter protein, periplasmic component
+109153..109824	-	223	71894130	pgmB	MS53_0106	-	COG0637R	beta-phosphoglucomutase
+109820..112183	-	787	71894131	-	MS53_0107	-	COG1554G	hypothetical protein
+112201..113844	-	547	71894132	-	MS53_0108	-	COG0366G	oligo-alpha-glucosidase
+113945..114628	-	227	71894133	-	MS53_0109	-	COG2186K	hypothetical protein
+114625..115326	-	233	71894134	-	MS53_0110	-	COG1525L	DNase/RNase endonuclease
+115323..116624	-	433	71894135	-	MS53_0111	-	COG2265J	tRNA (Uracil-5-) -methyltransferase
+116626..117168	-	180	71894136	-	MS53_0112	-	COG0742L	methyltransferase
+117161..117778	-	205	71894137	trmB	MS53_0113	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+117804..118994	-	396	71894138	pgk	MS53_0114	-	COG0126G	phosphoglycerate kinase
+119274..119822	+	182	71894139	-	MS53_0115	-	COG1704S	hypothetical protein
+119827..120273	+	148	71894140	-	MS53_0116	-	COG1956T	hypothetical protein
+120270..121364	+	364	71894141	-	MS53_0117	-	-	hypothetical protein
+121423..122262	-	279	71894142	-	MS53_0118	-	-	hypothetical protein
+122274..122945	-	223	71894143	rpe	MS53_0119	-	COG0036G	ribulose-phosphate 3-epimerase
+122932..123762	-	276	161611235	-	MS53_0120	-	COG1162R	ATP/GTP-binding protein
+123762..124742	-	326	71894145	pknB	MS53_0121	-	COG0515RTKL	serine/threonine-protein kinase
+124762..125508	-	248	71894146	prpC	MS53_0122	-	COG0631T	protein phosphatase
+125501..126097	-	198	71894147	gmk	MS53_0123	-	COG0194F	guanylate kinase
+126182..126334	-	50	71894148	rpmG	MS53_0124	-	COG0267J	50S ribosomal protein L33
+126367..127200	-	277	71894149	nfo	MS53_0125	-	COG0648L	endonuclease IV
+127188..128261	-	357	71894150	-	MS53_0126	-	COG2213G	potassium channel protein
+128262..129236	-	324	71894151	-	MS53_0127	-	COG1609K	hypothetical protein
+129542..132823	+	1093	161611234	secA	MS53_0128	-	COG0653U	preprotein translocase subunit SecA
+132878..134728	+	616	71894153	-	MS53_0129	-	COG1277R	hypothetical protein
+134728..135429	+	233	71894154	bcrA	MS53_0130	-	COG1131V	ABC transporter ATP-binding protein
+135422..136483	+	353	71894155	-	MS53_0131	-	-	hypothetical protein
+136473..137402	+	309	71894156	-	MS53_0132	-	-	hypothetical protein
+137392..138297	+	301	71894157	-	MS53_0133	-	-	hypothetical protein
+138287..139105	+	272	71894158	-	MS53_0134	-	-	hypothetical protein
+140798..142141	+	447	71894159	xylF	MS53_0136	-	COG1744R	ABC transporter xylose-binding lipoprotein
+142202..144013	+	603	71894160	mglA	MS53_0137	-	COG3845R	sugar ABC transporter ATP-binding protein
+144045..145607	+	520	71894161	-	MS53_0138	-	COG4603R	sugar ABC transporter permease protein
+145607..146560	+	317	71894162	-	MS53_0139	-	COG1079R	sugar ABC transporter permease protein
+146563..147216	+	217	71894163	dgk	MS53_0140	-	COG1428F	deoxyguanosine kinase
+147207..147839	+	210	71894164	-	MS53_0141	-	COG1428F	hypothetical protein
+147872..149188	-	438	71894165	engA	MS53_0142	-	COG1160R	GTP-binding protein EngA
+149185..149847	-	220	71894166	cmk	MS53_0143	-	COG0283F	cytidylate kinase
+149844..150308	-	154	71894167	-	MS53_0144	-	-	hypothetical protein
+150348..151400	+	350	71894168	ftsY	MS53_0145	-	COG0552U	cell division protein FtsY
+151393..151626	+	77	71894169	-	MS53_0146	-	COG2739S	hypothetical protein
+151667..154249	-	860	71894170	ptsG	MS53_0147	-	COG2190G	PTS system, glucose-specific IIABC component
+154803..155348	+	181	71894171	ppa	MS53_0148	-	COG0221C	inorganic pyrophosphatase
+155351..156421	+	356	71894172	pepP	MS53_0149	-	COG0006E	XAA-Pro aminopeptidase
+156485..157480	+	331	71894173	prsA	MS53_0150	-	COG0462FE	ribose-phosphate pyrophosphokinase
+157518..158141	+	207	71894174	gidB	MS53_0151	-	COG0357M	16S rRNA methyltransferase GidB
+158157..159536	-	459	71894175	-	MS53_0152	-	COG1249C	mercuric reductase
+159673..161088	-	471	71894176	pepA-1	MS53_0153	-	COG0260E	leucyl aminopeptidase
+161157..162539	-	460	71894177	pepA	MS53_0154	-	COG0260E	leucyl aminopeptidase
+162891..164354	+	487	71894178	-	MS53_0155	-	COG2205T	hypothetical protein
+164364..164921	+	185	71894179	-	MS53_0156	-	-	hypothetical protein
+164911..165810	+	299	71894180	-	MS53_0157	-	-	hypothetical protein
+166274..168481	+	735	71894181	-	MS53_0158	-	-	hypothetical protein
+168481..170025	+	514	71894182	atpA-2	MS53_0159	-	COG0056C	ATP synthase F0F1 subunit alpha
+170025..171437	+	470	71894183	atpD-2	MS53_0160	-	COG0055C	ATP synthase F0F1 subunit beta
+171548..172858	-	436	71894184	-	MS53_0161	-	COG2189L	type III restriction-modification system: methylase
+173238..174161	-	307	71894185	-	MS53_0162	-	COG1323R	hypothetical protein
+174257..174457	+	66	71894186	rpmF	MS53_0163	-	COG0333J	50S ribosomal protein L32
+174530..175126	+	198	71894187	ruvA	MS53_0164	-	COG0632L	Holliday junction DNA helicase RuvA
+175140..176054	+	304	71894188	ruvB	MS53_0165	-	COG2255L	Holliday junction DNA helicase RuvB
+178202..180796	+	864	71894189	secD	MS53_0167	-	COG0341U	bifunctional preprotein translocase subunit SecD/SecF
+180846..182120	+	424	71894190	obgE	MS53_0168	-	COG0536R	GTPase ObgE
+182120..183112	+	330	71894191	trpS	MS53_0169	-	COG0180J	tryptophanyl-tRNA synthetase
+183112..184857	+	581	71894192	thrS	MS53_0170	-	COG0441J	threonyl-tRNA synthetase
+184850..185341	+	163	71894193	-	MS53_0171	-	-	hypothetical protein
+185407..186906	+	499	71894194	-	MS53_0172	-	COG1322S	hypothetical protein
+186953..187273	-	106	71894195	hit	MS53_0173	-	COG0537FGR	HIT-like protein
+187273..188469	-	398	71894196	-	MS53_0174	-	-	P60-like lipoprotein
+188469..190583	-	704	71894197	-	MS53_0175	-	-	membrane protein P80
+190716..191279	+	187	71894198	-	MS53_0176	-	-	hypothetical protein
+191607..192164	-	185	71894199	-	MS53_0177	-	COG5421L	transposase ISMHp1-like
+192128..193159	-	343	71894200	-	MS53_0178	-	COG5421L	transposase ISMHp1-like
+193410..194042	-	210	71894201	-	MS53_0179	-	COG2059P	chromate transport protein
+194072..194671	-	199	71894202	-	MS53_0180	-	COG2059P	chromate transport protein
+194710..196650	-	646	71894203	tktA	MS53_0181	-	COG0021G	transketolase
+196659..197384	-	241	71894204	hemK	MS53_0182	-	COG2890J	protoporphirogen oxidase HemK
+197384..198463	-	359	71894205	prfA	MS53_0183	-	COG0216J	peptide chain release factor 1
+199080..200195	+	371	71894206	oppB	MS53_0184	-	COG0601EP	oligopeptide transport system permease protein
+200246..201184	+	312	71894207	oppC	MS53_0185	-	COG1173EP	oligopeptide transport system permease protein
+201190..202947	+	585	71894208	-	MS53_0186	-	COG4608E	oligopeptide ABC transporter ATP-binding protein OppF
+202954..204255	+	433	71894209	oppD	MS53_0187	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein OppD
+204266..210175	+	1969	71894210	-	MS53_0188	-	-	hypothetical protein
+210264..210551	+	95	71894211	-	MS53_0189	-	-	hypothetical protein
+210563..213247	+	894	71894212	-	MS53_0190	-	COG4166E	lipoprotein
+213849..215687	-	612	71894213	-	MS53_0191	-	COG0591ER	hypothetical protein
+215696..216166	-	156	71894214	-	MS53_0192	-	-	hypothetical protein
+216417..217118	+	233	71894215	nagB	MS53_0193	-	COG0363G	glucosamine-6-phosphate isomerase
+217168..218250	+	360	71894216	nagA	MS53_0194	-	COG1820G	N-acetylglucosamine 6-P deacetylase
+218237..219094	-	285	71894217	nagC	MS53_0195	-	COG1940KG	N-acetylmannosamine kinase
+219162..219617	+	151	71894218	-	MS53_0196	-	COG2731G	hypothetical protein
+219617..220312	+	231	71894219	-	MS53_0197	-	COG3010G	N-acetylmannosamine-6-phosphate 2-epimerase
+220332..221195	+	287	71894220	nanA	MS53_0198	-	COG0329EM	N-acetylneuraminate lyase
+221259..224099	-	946	71894221	-	MS53_0199	-	-	hypothetical protein
+224278..225282	-	334	71894222	gap	MS53_0200	-	COG0057G	glyceraldehyde-3-P dehydrogenase
+225402..227291	-	629	71894223	-	MS53_0201	-	-	phase-variable hemagglutinin
+227833..228750	-	305	71894225	-	MS53_0203	-	-	phase-variable hemagglutinin
+228905..229822	-	305	71894226	-	MS53_0204	-	-	phase-variable hemagglutinin
+229977..231086	-	369	71894227	-	MS53_0205	-	-	phase-variable hemagglutinin
+231410..232423	-	337	71894228	-	MS53_0206	-	-	phase-variable hemagglutinin
+232474..233148	-	224	71894229	-	MS53_0207	-	-	phase-variable hemagglutinin
+233138..233500	-	120	71894230	-	MS53_0208	-	-	phase-variable hemagglutinin
+233554..234501	-	315	71894231	-	MS53_0209	-	-	phase-variable hemagglutinin
+234552..235379	-	275	71894232	-	MS53_0210	-	-	phase-variable hemagglutinin
+235543..236643	-	366	71894233	-	MS53_0211	-	-	phase-variable hemagglutinin
+237340..237702	-	120	71894237	-	MS53_0215	-	-	phase-variable hemagglutinin
+237756..239714	-	652	71894238	-	MS53_0216	-	-	phase-variable hemagglutinin
+239715..240185	-	156	71894239	-	MS53_0217	-	-	phase-variable hemagglutinin
+240538..241281	-	247	71894241	-	MS53_0219	-	-	phase-variable hemagglutinin
+241311..242210	-	299	71894242	-	MS53_0220	-	-	phase-variable hemagglutinin
+242419..243417	-	332	71894243	-	MS53_0221	-	-	phase-variable hemagglutinin
+243447..245411	-	654	71894244	-	MS53_0222	-	-	phase-variable hemagglutinin
+245412..245876	-	154	71894245	-	MS53_0223	-	-	phase-variable hemagglutinin
+245956..246840	-	294	71894246	-	MS53_0224	-	-	phase-variable hemagglutinin
+246877..247860	-	327	71894247	-	MS53_0225	-	-	phase-variable hemagglutinin
+247911..249011	-	366	71894248	-	MS53_0226	-	-	phase-variable hemagglutinin
+249033..249740	-	235	71894249	-	MS53_0227	-	-	phase-variable hemagglutinin
+249721..249963	-	80	71894250	-	MS53_0228	-	-	phase-variable hemagglutinin
+249993..251921	-	642	71894251	-	MS53_0229	-	-	phase-variable hemagglutinin
+251977..252456	-	159	71894252	-	MS53_0230	-	-	phase-variable hemagglutinin
+252510..252896	-	128	71894253	-	MS53_0231	-	-	phase-variable hemagglutinin
+252877..254349	-	490	71894254	-	MS53_0232	-	-	phase-variable hemagglutinin
+254497..255948	-	483	71894255	-	MS53_0233	-	-	phase-variable hemagglutinin
+255994..256500	-	168	71894256	-	MS53_0234	-	-	phase-variable hemagglutinin
+256530..257597	-	355	71894257	-	MS53_0235	-	-	phase-variable hemagglutinin
+257681..258976	-	431	71894258	-	MS53_0236	-	-	phase-variable hemagglutinin
+259094..261046	-	650	71894259	-	MS53_0237	-	-	phase-variable hemagglutinin
+261101..261571	-	156	71894260	-	MS53_0238	-	-	phase-variable hemagglutinin
+261641..262651	-	336	71894261	-	MS53_0239	-	-	phase-variable hemagglutinin
+262963..263619	-	218	71894262	-	MS53_0240	-	-	phase-variable hemagglutinin
+263646..265562	-	638	71894263	-	MS53_0241	-	-	phase-variable hemagglutinin
+265608..266219	-	203	71894264	-	MS53_0242	-	-	phase-variable hemagglutinin
+266899..267573	-	224	71894265	-	MS53_0243	-	-	phase-variable hemagglutinin
+267625..268779	-	384	71894266	-	MS53_0244	-	-	phase-variable hemagglutinin
+269073..270146	-	357	71894267	-	MS53_0245	-	-	phase-variable hemagglutinin
+270176..270679	-	167	71894268	-	MS53_0246	-	-	phase-variable hemagglutinin
+270658..272115	-	485	71894269	-	MS53_0247	-	-	phase-variable hemagglutinin
+272142..272810	-	222	71894270	-	MS53_0248	-	-	phase-variable hemagglutinin
+273122..275074	-	650	71894271	-	MS53_0249	-	-	phase-variable hemagglutinin
+275101..275589	-	162	71894272	-	MS53_0250	-	-	phase-variable hemagglutinin
+275640..276653	-	337	71894273	-	MS53_0251	-	-	phase-variable hemagglutinin
+276683..277813	-	376	71894274	-	MS53_0252	-	-	phase-variable hemagglutinin
+278137..279144	-	335	71894275	-	MS53_0253	-	-	phase-variable hemagglutinin
+279264..280298	-	344	71894276	-	MS53_0254	-	-	phase-variable hemagglutinin
+280328..281392	-	354	71894277	-	MS53_0255	-	-	phase-variable hemagglutinin
+281422..282000	-	192	71894278	-	MS53_0256	-	-	phase-variable hemagglutinin
+282000..283349	-	449	71894279	-	MS53_0257	-	-	phase-variable hemagglutinin
+283404..283907	-	167	71894280	-	MS53_0258	-	-	phase-variable hemagglutinin
+283940..285007	-	355	71894281	-	MS53_0259	-	-	phase-variable hemagglutinin
+285040..285561	-	173	71894282	-	MS53_0260	-	-	phase-variable hemagglutinin
+285637..286119	-	160	71894283	-	MS53_0261	-	-	phase-variable hemagglutinin
+286431..288416	-	661	71894284	-	MS53_0262	-	-	phase-variable hemagglutinin
+288443..288994	-	183	71894285	-	MS53_0263	-	-	phase-variable hemagglutinin
+289494..290186	-	230	71894286	-	MS53_0264	-	-	phase-variable hemagglutinin
+290213..290596	-	127	71894287	-	MS53_0265	-	-	phase-variable hemagglutinin
+290577..290807	-	76	71894288	-	MS53_0266	-	-	phase-variable hemagglutinin
+290812..291219	-	135	71894289	-	MS53_0267	-	-	phase-variable hemagglutinin
+292135..293844	+	569	71894290	vlhA	MS53_0268	-	-	phase-variable hemagglutinin
+293844..294455	+	203	71894291	-	MS53_0269	-	-	phase-variable hemagglutinin
+294593..295597	+	334	71894292	gapA	MS53_0270	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+295849..297597	+	582	71894293	uvrC	MS53_0271	-	COG0322L	excinuclease ABC subunit C
+297651..298775	+	374	71894294	pdhA	MS53_0272	-	COG1071C	pyruvate dehydrogenase E1 component, alpha subunit
+298772..299767	+	331	71894295	pdhB	MS53_0273	-	COG0022C	pyruvate dehydrogenase E1 component, beta subunit
+299788..300672	+	294	71894296	pdhC	MS53_0274	-	COG0508C	dihydrolipoamide acetyltransferase
+300674..302542	+	622	71894297	pdhD	MS53_0275	-	COG1249C	dihydrolipoamide dehydrogenase
+305657..306586	+	309	71894299	-	MS53_0279	-	COG0618R	MGPA-like protein
+309020..309763	+	247	71894300	licA	MS53_0282	-	COG0510M	PTS system, lichenan-specific IIA component
+310107..311768	+	553	71894301	-	MS53_0283	-	COG5421L	transposase,undefined
+311934..313292	-	452	71894302	-	MS53_0284	-	COG1525L	hypothetical protein
+313361..315700	-	779	71894303	-	MS53_0285	-	-	hypothetical protein
+316527..316982	+	151	71894305	-	MS53_0287	-	-	hypothetical protein
+321056..321433	+	125	71894308	-	MS53_0291	-	COG0017J	hypothetical protein
+321706..321942	+	78	71894309	-	MS53_0292	-	COG0017J	hypothetical protein
+321946..323577	+	543	71894310	-	MS53_0293	-	COG1363G	hypothetical protein
+323612..325492	+	626	71894311	-	MS53_0294	-	COG2226H	hypothetical protein
+327690..328670	-	326	71894312	pfk	MS53_0296	-	COG0205G	6-phosphofructokinase
+328667..329503	-	278	71894313	folD	MS53_0297	-	COG0190H	methylenetetrahydrofolate dehydrogenase / methenyltetrahydrofolate cyclohydrolase
+329491..331989	-	832	71894314	valS	MS53_0298	-	COG0525J	valyl-tRNA synthetase
+332304..333197	+	297	71894315	-	MS53_0299	-	COG1363G	endoglucanase
+333221..333640	+	139	71894316	-	MS53_0300	-	COG0783P	neutrophil activating protein NapA
+333727..335937	+	736	71894317	vacB	MS53_0301	-	COG0557K	VACB-like ribonuclease II
+335927..336703	+	258	71894318	-	MS53_0302	-	COG4123R	DNA methylase
+336705..338261	+	518	71894319	metG	MS53_0303	-	COG0143J	methionyl-tRNA synthetase
+338257..338559	+	100	71894320	-	MS53_0304	-	COG1359S	hypothetical protein
+338587..339852	-	421	71894321	glyA	MS53_0305	-	COG0112E	serine hydroxymethyltransferase
+339855..342014	-	719	71894322	pheT	MS53_0306	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+342019..342693	-	224	71894323	ung	MS53_0307	-	COG0692L	uracil-DNA glycosylase
+342697..343638	-	313	71894324	pheS	MS53_0308	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+343796..344416	+	206	71894325	upp	MS53_0309	-	COG0035F	uracil phosphoribosyltransferase
+344437..345186	+	249	71894326	-	MS53_0310	-	-	hypothetical protein
+345195..347492	+	765	71894327	leuS	MS53_0311	-	COG0495J	leucyl-tRNA synthetase
+347532..350204	+	890	71894328	lon	MS53_0312	-	COG0466O	heat shock ATP-dependent protease
+350644..351417	+	257	71894329	-	MS53_0313	-	-	hypothetical protein
+351963..352307	+	114	71894331	-	MS53_0315	-	-	hypothetical protein
+352722..354914	+	730	71894332	-	MS53_0316	-	-	hypothetical protein
+354970..357567	-	865	71894333	gyrA	MS53_0317	-	COG0188L	DNA gyrase subunit A
+357677..358372	-	231	71894334	rluB	MS53_0318	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+358384..359469	-	361	71894335	nadD	MS53_0319	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+359471..360640	-	389	71894336	dinP	MS53_0320	-	COG0389L	DNA polymerase IV
+360699..361097	-	132	71894337	nifU	MS53_0321	-	COG0822C	nitrogen fixation protein NifU
+361114..362280	-	388	71894338	nifS	MS53_0322	-	COG0520E	nitrogen fixation protein NifS
+362281..362751	-	156	71894339	-	MS53_0323	-	-	hypothetical protein
+362753..363223	-	156	71894340	-	MS53_0324	-	COG0781K	hypothetical protein
+363232..364674	-	480	71894341	-	MS53_0325	-	COG0474P	hypothetical protein
+364757..365608	+	283	71894342	-	MS53_0326	-	COG1307S	hypothetical protein
+367338..371939	-	1533	71894343	-	MS53_0328	-	COG2755E	hypothetical protein
+372359..374722	+	787	71894344	-	MS53_0329	-	-	hypothetical protein
+374750..376840	+	696	71894345	-	MS53_0330	-	COG3839G	ABC transporter ATP-binding protein
+376893..377876	+	327	71894346	ugpA	MS53_0331	-	COG1175G	ABC transporter, permease protein
+377818..378840	+	340	229220854	ugpE	MS53_0332	-	COG0395G	ABC transporter permease
+379118..380668	+	516	71894348	-	MS53_0333	-	COG4942D	hypothetical protein
+380685..383000	+	771	71894349	-	MS53_0334	-	-	hypothetical protein
+383078..383833	+	251	71894350	-	MS53_0335	-	-	hypothetical protein
+383833..384801	+	322	71894351	-	MS53_0336	-	COG0618R	MgpA like-protein
+384797..385753	+	318	71894352	-	MS53_0337	-	COG0618R	MgpA like-protein
+385844..386725	+	293	71894353	-	MS53_0338	-	COG2502E	asparagine synthetase AsnA
+386733..387461	+	242	71894354	-	MS53_0339	-	COG0510M	PTS system, lichenan-specific IIA component
+387570..389198	-	542	71894355	ftsZ	MS53_0340	-	COG0206D	cell division protein
+389347..390516	-	389	71894356	-	MS53_0341	-	-	hypothetical protein
+390519..391424	-	301	71894357	mraW	MS53_0342	-	COG0275M	S-adenosyl-methyltransferase MraW
+391414..391857	-	147	71894358	-	MS53_0343	-	COG2001S	hypothetical protein
+391984..392430	-	148	71894359	-	MS53_0344	-	-	hypothetical protein
+392438..394828	-	796	71894360	oppF-1	MS53_0345	-	COG4608E	oligopeptide ABC transporter ATP-binding protein
+394883..395881	-	332	71894361	oppD-1	MS53_0346	-	COG0444EP	oligopeptide ABC transporter, ATP-binding protein
+395878..397221	-	447	71894362	oppC-1	MS53_0347	-	COG1173EP	oligopeptide transport system permease protein
+397233..398357	-	374	71894363	oppB-1	MS53_0348	-	COG0601EP	oligopeptide ABC transporter permease protein
+398366..401341	-	991	71894364	-	MS53_0349	-	-	lipoprotein
+401376..403211	-	611	71894365	pepF	MS53_0350	-	COG1164E	oligoendopeptidase F
+403390..405180	-	596	71894366	dnaK	MS53_0351	-	COG0443O	molecular chaperone DnaK
+405282..406160	-	292	71894367	grpE	MS53_0352	-	COG0576O	heat shock protein GrpE
+406153..407175	-	340	71894368	hrcA	MS53_0353	-	COG1420K	heat-inducible transcription repressor
+407254..408120	-	288	71894369	fba	MS53_0354	-	COG0191G	fructose-bisphosphate aldolase
+408128..408391	-	87	71894370	-	MS53_0355	-	-	hypothetical protein
+408424..410079	-	551	71894371	argS	MS53_0356	-	COG0018J	arginyl-tRNA synthetase
+410177..411397	+	406	71894372	cysS	MS53_0357	-	COG0215J	cysteinyl-tRNA synthetase
+411418..412119	+	233	71894373	-	MS53_0358	-	COG0566J	tRNA/rRNA methyltransferase
+412112..412699	+	195	71894374	-	MS53_0359	-	-	hypothetical protein
+412884..413108	+	74	71894375	secE	MS53_0360	-	COG0690U	preprotein translocase subunit SecE
+413110..413718	+	202	71894376	nusG	MS53_0361	-	COG0250K	transcription antitermination protein
+413750..415141	+	463	71894377	trmE	MS53_0362	-	COG0486R	tRNA modification GTPase TrmE
+415141..415947	+	268	71894378	-	MS53_0363	-	COG0084L	hypothetical protein
+415947..416726	+	259	71894379	ksgA	MS53_0364	-	COG0030J	dimethyladenosine transferase
+416710..417159	-	149	71894380	-	MS53_0365	-	-	hypothetical protein
+417164..417763	-	199	71894381	-	MS53_0366	-	-	hypothetical protein
+417763..418233	-	156	71894382	-	MS53_0367	-	-	hypothetical protein
+418238..418729	-	163	71894383	tpx	MS53_0368	-	COG2077O	thiol peroxidase
+418744..419070	-	108	71894384	-	MS53_0369	-	-	hypothetical protein
+419271..420122	-	283	71894385	-	MS53_0370	-	COG3393R	hypothetical protein
+420137..424393	+	1418	71894386	-	MS53_0371	-	COG2755E	hypothetical protein
+424577..425602	-	341	71894387	-	MS53_0372	-	COG0428P	hypothetical protein
+425612..426334	-	240	71894388	-	MS53_0373	-	COG0217S	hypothetical protein
+426596..428404	+	602	71894389	-	MS53_0374	-	-	hypothetical protein
+428485..429603	+	372	71894390	mnmA	MS53_0375	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+429612..432248	+	878	71894391	alaS	MS53_0376	-	COG0013J	alanyl-tRNA synthetase
+432272..432649	+	125	71894392	-	MS53_0377	-	COG0816L	hypothetical protein
+432657..433328	+	223	71894393	-	MS53_0378	-	-	hypothetical protein
+433383..433856	+	157	71894394	greA	MS53_0379	-	COG0782K	transcription elongation factor GreA
+433889..434563	+	224	71894395	-	MS53_0380	-	COG1428F	deoxyguanosine kinase
+434559..435095	+	178	71894396	hpt	MS53_0381	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferases
+435201..435989	+	262	71894397	lip3	MS53_0382	-	COG0596R	triacylglycerol lipase
+435982..437160	+	392	71894398	-	MS53_0383	-	COG3839G	glycerol transporter subunit A
+437150..438103	+	317	71894399	-	MS53_0384	-	COG1175G	glycerol transporter subunit B
+438084..438893	+	269	71894400	-	MS53_0385	-	COG0395G	glycerol transporter subunit C
+438904..440802	+	632	71894401	-	MS53_0386	-	-	lipoprotein
+440839..441690	-	283	71894402	era	MS53_0387	-	COG1159R	GTP-binding protein Era
+441707..442078	-	123	71894403	cdd	MS53_0388	-	COG0295F	cytidine deaminase
+442110..442589	-	159	71894404	-	MS53_0389	-	COG0319R	hypothetical protein
+442597..442926	-	109	71894405	-	MS53_0390	-	-	hypothetical protein
+442958..444973	-	671	71894406	-	MS53_0391	-	COG2274V	ABC transporter ATP-binding
+445061..445504	+	147	71894407	rpiB	MS53_0392	-	COG0698G	ribose-5-phosphate isomerase B
+445507..447021	+	504	71894408	cls	MS53_0393	-	COG1502I	cardiolipin synthetase
+447078..447341	+	87	71894409	ptsH	MS53_0394	-	COG1925G	phophocarrier protein HPr
+447345..448193	-	282	71894410	-	MS53_0395	-	-	hypothetical protein
+448228..448737	-	169	71894411	comEB	MS53_0396	-	COG2131F	deoxycytidylate deaminase fusion protein
+448734..449201	-	155	71894412	folA	MS53_0397	-	COG0262H	dihydrofolate reductase
+449201..450070	-	289	71894413	thyA	MS53_0398	-	COG0207F	thymidylate synthase
+450378..451397	+	339	71894414	nrdF	MS53_0399	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+451415..451846	+	143	71894415	nrdI	MS53_0400	-	COG1780F	ribonucleotide reductase stimulatory protein
+451869..454043	+	724	71894416	nrdE	MS53_0401	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+454141..455637	-	498	71894417	-	MS53_0402	-	-	hypothetical protein
+455722..456345	-	207	71894418	-	MS53_0403	-	-	hypothetical protein
+456382..456795	-	137	71894419	atpC	MS53_0404	-	COG0355C	ATP synthase epsilon subunit
+456795..458189	-	464	71894420	atpD	MS53_0405	-	COG0055C	ATP synthase F0F1 subunit beta
+458197..459066	-	289	71894421	atpG	MS53_0406	-	COG0224C	ATP synthase F0F1 subunit gamma
+459059..460651	-	530	71894422	atpA	MS53_0407	-	COG0056C	ATP synthase F0F1 subunit alpha
+460641..461192	-	183	71894423	atpH	MS53_0408	-	COG0712C	ATP synthase subunit delta
+461192..461734	-	180	71894424	atpF	MS53_0409	-	COG0711C	ATP synthase subunit B
+461773..462090	-	105	71894425	atpE	MS53_0410	-	COG0636C	ATP synthase subunit C
+462127..462930	-	267	71894426	atpB	MS53_0411	-	COG0356C	ATP synthase F0F1 subunit A
+462943..463428	-	161	71894427	-	MS53_0412	-	-	hypothetical protein
+463767..464579	+	270	71894428	rpsB	MS53_0413	-	COG0052J	30S ribosomal protein S2
+464579..465457	+	292	71894429	tsf	MS53_0414	-	COG0264J	elongation factor EF-Ts
+465483..467957	-	824	71894430	-	MS53_0415	-	COG1744R	hypothetical protein
+468017..468871	+	284	71894431	-	MS53_0416	-	-	hypothetical protein
+468884..469582	+	232	71894432	rsuA	MS53_0417	-	COG1187J	16S rRNA uridine-516 pseudouridylate synthase
+469579..472053	-	824	71894433	-	MS53_0418	-	COG1196D	hypothetical protein
+472146..472637	-	163	71894434	-	MS53_0419	-	-	hypothetical protein
+472785..473282	+	165	71894435	rplJ	MS53_0420	-	COG0244J	50S ribosomal protein L10
+473319..473690	+	123	71894436	rplL	MS53_0421	-	COG0222J	50S ribosomal protein L7/L12
+473734..475077	-	447	71894437	asnC	MS53_0422	-	COG0017J	asparaginyl-tRNA synthetase
+475249..476967	+	572	71894438	-	MS53_0423	-	COG0531E	amino acid permease
+477456..478703	-	415	71894439	hlyC	MS53_0424	-	COG1253R	hemolysin C
+478730..480226	-	498	71894440	dnaB	MS53_0425	-	COG0305L	replicative DNA helicase
+480243..480701	-	152	71894441	rplI	MS53_0426	-	COG0359J	50S ribosomal protein L9
+480682..482724	-	680	71894442	-	MS53_0427	-	COG3887T	DHH subfamily 1 protein
+482736..484370	-	544	71894443	-	MS53_0428	-	COG2317E	hypothetical protein
+484404..485291	-	295	71894444	-	MS53_0429	-	-	hypothetical protein
+485302..486342	-	346	71894445	-	MS53_0430	-	-	hypothetical protein
+487039..487599	-	186	71894446	efp	MS53_0431	-	COG0231J	elongation factor P
+487830..488330	+	166	71894447	-	MS53_0432	-	COG4508S	hypothetical protein
+488874..492023	-	1049	71894448	-	MS53_0433	-	COG1112L	ATP-binding protein
+492043..492411	-	122	71894449	-	MS53_0434	-	COG1264G	PTS system glucose-specific enzyme IIB component
+492551..493054	-	167	71894450	-	MS53_0435	-	COG1970M	hypothetical protein
+493082..494782	-	566	71894451	aspS	MS53_0436	-	COG0173J	aspartyl-tRNA synthetase
+494799..496295	-	498	71894452	hisS	MS53_0437	-	COG0124J	histidyl-tRNA synthetase
+496276..497922	-	548	71894453	-	MS53_0438	-	-	hypothetical protein
+499922..500794	+	290	71894454	-	MS53_0440	-	COG0270L	cytosine-specific methyltransferase
+500820..503696	+	958	71894455	-	MS53_0441	-	-	hypothetical protein
+503703..504101	+	132	71894456	-	MS53_0442	-	-	hypothetical protein
+504359..504607	+	82	71894457	-	MS53_0443	-	-	hypothetical protein
+506274..506945	-	223	71894458	deoC	MS53_0445	-	COG0274F	deoxyribose-phosphate aldolase
+506945..508243	-	432	71894459	deoA	MS53_0446	-	COG0213F	pyrimidine-nucleoside phosphorylase
+508245..508943	-	232	71894460	deoD	MS53_0447	-	COG0813F	purine-nucleoside phosphorylase
+509040..509885	+	281	71894461	fpg	MS53_0448	-	COG0266L	foramidopyrimidine DNA gycosylase
+509890..510417	+	175	71894462	-	MS53_0449	-	-	hypothetical protein
+510803..512065	-	420	71894463	-	MS53_0450	-	-	hypothetical protein
+512067..512396	-	109	71894464	-	MS53_0451	-	-	hypothetical protein
+512519..513874	+	451	71894465	glyS	MS53_0452	-	COG0423J	glycyl-tRNA synthetase
+513881..515722	+	613	71894466	dnaG	MS53_0453	-	COG0358L	DNA primase
+516646..518118	+	490	71894468	rpoD	MS53_0455	-	COG0568K	RNA polymerase sigma factor
+518123..518890	+	255	71894469	-	MS53_0456	-	COG0327S	hypothetical protein
+518942..519187	+	81	71894470	-	MS53_0457	-	-	hypothetical protein
+519347..523228	+	1293	71894471	-	MS53_0458	-	COG2755E	hypothetical protein
+523242..531098	+	2618	71894472	-	MS53_0459	-	-	hypothetical protein
+532144..533115	+	323	71894473	ldh	MS53_0461	-	COG0039C	L-lactate dehydrogenase
+533199..535343	-	714	71894474	-	MS53_0462	-	COG3456T	hypothetical protein
+535351..537675	-	774	71894475	-	MS53_0463	-	-	hypothetical protein
+537912..539270	-	452	71894476	atpD-3	MS53_0464	-	COG0055C	ATP synthase F0F1 subunit beta
+539270..540814	-	514	71894477	atpA-3	MS53_0465	-	COG0056C	ATP synthase F0F1 subunit alpha
+540804..542807	-	667	71894478	-	MS53_0466	-	-	hypothetical protein
+542798..543256	-	152	71894479	-	MS53_0467	-	-	hypothetical protein
+543256..544140	-	294	71894480	-	MS53_0468	-	COG0224C	hypothetical protein
+544133..544621	-	162	71894481	-	MS53_0469	-	-	hypothetical protein
+544632..546083	-	483	71894482	-	MS53_0470	-	-	hypothetical protein
+546076..548241	-	721	71894483	-	MS53_0471	-	COG0810M	hypothetical protein
+548270..548737	-	155	71894484	-	MS53_0472	-	-	hypothetical protein
+549756..554504	-	1582	71894486	-	MS53_0474	-	-	hypothetical protein
+554852..556237	-	461	71894487	-	MS53_0475	-	COG5421L	transposase,ISMHp1-like
+556249..556539	-	96	71894488	-	MS53_0476	-	-	hypothetical protein
+556683..556898	-	71	71894489	rpmE	MS53_0477	-	COG0254J	50S ribosomal protein L31
+556906..557505	-	199	71894490	rpsD	MS53_0478	-	COG0522J	30S ribosomal protein S4
+557712..558443	+	243	71894491	-	MS53_0479	-	COG4095S	hypothetical protein
+558424..558855	+	143	71894492	smpB	MS53_0480	-	COG0691O	SsrA-binding protein
+559295..560782	-	495	71894493	-	MS53_0481	-	COG0738G	hypothetical protein
+560832..562304	-	490	71894494	-	MS53_0482	-	COG0531E	amino acid permease
+562313..563605	-	430	71894495	pgi	MS53_0483	-	COG0166G	glucose-6-phosphate isomerase
+563681..568159	-	1492	71894496	rpoC	MS53_0484	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+568152..571763	-	1203	71894497	rpoB	MS53_0485	-	COG0085K	DNA-directed RNA polymerase subunit beta
+571937..572668	-	243	71894498	tpiA	MS53_0486	-	COG0149G	triosephosphate isomerase
+572774..573262	+	162	71894499	recU	MS53_0487	-	COG3331R	Holliday junction-specific endonuclease
+573263..573538	-	91	71894500	himA	MS53_0488	-	COG0776L	nucleoid DNA-binding protein
+573675..575492	+	605	71894501	lepA	MS53_0489	-	COG0481M	GTP-binding protein LepA
+575493..575894	-	133	71894502	-	MS53_0490	-	COG1739S	hypothetical protein
+575957..577573	+	538	71894503	-	MS53_0491	-	COG3264M	hypothetical protein
+577600..579048	-	482	71894504	proS	MS53_0492	-	COG0442J	prolyl-tRNA synthetase
+579712..580014	+	100	71894505	-	MS53_0493	-	-	hypothetical protein
+580011..580763	-	250	71894506	pgsA	MS53_0494	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+580768..581316	-	182	71894507	-	MS53_0495	-	-	hypothetical protein
+581324..581671	-	115	71894508	-	MS53_0496	-	-	hypothetical protein
+581701..583122	-	473	71894509	mgtE	MS53_0497	-	COG2239P	Mg2+ transport protein
+583133..583789	-	218	71894510	-	MS53_0498	-	COG1624S	hypothetical protein
+583791..584132	-	113	71894511	-	MS53_0499	-	-	hypothetical protein
+584228..586120	+	630	71894512	pepO	MS53_0500	-	COG3590O	endopeptidase O
+586202..587230	+	342	71894513	-	MS53_0501	-	-	hypothetical protein
+587295..589646	+	783	71894514	-	MS53_0502	-	COG2176L	hypothetical protein
+589822..590646	+	274	71894515	-	MS53_0503	-	COG0561R	hypothetical protein
+590736..592163	+	475	71894516	-	MS53_0504	-	-	hypothetical protein
+592154..593296	+	380	71894517	thiI	MS53_0505	-	COG0301H	thiamine biosynthesis protein ThiI
+593305..595092	-	595	71894518	-	MS53_0506	-	COG1132V	ABC transporter, ATP-binding protein
+595170..596957	-	595	71894519	-	MS53_0507	-	COG1132V	ABC transporter, ATP-binding protein
+597228..598628	+	466	71894520	potA	MS53_0508	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+598669..599460	+	263	71894521	potB	MS53_0509	-	COG1176E	spermidine/putrescine ABC transporter permease protein PotB
+599498..600298	+	266	71894522	potC	MS53_0510	-	COG1177E	spermidine/putrescine transport system permease PotC
+600295..602253	+	652	71894523	-	MS53_0511	-	COG0687E	hypothetical protein
+603752..605443	+	563	71894524	-	MS53_0513	-	COG1132V	ABC transporter, ATP-binding protein
+605436..607382	+	648	71894525	-	MS53_0514	-	COG1132V	ABC transporter, ATP-binding protein
+607384..609213	+	609	71894526	gidA	MS53_0515	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+609203..609637	+	144	71894527	-	MS53_0516	-	COG1576S	hypothetical protein
+609800..612121	+	773	71894528	-	MS53_0517	-	-	lipoprotein
+612175..612861	-	228	71894529	ktrA	MS53_0518	-	COG0569P	potassium uptake protein KtrA
+612873..614516	-	547	71894530	ktrB	MS53_0519	-	COG0168P	potassium uptake protein KtrB
+614560..615420	-	286	71894531	-	MS53_0520	-	COG1481S	hypothetical protein
+615477..616028	+	183	71894532	tdk	MS53_0521	-	COG1435F	thymidine kinase
+616126..617487	+	453	71894533	nox	MS53_0522	-	COG0446R	NADH oxidase
+617573..619279	+	568	71894534	ptsI	MS53_0523	-	COG1080G	phosphoenolpyruvate-protein phosphatase
+619271..620098	-	275	71894535	fmt	MS53_0524	-	COG0223J	methionyl-tRNA formyltransferase
+620101..620997	-	298	71894536	-	MS53_0525	-	-	hypothetical protein
+621067..622095	-	342	71894537	-	MS53_0526	-	COG3611L	hypothetical protein
+622193..622654	-	153	71894538	-	MS53_0527	-	COG0237H	hypothetical protein
+622687..623562	-	291	71894539	-	MS53_0528	-	COG0258L	DNA polymerase I
+623559..626531	-	990	71894540	dnaE	MS53_0529	-	COG0587L	DNA polymerase III DnaE
+626547..627977	-	476	71894541	-	MS53_0530	-	COG1463Q	hypothetical protein
+628009..629886	-	625	71894542	topA	MS53_0531	-	COG0550L	DNA topoisomerase I
+630098..630589	+	163	71894543	rpsF	MS53_0532	-	COG0360J	30S ribosomal protein S6
+630600..631166	+	188	71894544	ssb	MS53_0533	-	COG0629L	single stranded binding protein
+631166..631501	+	111	71894545	rpsR	MS53_0534	-	COG0238J	30S ribosomal protein S18
+631598..632434	+	278	71894546	-	MS53_0535	-	COG2301G	citrate lyase beta chain
+632435..632971	+	178	71894547	-	MS53_0536	-	COG2030I	transcription regulatory protein
+632983..634305	+	440	71894548	-	MS53_0537	-	COG0427C	coenzyme A transferase
+634314..634853	+	179	71894549	-	MS53_0538	-	COG1881R	hypothetical protein
+634863..635528	+	221	71894550	-	MS53_0539	-	COG1881R	hypothetical protein
+636207..637034	+	275	71894551	-	MS53_0540	-	-	hypothetical protein
+637315..638490	+	391	71894552	-	MS53_0541	-	COG1432S	hypothetical protein
+638706..640595	+	629	71894553	-	MS53_0542	-	COG0595R	hypothetical protein
+640626..642347	-	573	71894554	-	MS53_0543	-	-	hypothetical protein
+642344..644524	-	726	71894555	pcrA	MS53_0544	-	COG0210L	ATP-dependent helicase
+644561..645214	-	217	71894556	-	MS53_0545	-	-	hypothetical protein
+645211..646278	-	355	71894557	-	MS53_0546	-	-	hypothetical protein
+646303..647475	-	390	71894558	-	MS53_0547	-	-	hypothetical protein
+647944..650040	-	698	71894559	-	MS53_0548	-	COG2183K	hypothetical protein
+650328..651068	+	246	71894560	smf	MS53_0549	-	COG0758LU	DNA processing protein
+651101..651355	-	84	71894561	rpmA	MS53_0550	-	COG0211J	50S ribosomal protein L27
+651360..651662	-	100	161611233	rplU	MS53_0551	-	COG0261J	50S ribosomal protein L21
+651889..652152	+	87	71894563	-	MS53_0552	-	-	hypothetical protein
+652197..653222	-	341	71894564	-	MS53_0553	-	COG1284S	ABC transporter permease protein
+653913..654365	-	150	71894565	-	MS53_0554	-	-	hypothetical protein
+654589..655665	-	358	71894566	-	MS53_0555	-	-	hypothetical protein
+655893..656156	-	87	71894567	-	MS53_0556	-	-	hypothetical protein
+656390..657109	-	239	71894568	-	MS53_0557	-	COG0597MU	lipoprotein signal peptidase
+657102..659789	-	895	71894569	ileS	MS53_0558	-	COG0060J	isoleucyl-tRNA synthetase
+660686..661747	-	353	71894570	-	MS53_0559	-	-	hypothetical protein
+666804..667610	-	268	71894571	-	MS53_0560	-	COG1692S	hypothetical protein
+667630..668619	-	329	71894572	recA	MS53_0561	-	COG0468L	recombinase A
+668712..668978	-	88	71894573	rpsO	MS53_0562	-	COG0184J	30S ribosomal protein S15
+669067..669903	-	278	71894574	ribF	MS53_0563	-	COG0196H	hypothetical protein
+669903..670697	-	264	71894575	-	MS53_0564	-	COG0561R	hypothetical protein
+670699..671562	-	287	71894576	truB	MS53_0565	-	COG0130J	tRNA pseudouridine synthase B
+671562..672095	-	177	71894577	-	MS53_0566	-	-	hypothetical protein
+672135..674228	+	697	71894578	lig	MS53_0567	-	COG0272L	DNA ligase
+674221..674757	+	178	71894579	-	MS53_0568	-	COG0219J	tRNA/rRNA methyltransferase
+674747..675460	+	237	71894580	-	MS53_0569	-	COG0566J	tRNA/rRNA methyltransferase
+675453..675701	+	82	71894581	-	MS53_0570	-	-	hypothetical protein
+675886..678642	-	918	71894582	mgtA	MS53_0572	-	COG0474P	cation-transporting P-type ATPase
+678755..679117	-	120	71894583	rplQ	MS53_0573	-	COG0203J	50S ribosomal protein L17
+679129..680130	-	333	71894584	rpoA	MS53_0574	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+680150..680539	-	129	71894585	rpsK	MS53_0575	-	COG0100J	30S ribosomal protein S11
+680539..680907	-	122	71894586	rpsM	MS53_0576	-	COG0099J	30S ribosomal protein S13
+680911..681024	-	37	71894587	rpmJ	MS53_0577	-	-	50S ribosomal protein L36
+681032..681247	-	71	71894588	infA	MS53_0578	-	COG0361J	translation initiation factor IF-1
+681248..681994	-	248	71894589	map	MS53_0579	-	COG0024J	methionine aminopeptidase
+682056..682691	-	211	71894590	adk	MS53_0580	-	COG0563F	adenylate kinase
+682685..684118	-	477	71894591	secY	MS53_0581	-	COG0201U	preprotein translocase subunit SecY
+684155..688099	+	1314	71894592	-	MS53_0582	-	COG3513S	hypothetical protein
+688252..689142	+	296	71894593	-	MS53_0583	-	COG1518L	hypothetical protein
+689159..689452	+	97	71894594	-	MS53_0584	-	COG3512S	hypothetical protein
+689455..690219	+	254	71894595	-	MS53_0585	-	-	hypothetical protein
+691356..691628	+	90	71894596	-	MS53_0586	-	COG1518L	hypothetical protein
+691684..692358	-	224	71894597	-	MS53_0587	-	COG5421L	hypothetical protein
+692504..692953	-	149	71894598	-	MS53_0588	-	COG5421L	transposase
+692941..693345	-	134	71894599	-	MS53_0589	-	-	hypothetical protein
+693623..695350	+	575	71894600	-	MS53_0590	-	COG4870O	hypothetical protein
+695461..696726	-	421	71894601	serS	MS53_0591	-	COG0172J	seryl-tRNA synthetase
+696728..698653	-	641	71894602	parE	MS53_0592	-	COG0187L	topoisomerase IV subunit B
+698700..699818	-	372	71894603	dnaJ	MS53_0593	-	COG0484O	molecular chaperone DnaJ
+700124..701038	-	304	71894604	-	MS53_0594	-	-	hypothetical protein
+701068..701979	-	303	71894605	rluD	MS53_0595	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+702001..702933	-	310	71894606	trxB	MS53_0596	-	COG0492O	thioredoxin reductase
+702933..703874	-	313	71894607	lgt	MS53_0597	-	COG0682M	prolipoprotein diacylglyceryl transferase
+703981..705111	-	376	71894608	-	MS53_0598	-	-	hypothetical protein
+705150..707039	-	629	71894609	-	MS53_0599	-	COG0706U	inner membrane protein translocase component YidC
+707092..707430	-	112	71894610	rnpA	MS53_0600	-	COG0594J	ribonuclease P protein component
+707444..707590	-	48	71894611	rpmH	MS53_0601	-	COG0230J	50S ribosomal protein L34
+707806..710271	-	821	71894612	-	MS53_0602	-	-	hypothetical protein
+710400..711803	+	467	71894613	-	MS53_0603	-	COG0544O	trigger factor
+712112..712357	-	81	71894614	-	MS53_0604	-	COG3763S	hypothetical protein
+712366..713448	-	360	71894615	-	MS53_0605	-	COG1363G	endoglucanase
+713682..714284	+	200	71894616	infC	MS53_0606	-	COG0290J	translation initiation factor IF-3
+714284..714472	+	62	161611232	rpmI	MS53_0607	-	COG0291J	50S ribosomal protein L35
+714492..714842	+	116	71894618	rplT	MS53_0608	-	COG0292J	50S ribosomal protein L20
+714892..715935	-	347	71894619	-	MS53_0609	-	-	hypothetical protein
+715932..717080	-	382	71894620	metK	MS53_0610	-	COG0192H	S-adenosylmethionine synthetase
+717204..718685	-	493	71894621	lysS	MS53_0611	-	COG1190J	lysyl-tRNA synthetase
+718681..719568	-	295	71894622	-	MS53_0612	-	COG1136V	ABC transporter ATP-binding protein
+719832..727748	-	2638	71894623	-	MS53_0613	-	COG0577V	ABC transporter permease protein
+727803..729812	-	669	71894624	ftsH	MS53_0614	-	COG0465O	cell division protein FtsH
+729935..730795	-	286	71894625	-	MS53_0615	-	COG0037D	hypothetical protein
+730800..731363	-	187	71894626	pth	MS53_0616	-	COG0193J	peptidyl-tRNA hydrolase
+731363..733585	-	740	71894627	recD	MS53_0617	-	COG0507L	exodeoxyribonuclease V subunit alpha
+733694..734608	+	304	71894628	-	MS53_0618	-	COG0561R	hypothetical protein
+734647..735360	+	237	71894629	rnhB	MS53_0619	-	COG1039L	ribonuclease HII
+735350..736261	-	303	71894630	-	MS53_0620	-	COG1307S	hypothetical protein
+736327..736926	+	199	71894631	-	MS53_0621	-	COG0073R	hypothetical protein
+736919..738154	+	411	71894632	tyrS	MS53_0622	-	COG0162J	tyrosyl tRNA synthetase
+738257..738952	-	231	71894633	rplA	MS53_0623	-	COG0081J	50S ribosomal protein L1
+738952..739533	-	193	71894634	rplK	MS53_0624	-	COG0080J	50S ribosomal protein L14
+739591..740034	-	147	71894635	rplO	MS53_0625	-	COG0200J	50S ribosomal protein L15
+740040..740495	-	151	71894636	rpsE	MS53_0626	-	COG0098J	30S ribosomal protein S5
+740789..741136	-	115	71894637	rplR	MS53_0627	-	COG0256J	50S ribosomal protein L18
+741151..741693	-	180	71894638	rplF	MS53_0628	-	COG0097J	50S ribosomal protein L6
+741702..742094	-	130	71894639	rpsH	MS53_0629	-	COG0096J	30S ribosomal protein S8
+742102..742287	-	61	71894640	rpsN	MS53_0630	-	COG0199J	30S ribosomal protein S14
+742287..742850	-	187	71894641	rplE	MS53_0631	-	COG0094J	50S ribosomal protein L5
+742847..743173	-	108	71894642	rplX	MS53_0632	-	COG0198J	50S ribosomal protein L24
+743182..743547	-	121	71894643	rplN	MS53_0633	-	COG0093J	50S ribosomal protein L14
+743547..743837	-	96	71894644	rpsQ	MS53_0634	-	COG0186J	30S ribosomal protein S17
+743834..744031	-	65	71894645	rpmC	MS53_0635	-	COG0255J	50S ribosomal protein L29
+744031..744450	-	139	71894646	rplP	MS53_0636	-	COG0197J	50S ribosomal protein L16
+744428..745108	-	226	71894647	rpsC	MS53_0637	-	COG0092J	30S ribosomal protein S3
+745108..745449	-	113	71894648	rplV	MS53_0638	-	COG0091J	50S ribosomal protein L22
+745449..745727	-	92	71894649	rpsS	MS53_0639	-	COG0185J	30S ribosomal protein S19
+745727..746572	-	281	71894650	rplB	MS53_0640	-	COG0090J	50S ribosomal protein L2
+746634..747110	-	158	71894651	rplW	MS53_0641	-	COG0089J	50S ribosomal protein L23
+747112..747717	-	201	71894652	rplD	MS53_0642	-	COG0088J	50S ribosomal protein L4
+747804..748610	-	268	71894653	rplC	MS53_0643	-	COG0087J	50S ribosomal protein L3
+748628..748918	-	96	71894654	rpsJ	MS53_0644	-	COG0051J	30S ribosomal protein S10
+749163..749504	-	113	71894655	trxA	MS53_0645	-	COG4232OC	thioredoxin
+749520..751229	-	569	71894656	-	MS53_0646	-	COG0534V	hypothetical protein
+751226..752899	-	557	71894657	-	MS53_0647	-	COG0595R	hypothetical protein
+752899..754335	-	478	71894658	pyk	MS53_0648	-	COG0469G	pyruvate kinase
+754405..755628	-	407	71894659	-	MS53_0649	-	-	hypothetical protein
+755630..756193	-	187	71894660	engB	MS53_0650	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+756186..756617	-	143	71894661	coaD	MS53_0651	-	COG0669H	phosphopantetheine adenylyltransferase
+756619..757815	-	398	71894662	ackA	MS53_0652	-	COG0282C	acetate kinase
+757812..758771	-	319	71894663	eutD	MS53_0653	-	COG0280C	phosphotransacetylase
+758891..759874	+	327	71894664	gpsA	MS53_0654	-	COG0240C	glycerol-3-phosphate dehydrogenase
+759905..760210	-	101	71894665	trxM	MS53_0655	-	COG3118O	thioredoxin
+760374..761885	+	503	71894666	pgm	MS53_0656	-	COG0696G	phosphoglyceromutase
+761909..762832	+	307	71894667	-	MS53_0657	-	COG1131V	ABC transporter ATP-binding protein
+762829..763908	+	359	71894668	-	MS53_0658	-	-	ABC transporter
+764033..764833	+	266	71894669	cbiO	MS53_0659	-	COG1122P	cobalt transporter ATP-binding subunit
+764824..765759	+	311	71894670	-	MS53_0660	-	COG1122P	cobalt transporter ATP-binding subunit
+765752..766633	+	293	71894671	-	MS53_0661	-	COG0619P	ABC transporter permease protein
+766671..768407	-	578	71894672	-	MS53_0662	-	-	hypothetical protein
+768572..769669	-	365	71894673	ychF	MS53_0663	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+769725..770585	+	286	71894674	rbgA	MS53_0664	-	COG1161R	ribosomal biogenesis GTPase
+770582..771361	-	259	71894675	-	MS53_0665	-	COG1451R	hypothetical protein
+771379..772188	+	269	71894676	-	MS53_0666	-	COG0561R	hypothetical protein
+772379..773563	+	394	71894677	tufA	MS53_0667	-	COG0050J	elongation factor Tu
+773645..773911	+	88	71894678	-	MS53_0668	-	-	hypothetical protein
+774203..774523	+	106	71894679	-	MS53_0669	-	COG1123R	hypothetical protein
+774560..774871	+	103	71894680	-	MS53_0670	-	COG1131V	hypothetical protein
+779848..780528	-	226	71894681	-	MS53_0671	-	COG1381L	hypothetical protein
+780672..780986	+	104	71894682	-	MS53_0672	-	-	hypothetical protein
+780979..782631	+	550	71894683	-	MS53_0673	-	COG1461R	hypothetical protein
+782631..783608	+	325	71894684	plsX	MS53_0674	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+783611..784306	+	231	71894685	rncS	MS53_0675	-	COG0571K	dsRNA-specific ribonuclease III
+784314..787256	+	980	71894686	-	MS53_0676	-	COG1196D	ABC transporter ATP-binding protein P115-like
+787324..788043	+	239	71894687	pyrH	MS53_0677	-	COG0528F	uridylate kinase
+788047..788601	+	184	71894688	frr	MS53_0678	-	COG0233J	ribosome recycling factor
+788647..789111	+	154	71894689	-	MS53_0679	-	-	hypothetical protein
+789150..790493	-	447	71894690	-	MS53_0680	-	COG0561R	hypothetical protein
+790506..790988	-	160	71894691	sgaA-1	MS53_0681	-	COG1762GT	PTS system, IIA component
+790981..791265	-	94	71894692	-	MS53_0682	-	COG3414G	PTS system, IIB component
+791273..793012	-	579	71894693	sgaT-2	MS53_0683	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+793173..795125	+	650	71894694	gyrB	MS53_0684	-	COG0187L	DNA gyrase subunit B
+795222..796907	+	561	71894695	nusA	MS53_0685	-	COG0195K	transcription elongation factor NusA
+797159..798967	+	602	71894696	infB	MS53_0686	-	COG0532J	translation initiation factor IF-2
+798967..799476	+	169	71894697	apt	MS53_0687	-	COG0503F	adenine phosphoribosyltransferase

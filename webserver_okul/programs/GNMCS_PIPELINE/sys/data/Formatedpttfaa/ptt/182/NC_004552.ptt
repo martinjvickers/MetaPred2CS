@@ -1,0 +1,935 @@
+Chlamydophila abortus S26/3, complete genome - 1..1144377
+932 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+148..1143	+	331	62184648	hemB	CAB001	-	COG0113H	delta-aminolevulinic acid dehydratase
+1159..2577	-	472	62184649	-	CAB002	-	COG1726C	Na(+)-translocating NADH-quinone reductase subunit A
+2600..3034	-	144	62184650	-	CAB003	-	-	hypothetical protein
+3147..5300	+	717	62184651	-	CAB004	-	COG1747S	transcript cleavage factor/unknown domain fusion protein
+5450..6643	+	397	62184652	-	CAB005	-	COG1448E	aromatic amino acid aminotransferase
+6841..7944	+	367	62184653	-	CAB006	-	COG1792M	rod shape-determining protein MreC
+7904..11041	-	1045	62184654	-	CAB007	-	COG1074L	UvrD/REP helicase
+11028..14096	-	1022	62184655	-	CAB008	-	COG1330L	hypothetical protein
+14095..15807	+	570	62184656	-	CAB009	-	COG2814G	hypothetical protein
+15832..16812	-	326	62184657	-	CAB010	-	COG1054R	hypothetical protein
+17032..17661	+	209	62184658	rpsD	CAB011	-	COG0522J	30S ribosomal protein S4
+17729..18598	-	289	62184659	-	CAB012	-	COG0648L	endonuclease IV
+18664..20307	+	547	62184660	-	CAB013	-	COG0728R	hypothetical protein
+20414..21700	+	428	62184661	-	CAB014	-	-	hypothetical protein
+21806..23725	+	639	62184662	-	CAB015	-	COG5064U	hypothetical protein
+23916..26516	-	866	62184663	-	CAB016	-	-	hypothetical protein
+26660..29317	+	885	62184664	-	CAB017	-	-	hypothetical protein
+29348..29578	+	76	62184665	-	CAB018	-	-	hypothetical protein
+29575..30297	-	240	62184666	-	CAB019	-	COG1137R	ABC transporter ATP-binding protein
+30305..30790	-	161	62184667	dsk1	CAB020	-	-	lipoprotein
+30787..31596	-	269	62184668	kdsA	CAB021	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+32041..32277	-	78	62184669	-	CAB022	-	COG1837R	hypothetical protein
+32396..33373	-	325	62184670	rluD	CAB023	-	COG0564J	pseudouridine synthase
+33572..33880	-	102	62184671	-	CAB024	-	-	hypothetical protein
+33882..34175	-	97	62184672	-	CAB025	-	-	hypothetical protein
+34288..35727	-	479	62184673	-	CAB026	-	COG0188L	DNA topoisomerase IV subunit A
+35731..37539	-	602	62184674	gyrB_2	CAB027	-	COG0187L	DNA topoisomerase IV subunit B
+38121..39137	+	338	62184675	hemA	CAB028	-	COG0373H	glutamyl-tRNA reductase
+39246..39389	+	47	62184676	-	CAB029	-	-	hypothetical protein
+39486..39887	+	133	62184677	-	CAB030	-	-	hypothetical protein
+39907..42288	+	793	62184678	-	CAB031	-	COG1716T	hypothetical protein
+42314..42595	+	93	62184679	-	CAB032	-	-	hypothetical protein
+42611..42865	+	84	62184680	-	CAB033	-	-	hypothetical protein
+42884..43333	+	149	62184681	-	CAB034	-	-	hypothetical protein
+43378..44046	+	222	62184682	-	CAB035	-	COG5002T	hypothetical protein
+44048..45376	+	442	62184683	-	CAB036	-	COG1157NU	type III secretion system ATPase
+45397..45915	+	172	62184684	-	CAB037	-	-	hypothetical protein
+45906..46751	+	281	62184685	-	CAB038	-	-	hypothetical protein
+46764..47879	+	371	62184686	-	CAB039	-	COG1886NU	type III secretion system protein
+47897..49405	+	502	62184687	-	CAB040	-	COG0515RTKL	serine/threonine-protein kinase
+49402..52128	+	908	62184688	-	CAB041	-	COG1450NU	general secretion protein
+52771..53847	-	358	62184689	-	CAB042	-	COG3869E	ATP:guanido phosphotransferase
+53831..54349	-	172	62184690	-	CAB043	-	COG3880S	hypothetical protein
+54754..55296	-	180	62184691	frr	CAB044	-	COG0233J	ribosome recycling factor
+55280..56020	-	246	62184692	pyrH	CAB045	-	COG0528F	uridylate kinase
+56036..56884	-	282	62184693	tsf	CAB046	-	COG0264J	elongation factor Ts
+56884..57714	-	276	62184694	rpsB	CAB047	-	COG0052J	30S ribosomal protein S2
+58095..59264	-	389	62184695	ompA	CAB048	-	-	major outer membrane protein precursor
+59869..63141	+	1090	62184696	-	CAB049	-	COG0768M	penicillin-binding protein
+63209..64216	+	335	62184697	-	CAB050	-	COG5010U	hypothetical protein
+64552..66006	+	484	62184698	-	CAB051	-	COG0719O	cysteine desulfurase
+66010..66777	+	255	62184699	-	CAB052	-	COG0396O	ABC transporter ATP-binding protein
+66792..68018	+	408	62184700	-	CAB053	-	COG0719O	ABC transport protein
+68050..69270	+	406	62184701	-	CAB054	-	COG0520E	cysteine desulfurase
+69274..70062	-	262	62184702	-	CAB055	-	COG0726G	hypothetical protein
+70256..70909	-	217	62184703	-	CAB056	-	-	hypothetical protein
+71150..71989	+	279	62184704	-	CAB057	-	COG1475K	chromosome partitioning protein
+72028..72996	-	322	62184705	-	CAB058	-	COG1123R	peptide ABC transport ATP-binding protein
+72989..73951	-	320	62184706	dppD	CAB059	-	COG0444EP	peptide ABC transport ATP-binding protein
+74005..74679	+	224	62184707	-	CAB060	-	COG1392P	hypothetical protein
+74686..75966	+	426	62184708	-	CAB061	-	COG0306P	phosphate permease
+76004..77215	+	403	62184709	pgk	CAB062	-	COG0126G	phosphoglycerate kinase
+77681..79186	+	501	62184710	-	CAB063	-	-	hypothetical protein
+79200..80372	+	390	62184711	-	CAB064	-	-	hypothetical protein
+80525..81679	+	384	62184712	-	CAB065	-	-	hypothetical protein
+82921..83283	-	120	62184713	-	CAB068	-	-	hypothetical protein
+83366..84667	-	433	62184714	-	CAB069	-	COG1686M	D-alanyl-d-alanine carboxypeptidase
+85199..85624	-	141	62184715	-	CAB071	-	COG2172T	sigma regulatory factor-histidine kinase
+85611..86210	-	199	62184716	-	CAB072	-	-	lipoprotein
+86227..87183	-	318	62184717	-	CAB073	-	COG4105R	lipoprotein
+87336..88220	+	294	62184718	-	CAB074	-	-	hypothetical protein
+88217..91963	-	1248	62184719	dnaE	CAB075	-	COG0587L	DNA polymerase III subunit alpha
+91970..93337	-	455	62184720	-	CAB076	-	COG2271G	hexose phosphate transport protein
+93583..93783	+	66	62184721	-	CAB077	-	-	hypothetical protein
+93851..95143	+	430	62184722	hisS	CAB078	-	COG0124J	histidyl-tRNA synthetase
+95118..96872	+	584	62184723	aspS	CAB079	-	COG0173J	aspartyl-tRNA synthetase
+96948..97715	+	255	62184724	mip	CAB080	-	COG0545O	macrophage infectivity potentiator lipoprotein
+97712..98182	+	156	62184725	-	CAB081	-	COG0219J	rRNA methylase
+98179..98487	-	102	62184726	trxA	CAB082	-	COG3118O	thioredoxin
+99612..100334	+	240	62184727	-	CAB083	-	-	hypothetical protein
+100313..100774	+	153	62184728	-	CAB084	-	COG0802R	hypothetical protein
+100784..101533	+	249	62184729	dnaF	CAB085	-	COG0847L	DNA polymerase III subunit epsilon
+101692..102162	+	156	62184730	-	CAB086	-	COG1607I	acyl-CoA thioester hydrolase
+102170..103795	+	541	62184731	lnt	CAB087	-	COG0815M	apolipoprotein N-acyltransferase
+103810..104667	+	285	62184732	lpxC	CAB088	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+104682..105146	+	154	62184733	fabZ	CAB089	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+105156..105995	+	279	62184734	lpxA	CAB090	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+105985..106950	+	321	62184735	fmt	CAB091	-	COG0223J	methionyl-tRNA formyltransferase
+107060..108034	+	324	62184736	-	CAB092	-	-	hypothetical protein
+108328..108993	+	221	62184737	rplC	CAB093	-	COG0087J	50S ribosomal protein L3
+109010..109684	+	224	62184738	rplD	CAB094	-	COG0088J	50S ribosomal protein L4
+109701..110036	+	111	62184739	rplW	CAB095	-	COG0089J	50S ribosomal protein L23
+110058..110912	+	284	62184740	rplB	CAB096	-	COG0090J	50S ribosomal protein L2
+110918..111184	+	88	62184741	rpsS	CAB097	-	COG0185J	30S ribosomal protein S19
+111203..111538	+	111	62184742	rplV	CAB098	-	COG0091J	50S ribosomal protein L22
+111547..112218	+	223	62184743	rpsC	CAB099	-	COG0092J	30S ribosomal protein S3
+112248..112661	+	137	62184744	rplP	CAB100	-	COG0197J	50S ribosomal protein L16
+112668..112886	+	72	62184745	rpmC	CAB100A	-	COG0255J	50S ribosomal protein L29
+112879..113130	+	83	62184746	rpsQ	CAB101	-	COG0186J	30S ribosomal protein S17
+113165..113533	+	122	62184747	rplN	CAB102	-	COG0093J	50S ribosomal protein L14
+113548..113889	+	113	62184748	rplX	CAB103	-	COG0198J	50S ribosomal protein L24
+113891..114433	+	180	62184749	rplE	CAB104	-	COG0094J	50S ribosomal protein L5
+114452..114853	+	133	62184750	rpsH	CAB105	-	COG0096J	30S ribosomal protein S8
+114885..115436	+	183	62184751	rplF	CAB106	-	COG0097J	50S ribosomal protein L6
+115459..115830	+	123	62184752	rplR	CAB107	-	COG0256J	50S ribosomal protein L18
+115846..116343	+	165	62184753	rpsE	CAB108	-	COG0098J	30S ribosomal protein S5
+116336..116770	+	144	62184754	rplO	CAB109	-	COG0200J	50S ribosomal protein L15
+116795..118168	+	457	62184755	secY	CAB110	-	COG0201U	preprotein translocase subunit SecY
+118224..118592	+	122	62184756	rpsM	CAB111	-	COG0099J	30S ribosomal protein S13
+118613..119011	+	132	62184757	rpsK	CAB112	-	COG0100J	30S ribosomal protein S11
+119032..120162	+	376	62184758	rpoA	CAB113	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+120171..120599	+	142	62184759	rplQ	CAB114	-	COG0203J	50S ribosomal protein L17
+120638..121645	+	335	62184760	gapA	CAB115	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+121658..122479	+	273	62184761	-	CAB116	-	-	hypothetical protein
+122987..123889	+	300	62184762	-	CAB117	-	-	hypothetical protein
+123997..124503	+	168	161501898	ruvC	CAB118	-	COG0817L	Holliday junction resolvase
+124503..125126	+	207	161501897	ruvA	CAB119	-	COG0632L	Holliday junction DNA helicase RuvA
+125197..125622	+	141	62184765	ndk	CAB120	-	COG0105F	nucleoside diphosphate kinase
+125635..126336	-	233	62184766	-	CAB121	-	COG0095H	hypothetical protein
+126323..128158	-	611	62184767	gidA	CAB122	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+128620..130065	-	481	62184768	dnaB	CAB123	-	COG0305L	replicative DNA helicase
+130703..131209	+	168	62184769	-	CAB124	-	COG0558I	alcohol phosphatidyltransferase
+131446..133095	+	549	62184770	npt2	CAB125	-	COG3202C	nucleoside triphosphate transport protein 2
+133198..134205	+	335	62184771	sohB	CAB126	-	COG0616OU	exported protease
+134233..136842	+	869	62184772	polA	CAB127	-	COG0749L	DNA polymerase I
+136827..137444	+	205	62184773	coaE	CAB128	-	COG0237H	dephospho-CoA kinase
+137441..138835	+	464	62184774	rho	CAB129	-	COG1158K	transcription termination factor Rho
+139101..139361	-	86	62184775	-	CAB130	-	-	hypothetical protein
+139423..140043	+	206	161501896	pyrE	CAB131	-	COG0461F	orotate phosphoribosyltransferase
+140157..141509	+	450	62184777	glgC	CAB132	-	COG0448G	glucose-1-phosphate adenyltransferase
+141624..142367	+	247	62184778	-	CAB133	-	COG1768R	hypothetical protein
+142364..142927	+	187	62184779	-	CAB134	-	COG0742L	hypothetical protein
+143128..143880	+	250	62184780	-	CAB135	-	COG0834ET	transport lipoprotein
+143885..144841	-	318	62184781	hemH	CAB136	-	COG0276H	ferrochelatase
+144935..145942	+	335	62184782	-	CAB137	-	COG4783R	hypothetical protein
+145996..146319	+	107	62184783	-	CAB138	-	-	hypothetical protein
+147525..147725	+	66	62184784	-	CAB139	-	-	lipoprotein
+148659..150776	+	705	62184785	-	CAB140	-	COG0747E	transport protein
+150758..152227	+	489	62184786	-	CAB141	-	COG0601EP	transport protein
+152229..153962	+	577	62184787	-	CAB142	-	COG1173EP	transport protein
+153959..154486	-	175	62184788	ada	CAB143	-	COG0350L	DNA methyltransferase
+154498..155469	-	323	62184789	-	CAB144	-	COG2849S	lipoprotein
+155466..157850	-	794	62184790	pheT	CAB145	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+157958..159043	+	361	62184791	-	CAB146	-	COG1388M	hypothetical protein
+158967..159278	-	103	62184792	-	CAB147	-	COG0759S	hypothetical protein
+159268..160062	-	264	62184793	-	CAB148	-	COG1723S	hypothetical protein
+160344..160934	+	196	62184794	-	CAB149	-	-	lipoprotein
+160908..161633	-	241	62184795	recO	CAB150	-	COG1381L	DNA repair protein RecO
+161638..162222	-	194	62184796	-	CAB151	-	-	hypothetical protein
+162167..162850	-	227	62184797	-	CAB152	-	COG1544J	hypothetical protein
+163150..164310	-	386	62184798	-	CAB153	-	COG2204T	Fis family transcriptional regulator
+164494..167532	+	1012	62184799	-	CAB154	-	COG1196D	hypothetical protein
+167548..168600	-	350	62184800	atoS	CAB155	-	COG3852T	2-component regulatory system-sensor histidine kinase
+168581..168970	-	129	62184801	-	CAB156	-	-	hypothetical protein
+169139..169804	-	221	62184802	-	CAB157	-	-	hypothetical protein
+169965..170654	+	229	62184803	-	CAB158	-	COG0637R	hypothetical protein
+170600..171406	-	268	62184804	truA	CAB159	-	COG0101J	tRNA pseudouridine synthase A
+171403..172056	-	217	62184805	ispD	CAB160	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+172031..173005	-	324	62184806	-	CAB161	-	COG1408R	hypothetical protein
+173077..173340	-	87	62184807	-	CAB162	-	COG5531B	hypothetical protein
+173622..174729	+	368	62184808	prfB	CAB163	-	COG1186J	peptide chain release factor 2
+174726..175238	+	170	62184809	-	CAB164	-	COG0456R	transferase
+175817..176533	+	238	62184810	-	CAB166	-	COG0217S	hypothetical protein
+176574..179186	-	870	62184811	-	CAB167	-	COG3889R	hypothetical protein
+179419..180753	+	444	62184812	-	CAB168	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+180756..182444	-	562	62184813	argS	CAB169	-	COG0018J	arginyl-tRNA synthetase
+182445..183092	-	215	62184814	-	CAB170	-	COG0204I	hypothetical protein
+183089..183739	-	216	62184815	cmk	CAB171	-	COG0283F	cytidylate kinase
+183736..184656	-	306	62184816	-	CAB172	-	COG0575I	hypothetical protein
+184659..185411	-	250	62184817	-	CAB173	-	COG0020I	undecaprenyl pyrophosphate synthase
+185994..187106	+	370	62184818	-	CAB174	-	-	hypothetical protein
+187355..191569	+	1404	62184819	-	CAB175	-	COG0342U	bifunctional preprotein translocase subunit SecD/SecF
+191662..193434	+	590	62184820	-	CAB176	-	COG0608L	exonuclease
+193885..195033	+	382	62184821	-	CAB177	-	-	hypothetical protein
+195654..196196	+	180	62184822	-	CAB178	-	-	hypothetical protein
+196465..197982	+	505	62184823	gltX	CAB179	-	COG0008J	glutamyl-tRNA synthetase
+198658..198921	+	87	62184824	omlA	CAB180	-	-	outer membrane lipoprotein
+199087..200760	+	557	62184825	cmcB	CAB181	-	-	hypothetical protein
+200971..201453	+	160	62184826	srp	CAB182	-	-	sulfur-rich membrane protein
+201503..203458	-	651	62184827	-	CAB183	-	COG0793M	exported protease
+203586..203864	-	92	62184828	-	CAB184	-	-	hypothetical protein
+203965..204915	+	316	62184829	-	CAB185	-	COG0524G	hypothetical protein
+205111..205482	+	123	62184830	rpsL	CAB186	-	COG0048J	30S ribosomal protein S12
+205526..205999	+	157	62184831	rpsG	CAB187	-	COG0049J	30S ribosomal protein S7
+206041..208125	+	694	62184832	-	CAB188	-	COG0480J	elongation factor G
+208133..208450	+	105	161501895	rpsJ	CAB189	-	COG0051J	30S ribosomal protein S10
+208468..209517	+	349	62184834	-	CAB190	-	COG0369P	oxidoreductase
+209514..210044	-	176	62184835	ispF	CAB191	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+211069..211389	+	106	62184836	rplU	CAB192	-	COG0261J	50S ribosomal protein L21
+211420..211668	+	82	62184837	rpmA	CAB193	-	COG0211J	50S ribosomal protein L27
+211784..212791	+	335	62184838	obgE	CAB194	-	COG0536R	GTPase ObgE
+212689..213582	-	297	62184839	-	CAB195	-	COG1108P	transport protein
+213579..214298	-	239	62184840	-	CAB196	-	COG1121P	ATP-binding ABC transport protein
+214295..215131	-	278	62184841	-	CAB197	-	COG0803P	transport poprotein
+215725..216363	+	212	62184842	thiE	CAB198	-	COG0352H	thiamine-phosphate pyrophosphorylase
+216357..217145	+	262	62184843	thiM	CAB199	-	COG2145H	hydroxyethylthiazole kinase
+217265..222631	-	1788	62184844	pmp1B	CAB200	-	-	hypothetical protein
+222833..225634	-	933	62184845	pmp2A	CAB201	-	-	hypothetical protein
+225855..226157	-	100	62184846	-	CAB202	-	COG4980R	hypothetical protein
+226182..226535	-	117	62184847	-	CAB203	-	-	hypothetical protein
+226736..228085	-	449	62184848	-	CAB204	-	COG1115E	hypothetical protein
+228151..228648	-	165	62184849	lspA	CAB205	-	COG0597MU	lipoprotein signal peptidase
+228654..229028	-	124	62184850	-	CAB206	-	COG1734T	hypothetical protein
+229059..229517	-	152	62184851	nrdR	CAB207	-	COG1327K	transcriptional regulator NrdR
+229735..230328	+	197	62184852	ribC	CAB208	-	COG0307H	riboflavin synthase subunit alpha
+230341..231165	+	274	62184853	-	CAB209	-	COG1092R	hypothetical protein
+231153..231950	+	265	62184854	-	CAB210	-	COG0566J	hypothetical protein
+232181..233302	+	373	62184855	lpxK	CAB211	-	COG1663M	tetraacyldisaccharide 4'-kinase
+233306..234556	+	416	62184856	-	CAB212	-	COG1301C	symport protein
+234569..235738	+	389	62184857	-	CAB214	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+235769..236758	+	329	62184858	-	CAB215	-	COG0794M	hypothetical protein
+237176..237940	-	254	62184859	-	CAB216	-	COG1579R	hypothetical protein
+238402..239472	-	356	62184860	-	CAB217	-	-	hypothetical protein
+239539..239880	-	113	62184861	-	CAB218	-	-	hypothetical protein
+239947..240612	-	221	62184862	hemD	CAB219	-	COG1587H	uroporphyrinogen-III synthase
+240926..242419	+	497	62184863	glyA	CAB220	-	COG0112E	serine hydroxymethyltransferase
+242439..243017	+	192	62184864	clpP1	CAB222	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+242986..243768	+	260	62184865	dapF	CAB223	-	COG0253E	diaminopimelate epimerase
+243900..244892	+	330	62184866	-	CAB224	-	-	hypothetical protein
+244897..245589	-	230	62184867	ubiE	CAB225	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+245570..246346	-	258	62184868	-	CAB226	-	COG1427R	hypothetical protein
+246319..247431	-	370	62184869	-	CAB227	-	COG1060HR	hypothetical protein
+247651..249513	-	620	62184870	-	CAB228	-	-	hypothetical protein
+249580..249948	-	122	62184871	-	CAB229	-	COG1366T	regulatory protein
+250046..251170	-	374	62184872	-	CAB230	-	COG1253R	hypothetical protein
+251172..251648	-	158	62184873	-	CAB231	-	COG0319R	hypothetical protein
+251667..251828	-	53	62184874	-	CAB232	-	-	hypothetical protein
+251846..252007	-	53	62184875	-	CAB233	-	-	hypothetical protein
+252146..252790	-	214	62184876	-	CAB234	-	COG2928S	hypothetical protein
+252971..253543	-	190	62184877	-	CAB235	-	COG2094L	3-methyladenine DNA glycosylase
+253543..255591	-	682	62184878	-	CAB236	-	COG0557K	ribonuclease
+255745..257724	-	659	62184879	dnaK	CAB237	-	COG0443O	molecular chaperone DnaK
+257750..258325	-	191	62184880	grpE	CAB238	-	COG0576O	heat shock protein GrpE
+258322..259482	-	386	62184881	hrcA	CAB239	-	COG1420K	heat-inducible transcription repressor
+259591..261324	-	577	62184882	proS	CAB240	-	COG0442J	prolyl-tRNA synthetase
+261590..262786	+	398	62184883	-	CAB241	-	-	hypothetical protein
+262893..263837	+	314	62184884	-	CAB242	-	-	lipoprotein
+263842..264132	+	96	62184885	-	CAB243	-	COG1872S	hypothetical protein
+264117..265160	-	347	62184886	-	CAB244	-	COG2984R	hypothetical protein
+265157..266353	-	398	62184887	-	CAB245	-	COG0436E	L,L-diaminopimelate aminotransferase
+266618..267382	+	254	62184888	-	CAB246	-	-	hypothetical protein
+267808..269052	+	414	62184889	-	CAB247	-	-	hypothetical protein
+269053..271137	-	694	62184890	-	CAB248	-	COG1611R	hypothetical protein
+271285..272154	+	289	62184891	-	CAB249	-	COG4286S	hypothetical protein
+272151..272483	+	110	62184892	-	CAB250	-	COG0537FGR	hypothetical protein
+272528..274144	+	538	62184893	-	CAB251	-	COG1413C	hypothetical protein
+274747..276081	+	444	62184894	-	CAB252	-	COG0591ER	sodium symporter
+276170..276370	-	66	62184895	-	CAB253	-	-	hypothetical protein
+277449..280766	-	1105	62184896	-	CAB255	-	COG0810M	hypothetical protein
+280899..281663	+	254	62184897	-	CAB256	-	COG0834ET	membrane transport protein, solute binding component
+281837..282508	+	223	62184898	-	CAB257	-	-	hypothetical protein
+282595..283416	+	273	62184899	-	CAB258	-	COG1235R	hydrolase
+283420..284808	+	462	62184900	-	CAB259	-	COG2262R	GTP-binding protein
+284918..286183	+	421	62184901	-	CAB260	-	COG0621J	hypothetical protein
+286180..287178	+	332	62184902	-	CAB261	-	-	hypothetical protein
+287191..289356	+	721	62184903	glgB	CAB262	-	COG0296G	glycogen branching enzyme
+289494..291275	+	593	62184904	-	CAB263	-	-	hypothetical protein
+291461..293500	+	679	62184905	-	CAB264	-	-	hypothetical protein
+293548..296514	-	988	62184906	pmp3E	CAB265	-	-	hypothetical protein
+296536..299397	-	953	62184907	pmp4E	CAB266	-	-	hypothetical protein
+299664..300743	-	359	62184908	pmp5E	CAB267	-	COG4625S	hypothetical protein
+301197..304139	-	980	62184909	pmp6H	CAB268	-	-	hypothetical protein
+304165..307239	-	1024	62184910	pmp7G	CAB269	-	-	hypothetical protein
+313284..315806	-	840	62184911	pmp10G	CAB277	-	-	hypothetical protein
+315962..318511	-	849	62184912	pmp11G	CAB278	-	-	hypothetical protein
+321502..324045	-	847	62184913	pmp13G	CAB281	-	COG4625S	hypothetical protein
+324168..326948	-	926	62184914	pmp14G	CAB282	-	-	hypothetical protein
+327092..331228	-	1378	62184915	pmp15G	CAB283	-	COG5271R	hypothetical protein
+331423..331698	-	91	62184916	-	CAB284	-	COG2155S	hypothetical protein
+331899..332201	+	100	62184917	gatC	CAB285	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+332223..333698	+	491	62184918	gatA	CAB286	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+333698..335161	+	487	62184919	gatB	CAB287	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+335282..336508	-	408	62184920	-	CAB288	-	COG1294C	hypothetical protein
+336681..337244	-	187	62184921	-	CAB289	-	-	hypothetical protein
+337405..338355	-	316	62184922	-	CAB290	-	-	hypothetical protein
+338573..339475	-	300	62184923	rnhC	CAB291	-	COG1039L	ribonuclease HIII
+339749..340180	+	143	62184924	-	CAB292	-	COG1426S	hypothetical protein
+340250..341578	-	442	62184925	-	CAB293	-	-	hypothetical protein
+341877..343205	-	442	62184926	-	CAB294	-	-	hypothetical protein
+343521..343745	-	74	62184927	-	CAB295	-	-	hypothetical protein
+343864..344730	+	288	62184928	-	CAB296	-	-	hypothetical protein
+344865..345734	+	289	62184929	-	CAB297	-	-	hypothetical protein
+346225..348327	+	700	62184930	-	CAB298	-	COG1331O	hypothetical protein
+348439..349524	+	361	62184931	-	CAB299	-	-	hypothetical protein
+349533..350369	+	278	62184932	ksgA	CAB300	-	COG0030J	dimethyladenosine transferase
+350828..352762	-	644	62184933	dxs	CAB301	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+352759..353013	-	84	62184934	-	CAB302	-	-	hypothetical protein
+353028..353255	-	75	62184935	xseB	CAB303	-	COG1722L	exodeoxyribonuclease VII small subunit
+353259..354926	-	555	62184936	xseA	CAB304	-	COG1570L	exodeoxyribonuclease VII large subunit
+355057..355821	+	254	62184937	tpiA	CAB305	-	COG0149G	triosephosphate isomerase
+356095..356409	+	104	62184938	secG	CAB306	-	COG1314U	preprotein translocase subunit SecG
+356666..357220	+	184	62184939	def	CAB307	-	COG0242J	peptide deformylase
+357297..359393	-	698	62184940	-	CAB308	-	-	lipoprotein
+359404..361110	-	568	62184941	-	CAB309	-	COG1413C	hypothetical protein
+361092..361682	-	196	62184942	maf	CAB310	-	COG0424D	Maf-like protein
+361724..363325	-	533	62184943	-	CAB311	-	COG0488R	ABC transporter, ATP-binding component
+363366..364304	-	312	62184944	xerC	CAB312	-	COG4974L	site-specific tyrosine recombinase XerC
+364349..365269	-	306	62184945	-	CAB313	-	COG1234R	ribonuclease Z
+365372..366043	-	223	62184946	-	CAB314	-	-	serine rich exported protein
+366183..368639	-	818	62184947	-	CAB315	-	COG0466O	serine protease
+369284..369925	+	213	62184948	-	CAB316	-	COG1214O	hypothetical protein
+370125..370301	+	58	62184949	rpsU	CAB317	-	COG0828J	30S ribosomal protein S21
+370331..371506	+	391	62184950	dnaJ	CAB318	-	COG0484O	molecular chaperone DnaJ
+371541..373577	+	678	62184951	-	CAB319	-	COG0022C	oxidoreductase
+374848..376146	-	432	62184952	-	CAB322	-	COG0658R	hypothetical protein
+376116..376907	+	263	62184953	-	CAB323	-	-	hypothetical protein
+376900..377241	+	113	62184954	-	CAB324	-	COG1925G	phosphotransferase system, phosphocarrier protein
+377242..378942	+	566	62184955	-	CAB325	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+378939..379229	-	96	62184956	-	CAB326	-	COG0718S	hypothetical protein
+379234..380565	-	443	62184957	dnaX	CAB327	-	COG2812L	DNA polymerase III subunits gamma and tau
+381064..383160	+	698	62184958	-	CAB328	-	COG1480R	hypothetical protein
+383143..383634	-	163	62184959	-	CAB329	-	-	hypothetical protein
+383995..384426	-	143	62184960	-	CAB330	-	-	hypothetical protein
+384587..384988	-	133	62184961	-	CAB331	-	-	hypothetical protein
+385073..385822	-	249	62184962	-	CAB332	-	COG0181H	porphobilinogen deaminase
+385800..387167	-	455	62184963	radA	CAB333	-	COG1066O	DNA repair protein RadA
+387127..387840	-	237	62184964	rnc	CAB334	-	COG0571K	ribonuclease III
+387960..388424	+	154	62184965	-	CAB335	-	-	hypothetical protein
+388519..390324	+	601	62184966	-	CAB336	-	COG1109G	phosphomannomutase
+390444..391067	+	207	62184967	-	CAB337	-	COG0605P	superoxide dismutase
+391148..392074	+	308	62184968	-	CAB338	-	COG0777I	acetyl-CoA carboxylase subunit beta
+392117..392560	+	147	62184969	dut	CAB338A	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+392562..393038	+	158	62184970	-	CAB339	-	COG1762GT	PTS system, IIA component
+393043..393723	+	226	62184971	-	CAB340	-	COG1762GT	PTS system, IIA component
+393822..395228	+	468	62184972	-	CAB341	-	-	hypothetical protein
+395408..397138	+	576	62184973	-	CAB342	-	COG2223P	hypothetical protein
+397162..397776	-	204	62184974	-	CAB343	-	-	hypothetical protein
+397773..398390	-	205	62184975	-	CAB344	-	-	hypothetical protein
+398427..399515	+	362	62184976	mnmA	CAB345	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+399493..402030	-	845	62184977	clpC	CAB346	-	COG0542O	negative regulator of genetic competence clpc/mecb
+402198..402932	+	244	62184978	-	CAB347	-	COG0095H	hypothetical protein
+402923..404353	+	476	62184979	-	CAB348	-	COG1502I	hypothetical protein
+404474..406546	+	690	62184980	-	CAB349	-	-	hypothetical protein
+406546..406887	+	113	62184981	-	CAB350	-	COG0509E	glycine cleavage system protein H
+407009..407323	+	104	62184982	-	CAB351	-	-	hypothetical protein
+407313..407645	+	110	62184983	-	CAB351A	-	-	hypothetical protein
+407646..408440	-	264	62184984	nqrE	CAB352	-	COG2209C	Na(+)-translocating NADH-quinone reductase subunit E
+408445..409086	-	213	62184985	nqrD	CAB353	-	COG1347C	Na(+)-translocating NADH-quinone reductase subunit D
+409073..410035	-	320	62184986	nqrC	CAB354	-	COG2869C	Na(+)-translocating NADH-quinone reductase subunit C
+410039..411550	-	503	62184987	nqrB	CAB355	-	COG1805C	Na(+)-translocating NADH-quinone reductase subunit B
+412191..412784	-	197	62184988	-	CAB357	-	COG1664M	hypothetical protein
+412801..414153	-	450	62184989	dnaA	CAB358	-	COG0593L	chromosome replication initiator DnaA
+414346..414777	-	143	62184990	-	CAB359	-	COG3071H	hypothetical protein
+414781..415326	-	181	62184991	-	CAB360	-	-	hypothetical protein
+415500..416396	+	298	62184992	mraW	CAB361	-	COG0275M	S-adenosyl-methyltransferase MraW
+416393..416680	+	95	62184993	-	CAB361A	-	-	hypothetical protein
+416667..418616	+	649	62184994	-	CAB362	-	COG0768M	penicillin-binding protein
+419373..420824	+	483	62184995	murE	CAB363	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+420817..421536	+	239	62184996	-	CAB364	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+421924..422226	+	100	62184997	ihfA	CAB365	-	COG0776L	integration host factor alpha-subunit
+422353..423537	+	394	62184998	-	CAB366	-	-	hypothetical protein
+423642..424616	+	324	62184999	accA	CAB367	-	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+424582..426549	+	655	62185000	-	CAB368	-	COG1132V	ABC transporter, ATP-binding component
+426563..427213	-	216	114330035	-	CAB369	-	-	hypothetical protein
+427194..427967	-	257	62185002	-	CAB370	-	COG2107R	hypothetical protein
+427964..428650	-	228	62185003	dnaQ	CAB371	-	COG0847L	DNA polymerase III subunit epsilon
+428666..429139	-	157	62185004	-	CAB372	-	COG5465S	hypothetical protein
+429171..429677	-	168	62185005	-	CAB373	-	COG3190N	hypothetical protein
+430029..430916	+	295	62185006	-	CAB374	-	COG0561R	hypothetical protein
+430903..431802	-	299	62185007	-	CAB375	-	COG0623I	enoyl-ACP reductase
+432069..434267	+	732	62185008	-	CAB376	-	-	hypothetical protein
+436706..437530	-	274	62185009	rluC	CAB379	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+437579..438688	+	369	62185010	mutY	CAB380	-	COG1194L	A/G-specific adenine glycosylase
+438685..439080	+	131	62185011	-	CAB381	-	COG1694R	hypothetical protein
+439261..440040	-	259	62185012	-	CAB382	-	COG1266R	hypothetical protein
+440044..440736	-	230	62185013	-	CAB383	-	-	hypothetical protein
+442479..443528	-	349	62185014	-	CAB385	-	-	hypothetical protein
+443928..444677	+	249	62185015	-	CAB386	-	COG0631T	phosphatase
+444701..445816	+	371	62185016	-	CAB387	-	COG1104E	cysteine desulfurase
+445820..447034	-	404	62185017	-	CAB388	-	COG1253R	membrane transport protein
+447027..448262	-	411	62185018	-	CAB389	-	COG1253R	membrane transport protein
+448272..448601	-	109	62185019	-	CAB390	-	-	hypothetical protein
+448611..449183	-	190	62185020	dcd	CAB391	-	COG0717F	deoxycytidine triphosphate deaminase
+449788..450801	+	337	62185021	ruvB	CAB392	-	COG2255L	Holliday junction DNA helicase RuvB
+450798..451613	+	271	62185022	-	CAB393	-	-	hypothetical protein
+451610..453601	-	663	62185023	-	CAB394	-	COG1523G	glycosyl hydrolase
+453733..454233	+	166	62185024	-	CAB395	-	-	hypothetical protein
+454886..455362	+	158	62185025	-	CAB396	-	COG0629L	single-stranded DNA-binding protein
+455400..456902	+	500	62185026	-	CAB397	-	COG0260E	leucyl aminopeptidase
+457044..457508	+	154	62185027	-	CAB398	-	COG1754R	histone-like protein
+457674..458609	+	311	62185028	-	CAB399	-	COG1466L	hypothetical protein
+458606..459316	+	236	62185029	-	CAB400	-	COG0313R	hypothetical protein
+459372..459854	-	160	62185030	-	CAB401	-	-	hypothetical protein
+459997..461358	+	453	62185031	-	CAB402	-	COG5178A	hypothetical protein
+461409..462794	-	461	62185032	-	CAB403	-	-	hypothetical protein
+462861..463982	-	373	62185033	-	CAB404	-	COG0635H	coproporphyrinogen III oxidase
+463972..464418	-	148	62185034	-	CAB405	-	-	hypothetical protein
+464573..467299	+	908	62185035	sucA	CAB406	-	COG0567C	2-oxoglutarate dehydrogenase E1
+467296..468393	+	365	62185036	sucB	CAB407	-	COG0508C	dihydrolipoamide succinyltransferase
+468404..469147	-	247	62185037	-	CAB408	-	COG1496S	hypothetical protein
+469161..470981	-	606	62185038	-	CAB409	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+471289..472470	-	393	62185039	-	CAB410	-	-	hypothetical protein
+472566..473588	-	340	62185040	-	CAB411	-	-	hypothetical protein
+473961..475139	-	392	62185041	-	CAB412	-	COG2110R	hypothetical protein
+475329..475604	-	91	62185042	-	CAB413	-	COG0633C	ferredoxin
+475882..477639	+	585	62185043	flhA	CAB414	-	COG1298NU	type III secretion system protein
+477744..478517	+	257	62185044	-	CAB415	-	COG1191K	RNA polymerase sigma factor sigma-28
+478514..478807	-	97	62185045	-	CAB416	-	-	hypothetical protein
+478968..480206	+	412	62185046	tyrS	CAB417	-	COG0162J	tyrosyl-tRNA synthetase
+480220..481674	+	484	62185047	gnd	CAB418	-	COG0362G	6-phosphogluconate dehydrogenase
+481865..483673	-	602	62185048	lepA	CAB419	-	COG0481M	GTP-binding protein LepA
+483905..485212	+	435	62185049	-	CAB420	-	-	hypothetical protein
+485295..486893	-	532	62185050	-	CAB421	-	COG3202C	ADP/ATP carrier protein
+487114..487626	-	170	62185051	-	CAB422	-	-	hypothetical protein
+488113..489078	+	321	62185052	-	CAB423	-	COG0803P	ABC transporter, substrate binding lipoprotein
+489075..489854	+	259	62185053	-	CAB424	-	COG1121P	ABC transporter, ATP-binding component
+489855..491204	+	449	62185054	-	CAB425	-	COG1108P	ABC transporter, membrane permease
+491201..492184	+	327	62185055	-	CAB426	-	COG1108P	ABC transporter, membrane permease
+492224..493363	+	379	62185056	dxr	CAB427	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+493376..495244	+	622	62185057	-	CAB428	-	COG0750M	metalloprotease
+495195..496181	-	328	62185058	-	CAB429	-	COG2267I	hypothetical protein
+496287..497390	-	367	62185059	recF	CAB430	-	COG1195L	recombination protein F
+497390..498490	-	366	62185060	dnaN	CAB431	-	COG0592L	DNA polymerase III subunit beta
+498730..499182	+	150	62185061	smpB	CAB432	-	COG0691O	SsrA-binding protein
+499163..500107	-	314	62185062	apbE	CAB433	-	COG1477H	thiamine biosynthesis lipoprotein
+500077..500940	-	287	62185063	-	CAB434	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+500931..501446	-	171	62185064	-	CAB435	-	-	hypothetical protein
+501657..501947	+	96	62185065	-	CAB436	-	-	late transcription unit B protein
+502309..504048	+	579	62185066	-	CAB437	-	-	hypothetical protein
+504050..504511	+	153	62185067	-	CAB438	-	-	hypothetical protein
+504508..505566	-	352	62185068	-	CAB439	-	COG1502I	hypothetical protein
+505672..507417	-	581	62185069	-	CAB440	-	COG0043H	hypothetical protein
+507443..507712	-	89	62185070	rpmB	CAB441	-	COG0227J	50S ribosomal protein L28
+507885..509477	-	530	62185071	malQ	CAB442	-	COG1640G	4-alpha-glucanotransferase
+509515..509955	-	146	62185072	scc	CAB443	-	-	Type III secretion chaperone
+509971..511167	-	398	62185073	-	CAB444	-	-	hypothetical protein
+511192..513321	-	709	62185074	-	CAB445	-	COG4789U	membrane transport protein
+513321..514403	-	360	62185075	-	CAB446	-	COG1377NU	type III secretion system protein
+514765..515859	+	364	62185076	-	CAB447	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+515837..516751	-	304	62185077	ribF	CAB448	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+516735..517442	-	235	62185078	truB	CAB449	-	COG0130J	tRNA pseudouridine synthase B
+517483..517845	-	120	62185079	rbfA	CAB450	-	COG0858J	ribosome-binding factor A
+517852..520476	-	874	62185080	infB	CAB451	-	COG0532J	translation initiation factor IF-2
+520466..521770	-	434	62185081	nusA	CAB452	-	COG0195K	transcription elongation factor NusA
+521861..523606	-	581	62185082	rpsA	CAB453	-	COG0539J	30S ribosomal protein S1
+523775..524710	+	311	62185083	trxB	CAB454	-	COG0492O	thioredoxin reductase
+524702..525070	-	122	62185084	acpS	CAB455	-	COG0736I	4'-phosphopantetheinyl transferase
+525086..525532	-	148	62185085	-	CAB456	-	-	hypothetical protein
+525603..526493	+	296	62185086	lgt	CAB457	-	COG0682M	prolipoprotein diacylglyceryl transferase
+526589..528973	+	794	62185087	-	CAB458	-	COG0706U	inner membrane protein translocase component YidC
+529040..530422	+	460	62185088	dnaA	CAB459	-	COG0593L	chromosome replication initiator DnaA
+530424..530780	-	118	62185089	-	CAB460	-	-	lipoprotein
+530995..533493	+	832	62185090	glgP	CAB461	-	COG0058G	glycogen phosphorylase
+533565..534854	-	429	62185091	pdhC	CAB462	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+534859..535845	-	328	62185092	pdhB	CAB463	-	COG0022C	pyruvate dehydrogenase E1 component, beta subunit
+535838..536863	-	341	62185093	pdhA	CAB464	-	COG1071C	pyruvate dehydrogenase e1 component, alpha subunit
+537028..538059	+	343	62185094	-	CAB465	-	-	hypothetical protein
+538065..539144	-	359	62185095	lpxD	CAB466	-	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+539172..539711	-	179	62185096	-	CAB467	-	COG2825M	hypothetical protein
+539818..542190	-	790	62185097	-	CAB468	-	COG4775M	hypothetical protein
+542362..542964	-	200	62185098	recR	CAB469	-	COG0353L	recombination protein RecR
+543078..544091	+	337	62185099	fabH	CAB470	-	COG0332I	3-oxoacyl-ACP synthase
+544092..545018	+	308	62185100	fabD	CAB471	-	COG0331I	ACP S-malonyltransferase
+545023..545769	+	248	62185101	fabG	CAB472	-	COG1028IQR	3-ketoacyl-ACP reductase
+545881..546117	+	78	62185102	acpP	CAB473	-	COG0236IQ	acyl carrier protein
+546253..546675	-	140	62185103	-	CAB474	-	COG0664T	Crp/Fnr family transcriptional regulator
+546687..549464	-	925	62185104	-	CAB475	-	COG3202C	lipoprotein
+549568..550122	-	184	62185105	incC	CAB476	-	-	inclusion membrane protein C
+550159..550767	-	202	62185106	incB	CAB477	-	-	inclusion membrane protein B
+550853..552334	-	493	62185107	-	CAB478	-	COG0733R	sodium symporter family membrane transport protein
+552340..553560	-	406	62185108	-	CAB479	-	COG1301C	sodium symporter family membrane transport protein
+553665..554843	+	392	62185109	-	CAB481	-	-	hypothetical protein
+555105..557237	+	710	62185110	-	CAB482	-	-	hypothetical protein
+557264..558676	+	470	62185111	-	CAB483	-	COG2239P	magnesium transporter
+558816..560231	+	471	62185112	-	CAB484	-	-	hypothetical protein
+560338..561738	-	466	62185113	-	CAB485	-	COG0531E	amino acid permease
+561755..562804	-	349	62185114	fbaB	CAB486	-	COG1830G	fructose-bisphosphate aldolase
+562974..564920	+	648	62185115	-	CAB487	-	-	hypothetical protein
+565063..566088	+	341	62185116	-	CAB488	-	COG1135P	ABC transporter, ATP-binding component
+566102..566767	+	221	62185117	-	CAB489	-	COG2011P	ABC transport integral membrane subunit
+566764..567567	+	267	62185118	-	CAB490	-	COG1464P	lipoprotein
+567663..568217	+	184	62185119	-	CAB491	-	-	hypothetical protein
+568471..568821	+	116	62185120	-	CAB492	-	-	hypothetical protein
+568825..571245	+	806	62185121	gyrB	CAB493	-	COG0187L	DNA gyrase subunit B
+571261..573753	+	830	62185122	gyrA	CAB494	-	COG0188L	DNA gyrase subunit A
+573766..574401	+	211	62185123	tmk	CAB495	-	COG0125F	thymidylate kinase
+574467..575267	+	266	62185124	-	CAB496	-	COG0470L	DNA polymerase III subunit delta'
+575244..575966	-	240	62185125	-	CAB497	-	COG0400R	hydrolase
+576242..577129	+	295	62185126	-	CAB498	-	COG0009J	hypothetical protein
+577126..578109	+	327	62185127	-	CAB499	-	COG2355E	hypothetical protein
+578173..579273	-	366	62185128	-	CAB500	-	COG1196D	hypothetical protein
+579453..580553	-	366	62185129	-	CAB501	-	-	hypothetical protein
+580752..581432	-	226	62185130	-	CAB502	-	COG1611R	hypothetical protein
+581625..582524	+	299	62185131	ubiA	CAB503	-	COG0382H	prenyltransferase
+582538..583116	+	192	62185132	-	CAB504	-	COG0163H	aromatic acid decarboxylase
+583113..584006	-	297	62185133	-	CAB505	-	COG1284S	lipoprotein
+584563..585399	-	278	62185134	surE	CAB506	-	COG0496R	stationary phase survival protein SurE
+585446..586210	-	254	62185135	-	CAB507	-	COG0037D	hypothetical protein
+586338..586811	+	157	62185136	-	CAB508	-	COG3318R	hypothetical protein
+587186..588019	+	277	62185137	-	CAB509	-	-	hypothetical protein
+588022..588867	+	281	62185138	-	CAB510	-	-	hypothetical protein
+588871..589692	+	273	62185139	-	CAB511	-	-	hypothetical protein
+589717..591099	-	460	62185140	-	CAB512	-	COG0621J	hypothetical protein
+591198..591356	+	52	62185141	rpmG	CAB513	-	COG0267J	50S ribosomal protein L33
+591406..592917	+	503	62185142	lolC	CAB514	-	COG4591M	lipoprotein releasing system transmembrane protein
+592920..593591	+	223	62185143	lolD	CAB515	-	COG1136V	lipoprotein releasing system ATP-binding protein
+595365..595817	+	150	62185144	rplM	CAB518	-	COG0102J	50S ribosomal protein L13
+595831..596232	+	133	62185145	rpsI	CAB519	-	COG0103J	30S ribosomal protein S9
+596358..597209	-	283	62185146	-	CAB520	-	COG0791M	hypothetical protein
+597264..597905	-	213	62185147	adk	CAB521	-	COG0563F	adenylate kinase
+598187..599320	+	377	62185148	-	CAB522	-	COG1914P	hypothetical protein
+599337..599750	+	137	62185149	-	CAB523	-	-	hypothetical protein
+599869..601005	+	378	62185150	-	CAB524	-	-	hypothetical protein
+601041..601817	-	258	62185151	pgl	CAB525	-	COG0363G	6-phosphogluconolactonase
+601841..603406	-	521	62185152	zwf	CAB526	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+603587..605173	-	528	62185153	-	CAB527	-	COG4166E	membrane transport protein, solute-binding component
+605119..606153	-	344	62185154	-	CAB528	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+606725..607372	+	215	62185155	-	CAB530	-	COG0765E	ABC transporter, membrane permease
+607369..608049	+	226	62185156	-	CAB531	-	COG1126E	ABC transporter, ATP-binding component
+608106..609452	-	448	62185157	-	CAB532	-	-	hypothetical protein
+609571..612990	-	1139	62185158	-	CAB533	-	-	hypothetical protein
+612987..614279	-	430	62185159	-	CAB534	-	COG1295S	hypothetical protein
+614359..615237	-	292	62185160	-	CAB535	-	COG2226H	hypothetical protein
+615254..616396	-	380	62185161	incA	CAB536	-	COG0419L	inclusion membrane protein
+616790..617485	+	231	62185162	-	CAB537	-	COG0036G	ribulose-phosphate 3-epimerase
+617472..618029	+	185	62185163	-	CAB538	-	COG0231J	elongation factor P
+618061..618561	+	166	161501894	-	CAB539	-	COG0511I	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+618561..619916	+	451	62185165	accC	CAB540	-	COG0439I	acetyl-CoA carboxylase biotin carboxylase subunit
+623263..624252	-	329	62185166	-	CAB545	-	-	hypothetical protein
+624804..625427	-	207	62185167	-	CAB546	-	-	hypothetical protein
+625420..625704	-	94	62185168	-	CAB547	-	-	hypothetical protein
+625937..626617	-	226	62185169	-	CAB548	-	-	hypothetical protein
+626920..628488	-	522	62185170	-	CAB549	-	-	hypothetical protein
+628495..628794	-	99	62185171	-	CAB550	-	-	hypothetical protein
+630197..631030	-	277	62185172	-	CAB553	-	-	lipoprotein
+631498..631965	+	155	62185173	-	CAB554	-	-	hypothetical protein
+633304..633768	+	154	62185174	-	CAB557	-	-	hypothetical protein
+634193..634864	+	223	62185175	-	CAB558	-	COG1738S	hypothetical protein
+635042..636160	+	372	62185176	-	CAB559	-	COG0343J	queuine tRNA-ribosyltransferase
+636396..636842	+	148	62185177	-	CAB560	-	-	hypothetical protein
+637249..637713	+	154	62185178	-	CAB560A	-	-	hypothetical protein
+638785..639195	-	136	62185179	-	CAB562	-	COG1495O	disulfide oxidoreductase
+639188..639886	-	232	62185180	-	CAB563	-	COG1651O	hypothetical protein
+640014..641312	+	432	62185181	-	CAB564	-	-	hypothetical protein
+641326..642030	-	234	62185182	-	CAB565	-	-	hypothetical protein
+642015..642722	-	235	62185183	-	CAB566	-	COG1116P	ABC transporter, ATP-binding component
+644069..644761	-	230	62185184	-	CAB568	-	-	hypothetical protein
+644927..645691	+	254	62185185	-	CAB569	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+645667..647280	+	537	62185186	pyrG	CAB570	-	COG0504F	CTP synthetase
+647273..647725	+	150	62185187	ruvX	CAB571	-	COG0816L	Holliday junction resolvase-like protein
+647973..649313	+	446	62185188	-	CAB572	-	COG4166E	ABC transporter peptide periplasmic binding lipoprotein
+649430..651037	+	535	62185189	-	CAB573	-	COG4166E	ABC transporter peptide periplasmic-binding lipoprotein
+651242..652834	+	530	62185190	-	CAB574	-	COG4166E	peptide ABC transporter substrate-binding protein
+653061..654032	+	323	62185191	-	CAB575	-	COG0601EP	peptide ABC transport system permease
+654092..654958	+	288	62185192	-	CAB576	-	COG1173EP	peptide ABC transport system permease
+654951..655817	+	288	62185193	-	CAB577	-	COG0444EP	peptide ABC transporter
+655810..656595	+	261	62185194	-	CAB578	-	COG1124EP	peptide ATP-binding component of ABC transporter
+656884..657639	+	251	62185195	-	CAB579	-	-	hypothetical protein
+657686..659098	+	470	62185196	-	CAB580	-	COG0471P	sodium:sulfate symporter
+659209..660867	+	552	62185197	-	CAB581	-	COG0205G	diphosphate--fructose-6-phosphate 1-phosphotransferase
+661026..661802	+	258	62185198	-	CAB582	-	COG1073R	ester hydrolase
+661812..663437	+	541	62185199	-	CAB583	-	COG0205G	diphosphate--fructose-6-phosphate 1-phosphotransferase
+663711..664946	-	411	62185200	gseA	CAB584	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+665009..667471	-	820	62185201	leuS	CAB585	-	COG0495J	leucyl-tRNA synthetase
+667702..668649	+	315	62185202	-	CAB586	-	COG1073R	hypothetical protein
+668791..670311	+	506	62185203	-	CAB587	-	COG0654HC	monooxygenase
+670416..674828	-	1470	62185204	-	CAB588	-	-	transmembrane protein
+674977..676959	-	660	62185205	ligA	CAB589	-	COG0272L	NAD-dependent DNA ligase LigA
+676967..678823	-	618	62185206	-	CAB590	-	COG1262S	serine/threonine protein kinase
+679055..679447	-	130	62185207	-	CAB591	-	-	transmembrane protein
+679860..680231	+	123	62185208	-	CAB592	-	-	hypothetical protein
+680641..680967	-	108	62185209	-	CAB593	-	-	transmembrane protein
+681081..681485	-	134	62185210	-	CAB594	-	-	hypothetical protein
+681564..683066	-	500	62185211	-	CAB595	-	COG2912S	hypothetical protein
+686033..688552	+	839	62185212	pmp17G	CAB598	-	COG4625S	hypothetical protein
+688680..691274	-	864	62185213	clpB	CAB599	-	COG0542O	ClpB ATPase stress response protein
+691334..692137	-	267	62185214	-	CAB600	-	COG1463Q	ABC transporter component
+692137..692913	-	258	62185215	-	CAB601	-	COG1127Q	ABC transporter ATP-binding protein
+692922..693707	-	261	62185216	-	CAB602	-	COG0767Q	permease component of ABC transporter
+693745..695058	-	437	62185217	hemL	CAB603	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+695151..695720	-	189	62185218	-	CAB604	-	COG1678K	hypothetical protein
+695742..696182	-	146	62185219	-	CAB605	-	COG1259S	hypothetical protein
+696179..696880	-	233	62185220	-	CAB606	-	COG0120G	ribose-5-phosphate isomerase A
+696966..697085	-	39	62185221	-	CAB607	-	-	hypothetical protein
+698886..700136	-	416	62185222	-	CAB610	-	-	transmembrane protein
+700457..701875	-	472	62185223	-	CAB611	-	-	hypothetical protein
+702479..703234	+	251	62185224	-	CAB612	-	COG0327S	hypothetical protein
+703327..705153	+	608	62185225	-	CAB613	-	COG1164E	peptidase
+705281..705589	+	102	62185226	groES	CAB614	-	COG0234O	co-chaperonin GroES
+705639..707273	+	544	62185227	groEL	CAB615	-	COG0459O	molecular chaperone GroEL
+707378..708217	+	279	62185228	-	CAB616	-	-	hypothetical protein
+708480..709103	+	207	62185229	-	CAB617	-	-	hypothetical protein
+709149..710054	+	301	62185230	-	CAB618	-	-	hypothetical protein
+710056..710871	-	271	62185231	-	CAB619	-	COG4285S	hypothetical protein
+710968..711987	+	339	62185232	-	CAB620	-	COG0697GER	hypothetical protein
+712482..714680	+	732	62185233	-	CAB621	-	COG0507L	exodeoxyribonuclease
+714696..716351	-	551	62185234	metG	CAB622	-	COG0143J	methionyl-tRNA synthetase
+716351..716647	-	98	62185235	-	CAB623	-	-	hypothetical protein
+716644..717258	-	204	62185236	gmk	CAB624	-	COG0194F	guanylate kinase
+717265..717903	-	212	62185237	rnhB	CAB625	-	COG0164L	ribonuclease HII
+717957..718325	-	122	62185238	rplS	CAB626	-	COG0335J	50S ribosomal protein L19
+718350..719417	-	355	62185239	trmD	CAB627	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase/unknown domain fusion protein
+719433..719792	-	119	62185240	rpsP	CAB627A	-	COG0228J	30S ribosomal protein S16
+719783..721126	-	447	62185241	ffh	CAB628	-	COG0541U	signal recognition particle protein
+721153..722004	-	283	62185242	-	CAB629	-	COG2890J	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+721982..723067	-	361	62185243	prfA	CAB630	-	COG0216J	peptide chain release factor 1
+723455..723781	-	108	62185244	rpmE2	CAB631	-	COG0254J	50S ribosomal protein L31
+723866..724621	+	251	62185245	-	CAB632	-	-	hypothetical protein
+724920..726812	+	630	62185246	-	CAB633	-	COG0681U	signal peptidase I
+726872..730003	-	1043	62185247	ileS	CAB634	-	COG0060J	isoleucyl-tRNA synthetase
+730770..731279	+	169	62185248	-	CAB635	-	-	hypothetical protein
+731274..732566	-	430	62185249	-	CAB636	-	COG1875T	phosphate starvation-inducible protein
+732866..733648	+	260	62185250	-	CAB637	-	-	hypothetical protein
+733793..735019	+	408	62185251	-	CAB638	-	COG3103T	hypothetical protein
+735021..735902	-	293	62185252	-	CAB639	-	-	hypothetical protein
+736190..737251	-	353	62185253	-	CAB640	-	COG1294C	cytochrome D ubiquinol oxidase, subunit II
+737254..738594	-	446	62185254	-	CAB641	-	COG1271C	cytochrome D ubiquinol oxidase, subunit I
+738793..739587	+	264	62185255	-	CAB642	-	COG1624S	hypothetical protein
+739569..740852	+	427	62185256	-	CAB643	-	-	hypothetical protein
+741070..742437	+	455	62185257	-	CAB644	-	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+742818..744263	-	481	62185258	pyk	CAB645	-	COG0469G	pyruvate kinase
+744554..749974	+	1806	62185259	-	CAB646	-	COG0178L	excinuclease ABC subunit A
+749969..752770	-	933	62185260	pknD	CAB647	-	COG0515RTKL	serine/threonine-protein kinase
+752791..755613	-	940	62185261	valS	CAB648	-	COG0525J	valyl-tRNA synthetase
+755669..756145	-	158	62185262	-	CAB649	-	-	hypothetical protein
+756105..756530	-	141	62185263	atpK	CAB650	-	-	V-type ATP synthase subunit K
+756665..758614	-	649	62185264	atpI	CAB651	-	COG1269C	V-type ATP synthase subunit I
+758605..759231	-	208	62185265	atpD	CAB652	-	COG1394C	V-type ATP synthase subunit D
+759216..760532	-	438	62185266	atpB	CAB653	-	COG1156C	V-type ATP synthase subunit B
+760539..762314	-	591	62185267	atpA	CAB654	-	COG1155C	V-type ATP synthase subunit A
+762308..763108	-	266	62185268	-	CAB655	-	-	hypothetical protein
+763154..763780	-	208	62185269	-	CAB656	-	COG1390C	V-type ATP synthase subunit E
+763888..764640	+	250	62185270	-	CAB657	-	-	hypothetical protein
+764655..765035	-	126	62185271	-	CAB658	-	-	hypothetical protein
+765090..766073	-	327	62185272	talA	CAB659	-	COG0176G	transaldolase B
+766187..770368	-	1393	62185273	rpoC	CAB660	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+770396..774154	-	1252	62185274	rpoB	CAB661	-	COG0085K	DNA-directed RNA polymerase subunit beta
+774294..774689	-	131	161501893	rplL	CAB662	-	COG0222J	50S ribosomal protein L7/L12
+774731..775243	-	170	62185276	rplJ	CAB663	-	COG0244J	50S ribosomal protein L10
+775257..775955	-	232	62185277	rplA	CAB664	-	COG0081J	50S ribosomal protein L1
+775978..776403	-	141	62185278	rplK	CAB665	-	COG0080J	50S ribosomal protein L11
+776512..777060	-	182	62185279	nusG	CAB666	-	COG0250K	transcription antitermination protein NusG
+777065..777310	-	81	62185280	secE	CAB667	-	COG0690U	preprotein translocase subunit SecE
+777471..778655	-	394	62185281	tuf	CAB668	-	COG0050J	elongation factor Tu
+778848..779069	-	73	62185282	infA	CAB669	-	COG0361J	translation initiation factor IF-1
+779368..780354	+	328	62185283	-	CAB670	-	-	transmembrane protein
+780357..780806	+	149	62185284	-	CAB671	-	COG2166R	hypothetical protein
+781329..781922	-	197	62185285	-	CAB672	-	COG1268R	transmembrane protein
+782200..783669	+	489	62185286	-	CAB673	-	-	hypothetical protein
+783917..784267	-	116	62185287	-	CAB673A	-	-	transmembrane protein
+784339..786021	-	560	62185288	-	CAB674	-	-	transmembrane protein
+786387..786860	-	157	62185289	-	CAB676	-	-	hypothetical protein
+787635..788501	-	288	62185290	dapA	CAB677	-	COG0329EM	dihydrodipicolinate synthase
+788514..789836	-	440	62185291	lysC	CAB678	-	COG0527E	aspartate kinase
+789824..790825	-	333	62185292	asd	CAB679	-	COG0136E	aspartate-semialdehyde dehydrogenase
+791006..791746	-	246	62185293	dapB	CAB680	-	COG0289E	dihydrodipicolinate reductase
+791950..792783	+	277	62185294	phhA	CAB681	-	COG3186E	phenylalanine 4-monooxygenase
+792770..793408	+	212	62185295	-	CAB682	-	COG1738S	transmembrane transport protein
+793498..794631	+	377	62185296	-	CAB683	-	COG5160O	hypothetical protein
+794643..795434	+	263	62185297	-	CAB684	-	COG1028IQR	monoamine dehydrogenase/reductase
+795683..796678	+	331	62185298	bioB	CAB685	-	COG0502H	biotin synthase
+796657..797805	+	382	62185299	bioF	CAB686	-	COG0156H	8-amino-7-oxononanoate synthase
+797790..798413	+	207	62185300	bioD	CAB687	-	COG0132H	dethiobiotin synthetase
+798407..799684	+	425	62185301	bioA	CAB688	-	COG0161H	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+799666..800325	+	219	62185302	-	CAB689	-	-	hypothetical protein
+800409..801746	+	445	62185303	aroA	CAB690	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+801682..802203	+	173	62185304	aroM	CAB691	-	COG0703E	shikimate kinase
+802200..803279	+	359	62185305	aroC	CAB692	-	COG0082E	chorismate synthase
+803276..804415	+	379	62185306	aroB	CAB693	-	COG0337E	3-dehydroquinate synthase
+804396..805829	+	477	62185307	aroDE	CAB694	-	COG0169E	bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase
+805880..806674	+	264	62185308	-	CAB695	-	-	hypothetical protein
+806781..808127	+	448	62185309	-	CAB696	-	COG3659M	hypothetical protein
+808162..808749	+	195	62185310	-	CAB697	-	COG1945S	hypothetical protein
+808759..810219	+	486	62185311	arcD	CAB698	-	COG0531E	amino acid permease
+810331..811371	+	346	62185312	-	CAB699	-	COG0665E	oxidoreductase
+811361..812185	-	274	62185313	-	CAB700	-	-	transmembrane protein
+812207..813199	-	330	62185314	-	CAB701	-	COG0039C	malate dehydrogenase
+813545..813688	-	47	62185315	-	CAB702	-	-	late transcription unit A
+813787..815382	-	531	62185316	pgi	CAB703	-	COG0166G	glucose-6-phosphate isomerase
+815452..816351	+	299	62185317	xerD	CAB704	-	COG4974L	site-specific tyrosine recombinase XerD
+816348..816647	-	99	62185318	-	CAB705	-	-	lipoprotein
+816999..818444	+	481	62185319	-	CAB706	-	COG5181	serine-rich protein
+818444..818962	+	172	62185320	-	CAB707	-	-	low calcium response locus protein
+818981..820501	+	506	62185321	-	CAB708	-	-	hypothetical protein
+820521..821999	+	492	62185322	-	CAB709	-	-	serine-rich protein
+822007..822729	-	240	62185323	-	CAB710	-	COG2226H	hypothetical protein
+822692..823621	-	309	62185324	ispH	CAB711	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+823731..825542	-	603	62185325	-	CAB712	-	COG0793M	hypothetical protein
+825655..826917	-	420	62185326	-	CAB713	-	COG1055P	Na+/H+ antiporter
+827194..828894	+	566	62185327	-	CAB714	-	COG0659P	sulfate transporter
+828891..830273	-	460	62185328	fumC	CAB715	-	COG0114C	fumarate hydratase
+830325..832157	+	610	62185329	-	CAB716	-	COG0600P	ABC transporter permease component
+832066..832716	-	216	62185330	-	CAB717	-	COG0563F	hypothetical protein
+832807..833415	+	202	62185331	-	CAB718	-	COG2095U	transmembrane protein
+833428..834036	+	202	62185332	-	CAB719	-	COG2095U	transmembrane protein
+834046..834918	+	290	62185333	-	CAB720	-	COG0024J	methionine aminopeptidase
+834875..836149	-	424	62185334	-	CAB721	-	COG1196D	hypothetical protein
+836162..836347	-	61	62185335	-	CAB722	-	-	hypothetical protein
+836615..837118	+	167	62185336	-	CAB723	-	-	hypothetical protein
+837170..837688	+	172	62185337	-	CAB724	-	-	hypothetical protein
+837708..838238	+	176	62185338	-	CAB725	-	-	hypothetical protein
+838319..839026	+	235	62185339	-	CAB726	-	-	hypothetical protein
+839023..839253	-	76	62185340	-	CAB727	-	-	hypothetical protein
+839243..839716	-	157	62185341	-	CAB728	-	COG0590FJ	cytidine/deoxycytidylate deaminase
+839957..840226	+	89	62185342	rpsO	CAB729	-	COG0184J	30S ribosomal protein S15
+840274..842358	+	694	62185343	pnpA	CAB730	-	COG1185J	polynucleotide phosphorylase
+842460..845201	-	913	62185344	-	CAB731	-	COG0465O	cell division protein
+845375..846328	-	317	62185345	-	CAB732	-	COG0037D	hypothetical protein
+846442..847515	+	357	62185346	-	CAB733	-	COG0795R	hypothetical protein
+847519..848622	+	367	62185347	-	CAB734	-	COG0795R	hypothetical protein
+848609..850639	-	676	62185348	-	CAB735	-	COG1579R	hypothetical protein
+850946..851971	-	341	62185349	pheS	CAB736	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+851984..852346	-	120	62185350	rplT	CAB737	-	COG0292J	50S ribosomal protein L20
+852368..852562	-	64	62185351	rpmI	CAB738	-	COG0291J	50S ribosomal protein L35
+852540..853082	-	180	62185352	infC	CAB739	-	COG0290J	translation initiation factor IF-3
+853495..853989	+	164	62185353	nusB	CAB740	-	COG0781K	transcription antitermination protein NusB
+854027..854917	+	296	62185354	murB	CAB741	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+855598..856272	-	224	62185355	trmB	CAB743	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+856449..857498	-	349	62185356	-	CAB744	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+857513..860650	-	1045	62185357	-	CAB745	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+861026..861832	+	268	62185358	-	CAB746	-	COG1183I	phospholipid biosynthesis-related membrane protein
+861829..863067	+	412	62185359	-	CAB747	-	COG1322S	DNA recombination protein
+863071..865995	-	974	62185360	-	CAB748	-	COG1026R	metalloprotease
+866145..867509	+	454	62185361	-	CAB749	-	COG0624E	peptidase
+867568..869034	-	488	62185362	-	CAB750	-	COG0265O	heat shock-related exported protease
+869370..870245	-	291	62185363	sucD	CAB751	-	COG0074C	succinyl-CoA synthetase subunit alpha
+870260..871420	-	386	62185364	sucC	CAB752	-	COG0045C	succinyl-CoA synthetase subunit beta
+871491..872351	+	286	62185365	-	CAB753	-	COG0552U	cell division protein
+872366..873082	-	238	62185366	-	CAB754	-	COG0670R	hypothetical protein
+873137..874324	-	395	62185367	-	CAB755	-	COG0814E	tyrosine-specific transport protein
+874394..876223	-	609	62185368	glmS	CAB756	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+876232..877608	-	458	62185369	glmM	CAB757	-	COG1109G	phosphoglucosamine mutase
+878219..879505	+	428	62185370	-	CAB758	-	COG0617J	poly(A) polymerase
+879519..881402	+	627	62185371	lpxB	CAB759	-	COG0763M	lipid-A-disaccharide synthase
+881695..882270	-	191	62185372	-	CAB760	-	COG1340S	TMH family membrane protein
+882295..883365	-	356	62185373	-	CAB761	-	COG1196D	TMH family membrane protein
+884700..886109	-	469	62185374	-	CAB764	-	COG1196D	TMH family membrane protein
+886492..887265	-	257	62185375	-	CAB766	-	COG1196D	TMH family membrane protein
+890185..891246	-	353	62185376	-	CAB771	-	COG1196D	TMH family membrane protein
+891524..892951	-	475	62185377	-	CAB772	-	COG1196D	TMH family membrane protein
+893505..894779	+	424	62185378	-	CAB773	-	-	hypothetical protein
+894981..897803	+	940	62185379	-	CAB774	-	-	hypothetical protein
+898177..899478	+	433	62185380	-	CAB775	-	-	hypothetical protein
+899562..904163	-	1533	62185381	pmp18D	CAB776	-	COG4625S	hypothetical protein
+904268..905218	-	316	62185382	-	CAB777	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+905234..905416	-	60	62185383	rpmF	CAB778	-	COG0333J	50S ribosomal protein L32
+905429..905890	-	153	62185384	-	CAB779	-	-	hypothetical protein
+906201..907733	+	510	62185385	-	CAB780	-	COG1530J	ribonuclease
+907736..908737	+	333	62185386	-	CAB781	-	-	glycerol-3-P acyltransferase
+908740..911550	+	936	62185387	-	CAB782	-	COG1025O	exported peptidase
+911555..912907	-	450	62185388	-	CAB783	-	-	hypothetical protein
+913307..914182	-	291	62185389	-	CAB784	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+914227..914745	-	172	62185390	rplI	CAB785	-	COG0359J	50S ribosomal protein L9
+914766..915029	-	87	62185391	rpsR	CAB786	-	COG0238J	30S ribosomal protein S18
+915047..915385	-	112	62185392	rpsF	CAB787	-	COG0360J	30S ribosomal protein S6
+915463..916014	-	183	62185393	pth	CAB788	-	COG0193J	peptidyl-tRNA hydrolase
+916023..916580	-	185	62185394	rplY	CAB789	-	COG1825J	50S ribosomal protein L25
+917069..918496	+	475	62185395	glgA	CAB790	-	COG0297G	glycogen synthase
+918478..919092	-	204	62185396	-	CAB791	-	COG0558I	phosphatidylglycerophosphate synthase
+919393..922410	+	1005	62185397	glyQ	CAB792	-	COG0751J	glycyl-tRNA synthetase alpha chain
+922479..922958	-	159	62185398	-	CAB793	-	-	hypothetical protein
+923044..923559	-	171	62185399	-	CAB794	-	-	hypothetical protein
+923761..924273	-	170	62185400	-	CAB795	-	-	hypothetical protein
+924419..924694	-	91	62185401	-	CAB796	-	-	hypothetical protein
+924799..926574	-	591	62185402	dnaG	CAB797	-	COG0358L	DNA primase
+926876..929356	+	826	62185403	mutS	CAB798	-	COG0249L	DNA mismatch repair protein MutS
+929360..931174	+	604	62185404	uvrC	CAB799	-	COG0322L	excinuclease ABC subunit C
+931183..931644	-	153	62185405	-	CAB800	-	COG1302S	hypothetical protein
+931762..932268	+	168	62185406	-	CAB801	-	-	hypothetical protein
+932325..932630	-	101	62185407	rpsN	CAB802	-	COG0199J	30S ribosomal protein S14
+932656..932793	-	45	62185408	rpmJ	CAB803	-	COG0257J	50S ribosomal protein L36
+933208..933627	+	139	62185409	rnpA	CAB804	-	COG0594J	ribonuclease P
+933569..934615	-	348	62185410	-	CAB805	-	-	hypothetical protein
+935046..936476	+	476	62185411	cysS	CAB806	-	COG0215J	cysteinyl-tRNA synthetase
+936473..938053	-	526	62185412	lysS	CAB807	-	COG1190J	lysyl-tRNA synthetase
+938282..938797	-	171	62185413	-	CAB808	-	COG2143O	hypothetical protein
+938961..939674	+	237	62185414	-	CAB809	-	-	hypothetical protein
+939626..941875	+	749	62185415	-	CAB810	-	COG1198L	primosome assembly protein PriA
+941807..942913	-	368	62185416	-	CAB811	-	COG0156H	8-amino-7-oxononanoate synthase
+942964..944610	-	548	62185417	-	CAB812	-	COG0318IQ	long chain fatty acid--ACP ligase
+944603..945364	-	253	62185418	-	CAB813	-	COG0204I	hypothetical protein
+945472..946452	+	326	62185419	-	CAB814	-	COG1218P	sulfur metabolism-related protein
+946449..947498	-	349	62185420	-	CAB815	-	COG0334E	leucine dehydrogenase
+947666..948316	+	216	62185421	-	CAB816	-	COG0221C	inorganic pyrophosphatase
+948361..948810	-	149	62185422	-	CAB817	-	COG0494LR	hypothetical protein
+948813..950063	-	416	62185423	fabF	CAB818	-	COG0304IQ	3-oxoacyl-ACP synthase
+950081..950440	-	119	62185424	-	CAB819	-	COG0799S	hypothetical protein
+951136..952800	-	554	62185425	-	CAB821	-	COG1196D	hypothetical protein
+952890..953951	+	353	62185426	-	CAB822	-	COG1060HR	hypothetical protein
+953942..954886	-	314	62185427	miaA	CAB823	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+954982..955314	-	110	62185428	-	CAB825	-	COG1366T	anti sigma factor antagonist
+955390..956178	+	262	62185429	-	CAB826	-	-	hypothetical protein
+956175..956519	+	114	62185430	-	CAB827	-	COG1324P	divalent cation tolerance protein
+956616..957044	+	142	62185431	-	CAB828	-	COG1837R	hypothetical protein
+957110..959542	-	810	62185432	-	CAB829	-	COG0773M	bifunctional D-alanyl-alanine synthetase A/UDP-N-acetylmuramate--L-alanine ligase
+959551..960627	-	358	62185433	murG	CAB830	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+960536..961690	-	384	62185434	-	CAB831	-	COG0772D	exported cell division protein
+961709..962437	-	242	62185435	-	CAB832	-	COG1388M	hypothetical protein
+962434..963696	-	420	62185436	murD	CAB833	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+963700..964743	-	347	62185437	mraY	CAB834	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+964761..966107	-	448	62185438	-	CAB835	-	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+966499..968025	+	508	62185439	-	CAB836	-	COG0459O	chaperonin
+968398..969279	+	293	62185440	-	CAB837	-	COG1409R	hypothetical protein
+969330..969587	-	85	62185441	-	CAB838	-	-	hypothetical protein
+969610..970182	-	190	62185442	efp	CAB839	-	COG0231J	elongation factor P
+970386..971261	+	291	62185443	-	CAB840	-	COG0775F	AMP nucleosidase
+971255..973252	-	665	62185444	-	CAB841	-	COG0021G	transketolase
+973518..976145	+	875	62185445	alaS	CAB842	-	COG0013J	alanyl-tRNA synthetase
+976115..979372	+	1085	62185446	-	CAB843	-	COG1197LK	transcription-repair coupling factor
+979382..980383	+	333	62185447	hemE	CAB844	-	COG0407H	uroporphyrinogen decarboxylase
+980356..981732	+	458	62185448	-	CAB845	-	COG0635H	coproporphyrinogen III oxidase
+981729..982997	+	422	62185449	-	CAB846	-	COG1232H	protoporphyrinogen oxidase
+982968..985472	-	834	62185450	-	CAB847	-	-	DNA-binding protein
+985885..986256	+	123	62185451	-	CAB848	-	-	histone-like protein
+986480..987685	+	401	62185452	-	CAB849	-	COG2265J	RNA methyltransferase
+987756..988109	+	117	62185453	yajC	CAB850	-	COG1862U	preprotein translocase subunit YajC
+988228..989523	+	431	62185454	nqrF	CAB851	-	COG2871C	Na(+)-translocating NADH-quinone reductase subunit F
+989566..991029	-	487	62185455	-	CAB852	-	-	hypothetical protein
+991074..991490	-	138	62185456	-	CAB853	-	-	hypothetical protein
+997772..1000195	+	807	62185457	-	CAB855	-	COG1674D	DNA translocase FtsK
+1000200..1000988	+	262	62185458	-	CAB856	-	COG1235R	hydrolase
+1000985..1001647	+	220	62185459	-	CAB857	-	COG2940R	hypothetical protein
+1001652..1002104	-	150	62185460	-	CAB858	-	COG1881R	hypothetical protein
+1002118..1003494	-	458	62185461	-	CAB859	-	COG1115E	transport-related membrane protein
+1003604..1004248	-	214	62185462	-	CAB860	-	-	lipoprotein
+1004484..1005851	+	455	62185463	-	CAB861	-	-	hypothetical protein
+1005869..1006333	-	154	62185464	ribH	CAB862	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+1006346..1007611	-	421	62185465	ribA	CAB863	-	COG0108H	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1007694..1008800	-	368	62185466	ribD	CAB864	-	COG0117H	riboflavin biosynthesis protein RibD
+1008845..1010119	+	424	62185467	serS	CAB865	-	COG0172J	seryl-tRNA synthetase
+1010191..1010934	+	247	62185468	-	CAB866	-	COG1814S	hypothetical protein
+1010950..1012923	+	657	62185469	-	CAB867	-	COG2217P	cation transport related membrane protein
+1012927..1014066	-	379	62185470	-	CAB868	-	COG0772D	rod shape-determining protein
+1014102..1014674	+	190	62185471	birA	CAB869	-	COG0340H	biotin--protein ligase
+1014648..1015175	-	175	62185472	-	CAB870	-	-	hypothetical protein
+1015218..1015916	-	232	62185473	rluB	CAB871	-	COG1187J	16S pseudouridine synthase
+1016074..1016757	+	227	62185474	-	CAB872	-	COG0588G	phosphoglyceromutase
+1016712..1017869	+	385	62185475	-	CAB873	-	COG1104E	cysteine desulfurase
+1017866..1018687	+	273	62185476	-	CAB874	-	COG0822C	NifU-related protein
+1018791..1019804	+	337	62185477	-	CAB875	-	COG1536N	type III secretion system protein
+1019828..1020379	+	183	62185478	-	CAB876	-	COG1317NU	hypothetical protein
+1020376..1021680	+	434	62185479	-	CAB877	-	COG1157NU	type III secretion system ATPase
+1021673..1022047	+	124	62185480	-	CAB878	-	-	hypothetical protein
+1022053..1023435	+	460	62185481	-	CAB879	-	COG4284G	UDP-N-acetylhexosamine pyrophosphorylase
+1023432..1024436	+	334	62185482	gpsA	CAB880	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1024568..1025602	+	344	62185483	-	CAB881	-	-	exported outer membrane protein
+1025599..1026765	-	388	62185484	-	CAB882	-	-	hypothetical protein
+1026774..1029014	-	746	62185485	-	CAB883	-	-	hypothetical protein
+1029129..1030940	-	603	62185486	-	CAB884	-	COG1274C	phosphoenolpyruvate carboxykinase
+1030937..1031989	-	350	62185487	-	CAB885	-	COG1077D	rod shape-determining protein MreB
+1032042..1035539	-	1165	62185488	-	CAB886	-	COG0553KL	helicase
+1035835..1037160	+	441	62185489	tig	CAB887	-	COG0544O	trigger factor
+1037333..1037950	+	205	62185490	clpP	CAB888	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+1037960..1039225	+	421	62185491	clpX	CAB889	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+1039255..1040487	+	410	62185492	-	CAB890	-	COG0617J	poly A polymerase
+1040610..1042034	+	474	62185493	engA	CAB891	-	COG1160R	GTP-binding protein EngA
+1042695..1045604	-	969	62185494	secA	CAB894	-	COG0653U	preprotein translocase subunit SecA
+1045790..1047115	-	441	62185495	-	CAB895	-	COG4783R	hypothetical protein
+1047181..1048080	-	299	62185496	-	CAB896	-	COG0688I	phosphatidylserine decarboxylase
+1048237..1049568	+	443	62185497	trmE	CAB897	-	COG0486R	tRNA modification GTPase TrmE
+1049558..1050217	+	219	62185498	-	CAB898	-	COG0177L	DNA repair protein
+1050371..1051600	+	409	62185499	-	CAB899	-	COG1114E	branched-chain amino acid transport protein
+1051635..1055255	+	1206	62185500	-	CAB900	-	COG0553KL	DNA helicase-related protein
+1055279..1055743	-	154	62185501	-	CAB901	-	-	hypothetical protein
+1056005..1057393	+	462	62185502	pdhD	CAB902	-	COG1249C	dihydrolipoamide dehydrogenase
+1057390..1058322	+	310	62185503	lipA3	CAB903	-	COG0320H	lipoyl synthase
+1058534..1059526	+	330	62185504	-	CAB904	-	COG4669U	type III export protein
+1059526..1060359	+	277	62185505	-	CAB905	-	-	hypothetical protein
+1060525..1061181	+	218	62185506	-	CAB906	-	COG1317NU	type III secretion system protein
+1061196..1062113	+	305	62185507	-	CAB907	-	COG1338NU	type III secretion system protein
+1062123..1062407	+	94	62185508	-	CAB908	-	COG4794U	type III export protein
+1062414..1063283	+	289	62185509	-	CAB909	-	COG4791U	type III export protein
+1063373..1063816	-	147	62185510	-	CAB910	-	-	hypothetical protein
+1063908..1064912	-	334	62185511	-	CAB911	-	-	hypothetical protein
+1064915..1065457	-	180	62185512	-	CAB912	-	COG2165NU	periplasmic protein
+1065442..1065885	-	147	62185513	-	CAB913	-	-	hypothetical protein
+1065888..1066265	-	125	62185514	gspG	CAB914	-	COG2165NU	general secretion pathway protein G (periplasmic)
+1066284..1067459	-	391	62185515	gspF	CAB915	-	COG1459NU	general secretion pathway protein F
+1067470..1068963	-	497	62185516	gspE	CAB916	-	COG2804NU	general secretion pathway protein E
+1068953..1071214	-	753	62185517	gspD	CAB917	-	COG1450NU	general secretion pathway protein D
+1071215..1072528	-	437	62185518	-	CAB918	-	-	hypothetical protein
+1072649..1073719	-	356	62185519	-	CAB919	-	COG0006E	peptidase
+1073723..1075471	-	582	62185520	mutL	CAB920	-	COG0323L	DNA mismatch repair protein
+1075699..1076382	+	227	62185521	-	CAB921	-	COG4783R	regulatory protein
+1076406..1076795	+	129	62185522	-	CAB922	-	-	hypothetical protein
+1076834..1078318	+	494	62185523	-	CAB923	-	-	hypothetical protein
+1078348..1079670	+	440	62185524	-	CAB924	-	COG3846U	hypothetical protein
+1079746..1080648	-	300	62185525	-	CAB925	-	COG0697GER	exported membrane protein
+1080854..1082761	+	635	62185526	thrS	CAB926	-	COG0441J	threonyl-tRNA synthetase
+1082792..1083559	+	255	62185527	-	CAB927	-	COG1192D	chromosome partitioning protein
+1083564..1084316	+	250	62185528	-	CAB928	-	-	hypothetical protein
+1084319..1084873	+	184	62185529	-	CAB929	-	-	hypothetical protein
+1084885..1085922	+	345	62185530	trpS	CAB930	-	COG0180J	tryptophanyl-tRNA synthetase
+1085938..1087908	+	656	62185531	uvrB	CAB931	-	COG0556L	excinuclease ABC subunit B
+1088083..1089357	+	424	62185532	eno	CAB932	-	COG0148G	phosphopyruvate hydratase
+1089613..1091520	+	635	62185533	-	CAB933	-	COG2208TK	regulatory protein
+1091517..1093337	+	606	62185534	-	CAB934	-	COG2208TK	hypothetical protein
+1093897..1096788	+	963	62185535	-	CAB935	-	-	hypothetical protein
+1096785..1097576	-	263	62185536	sdhB	CAB936	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+1097591..1099474	-	627	62185537	sdhA	CAB937	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+1099479..1100375	-	298	62185538	sdhC	CAB938	-	COG2009C	succinate dehydrogenase subunit
+1100467..1101267	-	266	62185539	-	CAB939	-	COG0084L	hypothetical protein
+1101437..1103575	-	712	62185540	dsbD	CAB940	-	COG4232OC	thiol:disulfide interchange protein
+1103747..1104445	+	232	62185541	-	CAB941	-	COG0811U	transport protein TolQ
+1104442..1104849	+	135	62185542	exbD	CAB942	-	COG0848U	biopolymer transport protein ExbD
+1104852..1105610	+	252	62185543	-	CAB943	-	COG0810M	exported TonB protein
+1105630..1106913	+	427	62185544	tolB	CAB944	-	COG0823U	translocation protein TolB
+1106924..1107499	+	191	62185545	-	CAB945	-	COG2885M	peptidoglycan-associated protein (periplasmic)
+1107489..1108106	+	205	62185546	-	CAB946	-	COG1388M	periplasmic hydrolase
+1108205..1108603	+	132	62185547	-	CAB947	-	-	hypothetical protein
+1108600..1109190	-	196	62185548	-	CAB948	-	COG0450O	alkyl hydroperoxide reductase
+1109417..1111057	-	546	62185549	groEL	CAB949	-	COG0459O	molecular chaperone GroEL
+1111161..1112402	-	413	62185550	-	CAB951	-	COG3876S	hypothetical protein
+1112637..1113257	+	206	62185551	-	CAB952	-	COG0127F	deoxyribonucleotide triphosphate pyrophosphatase
+1113240..1113473	-	77	62185552	-	CAB953	-	-	hypothetical protein
+1113470..1114159	-	229	62185553	ung	CAB954	-	COG0692L	uracil-DNA glycosylase
+1114273..1116186	+	637	62185554	uvrD	CAB955	-	COG0210L	DNA helicase II, UvrD
+1116189..1117460	+	423	62185555	rpoN	CAB956	-	COG1508K	RNA polymerase factor sigma-54
+1117482..1118279	-	265	62185556	-	CAB957	-	-	hypothetical protein
+1118928..1121546	+	872	62185557	topA	CAB958	-	COG0550L	DNA topoisomerase I/SWI domain fusion protein
+1121492..1122511	-	339	62185558	-	CAB959	-	COG0042J	dihydrouridine synthase
+1122490..1122786	-	98	62185559	-	CAB960	-	COG0762S	hypothetical protein
+1122884..1124281	+	465	62185560	-	CAB961	-	-	hypothetical protein
+1124278..1124862	+	194	62185561	-	CAB962	-	-	lipoprotein
+1124853..1126130	+	425	62185562	-	CAB963	-	COG2849S	hypothetical protein
+1126133..1126675	+	180	62185563	-	CAB964	-	COG0212H	formyltetrahydrofolate cycloligase
+1127088..1128137	+	349	62185564	recA	CAB965	-	COG0468L	recombinase A
+1128190..1128915	-	241	62185565	-	CAB966	-	COG5424H	hypothetical protein
+1128938..1129666	-	242	62185566	-	CAB967	-	COG1478S	hypothetical protein
+1129638..1130126	-	162	62185567	folA	CAB968	-	COG0262H	dihydrofolate reductase
+1130119..1131462	-	447	62185568	folKP	CAB969	-	COG0294H	folate synthesis bifunctional protein
+1131869..1133584	-	571	62185569	sigA	CAB971	-	COG0568K	RNA polymerase sigma factor
+1133695..1134900	-	401	62185570	-	CAB972	-	COG1196D	hypothetical protein
+1135184..1135480	+	98	62185571	rpsT	CAB973	-	COG0268J	30S ribosomal protein S20
+1135500..1136333	+	277	62185572	-	CAB974	-	-	hypothetical protein
+1136343..1137857	-	504	62185573	recD	CAB975	-	COG0507L	exodeoxyribonuclease V subunit alpha
+1137872..1139716	-	614	62185574	-	CAB976	-	-	hypothetical protein
+1139912..1140625	+	237	62185575	-	CAB977	-	COG0745TK	transcriptional regulator
+1140685..1141299	+	204	62185576	-	CAB978	-	COG1207M	glucosamine-1-phosphate N-acetyltransferase
+1141316..1142197	+	293	62185577	ispA	CAB979	-	COG0142H	geranylgeranyl pyrophosphate synthase
+1142302..1142556	-	84	62185578	-	CAB980	-	-	hypothetical protein
+1142639..1144231	-	530	62185579	-	CAB981	-	COG1351F	hypothetical protein

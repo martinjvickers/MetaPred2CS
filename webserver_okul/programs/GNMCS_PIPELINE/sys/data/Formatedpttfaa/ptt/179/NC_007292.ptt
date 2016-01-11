@@ -1,0 +1,613 @@
+Candidatus Blochmannia pennsylvanicus str. BPEN chromosome, complete genome - 1..791654
+610 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1899	+	632	71891794	gidA	BPEN_001	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+2617..3426	+	269	71891795	atpB	BPEN_002	-	COG0356C	ATP synthase F0F1 subunit A
+3466..3705	+	79	71891796	atpE	BPEN_003	-	COG0636C	ATP synthase F0F1 subunit C
+3765..4247	+	160	71891797	atpF	BPEN_004	-	COG0711C	ATP synthase F0F1 subunit B
+4248..4793	+	181	71891798	atpH	BPEN_005	-	COG0712C	ATP synthase F1 subunit delta
+4831..6372	+	513	71891799	atpA	BPEN_006	-	COG0056C	ATP synthase F0F1 subunit alpha
+6405..7271	+	288	71891800	atpG	BPEN_007	-	COG0224C	ATP synthase F0F1 subunit gamma
+7302..8690	+	462	71891801	atpD	BPEN_008	-	COG0055C	ATP synthase F0F1 subunit beta
+8728..9162	+	144	71891802	atpC	BPEN_009	-	COG0355C	ATP synthase F1 subunit epsilon
+9294..10682	+	462	71891803	glmU	BPEN_010	-	COG1207M	N-acetyl glucosamine-1-phosphate uridyltransferase
+10913..12325	-	470	71891804	trmE	BPEN_011	-	COG0486R	tRNA modification GTPase TrmE
+12400..14316	-	638	71891805	yidCD	BPEN_012	-	COG0706U	hypothetical protein
+14295..14642	-	115	71891806	rnpA	BPEN_013	-	COG0594J	ribonuclease P
+14666..14818	-	50	71891807	rmpH	BPEN_014	-	COG0230J	50S ribosomal protein L34
+15161..16264	+	367	71891808	dnaN	BPEN_015	-	COG0592L	DNA polymerase III, beta-subunit
+16575..18989	+	804	71891809	gyrB	BPEN_016	-	COG0187L	DNA gyrase subunit B
+19201..19611	+	136	71891810	ibpA	BPEN_017	-	COG0071O	heat shock protein A
+19765..20772	-	335	71891811	-	BPEN_018	-	COG0628R	transmembrane protein
+21218..22132	+	304	71891812	glyQ	BPEN_019	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+22156..24243	+	695	71891813	glyS	BPEN_020	-	COG0751J	glycine-tRNA synthetase, beta subunit
+24354..24971	-	205	71891814	sodA	BPEN_021	-	COG0605P	superoxide dismutase (Mn)
+25566..27638	+	690	71891815	prlC	BPEN_023	-	COG0339E	oligopeptidase A
+28064..29686	-	540	71891816	pitA	BPEN_024	-	COG0306P	inorganic phosphate transporter
+30037..30909	+	290	71891817	ubiA	BPEN_025	-	COG0382H	4-hydroxybenzoate octaprenyltransferase
+31195..31668	-	157	71891818	zur	BPEN_026	-	COG0735P	Zn transport system transcriptional repressor
+32173..33588	+	471	71891819	dnaB	BPEN_027	-	COG0305L	replicative DNA helicase
+34030..34521	+	163	71891820	ssb	BPEN_028	-	COG0629L	ssDNA-binding protein controls activity of RecBCD nuclease
+35067..36710	+	547	71891821	yjcE	BPEN_029	-	COG0025P	CPA1 family Na+/H+ antiporter
+37404..38693	+	429	71891822	gltP	BPEN_030	-	COG1301C	glutamate/aspartate:proton symporter
+39009..39410	-	133	71891823	yjgF	BPEN_031	-	COG0251J	translation initiation inhibitor
+39495..40520	-	341	71891824	argI	BPEN_032	-	COG0078E	ornithine carbamoyltransferase subunit I
+40789..43662	-	957	71891825	valS	BPEN_033	-	COG0525J	valine tRNA synthetase
+43659..44111	-	150	71891826	holC	BPEN_034	-	COG2927L	DNA polymerase III subunit chi
+44226..45737	-	503	71891827	pepA	BPEN_035	-	COG0260E	leucyl aminopeptidase
+45983..47104	+	373	71891828	yjgP	BPEN_036	-	COG0795R	transmembrane protein, transport
+47110..48183	+	357	71891829	yjgQ	BPEN_037	-	COG0795R	transmembrane protein, transport
+48217..49116	-	299	71891830	yidZ	BPEN_038	-	COG0583K	transcriptional regulator
+49993..50130	+	45	71891831	-	BPEN_040	-	-	hypothetical protein
+50149..50796	+	215	71891832	znuC	BPEN_041	-	COG1121P	high-affinity Zn ABC transporter ATP-binding protein
+50887..51747	+	286	71891833	znuB	BPEN_042	-	COG1108P	high-affinity Zn ABC transporter membrane protein
+52506..53231	-	241	71891834	yhbG	BPEN_043	-	COG1137R	ABC transporter ATP-binding protein
+53277..53786	-	169	71891835	yhbN	BPEN_044	-	COG1934S	ABC transporter periplasmic substrate-binding protein
+53764..54381	-	205	71891836	yrbK	BPEN_045	-	COG3117S	hypothetical protein
+56953..57222	+	89	71891837	yrbA	BPEN_046	-	COG5007K	BolA family transcriptional regulator
+57272..58537	+	421	71891838	murA	BPEN_047	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+58826..60199	-	457	71891839	degQ	BPEN_048	-	COG0265O	serine protease
+60426..60824	-	132	71891840	yhcB	BPEN_049	-	COG3105S	hypothetical protein
+61354..61788	+	144	71891841	rplM	BPEN_050	-	COG0102J	50S ribosomal protein L13
+61816..62214	+	132	71891842	rpsI	BPEN_051	-	COG0103J	30S ribosomal protein S9
+63709..64299	-	196	71891843	yraP	BPEN_052	-	COG2823R	hypothetical protein
+64871..65764	+	297	71891844	yraL	BPEN_053	-	COG0313R	hypothetical protein
+66815..67381	+	188	71891845	yqjA	BPEN_055	-	COG0586S	hypothetical protein
+67947..69782	-	611	71891846	rpoD	BPEN_057	-	COG0568K	RNA polymerase sigma-70 factor
+69956..71701	-	581	71891847	dnaG	BPEN_058	-	COG0358L	DNA primase
+71861..72076	-	71	71891848	rpsU	BPEN_059	-	COG0828J	30S ribosomal protein S21
+72239..73264	+	341	71891849	gcp	BPEN_060	-	COG0533O	O-sialoglycoprotein endopeptidase
+73289..73876	-	195	71891850	ygiH	BPEN_061	-	COG0344S	hypothetical protein
+73996..74379	+	127	71891851	folB	BPEN_062	-	COG1539H	dihydroneopterin aldolase, also has dihydroneopterin triphosphate
+74475..75359	+	294	71891852	bacA	BPEN_063	-	COG1968V	bacitracin resistance protein
+75623..76849	-	408	71891853	cca	BPEN_064	-	COG0617J	tRNA CCA-pyrophosphorylase
+77297..78730	+	477	71891854	hldE	BPEN_065	-	COG2870M	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase
+79574..80218	+	214	71891855	ribB	BPEN_067	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+80554..81291	+	245	71891856	plsC	BPEN_068	-	COG0204I	1-acylglycerol-3-phosphate O-acyltransferase
+81475..82662	-	395	71891857	metC	BPEN_069	-	COG0626E	beta-cystathionase
+84670..84987	-	105	71891858	cutA	BPEN_071	-	COG1324P	divalent cation tolerance protein
+85399..85692	+	97	71891859	groES	BPEN_072	-	COG0234O	co-chaperonin GroES
+85742..87379	+	545	71891860	groEL	BPEN_073	-	COG0459O	molecular chaperone GroEL
+87508..88074	+	188	71891861	efp	BPEN_074	-	COG0231J	elongation factor P
+88088..91480	-	1130	71891862	yjeP	BPEN_075	-	COG3264M	hypothetical protein
+91537..92424	-	295	71891863	psd	BPEN_076	-	COG0688I	phosphatidylserine decarboxylase
+93133..93696	+	187	71891864	orn	BPEN_077	-	COG1949A	oligoribonuclease
+94487..94975	+	162	71891865	yjeE	BPEN_079	-	COG0802R	nucleoside triP hydrolase domain-containing protein
+94972..96243	+	423	71891866	amiB	BPEN_080	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+96505..97419	+	304	71891867	miaA	BPEN_081	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+97510..97755	+	81	71891868	hfq	BPEN_082	-	COG1923R	host factor I
+97918..99204	+	428	71891869	hflX	BPEN_083	-	COG2262R	hypothetical protein
+99260..100555	+	431	71891870	hflK	BPEN_084	-	COG0330O	HflK protein
+100556..101584	+	342	71891871	hflC	BPEN_085	-	COG0330O	FtsH protease regulator HflC
+101746..103044	+	432	71891872	purA	BPEN_086	-	COG0104F	adenylosuccinate synthetase
+103280..104023	+	247	71891873	rlmB	BPEN_087	-	COG0566J	tRNA/rRNA methyltransferase
+104194..104547	+	117	71891874	rpsF	BPEN_088	-	COG0360J	30S ribosomal protein S6
+104772..105011	+	79	71891875	rpsR	BPEN_089	-	COG0238J	30S ribosomal protein S18
+105066..105527	+	153	71891876	rplI	BPEN_090	-	COG0359J	50S ribosomal protein L9
+105822..106577	+	251	71891877	cysQ	BPEN_091	-	COG1218P	protein CysQ
+106992..108754	+	587	71892399	ytfM	BPEN_092	-	COG0729M	outer membrane protein
+108751..112590	+	1279	71891878	ytfN	BPEN_093	-	COG2911S	hypothetical protein
+112666..113199	-	177	71891879	ppa	BPEN_094	-	COG0221C	inorganic pyrophosphatase
+113396..114367	-	323	71891880	ispB	BPEN_095	-	COG0142H	octaprenyl-diphosphate synthase
+114559..114876	+	105	71891881	rplU	BPEN_096	-	COG0261J	50S ribosomal protein L21
+114922..115176	+	84	71891882	rpmA	BPEN_097	-	COG0211J	50S ribosomal protein L27
+115536..116558	+	340	71891883	obgE	BPEN_098	-	COG0536R	GTPase ObgE
+116889..117365	+	158	71891884	greA	BPEN_099	-	COG0782K	transcription elongation factor GreA
+117742..118368	+	208	71891885	rrmJ	BPEN_100	-	COG0293J	ribosomal RNA large subunit (23S) methyltransferase J
+118442..120370	+	642	71891886	hflB	BPEN_101	-	COG0465O	hypothetical protein
+120501..121340	+	279	71891887	folP	BPEN_102	-	COG0294H	7,8-dihydropteroate synthase
+121354..122715	+	453	71891888	glmM	BPEN_103	-	COG1109G	phosphoglucosamine mutase
+122862..123143	+	93	71891889	secG	BPEN_104	-	COG1314U	preprotein translocase, membrane component
+124047..125564	+	505	71891890	nusA	BPEN_107	-	COG0195K	transcription elongation factor NusA
+125595..128270	+	891	71891891	infB	BPEN_108	-	COG0532J	translation initiation factor IF-2
+128361..128720	+	119	71891892	rbfA	BPEN_109	-	COG0858J	30S ribosome-binding factor
+128757..129539	+	260	71891893	truB	BPEN_110	-	COG0130J	tRNA pseudouridine 5S synthase
+129869..130138	+	89	71891894	rpsO	BPEN_111	-	COG0184J	30S ribosomal protein S15
+130316..132415	+	699	71891895	pnp	BPEN_112	-	COG1185J	polynucleotide phosphorylase
+133041..134750	+	569	71891896	deaD	BPEN_113	-	COG0513LKJ	cold-shock DeaD box ATP-dependent RNA helicase
+134912..135334	+	140	71891897	holD	BPEN_114	-	COG3050L	DNA polymerase III subunit psi
+136300..138750	+	816	71891898	thrA	BPEN_115	-	COG0527E	bifunctional aspartokinase I/homoserine dehydrogenase I
+138774..139712	+	312	71891899	thrB	BPEN_116	-	COG0083E	homoserine kinase
+139712..141013	+	433	71891900	thrC	BPEN_117	-	COG0498E	threonine synthase
+141383..143296	+	637	71891901	dnaK	BPEN_118	-	COG0443O	molecular chaperone DnaK
+143420..144547	+	375	71891902	dnaJ	BPEN_119	-	COG0484O	molecular chaperone DnaJ
+144617..144883	-	88	71891903	rpsT	BPEN_120	-	COG0268J	30S ribosomal protein S20
+145136..146110	+	324	71891904	ribF	BPEN_121	-	COG0196H	bifunctional flavokinase/FAD synthetase
+146107..148935	+	942	71891905	ileS	BPEN_122	-	COG0060J	isoleucyl-tRNA synthetase
+148935..149432	+	165	71891906	lspA	BPEN_123	-	COG0597MU	prolipoprotein signal peptidase
+149587..150522	+	311	71891907	ispH	BPEN_124	-	COG0761IM	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+150726..151574	+	282	71891908	dapB	BPEN_125	-	COG0289E	dihydrodipicolinate reductase
+151822..152961	+	379	71891909	carA	BPEN_126	-	COG0505EF	carbamoyl phosphate synthase small subunit
+152983..156210	+	1075	71891910	carB	BPEN_127	-	COG0458EF	carbamoyl-phosphate synthase large subunit
+156320..156814	+	164	71891911	folA	BPEN_128	-	COG0262H	dihydrofolate reductase type I
+156974..157795	-	273	71891912	apaH	BPEN_129	-	COG0639T	diadenosine tetraphosphatase
+158188..158991	-	267	71891913	ksgA	BPEN_130	-	COG0030J	dimethyladenosine transferase
+158972..159991	-	339	71891914	pdxA	BPEN_131	-	COG1995H	pyridoxine phosphate biosynthetic protein PdxJ-PdxA subunit, NAD-dependent dehydrogenase/carboxylase
+159993..161270	-	425	71891915	surA	BPEN_132	-	-	peptidyl-prolyl cis-trans isomerase
+161321..163669	-	782	71891916	imp	BPEN_133	-	COG1452M	organic solvent tolerance protein
+164259..164867	-	202	71891917	leuD	BPEN_134	-	COG0066E	isopropylmalate isomerase small subunit
+164892..166292	-	466	71891918	leuC	BPEN_135	-	COG0065E	isopropylmalate isomerase large subunit
+166294..167394	-	366	71891919	leuB	BPEN_136	-	COG0473CE	3-isopropylmalate dehydrogenase
+167418..168971	-	517	71891920	leuA	BPEN_137	-	COG0119E	2-isopropylmalate synthase
+169378..170367	+	329	71891921	mraW	BPEN_138	-	COG0275M	S-adenosyl-methyltransferase MraW
+170370..170684	+	104	71891922	ftsL	BPEN_139	-	COG3116D	cell division protein
+170769..172463	+	564	71891923	ftsI	BPEN_140	-	COG0768M	division-specific transpeptidase
+172499..174010	+	503	71891924	murE	BPEN_141	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+174007..175380	+	457	71891925	murF	BPEN_142	-	COG0770M	D-alanine:D-alanine-adding enzyme
+175365..176453	+	362	71891926	mraY	BPEN_143	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide transferase
+176458..177780	+	440	71891927	murD	BPEN_144	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+177780..178976	+	398	71891928	ftsW	BPEN_145	-	COG0772D	cell division protein
+178973..180040	+	355	71891929	murG	BPEN_146	-	COG0707M	UDP-N-acetylglucosamine:N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+180099..181541	+	480	71891930	murC	BPEN_147	-	COG0773M	UDP-N-acetyl-muramate:alanine ligase
+181677..182471	+	264	71891931	ftsQ	BPEN_148	-	COG1589M	cell division protein
+182506..183762	+	418	71891932	ftsA	BPEN_149	-	COG0849D	cell division protein FtsA
+183838..185004	+	388	71891933	ftsZ	BPEN_150	-	COG0206D	cell division protein FtsZ
+185108..186001	+	297	71891934	lpxC	BPEN_151	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+186811..189546	+	911	71891935	secA	BPEN_152	-	COG0653U	preprotein translocase subunit SecA
+189805..190443	-	212	71891936	coaE	BPEN_153	-	COG0237H	dephospho-CoA kinase
+191027..191491	+	154	71891937	dksA	BPEN_154	-	COG1734T	dosage-dependent dnaK suppressor protein
+191738..192232	+	164	71891938	folK	BPEN_155	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+193981..195405	-	474	71891939	lpdA	BPEN_156	-	COG1249C	dihydrolipoamide dehydrogenase, FAD/NAD(P)-binding, E3 component of the 2-oxoglutarate dehydrogenase and the pyruvate dehydrogenase complexes
+195617..196888	-	423	71891940	aceF	BPEN_157	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+196900..199566	-	888	71891941	aceE	BPEN_158	-	COG2609C	pyruvate dehydrogenase subunit E1
+201636..203972	+	778	71891942	mrcB	BPEN_159	-	COG0744M	penicillin-binding protein 1b
+204313..204666	+	117	71891943	yadR	BPEN_160	-	COG0316S	iron-sulfur cluster insertion protein ErpA
+205130..206776	+	548	71891944	pyrG	BPEN_161	-	COG0504F	CTP synthetase
+206853..208151	+	432	71891945	eno	BPEN_162	-	COG0148G	phosphopyruvate hydratase
+208744..210564	+	606	71891946	cysJ	BPEN_163	-	COG0369P	sulfite reductase subunit alpha (flavoprotein)
+210564..212291	+	575	71891947	cysI	BPEN_164	-	COG0155P	sulfite reductase subunit beta
+212284..213045	+	253	71891948	cysH	BPEN_165	-	COG0175EH	phosphoadenosine phosphosulfate reductase
+213326..214750	+	474	71891949	cysG	BPEN_166	-	COG0007H	1,3-dimethyluroporphyriongen III dehydrogenase
+214767..215681	+	304	71891950	cysD	BPEN_167	-	COG0175EH	sulfate adenylyltransferase subunit 2
+215691..217121	+	476	71891951	cysN	BPEN_168	-	COG2895P	ATP-sulfurylase, subunit 1
+217135..217770	+	211	71891952	cysC	BPEN_169	-	COG0529P	adenosine 5'-phosphosulfate kinase
+218140..218415	+	91	71891953	ygbQ	BPEN_170	-	COG2919D	cell division protein
+218487..219194	+	235	71891954	ispD	BPEN_171	-	COG1211I	4-diphosphocytidyl-2C-methyl-D-erythritol synthase
+219209..219682	+	157	71891955	ispF	BPEN_172	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+220332..221285	+	317	71891956	nlpD	BPEN_173	-	COG0739M	lipoprotein NlpD
+222183..224822	+	879	71891957	alaS	BPEN_174	-	COG0013J	alanyl-tRNA synthetase
+225010..225195	+	61	71891958	csrA	BPEN_175	-	COG1551T	carbon storage regulator
+225699..227060	+	453	71891959	ffh	BPEN_178	-	COG0541U	4.5S-RNP protein
+227157..227399	+	80	71891960	rpsP	BPEN_179	-	COG0228J	30S ribosomal protein S16
+227396..227965	+	189	71891961	rimM	BPEN_180	-	COG0806J	16S rRNA-processing protein RimM
+227992..228759	+	255	71891962	trmD	BPEN_181	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+228767..229117	+	116	71891963	rplS	BPEN_182	-	COG0335J	50S ribosomal protein L19
+229622..230707	+	361	71891964	aroF	BPEN_183	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+230704..231831	+	375	71891965	tyrA	BPEN_184	-	COG0287E	bifunctional chorismate mutase/prephenate dehydrogenase
+232079..232969	-	296	71891966	pheA	BPEN_185	-	COG0077E	chorismate mutase P
+233191..233934	-	247	71891967	yfiO	BPEN_186	-	COG4105R	lipoprotein
+234005..235036	+	343	71891968	rluD	BPEN_187	-	COG0564J	pseudouridine synthase
+235325..237901	+	858	71891969	clpB	BPEN_188	-	COG0542O	ATP-dependent protease
+238230..239267	+	345	71891970	murB	BPEN_189	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+239424..240239	+	271	71891971	birA	BPEN_190	-	COG0340H	biotin-[acetylCoA carboxylase] holoenzyme synthetase
+240388..241329	-	313	71891972	coaA	BPEN_191	-	COG1072H	pantothenate kinase
+242155..242625	+	156	71891973	bfr	BPEN_196	-	COG2193P	bacterioferritin
+242945..243256	+	103	71891974	rpsJ	BPEN_197	-	COG0051J	30S ribosomal protein S10
+243362..244015	+	217	71891975	rplC	BPEN_198	-	COG0087J	50S ribosomal protein L3
+244016..244648	+	210	71891976	rplD	BPEN_199	-	COG0088J	50S ribosomal protein L4
+244645..244947	+	100	71891977	rplW	BPEN_200	-	COG0089J	50S ribosomal protein L23
+244971..245798	+	275	71891978	rplB	BPEN_201	-	COG0090J	50S ribosomal protein L2
+245825..246106	+	93	71891979	rpsS	BPEN_202	-	COG0185J	30S ribosomal protein S19
+246156..246485	+	109	71891980	rplV	BPEN_203	-	COG0091J	50S ribosomal protein L22
+246519..247229	+	236	71891981	rpsC	BPEN_204	-	COG0092J	30S ribosomal protein S3
+247241..247645	+	134	71891982	rplP	BPEN_205	-	COG0197J	50S ribosomal protein L16
+247645..247857	+	70	71891983	rpmC	BPEN_206	-	COG0255J	50S ribosomal protein L29
+247872..248126	+	84	71891984	rpsQ	BPEN_207	-	COG0186J	30S ribosomal protein S17
+248249..248620	+	123	71891985	rplN	BPEN_208	-	COG0093J	50S ribosomal protein L14
+248636..248956	+	106	71891986	rplX	BPEN_209	-	COG0198J	50S ribosomal protein L24
+248969..249508	+	179	71891987	rplE	BPEN_210	-	COG0094J	50S ribosomal protein L5
+249541..249846	+	101	71891988	rpsN	BPEN_211	-	COG0199J	30S ribosomal protein S14
+249878..250273	+	131	71891989	rpsH	BPEN_212	-	COG0096J	30S ribosomal protein S8
+250263..250829	+	188	71891990	rplF	BPEN_213	-	COG0097J	50S ribosomal protein L6
+250861..251214	+	117	71891991	rplR	BPEN_214	-	COG0256J	50S ribosomal protein L18
+251230..251754	+	174	71891992	rpsE	BPEN_215	-	COG0098J	30S ribosomal protein S5
+251937..252371	+	144	71891993	rplO	BPEN_217	-	COG0200J	50S ribosomal protein L15
+252382..253719	+	445	71891994	secY	BPEN_218	-	COG0201U	preprotein translocase, membrane component
+253758..253874	+	38	71891995	rmpJ	BPEN_219	-	COG0257J	50S ribosomal protein L36
+253923..254288	+	121	71891996	rpsM	BPEN_220	-	COG0099J	30S ribosomal protein S13
+254320..254712	+	130	71891997	rpsK	BPEN_221	-	COG0100J	30S ribosomal protein S11
+254750..255373	+	207	71891998	rpsD	BPEN_222	-	COG0522J	30S ribosomal protein S4
+255408..256400	+	330	71891999	rpoA	BPEN_223	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+256441..256818	+	125	71892000	rplQ	BPEN_224	-	COG0203J	50S ribosomal protein L17
+256879..257847	-	322	71892001	fmt	BPEN_225	-	COG0223J	methionyl-tRNA formyltransferase
+257858..258379	-	173	71892002	def	BPEN_226	-	COG0242J	peptide deformylase
+258767..259351	+	194	71892003	yrdC	BPEN_227	-	COG0009J	RNA-binding protein
+259379..260254	+	291	71892004	aroE	BPEN_228	-	COG0169E	shikimate 5-dehydrogenase
+260930..261685	-	251	71892005	gloB	BPEN_230	-	COG0491R	hydroxyacylglutathione hydrolase
+261986..262441	-	151	71892006	rnhA	BPEN_231	-	COG0328L	ribonuclease H
+262500..263249	+	249	71892007	dnaQ	BPEN_232	-	COG0847L	DNA polymerase III subunit epsilon
+263467..264054	+	195	71892008	gmhA	BPEN_233	-	COG0279G	phosphoheptose isomerase
+264460..265062	-	200	71892009	ahpC	BPEN_235	-	COG0450O	alkyl hydroperoxide reductase
+266542..267648	+	368	71892010	tgt	BPEN_236	-	COG0343J	queuine tRNA-ribosyltransferase
+267721..268068	+	115	71892011	yajC	BPEN_237	-	COG1862U	preprotein translocase, auxillary membrane component
+268103..269962	+	619	71892012	secD	BPEN_238	-	COG0342U	preprotein translocase subunit SecD
+270024..270941	+	305	71892013	secF	BPEN_239	-	COG0341U	preprotein translocase subunit SecF
+271407..272546	+	379	71892014	ribD	BPEN_240	-	COG0117H	pyrimidine deaminase/reductase
+272651..273127	+	158	71892015	ribH	BPEN_241	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+273155..273589	+	144	71892016	nusB	BPEN_242	-	COG0781K	transcription antitermination protein NusB
+273677..274168	+	163	71892017	pgpA	BPEN_243	-	COG1267I	phosphatidylglycerophosphatase A
+274265..276139	-	624	71892018	dxs	BPEN_244	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+276175..277095	-	306	71892019	ispA	BPEN_245	-	COG0142H	geranyltranstransferase
+277383..278843	+	486	71892020	thiI	BPEN_246	-	COG0301H	thiamine biosynthesis protein ThiI
+279173..280333	-	386	71892021	yajR	BPEN_247	-	COG2814G	MFS family transporter
+280494..281378	-	294	71892022	cyoE	BPEN_248	-	COG0109O	protoheme IX farnesyltransferase
+281398..281700	-	100	71892023	cyoD	BPEN_249	-	COG3125C	cytochrome o ubiquinol oxidase, subunit IV
+281704..282291	-	195	71892024	cyoC	BPEN_250	-	COG1845C	cytochrome o ubiquinol oxidase subunit III
+282269..284230	-	653	71892025	cyoB	BPEN_251	-	COG0843C	cytochrome o ubiquinol oxidase subunit I
+284306..285190	-	294	71892026	cyoA	BPEN_252	-	COG1622C	cytochrome o ubiquinol oxidase subunit II
+287418..288044	+	208	71892027	clpP	BPEN_253	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+288183..289442	+	419	71892028	clpX	BPEN_254	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+289623..289877	-	84	71892029	yggX	BPEN_255	-	COG2924CO	hypothetical protein
+289949..290998	-	349	71892030	mutY	BPEN_256	-	COG1194L	adenine DNA glycosylase
+291941..292375	-	144	71892031	yqgF	BPEN_257	-	COG0816L	Holliday junction resolvase-like protein
+292368..292952	-	194	71892032	yqgE	BPEN_258	-	COG1678K	hypothetical protein
+293740..294909	-	389	71892033	metK	BPEN_259	-	COG0192H	S-adenosylmethionine synthetase
+295662..296582	+	306	71892034	speB	BPEN_260	-	COG0010E	agmatinase
+297078..298262	+	394	71892035	pgk	BPEN_261	-	COG0126G	phosphoglycerate kinase
+298347..299429	+	360	71892036	fbaA	BPEN_262	-	COG0191G	fructose-bisphosphate aldolase
+299768..300424	+	218	71892037	rpiA	BPEN_263	-	COG0120G	ribose-5-phosphate isomerase A
+300664..301275	-	203	71892038	ygfA	BPEN_264	-	COG0212H	ligase
+301417..301761	-	114	71892039	ygfE	BPEN_265	-	COG3027S	Z-ring-associated protein
+302617..303807	+	396	71892040	ubiH	BPEN_266	-	COG0654HC	2-octaprenyl-6-methoxyphenol hydroxylase
+303831..305054	+	407	71892041	visC	BPEN_267	-	COG0654HC	monooxygenase
+305107..306099	-	330	71892042	ygfZ	BPEN_268	-	COG0354R	aminomethyltransferase
+306663..307709	+	348	71892043	prfB	BPEN_269	-	COG1186J	peptide chain release factor 2
+307702..309231	+	509	71892044	lysS	BPEN_270	-	COG1190J	lysyl-tRNA synthetase
+309411..310700	+	429	71892045	lysA	BPEN_271	-	COG0019E	diaminopimelate decarboxylase
+311330..311806	+	158	71892046	ygdP	BPEN_272	-	COG0494LR	dinucleoside polyphosphate hydrolase
+311989..312834	+	281	71892047	lgt	BPEN_273	-	COG0682M	prolipoprotein diacylglyceryl transferase
+313298..316699	+	1133	71892048	recC	BPEN_274	-	COG1330L	exonuclease V subunit gamma
+316824..318731	-	635	71892049	recD	BPEN_275	-	COG0507L	exonuclease V subunit alpha
+319015..322578	-	1187	71892050	recB	BPEN_276	-	COG1074L	exonuclease V
+322804..323625	-	273	229558494	dapD	BPEN_277	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+324077..324859	-	260	71892052	map	BPEN_278	-	COG0024J	methionine aminopeptidase
+325186..325872	+	228	71892053	rpsB	BPEN_279	-	COG0052J	30S ribosomal protein S2
+325958..326776	+	272	71892054	tsf	BPEN_280	-	COG0264J	elongation factor Ts
+326982..327707	+	241	71892055	pyrH	BPEN_281	-	COG0528F	uridylate kinase
+327793..328359	+	188	71892056	frr	BPEN_282	-	COG0233J	ribosome recycling factor
+328454..329647	+	397	71892057	dxr	BPEN_283	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+329804..330556	+	250	71892058	uppS	BPEN_284	-	COG0020I	undecaprenyl pyrophosphate synthetase
+330588..331448	+	286	71892059	cdsA	BPEN_285	-	COG0575I	phosphatidate cytidylyltransferase
+331484..332857	+	457	71892060	ecfE	BPEN_286	-	COG0750M	hypothetical protein
+332902..335325	+	807	71892061	yaeT	BPEN_287	-	COG4775M	hypothetical protein
+335405..335905	+	166	71892062	hlpA	BPEN_288	-	COG2825M	histone-like protein
+335909..336940	+	343	71892063	lpxD	BPEN_289	-	COG1044M	UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase
+337040..337495	+	151	71892064	fabZ	BPEN_290	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+337500..338288	+	262	71892065	lpxA	BPEN_291	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+338291..339454	+	387	71892066	lpxB	BPEN_292	-	COG0763M	lipid-A-disaccharide synthase
+339451..340104	+	217	71892067	rnhB	BPEN_293	-	COG0164L	ribonuclease HII
+340151..343642	+	1163	71892068	dnaE	BPEN_294	-	COG0587L	DNA polymerase III subunit alpha
+343661..344620	+	319	71892069	accA	BPEN_295	-	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+344776..346308	+	510	71892070	tilS	BPEN_296	-	COG0037D	tRNA(Ile)-lysidine synthetase
+346510..348255	-	581	71892071	proS	BPEN_297	-	COG0442J	prolyl-tRNA synthetase
+348625..349209	+	194	71892072	gmhB	BPEN_298	-	COG0241E	D,D-heptose 1,7-bisphosphate phosphatase
+349344..350699	-	451	71892073	accC	BPEN_299	-	COG0439I	acetyl CoA carboxylase, biotin carboxylase subunit
+350710..351162	-	150	71892074	accB	BPEN_300	-	COG0511I	acetylCoA carboxylase BCCP subunit
+351184..351642	-	152	71892075	aroQ	BPEN_301	-	COG0757E	3-dehydroquinate dehydratase
+352331..353374	+	347	71892076	mreB	BPEN_302	-	COG1077D	rod shape-determining protein MreB
+353495..354310	+	271	71892077	mreC	BPEN_303	-	COG1792M	rod shape-determining protein MreC
+354421..354900	+	159	71892078	mreD	BPEN_304	-	COG2891M	rod shape-determining protein
+355310..356773	+	487	71892079	tldD	BPEN_305	-	COG0312R	hypothetical protein
+357217..358557	+	446	71892080	pmbA	BPEN_306	-	COG0312R	hypothetical protein
+359892..362255	+	787	71892081	lon	BPEN_307	-	COG0466O	DNA-binding ATP-dependent protease La
+363915..364469	+	184	71892082	apt	BPEN_308	-	COG0503F	adenine phosphoribosyltransferase
+364540..366636	+	698	71892083	dnaX	BPEN_309	-	COG2812L	DNA polymerase III, tau and gamma subunits
+367270..367923	+	217	71892084	adk	BPEN_310	-	COG0563F	ATP-AMP transphosphorylase
+368807..369559	-	250	71892085	lpxH	BPEN_311	-	COG2908S	UDP-2,3-diacylglucosamine hydrolase
+369936..371357	+	473	71892086	cysS	BPEN_312	-	COG0215J	cysteinyl-tRNA synthetase
+371401..372261	-	286	71892087	folD	BPEN_313	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+372689..373630	+	313	71892088	ytfF	BPEN_315	-	COG0697GER	cationic amino acid transport protein
+374085..375197	-	370	71892089	mrdB	BPEN_316	-	COG0772D	rod shape-determining protein
+375262..377112	-	616	71892090	mrdA	BPEN_317	-	COG0768M	cell elongation-specific transpeptidase of penicillin-binding protein 2
+377234..377551	-	105	71892091	ybeB	BPEN_318	-	COG0799S	hypothetical protein
+378161..379189	-	342	71892092	holA	BPEN_319	-	COG1466L	DNA polymerase III subunit delta
+379255..379818	-	187	71892093	rlpB	BPEN_320	-	COG2980M	rare lipoprotein B
+379823..382441	-	872	71892094	leuS	BPEN_321	-	COG0495J	leucyl-tRNA synthetase
+382717..384249	-	510	71892095	lnt	BPEN_322	-	COG0815M	apolipoprotein N-acyltransferase
+384252..385136	-	294	71892096	ybeX	BPEN_323	-	COG4535P	hypothetical protein
+385169..385642	-	157	71892097	ybeY	BPEN_324	-	COG0319R	hypothetical protein
+385753..386745	-	330	71892098	phoL	BPEN_325	-	COG1702T	ATP-binding protein
+387214..388384	+	389	71892400	ubiF	BPEN_326	-	COG0654HC	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol oxygenase
+389409..390569	-	386	71892099	nagA	BPEN_330	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+390580..391383	-	267	71892100	nagB	BPEN_331	-	COG0363G	glucosamine-6-phosphate deaminase
+392299..393957	+	552	71892101	glnS	BPEN_332	-	COG0008J	glutaminyl-tRNA synthetase
+394115..394642	-	175	71892102	fldA	BPEN_333	-	COG0716C	flavodoxin FldA
+394862..395626	-	254	71892103	ybfF	BPEN_334	-	COG0596R	alpha/beta hydrolase
+395951..397609	+	552	71892104	pgm	BPEN_335	-	COG0033G	phosphoglucomutase
+398327..398470	-	47	71892402	-	BPEN_336	-	-	hypothetical protein
+399359..399766	+	135	71892105	sdhC	BPEN_337	-	COG2009C	succinate dehydrogenase cytochrome b-556 subunit
+399742..400089	+	115	71892106	sdhD	BPEN_338	-	COG2142C	succinate dehydrogenase hydrophobic membrane anchor protein
+400090..401874	+	594	71892107	sdhA	BPEN_339	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+401891..402637	+	248	71892108	sdhB	BPEN_340	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+402838..405699	+	953	71892109	sucA	BPEN_341	-	COG0567C	2-oxoglutarate dehydrogenase E1
+405720..406964	+	414	71892110	sucB	BPEN_342	-	COG0508C	dihydrolipoamide succinyltransferase E2 component
+407081..408256	+	391	71892111	sucC	BPEN_343	-	COG0045C	succinyl-CoA synthetase subunit beta
+408240..409121	+	293	71892112	sucD	BPEN_344	-	COG0074C	succinyl-CoA synthetase subunit alpha
+409499..410248	+	249	71892113	tolQ	BPEN_345	-	COG0811U	hypothetical protein
+410217..410642	+	141	71892114	tolR	BPEN_346	-	COG0848U	hypothetical protein
+410688..411872	+	394	71892115	tolA	BPEN_347	-	COG3064M	hypothetical protein
+411950..413311	+	453	71892116	tolB	BPEN_348	-	COG0823U	translocation protein TolB
+413371..413898	+	175	71892117	pal	BPEN_349	-	COG2885M	hypothetical protein
+413906..414691	+	261	71892118	ybgF	BPEN_350	-	COG1729S	hypothetical protein
+415746..416759	-	337	71892119	ybhE	BPEN_351	-	COG2706G	6-phosphogluconolactonase
+417047..417745	+	232	71892120	gpmA	BPEN_352	-	COG0588G	phosphoglycerate mutase
+417934..418644	+	236	71892121	ybhL	BPEN_353	-	COG0670R	transport protein
+418754..419830	-	358	71892122	ychF	BPEN_354	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+419924..420517	-	197	71892123	pth	BPEN_355	-	COG0193J	peptidyl-tRNA hydrolase
+420762..421700	-	312	71892124	prsA	BPEN_356	-	COG0462FE	ribose-phosphate pyrophosphokinase
+421786..422673	-	295	71892125	ispE	BPEN_357	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+422670..423287	-	205	71892126	lolB	BPEN_358	-	COG3017M	outer membrane lipoprotein
+423967..425049	+	360	71892127	prfA	BPEN_359	-	COG0216J	peptide chain release factor 1
+425049..425885	+	278	71892128	hemK	BPEN_360	-	COG2890J	N5-glutamine methyltransferase
+426212..427045	+	277	71892129	kdsA	BPEN_361	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+429232..430458	+	408	71892130	thrS	BPEN_362	-	COG0441J	threonyl-tRNA synthetase
+430465..431004	+	179	71892131	infC	BPEN_363	-	COG0290J	translation initiation factor IF-3
+431067..431264	+	65	71892132	rpmI	BPEN_364	-	COG0291J	50S ribosomal protein L35
+431338..431700	+	120	71892133	rplT	BPEN_365	-	COG0292J	50S ribosomal protein L20
+431885..432880	+	331	71892134	pheS	BPEN_366	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+432894..435287	+	797	71892135	pheT	BPEN_367	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+435873..436892	+	339	71892136	lplA	BPEN_368	-	COG0095H	lipoate-protein ligase A
+437376..437756	+	126	71892137	sufA	BPEN_369	-	COG0316S	Fe-S cluster assembly protein
+437771..439267	+	498	71892138	sufB	BPEN_370	-	COG0719O	cysteine desulfurase
+439324..440064	+	246	71892139	sufC	BPEN_371	-	COG0396O	Fe-S cluster assembly ABC transporter ATP-binding protein
+440045..441334	+	429	71892140	sufD	BPEN_372	-	COG0719O	cysteine desulfurase
+441331..442557	+	408	71892141	sufS	BPEN_373	-	COG0520E	selenocysteine lyase
+442576..443004	+	142	71892142	sufE	BPEN_374	-	COG2166R	SufE Fe/S-cluster-like protein
+443123..443359	-	78	71892143	lpp	BPEN_375	-	COG4238M	murein lipoprotein
+444000..444623	+	207	71892144	ribE	BPEN_377	-	COG0307H	riboflavin synthase subunit alpha
+444788..445120	+	110	71892145	ydhD	BPEN_378	-	COG0278O	hypothetical protein
+445293..445946	-	217	71892146	rnt	BPEN_379	-	COG0847L	ribonuclease T
+446720..447154	+	144	71892147	slyA	BPEN_380	-	COG1846K	transcriptional regulator SlyA
+447480..448130	+	216	71892148	pdxH	BPEN_381	-	COG0259H	pyridoxamine 5'-phosphate oxidase
+448260..449543	+	427	71892149	tyrS	BPEN_382	-	COG0162J	tyrosyl-tRNA synthetase
+449664..450305	-	213	71892150	nth	BPEN_383	-	COG0177L	endonuclease III
+450402..451802	-	466	71892151	fumC	BPEN_384	-	COG0114C	fumarate hydratase
+452045..454054	+	669	71892152	eaeH	BPEN_385	-	-	adhesin
+454174..454788	-	204	71892153	ubiX	BPEN_386	-	COG0163H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+455118..455906	-	262	71892154	kdsB	BPEN_387	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+455918..456085	-	55	71892155	ycaR	BPEN_388	-	COG2835S	hypothetical protein
+456296..457309	-	337	71892156	lpxK	BPEN_389	-	COG1663M	tetraacyldisaccharide 4'-kinase
+457309..459063	-	584	71892157	msbA	BPEN_390	-	COG1132V	lipid transporter ATP-binding/permease
+459768..461462	-	564	71892158	rpsA	BPEN_391	-	COG0539J	30S ribosomal protein S1
+461537..462256	-	239	71892159	cmk	BPEN_392	-	COG0283F	cytidylate kinase
+462385..463683	-	432	71892160	aroA	BPEN_393	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+463815..464903	-	362	71892161	serC	BPEN_394	-	COG1932HE	phosphoserine aminotransferase
+465241..466527	-	428	71892162	serS	BPEN_395	-	COG0172J	seryl-tRNA synthetase
+467312..467929	-	205	71892163	lolA	BPEN_396	-	COG2834M	LolA protein
+468047..470428	-	793	71892164	ftsK	BPEN_397	-	COG1674D	cell division protein
+471064..472020	+	318	71892165	trxB	BPEN_398	-	COG0492O	thioredoxin reductase
+472511..472729	+	72	71892166	infA	BPEN_399	-	COG0361J	translation initiation factor IF-1
+472885..475041	-	718	71892167	oprC	BPEN_400	-	COG1629P	protein OprC
+475612..476250	+	212	71892168	yqeI	BPEN_401	-	COG3710K	transcriptional regulator
+477175..477819	-	214	71892169	emtA	BPEN_402	-	COG0741M	membrane-bound lytic murein transglycosylase E
+478280..478741	-	153	71892170	mntR	BPEN_403	-	COG1321K	manganese transport regulator MntR
+479466..480569	+	367	71892171	mnmA	BPEN_404	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+480986..482368	+	460	71892172	purB	BPEN_405	-	COG0015F	adenylosuccinate lyase
+482601..483836	-	411	71892173	lolE	BPEN_406	-	COG4591M	outer membrane lipoproteins ABC transporter membrane protein
+483847..484548	-	233	71892174	lolD	BPEN_407	-	COG1136V	outer membrane lipoproteins ABC transporter ATP-binding protein
+484541..485746	-	401	71892175	lolC	BPEN_408	-	COG4591M	outer membrane lipoproteins ABC transporter membrane protein
+485989..486525	-	178	71892176	ycfM	BPEN_409	-	COG3417R	fibronectin-binding protein
+486715..487065	-	116	71892177	ycfF	BPEN_410	-	COG0537FGR	protein kinase C inhibitor
+487339..488124	-	261	71892178	ycfH	BPEN_411	-	COG0084L	metallo-dependent hydrolase
+488141..489142	-	333	71892179	holB	BPEN_412	-	COG0470L	DNA polymerase III, delta prime subunit
+489149..489787	-	212	71892180	tmk	BPEN_413	-	COG0125F	thymidylate kinase
+490159..490980	-	273	71892181	pabC	BPEN_414	-	COG0115EH	4-amino-4-deoxychorismate lyase
+491600..491851	-	83	71892182	acpP	BPEN_415	-	COG0236IQ	acyl carrier protein
+491980..492714	-	244	71892183	fabG	BPEN_416	-	COG1028IQR	3-oxoacyl-ACP reductase
+492744..493685	-	313	71892184	fabD	BPEN_417	-	COG0331I	malonyl CoA-ACP transacylase
+493709..494662	-	317	71892185	fabH	BPEN_418	-	COG0332I	3-oxoacyl-ACP synthase
+494668..495696	-	342	71892186	plsX	BPEN_419	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+495727..495897	-	56	71892187	rpmF	BPEN_420	-	COG0333J	50S ribosomal protein L32
+496794..497810	-	338	71892188	rluC	BPEN_421	-	COG0564J	ribosomal large subunit (23S) pseudouridine synthase C
+498327..500927	+	866	71892189	rne	BPEN_422	-	COG1530J	ribonuclease E
+501333..502256	+	307	71892190	lpxL	BPEN_423	-	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+502631..503579	+	315	71892403	ybiS	BPEN_424	-	COG1376S	hypothetical protein
+504315..504866	-	183	71892191	pgsA	BPEN_427	-	COG0558I	phosphotidylglycerophosphate synthetase
+506144..506473	+	109	71892192	yccK	BPEN_430	-	COG2920P	sulfite reductase
+506681..506998	+	105	71892193	yccV	BPEN_431	-	COG3785S	heat shock protein HspQ
+507833..508351	+	172	71892194	fabA	BPEN_432	-	COG0764I	3-hydroxydecanoyl-ACP dehydratase
+508697..510109	+	470	71892195	asnC	BPEN_433	-	COG0017J	asparaginyl-tRNA synthetase
+510328..511533	+	401	71892196	aspC	BPEN_434	-	COG1448E	aromatic amino acid aminotransferase
+511701..512354	-	217	71892197	ycbL	BPEN_435	-	COG0491R	metallo-hydrolase/oxidoreductase domain-containing protein
+512610..513398	-	262	71892198	fabI	BPEN_436	-	COG0623I	enoyl-ACP reductase
+515202..515801	+	199	71892199	ribA	BPEN_437	-	COG0807H	GTP cyclohydrolase II
+518841..520403	+	520	71892200	trpE	BPEN_438	-	COG0147EH	anthranilate synthase component I
+520406..521002	+	198	71892201	trpG	BPEN_439	-	COG0512EH	anthranilate synthase component II
+521004..522029	+	341	71892202	trpD	BPEN_440	-	COG0547E	anthranilate phosphoribosyltransferase
+522007..523380	+	457	71892203	trpC	BPEN_441	-	COG0134E	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+523423..524613	+	396	71892204	trpB	BPEN_442	-	COG0133E	tryptophan synthase subunit beta
+524616..525446	+	276	71892205	trpA	BPEN_443	-	COG0159E	tryptophan synthase subunit alpha
+525901..526638	+	245	71892206	yciC	BPEN_444	-	-	hypothetical protein
+526804..527532	-	242	71892207	tonB	BPEN_445	-	COG0810M	energy transducer
+528045..529514	+	489	71892208	cls	BPEN_446	-	COG1502I	cardiolipin synthetase
+529960..530577	-	205	71892209	tdk	BPEN_447	-	COG1435F	thymidine kinase
+531205..531615	+	136	71892210	hns	BPEN_448	-	COG2916R	global DNA-binding transcriptional dual regulator H-NS
+533574..534380	+	268	71892211	xthA	BPEN_449	-	COG0708L	exonuclease III
+534585..536462	+	625	71892212	sppA	BPEN_450	-	COG0616OU	endopeptidase IV
+536840..537838	+	332	71892213	gapA	BPEN_451	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase A
+538357..538881	+	174	71892214	dsbB	BPEN_452	-	COG1495O	disulfide bond formation protein B
+539585..540265	+	226	71892215	minC	BPEN_453	-	COG0850D	hypothetical protein
+540291..541103	+	270	71892216	minD	BPEN_454	-	COG2894D	hypothetical protein
+541111..541374	+	87	71892217	minE	BPEN_455	-	COG0851D	cell division topological specificity factor
+541729..542448	-	239	71892218	yeaZ	BPEN_456	-	COG1214O	glycoprotein endopeptidase actin-like ATPase domain
+542815..544203	+	462	71892219	pabB	BPEN_457	-	COG0147EH	aminodeoxychorismate synthase subunit I
+544268..545824	-	518	71892220	yoaE	BPEN_458	-	COG0861P	transmembrane protein
+546359..547342	+	327	71892221	manX	BPEN_459	-	COG3444G	PTS family enzyme IIA/enzyme IIB, mannose-specific
+547418..548227	+	269	71892222	manY	BPEN_460	-	COG3715G	PTS family enzyme IIC, mannose-specific
+548254..549120	+	288	71892223	manZ	BPEN_461	-	COG3716G	PTS system mannose-specific transporter subunit IID
+549452..549661	-	69	71892224	cspC	BPEN_462	-	COG1278K	cold shock-like protein CspC
+550270..551205	-	311	71892225	htpX	BPEN_463	-	COG0501O	heat shock protein HtpX
+551437..552921	-	494	71892226	zwf	BPEN_464	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+553587..555035	+	482	71892227	pykA	BPEN_465	-	COG0469G	pyruvate kinase A
+555204..556562	-	452	71892228	yebA	BPEN_466	-	COG0739M	hypothetical protein
+556853..558577	-	574	71892229	aspS	BPEN_467	-	COG0173J	aspartyl-tRNA synthetase
+559209..560954	+	581	71892230	argS	BPEN_468	-	COG0018J	arginyl-tRNA synthetase
+560978..562525	-	515	71892231	mviN	BPEN_469	-	COG0728R	virulence factor
+563140..564363	+	407	71892232	yceL	BPEN_470	-	COG2814G	multidrug resistance protein MdtH
+565638..566615	-	325	71892233	gutQ	BPEN_474	-	COG0794M	D-arabinose 5-phosphate isomerase
+567109..567432	-	107	71892234	yeeX	BPEN_475	-	COG2926S	hypothetical protein
+567703..569205	+	500	71892235	sbcB	BPEN_476	-	COG2925L	exonuclease I
+569725..570624	+	299	71892236	hisG	BPEN_477	-	COG0040E	ATP phosphoribosyltransferase
+570629..571960	+	443	71892237	hisD	BPEN_478	-	COG0141E	histidinol dehydrogenase
+571938..573014	+	358	71892238	hisC	BPEN_479	-	COG0079E	histidinol-phosphate aminotransferase
+573031..574101	+	356	71892239	hisB	BPEN_480	-	COG0131E	imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+574098..574687	+	196	71892401	hisH	BPEN_481	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+574691..575431	+	246	71892240	hisA	BPEN_482	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+575413..576189	+	258	71892241	hisF	BPEN_483	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+576183..576824	+	213	71892242	hisI	BPEN_484	-	COG0139E	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+577078..578487	-	469	71892243	gnd	BPEN_485	-	COG0362G	6-phosphogluconate dehydrogenase
+579039..580706	+	555	71892244	metG	BPEN_486	-	COG0143J	methionyl-tRNA synthetase
+581657..582322	-	221	71892245	folE	BPEN_487	-	COG0302H	GTP cyclohydrolase I
+583227..583520	+	97	71892246	rplY	BPEN_488	-	COG1825J	50S ribosomal protein L25
+583897..585003	-	368	71892247	ddl	BPEN_490	-	COG1181M	D-alanyl-alanine synthetase A
+585092..586213	-	373	71892248	omp	BPEN_491	-	COG3203M	hypothetical protein
+586917..589448	-	843	71892249	gyrA	BPEN_492	-	COG0188L	DNA gyrase, subunit A
+589738..590430	+	230	71892250	ubiG	BPEN_493	-	COG2227H	3-demethylubiquinone-9 3-methyltransferase
+590814..593096	+	760	71892251	nrdA	BPEN_494	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+593153..594283	+	376	71892252	nrdB	BPEN_495	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+594258..594548	+	96	71892253	yfaE	BPEN_496	-	COG0633C	hypothetical protein
+594648..596141	-	497	71892254	nuoN	BPEN_497	-	COG1007C	NADH dehydrogenase I subunit N, membrane subunit
+596175..597716	-	513	71892255	nuoM	BPEN_498	-	COG1008C	NADH dehydrogenase I subunit M, membrane subunit
+597800..599686	-	628	71892256	nuoL	BPEN_499	-	COG1009CP	NADH dehydrogenase I subunit L, membrane subunit
+599683..599985	-	100	71892257	nuoK	BPEN_500	-	COG0713C	NADH dehydrogenase I subunit K
+599982..600533	-	183	71892258	nuoJ	BPEN_501	-	COG0839C	NADH dehydrogenase I subunit J
+600567..601112	-	181	71892259	nuoI	BPEN_502	-	COG1143C	NADH dehydrogenase subunit I
+601137..602108	-	323	71892260	nuoH	BPEN_503	-	COG1005C	NADH dehydrogenase subunit H
+602108..604867	-	919	71892261	nuoG	BPEN_504	-	COG1034C	NADH dehydrogenase subunit G
+604984..606315	-	443	71892262	nuoF	BPEN_505	-	COG1894C	NADH dehydrogenase I subunit F
+606312..606833	-	173	71892263	nuoE	BPEN_506	-	COG1905C	NADH dehydrogenase subunit E
+606847..608637	-	596	71892264	nuoCD	BPEN_507	-	COG0649C	bifunctional NADH:ubiquinone oxidoreductase subunit C/D
+608675..609385	-	236	71892265	nuoB	BPEN_508	-	COG0377C	NADH dehydrogenase subunit B
+609391..609831	-	146	71892266	nuoA	BPEN_509	-	COG0838C	NADH dehydrogenase I subunit A
+610496..611770	-	424	71892267	folC	BPEN_510	-	COG0285H	dihydrofolate synthase
+611837..612721	-	294	71892268	accD	BPEN_511	-	COG0777I	acetyl-CoA carboxylase subunit beta
+613072..613857	-	261	71892269	truA	BPEN_512	-	COG0101J	tRNA pseudouridine synthase A
+614374..615498	-	374	71892270	pdxB	BPEN_513	-	COG0111HE	erythronate-4-phosphate dehydrogenase
+615721..616935	-	404	71892271	fabB	BPEN_514	-	COG0304IQ	3-oxoacyl-ACP synthase
+617740..618654	+	304	71892272	yfcB	BPEN_515	-	COG2890J	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+618679..619743	+	354	71892273	aroC	BPEN_516	-	COG0082E	chorismate synthase
+620543..621778	-	411	71892274	mntH	BPEN_518	-	COG1914P	manganese transport protein MntH
+622114..623304	+	396	71892275	nupC	BPEN_519	-	COG1972F	NupC family nucleoside transporter
+623765..625171	-	468	71892276	gltX	BPEN_521	-	COG0008J	glutamate tRNA synthetase, catalytic subunit
+625784..627571	-	595	71892277	ligA	BPEN_524	-	COG0272L	DNA ligase
+627934..628881	+	315	71892278	cysK	BPEN_525	-	COG0031E	cysteine synthase A
+629267..629524	+	85	71892279	ptsH	BPEN_526	-	COG1925G	PTS family Hpr protein, phosphohistidinoprotein-hexose phosphotransferase
+629590..631323	+	577	71892280	ptsI	BPEN_527	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+631772..632839	-	355	71892281	cysA	BPEN_528	-	COG1118P	sulfate/thiosulfate transporter subunit
+632861..633721	-	286	71892282	cysW	BPEN_529	-	COG4208P	thiosulfate permease W
+633721..634554	-	277	71892283	cysU	BPEN_530	-	COG0555O	sulfate/thiosulfate transporter subunit
+634554..635576	-	340	71892284	cysP	BPEN_531	-	COG4150P	thiosulfate ABC transporter substrate-binding protein
+636778..637629	+	283	71892285	talA	BPEN_532	-	COG0176G	transaldolase A
+637742..639739	+	665	71892286	tktA	BPEN_533	-	COG0021G	transketolase
+639918..641072	+	384	71892287	dapE	BPEN_534	-	COG0624E	succinyl-diaminopimelate desuccinylase
+641232..641543	-	103	71892288	-	BPEN_535	-	COG3317M	hypothetical protein
+641564..642463	-	299	71892289	dapA	BPEN_536	-	COG0329EM	dihydrodipicolinate synthase
+642934..643419	+	161	71892290	bcp	BPEN_537	-	COG1225O	thioredoxin-dependent thiol peroxidase
+643556..644182	-	208	71892291	upp	BPEN_538	-	COG0035F	uracil phosphoribosyltransferase
+644913..645113	+	66	71892292	-	BPEN_539	-	-	hypothetical protein
+645412..646035	-	207	71892293	ureG	BPEN_540	-	COG0378OK	urease accessory protein G
+646116..646802	-	228	71892294	ureF	BPEN_541	-	COG0830O	urease accessory protein F
+647273..648976	-	567	71892295	ureC	BPEN_542	-	COG0804E	urease subunit alpha
+648979..649287	-	102	71892296	ureB	BPEN_543	-	COG0832E	urease subunit beta
+649315..649617	-	100	71892297	ureA	BPEN_544	-	COG0831E	urease subunit gamma
+649631..650467	-	278	71892298	ureD	BPEN_545	-	COG0829O	urease accessory protein D
+650857..652434	-	525	71892299	guaA	BPEN_546	-	COG0519F	GMP synthase
+652578..654047	-	489	71892300	guaB	BPEN_547	-	COG0516F	inosine-5'-monophosphate dehydrogenase
+654656..656203	+	515	71892301	mqo	BPEN_548	-	COG0579R	malate:quinone oxidoreductase
+656296..657711	-	471	71892302	engA	BPEN_549	-	COG1160R	GTP-binding protein EngA
+658032..659348	-	438	71892303	hisS	BPEN_550	-	COG0124J	histidyl-tRNA synthetase
+659362..660492	-	376	71892304	ispG	BPEN_551	-	COG0821I	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+660713..661834	-	373	71892305	yfgB	BPEN_552	-	COG0820R	pyruvate formate lyase activating enzyme 2
+662040..662450	-	136	71892306	ndk	BPEN_553	-	COG0105F	3'-phosphodiesterase
+662989..664158	-	389	71892307	nifS	BPEN_554	-	COG1104E	L-cysteine desulfurase
+665003..665797	+	264	71892308	suhB	BPEN_555	-	COG0483G	myo-inositol-1(or 4)-monophosphatase
+665893..667143	-	416	71892309	glyA	BPEN_556	-	COG0112E	serine hydroxymethyltransferase
+667443..667910	-	155	71892310	tadA	BPEN_557	-	COG0590FJ	tRNA-specific adenosine deaminase
+668053..668430	-	125	71892311	acpS	BPEN_558	-	COG0736I	4'-phosphopantetheinyl transferase
+668433..669167	-	244	71892312	pdxJ	BPEN_559	-	COG0854H	pyridoxine 5'-phosphate synthase
+669812..670501	-	229	71892313	rnc	BPEN_560	-	COG0571K	RNase III
+670628..671623	-	331	71892314	lepB	BPEN_561	-	COG0681U	signal peptidase I
+671642..673444	-	600	71892315	lepA	BPEN_562	-	COG0481M	GTP-binding protein LepA
+673829..674521	+	230	71892316	ung	BPEN_563	-	COG0692L	uracil-DNA glycosylase
+674875..675462	-	195	71892317	grpE	BPEN_564	-	COG0576O	heat shock protein GrpE
+675593..676486	+	297	71892318	ppnK	BPEN_565	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+676582..676920	+	112	71892319	smpA	BPEN_566	-	COG2913J	small membrane protein A
+676950..677435	-	161	71892320	yfjG	BPEN_567	-	COG2867I	hypothetical protein
+677490..677954	+	154	71892321	smpB	BPEN_568	-	COG0691O	SsrA-binding protein
+678687..679016	+	109	71892322	emrE	BPEN_570	-	COG2076P	auxillary SMR family multidrug transporter
+679527..680903	+	458	71892323	pssA	BPEN_571	-	COG1502I	phosphatidylserine synthase
+686483..688117	+	544	71892324	purH	BPEN_575	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+688652..692902	-	1416	71892325	rpoC	BPEN_576	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+692991..697016	-	1341	71892326	rpoB	BPEN_577	-	COG0085K	DNA-directed RNA polymerase subunit beta
+697272..697640	-	122	71892327	rplL	BPEN_578	-	COG0222J	50S ribosomal protein L7/L12
+697734..698225	-	163	71892328	rplJ	BPEN_579	-	COG0244J	50S ribosomal protein L10
+698574..699281	-	235	71892329	rplA	BPEN_580	-	COG0081J	50S ribosomal protein L1
+699287..699718	-	143	71892330	rplK	BPEN_581	-	COG0080J	50S ribosomal protein L11
+699846..700391	-	181	71892331	nusG	BPEN_582	-	COG0250K	transcription antitermination protein
+700393..700740	-	115	71892332	secE	BPEN_583	-	COG0690U	preprotein translocase subunit SecE
+700810..701994	-	394	71892333	tuf	BPEN_584	-	COG0050J	elongation factor Tu
+702056..704170	-	704	71892334	fusA	BPEN_585	-	COG0480J	elongation factor G
+704294..704764	-	156	71892335	rpsG	BPEN_586	-	COG0049J	30S ribosomal protein S7
+704916..705290	-	124	71892336	rpsL	BPEN_587	-	COG0048J	30S ribosomal protein S12
+707069..707650	-	193	71892337	pabA	BPEN_588	-	COG0512EH	aminodeoxychorismate synthase subunit II
+708033..709031	-	332	71892338	trpS	BPEN_589	-	COG0180J	tryptophanyl-tRNA synthetase
+709268..709933	-	221	71892339	rpe	BPEN_590	-	COG0036G	ribulose-phosphate 3-epimerase
+710332..711420	-	362	71892340	aroB	BPEN_591	-	COG0337E	3-dehydroquinate synthase
+711475..712038	-	187	71892341	aroK	BPEN_592	-	COG0703E	shikimate kinase I
+713530..714120	+	196	71892342	gntY	BPEN_593	-	COG0694O	membrane-bound protein in GNT I transport system
+714278..715384	-	368	71892343	asd	BPEN_594	-	COG0136E	aspartate-semialdehyde dehydrogenase
+715520..716113	+	197	71892344	yhgN	BPEN_595	-	COG2095U	dITP- and XTP- hydrolase
+716562..717401	-	279	71892345	yigL	BPEN_596	-	COG0561R	sugar phosphatase
+717767..718711	-	314	71892346	corA	BPEN_597	-	COG0598P	Mg2+/Co2+ transporter
+721179..721895	-	238	71892347	yigB	BPEN_599	-	COG1011R	HAD family hydrolase
+722069..722893	-	274	71892348	dapF	BPEN_600	-	COG0253E	diaminopimelate epimerase
+723951..724853	+	300	71892349	hemC	BPEN_601	-	COG0181H	porphobilinogen deaminase
+724900..725649	+	249	71892350	hemD	BPEN_602	-	COG1587H	uroporphyrinogen-III synthase
+726829..728088	-	419	71892351	rho	BPEN_607	-	COG1158K	transcription termination factor Rho
+728530..728856	-	108	71892352	trxA	BPEN_608	-	COG3118O	thioredoxin
+729092..730567	-	491	71892353	ilvC	BPEN_609	-	COG0059EH	ketol-acid reductoisomerase
+730628..732172	-	514	71892354	ilvA	BPEN_610	-	COG1171E	threonine dehydratase
+732181..734031	-	616	71892355	ilvD	BPEN_611	-	COG0129EG	dihydroxy-acid dehydratase
+734104..735024	-	306	71892356	ilvE	BPEN_612	-	COG0115EH	branched-chain amino acid aminotransferase
+735085..735321	-	78	71892357	ilvM	BPEN_613	-	COG3978S	acetolactate synthase 2 regulatory subunit
+735323..736963	-	546	71892358	ilvG	BPEN_614	-	COG0028EH	acetolactate synthase 2 catalytic subunit
+739039..739872	-	277	71892359	murI	BPEN_618	-	COG0796M	glutamate racemase
+740314..741207	-	297	71892360	metF	BPEN_619	-	COG0685E	5,10-methylenetetrahydrofolate reductase
+741619..742767	-	382	71892361	metB	BPEN_620	-	COG0626E	cystathionine gamma-synthase
+743051..743299	-	82	71892362	rpmE	BPEN_621	-	COG0254J	50S ribosomal protein L31
+744760..745509	+	249	71892363	fpr	BPEN_622	-	COG1018C	ferredoxin-NADP reductase
+745741..746517	+	258	71892364	tpiA	BPEN_623	-	COG0149G	triosephosphate isomerase
+746684..747652	-	322	71892365	pfkA	BPEN_624	-	COG0205G	6-phosphofructokinase
+748372..749121	-	249	71892366	cysE	BPEN_625	-	COG1045E	serine acetyltransferase
+749172..750206	-	344	71892367	gpsA	BPEN_626	-	COG0240C	glycerol-3-phosphate dehydrogenase
+750237..750701	-	154	71892368	secB	BPEN_627	-	COG1952U	molecular chaperone in protein export
+750742..751017	-	91	71892369	grxC	BPEN_628	-	COG0695O	glutaredoxin 3
+751030..751479	-	149	71892370	yibN	BPEN_629	-	COG0607P	rhodanese-related sulfurtransferase
+752038..753000	+	320	71892371	hldD	BPEN_630	-	COG0451MG	ADP-L-glycero-D-manno-heptose-6-epimerase
+753019..754059	+	346	71892372	rfaF	BPEN_631	-	COG0859M	ADP-heptose:LPS heptosyltransferase
+754081..755052	+	323	71892373	rfaC	BPEN_632	-	COG0859M	ADP-heptose:LPS heptosyltransferase
+756944..758227	+	427	71892374	kdtA	BPEN_633	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+758957..759472	+	171	71892375	coaD	BPEN_634	-	COG0669H	CMP-deoxy-D-manno-octulosonate-lipid A transferase
+759697..759864	-	55	71892376	rpmG	BPEN_635	-	COG0267J	50S ribosomal protein L33
+759889..760116	-	75	71892377	rpmB	BPEN_636	-	COG0227J	50S ribosomal protein L28
+760593..761801	+	402	71892378	dfp	BPEN_637	-	COG0452H	4'-phosphopantothenoylcysteine decarboxylase
+761788..762237	+	149	71892379	dut	BPEN_638	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+762965..763846	+	293	71892380	yicC	BPEN_639	-	COG1561S	hypothetical protein
+764849..765289	+	146	71892381	-	BPEN_640	-	COG1846K	MarR family transcriptional regulator
+765594..766232	+	212	71892382	gmk	BPEN_641	-	COG0194F	guanylate kinase
+766329..766520	+	63	71892383	rpoZ	BPEN_642	-	COG1758K	DNA-directed RNA polymerase subunit K/omega
+767280..768704	+	474	71892384	glnA	BPEN_643	-	COG0174E	glutamine synthetase
+768897..769496	+	199	71892385	yihA	BPEN_644	-	COG0218R	GTP-binding protein
+769643..772453	-	936	71892386	polA	BPEN_645	-	COG0749L	DNA polymerase I
+772648..773277	-	209	71892387	dsbA	BPEN_646	-	COG1651O	protein disulfide isomerase
+773904..775367	-	487	71892388	ubiD	BPEN_647	-	COG0043H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+775575..777215	-	546	71892389	ubiB	BPEN_648	-	COG0661R	ubiquinone biosynthetic 2-octaprenylphenol hydroxylase
+777805..778569	-	254	71892390	ubiE	BPEN_649	-	COG2226H	2-octaprenyl-6-methoxy-1,4-benzoquinone methylase
+778676..780244	-	522	71892391	yigN	BPEN_650	-	COG1322S	hypothetical protein
+780488..781285	-	265	71892392	udp	BPEN_651	-	COG2820F	uridine phosphorylase
+781518..783812	-	764	71892393	metE	BPEN_652	-	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+784116..784964	-	282	71892394	rpoH	BPEN_653	-	COG0568K	RNA polymerase factor sigma-32
+785572..786498	-	308	71892395	ftsY	BPEN_654	-	COG0552U	cell division protein
+786893..787480	+	195	71892396	yhhF	BPEN_655	-	COG0742L	methyltransferase
+787575..789230	-	551	71892397	pgi	BPEN_656	-	COG0166G	glucose-6-phosphate isomerase
+789711..790625	-	304	71892398	metA	BPEN_657	-	COG1897E	homoserine O-succinyltransferase

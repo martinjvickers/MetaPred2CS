@@ -1,0 +1,1461 @@
+Dehalococcoides sp. CBDB1 chromosome, complete genome - 1..1395502
+1458 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+261..1595	+	444	73747957	dnaA	cbdb_A1	-	COG0593L	chromosome replication initiator DnaA
+1926..3200	+	424	73747958	obgE	cbdb_A2	-	COG0536R	GTPase ObgE
+3188..3802	+	204	73747959	nadD	cbdb_A3	-	COG1057H	nicotinate (nicotinamide) nucleotideadenylyltransferase
+3884..5812	-	642	73747960	gyrB	cbdb_A4	-	COG0187L	DNA gyrase subunit B
+6017..8203	-	728	73747961	relA	cbdb_A5	-	COG0317TK	GTP pyrophosphokinase
+8331..9587	+	418	73747962	hisS	cbdb_A7	-	COG0124J	histidyl-tRNA synthetase
+9584..10747	+	387	73747963	-	cbdb_A9	-	COG1748E	hypothetical protein
+10744..11367	-	207	73747964	-	cbdb_A10	-	COG0344S	hypothetical protein
+11400..12320	-	306	73747965	ilvE	cbdb_A11	-	COG0115EH	branched-chain amino acid aminotransferase
+12474..13646	-	390	73747966	dinB	cbdb_A12	-	COG0389L	DNA polymerase IV
+13646..13834	-	62	73747967	-	cbdb_A13	-	COG4481S	hypothetical protein
+13905..14717	-	270	73747968	pyrF	cbdb_A14	-	COG0284F	orotidine 5'-phosphate decarboxylase
+14864..15559	+	231	73747969	-	cbdb_A15	-	-	hypothetical protein
+15598..16392	+	264	73747970	-	cbdb_A17	-	-	lipoprotein
+16438..17754	+	438	73747971	folC	cbdb_A18	-	COG0285H	folylpolyglutamate synthetase
+17737..17952	-	71	73747972	-	cbdb_A19	-	-	hypothetical protein
+17966..18229	-	87	73747973	-	cbdb_A20	-	-	hypothetical protein
+18532..18993	+	153	73747974	dtd	cbdb_A23	-	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+19045..19473	+	142	73747975	-	cbdb_A24	-	COG0735P	FUR family transcriptional regulator
+19527..20279	-	250	73747976	-	cbdb_A26	-	-	hypothetical protein
+20382..20768	+	128	73747977	-	cbdb_A25	-	-	hypothetical protein
+20850..20990	-	46	73747978	-	cbdb_A27	-	-	hypothetical protein
+21047..23437	-	796	73747979	comeC	cbdb_A29	-	COG2333R	DNA internalization-related competence protein,ComEC
+23434..24087	-	217	73747980	comeA	cbdb_A31	-	COG1555L	competence protein ComEA
+24111..24776	-	221	73747981	-	cbdb_A32	-	COG0569P	potassium uptake protein, TrkA-like protein
+24781..25185	-	134	73747982	-	cbdb_A33	-	COG0569P	potassium uptake protein, fragment
+25189..25617	-	142	73747983	-	cbdb_A34	-	COG0589T	universal stress family protein
+25694..27139	-	481	73747984	trkH	cbdb_A35	-	COG0168P	Trk system potassium uptake protein
+27143..28507	-	454	73747985	trkA	cbdb_A37	-	COG0569P	potassium transporter peripheral membrane protein
+28511..28663	-	50	73747986	-	cbdb_B1	-	-	hypothetical protein
+28795..29745	-	316	73747987	-	cbdb_A39	-	COG1230P	cation efflux family protein
+29889..30518	+	209	73747988	-	cbdb_A40	-	COG1392P	hypothetical protein
+30511..31512	+	333	73747989	-	cbdb_A41	-	COG0306P	phosphate transporter
+31509..32129	-	206	73747990	gmk	cbdb_A42	-	COG0194F	guanylate kinase
+32107..32397	-	96	73747991	-	cbdb_A43	-	COG2052S	hypothetical protein
+32606..33454	+	282	73747992	-	cbdb_A45	-	COG0543HC	ferredoxin-NADP reductase
+33447..34844	+	465	73747993	gltA	cbdb_A46	-	COG0493ER	oxidoreductase
+34841..35053	-	70	73747994	-	cbdb_A48	-	-	hypothetical protein
+35163..35696	-	177	73747995	-	cbdb_A50	-	-	hypothetical protein
+35767..36375	-	202	73747996	-	cbdb_A52	-	COG2226H	SAM-dependent methyltransferase
+36386..36580	-	64	73747997	-	cbdb_A54	-	-	hypothetical protein
+36722..37093	+	123	73747998	-	cbdb_A55	-	COG3824S	hypothetical protein
+37229..37675	+	148	73747999	-	cbdb_A56	-	-	redox family protein
+37672..38775	-	367	73748000	-	cbdb_A58	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+38797..39039	-	80	73748001	-	cbdb_A59	-	-	hypothetical protein
+39161..40195	+	344	73748002	holA	cbdb_A60	-	COG1466L	DNA polymerase III delta subunit-like protein
+40197..40808	+	203	73748003	-	cbdb_A62	-	COG1238S	hypothetical protein
+40843..41850	+	335	73748004	-	cbdb_A63	-	COG1940KG	transcriptional repressor, ROK family
+41966..44581	+	871	73748005	alaS	cbdb_A65	-	COG0013J	alanyl-tRNA synthetase
+44628..45029	+	133	73748006	-	cbdb_A67	-	COG0816L	hypothetical protein
+45051..46229	+	392	73748007	tgt	cbdb_A68	-	COG0343J	queuine tRNA-ribosyltransferase
+46324..47466	+	380	73748008	-	cbdb_A69	-	COG1979C	iron-containing alcohol dehydrogenase
+51080..53554	+	824	73748009	clpC	cbdb_A70	-	COG0542O	ATP-dependent Clp protease, ATP-binding subunit
+53999..55393	+	464	73748010	radA	cbdb_A72	-	COG1066O	DNA repair protein RadA
+55380..56063	+	227	73748011	ispD	cbdb_A74	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+56069..56542	+	157	73748012	ispF	cbdb_A75	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+56546..57919	+	457	73748013	cysS	cbdb_A76	-	COG0215J	cysteinyl-tRNA synthetase
+58013..58810	-	265	73748014	-	cbdb_B2	-	COG1579R	recombinase
+58960..59667	-	235	73748015	rdhD	cbdb_A78	-	COG0745TK	DNA-binding response regulator
+59661..61328	-	555	73748016	rdhC	cbdb_A79	-	COG0642T	sensor histidine kinase
+61449..62939	+	496	73748017	rdhA	cbdb_A80	-	COG1600C	reductive dehalogenase
+62977..63279	+	100	73748018	rdhB	cbdb_B3	-	-	reductive dehalogenase anchoring protein
+64108..64872	+	254	73748019	rdhF	cbdb_A81	-	COG1865S	hypothetical protein
+65088..66593	+	501	73748020	rdhC	cbdb_A82	-	COG2205T	sensor histidine kinase
+66580..67281	+	233	73748021	rdhD	cbdb_A83	-	COG0745TK	DNA-binding response regulator
+67523..68989	+	488	73748022	rdhA	cbdb_A84	-	COG1600C	reductive dehalogenase
+69010..69282	+	90	73748023	rdhB	cbdb_A85	-	-	reductive dehalogenase anchoring protein
+70199..71053	+	284	73748024	-	cbdb_A86	-	-	hypothetical protein
+71328..72092	-	254	73748025	rdhF	cbdb_A87	-	COG1865S	hypothetical protein
+72179..72475	-	98	73748026	rdhB	cbdb_B4	-	-	reductive dehalogenase anchoring protein
+72513..74060	-	515	73748027	rdhA	cbdb_A88	-	COG1600C	reductive dehalogenase
+74171..75037	-	288	73748028	rdhH	cbdb_A89	-	COG2102R	hypothetical protein
+75349..76032	-	227	73748029	rdhD	cbdb_A90	-	COG0745TK	DNA-binding response regulato
+76013..77239	-	408	73748030	rdhC	cbdb_A91	-	COG0642T	sensor histidine kinase
+77336..78820	-	494	73748031	-	cbdb_A92	-	COG1032C	radical SAM protein
+78843..79592	-	249	73748032	rdhI	cbdb_A93	-	COG1180O	radical SAM domain-containing protein
+79589..80335	-	248	73748033	rdhH	cbdb_A95	-	COG2102R	hypothetical protein
+80419..80688	-	89	73748034	rdhB	cbdb_B5	-	-	reductive dehalogenase anchoring protein
+80710..82230	-	506	73748035	rdhA	cbdb_A96	-	COG1600C	reductive dehalogenase
+82305..82928	-	207	73748036	rdhG	cbdb_A97	-	COG0727R	hypothetical protein
+82995..83891	+	298	73748037	-	cbdb_A98	-	COG4585T	sensor histidin kinase PAS domain-containing protein
+83908..84186	+	92	73748038	-	cbdb_A99	-	COG4564T	sensor histidin kinase ATP-binding subunit
+84186..84872	+	228	73748039	rdhD	cbdb_A100	-	COG2197TK	LuxR family transcriptional regulator
+85242..85613	+	123	73748040	-	cbdb_B6	-	COG1396K	hypothetical protein
+85610..86506	+	298	73748041	-	cbdb_A101	-	-	hypothetical protein
+86503..88887	+	794	73748042	-	cbdb_A102	-	-	hypothetical protein
+89251..90405	+	384	73748043	-	cbdb_A103	-	-	hypothetical protein
+90541..90774	+	77	73748044	-	cbdb_B7	-	COG2944K	hypothetical protein
+90777..92714	+	645	73748045	-	cbdb_A104	-	COG0286V	type I restriction-modification system methylation subunit
+92701..93369	+	222	73748046	-	cbdb_A105	-	COG0732V	type I restriction enzyme, specificity protein
+93366..96350	+	994	73748047	-	cbdb_A106	-	COG0610V	restriction enzyme type I helicase subunit
+96347..97090	+	247	73748048	-	cbdb_A107	-	COG1451R	zinc protease
+97184..100285	+	1033	73748049	-	cbdb_A108	-	COG0553KL	helicase
+100287..103358	+	1023	73748050	-	cbdb_A109	-	COG0326O	hypothetical protein
+103391..107662	+	1423	73748051	-	cbdb_A111	-	COG0507L	atp-dependent exoDNAse, exonuclease v
+108042..108350	-	102	73748052	-	cbdb_A113	-	COG1633S	hypothetical protein
+108539..109684	-	381	73748053	mobA	cbdb_A115	-	COG0746H	molybdopterin-guanine dinucleotide biosynthesis protein A
+109685..110374	-	229	73748054	-	cbdb_A116	-	-	hypothetical protein
+110397..113609	-	1070	73748055	-	cbdb_A118	-	COG0243C	molybdopterin oxidoreductase
+113602..114783	-	393	73748056	-	cbdb_A120	-	COG5557C	molybdopterin oxidoreductase, membrane subunit
+114804..115742	-	312	73748057	-	cbdb_A121	-	COG0437C	molybdopterin oxidoreductase, iron-sulfur binding subunit
+116223..117209	+	328	73748058	-	cbdb_A122	-	COG0489D	mrp family protein
+117327..117692	-	121	73748059	-	cbdb_A123	-	-	hypothetical protein
+117838..118677	-	279	73748060	-	cbdb_A124	-	COG1307S	degV family protein
+118876..120180	+	434	73748061	-	cbdb_A126	-	COG1704S	hypothetical protein
+120243..122162	+	639	73748062	-	cbdb_A127	-	COG3568R	endonuclease
+122229..122711	-	160	73748063	hoxM	cbdb_A128	-	COG0680C	Ni/Fe hydrogenase maturation protease
+122714..124294	-	526	73748064	hupL	cbdb_A129	-	COG0374C	Ni/Fe hydrogenase large subunit
+124325..125389	-	354	73748065	hupS	cbdb_A130	-	COG1740C	Ni/Fe hydrogenase small subunit
+125442..126245	-	267	73748066	-	cbdb_A131	-	COG0437C	Ni/Fe hydrogenase, iron-sulfur cluster-binding subunit
+126922..127995	-	357	73748067	-	cbdb_A133	-	COG1668CP	ABC transporter permease
+127992..129050	-	352	73748068	-	cbdb_A134	-	COG1668CP	ABC transporter permease
+129047..129913	-	288	73748069	-	cbdb_A136	-	COG1131V	ABC transporter ATP-binding protein
+129925..130584	-	219	73748070	-	cbdb_A137	-	COG1309K	TetR family transcriptional regulator
+130743..131285	-	180	73748071	-	cbdb_A138	-	COG0693R	DJ-1 family protein
+131579..133327	+	582	73748072	oadA	cbdb_A139	-	COG5016C	pyruvate carboxylase subunit B
+133320..134816	+	498	73748073	accC	cbdb_A141	-	COG4770I	pyruvate carboxylase subunit A
+134813..135100	-	95	73748074	-	cbdb_A142	-	-	hypothetical protein
+135231..137033	-	600	73748075	-	cbdb_A143	-	COG0493ER	pyridine nucleotide-disulfide oxidoreductase
+137386..137532	-	48	73748076	-	cbdb_B8	-	-	hypothetical protein
+137575..138606	+	343	73748077	-	cbdb_A145	-	COG1063ER	zinc-containing alcohol dehydrogenase
+138621..139745	+	374	73748078	trpD	cbdb_A146	-	COG0547E	anthranilate phosphoribosyltransferase
+139833..143021	-	1062	73748079	-	cbdb_A148	-	COG4191T	sensor histidine kinase
+143100..144491	-	463	73748080	cobB	cbdb_A149	-	COG1797H	cobyrinic acid a,c-diamide synthase
+144531..144947	-	138	73748081	-	cbdb_A150	-	COG0432S	hypothetical protein
+144940..145311	-	123	73748082	-	cbdb_A151	-	COG0745TK	DNA-binding response regulator
+145392..145784	-	130	73748083	-	cbdb_A153	-	COG2204T	response regulator
+145929..146501	-	190	73748084	-	cbdb_A154	-	COG0705R	rhomboid family protein
+146608..147567	+	319	73748085	arcB	cbdb_A155	-	COG2423E	ornithine cyclodeaminase
+147571..147783	-	70	73748086	-	cbdb_A156	-	-	hypothetical protein
+147873..148292	-	139	73748087	-	cbdb_A157	-	COG2165NU	general secretion pathway protein H
+148425..149117	+	230	73748088	-	cbdb_A158	-	COG0745TK	DNA-binding response regulator
+149120..150865	+	581	73748089	-	cbdb_A159	-	COG5002T	sensor histidine kinase
+151074..151508	+	144	73748090	mgsA	cbdb_A160	-	COG1803G	methylglyoxal synthase
+151578..152402	+	274	73748091	pstS	cbdb_A161	-	COG0226P	phosphate ABC transporter substrate-binding protein
+152477..153337	+	286	73748092	-	cbdb_A162	-	COG0573P	phosphate ABC transporter permease
+153330..154181	+	283	73748093	-	cbdb_A164	-	COG0581P	phosphate ABC transporter permease
+154182..154937	+	251	73748094	pstB	cbdb_A165	-	COG1117P	phosphate ABC transporter ATP-binding protein
+154950..155615	+	221	73748095	phoU	cbdb_A167	-	COG0704P	phosphate transport system regulatory protein PhoU
+155617..156030	+	137	73748096	arsC	cbdb_A168	-	COG0394T	arsenate reductase
+156473..156940	+	155	73748097	hymA	cbdb_A169	-	COG1905C	[Fe] hydrogenase subunit HymA
+156942..158195	+	417	73748098	hymB	cbdb_A170	-	COG1894C	[Fe] hydrogenase subunit HymB
+158183..159904	+	573	73748099	hymC	cbdb_A171	-	COG4624R	[Fe] hydrogenase, large subunit HymC
+159944..160447	+	167	73748100	hymD	cbdb_A173	-	-	[Fe] hydrogenase subunit HymD
+160499..160666	-	55	73748101	-	cbdb_A174	-	-	hypothetical protein
+160674..161507	-	277	73748102	-	cbdb_A175	-	COG2267I	lysophospholipase
+161514..161774	-	86	73748103	-	cbdb_A176	-	-	hypothetical protein
+161998..162720	-	240	73748104	-	cbdb_A178	-	COG1451R	hypothetical protein
+162717..163610	-	297	73748105	-	cbdb_A180	-	COG5006R	hypothetical protein
+163704..164738	+	344	73748106	gly1	cbdb_A181	-	COG2008E	threonine aldolase
+164848..165342	+	164	73748107	-	cbdb_A182	-	COG0599S	hypothetical protein
+165506..166189	+	227	73748108	-	cbdb_A183	-	-	hypothetical protein
+166392..166817	+	141	73748109	-	cbdb_B9	-	-	hypothetical protein
+167058..167738	-	226	73748110	rdhD	cbdb_A184	-	COG0745TK	DNA-binding response regulator
+167719..169512	-	597	73748111	rdhC	cbdb_A185	-	COG2205T	sensor histidine kinase
+169496..170095	-	199	73748112	-	cbdb_A186	-	-	hypothetical protein
+170338..171705	+	455	73748113	rdhA	cbdb_A187	-	COG1600C	reductive dehalogenase
+171754..172041	+	95	73748114	rdhB	cbdb_A188	-	-	reductive dehalogenase anchoring protein
+172045..172299	-	84	73748115	-	cbdb_B10	-	-	hypothetical protein
+172497..174182	+	561	73748116	-	cbdb_A189	-	COG0513LKJ	ATP-dependent RNA helicase, DEAD
+174349..175314	+	321	73748117	-	cbdb_A190	-	COG0861P	TerC family membrane protein
+175495..176343	-	282	73748118	fdhE	cbdb_A191	-	COG3058O	formate dehydrogenase accessory protein
+176344..177555	-	403	73748119	-	cbdb_A193	-	COG5557C	formate dehydrogenase, membrane subunit
+177643..180624	-	993	73748120	fdnG	cbdb_A195	-	COG0243C	formate dehydrogenase, major subunit
+181003..181581	+	192	73748121	-	cbdb_A196	-	COG0742L	methyltransferase
+181553..182032	+	159	73748122	coaD	cbdb_A197	-	COG0669H	phosphopantetheine adenylyltransferase
+182121..182375	+	84	73748123	fdx1	cbdb_A198	-	COG1143C	ferredoxin, iron-sulfur cluster-binding protein
+182486..182974	-	162	73748124	-	cbdb_A199	-	COG1286R	colicin V production family protein
+183068..183871	-	267	73748125	proC	cbdb_A200	-	COG0345E	pyrroline-5-carboxylate reductase
+183873..186314	-	813	73748126	leuS	cbdb_A202	-	COG0495J	leucyl-tRNA synthetase
+186489..187796	+	435	73748127	-	cbdb_A203	-	COG2081R	hypothetical protein
+187800..188330	+	176	73748128	-	cbdb_A205	-	COG2320S	hypothetical protein
+188488..188874	+	128	73748129	-	cbdb_A206	-	-	hypothetical protein
+189065..189340	+	91	73748130	-	cbdb_A207	-	COG0695O	glutaredoxin family protein
+189337..189840	+	167	73748131	-	cbdb_A208	-	COG4802C	ferredoxin-thioredoxin reductase,catalyticsubunit
+189932..190843	+	303	73748132	-	cbdb_A209	-	COG4743S	hypothetical protein
+190856..191863	-	335	73748133	-	cbdb_A212	-	COG0438M	glycosyltransferase
+192154..192987	+	277	73748134	-	cbdb_A213	-	COG2120S	LmbE-like family protein
+193064..193204	+	46	73748135	-	cbdb_A214	-	-	hypothetical protein
+193259..194233	+	324	73748136	-	cbdb_A215	-	COG0667C	oxidoreductase, aldo reductase
+194230..194583	-	117	73748137	-	cbdb_A217	-	COG1342R	DNA-binding protein
+194735..195229	+	164	73748138	-	cbdb_A218	-	COG1413C	PBS lyase
+195748..197874	+	708	73748139	kamA	cbdb_A219	-	COG1509E	L-lysine 2,3-aminomutase
+197956..199236	-	426	73748140	-	cbdb_A222	-	COG4826O	serine protease inhibitor family protein
+199422..200009	+	195	73748141	-	cbdb_A225	-	COG1272R	Hly-III family-like protein
+200006..201997	-	663	73748142	-	cbdb_A226	-	COG0488R	ABC transporter ATP-binding protein
+202131..202988	-	285	73748143	-	cbdb_A227	-	-	hypothetical protein
+203114..204253	-	379	73748144	-	cbdb_A228	-	COG2081R	hypothetical protein
+204507..204848	-	113	73748145	-	cbdb_A229	-	COG4640S	hypothetical protein
+204861..205118	-	85	73748146	-	cbdb_A230	-	-	hypothetical protein
+205206..205532	-	108	73748147	-	cbdb_A232	-	COG2314S	hypothetical protein
+205920..206597	-	225	73748148	rdhD	cbdb_A235	-	COG0745TK	DNA-binding response regulator
+206594..207874	-	426	73748149	rdhC	cbdb_A236	-	COG2205T	sensor histidine kinase
+207922..208149	+	75	73748150	-	cbdb_A237	-	-	hypothetical protein
+208160..209704	+	514	73748151	rdhA	cbdb_A238	-	COG1600C	reductive dehalogenase
+209728..210000	+	90	73748152	rdhB	cbdb_A239	-	-	reductive dehalogenase anchoring protein
+210286..210969	-	227	73748153	rdhD	cbdb_A240	-	COG0745TK	DNA-binding response regulator
+210950..212773	-	607	73748154	rdhC	cbdb_A241	-	COG2205T	sensor histidine kinase
+212775..213392	-	205	73748155	-	cbdb_A242	-	-	hypothetical protein
+213820..215295	+	491	73748156	rdhA	cbdb_A243	-	COG1600C	reductive dehalogenase
+215348..215626	+	92	73748157	rdhB	cbdb_C1	-	-	reductive dehalogenase anchoring protein
+215811..217034	+	407	73748158	cprC	cbdb_A244	-	COG0348C	membrane bound regulatory protein
+217167..217922	+	251	73748159	rdhH	cbdb_A245	-	COG2102R	hypothetical protein
+217919..218665	+	248	73748160	rdhI	cbdb_A246	-	COG1180O	radical SAM domain-containing protein
+218670..219383	+	237	73748161	-	cbdb_A247	-	COG2241H	precorrin methylase
+219395..220231	+	278	73748162	rdhI	cbdb_A248	-	COG1180O	radical SAM domain-containing protein
+220262..221041	+	259	73748163	rdhF	cbdb_A249	-	COG1865S	hypothetical protein
+221047..221787	+	246	73748164	rdhI	cbdb_A250	-	COG1180O	radical SAM domain-containing protein
+221796..223553	+	585	73748165	nrd	cbdb_A251	-	COG0209F	ribonucleotide reductase
+223546..224085	+	179	73748166	cobA	cbdb_A253	-	COG2109H	cob(I)alamin adenosyltransferase
+224102..225058	+	318	73748167	cobD	cbdb_A254	-	COG1270H	cobalamin biosynthesis protein
+225073..225333	+	86	73748168	-	cbdb_A255	-	-	hypothetical protein
+225348..226499	+	383	73748169	-	cbdb_A257	-	COG1104E	cysteine desulfurase
+226493..227317	+	274	73748170	rdhF	cbdb_A258	-	COG1865S	hypothetical protein
+227314..228873	+	519	73748171	-	cbdb_A259	-	COG0614P	precorrin methylase
+229294..229713	-	139	73748172	-	cbdb_A260	-	COG3576R	hypothetical protein
+229939..230106	-	55	73748173	-	cbdb_A261	-	-	hypothetical protein
+230240..230983	+	247	73748174	-	cbdb_A262	-	COG0664T	transcriptional regulator cNTP-binding, Crp
+231310..232137	-	275	73748175	-	cbdb_A263	-	COG1752R	patatin-like phospholipase
+232115..232750	-	211	73748176	rimL	cbdb_A264	-	COG1670J	acetyltransferase
+232755..234347	-	530	73748177	-	cbdb_A266	-	COG0433R	hypothetical protein
+234344..234943	-	199	73748178	-	cbdb_A267	-	COG4247I	hypothetical protein
+235013..236218	-	401	73748179	-	cbdb_A268	-	-	hypothetical protein
+236343..236966	+	207	73748180	-	cbdb_A269	-	COG1280E	amino acid transporter LysE
+236993..238018	+	341	73748181	-	cbdb_A270	-	COG0123BQ	histone deacetylase
+237992..238927	-	311	73748182	-	cbdb_A271	-	COG0053P	cation efflux family protein
+238950..239855	-	301	73748183	secF	cbdb_A273	-	COG0341U	preprotein translocase subunit SecF
+239848..241197	-	449	73748184	secD	cbdb_A274	-	COG0342U	preprotein translocase subunit SecD
+241211..242707	-	498	73748185	-	cbdb_A275	-	COG0617J	poly(A) polymerase
+242867..243268	-	133	73748186	-	cbdb_A276	-	COG1426S	DNA-binding protein
+243528..245975	-	815	73748187	priA	cbdb_A277	-	COG1198L	primosomal protein N'
+245996..246391	-	131	73748188	rplS	cbdb_A278	-	COG0335J	50S ribosomal protein L19
+246515..247261	-	248	73748189	trmD	cbdb_A279	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+247460..247870	+	136	73748190	-	cbdb_A280	-	COG2001S	hypothetical protein
+247877..248926	+	349	73748191	mraW	cbdb_A281	-	COG0275M	S-adenosyl-methyltransferase MraW
+248997..250223	+	408	73748192	ftsA	cbdb_A283	-	COG0849D	cell division protein FtsA
+250263..251393	+	376	73748193	ftsZ	cbdb_A285	-	COG0206D	cell division protein FtsZ
+251537..252064	+	175	73748194	nrdR	cbdb_A286	-	COG1327K	transcriptional regulator NrdR
+252381..254666	+	761	73748195	nrdA	cbdb_A287	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+254660..254779	+	39	73748196	-	cbdb_A288	-	-	hypothetical protein
+254896..255480	+	194	73748197	-	cbdb_A289	-	COG1432S	hypothetical protein
+255449..257083	+	544	73748198	-	cbdb_A290	-	COG1032C	radical SAM domain-containing protein
+257132..257581	-	149	73748199	-	cbdb_A292	-	COG1610S	GatB domain-containing protein
+257583..257777	-	64	73748200	rpsU	cbdb_A293	-	-	30S ribosomal protein S21
+257949..259712	-	587	73748201	-	cbdb_A294	-	-	hypothetical protein
+259975..261192	-	405	73748202	-	cbdb_A296	-	-	hypothetical protein
+261227..261610	-	127	73748203	-	cbdb_A297	-	-	hypothetical protein
+261697..262392	+	231	73748204	-	cbdb_A298	-	COG1579R	hypothetical protein
+262669..262815	+	48	73748205	-	cbdb_A299	-	-	hypothetical protein
+263356..264015	-	219	73748206	-	cbdb_A300	-	-	hypothetical protein
+264155..264259	-	34	73748207	-	cbdb_A302	-	-	hypothetical protein
+264305..264457	+	50	73748208	-	cbdb_A303	-	-	hypothetical protein
+264644..265777	+	377	73748209	prc	cbdb_A305	-	COG0793M	carboxyl-terminal protease
+265893..266933	+	346	73748210	pheS	cbdb_A307	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+266935..269364	+	809	73748211	pheT	cbdb_A308	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+269454..270089	+	211	73748212	ppa	cbdb_A309	-	COG0221C	inorganic pyrophosphatase
+270155..271864	-	569	73748213	proS	cbdb_A310	-	COG0442J	prolyl-tRNA synthetase
+271958..273004	-	348	73748214	ispG	cbdb_A311	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+273040..274077	-	345	73748215	-	cbdb_A313	-	COG0750M	membrane-associated zinc metalloprotease
+274078..275211	-	377	73748216	dxr	cbdb_A314	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+275196..275999	-	267	73748217	cdsA	cbdb_A315	-	COG0575I	phosphatidate cytidylyltransferase
+276003..276713	-	236	73748218	uppS	cbdb_A316	-	COG0020I	undecaprenyl diphosphate synthase
+276778..277335	-	185	73748219	frr	cbdb_A318	-	COG0233J	ribosome recycling factor
+277337..278062	-	241	73748220	pyrH	cbdb_A319	-	COG0528F	uridylate kinase
+278077..278580	-	167	73748221	tsf	cbdb_A320	-	COG0264J	elongation factor Ts
+278605..279342	-	245	73748222	rpsB	cbdb_A322	-	COG0052J	30S ribosomal protein S2
+279527..280294	-	255	73748223	purQ	cbdb_A323	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+280301..283162	-	953	73748224	purL	cbdb_A325	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+283166..284047	-	293	73748225	-	cbdb_A327	-	COG0214H	pyridoxal biosynthesis lyase PdxS
+284253..284630	+	125	73748226	-	cbdb_A328	-	COG4638PR	(Fe-S)-binding protein
+284811..285581	+	256	73748227	-	cbdb_B11	-	-	hypothetical protein
+285660..286805	-	381	73748228	-	cbdb_A329	-	COG0516F	inosine 5-monophosphate dehydrogenase
+287067..287891	+	274	73748229	-	cbdb_A331	-	COG0313R	tetrapyrrole methylase
+287916..288131	+	71	73748230	-	cbdb_A332	-	-	hypothetical protein
+288140..289801	+	553	73748231	metG	cbdb_A334	-	COG0143J	methionyl-tRNA synthetase
+289817..290797	+	326	73748232	hepT	cbdb_A335	-	COG0142H	heptaprenyl diphosphate synthase component II
+291134..292960	-	608	73748233	ftsH	cbdb_A339	-	COG0465O	ATP-dependent metalloprotease FtsH
+293020..293772	-	250	73748234	-	cbdb_A340	-	COG0648L	AP endonuclease
+293969..294313	+	114	73748235	-	cbdb_A342	-	COG0799S	iojap family protein
+294314..294742	-	142	73748236	ndk	cbdb_A343	-	COG0105F	nucleoside diphosphate kinase
+294752..296122	-	456	73748237	-	cbdb_A344	-	COG0637R	glycoprotease
+296100..296591	-	163	73748238	-	cbdb_A346	-	COG0802R	hypothetical protein
+296588..297598	-	336	73748239	thiL	cbdb_A347	-	COG0611H	thiamine-monophosphate kinase
+297890..298666	+	258	73748240	-	cbdb_A349	-	COG2226H	ubiquinone/menaquinone biosynthesis methlytransferase UbiE
+298668..299435	+	255	73748241	-	cbdb_A350	-	COG2226H	ubiquinone/menaquinone biosynthesis methlytransferase UbiE
+299437..300531	+	364	73748242	aroB	cbdb_A351	-	COG0337E	3-dehydroquinate synthase
+300515..301435	+	306	73748243	menA	cbdb_A352	-	COG1575H	1,4-dihydroxy-2-naphthoateoctaprenyltransferase
+301435..302037	+	200	73748244	-	cbdb_A353	-	COG2226H	SAM-dependent methyltransferase
+302165..302896	+	243	73748245	-	cbdb_A354	-	COG0622R	serine/threonine protein phosphatase
+302916..303791	+	291	73748246	ksgA	cbdb_A355	-	COG0030J	dimethyladenosine transferase
+303785..304639	+	284	73748247	ispE	cbdb_A356	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+304713..305192	+	159	73748248	-	cbdb_A358	-	COG1592C	rubrerythrin
+305271..305510	-	79	73748249	-	cbdb_A359	-	-	hypothetical protein
+305596..306402	-	268	73748250	-	cbdb_A360	-	-	cation channel family protein
+306389..307645	-	418	73748251	-	cbdb_A361	-	COG0617J	poly(A) polymerase
+307726..308643	+	305	73748252	nodI	cbdb_A362	-	COG1131V	ABC transporter ATP-binding protein
+308640..309407	+	255	73748253	nodJ	cbdb_A363	-	COG1682GM	ABC transporter permease
+309457..310008	+	183	73748254	-	cbdb_A364	-	COG0237H	hypothetical protein
+310005..310478	+	157	73748255	-	cbdb_A365	-	COG2131F	deoxycytidylate deaminase
+310566..311471	+	301	73748256	-	cbdb_A367	-	COG1597IR	hypothetical protein
+311542..312054	-	170	73748257	dut	cbdb_A368	-	COG0717F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+312268..312555	+	95	73748258	-	cbdb_B12	-	-	hypothetical protein
+312643..313404	-	253	73748259	-	cbdb_A369	-	COG1126E	amino acid ABC transporter ATP-binding protein
+313404..314225	-	273	73748260	-	cbdb_A370	-	COG0765E	amino acid ABC transporter permease
+314278..315051	-	257	73748261	-	cbdb_A371	-	COG0834ET	amino acid ABC transporter substrate-binding protein
+315079..315228	-	49	73748262	-	cbdb_B13	-	-	hypothetical protein
+315251..316090	-	279	73748263	degV	cbdb_A372	-	COG1307S	degV family protein
+316267..316407	+	46	73748264	-	cbdb_A373	-	-	hypothetical protein
+316861..317811	+	316	73748265	corA	cbdb_A374	-	COG0598P	magnesium and cobalt transport protein
+317833..318492	+	219	73748266	-	cbdb_A376	-	COG1738S	hypothetical protein
+318513..319289	+	258	73748267	-	cbdb_A377	-	COG1234R	hypothetical protein
+319292..319795	+	167	73748268	-	cbdb_A378	-	COG1656S	hypothetical protein
+319832..321370	+	512	73748269	-	cbdb_A380	-	COG0063G	carbohydrate kinase
+321374..322165	+	263	73748270	-	cbdb_A381	-	COG1521K	pantothenate kinase
+322268..323449	+	393	73748271	coaBC	cbdb_A383	-	COG0452H	phosphopantothenoylcysteine synthetase/decarboxylase
+323537..326179	+	880	73748272	valS	cbdb_A384	-	COG0525J	valyl-tRNA synthetase
+326176..327249	-	357	73748273	-	cbdb_A385	-	COG4585T	sensor histidine kinase
+327230..327928	-	232	73748274	-	cbdb_A386	-	COG2197TK	LuxR family transcriptional regulator
+328031..328714	-	227	73748275	-	cbdb_A387	-	-	hypothetical protein
+328739..331597	-	952	73748276	secA	cbdb_A388	-	COG0653U	preprotein translocase subunit SecA
+331601..332575	-	324	73748277	prs	cbdb_A389	-	COG0462FE	ribose-phosphate pyrophosphokinase
+332591..333838	-	415	73748278	glyA	cbdb_A390	-	COG0112E	serine hydroxymethyltransferase
+333972..334592	+	206	73748279	-	cbdb_A391	-	COG1573L	uracil-DNA glycosylase
+334599..336254	+	551	73748280	-	cbdb_A392	-	COG0595R	metallo-beta-lactamase
+336274..338724	+	816	73748281	ftsK	cbdb_A393	-	COG1674D	DNA translocase FtsK
+338763..338912	-	49	73748282	-	cbdb_A394	-	-	hypothetical protein
+338909..340903	-	664	73748283	uvrB	cbdb_A397	-	COG0556L	excinuclease ABC subunit B
+340949..341533	-	194	73748284	ruvA	cbdb_A398	-	COG0632L	Holliday junction DNA helicase RuvA
+341530..342033	-	167	73748285	ruvC	cbdb_A399	-	COG0817L	crossover junction endodeoxyribonuclease RuvC
+342037..342792	-	251	73748286	-	cbdb_A400	-	COG0217S	hypothetical protein
+342909..343268	-	119	73748287	acpS	cbdb_A401	-	COG0736I	holo-ACP synthase
+343310..343774	-	154	73748288	-	cbdb_A403	-	COG1905C	[Fe] hydrogenase subunit HymA
+344011..345561	+	516	73748289	-	cbdb_A404	-	COG4799I	acyl CoA biotin-dependent carboxyltransferase
+345584..346837	+	417	73748290	-	cbdb_A405	-	COG0065E	3-isopropylmalate dehydratase large subunit
+346837..347340	+	167	73748291	leuD	cbdb_A407	-	COG0066E	3-isopropylmalate dehydratase small subunit
+347355..348434	+	359	73748292	-	cbdb_A408	-	COG0473CE	isocitrate dehydrogenase
+348514..349437	+	307	73748293	mdh	cbdb_A409	-	COG0039C	malate dehydrogenase
+349460..349831	+	123	73748294	-	cbdb_A410	-	-	hypothetical protein
+349832..350674	+	280	73748295	-	cbdb_A411	-	COG1951C	fumarate hydratase
+350671..351243	+	190	73748296	-	cbdb_A413	-	COG1838C	fumarate hydratase subunit beta
+351245..351586	+	113	73748297	-	cbdb_A415	-	COG0537FGR	HIT domain-containing protein
+351583..352113	-	176	73748298	-	cbdb_A416	-	COG1051F	hypothetical protein
+352130..352606	-	158	73748299	-	cbdb_A417	-	COG1246E	acetyltransferase
+352590..353444	-	284	73748300	-	cbdb_A419	-	COG0061G	inorganic polyphosphate
+353516..353839	-	107	73748301	-	cbdb_A420	-	-	hypothetical protein
+353928..354794	-	288	73748302	-	cbdb_A423	-	COG0287E	prephenate dehydrogenase
+354791..355867	-	358	73748303	pheA	cbdb_A424	-	COG0077E	chorismate mutase
+355864..356958	-	364	73748304	aroC	cbdb_A425	-	COG0082E	chorismate synthase
+356951..358213	-	420	73748305	aroA	cbdb_A427	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+358194..358724	-	176	73748306	aroK	cbdb_A428	-	COG0703E	shikimate kinase
+358708..359568	-	286	73748307	aroE	cbdb_A429	-	COG0169E	shikimate 5-dehydrogenase
+359552..360220	-	222	73748308	aroD	cbdb_A430	-	COG0710E	3-dehydroquinate dehydratase
+360217..361296	-	359	73748309	aroB	cbdb_A431	-	COG0337E	3-dehydroquinate synthase
+361316..362371	-	351	73748310	aroF	cbdb_A432	-	COG2876E	3-deoxy-7-phosphoheptulonate synthase
+362626..362745	+	39	73748311	-	cbdb_A433	-	-	hypothetical protein
+362892..363326	+	144	73748312	rpsL	cbdb_A434	-	COG0048J	30S ribosomal protein S12
+363340..363810	+	156	73748313	rpsG	cbdb_A435	-	COG0049J	30S ribosomal protein S7
+363866..365947	+	693	73748314	fusA	cbdb_A437	-	COG0480J	elongation factor G
+365972..366280	+	102	73748315	rpsJ	cbdb_A438	-	COG0051J	30S ribosomal protein S10
+366289..366906	+	205	73748316	rplC	cbdb_A439	-	COG0087J	50S ribosomal protein L3
+366909..367541	+	210	73748317	rplD	cbdb_A440	-	COG0088J	50S ribosomal protein L4
+367554..367838	+	94	73748318	rplW	cbdb_A441	-	COG0089J	50S ribosomal protein L23
+367864..368688	+	274	73748319	rplB	cbdb_A442	-	COG0090J	50S ribosomal protein L2
+368695..368976	+	93	73748320	rpsS	cbdb_A443	-	COG0185J	30S ribosomal protein S19
+369007..369336	+	109	73748321	rplV	cbdb_A444	-	COG0091J	50S ribosomal protein L22
+369345..370181	+	278	73748322	rpsC	cbdb_A445	-	COG0092J	30S ribosomal protein S3
+370183..370632	+	149	73748323	rplP	cbdb_A446	-	COG0197J	50S ribosomal protein L16
+370634..370831	+	65	73748324	rpmC	cbdb_A447	-	COG0255J	50S ribosomal protein L29
+370839..371111	+	90	73748325	rpsQ	cbdb_A448	-	COG0186J	30S ribosomal protein S17
+371127..371495	+	122	73748326	rplN	cbdb_A449	-	COG0093J	50S ribosomal protein L14
+371506..371817	+	103	73748327	rplX	cbdb_A450	-	COG0198J	50S ribosomal protein L24
+371817..372356	+	179	73748328	rplE	cbdb_A451	-	COG0094J	50S ribosomal protein L5
+372365..372550	+	61	73748329	rpsN	cbdb_B14	-	COG0199J	30S ribosomal protein S14
+372584..372979	+	131	73748330	rpsH	cbdb_A452	-	COG0096J	30S ribosomal protein S8
+372995..373543	+	182	73748331	rplF	cbdb_A453	-	COG0097J	50S ribosomal protein L6
+373543..373908	+	121	73748332	rplR	cbdb_A454	-	COG0256J	50S ribosomal protein L18
+373925..374443	+	172	73748333	rpsE	cbdb_A455	-	COG0098J	30S ribosomal protein S5
+374436..374618	+	60	73748334	rpmD	cbdb_A456	-	COG1841J	50S ribosomal protein L30
+374618..375079	+	153	73748335	rplO	cbdb_A457	-	COG0200J	50S ribosomal protein L15
+375060..376376	+	438	73748336	secY	cbdb_A458	-	COG0201U	preprotein translocase subunit SecY
+376386..377036	+	216	73748337	adk	cbdb_A459	-	COG0563F	adenylate kinase
+377044..377799	+	251	73748338	map	cbdb_A460	-	COG0024J	methionine aminopeptidase
+377809..378030	+	73	73748339	infA	cbdb_A461	-	COG0361J	translation initiation factor IF-1
+378059..378172	+	37	73748340	rpmJ	cbdb_A462	-	COG0257J	50S ribosomal protein L36
+378182..378571	+	129	73748341	rpsM	cbdb_A463	-	COG0099J	30S ribosomal protein S13
+378597..378989	+	130	73748342	rpsK	cbdb_A464	-	COG0100J	30S ribosomal protein S11
+378999..379622	+	207	73748343	rpsD	cbdb_A465	-	COG0522J	30S ribosomal protein S4
+379643..380635	+	330	73748344	rpoA	cbdb_A466	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+380666..381019	+	117	73748345	rplQ	cbdb_A467	-	COG0203J	50S ribosomal protein L17
+381056..381796	+	246	73748346	truA	cbdb_A468	-	COG0101J	tRNA pseudouridine synthase A
+381798..382229	+	143	73748347	rplM	cbdb_A469	-	COG0102J	50S ribosomal protein L13
+382242..382640	+	132	73748348	rpsI	cbdb_A470	-	COG0103J	30S ribosomal protein S9
+382716..382910	-	64	73748349	-	cbdb_A471	-	-	hypothetical protein
+383307..384374	-	355	73748350	-	cbdb_A472	-	COG0166G	bifunctional phosphoglucose/phosphomannose isomerase
+384399..385814	-	471	73748351	-	cbdb_A474	-	COG1109G	phosphoglucomutase
+385810..386013	-	67	73748352	-	cbdb_A475	-	-	hypothetical protein
+386044..387264	-	406	73748353	metK	cbdb_A476	-	COG0192H	S-adenosylmethionine synthetase
+387274..388530	-	418	73748354	ahcY	cbdb_A477	-	COG0499H	S-adenosyl-L-homocysteine hydrolase
+388538..390100	-	520	73748355	-	cbdb_A478	-	COG2187S	hypothetical protein
+390100..390300	-	66	73748356	-	cbdb_A479	-	-	hypothetical protein
+390297..391328	-	343	73748357	-	cbdb_A481	-	COG0620E	hypothetical protein
+391321..392205	-	294	73748358	mtaP	cbdb_A482	-	COG0005F	methylthioadenosine phosphorylase
+392280..393278	-	332	73748359	-	cbdb_A484	-	COG0182J	aIF-2BI family translation initiation factor
+393280..394377	-	365	73748360	-	cbdb_A485	-	COG0842V	ABC transporter permease
+394374..395324	-	316	73748361	-	cbdb_A486	-	COG1131V	daunorubicin resistance ABC transporter ATP-binding protein
+395418..395840	+	140	73748362	-	cbdb_A488	-	-	hypothetical protein
+395837..396250	+	137	73748363	-	cbdb_A489	-	COG2030I	hypothetical protein
+396237..396797	-	186	73748364	-	cbdb_A490	-	COG1670J	acetyltransferase
+396801..397751	-	316	73748365	-	cbdb_A492	-	COG1413C	PBS lyase
+397751..398581	-	276	73748366	-	cbdb_A493	-	COG2047R	hypothetical protein
+398595..399896	-	433	73748367	-	cbdb_A494	-	COG0312R	hypothetical protein
+399898..401274	-	458	73748368	-	cbdb_A496	-	COG0312R	hypothetical protein
+401412..402704	+	430	73748369	pmmB	cbdb_A497	-	COG1109G	phosphomannomutase
+402706..403908	+	400	73748370	rfbA	cbdb_A499	-	COG1208MJ	glucose-1-phosphate thymidylyltransferase
+403926..405107	+	393	73748371	-	cbdb_A500	-	COG1208MJ	glucose-1-phosphate thymidylyltransferase
+405108..406889	+	593	73748372	glmS	cbdb_A503	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+406897..407349	-	150	73748373	-	cbdb_A504	-	COG1881R	phosphatidylethanolamine-binding protein
+407361..408065	-	234	73748374	-	cbdb_A505	-	COG1011R	HAD family hydrolase
+408204..409508	+	434	73748375	lysA	cbdb_A508	-	COG0019E	diaminopimelate decarboxylase
+409522..410553	+	343	73748376	holB	cbdb_A509	-	COG2812L	DNA polymerase III subunit delta'
+410546..411379	+	277	73748377	-	cbdb_A510	-	COG1774S	hypothetical protein
+411368..411898	-	176	73748378	-	cbdb_A511	-	COG1403V	HNH endonuclease domain-containing protein
+411970..413277	-	435	73748379	-	cbdb_A512	-	COG1484L	ATP-binding protein
+413303..414013	-	236	73748380	-	cbdb_A513	-	COG3935L	hypothetical protein
+414010..415386	-	458	73748381	dnaB	cbdb_A514	-	COG0305L	replicative DNA helicase
+415387..415842	-	151	73748382	rplI	cbdb_A515	-	COG0359J	50S ribosomal protein L9
+415912..416832	-	306	73748383	trxB	cbdb_A516	-	COG0492O	thioredoxin reductase
+416813..417856	-	347	73748384	plsX	cbdb_A517	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+417896..418747	-	283	73748385	-	cbdb_A519	-	COG1924I	activator of 2-hydroxyglutaryl-CoA dehydratase
+418773..419966	-	397	73748386	-	cbdb_A520	-	COG1473R	amidohydrolase
+420180..423014	+	944	73748387	uvrA	cbdb_A521	-	COG0178L	excinuclease ABC subunit A
+423088..423639	+	183	73748388	-	cbdb_A522	-	COG2316R	HDIG domain-containing protein
+423748..423951	+	67	73748389	-	cbdb_A523	-	COG1476K	DNA-binding protein
+423948..426527	-	859	73748390	-	cbdb_A524	-	COG0419L	exonuclease SbcC
+426698..428260	-	520	73748391	rpoD	cbdb_A525	-	COG0568K	RNA polymerase, sigma factor
+428261..430027	-	588	73748392	dnaG	cbdb_A527	-	COG0358L	DNA primase
+430029..431066	-	345	73748393	-	cbdb_A528	-	COG0232F	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+431063..433339	-	758	73748394	ppsA	cbdb_A529	-	COG0574G	phosphoenolpyruvate synthase
+433637..434206	+	189	73748395	-	cbdb_A530	-	COG1259S	hypothetical protein
+434264..434497	+	77	73748396	-	cbdb_A531	-	-	hypothetical protein
+434500..435444	+	314	73748397	atpB	cbdb_A532	-	COG0356C	ATP synthase F0 subunit A
+435485..435715	+	76	73748398	atpE	cbdb_A533	-	COG0636C	ATP synthase F0 subunit C
+435740..436249	+	169	73748399	atpF	cbdb_A534	-	COG0711C	ATP synthase F0 subunit B
+436270..436812	+	180	73748400	atpH	cbdb_A535	-	COG0712C	ATP synthase F0F1 subunit delta
+436835..438346	+	503	73748401	atpA	cbdb_A536	-	COG0056C	ATP synthase F0F1 subunit alpha
+438371..439228	+	285	73748402	atpG	cbdb_A537	-	COG0224C	ATP synthase F1 subunit gamma
+439244..440638	+	464	73748403	atpD	cbdb_A538	-	COG0055C	ATP synthase F0F1 subunit beta
+440663..441085	+	140	73748404	atpC	cbdb_A539	-	COG0355C	ATP synthase F0F1 subunit epsilon
+441160..441660	-	166	73748405	rimM	cbdb_A540	-	COG0806J	16S rRNA-processing protein RimM
+441748..441975	-	75	73748406	-	cbdb_A541	-	COG1837R	hypothetical protein
+441991..442239	-	82	73748407	rpsP	cbdb_B15	-	COG0228J	30S ribosomal protein S16
+442384..443055	+	223	73748408	nfi	cbdb_A542	-	COG1515L	endonuclease V
+443182..444252	+	356	73748409	prfB	cbdb_A543	-	COG1186J	peptide chain release factor 2
+444252..445478	+	408	73748410	-	cbdb_A545	-	-	hypothetical protein
+445489..446148	+	219	73748411	-	cbdb_A546	-	COG2003L	RadC family DNA repair protein
+446151..447743	+	530	73748412	-	cbdb_A547	-	COG0747E	dipeptide/oligopeptide/nickel ABC transporter periplasmic protein
+448219..448503	-	94	73748413	-	cbdb_A549	-	-	hypothetical protein
+448760..449902	-	380	73748414	-	cbdb_A553	-	COG0436E	classes I and II aminotransferase
+449918..451159	-	413	73748415	serS	cbdb_A554	-	COG0172J	seryl-tRNA synthetase
+451191..452687	-	498	73748416	lysS	cbdb_A555	-	COG1190J	lysyl-tRNA synthetase
+452917..453096	+	59	73748417	-	cbdb_A556	-	-	hypothetical protein
+453110..453871	-	253	73748418	recO	cbdb_A557	-	COG1381L	recombination protein RecO
+453872..453967	-	31	73748419	-	cbdb_A558	-	-	hypothetical protein
+453970..454692	-	240	73748420	-	cbdb_A559	-	COG4912L	hypothetical protein
+454694..455758	-	354	73748421	corA	cbdb_A560	-	COG0598P	magnesium and cobalt transport protein CorA
+455797..456411	-	204	73748422	recR	cbdb_A561	-	COG0353L	recombination protein RecR
+456433..456732	-	99	73748423	-	cbdb_A562	-	COG0718S	hypothetical protein
+456742..458454	-	570	73748424	dnaX	cbdb_A563	-	COG2812L	DNA polymerase III subunits gamma and tau
+458555..458815	-	86	73748425	-	cbdb_A564	-	-	hypothetical protein
+458846..459268	-	140	73748426	-	cbdb_A565	-	-	hypothetical protein
+459284..459568	-	94	73748427	-	cbdb_A566	-	-	hypothetical protein
+459568..459942	-	124	73748428	-	cbdb_A567	-	COG3877S	hypothetical protein
+460149..461327	-	392	73748429	-	cbdb_A568	-	COG0206D	GTPase domain-containing protein
+461415..462422	-	335	73748430	gap	cbdb_A569	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+462444..463463	-	339	73748431	-	cbdb_A570	-	COG1775E	hypothetical protein
+463460..464278	-	272	73748432	-	cbdb_A571	-	-	hypothetical protein
+464294..465580	-	428	73748433	eno	cbdb_A573	-	COG0148G	phosphopyruvate hydratase
+465599..466078	-	159	73748434	-	cbdb_A574	-	COG1611R	hypothetical protein
+466126..466695	-	189	73748435	pth	cbdb_A576	-	COG0193J	peptidyl-tRNA hydrolase
+466695..468728	-	677	73748436	ligA	cbdb_A577	-	COG0272L	NAD-dependent DNA ligase
+468873..470201	+	442	73748437	-	cbdb_A578	-	COG4198S	hypothetical protein
+470272..470859	-	195	73748438	-	cbdb_A579	-	COG0311H	glutamine amidotransferase subunit PdxT
+470934..472514	-	526	73748439	serA	cbdb_A580	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+472516..473604	-	362	73748440	-	cbdb_A581	-	COG0075E	soluble hydrogenase, tritium exchange subunit
+473664..474854	-	396	73748441	tyrS	cbdb_A583	-	COG0162J	tyrosyl-tRNA synthetase
+474861..475778	-	305	73748442	ribF	cbdb_A584	-	COG0196H	riboflavin biosynthesis protein RibF
+476185..480006	+	1273	73748443	rpoB	cbdb_A586	-	COG0085K	DNA-directed RNA polymerase subunit beta
+479993..483880	+	1295	73748444	rpoC	cbdb_A587	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+484087..485136	+	349	73748445	ruvB	cbdb_A588	-	COG2255L	Holliday junction DNA helicase RuvB
+485126..485674	+	182	73748446	-	cbdb_A589	-	COG1636S	hypothetical protein
+485751..486392	+	213	73748447	rimI	cbdb_A591	-	COG0456R	ribosomal-protein-alanine acetyltransferase
+486409..486636	-	75	73748448	-	cbdb_A592	-	-	hypothetical protein
+486701..487240	-	179	73748449	-	cbdb_A593	-	COG0701R	hypothetical protein
+487269..487943	-	224	73748450	-	cbdb_A594	-	COG2226H	hypothetical protein
+487987..489366	+	459	73748451	-	cbdb_A595	-	COG1243KB	ELP3 family histone acetyltransferase
+489582..490520	+	312	73748452	-	cbdb_A596	-	COG1941C	hydrogenase 3 subunit VhuG
+490552..491991	+	479	73748453	-	cbdb_A597	-	COG3259C	hydrogenase 3 subunit VhuA
+491994..492497	+	167	73748454	-	cbdb_A598	-	COG0680C	hydrogenase maturation protease
+492494..492799	-	101	73748455	-	cbdb_A599	-	-	hypothetical protein
+492817..493356	-	179	73748456	-	cbdb_A600	-	COG1225O	thiol-disulfide oxidoreductase
+493358..494080	-	240	73748457	ccdA	cbdb_A601	-	COG0785O	cytochrome c-type biogenesis protein CcdA
+494143..495282	+	379	73748458	-	cbdb_A602	-	COG2887L	hypothetical protein
+495303..495791	+	162	73748459	-	cbdb_A604	-	-	hypothetical protein
+495989..496738	+	249	73748460	rdhI	cbdb_A606	-	COG1180O	radical SAM domain-containing protein
+496739..498538	+	599	73748461	nrd	cbdb_A608	-	COG0209F	ribonucleotide reductase
+498581..499540	-	319	73748462	-	cbdb_A610	-	COG3437KT	response regulator
+499570..502128	-	852	73748463	-	cbdb_A612	-	COG0642T	sensor histidine kinase
+502304..502636	-	110	73748464	-	cbdb_A613	-	COG0727R	hypothetical protein
+502718..503983	+	421	73748465	-	cbdb_A614	-	-	hypothetical protein
+504126..505445	+	439	73748466	kamA	cbdb_A615	-	COG1509E	lysine 2,3-aminomutase
+505417..506433	+	338	73748467	ddl	cbdb_A616	-	COG1181M	D-alanine--D-alanine ligase
+506564..506995	+	143	73748468	-	cbdb_A617	-	COG0735P	FUR family transcriptional regulator
+506992..507864	+	290	73748469	-	cbdb_A618	-	COG0803P	cation ABC transporter periplasmc-binding protein
+507867..508631	+	254	73748470	-	cbdb_A619	-	COG1121P	cation ABC transporter ATP-binding protein
+508628..509473	+	281	73748471	-	cbdb_A620	-	COG1108P	cation ABC transporter permease
+509497..509847	-	116	73748472	-	cbdb_A621	-	-	hypothetical protein
+509963..511093	-	376	73748473	ftsZ	cbdb_A622	-	COG0206D	cell division protein FtsZ
+511126..512328	-	400	73748474	ftsA	cbdb_A623	-	COG0849D	cell division protein FtsA
+512836..513525	+	229	73748475	-	cbdb_A624	-	-	hypothetical protein
+513682..514545	+	287	73748476	-	cbdb_A625	-	COG0589T	universal stress protein
+514599..515228	+	209	73748477	-	cbdb_A626	-	COG1878R	cyclase
+515229..515891	+	220	73748478	-	cbdb_A627	-	COG0036G	ribulose-phosphate 3-epimerase
+515888..516346	-	152	73748479	rpiB	cbdb_A628	-	COG0698G	ribose-5-phosphate isomerase B
+516339..518339	-	666	73748480	tkt	cbdb_A629	-	COG0021G	transketolase
+518391..518900	-	169	73748481	-	cbdb_A630	-	COG0778C	nitroreductase
+519026..519868	+	280	73748482	-	cbdb_A631	-	COG2227H	hypothetical protein
+520049..520639	+	196	73748483	-	cbdb_A632	-	COG1611R	hypothetical protein
+521245..522258	+	337	73748484	fecB	cbdb_A633	-	COG0614P	cobalamin/Fe3+-siderophores ABC transporter periplasmic protein
+522314..523405	+	363	73748485	fecD	cbdb_A635	-	COG0609P	cobalamin/Fe3+-siderophores ABC transporter permease
+523417..524244	+	275	73748486	fepC	cbdb_A636	-	COG1120PH	cobalamin/Fe3+-siderophores ABC transporter ATPase
+524234..525004	+	256	73748487	rdhF	cbdb_A637	-	COG1865S	hypothetical protein
+525007..525933	+	308	73748488	cbiB	cbdb_A638	-	COG1270H	cobalamin biosynthesis protein
+525917..527023	+	368	73748489	cobD	cbdb_A639	-	COG0079E	threonine-phosphate decarboxylase
+527396..528454	+	352	73748490	cobT	cbdb_A641	-	COG2038H	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase
+528494..529258	+	254	73748491	cobS	cbdb_A642	-	COG0368H	cobalamin 5'-phosphate synthase
+529277..529879	+	200	73748492	cobC	cbdb_A643	-	COG0406G	alpha-ribazole-5'-phosphate phosphatase
+529933..530499	+	188	73748493	cobU	cbdb_A644	-	COG2087H	cobinamide kinase
+530575..530898	-	107	73748494	trx	cbdb_A645	-	COG3118O	thioredoxin
+531068..532213	-	381	73748495	-	cbdb_A646	-	COG4585T	sensor histidine kinase
+532230..532904	-	224	73748496	-	cbdb_A647	-	COG2197TK	LuxR family transcriptional regulator
+532974..533618	-	214	73748497	-	cbdb_A649	-	-	hypothetical protein
+533650..534996	-	448	73748498	acsC	cbdb_A651	-	COG1456C	acetyl-CoA decarbonylase/synthase complex subunit gamma
+535017..537218	-	733	73748499	codH	cbdb_A652	-	COG1614C	bifunctional acetyl-CoA decarbonylase/synthase complex subunit alpha/beta
+537278..538219	-	313	73748500	acsD	cbdb_A654	-	COG2069C	acetyl-CoA decarbonylase/synthase complex subunit delta
+538255..539145	-	296	73748501	folD	cbdb_A656	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+539145..539927	-	260	73748502	acsF	cbdb_A658	-	COG3640D	carbon monoxide dehydrogenase nickel-insertion accessory protein
+539924..541846	-	640	73748503	-	cbdb_A659	-	COG3894R	iron-sulfur cluster binding protein
+541884..543677	-	597	73748504	fhs	cbdb_A660	-	COG2759F	formate--tetrahydrofolate ligase
+543808..544389	+	193	73748505	-	cbdb_A661	-	-	hypothetical protein
+544508..544687	+	59	73748506	-	cbdb_A662	-	-	hypothetical protein
+544764..546560	+	598	73748507	aspS	cbdb_A663	-	COG0173J	aspartyl-tRNA synthetase
+546580..547923	+	447	73748508	tig	cbdb_A664	-	COG0544O	trigger factor
+547920..548522	+	200	73748509	clpP	cbdb_A666	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+548603..549589	-	328	73748510	-	cbdb_A667	-	COG0524G	carbohydrate kinase
+549591..550412	-	273	73748511	-	cbdb_A668	-	COG0299F	phosphoribosylglycinamide transformylase
+550415..551074	-	219	73748512	-	cbdb_A669	-	COG0613R	phosphotransferase domain-containing protein
+551077..551637	-	186	73748513	efp	cbdb_A670	-	COG0231J	translation elongation factor P
+551653..552744	-	363	73748514	-	cbdb_A671	-	COG0006E	M24 family metallopeptidase
+552741..553664	-	307	73748515	xerC	cbdb_A673	-	COG4974L	tyrosine recombinase XerC
+553665..555776	-	703	73748516	topA	cbdb_A674	-	COG0550L	DNA topoisomerase I
+555783..556934	-	383	73748517	-	cbdb_A675	-	COG0758LU	DNA processing protein DprA
+557369..557545	+	58	73748518	-	cbdb_A676	-	-	hypothetical protein
+557675..558958	+	427	73748519	gerN	cbdb_A678	-	COG0475P	antiporter GerN
+559100..559672	+	190	73748520	porG	cbdb_B16	-	COG1014C	pyruvic-ferredoxin oxidoreductase subunit gamma
+559701..559961	+	86	73748521	porD	cbdb_A680	-	COG1144C	pyruvic-ferredoxin oxidoreductase subunit delta
+559961..561133	+	390	73748522	porA	cbdb_A681	-	COG0674C	pyruvic-ferredoxin oxidoreductase subunit alpha
+561133..562074	+	313	73748523	porB	cbdb_A682	-	COG1013C	pyruvic-ferredoxin oxidoreductase subunit beta
+562050..562523	+	157	73748524	hymA	cbdb_A683	-	COG1905C	[Fe] hydrogenase subunit HymA
+562523..564394	+	623	73748525	hymB	cbdb_A684	-	COG1894C	[Fe] hydrogenase subunit HymB
+564407..565129	+	240	73748526	hymC	cbdb_A685	-	COG1034C	[Fe] hydrogenase subunit HymC
+565317..566042	+	241	73748527	-	cbdb_B17	-	COG2041R	hypothetical protein
+566204..567673	+	489	73748528	-	cbdb_A687	-	COG1249C	mercuric reductase
+567933..568319	+	128	73748529	-	cbdb_A688	-	COG2331S	hypothetical protein
+568499..569293	-	264	73748530	-	cbdb_A689	-	COG1028IQR	oxidoreductase, short chaindehydrogenase
+569504..570652	+	382	73748531	-	cbdb_A691	-	COG2262R	GTP-binding protein
+570656..570868	+	70	73748532	-	cbdb_A692	-	-	hypothetical protein
+571250..571411	-	53	73748533	-	cbdb_A693	-	COG4226S	hypothetical protein
+571443..571868	-	141	73748534	-	cbdb_A694	-	-	hypothetical protein
+571869..572207	-	112	73748535	-	cbdb_A695	-	-	hypothetical protein
+572204..572413	-	69	73748536	-	cbdb_A696	-	-	hypothetical protein
+572493..573185	-	230	73748537	-	cbdb_A697	-	-	hypothetical protein
+573178..573381	-	67	73748538	-	cbdb_A698	-	-	hypothetical protein
+573381..574511	-	376	73748539	-	cbdb_A699	-	-	hypothetical protein
+574514..574921	-	135	73748540	-	cbdb_A700	-	-	hypothetical protein
+574980..575546	-	188	73748541	-	cbdb_A701	-	-	hypothetical protein
+575548..575826	-	92	73748542	-	cbdb_A703	-	-	hypothetical protein
+575987..576526	-	179	73748543	-	cbdb_A704	-	COG0433R	hypothetical protein
+576552..576995	-	147	73748544	-	cbdb_A705	-	-	hypothetical protein
+576992..577267	-	91	73748545	-	cbdb_A706	-	COG1885S	hypothetical protein
+577272..577403	-	43	73748546	-	cbdb_A707	-	-	hypothetical protein
+577555..577671	+	38	73748547	-	cbdb_A708	-	-	hypothetical protein
+577697..578212	-	171	73748548	-	cbdb_A709	-	COG1961L	hypothetical protein
+578315..578521	-	68	73748549	-	cbdb_A711	-	-	hypothetical protein
+578499..579170	-	223	73748550	-	cbdb_A712	-	-	hypothetical protein
+579163..579282	-	39	73748551	-	cbdb_A713	-	-	hypothetical protein
+579674..580840	-	388	73748552	-	cbdb_A714	-	COG0436E	LL-diaminopimelate aminotransferase
+580827..581681	-	284	73748553	dapF	cbdb_A715	-	COG0253E	diaminopimelate epimerase
+581668..582654	-	328	73748554	miaA	cbdb_A716	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphatetransferase
+582715..583476	-	253	73748555	tpiA	cbdb_A717	-	COG0149G	triosephosphate isomerase
+583488..584693	-	401	73748556	-	cbdb_A718	-	COG3635G	cofactor-independent phosphoglycerate mutase
+584686..585879	-	397	73748557	pgk	cbdb_A719	-	COG0126G	phosphoglycerate kinase
+585979..587922	-	647	73748558	dxs	cbdb_A720	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+588068..588595	+	175	73748559	-	cbdb_A721	-	COG2426S	small multi-drug export protein
+588811..588999	+	62	73748560	-	cbdb_B18	-	-	hypothetical protein
+589105..590553	-	482	73748561	hpt	cbdb_A722	-	COG0634F	hypoxanthine phosphoribosyl transferase
+590618..590977	-	119	73748562	rplT	cbdb_A723	-	COG0292J	50S ribosomal protein L20
+590996..591199	-	67	73748563	rpmI	cbdb_A724	-	COG0291J	50S ribosomal protein L35
+591192..591665	-	157	73748564	infC	cbdb_A725	-	COG0290J	translation initiation factor IF-3
+591816..593564	-	582	73748565	thrS	cbdb_A726	-	COG0441J	threonyl-tRNA synthetase
+593691..596222	-	843	73748566	-	cbdb_A727	-	-	hypothetical protein
+596364..597770	-	468	73748567	-	cbdb_A728	-	-	hypothetical protein
+598456..598824	+	122	73748568	-	cbdb_A729	-	-	hypothetical protein
+598835..599497	+	220	73748569	-	cbdb_A730	-	COG0325R	hypothetical protein
+599494..600153	-	219	73748570	-	cbdb_A732	-	COG4359E	2,3-diketo-5-methylthio-1-phosphopentane phosphatase
+600177..600680	-	167	73748571	def	cbdb_A733	-	COG0242J	peptide deformylase
+600966..601769	-	267	73748572	-	cbdb_A734	-	-	hypothetical protein
+601827..602228	-	133	73748573	-	cbdb_A735	-	COG4852S	hypothetical protein
+602238..602897	-	219	73748574	-	cbdb_A736	-	COG0412Q	hypothetical protein
+603110..603274	+	54	73748575	-	cbdb_A737	-	-	hypothetical protein
+603346..605472	-	708	73748576	hppA	cbdb_A738	-	COG3808C	membrane-bound proton-translocating pyrophosphatase
+605662..605892	+	76	73748577	-	cbdb_A739	-	-	ATPase subunit C family protein
+605960..606289	-	109	73748578	-	cbdb_A740	-	COG4818S	hypothetical protein
+606361..607500	-	379	73748579	-	cbdb_A741	-	COG1994R	M50 family metallopeptidase
+607527..608039	-	170	73748580	greA	cbdb_A743	-	COG0782K	transcription elongation factor GreA
+608358..609497	-	379	73748581	-	cbdb_A744	-	COG0644C	hypothetical protein
+609638..609874	+	78	73748582	-	cbdb_A745	-	-	hypothetical protein
+609863..610603	-	246	73748583	-	cbdb_A747	-	-	hypothetical protein
+610596..611708	-	370	73748584	-	cbdb_A748	-	COG1994R	M50 family metallopeptidase
+611744..613039	-	431	73748585	thiC	cbdb_A749	-	COG0422H	thiamine biosynthesis protein ThiC
+613267..613974	+	235	73748586	gidB	cbdb_A750	-	COG0357M	16S rRNA methyltransferase GidB
+614193..615722	+	509	73748587	-	cbdb_A751	-	COG3854S	single-stranded nucleic acid binding R3H domain-containing protein
+615725..616351	+	208	73748588	tmk	cbdb_A752	-	COG0125F	thymidylate kinase
+616344..617417	+	357	73748589	mnmA	cbdb_A754	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+617419..618057	+	212	73748590	rnhB	cbdb_A756	-	COG0164L	ribonuclease HII
+618047..618412	+	121	73748591	-	cbdb_A757	-	COG0792L	hypothetical protein
+618448..619506	+	352	73748592	thiE	cbdb_A758	-	COG0352H	thiamine-phosphate pyrophosphorylase
+619520..620152	+	210	73748593	-	cbdb_A759	-	COG2178J	haloacid dehalogenase
+620157..622196	+	679	73748594	hppA	cbdb_A761	-	COG3808C	membrane-bound proton-translocating pyrophosphatase
+622208..622825	-	205	73748595	-	cbdb_A762	-	COG0491R	metallo-beta-lactamase
+622896..623477	+	193	73748596	-	cbdb_A763	-	-	hypothetical protein
+623514..624815	+	433	73748597	glyS	cbdb_A765	-	COG0423J	glycyl-tRNA synthetase
+624829..626076	+	415	73748598	sbcD	cbdb_A766	-	COG0420L	nuclease SbcD
+626100..626849	+	249	73748599	-	cbdb_A767	-	COG1187J	RsuA family pseudouridine synthase
+626842..627576	-	244	73748600	-	cbdb_A768	-	COG1926R	phosphoribosyltransferase
+627576..629291	-	571	73748601	adeC	cbdb_A769	-	COG1001F	adenine deaminase
+629275..629820	-	181	73748602	hpt	cbdb_A770	-	COG0634F	hypoxanthine phosphoribosyltransferase
+630043..630774	+	243	73748603	-	cbdb_A772	-	-	ABC transporter associated protein with signal peptide periplasmic substrate binding subunit
+630869..631786	+	305	73748604	-	cbdb_A773	-	COG1131V	ABC transporter ATP-binding protein
+631783..632865	+	360	73748605	-	cbdb_A774	-	COG0842V	ABC transporter permease
+632948..633979	-	343	73748606	queA	cbdb_A775	-	COG0809J	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+634142..634939	+	265	73748607	surE	cbdb_A776	-	COG0496R	stationary phase survival protein SurE
+635051..635221	-	56	73748608	-	cbdb_B19	-	-	hypothetical protein
+635295..635627	+	110	73748609	-	cbdb_A778	-	-	hypothetical protein
+635796..636653	+	285	73748610	-	cbdb_A779	-	COG5495S	hypothetical protein
+636676..637050	+	124	73748611	panD	cbdb_A780	-	COG0853H	aspartate alpha-decarboxylase
+637053..637892	+	279	73748612	panB	cbdb_A781	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+637907..638713	+	268	73748613	panC	cbdb_A782	-	COG0414H	pantoate--beta-alanine ligase
+638710..639972	-	420	73748614	-	cbdb_A783	-	COG2271G	major facilitator family transporter
+639972..640271	-	99	73748615	-	cbdb_A784	-	COG1695K	hypothetical protein
+640934..642436	+	500	73748616	-	cbdb_A785	-	COG1233Q	phytoene dehydrogenase
+642433..643023	-	196	73748617	-	cbdb_A787	-	COG3356S	PAP2 family protein
+643241..643987	+	248	73748618	-	cbdb_A789	-	COG1131V	ABC transporter ATP-binding protein
+643980..644705	+	241	73748619	-	cbdb_A791	-	COG0842V	ABC transporter permease
+644805..645560	+	251	73748620	sufC	cbdb_A793	-	COG0396O	iron-regulated ABC transporter ATP-binding protein, SufC
+645542..646777	+	411	73748621	sufB	cbdb_A794	-	COG0719O	iron-regulated ABC transporter subunit SufB-related
+646846..647637	-	263	73748622	-	cbdb_A795	-	COG1119P	ABC transporter ATP-binding protein
+647913..648566	-	217	73748623	thyA	cbdb_A796	-	COG0207F	thymidylate synthase
+648578..649285	-	235	73748624	-	cbdb_A797	-	-	hypothetical protein
+649294..649884	-	196	73748625	-	cbdb_A799	-	-	hypothetical protein
+649987..650403	+	138	73748626	-	cbdb_A800	-	COG1371S	hypothetical protein
+650413..651873	+	486	73748627	-	cbdb_A801	-	COG1690S	hypothetical protein
+651874..652488	+	204	73748628	-	cbdb_A802	-	COG0778C	nitroreductase
+652493..654094	-	533	73748629	-	cbdb_A803	-	COG0119E	alpha-isopropylmalate/homocitrate synthase transferase
+654101..655198	-	365	73748630	leuB	cbdb_A804	-	COG0473CE	3-isopropylmalate dehydrogenase
+655199..655699	-	166	73748631	leuD	cbdb_A805	-	COG0066E	3-isopropylmalate dehydratase small subunit
+655771..657021	-	416	73748632	leuC	cbdb_A806	-	COG0065E	3-isopropylmalate dehydratase large subunit
+657042..657443	-	133	73748633	-	cbdb_A807	-	COG1285S	membrane protein, MgtC
+657459..658976	-	505	73748634	leuA	cbdb_A808	-	COG0119E	2-isopropylmalate synthase
+659152..660150	-	332	73748635	ilvC	cbdb_A811	-	COG0059EH	ketol-acid reductoisomerase
+660169..660705	-	178	73748636	ilvH	cbdb_A812	-	COG0440E	acetolactate synthase 3 regulatory subunit
+660681..662390	-	569	73748637	ilvB	cbdb_A813	-	COG0028EH	acetolactate synthase, large subunit
+662412..664079	-	555	73748638	ilvD	cbdb_A815	-	COG0129EG	dihydroxy-acid dehydratase
+664180..664821	-	213	73748639	-	cbdb_A816	-	COG0009J	translation factor Sua5
+665053..666654	+	533	73748640	guaA	cbdb_A817	-	COG0519F	GMP synthase
+666661..666972	+	103	73748641	-	cbdb_A818	-	-	hypothetical protein
+666992..668269	+	425	73748642	purD	cbdb_A819	-	COG0151F	phosphoribosylamine--glycine ligase
+668260..668724	+	154	73748643	purE	cbdb_A820	-	COG0041F	phosphoribosylaminoimidazole carboxylase,catalytic subunit
+668721..670076	+	451	73748644	purB	cbdb_A821	-	COG0015F	adenylosuccinate lyase
+670077..670991	+	304	73748645	purC	cbdb_A823	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+671064..671654	-	196	73748646	hisB	cbdb_A824	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+671656..672732	-	358	73748647	hisC	cbdb_A825	-	COG0079E	histidinol-phosphate aminotransferase
+672745..674055	-	436	73748648	hisD	cbdb_A826	-	COG0141E	histidinol dehydrogenase
+674062..675468	-	468	73748649	-	cbdb_A828	-	COG0040E	ATP phosphoribosyltransferase
+675461..676699	-	412	73748650	hisS	cbdb_A829	-	COG0124J	histidyl-tRNA synthetase
+676840..677130	+	96	73748651	-	cbdb_A830	-	COG1030O	hypothetical protein
+677131..677934	+	267	73748652	-	cbdb_A831	-	COG0330O	SPFH domain-containing protein
+678004..678804	-	266	73748653	birA	cbdb_A832	-	COG0340H	biotin--acetyl-CoA-carboxylase ligase
+678883..679437	+	184	73748654	-	cbdb_A833	-	COG1793L	hypothetical protein
+679476..680372	+	298	73748655	-	cbdb_A834	-	COG4152R	ABC transporter ATP-binding protein
+680332..681582	+	416	73748656	-	cbdb_A835	-	COG1668CP	ABC transporter permease
+682091..682306	+	71	73748657	-	cbdb_A837	-	-	hypothetical protein
+682623..683846	+	407	73748658	-	cbdb_A838	-	COG4591M	ABC transporter permease
+683848..684558	+	236	73748659	-	cbdb_A839	-	COG1136V	ABC transporter ATP-binding protein
+684571..685707	+	378	73748660	-	cbdb_A840	-	COG0635H	oxygen-independent coproporphyrinogen III oxidase
+685771..687588	+	605	73748661	lepA	cbdb_A841	-	COG0481M	GTP-binding protein LepA
+687728..689674	+	648	73748662	echA	cbdb_A842	-	COG1009CP	hydrogenase subunit EchA
+689671..690519	+	282	73748663	echB	cbdb_A843	-	COG0650C	hydrogenase subunit EchB
+690520..690987	+	155	73748664	echC	cbdb_A844	-	COG3260C	hydrogenase 4 subunit EchC
+690980..691465	+	161	73748665	-	cbdb_A845	-	COG1905C	hydrogenase subunit HymA
+691479..693401	+	640	73748666	-	cbdb_A846	-	COG1894C	hydrogenase subunit HymB
+693401..693994	+	197	73748667	-	cbdb_A848	-	COG1034C	hydrogenase subunit HymC
+693997..695382	+	461	73748668	-	cbdb_A849	-	COG0493ER	hydrogenase subunit
+695383..696462	+	359	73748669	-	cbdb_A850	-	COG3261C	hydrogenase 4 subunit EchE
+696472..696816	+	114	73748670	-	cbdb_A851	-	COG1143C	hydrogenase subunit EchF
+696898..697827	-	309	73748671	-	cbdb_A853	-	COG2269J	lysyl-tRNA synthetase
+697833..698399	-	188	73748672	efp	cbdb_A854	-	COG0231J	translation elongation factor P
+698589..699074	+	161	73748673	rdhR	cbdb_A855	-	COG1846K	MarR family transcriptional regulator
+699079..702003	+	974	73748674	-	cbdb_A856	-	COG2409R	MmpL domain-containing protein
+702049..702693	-	214	73748675	-	cbdb_A857	-	COG1396K	DNA-binding protein
+703199..703534	-	111	73748676	-	cbdb_A858	-	COG1497K	hypothetical protein
+703898..705172	+	424	73748677	arsB	cbdb_A859	-	COG1055P	arsenical pump membrane protein
+705174..706559	+	461	73748678	-	cbdb_A860	-	COG2211G	hypothetical protein
+706709..707818	+	369	73748679	-	cbdb_A861	-	COG2309E	aminopeptidase
+707855..708526	+	223	73748680	-	cbdb_A862	-	COG1926R	phosphoribosyltransferase
+708734..709189	+	151	73748681	-	cbdb_A863	-	COG1633S	hypothetical protein
+709251..709946	+	231	73748682	-	cbdb_A864	-	-	hypothetical protein
+709965..710771	-	268	73748683	-	cbdb_A865	-	COG2047R	hypothetical protein
+710755..711663	-	302	73748684	-	cbdb_A867	-	COG2047R	hypothetical protein
+711880..712080	-	66	73748685	-	cbdb_A868	-	-	hypothetical protein
+712107..712361	-	84	73748686	-	cbdb_A869	-	-	hypothetical protein
+712519..713271	-	250	73748687	-	cbdb_A870	-	COG2122S	hypothetical protein
+713281..713691	-	136	73748688	-	cbdb_A871	-	COG1135P	(Fe-S)-binding protein
+713700..714926	-	408	73748689	-	cbdb_A872	-	COG1900S	hypothetical protein
+715147..716229	+	360	73748690	pilT	cbdb_A873	-	COG2805NU	twitching mobility protein
+716512..716883	+	123	73748691	-	cbdb_A874	-	COG0838C	proton-translocating NADH-quinone oxidoreductase subunit A
+716874..717476	+	200	73748692	nuoB	cbdb_A875	-	COG0377C	proton-translocating NADH-quinone oxidoreductase subunit B
+717481..717930	+	149	73748693	nuoC	cbdb_A876	-	COG0852C	proton-translocating NADH-quinone oxidoreductase subunit C
+717920..719023	+	367	73748694	nuoD	cbdb_A877	-	COG0649C	proton-translocating NADH-quinone oxidoreductase subunit D
+719023..720084	+	353	73748695	nuoH	cbdb_A879	-	COG1005C	proton-translocating NADH-quinone oxidoreductase subunit H
+720110..720619	+	169	73748696	-	cbdb_A880	-	COG1143C	proton-translocating NADH-quinone oxidoreductase subunit I
+720626..721108	+	160	73748697	-	cbdb_A881	-	COG0839C	proton-translocating NADH-quinone oxidoreductase subunit J
+721110..721415	+	101	73748698	-	cbdb_A882	-	COG0713C	proton-translocating NADH-quinone oxidoreductase subunit K
+721432..723396	+	654	73748699	-	cbdb_A883	-	COG1009CP	proton-translocating NADH-quinone oxidoreductase subunit L
+723406..724899	+	497	73748700	nuoM	cbdb_A884	-	COG1008C	proton-translocating NADH-quinone oxidoreductase subunit M
+724918..726363	+	481	73748701	nuoN	cbdb_A885	-	COG1007C	proton-translocating NADH-quinone oxidoreductase subunit N
+726380..727168	+	262	73748702	-	cbdb_A887	-	COG0084L	TatD family hydrolase
+727148..727804	-	218	73748703	nth	cbdb_A889	-	COG0177L	endonuclease III
+727929..729440	+	503	73748704	cobQ	cbdb_A890	-	COG1492H	cobyric acid synthase CobQ
+729437..729847	+	136	73748705	-	cbdb_A891	-	COG2050Q	thioesterase
+729855..730685	-	276	73748706	-	cbdb_A892	-	COG0411E	branched chain amino acid ABC transporter ATP-binding protein
+730672..730938	-	88	73748707	-	cbdb_A893	-	-	hypothetical protein
+730948..732237	-	429	73748708	-	cbdb_A894	-	COG1541H	acyl-CoA synthetase
+732228..733019	-	263	73748709	-	cbdb_A895	-	COG0410E	branched chain amino acid ABC transporter ATP-binding protein
+733040..734326	-	428	73748710	-	cbdb_A896	-	COG0683E	branched chain amino acid ABC transporter substrate-binding protein
+734415..735707	-	430	73748711	-	cbdb_A897	-	COG0683E	branched chain amino acid ABC transporter substrate-binding protein
+735750..736802	-	350	73748712	-	cbdb_A898	-	COG4177E	branched-chain amino acid ABC transporter permease
+736805..737689	-	294	73748713	-	cbdb_A899	-	COG0559E	branched-chain amino acid ABC transporter permease
+737699..739591	-	630	73748714	-	cbdb_A901	-	COG1022I	acyl-CoA synthetase
+739922..741718	+	598	73748715	iorA	cbdb_A902	-	COG4231C	indolepyruvate ferredoxin oxidoreductase subunit alpha
+741723..742316	+	197	73748716	iorB	cbdb_A903	-	COG1014C	indolepyruvate oxidoreductase subunit beta
+742313..742801	-	162	73748717	-	cbdb_A904	-	COG3448T	hypothetical protein
+742816..743016	-	66	73748718	-	cbdb_A905	-	-	hypothetical protein
+743018..743401	-	127	73748719	-	cbdb_A906	-	COG0822C	NifU domain-containing protein
+743570..743824	+	84	73748720	-	cbdb_A907	-	COG3462S	hypothetical protein
+743834..746320	+	828	73748721	-	cbdb_A908	-	COG2217P	copper-translocating P-type ATPase
+746418..746906	+	162	73748722	-	cbdb_A909	-	COG0071O	heat shock protein 20
+746959..747786	+	275	73748723	-	cbdb_A911	-	COG2193P	bacterioferritin domain-containing protein
+747816..748394	+	192	73748724	sodA	cbdb_A912	-	COG0605P	superoxide dismutase
+748492..749262	-	256	73748725	-	cbdb_A914	-	COG1594K	hypothetical protein
+749695..749997	-	100	73748726	-	cbdb_A915	-	COG1193L	Smr domain-containing protein
+750153..750959	+	268	73748727	hisF	cbdb_A916	-	COG0107E	Imidazole glycerol phosphate synthase cyclase subunit
+751018..752070	+	350	73748728	-	cbdb_A918	-	COG1693S	hypothetical protein
+752124..753374	-	416	73748729	-	cbdb_A919	-	COG0621J	MiaB family tRNA modification protein
+753463..754731	+	422	73748730	fabF	cbdb_A921	-	COG0304IQ	3-oxoacyl-ACP synthase
+754715..756415	+	566	73748731	recJ	cbdb_A922	-	COG0608L	single-stranded-DNA-specific exonuclease RecJ
+756431..757063	+	210	73748732	-	cbdb_A924	-	COG0344S	hypothetical protein
+757243..758025	-	260	73748733	lgt	cbdb_A926	-	COG0682M	prolipoprotein diacylglyceryl transferase
+758096..760390	-	764	73748734	-	cbdb_A928	-	COG1205R	ATP-dependent RNA helicase, DEAD
+760402..760692	-	96	73748735	-	cbdb_A929	-	COG1550S	hypothetical protein
+760877..761140	+	87	73748736	rpsO	cbdb_A931	-	COG0184J	30S ribosomal protein S15
+761182..763344	+	720	73748737	pnp	cbdb_A932	-	COG1185J	polynucleotide phosphorylase
+763361..764152	+	263	73748738	dapB	cbdb_A933	-	COG0289E	dihydrodipicolinate reductase
+764163..765179	+	338	73748739	asd	cbdb_A934	-	COG0136E	aspartate-semialdehyde dehydrogenase
+765182..766075	+	297	73748740	dapA	cbdb_A935	-	COG0329EM	dihydrodipicolinate synthase
+766077..766742	+	221	73748741	-	cbdb_A936	-	COG0456R	puromycin N-acetyltransferase,-like protein
+766702..767331	+	209	73748742	-	cbdb_A937	-	COG0456R	acetyltransferase
+767451..768722	-	423	73748743	purA	cbdb_A939	-	COG0104F	adenylosuccinate synthetase
+768828..769409	-	193	73748744	-	cbdb_A940	-	COG0558I	CDP-alcohol phosphatidyltransferase
+769454..770602	-	382	73748745	-	cbdb_A942	-	COG0438M	glycoside hydrolase family protein
+770647..771759	-	370	73748746	-	cbdb_A943	-	COG1260I	myo-inositol-1-phosphate synthase
+771903..772076	-	57	73748747	-	cbdb_A944	-	-	hypothetical protein
+772123..773025	-	300	73748748	truB	cbdb_A945	-	COG0130J	tRNA pseudouridine synthase B
+773028..773384	-	118	73748749	rbfA	cbdb_A946	-	COG0858J	ribosome-binding factor A
+773384..775165	-	593	73748750	infB	cbdb_A947	-	COG0532J	translation initiation factor IF-2
+775146..775460	-	104	73748751	-	cbdb_A948	-	COG2740K	hypothetical protein
+775435..776910	-	491	73748752	nusA	cbdb_A949	-	COG0195K	transcription elongation factor NusA
+777100..778620	+	506	73748753	-	cbdb_A950	-	COG0606O	Mg chelatase,-like protein
+778622..779497	+	291	73748754	-	cbdb_A951	-	COG1670J	acetyltransferase
+779542..779859	-	105	73748755	-	cbdb_A952	-	COG2153R	acetyltransferase
+780078..780722	+	214	73748756	-	cbdb_A953	-	COG2928S	hypothetical protein
+780803..781174	-	123	73748757	rplL	cbdb_A954	-	COG0222J	50S ribosomal protein L7/L12
+781208..781738	-	176	73748758	rplJ	cbdb_A955	-	COG0244J	50S ribosomal protein L10
+781890..782603	-	237	73748759	rplA	cbdb_A956	-	COG0081J	50S ribosomal protein L1
+782607..783029	-	140	73748760	rplK	cbdb_A957	-	COG0080J	50S ribosomal protein L11
+783048..783581	-	177	73748761	nusG	cbdb_A958	-	COG0250K	transcription antitermination protein NusG
+783628..783846	-	72	73748762	secE	cbdb_A959	-	COG0690U	preprotein translocase subunit SecE
+783870..784037	-	55	73748763	rpmG	cbdb_B20	-	COG0267J	50S ribosomal protein L33
+784039..785241	-	400	73748764	tuf	cbdb_A960	-	COG0050J	elongation factor Tu
+785767..786480	-	237	73748765	-	cbdb_A962	-	COG2120S	hypothetical protein
+786493..787710	-	405	73748766	-	cbdb_A963	-	COG0438M	glycoside hydrolase family protein
+787703..788692	-	329	73748767	-	cbdb_A964	-	COG5653	hypothetical protein
+788694..788810	-	38	73748768	-	cbdb_B21	-	-	hypothetical protein
+788822..789160	+	112	73748769	-	cbdb_A966	-	COG0640K	ArsR family transcriptional regulator
+789160..790191	+	343	73748770	-	cbdb_A968	-	COG0701R	permease
+790209..790451	+	80	73748771	-	cbdb_A969	-	-	redox-active disulfide protein 2
+790525..791337	-	270	73748772	-	cbdb_A971	-	COG3599D	hypothetical protein
+791661..792932	-	423	73748773	-	cbdb_A973	-	COG2814G	major facilitator family transporter
+793080..793220	-	46	73748774	-	cbdb_A974	-	-	hypothetical protein
+793286..793525	+	79	73748775	-	cbdb_A975	-	-	hypothetical protein
+793509..794129	-	206	73748776	-	cbdb_A976	-	-	hypothetical protein
+794234..794476	+	80	73748777	-	cbdb_A979	-	COG0348C	hypothetical protein
+794660..795169	-	169	73748778	-	cbdb_A981	-	COG3448T	hypothetical protein
+795210..795446	-	78	73748779	-	cbdb_A982	-	-	hypothetical protein
+795696..795947	-	83	73748780	-	cbdb_A983	-	-	hypothetical protein
+796149..796538	-	129	73748781	-	cbdb_A985	-	COG4747R	ACT domain-containing protein
+796559..797878	-	439	73748782	-	cbdb_A988	-	COG1541H	acyl-CoA synthetase
+798106..801894	-	1262	73748783	-	cbdb_A989	-	COG4191T	sensor histidine kinase/response regulator
+802165..802734	-	189	73748784	-	cbdb_A990	-	-	hypothetical protein
+802779..802880	-	33	73748785	-	cbdb_A991	-	-	hypothetical protein
+805189..805350	-	53	73748786	-	cbdb_A992	-	-	hypothetical protein
+805537..805704	-	55	73748787	-	cbdb_A993	-	-	hypothetical protein
+806931..807644	+	237	73748788	rnc	cbdb_A994	-	COG0571K	ribonuclease III
+807674..807814	+	46	73748789	-	cbdb_A995	-	-	hypothetical protein
+807836..808111	+	91	73748790	-	cbdb_A998	-	COG1254C	acylphosphatase
+808138..808872	-	244	73748791	-	cbdb_A999	-	-	hypothetical protein
+808869..809123	-	84	73748792	-	cbdb_A1000	-	-	hypothetical protein
+809403..810896	-	497	73748793	pepA	cbdb_A1001	-	COG0260E	cytosol aminopeptidase
+810896..811498	-	200	73748794	-	cbdb_A1002	-	COG0645R	hypothetical protein
+811547..812404	-	285	73748795	-	cbdb_A1004	-	COG1307S	degV family protein
+812487..814004	-	505	73748796	-	cbdb_A1006	-	COG0318IQ	acyl-CoA synthetase
+814574..815938	+	454	73748797	-	cbdb_A1008	-	COG1350R	tryptophan synthase subunit beta
+816061..816876	+	271	73748798	-	cbdb_A1009	-	COG0265O	serine protease DegP
+816885..818018	+	377	73748799	-	cbdb_A1011	-	COG0265O	serine protease DegP
+818031..821075	-	1014	73748800	ileS	cbdb_A1012	-	COG0060J	isoleucyl-tRNA synthetase
+821378..821959	-	193	73748801	-	cbdb_A1014	-	COG1847R	SpoIIIJ-associated protein Jag
+821970..822917	-	315	73748802	-	cbdb_A1015	-	COG0706U	inner membrane protein, 60 kDa
+822929..824044	-	371	73748803	-	cbdb_A1016	-	COG1520S	hypothetical protein
+824238..824600	-	120	73748804	rnpA	cbdb_A1017	-	COG0594J	ribonuclease P protein component
+824659..824799	-	46	73748805	rpmH	cbdb_B22	-	COG0230J	50S ribosomal protein L34
+824835..825278	-	147	73748806	rpsR	cbdb_A1018	-	COG0238J	30S ribosomal protein S18
+825313..825720	-	135	73748807	ssb	cbdb_A1019	-	COG0629L	single-strand binding protein
+825771..826100	-	109	73748808	rpsF	cbdb_A1020	-	COG0360J	30S ribosomal protein S6
+826622..826864	+	80	73748809	-	cbdb_A1021	-	-	hypothetical protein
+826937..827314	-	125	73748810	-	cbdb_A1023	-	COG0251J	translation initiation inhibitor
+827445..828770	+	441	73748811	-	cbdb_A1024	-	-	hypothetical protein
+828859..829998	-	379	73748812	-	cbdb_A1025	-	COG0206D	cell division protein
+830182..831948	+	588	73748813	recN	cbdb_A1026	-	COG0497L	DNA repair protein RecN
+831951..832814	+	287	73748814	-	cbdb_A1028	-	COG2510S	transporter
+832921..833445	+	174	73748815	-	cbdb_A1030	-	-	hypothetical protein
+833548..834231	+	227	73748816	-	cbdb_A1032	-	COG0745TK	DNA-binding response regulator
+834239..835660	+	473	73748817	-	cbdb_A1033	-	COG0642T	sensor histidine kinase
+835685..836662	-	325	73748818	-	cbdb_A1034	-	COG4608E	peptide ABC transporter ATP-binding protein
+836647..837654	-	335	73748819	-	cbdb_A1036	-	COG0444EP	peptide ABC transporter ATP-binding protein
+837656..838561	-	301	73748820	-	cbdb_A1037	-	COG1173EP	peptide ABC transporter permease
+838569..839486	-	305	73748821	-	cbdb_A1038	-	COG0601EP	peptide ABC transporter permease
+839563..841239	-	558	73748822	-	cbdb_A1039	-	COG4166E	dipeptide/oligopeptide/nickel ABC transporter periplasmic protein
+841485..842891	+	468	73748823	-	cbdb_A1040	-	COG1236J	metallo-beta-lactamase
+843260..843958	-	232	73748824	-	cbdb_A1041	-	COG2197TK	LuxR family transcriptional regulator
+843955..847644	-	1229	73748825	-	cbdb_A1042	-	COG4585T	sensor histidine kinase
+847778..848959	+	393	73748826	-	cbdb_A1043	-	COG2265J	RNA methyltransferase
+848995..849384	+	129	73748827	-	cbdb_A1044	-	COG0288P	hypothetical protein
+849381..849530	+	49	73748828	-	cbdb_A1045	-	-	hypothetical protein
+849559..850233	+	224	73748829	maF	cbdb_A1046	-	COG0424D	maf-like protein
+850278..850703	-	141	73748830	-	cbdb_A1048	-	-	hypothetical protein
+850731..852431	-	566	73748831	nadE	cbdb_A1049	-	COG0171H	glutamine-dependent NAD(+) synthetase
+852516..853847	-	443	73748832	glnA	cbdb_A1050	-	COG0174E	glutamine synthetase, type I
+853974..854312	-	112	73748833	glnB	cbdb_A1051	-	COG0347E	P2-like signal transmitter protein GlnB
+854309..855535	-	408	73748834	amt	cbdb_A1052	-	COG0004P	ammonium transporter
+855674..856345	-	223	73748835	-	cbdb_A1053	-	COG0745TK	response regulator
+856367..857137	-	256	73748836	-	cbdb_A1054	-	COG0070E	hypothetical protein
+857138..858640	-	500	73748837	-	cbdb_A1055	-	COG0069E	glutamate synthase subunit alpha
+858642..859403	-	253	73748838	hisF	cbdb_A1057	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+859397..860527	-	376	73748839	-	cbdb_A1058	-	COG0067E	glutamine amidotransferase
+860540..861847	-	435	73748840	-	cbdb_A1059	-	COG1251C	pyridine nucleotide-disulfide oxidoreductase
+861844..862461	-	205	73748841	hisH	cbdb_A1060	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+862477..862908	-	143	73748842	-	cbdb_A1061	-	COG1142C	(Fe-S)-binding protein
+863040..863621	-	193	73748843	-	cbdb_A1062	-	COG1971S	hypothetical protein
+863743..864705	+	320	73748844	cysK	cbdb_A1063	-	COG0031E	O-acetylserine(thiol)-lyase-A-like protein
+864805..865311	-	168	73748845	-	cbdb_A1064	-	-	hypothetical protein
+865479..866300	+	273	73748846	rdhI	cbdb_A1066	-	COG1180O	radical SAM domain-containing protein
+866351..867274	+	307	73748847	cobD	cbdb_A1067	-	COG1270H	cobalamin biosynthesis protein
+867310..867858	+	182	73748848	cobA	cbdb_A1069	-	COG2109H	cob(I)alamin adenosyltransferase
+867858..868640	+	260	73748849	-	cbdb_A1070	-	COG0388R	carbon-nitrogen hydrolase
+868674..870113	+	479	73748850	-	cbdb_A1071	-	COG0726G	glycosyl transferase family protein
+870123..870785	+	220	73748851	-	cbdb_A1072	-	COG0586S	hypothetical protein
+870782..871603	-	273	73748852	-	cbdb_A1073	-	COG2339S	hypothetical protein
+871756..872487	+	243	73748853	-	cbdb_A1074	-	-	hypothetical protein
+872580..873323	-	247	73748854	-	cbdb_A1075	-	COG2197TK	LuxR family transcriptional regulator
+873532..876207	-	891	73748855	-	cbdb_A1077	-	COG1042C	acetyl-CoA synthetase
+876257..876340	-	27	73748856	-	cbdb_B23	-	-	hypothetical protein
+876339..876509	+	56	73748857	-	cbdb_A1078	-	-	hypothetical protein
+876686..877126	+	146	73748858	-	cbdb_A1080	-	-	hypothetical protein
+877302..877709	-	135	73748859	-	cbdb_A1081	-	COG0735P	FUR family transcriptional regulator
+877850..878635	-	261	73748860	-	cbdb_A1082	-	COG0596R	hypothetical protein
+878796..879344	+	182	73748861	-	cbdb_A1083	-	COG1695K	PadR-like family transcriptional regulator
+879535..880014	+	159	73748862	-	cbdb_A1085	-	COG1846K	MarR family transcriptional regulator
+880058..882283	+	741	73748863	-	cbdb_A1086	-	COG1132V	ABC transporter ATP-binding protein/permease
+882280..884190	+	636	73748864	-	cbdb_A1087	-	COG1132V	ABC transporter ATP-binding protein/permease
+884287..884595	+	102	73748865	-	cbdb_A1088	-	COG1149C	(Fe-S)-binding protein
+884626..884742	+	38	73748866	-	cbdb_A1089	-	-	hypothetical protein
+885119..885580	-	153	73748867	rdhR	cbdb_A1091	-	COG1846K	MarR family transcriptional regulator
+885869..887467	+	532	73748868	rdhA	cbdb_A1092	-	COG1600C	reductive dehalogenase
+887469..887765	+	98	73748869	rdhB	cbdb_A1094	-	-	reductive dehalogenase anchoring protein
+887822..888124	+	100	73748870	-	cbdb_A1095	-	COG2331S	hypothetical protein
+888127..888597	+	156	73748871	-	cbdb_B24	-	-	hypothetical protein
+888688..888927	+	79	73748872	-	cbdb_B25	-	-	hypothetical protein
+888911..889675	+	254	73748873	rdhF	cbdb_A1097	-	COG1865S	hypothetical protein
+889834..890481	-	215	73748874	-	cbdb_A1098	-	COG1268R	BioY family protein
+890534..890770	-	78	73748875	-	cbdb_A1099	-	-	hypothetical protein
+890914..891165	+	83	73748876	-	cbdb_A1100	-	COG5256J	hypothetical protein
+891162..891629	-	155	73748877	ribH	cbdb_A1102	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+891658..892869	-	403	73748878	ribA	cbdb_A1103	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+892902..893519	-	205	73748879	ribE	cbdb_A1104	-	COG0307H	riboflavin synthase subunit alpha
+893522..894619	-	365	73748880	ribD	cbdb_A1105	-	COG1985H	riboflavin biosynthesis protein RibD
+894765..895529	-	254	73748881	-	cbdb_A1106	-	COG2968S	hypothetical protein
+895633..896211	+	192	73748882	lepB	cbdb_A1107	-	COG0681U	signal peptidase I
+896214..896777	+	187	73748883	pyrE	cbdb_A1108	-	COG0461F	orotate phosphoribosyltransferase
+896806..897333	+	175	73748884	-	cbdb_A1109	-	COG4741F	hypothetical protein
+897330..899030	-	566	73748885	mutL	cbdb_A1110	-	COG0323L	DNA mismatch repair protein, MutL
+899129..901345	-	738	73748886	pcrA	cbdb_A1111	-	COG0210L	ATP-dependent DNA helicase PcrA
+901613..902161	+	182	73748887	pyrR	cbdb_A1112	-	COG2065F	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+902164..903159	+	331	73748888	pyrB	cbdb_A1113	-	COG0540F	aspartate carbamoyltransferase
+903162..904448	+	428	73748889	pyrC	cbdb_A1114	-	COG0044F	dihydroorotase
+904484..905578	+	364	73748890	carA	cbdb_A1117	-	COG0505EF	carbamoyl phosphate synthase small subunit
+905604..908873	+	1089	73748891	carB	cbdb_A1118	-	COG0458EF	carbamoyl-phosphate synthase large subunit
+908883..909668	+	261	73748892	pyrK	cbdb_A1119	-	COG0543HC	dihydroorotate dehydrogenase, electron transfersubunit
+909750..910319	-	189	73748893	folE	cbdb_A1120	-	COG0302H	GTP cyclohydrolase I
+910354..911400	-	348	73748894	thrC	cbdb_A1122	-	COG0498E	threonine synthase
+911409..912710	-	433	73748895	metM	cbdb_A1123	-	COG0460E	homoserine dehydrogenase
+912728..913996	-	422	73748896	-	cbdb_A1124	-	-	protein export protein
+914300..915385	+	361	73748897	-	cbdb_A1125	-	COG1208MJ	nucleotidyl transferase
+915410..917368	+	652	73748898	acs	cbdb_A1126	-	COG0365I	acetyl-CoA synthetase
+917487..918554	+	355	73748899	prfA	cbdb_A1127	-	COG0216J	peptide chain release factor 1
+918554..919387	+	277	73748900	-	cbdb_A1128	-	COG2890J	SAM-dependent methyltransferase HemK family protein
+919473..921533	-	686	73748901	fusA	cbdb_A1130	-	COG0480J	elongation factor G
+921604..922161	-	185	73748902	-	cbdb_A1131	-	COG1300S	hypothetical protein
+922278..922544	-	88	73748903	-	cbdb_A1132	-	-	hypothetical protein
+922578..923486	-	302	73748904	xerD	cbdb_A1133	-	COG4974L	tyrosine recombinase XerD
+923652..925475	+	607	73748905	uvrC	cbdb_A1134	-	COG0322L	excinuclease ABC subunit C
+925553..926044	+	163	73748906	-	cbdb_A1135	-	COG3153R	acetyltransferase
+926056..926871	-	271	73748907	-	cbdb_A1136	-	COG0561R	HAD family hydrolase
+927033..929609	+	858	73748908	mutS	cbdb_A1137	-	COG0249L	DNA mismatch repair protein MutS
+929606..929824	-	72	73748909	-	cbdb_A1138	-	-	hypothetical protein
+930071..930433	+	120	73748910	-	cbdb_A1139	-	-	hypothetical protein
+930493..931254	-	253	73748911	-	cbdb_A1140	-	COG0179Q	fumarylacetoacetate hydrolase
+931418..931963	+	181	73748912	cobA	cbdb_A1141	-	COG2109H	cob(I)alamin adenosyltransferase
+931984..933081	+	365	73748913	-	cbdb_A1142	-	COG1980G	hypothetical protein
+933085..933684	+	199	73748914	-	cbdb_A1143	-	COG0127F	non-canonical purine NTP pyrophosphatase, RdgB
+933858..934994	+	378	73748915	dnaN	cbdb_A1145	-	COG0592L	DNA polymerase III subunit beta
+934969..935151	-	60	73748916	-	cbdb_A1146	-	-	hypothetical protein
+935852..936268	+	138	73748917	-	cbdb_A1147	-	-	hypothetical protein
+936543..936671	-	42	73748918	-	cbdb_A1148	-	-	hypothetical protein
+937074..937934	-	286	73748919	-	cbdb_A1149	-	-	hypothetical protein
+938041..939003	+	320	73748920	-	cbdb_A1150	-	-	hypothetical protein
+939137..939499	+	120	73748921	-	cbdb_A1151	-	COG5646S	hypothetical protein
+939474..940442	+	322	73748922	-	cbdb_A1152	-	COG0596R	hydrolase
+940450..940569	+	39	73748923	-	cbdb_A1154	-	-	hypothetical protein
+940576..940830	+	84	73748924	-	cbdb_A1156	-	-	hypothetical protein
+940996..941850	+	284	73748925	purU	cbdb_A1158	-	COG0788F	formyltetrahydrofolate deformylase
+942096..942722	+	208	73748926	ppiB	cbdb_A1159	-	COG0652O	peptidyl-prolyl isomerase
+942978..944042	+	354	73748927	-	cbdb_A1160	-	COG0798P	arsenical-resistance protein
+944074..944598	-	174	73748928	msrA	cbdb_A1161	-	COG0225O	peptide methionine sulfoxide reductase
+944595..944969	-	124	73748929	msrB	cbdb_A1163	-	COG0229O	methionine sulfoxide reductase B
+945104..945676	-	190	73748930	-	cbdb_A1164	-	COG0655R	iron-sulfur flavoprotein
+945895..946230	-	111	73748931	-	cbdb_A1165	-	COG3070K	TfoX domain-containing protein
+946252..946719	-	155	73748932	-	cbdb_A1167	-	-	hypothetical protein
+947004..947303	+	99	73748933	-	cbdb_A1168	-	COG0640K	ArsR family transcriptional regulator
+947303..947968	+	221	73748934	-	cbdb_A1169	-	COG5658S	hypothetical protein
+948111..948305	+	64	73748935	-	cbdb_A1171	-	-	hypothetical protein
+948318..948878	-	186	73748936	-	cbdb_A1172	-	COG0655R	NADPH-dependent FMN reductase
+948980..949228	+	82	73748937	-	cbdb_A1174	-	-	hypothetical protein
+949385..949585	+	66	73748938	-	cbdb_A1176	-	-	hypothetical protein
+949810..950886	+	358	73748939	pilT	cbdb_A1178	-	COG2805NU	twitching mobility protein
+950977..952194	+	405	73748940	argJ	cbdb_A1179	-	COG1364E	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+952201..953019	+	272	73748941	argB	cbdb_A1180	-	COG0548E	acetylglutamate kinase
+953092..954288	+	398	73748942	argD	cbdb_A1181	-	COG4992E	acetylornithine aminotransferase
+954295..955185	+	296	73748943	-	cbdb_A1182	-	-	hypothetical protein
+955248..956468	+	406	73748944	argG	cbdb_A1183	-	COG0137E	argininosuccinate synthase
+956469..957854	+	461	73748945	argH	cbdb_A1185	-	COG0165E	argininosuccinate lyase
+957864..958052	-	62	73748946	rpmB	cbdb_A1186	-	COG0227J	50S ribosomal protein L28
+958181..959815	+	544	73748947	-	cbdb_A1187	-	COG1461R	DAK2 domain-containing protein
+959825..960664	+	279	73748948	-	cbdb_A1190	-	COG1307S	degV family protein
+960681..961523	+	280	73748949	-	cbdb_A1191	-	COG1307S	degV family protein
+961560..962393	+	277	73748950	-	cbdb_A1192	-	COG1307S	degV family protein
+962423..963355	+	310	73748951	-	cbdb_A1193	-	COG1307S	degV family protein
+963716..965938	+	740	73748952	recG	cbdb_A1194	-	COG1200LK	ATP-dependent DNA helicase RecG
+965953..967227	+	424	73748953	-	cbdb_A1195	-	COG0232F	deoxyguanosinetriphosphate triphosphohydrolase
+967305..968975	+	556	73748954	argS	cbdb_A1196	-	COG0018J	arginyl-tRNA synthetase
+969068..969298	-	76	73748955	-	cbdb_A1198	-	COG1522K	hypothetical protein
+969459..970298	+	279	73748956	fabI	cbdb_A1199	-	COG0623I	enoyl-ACP reductase
+970329..970532	+	67	73748957	-	cbdb_A1201	-	-	hypothetical protein
+970608..971051	+	147	73748958	-	cbdb_A1202	-	COG1399R	hypothetical protein
+971056..971274	+	72	73748959	rpmF	cbdb_A1203	-	COG0333J	50S ribosomal protein L32
+971300..972232	+	310	73748960	fabD	cbdb_A1204	-	COG0331I	malonyl CoA-ACP transacylase
+972241..972984	+	247	73748961	fabG	cbdb_A1205	-	COG1028IQR	3-oxoacyl-ACP reductase
+972996..973427	+	143	73748962	nusB	cbdb_A1206	-	COG0781K	N utilization substance protein B
+973432..973692	+	86	73748963	acpP	cbdb_A1208	-	COG0236IQ	acyl carrier protein
+973958..975469	-	503	73748964	-	cbdb_A1210	-	COG1032C	radical SAM domain-containing protein
+975541..978987	-	1148	73748965	mfd	cbdb_A1211	-	COG1197LK	transcription-repair coupling factor
+979137..980258	+	373	73748966	proB	cbdb_A1212	-	COG0263E	gamma-glutamyl kinase
+980271..980537	+	88	73748967	-	cbdb_A1213	-	-	hypothetical protein
+980534..980860	+	108	73748968	-	cbdb_A1215	-	-	hypothetical protein
+980900..982084	-	394	73748969	-	cbdb_A1217	-	COG0265O	serine protease DegP
+982174..983016	-	280	73748970	-	cbdb_A1220	-	COG0265O	serine protease DegP
+983208..983960	-	250	73748971	-	cbdb_A1223	-	COG0789K	MerR family transcriptional regulator
+984082..985356	+	424	73748972	proA	cbdb_A1224	-	COG0014E	gamma-glutamyl phosphate reductase
+985438..986163	-	241	73748973	rph	cbdb_A1225	-	COG0689J	ribonuclease PH
+986244..986654	-	136	73748974	-	cbdb_A1227	-	COG1051F	NUDIX domain-containing protein
+986647..987156	-	169	73748975	-	cbdb_A1229	-	COG1546R	competence-damage inducible protein CinA
+987186..987479	+	97	73748976	-	cbdb_A1230	-	COG1872S	hypothetical protein
+987427..988611	-	394	73748977	-	cbdb_A1232	-	COG4191T	sensor histidine kinase
+988611..989339	-	242	73748978	-	cbdb_A1233	-	-	hypothetical protein
+989488..990030	-	180	73748979	-	cbdb_A1234	-	COG2204T	DNA-binding response regulator
+990406..991515	+	369	73748980	-	cbdb_A1235	-	COG4188R	hypothetical protein
+991611..991931	-	106	73748981	-	cbdb_B26	-	-	hypothetical protein
+992294..994123	+	609	73748982	typA	cbdb_A1237	-	COG1217T	GTP-binding protein TypA
+994341..995747	-	468	73748983	-	cbdb_A1238	-	COG2814G	major facilitator family transporter
+995815..996141	-	108	73748984	-	cbdb_A1239	-	COG0589T	universal stress protein
+996763..997410	-	215	73748985	-	cbdb_A1240	-	COG2928S	hypothetical protein
+997571..997975	-	134	73748986	-	cbdb_A1241	-	COG2335M	fasciclin domain-containing protein
+998206..998769	+	187	73748987	-	cbdb_A1244	-	-	hypothetical protein
+998835..999182	-	115	73748988	-	cbdb_A1245	-	-	hypothetical protein
+999378..999566	+	62	73748989	-	cbdb_A1246	-	-	hypothetical protein
+999888..1000076	+	62	73748990	-	cbdb_A1247	-	COG3422S	hypothetical protein
+1000170..1000997	-	275	73748991	-	cbdb_A1248	-	COG0596R	hydrolase
+1000987..1002360	-	457	73748992	-	cbdb_A1249	-	COG2256L	recombination factor protein RarA
+1002332..1002880	-	182	73748993	-	cbdb_A1251	-	COG1086MG	hypothetical protein
+1002894..1003169	-	91	73748994	-	cbdb_A1252	-	-	hypothetical protein
+1003290..1004447	-	385	73748995	-	cbdb_A1253	-	COG1355R	hypothetical protein
+1004606..1005643	-	345	73748996	-	cbdb_A1254	-	COG1180O	radical SAM domain-containing protein
+1005717..1006625	-	302	73748997	-	cbdb_A1255	-	COG2510S	hypothetical protein
+1006985..1007209	+	74	73748998	-	cbdb_B27	-	-	hypothetical protein
+1007301..1007792	-	163	73748999	-	cbdb_A1256	-	COG1666S	nucleotide-binding protein
+1007952..1008407	+	151	73749000	-	cbdb_A1257	-	-	hypothetical protein
+1008437..1009006	+	189	73749001	-	cbdb_A1259	-	-	hypothetical protein
+1009459..1010190	-	243	73749002	-	cbdb_A1260	-	COG3910R	hypothetical protein
+1010337..1010885	+	182	73749003	-	cbdb_A1263	-	COG0655R	iron-sulfur flavoprotein
+1010876..1011679	-	267	73749004	-	cbdb_A1264	-	COG0456R	acetyltransferase
+1011803..1011946	-	47	73749005	-	cbdb_A1265	-	-	hypothetical protein
+1011968..1012189	-	73	73749006	-	cbdb_A1266	-	-	hypothetical protein
+1012441..1013037	+	198	73749007	coaE	cbdb_A1268	-	COG0237H	dephospho-CoA kinase
+1013012..1013920	-	302	73749008	-	cbdb_A1269	-	COG0451MG	hypothetical protein
+1014151..1014549	+	132	73749009	rplU	cbdb_A1270	-	COG0261J	50S ribosomal protein L21
+1014539..1014793	+	84	73749010	rpmA	cbdb_A1271	-	COG0211J	50S ribosomal protein L27
+1014800..1015006	+	68	73749011	rpmE	cbdb_A1272	-	COG0254J	50S ribosomal protein L31
+1015086..1016009	+	307	73749012	-	cbdb_A1275	-	COG3872R	hypothetical protein
+1016002..1016316	-	104	73749013	hisI	cbdb_A1276	-	COG0139E	phosphoribosyl-AMP cyclohydrolase
+1016447..1016905	+	152	73749014	-	cbdb_A1277	-	COG0456R	acetyltransferase
+1016912..1017646	-	244	73749015	hisA	cbdb_A1278	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1017652..1017894	-	80	73749016	-	cbdb_A1279	-	-	hypothetical protein
+1017974..1018354	-	126	73749017	-	cbdb_A1281	-	COG1030O	hypothetical protein
+1018463..1018750	+	95	73749018	gatC	cbdb_A1282	-	COG0721J	glutamyl-tRNA(Gln) amidotransferase subunit C
+1018750..1020210	+	486	73749019	gatA	cbdb_A1284	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1020227..1020691	+	154	73749020	-	cbdb_A1285	-	-	hypothetical protein
+1020815..1021189	+	124	73749021	-	cbdb_A1287	-	COG4854S	hypothetical protein
+1021195..1021404	+	69	73749022	-	cbdb_A1288	-	COG1476K	DNA-binding protein
+1021401..1022321	+	306	73749023	-	cbdb_A1289	-	COG1131V	ABC transporter ATP-binding protein
+1022321..1023016	+	231	73749024	-	cbdb_A1290	-	COG1668CP	ABC transporter permease
+1023154..1023636	+	160	73749025	-	cbdb_A1291	-	COG1522K	AsnC family transcriptional regulator
+1023659..1024855	+	398	73749026	aspC	cbdb_A1292	-	COG0436E	aspartate aminotransferase
+1024935..1025906	-	323	73749027	trpS	cbdb_A1293	-	COG0180J	tryptophanyl-tRNA synthetase
+1025961..1026815	-	284	73749028	ispH	cbdb_A1294	-	COG0761IM	hydroxymethylbutenyl pyrophosphate reductase
+1026901..1027911	+	336	73749029	-	cbdb_A1295	-	COG3684G	tagatose 1,6-diphosphate aldolase
+1027908..1028840	+	310	73749030	-	cbdb_A1296	-	COG1105G	carbohydrate kinase
+1028844..1029701	-	285	73749031	-	cbdb_A1297	-	-	hypothetical protein
+1029707..1030246	-	179	73749032	-	cbdb_A1298	-	COG1595K	ECF subfamily RNA polymerase sigma factor
+1030296..1030457	-	53	73749033	-	cbdb_A1299	-	-	hypothetical protein
+1030613..1030837	+	74	73749034	-	cbdb_A1300	-	COG0789K	excisionase
+1030853..1031530	+	225	73749035	-	cbdb_A1301	-	COG2197TK	LuxR family transcriptional regulator
+1031635..1033971	+	778	73749036	gspE	cbdb_A1302	-	COG2804NU	type II secretion system protein GspE
+1033981..1035186	+	401	73749037	pilC	cbdb_A1303	-	COG1459NU	pilin biogenesis protein
+1035199..1035654	+	151	73749038	-	cbdb_A1304	-	COG2165NU	type II secretion system protein, GspI
+1035651..1036205	+	184	73749039	-	cbdb_A1305	-	COG4966NU	type II secretion system protein
+1036236..1037363	+	375	73749040	-	cbdb_A1306	-	-	hypothetical protein
+1037478..1039085	+	535	73749041	-	cbdb_A1307	-	-	hypothetical protein
+1039095..1039670	+	191	73749042	-	cbdb_A1308	-	-	hypothetical protein
+1039676..1041160	+	494	73749043	-	cbdb_A1309	-	COG4972NU	type IV pilus assembly family protein
+1041172..1042287	+	371	73749044	pilT	cbdb_A1310	-	COG2805NU	twitching mobility protein
+1042426..1042785	-	119	73749045	-	cbdb_A1311	-	COG2165NU	general secretion family protein
+1043010..1043777	+	255	73749046	-	cbdb_A1313	-	COG1989NOU	type IV prepilin leader peptidase
+1043902..1045986	+	694	73749047	-	cbdb_A1314	-	COG3769R	bifunctional mannosyl-3-phosphoglycerate synthase/mannosyl-3 phosphoglycerate phosphatase
+1046172..1046672	+	166	73749048	-	cbdb_A1315	-	COG1714S	hypothetical protein
+1046733..1048196	+	487	73749049	gltX	cbdb_A1316	-	COG0008J	glutamyl-tRNA synthetase
+1048371..1048970	+	199	73749050	-	cbdb_A1317	-	-	hypothetical protein
+1049070..1049327	+	85	73749051	-	cbdb_A1318	-	-	hypothetical protein
+1049329..1050333	+	334	73749052	-	cbdb_A1319	-	COG1313R	radical SAM domain-containing protein
+1050352..1050501	-	49	73749053	-	cbdb_A1320	-	-	hypothetical protein
+1050621..1051121	+	166	73749054	-	cbdb_A1322	-	COG0319R	hypothetical protein
+1051118..1051690	+	190	73749055	-	cbdb_A1323	-	COG0655R	NADPH-dependent FMN reductase
+1051692..1052624	-	310	73749056	pyrD	cbdb_A1324	-	COG0167F	dihydroorotate dehydrogenase 1B
+1052962..1053333	+	123	73749057	-	cbdb_A1326	-	COG1734T	dnaK suppressor protein
+1053360..1053842	+	160	73749058	lspA	cbdb_A1327	-	COG0597MU	lipoprotein signal peptidase
+1053829..1054731	+	300	73749059	-	cbdb_A1328	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+1054831..1055112	+	93	73749060	-	cbdb_A1330	-	COG3432K	hypothetical protein
+1055140..1055550	+	136	73749061	-	cbdb_A1331	-	-	hypothetical protein
+1055691..1056281	+	196	73749062	-	cbdb_A1332	-	COG2020O	hypothetical protein
+1056278..1057909	+	543	73749063	-	cbdb_A1333	-	COG1541H	auxin-responsive GH3 protein
+1058042..1058221	-	59	73749064	-	cbdb_B28	-	-	hypothetical protein
+1058229..1060607	+	792	73749065	-	cbdb_A1335	-	COG2206T	diguanylate cyclase
+1060650..1061510	-	286	73749066	nadC	cbdb_A1336	-	COG0157H	nicotinate-nucleotide pyrophosphorylase
+1061512..1063059	-	515	73749067	nabD	cbdb_A1338	-	COG0029H	L-aspartate oxidase
+1063081..1063359	-	92	73749068	yajC	cbdb_A1339	-	COG1862U	preprotein translocase subunit YajC
+1063370..1064626	-	418	73749069	miaB	cbdb_A1340	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+1064723..1065073	-	116	73749070	-	cbdb_A1341	-	-	hypothetical protein
+1065323..1065787	+	154	73749071	mscL	cbdb_A1343	-	COG1970M	large-conductance mechanosensitive channel
+1066005..1066817	-	270	73749072	mutM	cbdb_A1344	-	COG0266L	formamidopyrimidine-DNA glycosylase
+1066810..1067433	-	207	73749073	-	cbdb_A1346	-	COG0671I	PAP2 family protein
+1067442..1070153	-	903	73749074	polA	cbdb_A1348	-	COG0749L	DNA-directed DNA polymerase I
+1070316..1070762	-	148	73749075	-	cbdb_A1349	-	COG0607P	rhodanese-like domain-containing protein
+1070766..1071344	-	192	73749076	-	cbdb_A1350	-	-	hypothetical protein
+1071397..1071600	-	67	73749077	-	cbdb_A1351	-	-	hypothetical protein
+1071688..1071807	+	39	73749078	-	cbdb_A1352	-	-	hypothetical protein
+1071868..1072803	+	311	73749079	argF	cbdb_A1353	-	COG0078E	ornithine carbamoyltransferase
+1072824..1074152	+	442	73749080	engA	cbdb_A1354	-	COG1160R	GTP-binding protein EngA
+1074146..1074796	+	216	73749081	-	cbdb_A1355	-	COG0344S	hypothetical protein
+1074845..1075924	+	359	73749082	gpsA	cbdb_A1356	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1075928..1077007	-	359	73749083	dnaJ	cbdb_A1357	-	COG0484O	co-chaperone protein DnaJ
+1077159..1079069	-	636	73749084	dnaK	cbdb_A1358	-	COG0443O	molecular chaperone DnaK
+1079104..1079667	-	187	73749085	grpE	cbdb_A1359	-	COG0576O	co-chaperone protein GrpE
+1079717..1080754	-	345	73749086	-	cbdb_A1361	-	COG1420K	heat-inducible transcription repressor HrcA
+1080920..1081552	+	210	73749087	-	cbdb_A1363	-	COG2220R	hypothetical protein
+1081592..1083124	+	510	73749088	-	cbdb_A1365	-	COG4249R	hypothetical protein
+1083169..1083666	+	165	73749089	-	cbdb_A1366	-	COG3359L	hypothetical protein
+1083707..1083844	-	45	73749090	-	cbdb_B29	-	-	hypothetical protein
+1084174..1087221	-	1015	73749091	-	cbdb_A1368	-	-	hypothetical protein
+1087496..1088770	-	424	73749092	rho	cbdb_A1369	-	COG1158K	transcription termination factor Rho
+1088857..1089507	-	216	73749093	tal	cbdb_A1370	-	COG0176G	translaldolase
+1089546..1091180	-	544	73749094	pyrG	cbdb_A1371	-	COG0504F	CTP synthetase
+1091464..1092456	+	330	73749095	-	cbdb_A1372	-	COG0484O	DnaJ family protein
+1092469..1092774	+	101	73749096	-	cbdb_A1373	-	COG0789K	MerR family transcriptional regulator
+1092779..1095217	+	812	73749097	clpA	cbdb_A1374	-	COG0542O	ATP-dependent Clp protease, ATP-binding subunit ClpC
+1095340..1095891	+	183	73749098	-	cbdb_A1375	-	COG1238S	hypothetical protein
+1095977..1097395	+	472	73749099	purF	cbdb_A1377	-	COG0034F	amidophosphoribosyltransferase
+1097511..1098533	+	340	73749100	purM	cbdb_A1378	-	COG0150F	phosphoribosylaminoimidazole synthetase
+1098530..1099150	+	206	73749101	-	cbdb_A1379	-	COG2226H	SAM-dependent methyltransferase
+1099179..1100720	+	513	73749102	purH	cbdb_A1381	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1100738..1101739	+	333	73749103	pncB	cbdb_A1382	-	COG1488H	nicotinate phosphoribosyltransferase
+1101923..1102171	+	82	73749104	-	cbdb_A1383	-	COG2002K	hypothetical protein
+1102175..1103011	+	278	73749105	arsM	cbdb_A1384	-	COG2226H	arsenite S-adenosylmethyltransferase
+1103008..1104423	-	471	73749106	-	cbdb_A1385	-	COG0037D	PP-loop family protein
+1104481..1105104	-	207	73749107	-	cbdb_A1386	-	COG0406G	phosphoglycerate mutase
+1105107..1106285	-	392	73749108	-	cbdb_A1387	-	COG0501O	M48 family peptidase
+1106285..1106929	-	214	73749109	-	cbdb_A1388	-	COG5011S	hypothetical protein
+1106910..1108184	-	424	73749110	-	cbdb_A1389	-	COG1253R	hemolysin-like protein
+1108302..1109282	+	326	73749111	gcp	cbdb_A1390	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+1109775..1110071	+	98	73749112	groES	cbdb_A1392	-	COG0234O	molecular chaperone GroES
+1110099..1111712	+	537	73749113	groEL	cbdb_A1393	-	COG0459O	molecular chaperone GroEL
+1111800..1113059	-	419	73749114	-	cbdb_A1394	-	COG0612R	M16 family peptidase
+1113172..1113531	+	119	73749115	hypA	cbdb_A1395	-	COG0375R	hydrogenase nickel incorporation protein HypA
+1113512..1114165	+	217	73749116	hypB	cbdb_A1397	-	COG0378OK	hydrogenase nickel incorporation protein HypB
+1114166..1116457	+	763	73749117	hypF	cbdb_A1399	-	COG0068O	[NiFe] hydrogenase maturation protein HypF
+1116457..1116672	+	71	73749118	hypC	cbdb_A1400	-	COG0298O	hydrogenase assembly chaperone HypC
+1116676..1117770	+	364	73749119	hypD	cbdb_A1401	-	COG0409O	hydrogenase expression/formation protein HypD
+1117763..1118770	+	335	73749120	hypE	cbdb_A1402	-	COG0309O	hydrogenase expression/formation protein HypE
+1118933..1119553	+	206	73749121	-	cbdb_A1404	-	COG1309K	TetR family transcriptional regulator
+1119563..1119886	+	107	73749122	-	cbdb_A1405	-	-	hypothetical protein
+1120703..1120837	+	44	73749123	-	cbdb_A1406	-	-	hypothetical protein
+1121452..1121742	-	96	73749124	-	cbdb_A1409	-	-	hypothetical protein
+1121726..1121959	+	77	73749125	-	cbdb_A1410	-	-	hypothetical protein
+1122011..1122424	-	137	73749126	-	cbdb_A1412	-	COG0789K	excisionase
+1122428..1122760	+	110	73749127	-	cbdb_A1413	-	-	hypothetical protein
+1122824..1123435	-	203	73749128	-	cbdb_A1414	-	COG2095U	multiple antibiotic resistance protein MarC
+1123550..1123996	+	148	73749129	-	cbdb_A1416	-	COG3832S	hypothetical protein
+1124001..1124978	-	325	73749130	-	cbdb_A1417	-	-	hypothetical protein
+1125167..1125568	+	133	73749131	-	cbdb_A1418	-	-	hypothetical protein
+1125743..1126399	+	218	73749132	ctc	cbdb_A1419	-	COG1825J	50S ribosomal protein L25
+1126413..1127264	+	283	73749133	-	cbdb_A1420	-	COG2159R	hypothetical protein
+1127257..1127838	+	193	73749134	-	cbdb_A1421	-	COG1514J	2'-5' RNA ligase
+1127910..1128113	+	67	73749135	-	cbdb_A1422	-	-	hypothetical protein
+1128152..1128853	+	233	73749136	-	cbdb_A1424	-	COG1040R	comF family protein
+1128867..1129406	+	179	73749137	-	cbdb_A1426	-	COG1544J	ribosomal subunit interface protein
+1129482..1130045	+	187	73749138	ogt	cbdb_A1428	-	COG0350L	methylated-DNA--protein-cysteine methyltransferase
+1130023..1130406	-	127	73749139	-	cbdb_A1430	-	COG5513S	hypothetical protein
+1130429..1131247	-	272	73749140	-	cbdb_A1432	-	COG2003L	RadC family DNA repair protein
+1131231..1131479	-	82	73749141	-	cbdb_A1433	-	-	hypothetical protein
+1131463..1134975	-	1170	73749142	dnaE	cbdb_A1436	-	COG0587L	DNA polymerase III subunit alpha
+1135122..1135832	+	236	73749143	-	cbdb_A1437	-	COG4478S	hypothetical protein
+1135923..1136339	-	138	73749144	-	cbdb_A1438	-	-	hypothetical protein
+1136321..1136443	-	40	73749145	-	cbdb_A1439	-	-	hypothetical protein
+1136688..1136903	-	71	73749146	-	cbdb_A1440	-	COG2331S	hypothetical protein
+1137514..1137738	+	74	73749147	-	cbdb_B30	-	-	hypothetical protein
+1138150..1139607	+	485	73749148	trpE	cbdb_A1441	-	COG0147EH	anthranilate synthase component I
+1139591..1140181	+	196	73749149	trpG	cbdb_A1442	-	COG0512EH	anthranilate synthase component II
+1140186..1141211	+	341	73749150	trpD	cbdb_A1444	-	COG0547E	anthranilate phosphoribosyltransferase
+1141216..1141995	+	259	73749151	trpC	cbdb_A1445	-	COG0134E	indole-3-glycerol phosphate synthase
+1141992..1142651	+	219	73749152	trpF	cbdb_A1447	-	COG0135E	N-(5'-phosphoribosyl)anthranilate isomerase
+1142645..1143667	+	340	73749153	aroA	cbdb_A1449	-	COG2876E	3-deoxy-7-phosphoheptulonate synthase
+1143655..1144854	+	399	73749154	trpB	cbdb_A1450	-	COG0133E	tryptophan synthase subunit beta
+1144851..1145618	+	255	73749155	trpA	cbdb_A1451	-	COG0159E	tryptophan synthase subunit alpha
+1145731..1146015	-	94	73749156	rdhB	cbdb_A1452	-	-	reductive dehalogenase anchoring protein
+1146028..1147515	-	495	73749157	rdhA	cbdb_A1453	-	COG1600C	reductive dehalogenase
+1147950..1148222	-	90	73749158	rdhB	cbdb_A1454	-	-	reductive dehalogenase anchoring protein
+1148252..1149745	-	497	73749159	rdhA	cbdb_A1455	-	COG1600C	reductive dehalogenase
+1149998..1150588	+	196	73749160	rdhR	cbdb_A1456	-	COG1846K	MarR family transcriptional regulator
+1150734..1151321	+	195	73749161	thyX	cbdb_A1457	-	COG1351F	thymidylate synthase
+1151355..1152290	-	311	73749162	-	cbdb_A1458	-	COG1123R	peptide ABC transporter ATP-binding protein
+1152284..1153252	-	322	73749163	-	cbdb_A1459	-	COG0444EP	peptide ABC transporter ATP-binding protein
+1153249..1154088	-	279	73749164	-	cbdb_A1461	-	COG1173EP	peptide ABC transporter permease
+1154090..1155064	-	324	73749165	-	cbdb_A1462	-	COG0601EP	peptide ABC transporter permease
+1155124..1156755	-	543	73749166	-	cbdb_A1463	-	COG0747E	peptide ABC transporter substrate-binding protein
+1156760..1157581	-	273	73749167	-	cbdb_A1465	-	COG2230M	hypothetical protein
+1157870..1158316	+	148	73749168	-	cbdb_A1466	-	COG1846K	MarR family transcriptional regulator
+1158460..1158564	+	34	73749169	-	cbdb_A1467	-	-	hypothetical protein
+1158565..1158957	+	130	73749170	-	cbdb_A1469	-	COG0239D	camphor resistance protein CrcB
+1159007..1159783	-	258	73749171	-	cbdb_A1470	-	COG1497K	hypothetical protein
+1159905..1160423	+	172	73749172	-	cbdb_A1471	-	COG4832S	hypothetical protein
+1160449..1160883	+	144	73749173	-	cbdb_A1472	-	COG0716C	flavodoxin
+1160994..1162391	-	465	73749174	-	cbdb_A1474	-	COG2814G	major facilitator family transporter
+1162443..1164173	-	576	73749175	feoB	cbdb_A1475	-	COG0370P	ferrous iron transport protein B
+1164170..1164415	-	81	73749176	feoA	cbdb_A1477	-	COG1918P	iron(II) transport protein A
+1164455..1164880	-	141	73749177	-	cbdb_A1478	-	COG0735P	FUR family transcriptional regulator
+1164955..1165473	+	172	73749178	smpB	cbdb_A1479	-	COG0691O	SsrA-binding protein
+1165760..1167427	-	555	73749179	-	cbdb_A1480	-	COG1961L	site-specific recombinase
+1167601..1168218	-	205	73749180	-	cbdb_A1481	-	COG1961L	DNA invertase/resolvase
+1168218..1168667	-	149	73749181	-	cbdb_A1482	-	-	hypothetical protein
+1168911..1169546	-	211	73749182	-	cbdb_A1483	-	COG1475K	hypothetical protein
+1170232..1172439	-	735	73749183	-	cbdb_A1485	-	COG0358L	hypothetical protein
+1172517..1173272	-	251	73749184	-	cbdb_A1486	-	-	hypothetical protein
+1173656..1173934	+	92	73749185	-	cbdb_B31	-	-	IS3 family transposase
+1173967..1174770	+	267	73749186	-	cbdb_A1487	-	COG2801L	transposase orfB
+1174814..1175929	+	371	73749187	-	cbdb_A1488	-	COG0338L	methyltransferase
+1175929..1176696	+	255	73749188	-	cbdb_A1489	-	-	hypothetical protein
+1176883..1177155	-	90	73749189	rdhB	cbdb_A1490	-	-	reductive dehalogenase anchoring protein
+1177174..1178622	-	482	73749190	rdhA	cbdb_A1491	-	COG1600C	reductive dehalogenase
+1179150..1180466	+	438	73749191	rdhC	cbdb_A1492	-	COG0642T	sensor histidine kinase
+1180453..1181136	+	227	73749192	rdhD	cbdb_A1493	-	COG0745TK	DNA-binding response regulator
+1181628..1182164	-	178	73749193	-	cbdb_A1494	-	-	hypothetical protein
+1182154..1182774	-	206	73749194	rdhG	cbdb_B32	-	COG0727R	hypothetical protein
+1182844..1183119	-	91	73749195	rdhB	cbdb_B33	-	-	reductive dehalogenase anchoring protein
+1183152..1184669	-	505	73749196	rdhA	cbdb_A1495	-	COG1600C	reductive dehalogenase
+1184972..1186270	+	432	73749197	rdhC	cbdb_A1496	-	COG2205T	sensor histidine kinase
+1186279..1186950	+	223	73749198	rdhD	cbdb_A1497	-	COG0745TK	DNA-binding response regulator
+1187286..1188050	-	254	73749199	rdhF	cbdb_A1499	-	COG1865S	hypothetical protein
+1188377..1188688	-	103	73749200	-	cbdb_A1501	-	COG2331S	hypothetical protein
+1188744..1189172	-	142	73749201	-	cbdb_B34	-	-	hypothetical protein
+1189227..1189520	-	97	73749202	rdhB	cbdb_A1502	-	-	reductive dehalogenase anchoring protein
+1189522..1191102	-	526	73749203	rdhA	cbdb_A1503	-	COG1600C	reductive dehalogenase
+1191222..1191335	-	37	73749204	-	cbdb_A1504	-	-	hypothetical protein
+1191934..1192389	-	151	73749205	-	cbdb_A1505	-	-	hypothetical protein
+1192394..1192969	-	191	73749206	rdhG	cbdb_A1506	-	COG0727R	hypothetical protein
+1193044..1193313	-	89	73749207	rdhB	cbdb_A1507	-	-	reductive dehalogenase anchoring protein
+1193343..1194734	-	463	73749208	rdhA	cbdb_A1508	-	COG1600C	reductive dehalogenase
+1195021..1195560	+	179	73749209	rdhR	cbdb_A1509	-	COG1846K	MarR family transcriptional regulator
+1196186..1196395	-	69	73749210	-	cbdb_B35	-	-	hypothetical protein
+1196848..1197519	+	223	73749211	rdhD	cbdb_A1511	-	COG0745TK	DNA-binding response regulator
+1197506..1198918	+	470	73749212	-	cbdb_A1512	-	COG0642T	sensor histidine kinase
+1199927..1200145	+	72	73749213	-	cbdb_A1513	-	-	hypothetical protein
+1200212..1200379	-	55	73749214	-	cbdb_A1514	-	-	hypothetical protein
+1200421..1200657	-	78	73749215	-	cbdb_A1516	-	-	hypothetical protein
+1201240..1201389	-	49	73749216	-	cbdb_A1517	-	-	hypothetical protein
+1203162..1204091	-	309	73749217	cas1	cbdb_A1518	-	COG1518L	CRISPR-associated Cas1 family protein
+1204091..1204720	-	209	73749218	-	cbdb_A1519	-	-	CRISPR-associated protein
+1204745..1205362	-	205	73749219	-	cbdb_B36	-	-	hypothetical protein
+1205359..1206642	-	427	73749220	-	cbdb_A1520	-	-	hypothetical protein
+1206635..1207168	-	177	73749221	-	cbdb_B37	-	-	hypothetical protein
+1207158..1208789	-	543	73749222	-	cbdb_A1521	-	-	hypothetical protein
+1208782..1211475	-	897	73749223	cas3	cbdb_A1522	-	COG1203R	CRISPR-associated helicase Cas3 family protein
+1211697..1212497	-	266	73749224	-	cbdb_A1523	-	COG4640S	hypothetical protein
+1212940..1213278	-	112	73749225	-	cbdb_A1524	-	-	hypothetical protein
+1213400..1213894	-	164	73749226	-	cbdb_B38	-	COG4342S	hypothetical protein
+1214057..1215535	-	492	73749227	-	cbdb_A1527	-	-	hypothetical protein
+1215673..1216779	-	368	73749228	-	cbdb_A1529	-	COG3883S	hypothetical protein
+1216776..1218071	-	431	73749229	-	cbdb_A1530	-	COG0464O	ATPase AAA
+1218246..1218716	+	156	73749230	-	cbdb_A1531	-	-	hypothetical protein
+1218773..1219822	+	349	73749231	-	cbdb_A1532	-	COG2378K	transcriptional regulator
+1220195..1220806	+	203	73749232	-	cbdb_A1533	-	COG1669R	hypothetical protein
+1220781..1221218	+	145	73749233	-	cbdb_B39	-	-	hypothetical protein
+1221553..1222041	+	162	73749234	rdhR	cbdb_A1534	-	COG1846K	MarR family transcriptional regulator
+1222599..1224086	+	495	73749235	rdhA	cbdb_A1535	-	COG1600C	reductive dehalogenase
+1224114..1224383	+	89	73749236	rdhB	cbdb_A1536	-	-	reductive dehalogenase anchoring protein
+1224519..1225085	+	188	73749237	rdhG	cbdb_A1537	-	-	hypothetical protein
+1225085..1225819	+	244	73749238	rdhH	cbdb_A1538	-	COG2102R	hypothetical protein
+1226129..1226410	-	93	73749239	rdhB	cbdb_B40	-	-	reductive dehalogenase anchoring protein
+1226459..1227841	-	460	73749240	rdhA	cbdb_A1539	-	COG1600C	reductive dehalogenase
+1227975..1228127	-	50	73749241	-	cbdb_A1540	-	-	reductive dehalogenase- N-terminal fragment
+1228683..1228955	-	90	73749242	rdhB	cbdb_A1541	-	-	reductive dehalogenase anchoring protein
+1228967..1230430	-	487	73749243	rdhA	cbdb_A1542	-	COG1600C	reductive dehalogenase
+1230682..1232295	+	537	73749244	rdhC	cbdb_A1543	-	COG0642T	sensor histidine kinase
+1232301..1232987	+	228	73749245	rdhD	cbdb_A1544	-	COG0745TK	DNA-binding response regulator
+1233375..1233662	-	95	73749246	rdhB	cbdb_A1545	-	-	reductive dehalogenase anchoring protein
+1233683..1235200	-	505	73749247	rdhA	cbdb_A1546	-	COG1600C	reductive dehalogenase
+1235417..1236586	+	389	73749248	rdhC	cbdb_A1547	-	COG4585T	sensor histidine kinase
+1236600..1237316	+	238	73749249	rdhD	cbdb_A1548	-	COG2197TK	LuxR family transcriptional regulator
+1237596..1237865	-	89	73749250	rdhB	cbdb_A1549	-	COG4178R	reductive dehalogenase anchoring protein
+1237886..1239412	-	508	73749251	rdhA	cbdb_A1550	-	COG1600C	reductive dehalogenase
+1239510..1240151	-	213	73749252	rdhD	cbdb_A1551	-	COG0745TK	DNA-binding response regulator
+1240329..1241021	-	230	73749253	rdhD	cbdb_A1552	-	COG0745TK	DNA-binding response regulator
+1241686..1242198	+	170	73749254	rdhR	cbdb_A1553	-	COG1846K	MarR family transcriptional regulator
+1242331..1243011	-	226	73749255	rdhF	cbdb_A1554	-	COG1865S	hypothetical protein
+1243354..1244211	-	285	73749256	rdhI	cbdb_A1556	-	COG1180O	radical SAM domain-containing protein
+1244208..1244966	-	252	73749257	rdhI	cbdb_A1557	-	COG1180O	radical SAM domain-containing protein
+1244996..1245568	-	190	73749258	rdhG	cbdb_A1558	-	-	hypothetical protein
+1245686..1245958	-	90	73749259	rdhB	cbdb_A1559	-	-	reductive dehalogenase anchoring protein
+1245976..1247517	-	513	73749260	rdhA	cbdb_A1560	-	COG1600C	reductive dehalogenase
+1247670..1247789	-	39	73749261	-	cbdb_A1561	-	-	hypothetical protein
+1248269..1248556	-	95	73749262	rdhB	cbdb_A1562	-	-	reductive dehalogenase anchoring protein
+1248605..1250002	-	465	73749263	rdhA	cbdb_A1563	-	COG1600C	reductive dehalogenase
+1250136..1250828	-	230	73749264	rdhD	cbdb_A1564	-	COG0745TK	DNA-binding response regulator
+1250829..1252574	-	581	73749265	rdhC	cbdb_A1565	-	COG2205T	sensor histidine kinase
+1252550..1253173	-	207	73749266	-	cbdb_A1566	-	-	hypothetical protein
+1253762..1254736	-	324	73749267	rdhD	cbdb_A1567	-	COG2771K	regulatory protein
+1255274..1255504	+	76	73749268	-	cbdb_B41	-	-	hypothetical protein
+1255494..1256999	+	501	73749269	glnA	cbdb_A1568	-	COG0174E	glutamine synthetase
+1257362..1257631	-	89	73749270	rdhB	cbdb_A1569	-	COG4178R	reductive dehalogenase anchoring protein
+1257652..1259175	-	507	73749271	rdhA	cbdb_A1570	-	COG1600C	reductive dehalogenase
+1259380..1259886	+	168	73749272	rdhR	cbdb_A1571	-	COG1846K	MarR family transcriptional regulator
+1259895..1260284	-	129	73749273	-	cbdb_B42	-	COG2801L	IS1477 transposase, orfB (fragment)
+1260902..1262863	+	653	73749274	-	cbdb_A1572	-	-	hypothetical protein
+1263219..1263506	-	95	73749275	rdhB	cbdb_A1573	-	-	reductive dehalogenase anchoring protein
+1263534..1265051	-	505	73749276	rdhA	cbdb_A1575	-	COG1600C	reductive dehalogenase
+1265283..1265759	+	158	73749277	rdhR	cbdb_A1576	-	COG1846K	MarR family transcriptional regulator
+1266163..1266450	-	95	73749278	rdhB	cbdb_A1577	-	-	reductive dehalogenase anchoring protein
+1266472..1267989	-	505	73749279	rdhA	cbdb_A1578	-	COG1600C	reductive dehalogenase
+1268179..1268916	-	245	73749280	rdhH	cbdb_A1579	-	COG2102R	hypothetical protein
+1268916..1269482	-	188	73749281	rdhG	cbdb_A1580	-	-	hypothetical protein
+1269618..1269887	-	89	73749282	rdhB	cbdb_A1581	-	-	reductive dehalogenase anchoring protein
+1269916..1271391	-	491	73749283	rdhA	cbdb_A1582	-	COG1600C	reductive dehalogenase
+1271952..1272473	-	173	73749284	rdhR	cbdb_A1583	-	COG1846K	MarR family transcriptional regulator
+1272538..1272696	-	52	73749285	-	cbdb_A1584	-	-	hypothetical protein
+1272854..1273303	-	149	73749286	-	cbdb_A1585	-	-	hypothetical protein
+1273308..1273883	-	191	73749287	rdhG	cbdb_A1586	-	COG0727R	hypothetical protein
+1273958..1274227	-	89	73749288	rdhB	cbdb_A1587	-	-	reductive dehalogenase anchoring protein
+1274257..1275744	-	495	73749289	rdhA	cbdb_A1588	-	COG1600C	reductive dehalogenase
+1276045..1276722	-	225	73749290	rdhD	cbdb_A1589	-	COG0745TK	DNA-binding response regulator
+1276697..1278301	-	534	73749291	rdhC	cbdb_A1590	-	COG2205T	sensor histidine kinase
+1278634..1281912	+	1092	73749292	-	cbdb_A1591	-	COG4191T	sensor histidine kinase/response regulator
+1282026..1282424	-	132	73749293	-	cbdb_A1593	-	COG1433S	nitrogenase iron-molybdenum cofactor maturation domain-containing protein
+1282704..1282973	-	89	73749294	rdhB	cbdb_A1594	-	-	reductive dehalogenase anchoring protein
+1283001..1284485	-	494	73749295	rdhA	cbdb_A1595	-	COG1145C	reductive dehalogenase
+1285082..1285597	+	171	73749296	rdhR	cbdb_A1596	-	COG1846K	MarR family transcriptional regulator
+1285663..1285935	-	90	73749297	rdhB	cbdb_A1597	-	-	reductive dehalogenase anchoring protein
+1285951..1287450	-	499	73749298	rdhA	cbdb_A1598	-	COG1600C	reductive dehalogenase
+1287890..1288525	+	211	73749299	-	cbdb_A1599	-	-	hypothetical protein
+1289094..1293398	+	1434	73749300	rdhCD	cbdb_A1601	-	COG4191T	sensor histidine kinase/response regulator
+1293398..1294453	+	351	73749301	rdhD	cbdb_A1602	-	COG3437KT	response regulator
+1294567..1294968	-	133	73749302	-	cbdb_A1604	-	-	hypothetical protein
+1294987..1295529	-	180	73749303	-	cbdb_A1605	-	COG1470S	hypothetical protein
+1295676..1296131	-	151	73749304	-	cbdb_A1606	-	COG2862S	hypothetical protein
+1296147..1296743	-	198	73749305	-	cbdb_A1607	-	COG1584S	hypothetical protein
+1297148..1299706	+	852	73749306	-	cbdb_A1608	-	COG4191T	sensor histidine kinase/response regulator
+1299780..1300460	+	226	73749307	-	cbdb_A1609	-	-	hypothetical protein
+1300611..1301048	-	145	73749308	-	cbdb_A1610	-	COG0716C	hypothetical protein
+1301068..1301499	-	143	73749309	-	cbdb_A1611	-	COG0789K	MerR family transcriptional regulator
+1301618..1303570	+	650	73749310	-	cbdb_A1612	-	COG1132V	ABC-transporter ATPase/permease
+1303725..1305476	+	583	73749311	-	cbdb_A1613	-	COG1032C	hypothetical protein
+1305652..1308666	-	1004	73749312	-	cbdb_A1614	-	COG0841V	integral membrane efflux protein
+1308689..1309138	-	149	73749313	rdhR	cbdb_A1616	-	COG1846K	MarR family transcriptional regulator
+1309393..1309665	-	90	73749314	rdhB	cbdb_A1617	-	-	reductive dehalogenase anchoring protein
+1309684..1311111	-	475	73749315	rdhA	cbdb_A1618	-	COG1600C	reductive dehalogenase
+1311430..1311954	+	174	73749316	rdhR	cbdb_A1619	-	COG1846K	MarR family transcriptional regulator
+1311996..1314128	-	710	73749317	-	cbdb_A1620	-	COG1032C	radical SAM protein
+1314289..1315950	-	553	73749318	-	cbdb_A1621	-	COG2814G	major facilitator family transporter
+1315966..1316400	-	144	73749319	rdhR	cbdb_A1622	-	COG1846K	MarR family transcriptional regulator
+1316606..1316890	-	94	73749320	rdhB	cbdb_A1623	-	-	reductive dehalogenase anchoring protein
+1316903..1318390	-	495	73749321	rdhA	cbdb_A1624	-	COG1600C	reductive dehalogenase
+1318637..1319125	+	162	73749322	rdhR	cbdb_A1625	-	COG1846K	MarR family transcriptional regulator
+1319200..1319472	-	90	73749323	rdhB	cbdb_A1626	-	-	reductive dehalogenase anchoring protein
+1319491..1320969	-	492	73749324	rdhA	cbdb_A1627	-	COG1600C	reductive dehalogenase
+1321244..1322422	+	392	73749325	rdhC	cbdb_A1629	-	COG2205T	sensor histidine kinase
+1322419..1323096	+	225	73749326	rdhD	cbdb_A1630	-	COG0745TK	DNA-binding response regulator
+1323170..1323526	-	118	73749327	-	cbdb_A1633	-	-	hypothetical protein
+1323683..1324516	-	277	73749328	-	cbdb_A1635	-	-	hypothetical protein
+1324794..1325066	-	90	73749329	rdhB	cbdb_A1637	-	-	reductive dehalogenase anchoring protein
+1325086..1326588	-	500	73749330	rdhA	cbdb_A1638	-	COG1600C	reductive dehalogenase
+1326986..1327816	-	276	73749331	pheA	cbdb_A1639	-	COG0077E	prephenate dehydratase
+1328263..1329111	-	282	73749332	-	cbdb_A1640	-	COG1912S	hypothetical protein
+1329124..1329342	-	72	73749333	secG	cbdb_A1641	-	COG1314U	preprotein translocase subunit SecG
+1329345..1330823	-	492	73749334	gatB	cbdb_A1643	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1331127..1331831	+	234	73749335	-	cbdb_A1644	-	-	hypothetical protein
+1332008..1332172	-	54	73749336	-	cbdb_A1646	-	-	hypothetical protein
+1332193..1332450	-	85	73749337	-	cbdb_B43	-	COG2768R	(Fe-S)-binding protein
+1332468..1333145	-	225	73749338	-	cbdb_A1647	-	COG0789K	MerR family transcriptional regulator
+1333272..1334309	-	345	73749339	-	cbdb_A1648	-	-	hypothetical protein
+1334526..1334825	-	99	73749340	-	cbdb_A1649	-	-	hypothetical protein
+1334825..1335217	-	130	73749341	-	cbdb_A1650	-	-	hypothetical protein
+1335279..1335416	+	45	73749342	-	cbdb_A1651	-	-	hypothetical protein
+1335458..1335973	-	171	73749343	hycG	cbdb_A1652	-	COG3260C	hydrogenase 4 subunit HycG
+1335984..1337564	-	526	73749344	hycE	cbdb_A1653	-	COG3261C	hydrogenase 4 subunit HycE
+1337568..1338962	-	464	73749345	-	cbdb_A1655	-	COG0651CP	hydrogenase membrane subunit
+1339049..1339729	-	226	73749346	-	cbdb_A1656	-	COG4237C	hydrogenase subunit
+1339733..1340674	-	313	73749347	hycD	cbdb_A1658	-	COG0650C	hydrogenase, HycD subunit
+1340671..1342605	-	644	73749348	hycC	cbdb_A1659	-	COG0651CP	hydrogenase membrane subunit
+1342883..1343314	+	143	73749349	mgsA	cbdb_A1661	-	COG1803G	methylglyoxal synthase
+1343502..1343711	+	69	73749350	-	cbdb_A1662	-	-	hypothetical protein
+1343819..1345195	-	458	73749351	-	cbdb_A1663	-	COG0668M	mechanosensitive ion channel MscS
+1345258..1345641	-	127	73749352	-	cbdb_A1664	-	-	TetR family transcriptional regulator
+1345710..1345847	-	45	73749353	-	cbdb_A1665	-	-	hypothetical protein
+1345945..1346934	-	329	73749354	-	cbdb_A1667	-	COG0451MG	dihydroflavonol 4-reductase
+1346938..1347924	-	328	73749355	-	cbdb_A1668	-	COG0451MG	hypothetical protein
+1348375..1349016	+	213	73749356	-	cbdb_A1669	-	COG0450O	antioxidant, AhpC
+1349026..1349247	+	73	73749357	-	cbdb_A1670	-	COG4742K	hypothetical protein
+1349582..1349839	+	85	73749358	-	cbdb_A1671	-	-	hypothetical protein
+1350039..1350422	+	127	73749359	-	cbdb_A1673	-	COG3809S	hypothetical protein
+1350464..1351030	+	188	73749360	-	cbdb_A1675	-	COG1704S	hypothetical protein
+1351048..1352241	+	397	73749361	-	cbdb_A1677	-	COG0501O	peptidase
+1352322..1353014	-	230	73749362	cysE	cbdb_A1678	-	COG1045E	serine O-acetyltransferase
+1353042..1353386	-	114	73749363	cutA	cbdb_A1679	-	COG1324P	divalent cation tolerance protein CutA
+1353392..1354300	-	302	73749364	nadA	cbdb_A1681	-	COG0379H	quinolinate synthetase
+1354426..1355091	-	221	73749365	-	cbdb_A1683	-	COG2226H	SAM-dependent methyltransferase
+1355088..1356161	-	357	73749366	-	cbdb_A1684	-	COG0309O	AIR synthase domain-containing protein
+1356154..1356267	-	37	73749367	-	cbdb_B44	-	-	hypothetical protein
+1356390..1356836	-	148	73749368	-	cbdb_A1685	-	COG1959K	transcriptional regulator
+1357007..1358068	-	353	73749369	-	cbdb_A1686	-	COG1477H	hypothetical protein
+1358152..1359345	-	397	73749370	-	cbdb_A1688	-	COG0348C	membrane bound regulatory protein CprC
+1359537..1359659	-	40	73749371	-	cbdb_A1689	-	-	hypothetical protein
+1359623..1360822	-	399	73749372	-	cbdb_A1690	-	COG0348C	membrane bound regulatory protein CprC
+1360943..1361731	-	262	73749373	tatC	cbdb_A1691	-	COG0805U	Sec-independent protein translocase TatC
+1361728..1362018	-	96	73749374	tatB	cbdb_A1693	-	COG1826U	twin-arginine translocation protein TatB
+1362095..1362331	-	78	73749375	tatA/E	cbdb_A1694	-	COG1826U	twin-arginine translocation protein TatA
+1362423..1362620	-	65	73749376	tatA/E	cbdb_A1695	-	COG1826U	twin-arginine translocation protein TatA
+1362868..1363716	+	282	73749377	folP	cbdb_A1696	-	COG0294H	dihydropteroate synthase
+1363707..1364237	+	176	73749378	folK	cbdb_A1698	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1364237..1364608	+	123	73749379	ptpS	cbdb_A1699	-	COG0720H	6-pyruvoyl tetrahydrobiopterin synthase
+1364732..1365745	+	337	73749380	recA	cbdb_A1700	-	COG0468L	recA protein
+1365833..1366477	+	214	73749381	recX	cbdb_A1701	-	COG2137R	regulatory protein RecX
+1366546..1368129	+	527	73749382	-	cbdb_A1702	-	COG1418R	phosphodiesterase
+1368141..1368911	+	256	73749383	-	cbdb_A1703	-	COG1692S	hypothetical protein
+1368914..1369777	+	287	73749384	-	cbdb_A1704	-	COG0613R	phosphotransferase domain-containing protein
+1369774..1370472	+	232	73749385	-	cbdb_A1705	-	COG0344S	hypothetical protein
+1370499..1371170	-	223	73749386	-	cbdb_A1706	-	COG2231L	HhH-GPD family DNA repair protein
+1371152..1371595	-	147	73749387	-	cbdb_A1707	-	COG1720S	hypothetical protein
+1371649..1372896	-	415	73749388	-	cbdb_A1708	-	COG0119E	homocitrate synthase
+1373058..1373549	+	163	73749389	-	cbdb_A1709	-	COG0537FGR	HIT domain-containing protein
+1373696..1373968	+	90	73749390	-	cbdb_A1710	-	COG2002K	AbrB family transcriptional regulator
+1373965..1374279	+	104	73749391	-	cbdb_A1711	-	COG0393S	hypothetical protein
+1374298..1374489	+	63	73749392	-	cbdb_A1713	-	-	hypothetical protein
+1374493..1375434	+	313	73749393	-	cbdb_A1715	-	COG1131V	ABC transporter ATP-binding protein
+1375431..1376192	+	253	73749394	-	cbdb_A1716	-	COG1277R	ABC-transporter, permease component
+1376227..1377525	+	432	73749395	-	cbdb_A1717	-	-	hypothetical protein
+1377620..1378063	+	147	73749396	-	cbdb_A1718	-	COG1661R	hypothetical protein
+1378230..1378397	-	55	73749397	-	cbdb_A1720	-	-	desulforedoxin
+1378429..1378638	-	69	73749398	-	cbdb_A1721	-	-	hypothetical protein
+1378885..1379910	-	341	73749399	argC	cbdb_A1722	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+1379966..1381669	-	567	73749400	-	cbdb_A1724	-	COG4651P	sodium exchanger
+1381824..1382597	+	257	73749401	-	cbdb_A1725	-	COG1234R	metallo-beta-lactamase
+1382652..1384484	+	610	73749402	-	cbdb_A1727	-	COG1032C	radical SAM domain-containing protein
+1384559..1386988	-	809	73749403	gyrA	cbdb_A1728	-	COG0188L	DNA gyrase subunit A
+1386992..1387798	-	268	73749404	-	cbdb_A1729	-	COG5010U	hypothetical protein
+1388011..1388229	+	72	73749405	-	cbdb_A1730	-	COG0694O	nifU protein,-like protein
+1388287..1389504	-	405	73749406	metL	cbdb_A1731	-	COG0527E	aspartate kinase
+1389619..1389822	-	67	73749407	-	cbdb_A1733	-	-	hypothetical protein
+1389846..1391027	-	393	73749408	-	cbdb_A1734	-	COG3635G	cofactor-independent phosphoglycerate mutase
+1391189..1391974	-	261	73749409	-	cbdb_A1735	-	COG3956R	nucleotide pyrophosphohydrolase
+1392094..1392792	-	232	73749410	-	cbdb_A1737	-	COG2738R	hypothetical protein
+1392931..1393197	+	88	73749411	rpsT	cbdb_A1738	-	COG0268J	30S ribosomal protein S20
+1393298..1393942	+	214	73749412	lexA	cbdb_A1740	-	COG1974KT	LexA repressor
+1393954..1394535	+	193	73749413	-	cbdb_A1741	-	COG0235G	L-fuculose phosphate aldolase
+1394532..1395470	-	312	73749414	fmt	cbdb_A1742	-	COG0223J	methionyl-tRNA formyltransferase

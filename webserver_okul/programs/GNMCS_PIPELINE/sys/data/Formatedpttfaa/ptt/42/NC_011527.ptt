@@ -1,0 +1,1869 @@
+Coxiella burnetii CbuG_Q212 chromosome, complete genome - 1..2008870
+1866 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+6..119	-	37	212211669	-	CbuG_0001	-	-	hypothetical protein
+140..1495	+	451	212211670	dnaA	CbuG_0002	-	COG0593L	chromosomal replication initiation protein
+1639..2748	+	369	212211671	-	CbuG_0003	-	COG0592L	DNA polymerase III, beta chain
+2753..3826	+	357	212211672	recF	CbuG_0004	-	COG1195L	DNA replication and repair protein
+4122..6554	+	810	212211673	gyrB	CbuG_0005	-	COG0187L	DNA gyrase subunit B
+6699..7793	+	364	212211674	-	CbuG_0006	-	COG3547L	transposase
+7790..8062	-	90	212211675	-	CbuG_0007	-	-	hypothetical protein
+8113..8697	-	194	212211676	-	CbuG_0008	-	COG0742L	methyltransferase
+8768..8815	+	15	212211677	-	CbuG_0009	-	-	hypothetical protein
+8955..9086	-	43	212211678	-	CbuG_0010	-	-	hypothetical protein
+9193..10524	-	443	212211679	-	CbuG_0011	-	COG0612R	non-proteolytic protein, peptidase family M16
+10524..11903	-	459	212211680	-	CbuG_0012	-	COG0612R	peptidase, M16 family
+12092..13066	+	324	212211681	-	CbuG_0013	-	COG0552U	cell division protein
+13073..13726	+	217	212211682	ftsE	CbuG_0014	-	COG2884D	cell division ATP-binding protein
+13723..14664	+	313	212211683	ftsX	CbuG_0015	-	COG2177D	cell division protein
+14713..14979	+	88	212211684	-	CbuG_0016	-	-	Fic family protein
+15144..15860	-	238	212211685	-	CbuG_0017	-	COG1670J	ribosomal-protein-serine acetyltransferase
+15891..15989	-	32	212211686	-	CbuG_0018	-	-	hypothetical protein
+16026..16892	+	288	212211687	rpoH	CbuG_0019	-	COG0568K	RNA polymerase factor sigma-32
+16918..17676	+	252	212211688	com1	CbuG_0020	-	COG1651O	outer membrane protein
+17850..17969	-	39	212211689	-	CbuG_0021	-	-	hypothetical cytosolic protein
+18307..19266	+	319	212211690	glyQ	CbuG_0022	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+19260..21338	+	692	212211691	glyS	CbuG_0023	-	COG0751J	glycyl-tRNA synthetase subunit beta
+21335..22627	+	430	212211692	sun	CbuG_0024	-	COG0144J	16S rRNA m(5)C 967 methyltransferase
+22614..23054	-	146	212211693	-	CbuG_0025	-	COG0589T	universal stress protein A
+23580..23714	+	44	212211694	rpmH	CbuG_0026	-	-	50S ribosomal protein L34
+23711..24079	+	122	212211695	rnpA	CbuG_0027	-	COG0594J	ribonuclease P protein component
+24115..24285	+	56	212211696	-	CbuG_0028	-	COG0759S	hypothetical protein
+24289..25989	+	566	212211697	-	CbuG_0029	-	COG0706U	60 kDa inner membrane protein
+26134..26235	+	33	212211698	-	CbuG_0030	-	-	hypothetical protein
+26420..27841	+	473	212211699	trmE	CbuG_0031	-	COG0486R	tRNA modification GTPase TrmE
+27890..28417	-	175	212211700	-	CbuG_0032	-	COG1943L	hypothetical protein
+28792..30675	+	627	212211701	gidA	CbuG_0033	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+30707..31321	+	204	212211702	gidB	CbuG_0034	-	COG0357M	16S rRNA methyltransferase GidB
+31328..32098	+	256	212211703	parA	CbuG_0035	-	COG1192D	chromosome partitioning protein
+32089..32961	+	290	212211704	parB	CbuG_0036	-	COG1475K	chromosome partitioning protein
+32971..35781	+	936	212211705	-	CbuG_0037	-	COG0318IQ	acyl-CoA synthetase
+35781..37163	+	460	212211706	-	CbuG_0038	-	COG2270R	transporter, MFS superfamily
+37215..37397	+	60	212211707	-	CbuG_0039	-	-	hypothetical protein
+37478..37768	+	96	212211708	-	CbuG_0040	-	-	hypothetical protein
+37788..37919	+	43	212211709	-	CbuG_0041	-	-	hypothetical protein
+37921..38121	-	66	212211710	-	CbuG_0042	-	-	hypothetical protein
+38193..39047	+	284	212211711	-	CbuG_0043	-	COG1273S	hypothetical DNA-binding protein
+39044..41491	+	815	212211712	-	CbuG_0044	-	COG3285L	ATP-dependent DNA ligase
+41554..41661	+	35	212211713	-	CbuG_0045	-	-	hypothetical cytosolic protein
+41765..41908	-	47	212211714	-	CbuG_0046	-	-	hypothetical protein
+42524..42886	-	120	212211715	-	CbuG_0047	-	-	hypothetical cytosolic protein
+44250..44735	+	161	212211716	atpI	CbuG_0049	-	COG3312C	ATP synthase protein I
+44736..45530	+	264	212211717	atpB	CbuG_0050	-	COG0356C	F0F1 ATP synthase subunit A
+45548..45850	+	100	212211718	atpE	CbuG_0051	-	COG0636C	ATP synthase C chain
+45978..46448	+	156	212211719	atpF	CbuG_0052	-	COG0711C	F0F1 ATP synthase subunit B
+46448..47005	+	185	212211720	atpH	CbuG_0053	-	COG0712C	ATP synthase delta chain
+47013..48560	+	515	212211721	atpA	CbuG_0054	-	COG0056C	F0F1 ATP synthase subunit alpha
+48659..49528	+	289	212211722	atpG	CbuG_0055	-	COG0224C	F0F1 ATP synthase subunit gamma
+49564..51015	+	483	212211723	atpD	CbuG_0056	-	COG0055C	F0F1 ATP synthase subunit beta
+51139..51567	+	142	212211724	atpC	CbuG_0057	-	COG0355C	F0F1 ATP synthase subunit epsilon
+51586..52953	+	455	212211725	glmU	CbuG_0058	-	COG1207M	UDP-N-acetylglucosamine pyrophosphorylase
+53220..53369	+	49	212211726	-	CbuG_0059	-	-	hypothetical cytosolic protein
+53424..53600	+	58	212211727	-	CbuG_0060	-	-	hypothetical membrane-associated protein
+53728..54702	+	324	212211728	-	CbuG_0061	-	COG1373R	hypothetical ATPase
+54777..54911	-	44	212211729	-	CbuG_0062	-	-	hypothetical cytosolic protein
+54991..56046	+	351	212211730	pyrC	CbuG_0063	-	COG0418F	dihydroorotase
+56033..56698	+	221	212211731	rnt	CbuG_0064	-	COG0847L	ribonuclease T
+56703..57092	-	129	212211732	-	CbuG_0065	-	-	hypothetical protein
+57150..57752	-	200	212211733	-	CbuG_0066	-	COG0450O	thioredoxin peroxidase
+57790..57882	-	30	212211734	-	CbuG_0067	-	-	hypothetical protein
+57969..58550	+	193	212211735	sodB	CbuG_0068	-	COG0605P	superoxide dismutase
+58552..59271	+	239	212211736	dapB	CbuG_0069	-	COG0289E	dihydrodipicolinate reductase
+59274..59711	+	145	212211737	-	CbuG_0070	-	-	hypothetical protein
+60090..60434	+	114	212211738	-	CbuG_0071	-	COG2944K	DNA-binding protein
+60497..60754	-	85	212211739	-	CbuG_0072	-	-	hypothetical protein
+60682..60912	-	76	212211740	-	CbuG_0073	-	-	hypothetical protein
+61275..61631	+	118	212211741	-	CbuG_0074	-	-	hypothetical protein
+61663..62112	-	149	212211742	-	CbuG_0075	-	-	hypothetical protein
+62556..63257	+	233	212211743	-	CbuG_0076	-	-	hypothetical protein
+63390..63701	-	103	212211744	-	CbuG_0077	-	-	hypothetical protein
+63698..63802	-	34	212211745	-	CbuG_0078	-	-	hypothetical protein
+64075..64674	-	199	212211746	-	CbuG_0079	-	-	phosphoesterase, PAP2 family
+64913..65644	-	243	212211747	-	CbuG_0080	-	-	hypothetical protein
+66302..66817	+	171	212211748	-	CbuG_0081	-	-	hypothetical protein
+67040..67231	-	63	212211749	-	CbuG_0082	-	COG4974L	hypothetical protein
+67433..68686	+	417	212211750	-	CbuG_0083	-	COG4974L	phage integrase family protein
+73115..73342	-	75	212211751	-	CbuG_0085	-	-	hypothetical protein
+74275..74376	-	33	212211752	-	CbuG_0087	-	-	hypothetical protein
+75958..76899	-	313	212211753	-	CbuG_0089	-	-	hypothetical protein
+77330..77518	+	62	212211754	-	CbuG_0090	-	-	hypothetical protein
+77535..77957	+	140	212211755	-	CbuG_0091	-	COG2827L	hypothetical cytosolic protein
+78021..79115	+	364	212211756	-	CbuG_0092	-	COG3547L	transposase
+79112..79384	-	90	212211757	-	CbuG_0093	-	-	hypothetical protein
+79805..79966	+	53	212211758	-	CbuG_0094	-	-	hypothetical cytosolic protein
+79956..81431	-	491	212211759	gvcPB	CbuG_0095	-	COG1003E	glycine dehydrogenase subunit 2
+81499..82839	-	446	212211760	gvcPA	CbuG_0096	-	COG0403E	glycine dehydrogenase subunit 1
+82842..83234	-	130	212211761	gvcH	CbuG_0097	-	COG0509E	glycine cleavage system protein H
+83245..84396	-	383	212211762	gcvT	CbuG_0098	-	COG0404E	glycine cleavage system aminomethyltransferase T
+84522..86180	-	552	212211763	groEL	CbuG_0099	-	COG0459O	chaperonin GroEL
+86208..86591	-	127	212211764	groES	CbuG_0100	-	COG0234O	co-chaperonin GroES
+86620..89373	+	917	212211765	acnA	CbuG_0101	-	COG1048C	aconitate hydratase
+89384..90094	+	236	212211766	-	CbuG_0102	-	COG1234R	hypothetical protein
+94527..96422	+	631	212211767	dsbD	CbuG_0104	-	COG4232OC	thiol:disulfide interchange protein
+99212..99730	+	172	212211768	accB	CbuG_0106	-	COG0511I	biotin carboxyl carrier protein of acetyl-CoA carboxylase
+99737..101083	+	448	212211769	accC	CbuG_0107	-	COG0439I	biotin carboxylase
+101135..102145	-	336	212211770	arcB	CbuG_0108	-	COG2423E	ornithine cyclodeaminase
+102138..102755	-	205	212211771	-	CbuG_0109	-	COG3201H	N-ribosylnicotinamide transporter
+102790..103740	-	316	212211772	hemF	CbuG_0110	-	COG0408H	coproporphyrinogen III oxidase
+103830..104606	-	258	212211773	-	CbuG_0111	-	COG0560E	phosphoserine phosphatase
+106028..107194	+	388	212211774	-	CbuG_0113	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+109337..110050	-	237	212211775	-	CbuG_0115	-	COG0593L	DnaA-related protein
+110053..111198	-	381	212211776	-	CbuG_0116	-	COG3249S	hypothetical protein
+111226..112317	+	363	212211777	purM	CbuG_0117	-	COG0150F	phosphoribosylaminoimidazole synthetase
+112314..112961	+	215	212211778	purN	CbuG_0118	-	COG0299F	phosphoribosylglycinamide formyltransferase
+113047..113385	+	112	212211779	ihfB	CbuG_0119	-	COG0776L	integration host factor beta-subunit
+113351..114208	-	285	212211780	-	CbuG_0120	-	COG0313R	tetrapyrrole (corrin/porphyrin) methylase family protein
+114290..114457	-	55	212211781	-	CbuG_0121	-	-	hypothetical protein
+114471..115661	+	396	212211782	-	CbuG_0122	-	COG3107R	lipoprotein antigen
+115785..116075	+	96	212211783	-	CbuG_0123	-	COG0792L	hypothetical protein
+116081..116680	+	199	212211784	gmhA	CbuG_0124	-	COG0279G	phosphoheptose isomerase
+116680..117255	+	191	212211785	-	CbuG_0125	-	COG2823R	lipoprotein
+117786..118478	-	230	212211786	-	CbuG_0126	-	COG1994R	membrane endopeptidase, M50 family
+118566..118970	-	134	212211787	sspB	CbuG_0127	-	COG2969R	ClpXP protease specificity-enhancing factor
+118972..119634	-	220	212211788	sspA	CbuG_0128	-	COG0625O	stringent starvation protein A
+119665..120084	-	139	212211789	rpsI	CbuG_0129	-	COG0103J	30S ribosomal protein S9
+120103..120531	-	142	212211790	rplM	CbuG_0130	-	COG0102J	50S ribosomal protein L13
+120666..120932	+	88	212211791	-	CbuG_0131	-	-	hypothetical protein
+120974..121210	+	78	212211792	-	CbuG_0132	-	COG0776L	DNA-binding protein
+121318..122580	+	420	212211793	-	CbuG_0133	-	-	hypothetical protein
+122616..123854	+	412	212211794	-	CbuG_0134	-	-	hypothetical protein
+124365..124961	-	198	212211795	-	CbuG_0136	-	-	hypothetical protein
+124971..125096	-	41	212211796	-	CbuG_0137	-	-	hypothetical protein
+125143..126324	+	393	212211797	-	CbuG_0138	-	COG2814G	multidrug resistance transporter, Bcr family
+126339..128735	-	798	212211798	-	CbuG_0139	-	COG0666R	ankyrin repeat protein
+129016..130080	+	354	212211799	-	CbuG_0140	-	COG3547L	transposase
+130077..130391	-	104	212211800	-	CbuG_0141	-	-	hypothetical protein
+130676..132649	-	657	212211801	-	CbuG_0142	-	COG0642T	two component system histidine kinase
+132703..134085	-	460	212211802	-	CbuG_0143	-	COG0578C	FAD dependent oxidoreductase
+134243..135511	+	422	212211803	-	CbuG_0144	-	COG1373R	hypothetical ATPase
+135535..135642	-	35	212211805	-	CbuG_0146	-	-	hypothetical protein
+135641..135997	+	118	212211804	-	CbuG_0145	-	-	hypothetical protein
+136073..136291	-	72	212211806	-	CbuG_0147	-	-	hypothetical protein
+136291..138741	-	816	212211807	feoB	CbuG_0148	-	COG0370P	ferrous iron transport protein B
+138742..139011	-	89	212211808	feoA	CbuG_0149	-	COG1918P	ferrous iron transport protein A
+139073..139534	-	153	212211809	-	CbuG_0150	-	-	hypothetical protein
+139597..140214	-	205	212211810	-	CbuG_0151	-	COG2945R	alpha/beta hydrolase
+140318..141634	-	438	212211811	-	CbuG_0152	-	COG1116P	ABC transporter ATP-binding protein
+141732..143477	-	581	212211812	-	CbuG_0153	-	COG4986P	ABC transporter permease protein
+143712..144329	-	205	212211813	engB	CbuG_0154	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+144376..144519	-	47	212211814	-	CbuG_0155	-	-	hypothetical protein
+144583..145674	-	363	212211815	fbaA	CbuG_0156	-	COG0191G	fructose-1,6-bisphosphate aldolase
+145769..146863	+	364	212211816	-	CbuG_0157	-	COG3547L	transposase
+146860..147168	-	102	212211817	-	CbuG_0158	-	-	hypothetical protein
+148877..150331	-	484	212211818	pyk	CbuG_0160	-	COG0469G	pyruvate kinase
+150318..151532	-	404	212211819	pgk	CbuG_0161	-	COG0126G	phosphoglycerate kinase
+151604..152608	-	334	212211820	gap	CbuG_0162	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+152623..154641	-	672	212211821	tkt	CbuG_0163	-	COG0021G	transketolase
+154757..155851	+	364	212211822	-	CbuG_0164	-	COG3547L	transposase
+155848..156156	-	102	212211823	-	CbuG_0165	-	-	hypothetical protein
+157429..159264	+	611	212211824	glmS	CbuG_0167	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase (isomerizing)
+159491..159838	+	115	212211825	-	CbuG_0168	-	-	hypothetical cytosolic protein
+160006..160233	+	75	212211826	-	CbuG_0169	-	-	hypothetical protein
+160238..161104	-	288	212211827	-	CbuG_0170	-	COG3386G	gluconolactonase
+161284..162966	+	560	212211828	-	CbuG_0171	-	-	hypothetical protein
+164502..165320	+	272	212211829	-	CbuG_0172	-	-	hypothetical protein
+165350..168058	-	902	212211830	polA	CbuG_0173	-	COG0749L	DNA polymerase I
+168109..169737	+	542	212211831	-	CbuG_0174	-	COG0531E	amino acid permease
+169742..170182	+	146	212211832	-	CbuG_0175	-	COG1607I	acyl-CoA hydrolase
+170311..172254	+	647	212211833	-	CbuG_0176	-	-	lysine-specific permease
+172327..172785	+	152	212211834	-	CbuG_0177	-	-	hypothetical protein
+172636..173097	-	153	212211835	-	CbuG_0178	-	COG0456R	acetyltransferase
+173094..173357	-	87	212211836	-	CbuG_0179	-	-	hypothetical membrane spanning protein
+173296..173772	-	158	212211837	-	CbuG_0180	-	-	hypothetical protein
+173977..175170	-	397	212211838	-	CbuG_0181	-	COG0577V	export ABC transporter permease protein
+175181..175846	-	221	212211839	-	CbuG_0182	-	COG1136V	ABC transporter ATP-binding protein
+175839..177014	-	391	212211840	-	CbuG_0183	-	COG0845M	macrolide-specific efflux protein
+177017..178564	-	515	212211841	-	CbuG_0184	-	COG1538MU	type I secretion outer membrane protein
+178631..179758	+	375	212211842	pdxB	CbuG_0185	-	COG0111HE	erythronate-4-phosphate dehydrogenase
+179739..179867	+	42	212211843	-	CbuG_0186	-	-	hypothetical protein
+179904..180617	+	237	212211844	-	CbuG_0187	-	-	outer membrane protein
+180765..182753	-	662	212211845	priA	CbuG_0188	-	COG1198L	primosomal protein N'
+182825..183391	+	188	212211846	efp	CbuG_0189	-	COG0231J	elongation factor P
+183396..184361	+	321	212211847	-	CbuG_0190	-	COG2269J	lysyl-tRNA synthetase
+184583..186028	+	481	212211848	-	CbuG_0191	-	-	hypothetical membrane spanning protein
+186081..187214	+	377	212211849	-	CbuG_0192	-	-	hypothetical membrane-associated protein
+187231..187755	-	174	212211850	-	CbuG_0193	-	-	hypothetical protein
+187758..188255	-	165	212211851	-	CbuG_0194	-	-	hypothetical protein
+188371..188958	-	195	212211852	sodC	CbuG_0195	-	COG2032P	superoxide dismutase (Cu-Zn)
+190233..190307	-	24	212211854	-	CbuG_0198	-	-	hypothetical protein
+190298..190717	+	139	212211853	-	CbuG_0197	-	-	hypothetical protein
+190722..191570	-	282	212211855	psd	CbuG_0199	-	COG0688I	phosphatidylserine decarboxylase
+191577..192722	+	381	212211856	cca	CbuG_0200	-	COG0617J	tRNA nucleotidyltransferase
+192756..194009	-	417	212211857	-	CbuG_0201	-	COG1565S	hypothetical protein
+194016..194648	+	210	212211858	lolB	CbuG_0202	-	COG3017M	outer membrane lipoprotein LolB
+194823..195782	+	319	212211859	prs	CbuG_0204	-	COG0462FE	ribose-phosphate pyrophosphokinase
+195787..197235	+	482	212211860	-	CbuG_0205	-	-	hypothetical membrane spanning protein
+198440..198577	-	45	212211861	-	CbuG_0206	-	-	hypothetical protein
+198607..199521	+	304	212211862	rfbA.1	CbuG_0207	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+199867..201246	-	459	212211863	-	CbuG_0208	-	COG1232H	protoporphyrinogen oxidase
+201248..202504	-	418	212211864	-	CbuG_0209	-	COG4091E	homoserine dehydrogenase
+202518..203558	-	346	212211865	-	CbuG_0210	-	COG0451MG	UDP-glucose 4-epimerase
+203555..204124	-	189	212211866	rfbC	CbuG_0211	-	COG1898M	dTDP-4-dehydrorhamnose 3,5-epimerase
+204134..205363	-	409	212211867	-	CbuG_0212	-	COG0579R	aminobutyraldehyde dehydrogenase
+205510..206244	+	244	212211868	rplY	CbuG_0213	-	COG1825J	50S ribosomal protein L25/general stress protein Ctc
+206251..206814	+	187	212211869	pth	CbuG_0214	-	COG0193J	peptidyl-tRNA hydrolase
+206847..207950	+	367	212211870	ychF	CbuG_0215	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+207954..208358	+	134	212211871	-	CbuG_0216	-	-	hypothetical protein
+208646..208795	+	49	212211872	-	CbuG_0218	-	-	hypothetical protein
+208894..209055	+	53	212211873	-	CbuG_0219	-	-	hypothetical cytosolic protein
+209157..209768	+	203	212211874	-	CbuG_0220	-	-	hypothetical membrane spanning protein
+209881..210477	-	198	212211875	-	CbuG_0221	-	COG3416S	hypothetical protein
+210464..210709	-	81	212211876	-	CbuG_0222	-	-	hypothetical protein
+212321..212683	+	120	212211877	-	CbuG_0224	-	-	hypothetical protein
+212818..213018	-	66	212211878	-	CbuG_0225	-	-	hypothetical protein
+213238..213723	-	161	212211879	-	CbuG_0226	-	-	hypothetical protein
+213938..215734	+	598	212211880	-	CbuG_0227	-	-	hypothetical membrane spanning protein
+215727..217121	+	464	212211881	-	CbuG_0228	-	COG1807M	hypothetical protein
+217099..217548	-	149	212211882	-	CbuG_0229	-	COG2246S	GtrA family protein
+217631..217786	-	51	212211883	-	CbuG_0230	-	-	hypothetical cytosolic protein
+218326..218673	-	115	212211884	pilF	CbuG_0231	-	COG3063NU	type 4 pili biogenesis protein
+218700..219839	-	379	212211885	-	CbuG_0232	-	COG1024I	3-hydroxyisobutyryl-CoA hydrolase
+223015..224025	-	336	212211886	oppB	CbuG_0235	-	COG0601EP	oligopeptide transport system permease protein
+226319..227347	+	342	212211887	-	CbuG_0237	-	COG1509E	lysine 2,3-aminomutase
+227337..229148	-	603	212211888	-	CbuG_0238	-	-	hypothetical membrane spanning protein
+229411..229506	-	31	212211889	-	CbuG_0239	-	-	hypothetical protein
+229527..230069	-	180	212211890	-	CbuG_0240	-	COG3428S	hypothetical membrane-associated protein
+230072..232333	-	753	212211891	parC	CbuG_0241	-	COG0188L	DNA topoisomerase IV subunit A
+232376..232534	+	52	212211892	-	CbuG_0242	-	-	hypothetical protein
+232679..232822	-	47	212211893	-	CbuG_0243	-	-	hypothetical cytosolic protein
+232888..233562	+	224	212211894	-	CbuG_0244	-	-	hypothetical protein
+233849..234496	+	215	212211895	-	CbuG_0245	-	COG2941H	2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+234446..235051	-	201	212211896	pabA	CbuG_0246	-	COG0512EH	anthranilate synthase component II
+235032..235727	-	231	212211897	rpe	CbuG_0247	-	COG0036G	ribulose-phosphate 3-epimerase
+235727..236542	-	271	212211898	djlA	CbuG_0248	-	COG1076O	Dna-J like membrane chaperone protein
+236578..237885	+	435	212211899	gshA	CbuG_0249	-	-	glutamate--cysteine ligase
+237939..238904	+	321	212211900	gshB	CbuG_0250	-	COG0189HJ	glutathione synthetase
+239323..240087	+	254	212211901	-	CbuG_0251	-	COG0742L	SAM-dependent methyltransferase
+240070..241353	-	427	212211902	-	CbuG_0252	-	COG1373R	hypothetical ATPase
+241498..241917	-	139	212211903	-	CbuG_0253	-	COG0316S	iron-sulfur cluster insertion protein ErpA
+242001..242642	+	213	212211904	def2	CbuG_0254	-	COG0242J	peptide deformylase
+242639..243058	+	139	212211905	-	CbuG_0255	-	COG1981S	hypothetical membrane spanning protein
+243055..243228	-	57	212211906	-	CbuG_0256	-	COG1773C	rubredoxin
+243271..244578	+	435	212211907	hemL	CbuG_0257	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+244575..245129	+	184	212211908	-	CbuG_0258	-	COG0720H	queuosine biosynthesis protein
+245132..245611	+	159	212211909	-	CbuG_0259	-	COG5472S	hypothetical exported membrane spanning protein
+245874..245984	-	36	212211910	-	CbuG_0260	-	-	hypothetical protein
+245994..248375	-	793	212211911	ponA	CbuG_0261	-	COG5009M	multimodular transpeptidase-transglycosylase PBP 1A
+248445..249239	+	264	212211912	-	CbuG_0262	-	COG4972NU	hypothetical protein
+249236..249715	+	159	212211913	pilN	CbuG_0263	-	COG3166NU	type 4 pili biogenesis protein
+249873..250181	+	102	212211914	-	CbuG_0264	-	-	hypothetical protein
+251155..251694	+	179	212211915	aroK	CbuG_0266	-	COG0703E	shikimate kinase
+251691..252773	+	360	212211916	aroB	CbuG_0267	-	COG0337E	3-dehydroquinate synthase
+252852..253037	-	61	212211917	-	CbuG_0268	-	-	hypothetical cytosolic protein
+253060..253215	-	51	212211918	-	CbuG_0269	-	-	hypothetical cytosolic protein
+253388..253543	+	51	212211919	-	CbuG_0270	-	-	hypothetical protein
+253552..254790	-	412	212211920	-	CbuG_0271	-	COG2211G	macrolide-efflux protein
+254988..256082	+	364	212211921	-	CbuG_0272	-	COG3547L	transposase
+256079..256501	-	140	212211922	-	CbuG_0273	-	-	hypothetical protein
+256489..256701	-	70	212211923	-	CbuG_0274	-	-	hypothetical protein
+256698..256979	-	93	212211924	-	CbuG_0275	-	COG2929S	hypothetical cytosolic protein
+257018..257206	+	62	212211925	-	CbuG_0276	-	-	hypothetical protein
+257308..257862	+	184	212211926	-	CbuG_0277	-	-	hypothetical protein
+259287..260105	+	272	212211927	aroE	CbuG_0279	-	COG0169E	shikimate 5-dehydrogenase
+260194..260298	+	34	212211928	-	CbuG_0280	-	-	hypothetical protein
+261523..262776	-	417	212211929	-	CbuG_0282	-	COG0306P	low-affinity inorganic phosphate transporter
+262853..263569	+	238	212211930	-	CbuG_0283	-	COG1392P	pit accessory protein
+263571..264392	+	273	212211931	xapA	CbuG_0284	-	COG0005F	purine nucleoside phosphorylase
+264389..265114	+	241	212211932	deoC	CbuG_0285	-	COG0274F	deoxyribose-phosphate aldolase
+265751..265861	-	36	212211933	-	CbuG_0287	-	-	hypothetical protein
+265869..266420	-	183	212211934	-	CbuG_0288	-	COG1544J	cold shock protein
+266631..269060	+	809	212211935	-	CbuG_0289	-	-	hypothetical protein
+269298..270107	+	269	212211936	-	CbuG_0290	-	-	hypothetical cytosolic protein
+270113..270625	-	170	212211937	-	CbuG_0291	-	-	hypothetical cytosolic protein
+270753..270959	-	68	212211938	csrA2	CbuG_0292	-	COG1551T	carbon storage regulator
+271055..271177	-	40	212211939	-	CbuG_0293	-	-	hypothetical cytosolic protein
+271324..271986	-	220	212211940	rpiA	CbuG_0294	-	COG0120G	ribose-5-phosphate isomerase A
+272128..273018	-	296	212211941	-	CbuG_0295	-	COG0204I	acyltransferase
+273015..274730	-	571	212211942	-	CbuG_0296	-	COG0277C	alkyldihydroxyacetonephosphate synthase
+274697..275395	-	232	212211943	-	CbuG_0297	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+275382..276569	-	395	212211944	-	CbuG_0298	-	COG1257I	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+276668..277606	-	312	212211945	-	CbuG_0299	-	COG1028IQR	3-oxoacyl-[acyl-carrier protein] reductase
+277850..278128	+	92	212211946	-	CbuG_0300	-	-	hypothetical cytosolic protein
+278221..278922	-	233	212211947	-	CbuG_0301	-	COG0736I	4'-phosphopantetheinyl transferase family
+278926..279201	-	91	212211948	-	CbuG_0302	-	COG0236IQ	acyl carrier protein
+279209..280483	-	424	212211949	-	CbuG_0303	-	COG0304IQ	3-oxoacyl-[acyl-carrier-protein] synthase
+280480..280959	-	159	212211950	-	CbuG_0304	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+280963..281526	-	187	212211951	fabA	CbuG_0305	-	COG0764I	3-hydroxydecanoyl-ACP dehydratase
+281534..281758	+	74	212211952	-	CbuG_0306	-	-	hypothetical protein
+281778..282761	-	327	212211953	-	CbuG_0307	-	COG0332I	3-oxoacyl-[acyl-carrier-protein] synthase III
+282842..284875	-	677	212211954	prlC	CbuG_0308	-	COG0339E	oligopeptidase A
+284924..286018	+	364	212211955	-	CbuG_0309	-	COG3547L	transposase
+286015..286323	-	102	212211956	-	CbuG_0310	-	-	hypothetical protein
+286373..287107	+	244	212211957	-	CbuG_0311	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+287767..289137	-	456	212211958	pntB	CbuG_0313	-	COG1282C	NAD(P) transhydrogenase subunit beta
+289134..289433	-	99	212211959	pntAB	CbuG_0314	-	COG3288C	NAD(P) transhydrogenase alpha subunit
+289816..291075	-	419	212211961	-	CbuG_0316	-	COG3288C	NAD(P) transhydrogenase alpha subunit
+291064..291936	+	290	212211960	pntAA	CbuG_0315	-	COG1809S	(2R)-phospho-3-sulfolactate synthase
+292126..292518	+	130	212211962	-	CbuG_0317	-	-	hypothetical membrane spanning protein
+292703..294301	-	532	212211963	-	CbuG_0318	-	COG0488R	ABC transporter ATP-binding protein
+294367..294483	-	38	212211964	-	CbuG_0319	-	-	hypothetical protein
+294545..294991	+	148	212211965	-	CbuG_0320	-	-	hypothetical membrane spanning protein
+295088..296356	-	422	212211966	-	CbuG_0321	-	COG1373R	hypothetical ATPase
+296501..296668	-	55	212211967	-	CbuG_0322	-	-	hypothetical membrane spanning protein
+296947..298503	+	518	212211968	-	CbuG_0323	-	-	hypothetical protein
+298507..299766	+	419	212211969	-	CbuG_0324	-	COG1373R	hypothetical ATPase
+299741..300397	-	218	212211970	nth	CbuG_0325	-	COG0177L	endonuclease III
+300405..301025	-	206	212211971	rnfB	CbuG_0326	-	COG2878C	electron transport complex protein
+301018..302658	-	546	212211972	metG	CbuG_0327	-	COG0143J	methionyl-tRNA synthetase
+304642..304767	-	41	212211973	-	CbuG_0329	-	-	hypothetical protein
+304840..305010	+	56	212211974	-	CbuG_0330	-	COG4679S	hypothetical cytosolic protein
+305003..305329	+	108	212211975	-	CbuG_0331	-	-	transcriptional regulator
+305436..305537	-	33	212211976	-	CbuG_0332	-	-	hypothetical protein
+305763..306683	+	306	212211977	-	CbuG_0333	-	COG0489D	iron-sulfur cluster assembly/repair protein
+306683..307249	+	188	212211978	dcd	CbuG_0334	-	COG0717F	deoxycytidine triphosphate deaminase
+309761..312082	-	773	212211979	-	CbuG_0336	-	-	hypothetical protein
+312104..313525	-	473	212211980	-	CbuG_0337	-	-	hypothetical protein
+313599..313691	-	30	212211981	-	CbuG_0338	-	-	hypothetical protein
+313861..313992	+	43	212211982	-	CbuG_0339	-	-	hypothetical protein
+314027..315694	+	555	212211983	pyrG	CbuG_0340	-	COG0504F	CTP synthetase
+315735..316031	+	98	212211984	-	CbuG_0341	-	-	hypothetical protein
+316185..317438	-	417	212211985	-	CbuG_0342	-	-	hypothetical membrane spanning protein
+317616..318095	-	159	212211986	speG	CbuG_0343	-	COG1670J	spermidine N1-acetyltransferase
+318255..318689	+	144	212211987	-	CbuG_0344	-	-	hypothetical cytosolic protein
+318759..319844	+	361	212211988	-	CbuG_0345	-	-	hypothetical cytosolic protein
+320157..320999	+	280	212211989	kdsA	CbuG_0346	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+321156..322442	+	428	212211990	eno	CbuG_0347	-	COG0148G	phosphopyruvate hydratase
+322449..322718	+	89	212211991	ftsB	CbuG_0348	-	COG2919D	cell division protein
+322788..323564	+	258	212211992	surE	CbuG_0349	-	COG0496R	stationary phase survival protein SurE
+323566..324258	+	230	212211993	-	CbuG_0350	-	COG4942D	peptidoglycan-specific endopeptidase, M23 family
+324338..325396	+	352	212211994	rpoS	CbuG_0351	-	COG0568K	RNA polymerase sigma factor
+325585..325716	+	43	212211995	-	CbuG_0352	-	-	hypothetical protein
+325777..325983	+	68	212211996	-	CbuG_0353	-	COG4391S	hypothetical protein
+325987..327018	+	343	212211997	rfaF	CbuG_0354	-	COG0859M	ADP-heptose--LPS heptosyltransferase II
+327003..327887	-	294	212211998	-	CbuG_0355	-	COG5495S	hypothetical cytosolic protein
+327884..329194	-	436	212211999	-	CbuG_0356	-	COG3307M	O-antigen ligase
+329243..330328	+	361	212212000	-	CbuG_0357	-	COG0438M	hypothetical protein
+330369..331133	+	254	212212001	-	CbuG_0358	-	COG0463M	alpha-L-glycero-D-manno-heptose beta-1,4-glucosyltransferase
+331195..331530	+	111	212212002	-	CbuG_0359	-	-	hypothetical protein
+331527..332621	-	364	212212003	-	CbuG_0360	-	COG3547L	transposase
+332651..332770	+	39	212212004	-	CbuG_0361	-	-	hypothetical protein
+332778..334268	+	496	212212005	rfaE	CbuG_0362	-	COG2870M	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase
+334293..334475	-	60	212212006	-	CbuG_0363	-	-	virulence-associated protein C
+334600..334944	+	114	212212007	-	CbuG_0364	-	-	hypothetical protein
+334941..336035	-	364	212212008	-	CbuG_0365	-	COG3547L	transposase
+336565..337695	-	376	212212009	icmX	CbuG_0367	-	-	IcmX
+337711..338169	-	152	212212010	-	CbuG_0368	-	-	hypothetical membrane-associated protein
+338166..338615	-	149	212212011	icmW	CbuG_0369	-	-	IcmW
+338805..339299	+	164	212212012	icmV	CbuG_0370	-	-	IcmV
+339296..341740	+	814	212212013	dotA	CbuG_0371	-	-	DotA
+341795..341890	+	31	212212014	-	CbuG_0372	-	-	hypothetical protein
+342124..342396	+	90	212212015	-	CbuG_0373	-	-	hypothetical protein
+342393..343487	-	364	212212016	-	CbuG_0374	-	COG3547L	transposase
+343589..344923	-	444	212212017	-	CbuG_0375	-	COG1292M	glycine betaine transporter
+344930..346048	-	372	212212018	dotB	CbuG_0376	-	COG2805NU	ATP-binding protein
+346086..346910	-	274	212212019	dotC	CbuG_0377	-	-	DotC
+346913..347422	-	169	212212020	dotD	CbuG_0378	-	-	DotD
+347579..347917	-	112	212212021	icmS	CbuG_0379	-	-	IcmS
+347917..348174	-	85	212212022	icmT	CbuG_0380	-	-	IcmT
+348290..349384	+	364	212212023	-	CbuG_0381	-	COG3547L	transposase
+349381..349716	-	111	212212024	-	CbuG_0382	-	-	hypothetical protein
+351177..352382	+	401	212212025	-	CbuG_0384	-	COG1373R	ATPase
+352479..352616	-	45	212212026	-	CbuG_0385	-	-	hypothetical protein
+353978..354151	-	57	212212027	-	CbuG_0387	-	-	hypothetical protein
+354267..354416	+	49	212212028	-	CbuG_0388	-	-	hypothetical protein
+354413..355129	+	238	212212029	icmQ	CbuG_0389	-	-	IcmQ
+355130..356293	+	387	212212030	icmP	CbuG_0390	-	-	IcmP
+356269..358647	+	792	212212031	icmO	CbuG_0391	-	COG3505U	IcmO
+358657..359295	+	212	212212032	icmN	CbuG_0392	-	COG2885M	IcmN protein, OmpA family
+359302..359925	+	207	212212033	icmL.1	CbuG_0393	-	-	IcmL
+359927..360583	+	218	212212034	icmL.2	CbuG_0394	-	-	IcmL
+360594..361649	+	351	212212035	icmK	CbuG_0395	-	-	IcmK
+361636..364755	+	1039	212212036	icmE	CbuG_0396	-	COG1357S	IcmE
+364773..365507	+	244	212212037	icmG	CbuG_0397	-	-	IcmG
+365578..366087	+	169	212212038	icmC	CbuG_0398	-	-	IcmC
+366181..366597	+	138	212212039	icmD	CbuG_0399	-	-	IcmD
+366610..367248	+	212	212212040	icmJ	CbuG_0400	-	-	IcmJ
+367321..370332	+	1003	212212041	icmB	CbuG_0401	-	-	IcmB
+370347..370484	-	45	212212042	-	CbuG_0402	-	-	hypothetical protein
+370702..371235	-	177	212212043	-	CbuG_0403	-	-	hypothetical protein
+371292..371645	-	117	212212044	-	CbuG_0404	-	-	hypothetical protein
+371775..371909	+	44	212212045	-	CbuG_0405	-	-	hypothetical protein
+371938..372552	+	204	212212046	-	CbuG_0406	-	-	ankyrin repeat protein
+372846..373229	+	127	212212047	-	CbuG_0407	-	-	hypothetical protein
+375896..376924	-	342	212212048	-	CbuG_0409	-	COG3608R	succinylglutamate desuccinylase/Aspartoacylase family protein
+376927..377832	-	301	212212049	rimK	CbuG_0410	-	COG0189HJ	ribosomal protein S6 modification protein
+377829..378314	-	161	212212050	-	CbuG_0411	-	COG4067O	hypothetical protein
+378491..379036	+	181	212212051	-	CbuG_0412	-	COG3637M	heat resistant agglutinin
+381497..381607	+	36	212212052	-	CbuG_0415	-	-	hypothetical protein
+381731..383827	-	698	212212053	rpoD	CbuG_0416	-	COG0568K	RNA polymerase sigma factor
+383947..385665	-	572	212212054	dnaG	CbuG_0417	-	COG0358L	DNA primase
+386183..386443	-	86	212212055	rpsU	CbuG_0418	-	COG0828J	30S ribosomal protein S21
+386543..387637	+	364	212212056	-	CbuG_0419	-	COG3547L	transposase
+387634..387906	-	90	212212057	-	CbuG_0420	-	-	hypothetical protein
+388038..389291	-	417	212212058	nhaP	CbuG_0421	-	COG0025P	Na+/H+ antiporter
+389380..389688	+	102	212212059	-	CbuG_0422	-	-	hypothetical membrane-associated protein
+389808..392114	+	768	212212060	mrpA	CbuG_0423	-	COG1009CP	monovalent cation/H+ antiporter subunit A
+392111..392518	+	135	212212061	mrpB	CbuG_0424	-	-	monovalent cation/H+ antiporter subunit B
+392515..392886	+	123	212212062	mrpC	CbuG_0425	-	COG1006P	potassium efflux system protein
+392883..394382	+	499	212212063	mrpD	CbuG_0426	-	COG0651CP	sodium/proton antiporter protein
+394379..394726	+	115	212212064	mrpE	CbuG_0427	-	COG1863P	sodium/proton antiporter protein
+394723..395025	+	100	212212065	mrpF	CbuG_0428	-	COG2212P	sodium/proton antiporter protein
+395018..395398	+	126	212212066	mrpG	CbuG_0429	-	COG1320P	sodium/proton antiporter protein
+395447..395590	-	47	212212067	-	CbuG_0430	-	-	hypothetical protein
+395886..396983	-	365	212212068	-	CbuG_0431	-	COG1485R	ATPase
+396980..397573	-	197	212212069	wrbA	CbuG_0432	-	COG0655R	trp repressor binding protein
+397684..398520	+	278	212212070	-	CbuG_0433	-	COG1295S	ribonuclease BN
+398523..399467	+	314	212212071	-	CbuG_0434	-	COG1376S	hypothetical protein
+399563..399682	+	39	212212072	-	CbuG_0435	-	-	hypothetical protein
+401071..401952	-	293	212212073	-	CbuG_0436	-	-	hypothetical membrane spanning protein
+402095..402538	-	147	212212074	tolR	CbuG_0437	-	COG0848U	TolR
+402516..403229	-	237	212212075	tolQ	CbuG_0438	-	COG0811U	TolQ
+403305..404540	-	411	212212076	-	CbuG_0439	-	-	transporter, MFS superfamily
+404683..405747	+	354	212212077	-	CbuG_0440	-	COG3547L	transposase
+405744..406088	-	114	212212078	-	CbuG_0441	-	-	hypothetical protein
+406102..407157	-	351	212212079	ruvB	CbuG_0442	-	COG2255L	Holliday junction DNA helicase RuvB
+409009..409611	-	200	212212080	ruvA	CbuG_0444	-	COG0632L	Holliday junction DNA helicase RuvA
+409608..410126	-	172	212212081	ruvC	CbuG_0445	-	COG0817L	Holliday junction resolvase
+410242..410976	-	244	212212082	-	CbuG_0446	-	COG0217S	hypothetical protein
+410992..412824	-	610	212212083	aspS	CbuG_0447	-	COG0173J	aspartyl-tRNA synthetase
+415461..416249	-	262	212212084	-	CbuG_0449	-	-	hypothetical membrane spanning protein
+416332..416457	-	41	212212085	-	CbuG_0450	-	-	hypothetical protein
+416506..416598	-	30	212212086	-	CbuG_0451	-	-	hypothetical protein
+416767..417396	-	209	212212087	-	CbuG_0452	-	COG2928S	hypothetical membrane spanning protein
+417393..417668	-	91	212212088	-	CbuG_0453	-	COG2331S	hypothetical protein
+418055..419761	-	568	212212089	-	CbuG_0454	-	-	hypothetical membrane spanning protein
+419871..421016	-	381	212212090	-	CbuG_0455	-	COG5433L	transposase
+421310..422515	-	401	212212091	nrdB	CbuG_0456	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+422565..425390	-	941	212212092	nrdA	CbuG_0457	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+425412..425513	-	33	212212093	-	CbuG_0458	-	-	hypothetical protein
+425566..425676	+	36	212212094	-	CbuG_0459	-	-	hypothetical protein
+425730..426416	+	228	212212095	nudH	CbuG_0460	-	COG0494LR	dinucleoside polyphosphate hydrolase
+426397..428697	+	766	212212096	ptsP	CbuG_0461	-	COG3605T	phosphoenolpyruvate-protein phosphotransferase
+428752..429537	+	261	212212097	lgt	CbuG_0462	-	COG0682M	prolipoprotein diacylglyceryl transferase
+429539..429913	+	124	212212098	-	CbuG_0463	-	-	hypothetical membrane spanning protein
+429910..430704	+	264	212212099	thyA	CbuG_0464	-	COG0207F	thymidylate synthase
+432926..433444	+	172	212212100	-	CbuG_0467	-	-	hypothetical protein
+433550..433693	-	47	212212101	-	CbuG_0468	-	-	hypothetical protein
+433738..434067	+	109	212212102	-	CbuG_0469	-	-	hypothetical membrane-associated protein
+434102..434200	-	32	212212103	-	CbuG_0470	-	-	hypothetical protein
+434234..434569	-	111	212212104	-	CbuG_0471	-	-	hypothetical protein
+434596..435876	-	426	212212105	-	CbuG_0472	-	COG0814E	tyrosine-specific transport protein
+435900..437270	-	456	212212106	cptA	CbuG_0473	-	COG0793M	carboxy-terminal processing protease precursor
+437267..438508	-	413	212212107	-	CbuG_0474	-	COG4942D	non-proteolytic protein, peptidase family M23
+438512..440071	-	519	212212108	gpmI	CbuG_0475	-	COG0696G	phosphoglyceromutase
+442221..443552	-	443	212212109	-	CbuG_0477	-	-	hypothetical membrane spanning protein
+443570..443731	+	53	212212110	-	CbuG_0478	-	-	hypothetical protein
+443733..444827	+	364	212212111	-	CbuG_0479	-	COG3547L	transposase
+444824..445096	-	90	212212112	-	CbuG_0480	-	-	hypothetical protein
+445282..447204	+	640	212212113	-	CbuG_0481	-	-	hypothetical membrane spanning protein
+447271..449181	+	636	212212114	-	CbuG_0482	-	COG1506E	prolyl oligopeptidase family protein
+449353..450735	-	460	212212115	-	CbuG_0483	-	-	hypothetical protein
+450807..450902	+	31	212212116	-	CbuG_0484	-	-	hypothetical protein
+453467..454108	-	213	212212117	-	CbuG_0486	-	-	hypothetical protein
+454221..454448	-	75	212212118	-	CbuG_0487	-	-	hypothetical protein
+454827..455261	+	144	212212119	-	CbuG_0488	-	COG0607P	rhodanese-related sulfurtransferase
+455266..455523	+	85	212212120	grxC	CbuG_0489	-	COG0695O	glutaredoxin
+455536..456021	+	161	212212121	secB	CbuG_0490	-	COG1952U	preprotein translocase subunit SecB
+456090..457088	+	332	212212122	gpsA	CbuG_0491	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+457116..457574	-	152	212212123	-	CbuG_0492	-	COG0219J	23S rRNA methyltransferase
+458279..458497	-	72	212212124	-	CbuG_0494	-	COG5421L	hypothetical protein
+458501..459070	-	189	212212125	-	CbuG_0495	-	COG1028IQR	short chain dehydrogenase
+459312..460088	+	258	212212126	-	CbuG_0496	-	COG4221R	short chain dehydrogenase
+460092..460805	+	237	212212127	-	CbuG_0497	-	COG1054R	rhodanese-related sulfurtransferase
+460802..461587	-	261	212212128	-	CbuG_0498	-	COG0428P	ZIP family zinc transporter
+461736..462686	+	316	212212129	accA	CbuG_0499	-	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+462662..464011	+	449	212212130	tilS	CbuG_0500	-	COG0037D	tRNA(Ile)-lysidine synthetase
+464089..465720	+	543	212212131	-	CbuG_0501	-	COG1373R	hypothetical ATPase
+465743..467971	+	742	212212132	-	CbuG_0502	-	COG2217P	copper-exporting ATPase
+467988..468425	+	145	212212133	-	CbuG_0503	-	COG0824R	thioesterase
+468561..470405	+	614	212212134	lepA	CbuG_0504	-	COG0481M	GTP-binding protein LepA
+470402..471172	+	256	212212135	lepB2	CbuG_0505	-	COG0681U	signal peptidase I
+471193..471894	+	233	212212136	rnc	CbuG_0506	-	COG0571K	ribonuclease III
+471891..472778	+	295	212212137	era	CbuG_0507	-	COG1159R	GTP-binding protein Era
+472775..473470	+	231	212212138	recO	CbuG_0508	-	COG1381L	DNA repair protein
+474884..475015	+	43	212212139	-	CbuG_0510	-	-	hypothetical protein
+477427..478182	+	251	212212140	pdxJ	CbuG_0512	-	COG0854H	pyridoxine 5'-phosphate synthase
+478358..479641	-	427	212212141	-	CbuG_0513	-	-	hypothetical protein
+480199..481344	-	381	212212142	-	CbuG_0514	-	COG5433L	transposase
+481703..482041	+	112	212212143	-	CbuG_0515	-	COG3549R	AAA family ATPase
+482047..482358	+	103	212212144	-	CbuG_0516	-	COG3093R	virulence-associated protein I
+482428..483159	-	243	212212145	lpxH	CbuG_0517	-	COG2908S	UDP-2,3-diacylglucosamine hydrolase
+483316..484713	+	465	212212146	gltX1	CbuG_0518	-	COG0008J	glutamyl-tRNA synthetase
+484704..486086	+	460	212212147	cysS	CbuG_0519	-	COG0215J	cysteinyl-tRNA synthetase
+486277..486381	+	34	212212148	-	CbuG_0520	-	-	hypothetical protein
+486406..487083	+	225	212212149	-	CbuG_0521	-	-	cyclin protein
+487080..488366	-	428	212212150	-	CbuG_0522	-	COG2271G	transporter, MFS superfamily
+488456..489832	+	458	212212151	-	CbuG_0523	-	COG1030O	non-proteolytic membrane spanning protein, peptidase family S49
+489832..490581	+	249	212212152	-	CbuG_0524	-	COG0330O	membrane protease family, stomatin/prohibitin-like protein
+490788..491141	+	117	212212153	-	CbuG_0525	-	COG4967NU	hypothetical protein
+491138..491791	+	217	212212154	-	CbuG_0526	-	COG4966NU	hypothetical protein
+491815..492207	+	130	212212155	-	CbuG_0527	-	-	hypothetical protein
+492236..492769	-	177	212212156	ahpD	CbuG_0528	-	COG2128S	peroxiredoxin reductase AhpD (NAD(P)H)
+492868..493140	+	90	212212157	-	CbuG_0529	-	-	hypothetical protein
+493137..494231	-	364	212212158	-	CbuG_0530	-	COG3547L	transposase
+494254..494793	-	179	212212159	ahpC	CbuG_0531	-	COG0450O	peroxiredoxin
+494921..495856	+	311	212212160	oxyR	CbuG_0532	-	COG0583K	hydrogen peroxide-inducible genes activator
+496020..497453	-	477	212212161	gatB	CbuG_0533	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+497458..498909	-	483	212212162	gatA	CbuG_0534	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+498913..499212	-	99	212212163	gatC	CbuG_0535	-	COG0721J	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+499360..499560	-	66	212212164	-	CbuG_0536	-	-	hypothetical protein
+499762..500820	+	352	212212165	mreB	CbuG_0537	-	COG1077D	rod shape-determining protein MreB
+500903..501781	+	292	212212166	mreC	CbuG_0538	-	COG1792M	rod shape-determining protein MreC
+501787..502275	+	162	212212167	mreD	CbuG_0539	-	COG2891M	rod shape-determining protein
+502275..505736	+	1153	212212168	-	CbuG_0540	-	COG3164S	hypothetical protein
+505807..507240	+	477	212212169	tldD	CbuG_0541	-	COG0312R	microcin-processing peptidase 2
+507217..507558	-	113	212212170	-	CbuG_0542	-	-	hypothetical protein
+507563..508021	-	152	212212171	-	CbuG_0543	-	COG2947S	hypothetical protein
+508326..508610	+	94	212212172	hupB	CbuG_0544	-	COG0776L	DNA-binding protein HU
+508613..508810	+	65	212212173	-	CbuG_0545	-	-	hypothetical protein
+509164..509328	+	54	212212174	-	CbuG_0548	-	-	hypothetical protein
+513036..513347	-	103	212212175	-	CbuG_0551	-	-	hypothetical protein
+513445..513591	+	48	212212176	-	CbuG_0552	-	-	hypothetical protein
+513714..514874	-	386	212212177	-	CbuG_0553	-	COG1373R	hypothetical ATPase
+515059..517071	+	670	212212178	-	CbuG_0554	-	COG0790R	tetratricopeptide repeat family protein
+522002..523570	+	522	212212179	-	CbuG_0556	-	-	peptidyl-prolyl cis-trans isomerase
+524375..525190	+	271	212212180	tpiA	CbuG_0557	-	COG0149G	triosephosphate isomerase
+525172..525468	+	98	212212181	secG	CbuG_0558	-	-	protein translocase subunit
+525759..526121	+	120	212212182	nuoA	CbuG_0560	-	COG0838C	NADH-quinone oxidoreductase chain A
+526126..526611	+	161	212212183	nuoB	CbuG_0561	-	COG0377C	NADH dehydrogenase subunit B
+526621..527304	+	227	212212184	nuoC	CbuG_0562	-	COG0852C	NADH-quinone oxidoreductase chain C
+527297..528550	+	417	212212185	nuoD	CbuG_0563	-	COG0649C	NADH dehydrogenase subunit D
+528550..529074	+	174	212212186	nuoE	CbuG_0564	-	COG1905C	NADH-quinone oxidoreductase chain E
+529064..530332	+	422	212212187	nuoF	CbuG_0565	-	COG1894C	NADH-quinone oxidoreductase chain F
+530443..532806	+	787	212212188	nuoG	CbuG_0566	-	COG1034C	NADH dehydrogenase subunit G
+532806..533828	+	340	212212189	nuoH	CbuG_0567	-	COG1005C	NADH-quinone oxidoreductase chain H
+533810..534316	+	168	212212190	nuoI	CbuG_0568	-	COG1143C	NADH dehydrogenase subunit I
+534330..534935	+	201	212212191	nuoJ	CbuG_0569	-	COG0839C	NADH-quinone oxidoreductase chain J
+534932..535237	+	101	212212192	nuoK	CbuG_0570	-	COG0713C	NADH-quinone oxidoreductase chain K
+535294..537255	+	653	212212193	nuoL	CbuG_0571	-	COG1009CP	NADH-quinone oxidoreductase chain L
+537260..538780	+	506	212212194	nuoM	CbuG_0572	-	COG1008C	NADH-quinone oxidoreductase chain M
+538790..540238	+	482	212212195	nuoN	CbuG_0573	-	COG1007C	NADH dehydrogenase subunit N
+540611..541072	+	153	212212196	-	CbuG_0575	-	COG0779S	hypothetical protein
+541076..542587	+	503	212212197	nusA	CbuG_0576	-	COG0195K	transcription elongation factor NusA
+542593..545004	+	803	212212198	infB	CbuG_0577	-	COG0532J	translation initiation factor IF-2
+545092..545451	+	119	212212199	rbfA	CbuG_0578	-	COG0858J	ribosome-binding factor A
+545429..546358	+	309	212212200	truB	CbuG_0579	-	COG0130J	tRNA pseudouridine synthase B
+546528..546740	-	70	212212201	-	CbuG_0580	-	-	hypothetical protein
+546834..547169	+	111	212212202	-	CbuG_0581	-	-	hypothetical protein
+547166..548260	-	364	212212203	-	CbuG_0582	-	COG3547L	transposase
+548536..549081	-	181	212212204	-	CbuG_0583	-	-	hypothetical membrane spanning protein
+549198..549470	+	90	212212205	-	CbuG_0584	-	-	hypothetical protein
+549467..549790	-	107	212212206	-	CbuG_0585	-	COG3547L	transposase
+550307..550582	+	91	212212207	-	CbuG_0586	-	-	hypothetical protein
+550690..552219	+	509	212212208	-	CbuG_0587	-	-	hypothetical protein
+552300..552497	-	65	212212209	-	CbuG_0588	-	-	hypothetical protein
+552563..554116	+	517	212212210	-	CbuG_0589	-	-	hypothetical protein
+556532..556645	-	37	212212212	-	CbuG_0592	-	-	hypothetical protein
+556630..557082	+	150	212212211	-	CbuG_0591	-	COG4520M	17 kDa common-antigen
+557115..558104	+	329	212212213	hemB	CbuG_0593	-	COG0113H	delta-aminolevulinic acid dehydratase
+558254..558397	-	47	212212214	-	CbuG_0594	-	-	hypothetical protein
+558477..559832	+	451	212212215	radA	CbuG_0595	-	COG1066O	DNA repair protein RadA
+559924..560655	-	243	212212216	-	CbuG_0596	-	-	hypothetical protein
+561122..562381	+	419	212212217	glyA	CbuG_0597	-	COG0112E	serine hydroxymethyltransferase
+562381..562854	+	157	212212218	nrdR	CbuG_0598	-	COG1327K	transcriptional regulator NrdR
+562844..563260	+	138	212212219	nusB	CbuG_0599	-	COG0781K	transcription antitermination protein NusB
+563383..564096	-	237	212212220	-	CbuG_0600	-	COG1974KT	repressor protein C2
+564221..565183	+	320	212212221	thiL	CbuG_0601	-	COG0611H	thiamine-monophosphate kinase
+565275..566066	+	263	212212222	-	CbuG_0602	-	-	hypothetical protein
+566110..566889	+	259	212212223	-	CbuG_0603	-	-	hypothetical exported membrane spanning protein
+566911..567732	+	273	212212224	-	CbuG_0604	-	-	hypothetical protein
+567983..569275	-	430	212212225	gltA	CbuG_0605	-	COG0372C	citrate synthase
+570476..570610	-	44	212212226	-	CbuG_0607	-	-	hypothetical protein
+572137..572469	+	110	212212227	-	CbuG_0609	-	-	hypothetical protein
+572482..572979	+	165	212212228	sdhC	CbuG_0610	-	COG2009C	succinate dehydrogenase cytochrome b556 subunit
+572967..573314	+	115	212212229	sdhD	CbuG_0611	-	COG2142C	succinate dehydrogenase membrane anchor subunit
+573327..575090	+	587	212212230	sdhA	CbuG_0612	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+575097..575828	+	243	212212231	sdhB	CbuG_0613	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+575852..578656	+	934	212212232	sucA	CbuG_0614	-	COG0567C	2-oxoglutarate dehydrogenase E1 component
+578666..579883	+	405	212212233	sucB	CbuG_0615	-	COG0508C	dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex
+580065..581237	+	390	212212234	sucC	CbuG_0616	-	COG0045C	succinyl-CoA synthetase subunit beta
+581237..582121	+	294	212212235	sucD	CbuG_0617	-	COG0074C	succinyl-CoA synthetase alpha chain
+582118..582564	+	148	212212236	-	CbuG_0618	-	-	hypothetical membrane spanning protein
+582583..583110	-	175	212212237	enhA.1	CbuG_0619	-	COG1376S	enhanced entry protein
+583313..583993	+	226	212212238	-	CbuG_0620	-	-	non-ribosomal peptide synthetase module
+584047..584754	+	235	212212239	-	CbuG_0621	-	COG1020Q	non-ribosomal peptide synthetase module
+584850..587831	+	993	212212240	-	CbuG_0622	-	COG1020Q	non-ribosomal peptide synthetase module
+587828..588640	-	270	212212241	map	CbuG_0623	-	COG0024J	methionine aminopeptidase
+588695..589342	-	215	212212242	-	CbuG_0624	-	-	hypothetical cytosolic protein
+589424..590503	+	359	212212243	rpsB	CbuG_0625	-	COG0052J	30S ribosomal protein S2
+590513..591403	+	296	212212244	tsf	CbuG_0626	-	COG0264J	elongation factor Ts
+591403..592134	+	243	212212245	pyrH	CbuG_0627	-	COG0528F	uridylate kinase
+592212..592769	+	185	212212246	frr	CbuG_0628	-	COG0233J	ribosome recycling factor
+592766..593479	+	237	212212247	uppS	CbuG_0629	-	COG0020I	undecaprenyl pyrophosphate synthetase
+593469..594287	+	272	212212248	cdsA	CbuG_0630	-	COG0575I	phosphatidate cytidylyltransferase
+594465..595310	+	281	212212249	-	CbuG_0631	-	COG2259S	DoxD-like family
+596477..598336	+	619	212212250	-	CbuG_0633	-	COG0515RTKL	protein kinase family
+600283..602427	+	714	212212252	relA	CbuG_0636	-	COG0317TK	GTP pyrophosphokinase
+602460..602939	-	159	212212253	-	CbuG_0637	-	COG0590FJ	cytidine/deoxycytidylate deaminase family protein
+602936..604228	-	430	212212254	pabB	CbuG_0638	-	COG0147EH	para-aminobenzoate synthetase component I
+604369..604911	+	180	212212255	-	CbuG_0639	-	-	hypothetical membrane-associated protein
+604935..605279	+	114	212212256	-	CbuG_0640	-	-	hypothetical protein
+605276..606370	-	364	212212257	-	CbuG_0641	-	COG3547L	transposase
+606441..607121	+	226	212212258	-	CbuG_0642	-	COG1214O	non-proteolytic protein, peptidase family M22
+607314..608300	+	328	212212259	-	CbuG_0643	-	-	hypothetical membrane-associated protein
+609918..611408	+	496	212212260	-	CbuG_0645	-	-	hypothetical membrane-associated protein
+611590..611922	+	110	212212261	-	CbuG_0646	-	-	hypothetical protein
+613516..614892	-	458	212212262	-	CbuG_0648	-	COG2925L	exodeoxyribonuclease I
+614885..616021	-	378	212212263	-	CbuG_0649	-	COG0053P	cobalt-zinc-cadmium resistance protein
+616230..616691	+	153	212212264	-	CbuG_0650	-	COG1959K	Rrf2 family protein
+616672..618126	+	484	212212265	sufB	CbuG_0651	-	COG0719O	cysteine desulfurase activator complex subunit SufB
+618150..618884	+	244	212212266	sufC	CbuG_0652	-	COG0396O	ATP-dependent transporter
+618881..620161	+	426	212212267	sufD	CbuG_0653	-	COG0719O	SufD
+620154..621371	+	405	212212268	csdB	CbuG_0654	-	COG0520E	cysteine desulfurase
+621364..621840	+	158	212212269	iscU	CbuG_0655	-	COG0822C	IscU
+621837..622190	+	117	212212270	-	CbuG_0656	-	COG0316S	HesB protein family
+622192..622734	+	180	212212271	-	CbuG_0657	-	COG2151R	hypothetical cytosolic protein
+622756..623394	+	212	212212272	rrmJ	CbuG_0658	-	COG0293J	23S rRNA Um2552 2'-O-methyltransferase
+623414..625366	+	650	212212273	ftsH	CbuG_0659	-	COG0465O	cell division protein
+625409..626302	+	297	212212274	folP	CbuG_0660	-	COG0294H	dihydropteroate synthase
+626391..627731	+	446	212212275	glmM	CbuG_0661	-	COG1109G	phosphoglucosamine mutase
+627844..629637	-	597	212212276	-	CbuG_0662	-	-	hypothetical cytosolic protein
+631102..632484	-	460	212212277	treA	CbuG_0663	-	COG1626G	trehalase
+635691..637160	+	489	212212278	guaB	CbuG_0666	-	COG0516F	inosine-5'-monophosphate dehydrogenase
+637197..638771	+	524	212212279	guaA	CbuG_0667	-	COG0519F	GMP synthase
+638758..639054	+	98	212212280	-	CbuG_0668	-	-	hypothetical protein
+639066..639674	+	202	212212281	rnhB	CbuG_0669	-	COG0164L	ribonuclease HII
+639821..640942	+	373	212212282	ddl	CbuG_0670	-	COG1181M	D-alanyl-alanine synthetase A
+640944..644375	+	1143	212212283	dnaE	CbuG_0671	-	COG0587L	DNA polymerase III alpha subunit
+644484..645401	+	305	212212284	-	CbuG_0672	-	COG5006R	transporter, drug/metabolite exporter family
+647030..648163	+	377	212212285	-	CbuG_0674	-	COG1289S	hypothetical membrane spanning protein
+648118..648909	-	263	212212286	-	CbuG_0675	-	COG0730R	hypothetical membrane spanning protein
+649063..649440	-	125	212212288	-	CbuG_0677	-	COG0517R	CBS domain containing protein
+649678..650988	+	436	212212289	-	CbuG_0678	-	COG1231E	polyamine oxidase
+651012..652064	+	350	212212290	-	CbuG_0679	-	COG1533L	radical SAM superfamily protein
+652089..652361	-	90	212212291	-	CbuG_0680	-	-	hypothetical cytosolic protein
+652452..654434	+	660	212212292	thrS	CbuG_0681	-	COG0441J	threonyl-tRNA synthetase
+654517..655026	+	169	212212293	infC	CbuG_0682	-	COG0290J	translation initiation factor IF-3
+655007..655201	+	64	212212294	rpmI	CbuG_0683	-	COG0291J	50S ribosomal protein L35
+655282..655383	-	33	212212295	-	CbuG_0684	-	-	hypothetical cytosolic protein
+655841..656200	+	119	212212296	rplT	CbuG_0685	-	COG0292J	50S ribosomal protein L20
+656277..657263	+	328	212212297	pheS	CbuG_0686	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+657263..659641	+	792	212212298	pheT	CbuG_0687	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+659646..659957	+	103	212212299	ihfA	CbuG_0688	-	COG0776L	integration host factor subunit alpha
+659971..660306	+	111	212212300	-	CbuG_0689	-	COG0789K	transcriptional regulator, MerR family
+660498..661211	+	237	212212301	-	CbuG_0691	-	-	hypothetical cytosolic protein
+661482..661610	+	42	212212302	-	CbuG_0692	-	-	hypothetical protein
+661634..661744	-	36	212212303	-	CbuG_0693	-	-	hypothetical protein
+661765..662079	+	104	212212304	-	CbuG_0694	-	-	hypothetical cytosolic protein
+662225..662344	+	39	212212305	-	CbuG_0695	-	COG0365I	acetyl-coenzyme A synthetase
+662683..663399	+	238	212212306	-	CbuG_0696	-	-	hypothetical cytosolic protein
+663531..663656	+	41	212212307	-	CbuG_0697	-	-	hypothetical protein
+663856..666504	+	882	212212308	-	CbuG_0698	-	-	hypothetical cytosolic protein
+666531..666635	+	34	212212309	-	CbuG_0699	-	-	hypothetical protein
+666889..667437	+	182	212212310	-	CbuG_0700	-	COG3320Q	polyketide synthase
+668279..668725	-	148	212212311	-	CbuG_0701	-	COG4341R	phosphohydrolase family protein
+669304..669720	+	138	212212312	-	CbuG_0702	-	-	hypothetical membrane-associated protein
+669721..670575	-	284	212212313	msrA	CbuG_0703	-	COG0225O	bifunctional methionine sulfoxide reductase B/A protein
+670568..671047	-	159	212212314	smpB	CbuG_0704	-	COG0691O	SsrA-binding protein
+671074..671514	+	146	212212315	-	CbuG_0705	-	COG2867I	oligoketide cyclase/lipid transport protein
+671511..671816	+	101	212212316	-	CbuG_0706	-	COG2914S	hypothetical cytosolic protein
+671797..672141	-	114	212212317	-	CbuG_0707	-	COG2913J	OmlA
+672268..672735	+	155	212212318	fur	CbuG_0708	-	COG0735P	ferric uptake regulation protein
+672746..673093	+	115	212212319	-	CbuG_0709	-	-	hypothetical protein
+675229..676899	-	556	212212320	recN	CbuG_0711	-	COG0497L	DNA repair protein
+676904..677803	-	299	212212321	ppnK	CbuG_0712	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+677864..678142	+	92	212212322	-	CbuG_0713	-	-	hypothetical membrane-associated protein
+678132..678509	+	125	212212323	-	CbuG_0714	-	COG1487R	PIN domain protein
+678564..679196	+	210	212212324	grpE	CbuG_0715	-	COG0576O	heat shock protein GrpE
+679326..680723	-	465	212212325	-	CbuG_0716	-	COG0666R	ankyrin repeat protein
+680726..681319	-	197	212212326	-	CbuG_0717	-	COG0511I	hypothetical protein
+681485..683455	+	656	212212327	dnaK	CbuG_0718	-	COG0443O	molecular chaperone DnaK
+683597..684721	+	374	212212328	dnaJ	CbuG_0719	-	COG0484O	chaperone protein DnaJ
+688066..689424	-	452	212212329	-	CbuG_0722	-	COG2814G	multidrug resistance protein B
+689421..690731	-	436	212212330	-	CbuG_0723	-	COG1373R	hypothetical ATPase
+692507..693715	+	402	212212331	carA	CbuG_0725	-	COG0505EF	carbamoyl phosphate synthase small subunit
+693797..697018	+	1073	212212332	carB	CbuG_0726	-	COG0458EF	carbamoyl-phosphate synthase large chain
+697068..697301	-	77	212212333	-	CbuG_0727	-	-	hypothetical protein
+697523..698044	+	173	212212334	greA	CbuG_0728	-	COG0782K	transcription elongation factor
+698210..698332	-	40	212212335	-	CbuG_0729	-	-	hypothetical cytosolic protein
+698378..698980	-	200	212212336	exoD	CbuG_0730	-	COG3932R	exopolysaccharide synthesis protein
+698968..699525	-	185	212212337	-	CbuG_0731	-	COG1225O	thiol-disulfide isomerase and thioredoxin
+699536..700243	-	235	212212338	eda	CbuG_0732	-	COG0800G	2-dehydro-3-deoxyphosphogluconate aldolase
+700306..701112	+	268	212212339	-	CbuG_0733	-	COG1028IQR	short chain dehydrogenase
+701143..702351	+	402	212212340	rspA	CbuG_0734	-	COG4948MR	starvation sensing protein
+702345..702827	+	160	212212341	-	CbuG_0735	-	COG5513S	hypothetical protein
+702829..704091	-	420	212212342	-	CbuG_0736	-	COG0205G	6-phosphofructokinase
+704469..704510	-	13	212212343	-	CbuG_0737	-	-	hypothetical protein
+705015..707966	+	983	212212344	-	CbuG_0738	-	COG4403V	lanthionine synthetase (lantibiotic biosynthesis)
+707980..709074	+	364	212212345	-	CbuG_0739	-	COG3547L	transposase
+709071..709409	-	112	212212346	-	CbuG_0740	-	-	hypothetical protein
+709489..709980	+	163	212212347	-	CbuG_0741	-	COG1607I	acyl-CoA hydrolase
+709987..711060	+	357	212212348	-	CbuG_0742	-	-	hypothetical protein
+711116..711208	-	30	212212349	scvA	CbuG_0743	-	-	ScvA
+711252..713300	-	682	212212350	-	CbuG_0744	-	COG0586S	phosphatase
+713411..714358	-	315	212212351	lipA	CbuG_0745	-	COG0320H	lipoyl synthase
+714288..715016	-	242	212212352	lipB	CbuG_0746	-	COG0321H	lipoate-protein ligase B
+715013..715267	-	84	212212353	-	CbuG_0747	-	-	hypothetical membrane-associated protein
+715189..715602	-	137	212212354	-	CbuG_0748	-	-	hypothetical protein
+715622..716008	-	128	212212355	-	CbuG_0749	-	-	hypothetical membrane-associated protein
+716032..716295	-	87	212212356	-	CbuG_0750	-	COG2921S	hypothetical protein
+716292..717548	-	418	212212357	-	CbuG_0751	-	COG1686M	D-alanyl-D-alanine serine-type carboxypeptidase
+717646..718392	-	248	212212358	-	CbuG_0752	-	-	OmpA-like transmembrane domain protein
+718844..720442	-	532	212212359	-	CbuG_0753	-	COG0025P	Na+/H+ antiporter
+720578..721012	+	144	212212360	ndk	CbuG_0754	-	COG0105F	nucleoside diphosphate kinase
+720998..721402	-	134	212212361	-	CbuG_0755	-	-	hypothetical protein
+721395..721511	-	38	212212362	-	CbuG_0756	-	-	hypothetical protein
+721543..722346	+	267	212212363	-	CbuG_0757	-	COG0142H	dimethylallyltransferase
+725106..726218	+	370	212212364	-	CbuG_0759	-	COG0820R	radical SAM family enzyme
+726326..727084	-	252	212212366	-	CbuG_0761	-	COG3177S	Fic family protein
+727067..727207	+	46	212212365	-	CbuG_0760	-	-	hypothetical protein
+727344..727964	+	206	212212367	-	CbuG_0762	-	COG1426S	integral membrane protein
+727961..729226	+	421	212212368	hisS	CbuG_0763	-	COG0124J	histidyl-tRNA synthetase
+729249..729869	+	206	212212369	-	CbuG_0764	-	COG2976S	hypothetical protein
+730107..731438	+	443	212212370	engA	CbuG_0765	-	COG1160R	GTP-binding protein EngA
+731578..733113	-	511	212212371	-	CbuG_0766	-	COG2814G	multidrug resistance protein B
+733110..734354	-	414	212212372	xseA	CbuG_0767	-	COG1570L	exodeoxyribonuclease VII large subunit
+734488..735714	+	408	212212373	-	CbuG_0768	-	COG2067I	long-chain fatty acid transport protein precursor
+735909..736895	+	328	212212374	mdh	CbuG_0769	-	COG0039C	malate dehydrogenase
+736904..737923	+	339	212212375	gcp	CbuG_0770	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+737999..738580	-	193	212212376	-	CbuG_0771	-	COG0344S	hypothetical membrane spanning protein
+738725..738979	+	84	212212377	-	CbuG_0772	-	-	transcriptional regulator, CopG family
+738982..739374	+	130	212212378	-	CbuG_0773	-	COG1487R	PIN domain protein
+739555..739647	-	30	212212379	-	CbuG_0774	-	-	hypothetical protein
+739824..740375	-	183	212212380	orn	CbuG_0775	-	COG1949A	oligoribonuclease
+740534..741820	-	428	212212381	-	CbuG_0776	-	COG1373R	hypothetical ATPase
+741883..742785	-	300	212212382	-	CbuG_0777	-	-	5'-nucleotidase
+742782..742907	-	41	212212383	-	CbuG_0778	-	-	hypothetical protein
+743222..743803	+	193	212212384	-	CbuG_0779	-	-	hypothetical membrane-associated protein
+743949..747281	-	1110	212212385	addA	CbuG_0780	-	COG1074L	ATP-dependent nuclease subunit A
+747278..749866	-	862	212212386	addB	CbuG_0781	-	COG3857L	ATP-dependent nuclease subunit B
+750096..751532	-	478	212212387	qseC	CbuG_0782	-	COG0642T	sensor protein
+751529..752227	-	232	212212388	qseB	CbuG_0783	-	COG0745TK	QseB
+752415..757295	+	1626	212212389	-	CbuG_0784	-	COG2902E	NAD-specific glutamate dehydrogenase
+757292..758200	+	302	212212390	-	CbuG_0785	-	COG0596R	haloalkane dehalogenase
+758612..759892	-	426	212212391	-	CbuG_0786	-	COG1322S	RmuC family protein
+759932..760861	+	309	212212392	kdgK	CbuG_0787	-	COG0524G	2-dehydro-3-deoxygluconokinase
+761074..761967	+	297	212212393	dapA	CbuG_0788	-	COG0329EM	dihydrodipicolinate synthase
+761984..762577	+	197	212212394	-	CbuG_0789	-	COG3317M	hypothetical membrane spanning protein
+762577..763299	+	240	212212395	purC	CbuG_0790	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+763300..764418	+	372	212212396	-	CbuG_0791	-	-	hypothetical cytosolic protein
+764525..764797	+	90	212212397	-	CbuG_0792	-	-	hypothetical protein
+764794..765888	-	364	212212398	-	CbuG_0793	-	COG3547L	transposase
+767903..768037	+	44	212212399	-	CbuG_0796	-	-	hypothetical protein
+769864..772044	-	726	212212400	-	CbuG_0798	-	COG0666R	ankyrin repeat protein
+772152..772277	+	41	212212401	-	CbuG_0799	-	-	hypothetical protein
+772376..774688	+	770	212212402	-	CbuG_0800	-	-	hypothetical cytosolic protein
+776601..777839	-	412	212212403	-	CbuG_0802	-	COG2814G	multidrug transporter
+778064..778216	+	50	212212404	-	CbuG_0803	-	-	hypothetical protein
+778234..779613	+	459	212212405	-	CbuG_0804	-	COG2020O	delta(24(24(1)))-sterol reductase
+779714..781090	-	458	212212406	-	CbuG_0805	-	COG1012C	succinate-semialdehyde dehydrogenase (NADP+)
+781094..782746	-	550	212212407	-	CbuG_0806	-	COG0069E	ferredoxin-dependent glutamate synthase
+782810..783661	-	283	212212408	-	CbuG_0807	-	-	hypothetical membrane spanning protein
+783779..784810	+	343	212212409	queA	CbuG_0808	-	COG0809J	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+784854..786140	+	428	212212410	icd	CbuG_0809	-	COG0538C	isocitrate dehydrogenase (NADP)
+786177..786275	-	32	212212411	-	CbuG_0810	-	-	hypothetical protein
+786309..786845	-	178	212212412	-	CbuG_0811	-	-	hypothetical cytosolic protein
+786935..787135	-	66	212212413	-	CbuG_0812	-	-	hypothetical membrane-associated protein
+787168..789429	+	753	212212414	clpA	CbuG_0813	-	COG0542O	ATP-dependent clp protease ATP-binding subunit
+789492..789743	-	83	212212415	infA	CbuG_0814	-	COG0361J	translation initiation factor IF-1
+789791..791239	-	482	212212416	-	CbuG_0815	-	-	hypothetical membrane spanning protein
+791265..792227	-	320	212212417	trxB	CbuG_0816	-	COG0492O	thioredoxin reductase
+792351..794687	+	778	212212418	ftsK	CbuG_0817	-	COG1674D	cell division protein
+794699..795334	+	211	212212419	-	CbuG_0818	-	COG2834M	outer-membrane lipoproteins carrier protein
+795357..796640	+	427	212212420	-	CbuG_0819	-	COG2256L	recombination factor protein RarA
+796716..797987	+	423	212212421	serS	CbuG_0820	-	COG0172J	seryl-tRNA synthetase
+797984..798631	-	215	212212422	-	CbuG_0821	-	-	hypothetical protein
+798884..799024	-	46	212212423	-	CbuG_0822	-	-	hypothetical protein
+799031..799303	+	90	212212424	-	CbuG_0823	-	-	hypothetical protein
+799300..800394	-	364	212212425	-	CbuG_0824	-	COG3547L	transposase
+800898..802727	+	609	212212426	uvrC	CbuG_0826	-	COG0322L	excinuclease ABC subunit C
+802830..803558	+	242	212212427	-	CbuG_0827	-	COG0204I	acyltransferase family protein
+803629..803994	-	121	212212428	-	CbuG_0828	-	COG0724R	glycine-rich RNA-binding protein
+804196..805338	+	380	212212429	iscS.1	CbuG_0829	-	COG1104E	cysteine desulfhydrase
+805339..806517	+	392	212212430	thiI	CbuG_0830	-	COG0301H	thiamine biosynthesis protein ThiI
+806556..806687	+	43	212212431	-	CbuG_0831	-	-	hypothetical protein
+806707..807903	-	398	212212432	-	CbuG_0832	-	COG2814G	multidrug resistance transporter, Bcr family
+807946..809079	-	377	212212433	-	CbuG_0833	-	-	hypothetical protein
+809467..809649	+	60	212212434	-	CbuG_0834	-	-	hypothetical cytosolic protein
+809677..811095	-	472	212212435	phrB	CbuG_0835	-	COG0415L	deoxyribodipyrimidine photolyase
+811343..812656	+	437	212212436	-	CbuG_0836	-	-	hypothetical membrane spanning protein
+813206..813523	-	105	212212437	-	CbuG_0838	-	-	hypothetical protein
+813751..815187	+	478	212212438	-	CbuG_0839	-	COG1690S	RtcB
+815209..815661	+	150	212212439	-	CbuG_0840	-	COG0432S	hypothetical cytosolic protein
+815735..815941	-	68	212212440	-	CbuG_0841	-	COG2155S	hypothetical membrane-associated protein
+816089..816544	-	151	212212441	-	CbuG_0842	-	COG0071O	small heat shock protein
+820268..820360	+	30	212212442	-	CbuG_0846	-	-	hypothetical protein
+820415..821746	+	443	212212443	-	CbuG_0847	-	COG2271G	transporter, MFS superfamily
+821795..821938	-	47	212212444	-	CbuG_0848	-	-	hypothetical cytosolic protein
+822245..823420	-	391	212212445	-	CbuG_0849	-	-	tetratricopeptide repeat family protein
+823710..823847	-	45	212212446	-	CbuG_0850	-	-	hypothetical cytosolic protein
+825351..826052	+	233	212212447	-	CbuG_0852	-	COG3034S	hypothetical protein
+828668..829441	-	257	212212448	trpC	CbuG_0854	-	COG0134E	indole-3-glycerol phosphate synthase
+832563..833342	+	259	212212449	-	CbuG_0858	-	COG0546R	phosphatase
+833361..834047	-	228	212212450	-	CbuG_0859	-	-	hypothetical protein
+834191..837664	-	1157	212212451	mfd	CbuG_0860	-	COG1197LK	transcription-repair coupling factor
+837676..838791	-	371	212212452	mnmA	CbuG_0861	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+839195..839335	-	46	212212453	-	CbuG_0862	-	-	hypothetical protein
+842320..842427	-	35	212212454	-	CbuG_0864	-	-	hypothetical protein
+842463..842816	+	117	212212455	-	CbuG_0865	-	-	hypothetical membrane-associated protein
+842843..843193	+	116	212212456	yajC	CbuG_0866	-	COG1862U	protein translocase subunit
+843209..845077	+	622	212212457	secD	CbuG_0867	-	COG0342U	protein translocase subunit
+845077..845991	+	304	212212458	secF	CbuG_0868	-	COG0341U	preprotein translocase subunit SecF
+847352..847492	+	46	212212459	-	CbuG_0870	-	-	hypothetical membrane-associated protein
+847564..847716	+	50	212212460	-	CbuG_0871	-	-	hypothetical protein
+848003..848749	+	248	212212461	enhA.2	CbuG_0872	-	COG1376S	enhanced entry protein
+848752..849306	+	184	212212462	enhB.1	CbuG_0873	-	-	enhanced entry protein
+849303..852437	+	1044	212212463	enhC	CbuG_0874	-	COG0790R	enhanced entry protein, tetratricopeptide repeat family
+852600..852938	-	112	212212464	-	CbuG_0875	-	-	hypothetical protein
+853086..853541	+	151	212212465	-	CbuG_0876	-	-	hypothetical membrane-associated protein
+853618..854418	-	266	212212466	suhB	CbuG_0877	-	COG0483G	myo-inositol-1(or 4)-monophosphatase
+854415..854513	-	32	212212467	-	CbuG_0878	-	-	hypothetical protein
+854608..855330	+	240	212212468	-	CbuG_0879	-	COG0565J	rRNA methylase, SpoU family
+855321..857390	+	689	212212469	-	CbuG_0880	-	COG1297S	oligopeptide transporter
+857387..858577	+	396	212212470	iscS.2	CbuG_0881	-	COG1104E	cysteine desulfurase
+858584..858943	+	119	212212471	-	CbuG_0882	-	COG0822C	IscU
+858943..859458	+	171	212212472	-	CbuG_0883	-	COG3448T	hypothetical membrane spanning protein
+861053..861373	-	106	212212473	-	CbuG_0885	-	-	hypothetical protein
+861376..862401	-	341	212212474	cbpA	CbuG_0886	-	COG0484O	curved DNA-binding protein
+862546..863307	-	253	212212475	enhA.3	CbuG_0887	-	COG1376S	enhanced entry protein
+863335..863517	+	60	212212476	-	CbuG_0888	-	-	hypothetical protein
+863512..865137	-	541	212212477	-	CbuG_0889	-	COG0644C	electron transfer flavoprotein-ubiquinone oxidoreductase
+865205..865981	+	258	212212478	-	CbuG_0890	-	COG0412Q	carboxymethylenebutenolidase
+865978..866730	+	250	212212479	etfB	CbuG_0891	-	COG2086C	electron transfer flavoprotein beta-subunit
+866727..867671	+	314	212212480	etfA	CbuG_0892	-	COG2025C	electron transfer flavoprotein alpha-subunit
+867700..868809	+	369	212212481	ald	CbuG_0893	-	COG0686E	alanine dehydrogenase
+868810..869127	-	105	212212482	-	CbuG_0894	-	-	hypothetical protein
+869239..870459	+	406	212212483	-	CbuG_0895	-	-	hypothetical protein
+870627..870992	+	121	212212484	-	CbuG_0896	-	COG2827L	hypothetical protein with endo/excinuclease domain
+870974..872176	+	400	212212485	-	CbuG_0897	-	COG2821M	membrane-bound lytic murein transglycosylase A
+873443..874633	+	396	212212486	-	CbuG_0899	-	COG4623M	membrane-bound lytic murein transglycosylase D precursor
+875768..875911	-	47	212212487	-	CbuG_0901	-	-	hypothetical protein
+876034..876462	+	142	212212488	-	CbuG_0902	-	-	hypothetical protein
+876472..877251	+	259	212212489	lepB1	CbuG_0903	-	COG0681U	signal peptidase I
+878224..879021	-	265	212212490	aldC	CbuG_0905	-	COG3527Q	alpha-acetolactate decarboxylase
+879018..879266	-	82	212212491	-	CbuG_0906	-	-	hypothetical protein
+879330..880709	-	459	212212492	fumC	CbuG_0907	-	COG0114C	fumarate hydratase
+880713..881276	-	187	212212493	-	CbuG_0908	-	-	hypothetical protein
+881462..882604	+	380	212212494	-	CbuG_0910	-	COG0845M	acriflavin resistance periplasmic protein
+882604..885663	+	1019	212212495	-	CbuG_0911	-	COG0841V	acriflavin resistance plasma membrane protein
+885687..885917	-	76	212212496	-	CbuG_0912	-	-	hypothetical lipoprotein
+885959..888208	+	749	212212497	rnr	CbuG_0913	-	COG0557K	ribonuclease R
+888395..888493	-	32	212212498	-	CbuG_0914	-	-	hypothetical protein
+888529..889995	+	488	212212499	-	CbuG_0915	-	COG0063G	sugar kinase
+890009..890455	+	148	212212500	-	CbuG_0916	-	COG0802R	ATP/GTP hydrolase
+891616..892833	+	405	212212501	-	CbuG_0918	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+892871..894922	+	683	212212502	-	CbuG_0919	-	COG0642T	two component system histidine kinase
+894983..896710	+	575	212212503	mutL	CbuG_0920	-	COG0323L	DNA mismatch repair protein
+896743..897648	+	301	212212504	miaA	CbuG_0921	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+897830..898168	+	112	212212505	-	CbuG_0922	-	-	hypothetical protein
+898241..898723	+	160	212212506	-	CbuG_0923	-	COG1376S	ErfK/YbiS/YcfS/YnhG family protein
+898801..899397	+	198	212212507	-	CbuG_0924	-	COG3803S	hypothetical protein
+899405..899743	+	112	212212508	-	CbuG_0925	-	COG4517S	hypothetical cytosolic protein
+899747..900688	+	313	212212509	nagZ	CbuG_0926	-	COG1472G	beta-hexosaminidase
+900755..901849	+	364	212212510	-	CbuG_0927	-	COG3547L	transposase
+901846..902277	-	143	212212511	-	CbuG_0928	-	-	hypothetical protein
+902330..903481	+	383	212212512	-	CbuG_0929	-	COG0668M	mechanosensitive ion channel
+903468..904028	+	186	212212513	-	CbuG_0930	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+904050..904556	-	168	212212514	-	CbuG_0931	-	-	hypothetical protein
+904560..905717	-	385	212212516	tgt	CbuG_0933	-	COG0343J	queuine tRNA-ribosyltransferase
+905712..905903	+	63	212212515	-	CbuG_0932	-	-	hypothetical protein
+905882..906310	+	142	212212517	-	CbuG_0934	-	COG2259S	hypothetical membrane spanning protein
+910428..911198	+	256	212212518	-	CbuG_0937	-	COG0037D	C32 tRNA thiolase
+913031..913585	+	184	212212519	-	CbuG_0939	-	COG1514J	2'-5' RNA ligase
+913613..913897	+	94	212212520	-	CbuG_0940	-	-	hypothetical cytosolic protein
+914046..915305	-	419	212212521	-	CbuG_0941	-	-	hypothetical protein
+915439..916041	-	200	212212522	-	CbuG_0942	-	-	hypothetical membrane-associated protein
+916270..917097	+	275	212212523	scpA	CbuG_0943	-	COG1354S	segregation and condensation protein
+917102..917731	+	209	212212524	scpB	CbuG_0944	-	COG1386K	segregation and condensation protein
+917741..918475	+	244	212212525	-	CbuG_0945	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+919736..920479	-	247	212212526	-	CbuG_0947	-	COG0463M	cell wall biogenesis glycosyltransferase
+920476..923091	-	871	212212527	mutS	CbuG_0948	-	COG0249L	DNA mismatch repair protein MutS
+923225..923725	+	166	212212528	-	CbuG_0949	-	COG1546R	competence-damage protein
+923813..924844	+	343	212212529	recA	CbuG_0950	-	COG0468L	recombinase A
+924841..925275	+	144	212212530	recX	CbuG_0951	-	COG2137R	regulatory protein
+925268..927865	+	865	212212531	alaS	CbuG_0952	-	COG0013J	alanyl-tRNA synthetase
+927871..929100	+	409	212212532	lysC	CbuG_0953	-	COG0527E	aspartokinase
+929159..929452	+	97	212212533	csrA1	CbuG_0954	-	COG1551T	carbon storage regulator
+934316..934429	+	37	212212534	-	CbuG_0958	-	-	hypothetical protein
+934499..936247	-	582	212212535	-	CbuG_0959	-	-	hypothetical protein
+936441..936533	+	30	212212536	-	CbuG_0960	-	-	hypothetical protein
+936604..937749	-	381	212212537	-	CbuG_0961	-	COG5433L	transposase
+938287..938931	+	214	212212538	-	CbuG_0962	-	COG2197TK	response regulator
+938974..939375	-	133	212212540	-	CbuG_0964	-	-	hypothetical membrane spanning protein
+939369..939524	+	51	212212539	-	CbuG_0963	-	-	hypothetical protein
+939532..940428	+	298	212212541	cyoA	CbuG_0965	-	COG1622C	cytochrome O ubiquinol oxidase subunit II
+940448..942454	+	668	212212542	cyoB	CbuG_0966	-	COG0843C	cytochrome O ubiquinol oxidase subunit I
+942451..943047	+	198	212212543	cyoC	CbuG_0967	-	COG1845C	cytochrome O ubiquinol oxidase subunit III
+943044..943379	+	111	212212544	cyoD	CbuG_0968	-	COG3125C	cytochrome O ubiquinol oxidase protein
+948159..948581	+	140	212212545	-	CbuG_0972	-	COG1846K	transcriptional regulator, MarR family
+948632..948799	-	55	212212546	-	CbuG_0973	-	-	hypothetical protein
+948917..949531	-	204	212212547	-	CbuG_0974	-	COG1335Q	nicotinamidase
+949528..950934	-	468	212212548	-	CbuG_0975	-	COG1488H	nicotinate phosphoribosyltransferase
+950981..951616	+	211	212212549	pgsA	CbuG_0976	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+952666..953106	-	146	212212550	-	CbuG_0979	-	COG3772R	lysozyme
+955865..957256	-	463	212212551	-	CbuG_0982	-	COG0433R	ATPase
+960202..960507	-	101	212212552	-	CbuG_0984	-	-	hypothetical protein
+960513..961460	-	315	212212553	-	CbuG_0985	-	COG0604CR	quinone oxidoreductase
+962254..962553	-	99	212212554	-	CbuG_0986	-	COG1669R	nucleotidyltransferase
+963147..963311	+	54	212212555	-	CbuG_0988	-	-	hypothetical protein
+964225..964629	-	134	212212556	-	CbuG_0990	-	-	hypothetical protein
+964694..964888	-	64	212212557	-	CbuG_0991	-	-	hypothetical membrane-associated protein
+965048..965428	+	126	212212558	-	CbuG_0992	-	-	hypothetical protein
+969917..970147	-	76	212212559	-	CbuG_0997	-	COG1993S	hypothetical protein
+970452..971780	-	442	212212560	bioA	CbuG_0999	-	COG0161H	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+972155..973120	+	321	212212561	bioB	CbuG_1000	-	COG0502H	biotin synthase
+973107..974261	+	384	212212562	bioF	CbuG_1001	-	COG0156H	8-amino-7-oxononanoate synthase
+974255..974959	+	234	212212563	bioH	CbuG_1002	-	COG0596R	carboxylesterase
+974949..975695	+	248	212212564	bioC	CbuG_1003	-	COG2226H	biotin synthesis protein
+975692..976420	+	242	212212565	bioD	CbuG_1004	-	COG0132H	dethiobiotin synthetase
+976348..977319	-	323	212212566	birA	CbuG_1005	-	COG0340H	biotin operon repressor
+977442..978686	+	414	212212567	lolC	CbuG_1006	-	COG4591M	lipoprotein releasing system transmembrane protein
+978679..979380	+	233	212212568	lolD	CbuG_1007	-	COG1136V	lipoprotein releasing system ATP-binding protein
+979377..980741	+	454	212212569	hflX	CbuG_1008	-	COG2262R	GTP-binding protein
+980762..982069	+	435	212212570	purA	CbuG_1009	-	COG0104F	adenylosuccinate synthetase
+982102..982218	-	38	212212571	-	CbuG_1010	-	-	hypothetical protein
+982227..983144	-	305	212212572	cyoE	CbuG_1011	-	COG0109O	protoheme IX farnesyltransferase
+983141..983425	-	94	212212573	-	CbuG_1012	-	COG1622C	cytochrome c oxidase polypeptide II
+983564..983671	+	35	212212574	-	CbuG_1013	-	-	hypothetical protein
+983742..984254	-	170	212212575	def	CbuG_1014	-	COG0242J	peptide deformylase
+987657..988346	-	229	212212576	ung	CbuG_1017	-	COG0692L	uracil-DNA glycosylase
+988350..989147	-	265	212212577	-	CbuG_1018	-	COG0797M	rare lipoprotein A
+989181..989993	+	270	212212578	-	CbuG_1019	-	COG0566J	23S rRNA Gm2251 methyltransferase
+990050..990808	-	252	212212579	-	CbuG_1020	-	-	hypothetical cytosolic protein
+990837..991613	-	258	212212580	-	CbuG_1021	-	COG0287E	prephenate dehydrogenase
+992461..993543	-	360	212212581	-	CbuG_1023	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+993611..993739	-	42	212212582	-	CbuG_1024	-	-	hypothetical protein
+993845..994123	+	92	212212583	-	CbuG_1025	-	-	lipoprotein
+994212..994514	+	100	212212584	-	CbuG_1026	-	-	lipoprotein
+994545..995012	-	155	212212585	-	CbuG_1027	-	-	hypothetical membrane-associated protein
+995063..997048	-	661	212212586	-	CbuG_1028	-	COG4770I	methylcrotonyl-CoA carboxylase biotin-containing subunit
+997050..997820	-	256	212212587	-	CbuG_1029	-	COG1024I	methylglutaconyl-CoA hydratase
+997840..999504	-	554	212212588	-	CbuG_1030	-	COG4799I	methylcrotonyl-CoA carboxylase carboxyl transferase subunit
+999529..1000713	-	394	212212589	-	CbuG_1031	-	COG0183I	acetyl-CoA acetyltransferase
+1000713..1001876	-	387	212212590	-	CbuG_1032	-	COG1960I	isovaleryl-CoA dehydrogenase
+1001965..1002657	+	230	212212591	-	CbuG_1033	-	-	hypothetical cytosolic protein
+1002654..1003697	+	347	212212592	pyrD	CbuG_1034	-	COG0167F	dihydroorotate dehydrogenase 2
+1003694..1004749	-	351	212212593	-	CbuG_1035	-	-	hypothetical exported membrane spanning protein
+1004867..1005397	+	176	212212594	-	CbuG_1036	-	COG1502I	phospholipase D
+1005526..1005630	-	34	212212595	-	CbuG_1037	-	COG4890S	YbgT
+1005641..1006774	-	377	212212596	cybB1	CbuG_1038	-	COG1294C	cytochrome d ubiquinol oxidase subunit II
+1006771..1008336	-	521	212212597	cydA1	CbuG_1039	-	COG1271C	cytochrome d ubiquinol oxidase subunit I
+1008333..1008548	-	71	212212598	-	CbuG_1040	-	-	hypothetical protein
+1008806..1009717	-	303	212212599	-	CbuG_1041	-	-	hypothetical protein
+1009721..1010245	+	174	212212600	bcp	CbuG_1042	-	COG1225O	thioredoxin peroxidase
+1010954..1011124	-	56	212212601	-	CbuG_1044	-	-	hypothetical protein
+1011137..1011688	-	183	212212602	-	CbuG_1045	-	COG1476K	transcriptional regulator
+1011833..1013062	+	409	212212603	-	CbuG_1046	-	COG2814G	multidrug resistance transporter, Bcr family
+1017024..1018268	-	414	212212604	-	CbuG_1049	-	-	hypothetical protein
+1018464..1019126	+	220	212212605	-	CbuG_1050	-	-	hypothetical membrane-associated protein
+1019194..1019916	+	240	212212606	-	CbuG_1051	-	COG2197TK	response regulator
+1020763..1021224	+	153	212212607	-	CbuG_1053	-	-	hypothetical cytosolic protein
+1021285..1021653	+	122	212212608	-	CbuG_1054	-	-	hypothetical cytosolic protein
+1023789..1024775	+	328	212212609	-	CbuG_1057	-	COG3943R	RhuM
+1024900..1025793	+	297	212212610	-	CbuG_1058	-	-	hypothetical membrane-associated protein
+1026139..1026240	+	33	212212611	-	CbuG_1059	-	-	hypothetical protein
+1026721..1027167	-	148	212212612	-	CbuG_1061	-	COG0607P	rhodanese-related sulfurtransferase
+1027243..1027626	+	127	212212613	-	CbuG_1062	-	-	hypothetical protein
+1027628..1027900	-	90	212212614	-	CbuG_1063	-	COG2924CO	hypothetical protein
+1027897..1028961	-	354	212212615	mutY	CbuG_1064	-	COG1194L	A/G-specific adenine DNA glycosylase
+1028967..1030493	-	508	212212616	-	CbuG_1065	-	COG2982M	AsmA
+1031054..1031335	+	93	212212617	-	CbuG_1067	-	COG0220R	tRNA (m(7)G46) methyltransferase
+1031373..1032824	-	483	212212618	-	CbuG_1068	-	-	hypothetical protein
+1033145..1033717	+	190	212212619	-	CbuG_1069	-	-	OmpA-like transmembrane domain protein
+1033910..1034299	+	129	212212620	-	CbuG_1070	-	COG0724R	RNA binding protein
+1034305..1035219	+	304	212212621	-	CbuG_1071	-	COG1131V	ABC transporter ATP-binding protein
+1035220..1035993	+	257	212212622	-	CbuG_1072	-	COG1682GM	ABC transporter permease protein
+1035962..1037506	-	514	212212623	glpK	CbuG_1073	-	COG0554C	glycerol kinase
+1037573..1039075	+	500	212212624	glpD	CbuG_1074	-	COG0578C	glycerol-3-phosphate dehydrogenase
+1039059..1039739	+	226	212212625	mpg	CbuG_1075	-	COG2094L	3-methyladenine DNA glycosylase
+1039729..1040574	+	281	212212626	-	CbuG_1076	-	COG0300R	short chain dehydrogenase
+1040596..1041186	+	196	212212627	pdxH	CbuG_1077	-	COG0259H	pyridoxamine 5'-phosphate oxidase
+1042723..1043616	+	297	212212628	mmsB	CbuG_1079	-	COG2084I	3-hydroxyisobutyrate dehydrogenase
+1043717..1044718	+	333	212212629	-	CbuG_1080	-	COG2951M	membrane-bound lytic murein transglycosylase B
+1044720..1045388	+	222	212212630	mdmC	CbuG_1081	-	COG4122R	O-methyltransferase
+1045383..1046513	-	376	212212631	-	CbuG_1082	-	COG0628R	hypothetical membrane spanning protein
+1046634..1047947	+	437	212212632	-	CbuG_1083	-	COG2271G	transporter, MFS superfamily
+1047895..1048209	-	104	212212633	-	CbuG_1084	-	-	hypothetical cytosolic protein
+1048240..1049355	-	371	212212634	-	CbuG_1085	-	COG1398I	acyl-CoA desaturase
+1049542..1049937	+	131	212212635	-	CbuG_1086	-	COG3158P	kup system potassium uptake protein
+1050176..1050502	-	108	212212636	-	CbuG_1087	-	COG0664T	transcription regulator, crp family
+1050606..1051373	-	255	212212637	-	CbuG_1088	-	COG3568R	endonuclease/exonuclease/phosphatase family protein
+1051567..1052076	+	169	212212638	enhB.2	CbuG_1089	-	-	enhanced entry protein
+1052078..1053193	+	371	212212639	-	CbuG_1090	-	-	hypothetical membrane spanning protein
+1053432..1053905	+	157	212212640	-	CbuG_1091	-	COG2050Q	thioesterase
+1053907..1055349	+	480	212212641	prpD	CbuG_1092	-	COG2079R	2-methylcitrate dehydratase
+1055625..1055768	+	47	212212642	-	CbuG_1093	-	-	hypothetical protein
+1055770..1056744	-	324	212212643	-	CbuG_1094	-	COG2334R	hypothetical membrane-associated protein
+1056842..1057456	-	204	212212644	-	CbuG_1095	-	COG0009J	Sua5/YciO/YrdC/YwlC family protein
+1057509..1058054	+	181	212212645	ispZ	CbuG_1096	-	COG2917D	intracellular septation protein A
+1058653..1059951	-	432	212212646	-	CbuG_1098	-	COG2271G	transporter, MFS superfamily
+1060071..1060310	+	79	212212647	rpmE	CbuG_1099	-	COG0254J	50S ribosomal protein L31
+1060322..1061383	-	353	212212648	-	CbuG_1100	-	COG0042J	tRNA-dihydrouridine synthase A
+1063152..1063316	-	54	212212649	-	CbuG_1102	-	-	hypothetical cytosolic protein
+1063645..1063980	-	111	212212650	-	CbuG_1103	-	-	hypothetical protein
+1063997..1064329	-	110	212212651	-	CbuG_1104	-	-	thyroglobulin type-1 repeat domain protein
+1064326..1065846	-	506	212212652	purF	CbuG_1105	-	COG0034F	amidophosphoribosyltransferase
+1065855..1066409	-	184	212212653	dedE	CbuG_1106	-	COG1286R	colicin V production protein
+1066477..1067094	-	205	212212654	dedD	CbuG_1107	-	COG3147S	cell division related protein
+1067078..1068328	-	416	212212655	folC	CbuG_1108	-	COG0285H	dihydrofolate synthase
+1068461..1069336	-	291	212212656	accD	CbuG_1109	-	COG0777I	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+1069367..1070152	-	261	212212657	truA	CbuG_1110	-	COG0101J	tRNA pseudouridine synthase A
+1070157..1071098	-	313	212212658	-	CbuG_1111	-	-	hypothetical exported membrane-associated protein
+1071196..1071897	+	233	212212659	-	CbuG_1112	-	COG0491R	Zn-dependent hydrolase, glyoxalase II family
+1071936..1072535	+	199	212212660	-	CbuG_1113	-	COG1651O	thiol:disulfide interchange protein
+1072532..1072975	+	147	212212661	bdbC	CbuG_1114	-	COG1495O	disulfide bond formation protein B
+1074132..1075307	-	391	212212662	coaBC	CbuG_1116	-	COG0452H	phosphopantothenate--cysteine ligase
+1075339..1076499	-	386	212212663	-	CbuG_1117	-	-	hypothetical cytosolic protein
+1076511..1078319	-	602	212212664	bipA	CbuG_1118	-	COG1217T	GTP-binding protein
+1078588..1078722	+	44	212212665	-	CbuG_1119	-	-	hypothetical protein
+1078868..1079821	+	317	212212666	-	CbuG_1120	-	COG2801L	transposase
+1080126..1080791	+	221	212212667	-	CbuG_1121	-	-	hypothetical cytosolic protein
+1081034..1082419	-	461	212212668	-	CbuG_1122	-	-	hypothetical cytosolic protein
+1082514..1083461	-	315	212212669	-	CbuG_1123	-	-	hypothetical protein
+1083575..1083691	-	38	212212670	-	CbuG_1124	-	-	hypothetical protein
+1083877..1084983	+	368	212212671	-	CbuG_1125	-	COG0476H	molybdopterin biosynthesis protein
+1085122..1085268	-	48	212212672	-	CbuG_1126	-	-	hypothetical protein
+1085249..1086271	-	340	212212673	asd	CbuG_1127	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1086284..1087342	-	352	212212674	aroC	CbuG_1128	-	COG0082E	chorismate synthase
+1087465..1088064	+	199	212212675	-	CbuG_1129	-	COG2840S	Smr/MutS family protein
+1088054..1088701	+	215	212212676	udk	CbuG_1130	-	COG0572F	uridine kinase
+1089228..1089476	-	82	212212677	-	CbuG_1132	-	COG2938S	tetratricopeptide repeat family protein
+1089473..1090567	-	364	212212678	alr	CbuG_1133	-	COG0787M	alanine racemase, biosynthetic
+1090564..1092396	-	610	212212679	dnaB	CbuG_1134	-	COG0305L	replicative DNA helicase
+1092645..1093109	-	154	212212680	rplI	CbuG_1135	-	COG0359J	50S ribosomal protein L9
+1093121..1094020	-	299	212212681	-	CbuG_1136	-	-	hypothetical membrane spanning protein
+1094024..1094245	-	73	212212682	rpsR	CbuG_1137	-	COG0238J	30S ribosomal protein S18
+1094258..1094641	-	127	212212683	rpsF	CbuG_1138	-	COG0360J	30S ribosomal protein S6
+1094628..1094738	-	36	212212684	-	CbuG_1139	-	-	hypothetical protein
+1096677..1097105	-	142	212212685	-	CbuG_1141	-	-	hypothetical protein
+1097254..1097625	+	123	212212686	-	CbuG_1142	-	COG3737S	hypothetical membrane spanning protein
+1097632..1099260	+	542	212212687	nadE	CbuG_1143	-	COG0171H	glutamine-dependent NAD(+) synthetase
+1099257..1100234	-	325	212212688	lpxK	CbuG_1144	-	COG1663M	tetraacyldisaccharide 4'-kinase
+1100234..1102024	-	596	212212689	-	CbuG_1145	-	COG1132V	phospholipid-lipopolysaccharide ABC transporter
+1104220..1104330	-	36	212212690	-	CbuG_1147	-	-	hypothetical protein
+1104355..1104831	+	158	212212691	mgsA	CbuG_1148	-	COG1803G	methylglyoxal synthase
+1104923..1107013	-	696	212212692	pnp	CbuG_1149	-	COG1185J	polynucleotide phosphorylase/polyadenylase
+1107024..1107284	-	86	212212693	rpsO	CbuG_1150	-	COG0184J	30S ribosomal protein S15
+1107385..1108431	-	348	212212694	-	CbuG_1151	-	-	hypothetical membrane spanning protein
+1108495..1109382	-	295	212212695	galU	CbuG_1152	-	COG1210M	UTP--glucose-1-phosphate uridylyltransferase
+1109379..1111022	-	547	212212696	pgi	CbuG_1153	-	COG0166G	glucose-6 phosphate 1-epimerase
+1111032..1111796	-	254	212212697	-	CbuG_1154	-	COG1028IQR	3-hydroxyacyl CoA dehydrogenase
+1111810..1113159	-	449	212212698	ugd	CbuG_1155	-	COG1004M	UDP-glucose 6-dehydrogenase
+1113217..1114506	+	429	212212699	-	CbuG_1156	-	COG0677M	UDP-N-acetyl-D-galactosamine 6-dehydrogenase
+1114494..1115513	+	339	212212700	-	CbuG_1157	-	COG0451MG	UDP-N-acetylglucosamine 4-epimerase
+1115518..1116675	-	385	212212701	-	CbuG_1158	-	COG0438M	glycosyltransferase
+1116686..1117783	-	365	212212702	wecB	CbuG_1159	-	COG0381M	UDP-N-acetylglucosamine 2-epimerase
+1118014..1119147	-	377	212212703	-	CbuG_1160	-	COG0438M	alpha-D-QuiNAc alpha-1,3-galactosyltransferase
+1119154..1121067	-	637	212212704	asnB1	CbuG_1161	-	COG0367E	asparagine synthetase family protein
+1121067..1122359	-	430	212212705	-	CbuG_1162	-	COG0438M	glycosyltransferase
+1122495..1123595	-	366	212212706	-	CbuG_1163	-	COG0438M	lipopolysaccharide N-acetylglucosaminyltransferase
+1123882..1125366	-	494	212212707	-	CbuG_1164	-	-	hypothetical membrane spanning protein
+1125381..1126457	-	358	212212708	-	CbuG_1165	-	COG0535R	radical SAM superfamily protein
+1126461..1126730	-	89	212212709	-	CbuG_1166	-	-	hypothetical protein
+1126739..1127725	-	328	212212710	-	CbuG_1167	-	COG2226H	methyltransferase
+1127738..1129543	-	601	212212711	-	CbuG_1168	-	COG2274V	phospholipid-lipopolysaccharide ABC transporter
+1129554..1130105	-	183	212212712	-	CbuG_1169	-	COG0663R	transferase family protein
+1130106..1132004	-	632	212212713	asnB2	CbuG_1170	-	COG0367E	asparagine synthetase (glutamine-hydrolyzing)
+1132007..1133161	-	384	212212714	-	CbuG_1171	-	COG0399M	perosamine synthetase
+1133158..1134153	-	331	212212715	-	CbuG_1172	-	COG0451MG	NAD dependent epimerase/dehydratase family
+1134168..1135721	-	517	212212716	-	CbuG_1173	-	COG0673R	NAD-dependent oxidoreductase
+1135798..1136394	-	198	212212717	-	CbuG_1174	-	COG1497K	hypothetical protein
+1136429..1136932	-	167	212212718	rfaH	CbuG_1175	-	COG0250K	transcriptional activator
+1136919..1138028	-	369	212212719	-	CbuG_1176	-	COG0399M	nucleotide-sugar aminotransferase
+1138132..1139517	+	461	212212720	purB	CbuG_1177	-	COG0015F	adenylosuccinate lyase
+1139545..1141242	+	565	212212721	sfcA	CbuG_1178	-	COG0281C	malate dehydrogenase
+1141498..1141647	-	49	212212723	-	CbuG_1180	-	-	Fic family protein
+1141603..1142640	+	345	212212722	-	CbuG_1179	-	COG3177S	Fic family protein
+1144109..1144783	-	224	212212724	-	CbuG_1182	-	COG0625O	glutathione S-transferase
+1144840..1145421	-	193	212212725	-	CbuG_1183	-	COG1309K	transcriptional regulator, TetR family
+1145635..1146237	+	200	212212726	aacA4	CbuG_1184	-	-	aminoglycoside N6'-acetyltransferase
+1148287..1148421	+	44	212212727	-	CbuG_1186	-	-	hypothetical protein
+1149248..1150606	-	452	212212728	-	CbuG_1188	-	COG0534V	Na+ driven multidrug efflux pump
+1150621..1152198	-	525	212212729	prfC	CbuG_1189	-	COG4108J	peptide chain release factor 3
+1152199..1153266	-	355	212212730	-	CbuG_1190	-	COG0795R	hypothetical membrane spanning protein
+1153254..1154372	-	372	212212731	-	CbuG_1191	-	COG0795R	hypothetical membrane spanning protein
+1154509..1157271	+	920	212212732	valS	CbuG_1192	-	COG0525J	valyl-tRNA synthetase
+1157303..1158442	-	379	212212733	-	CbuG_1193	-	COG1680V	beta-lactamase family protein
+1158500..1158607	+	35	212212734	-	CbuG_1194	-	-	hypothetical protein
+1158711..1158821	+	36	212212735	-	CbuG_1195	-	-	hypothetical protein
+1158838..1161876	-	1012	212212736	-	CbuG_1196	-	COG0841V	acriflavin resistance plasma membrane protein
+1161884..1162939	-	351	212212737	-	CbuG_1197	-	COG0845M	acriflavin resistance periplasmic protein
+1163117..1163923	+	268	212212738	-	CbuG_1198	-	-	hypothetical protein
+1163944..1164318	-	124	212212739	rimI	CbuG_1199	-	COG0456R	ribosomal-protein-S18-alanine acetyltransferase
+1164378..1164791	-	137	212212740	-	CbuG_1200	-	-	hypothetical protein
+1164788..1164913	-	41	212212741	-	CbuG_1201	-	-	hypothetical protein
+1164937..1165932	+	331	212212742	-	CbuG_1202	-	COG1566V	multidrug resistance protein A
+1165933..1167513	+	526	212212743	-	CbuG_1203	-	COG2814G	multidrug resistance protein B
+1167530..1167871	+	113	212212744	-	CbuG_1204	-	COG0537FGR	adenosine 5'-monophosphoramidase
+1167871..1168437	+	188	212212745	folE	CbuG_1205	-	COG0302H	GTP cyclohydrolase I
+1168873..1170330	+	485	212212746	-	CbuG_1207	-	-	hypothetical protein
+1170377..1170991	+	204	212212747	-	CbuG_1208	-	-	hypothetical protein
+1170975..1171076	-	33	212212748	-	CbuG_1209	-	COG2169F	ADA regulatory protein
+1171095..1172252	-	385	212212749	-	CbuG_1210	-	COG2814G	multidrug resistance protein B
+1176004..1178499	-	831	212212750	-	CbuG_1212	-	COG0642T	two component system histidine kinase
+1178615..1183453	-	1612	212212751	-	CbuG_1213	-	COG3321Q	polyketide synthase
+1183443..1184987	-	514	212212752	-	CbuG_1214	-	COG1020Q	peptide synthetase
+1185023..1186192	-	389	212212753	-	CbuG_1215	-	COG1804C	CoA-transferase family III protein
+1186462..1186569	-	35	212212754	-	CbuG_1216	-	-	hypothetical protein
+1187434..1187661	+	75	212212755	-	CbuG_1218	-	-	hypothetical protein
+1187658..1189064	-	468	212212756	-	CbuG_1219	-	-	hypothetical protein
+1189264..1190280	-	338	212212757	-	CbuG_1220	-	-	ankyrin repeat protein
+1190345..1190995	-	216	212212758	-	CbuG_1221	-	COG2197TK	response regulator
+1191201..1191599	+	132	212212759	-	CbuG_1222	-	-	hypothetical protein
+1192169..1193083	-	304	212212760	-	CbuG_1224	-	-	ABC transporter permease protein
+1193080..1193931	-	283	212212761	-	CbuG_1225	-	COG1131V	ABC transporter ATP-binding protein
+1193928..1194269	-	113	212212762	-	CbuG_1226	-	COG1725K	transcriptional regulator, GntR family
+1194276..1194524	-	82	212212763	-	CbuG_1227	-	COG1983KT	stress-responsive transcriptional regulator
+1194659..1195129	-	156	212212764	-	CbuG_1228	-	COG2764S	PhnB
+1195132..1196250	-	372	212212765	prpC	CbuG_1229	-	COG0372C	2-methylcitrate synthase
+1196243..1197115	-	290	212212766	prpB	CbuG_1230	-	COG2513G	2-methylisocitrate lyase
+1198540..1199226	-	228	212212767	-	CbuG_1232	-	COG0518F	GMP synthase (glutamine-hydrolyzing)
+1199326..1200726	-	466	212212768	-	CbuG_1233	-	COG2355E	multidrug resistance protein B
+1201273..1201404	-	43	212212769	-	CbuG_1234	-	-	hypothetical protein
+1201702..1203654	+	650	212212770	-	CbuG_1236	-	COG0365I	acetoacetyl-CoA synthetase
+1203768..1204589	-	273	212212771	-	CbuG_1237	-	COG0318IQ	long-chain-fatty-acid--CoA ligase
+1205764..1206354	-	196	212212772	-	CbuG_1239	-	-	hypothetical membrane spanning protein
+1206375..1207001	-	208	212212773	-	CbuG_1240	-	-	hypothetical protein
+1206994..1207104	-	36	212212774	-	CbuG_1241	-	-	hypothetical protein
+1207320..1207694	+	124	212212775	-	CbuG_1242	-	COG0784T	sensor protein
+1208986..1209804	-	272	212212776	-	CbuG_1244	-	COG4105R	lipoprotein, ComL family
+1209864..1210847	+	327	212212777	rluD	CbuG_1245	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+1210888..1211526	+	212	212212778	-	CbuG_1246	-	COG1496S	hypothetical cytosolic protein
+1211687..1213042	+	451	212212779	htrA	CbuG_1247	-	COG0265O	endopeptidase
+1213042..1214088	+	348	212212780	-	CbuG_1248	-	COG0845M	acriflavin resistance periplasmic protein
+1214136..1217204	+	1022	212212781	-	CbuG_1249	-	COG0841V	acriflavin resistance plasma membrane protein
+1217302..1217484	-	60	212212782	-	CbuG_1250	-	-	hypothetical protein
+1217515..1218390	-	291	212212783	-	CbuG_1251	-	COG1647R	esterase family protein
+1218446..1219750	-	434	212212784	murA	CbuG_1252	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1219901..1220875	+	324	212212785	kdsD	CbuG_1253	-	COG0794M	arabinose-5-phosphate isomerase
+1220877..1221374	+	165	212212786	-	CbuG_1254	-	COG1778R	3-deoxy-manno-octulosonate-8-phosphatase
+1221390..1221977	+	195	212212787	-	CbuG_1255	-	COG3117S	hypothetical protein
+1222027..1222455	+	142	212212788	-	CbuG_1256	-	COG1934S	LPS ABC transporter periplasmic component
+1222458..1223207	+	249	212212789	-	CbuG_1257	-	COG1137R	LPS ABC transporter ATP-binding protein
+1223305..1223595	+	96	212212790	yfiA	CbuG_1258	-	COG1544J	ribosome-associated factor Y
+1223595..1224173	+	192	212212791	hprK	CbuG_1259	-	COG1493T	HPr kinase/phosphorylase
+1224154..1224423	+	89	212212792	ptsH	CbuG_1260	-	COG1925G	phosphocarrier protein
+1224395..1224565	-	56	212212793	-	CbuG_1261	-	-	hypothetical protein
+1224650..1225972	-	440	212212794	pmbA	CbuG_1262	-	COG0312R	microcin-processing peptidase 1
+1225981..1228434	-	817	212212795	lon	CbuG_1263	-	COG0466O	ATP-dependent endopeptidase
+1228448..1229716	-	422	212212796	clpX	CbuG_1264	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+1229771..1230358	-	195	212212797	clpP	CbuG_1265	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+1230368..1231696	-	442	212212798	tig	CbuG_1266	-	COG0544O	trigger factor
+1231985..1232638	+	217	212212799	-	CbuG_1268	-	-	hypothetical protein
+1232659..1233507	-	282	212212801	-	CbuG_1270	-	COG2820F	uridine phosphorylase
+1233489..1233713	+	74	212212800	-	CbuG_1269	-	-	hypothetical protein
+1233773..1234687	+	304	212212802	-	CbuG_1271	-	-	hypothetical protein
+1234790..1235260	+	156	212212803	-	CbuG_1272	-	-	hypothetical protein
+1235257..1235856	-	199	212212804	-	CbuG_1273	-	COG3218R	hypothetical protein
+1235859..1236785	-	308	212212805	-	CbuG_1274	-	COG1463Q	hypothetical protein
+1236769..1237578	-	269	212212806	-	CbuG_1275	-	COG1127Q	ABC transporter ATP-binding protein
+1237575..1238708	-	377	212212807	-	CbuG_1276	-	COG0767Q	ABC transporter permease protein
+1238842..1238964	+	40	212212808	-	CbuG_1277	-	-	hypothetical protein
+1241453..1242655	+	400	212212809	-	CbuG_1280	-	COG0019E	ornithine decarboxylase
+1242679..1243740	+	353	212212810	-	CbuG_1281	-	COG1899O	deoxyhypusine synthase-like protein
+1243740..1244621	+	293	212212811	sepB	CbuG_1282	-	COG0010E	agmatinase
+1244677..1245102	-	141	212212812	-	CbuG_1283	-	-	hypothetical protein
+1245099..1245383	-	94	212212813	-	CbuG_1284	-	-	hypothetical membrane-associated protein
+1249592..1250002	+	136	212212814	-	CbuG_1288	-	-	hypothetical protein
+1250052..1251302	+	416	212212815	-	CbuG_1289	-	COG2814G	phosphate transporter
+1251361..1251996	+	211	212212816	-	CbuG_1290	-	COG2197TK	response regulator
+1252996..1253139	+	47	212212817	-	CbuG_1291	-	-	hypothetical protein
+1254419..1254820	-	133	212212818	-	CbuG_1293	-	COG1943L	hypothetical protein
+1254866..1255156	+	96	212212819	-	CbuG_1294	-	COG0628R	permease
+1255361..1255657	+	98	212212820	-	CbuG_1295	-	-	hypothetical protein
+1257080..1257856	-	258	212212821	rfbI	CbuG_1298	-	COG1134GM	polysaccharide export ATP-binding protein
+1257866..1258729	-	287	212212822	-	CbuG_1299	-	COG1682GM	O-antigen export system permease protein
+1258739..1259488	-	249	212212823	-	CbuG_1300	-	COG0300R	3-oxoacyl-[acyl-carrier protein] reductase
+1259625..1260458	+	277	212212824	cysQ2	CbuG_1301	-	COG1218P	3'(2'),5'-bisphosphate nucleotidase
+1260440..1262197	+	585	212212825	-	CbuG_1302	-	COG2046P	bifunctional sulfate adenylyltransferase subunit 1/adenylylsulfate kinase protein
+1262233..1263792	-	519	212212826	-	CbuG_1303	-	-	sulfotransferase
+1263994..1265163	+	389	212212827	-	CbuG_1304	-	-	hypothetical protein
+1265186..1266346	+	386	212212828	-	CbuG_1305	-	COG0399M	dTDP-4-dehydro-6-deoxy-D-glucose 4-aminotransferase
+1266377..1267531	+	384	212212829	-	CbuG_1306	-	COG0399M	nucleotide-sugar aminotransferase
+1267524..1268900	+	458	212212830	-	CbuG_1307	-	-	hypothetical protein
+1268962..1270074	+	370	212212831	-	CbuG_1308	-	COG1216R	glycosyltransferase
+1270201..1271250	+	349	212212832	-	CbuG_1309	-	COG1071C	pyruvate dehydrogenase E1 component alpha subunit
+1271247..1272308	+	353	212212833	-	CbuG_1310	-	COG0022C	pyruvate dehydrogenase E1 component beta subunit
+1272329..1273567	-	412	212212834	-	CbuG_1311	-	-	methyltransferase
+1273560..1274417	-	285	212212835	-	CbuG_1312	-	COG0463M	polyprenyl-phosphate beta-D-mannosyltransferase
+1274426..1275472	-	348	212212836	gmd	CbuG_1313	-	COG1089M	GDP-mannose 4,6 dehydratase
+1275465..1276463	-	332	212212837	wcaG	CbuG_1314	-	COG0451MG	GDP-L-fucose synthase
+1276843..1278486	-	547	212212838	-	CbuG_1315	-	-	hypothetical exported membrane spanning protein
+1283216..1284634	-	472	212212839	-	CbuG_1319	-	-	sulfotransferase
+1284971..1286284	+	437	212212840	-	CbuG_1320	-	-	hypothetical protein
+1286229..1286882	-	217	212212841	-	CbuG_1321	-	COG2226H	methyltransferase
+1286885..1287790	-	301	212212842	-	CbuG_1322	-	COG0451MG	NAD dependent epimerase/dehydratase family
+1287783..1289093	-	436	212212843	-	CbuG_1323	-	COG1004M	UDP-glucose 6-dehydrogenase
+1289078..1290022	-	314	212212844	-	CbuG_1324	-	COG0673R	NADH-dependent dehydrogenase
+1290025..1291605	-	526	212212845	-	CbuG_1325	-	COG2870M	D-glycero-D-manno-heptose-1-phosphate adenylyltransferase
+1291580..1292617	-	345	212212846	-	CbuG_1326	-	COG1087M	NAD dependent epimerase/dehydratase family
+1292614..1293627	-	337	212212847	-	CbuG_1327	-	COG0451MG	UDP-glucose 4-epimerase
+1293807..1294550	+	247	212212848	-	CbuG_1328	-	COG0176G	translaldolase
+1294554..1295144	+	196	212212849	-	CbuG_1329	-	COG0279G	phosphoheptose isomerase
+1295138..1295683	+	181	212212850	-	CbuG_1330	-	COG0241E	histidinol-phosphatase
+1295676..1297292	+	538	212212851	-	CbuG_1331	-	COG0637R	hypothetical protein
+1297278..1298711	-	477	212212852	rfbA.2	CbuG_1332	-	COG0836M	mannose-1-phosphate guanylyltransferase
+1299149..1300411	-	420	212212853	rhlE	CbuG_1335	-	COG0513LKJ	ATP-dependent RNA helicase
+1300662..1300835	-	57	212212854	-	CbuG_1337	-	-	hypothetical protein
+1300835..1301014	+	59	212212855	-	CbuG_1338	-	-	hypothetical protein
+1301011..1301826	+	271	212212856	dapD	CbuG_1339	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1301832..1302956	+	374	212212857	dapE	CbuG_1340	-	COG0624E	succinyl-diaminopimelate desuccinylase
+1303055..1304044	-	329	212212858	-	CbuG_1341	-	-	hypothetical protein
+1304041..1305186	-	381	212212859	-	CbuG_1342	-	COG5433L	transposase
+1305291..1305395	-	34	212212860	-	CbuG_1343	-	-	hypothetical protein
+1305427..1305543	-	38	212212861	-	CbuG_1344	-	-	hypothetical protein
+1305533..1305943	-	136	212212862	-	CbuG_1345	-	COG1373R	hypothetical protein
+1306346..1306510	+	54	212212863	-	CbuG_1347	-	-	hypothetical protein
+1306514..1308043	+	509	212212864	dnaX	CbuG_1348	-	COG2812L	DNA polymerase III subunit gamma/tau
+1308153..1308584	+	143	212212865	-	CbuG_1349	-	COG0718S	hypothetical protein
+1308596..1309201	+	201	212212866	recR	CbuG_1350	-	COG0353L	recombination protein RecR
+1309215..1309547	+	110	212212867	-	CbuG_1351	-	COG0718S	hypothetical protein
+1309550..1311043	-	497	212212868	-	CbuG_1352	-	-	hypothetical protein
+1311067..1311909	-	280	212212869	-	CbuG_1353	-	-	hypothetical protein
+1313324..1314415	-	363	212212870	-	CbuG_1355	-	COG0628R	riboflavin transporter
+1314408..1314863	-	151	212212871	ribH	CbuG_1356	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+1314860..1316023	-	387	212212872	ribA	CbuG_1357	-	COG0108H	3,4-dihydroxy-2-butanone-4-phosphate synthase
+1316064..1316687	-	207	212212873	ribE	CbuG_1358	-	COG0307H	riboflavin synthase subunit alpha
+1317042..1317305	+	87	212212874	-	CbuG_1359	-	-	plasmid stabilization system antitoxin protein
+1317311..1317649	+	112	212212875	-	CbuG_1360	-	-	plasmid stabilization system toxin protein
+1317627..1318691	-	354	212212876	ribD	CbuG_1361	-	COG0117H	5-amino-6-(5-phosphoribosylamino)uracil reductase
+1318688..1319440	-	250	212212877	-	CbuG_1362	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+1319476..1320624	+	382	212212878	-	CbuG_1363	-	COG0334E	leucine dehydrogenase
+1320621..1321727	+	368	212212879	-	CbuG_1364	-	COG1071C	pyruvate dehydrogenase E1 component alpha subunit
+1321932..1322912	+	326	212212880	-	CbuG_1365	-	COG0022C	pyruvate dehydrogenase E1 component beta subunit
+1322912..1324048	+	378	212212881	pdhC	CbuG_1366	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+1324461..1325222	+	253	212212882	-	CbuG_1367	-	COG5424H	coenzyme PQQ synthesis protein C
+1325241..1326134	-	297	212212883	-	CbuG_1368	-	COG5006R	transporter, drug/metabolite exporter family
+1326177..1327667	-	496	212212884	-	CbuG_1369	-	-	hypothetical membrane spanning protein
+1327686..1329578	-	630	212212885	-	CbuG_1370	-	COG0642T	two component system histidine kinase
+1329762..1330061	+	99	212212886	-	CbuG_1371	-	COG3461S	hypothetical protein
+1330121..1334095	-	1324	212212887	purL	CbuG_1372	-	COG0046F	phosphoribosylformylglycinamidine synthase
+1334137..1334829	-	230	212212888	mip	CbuG_1373	-	COG0545O	FKBP-type peptidyl-prolyl cis-trans isomerase
+1334902..1338042	-	1046	212212889	putA	CbuG_1374	-	COG4230C	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+1338161..1338688	-	175	212212890	ppa	CbuG_1375	-	COG0221C	inorganic pyrophosphatase
+1338825..1338947	+	40	212212891	-	CbuG_1376	-	-	hypothetical protein
+1339073..1341160	-	695	212212892	-	CbuG_1377	-	-	hypothetical protein
+1341269..1341676	-	135	212212893	-	CbuG_1378	-	-	hypothetical protein
+1341877..1342011	-	44	212212894	-	CbuG_1379	-	-	hypothetical protein
+1342131..1342232	-	33	212212895	-	CbuG_1380	-	-	hypothetical protein
+1342237..1342683	-	148	212212896	-	CbuG_1381	-	COG0590FJ	tRNA-specific adenosine deaminase
+1342875..1343858	+	327	212212897	-	CbuG_1382	-	COG0673R	NAD-dependent oxidoreductase
+1343848..1344978	+	376	212212898	lpxB	CbuG_1383	-	COG0763M	lipid-A-disaccharide synthase
+1345136..1345624	+	162	212212899	-	CbuG_1384	-	-	hypothetical protein
+1345628..1346773	+	381	212212900	-	CbuG_1385	-	COG1835I	acyltransferase family
+1346778..1348295	+	505	212212901	-	CbuG_1386	-	-	hypothetical membrane spanning protein
+1348388..1348978	-	196	212212902	-	CbuG_1387	-	COG2179R	hydrolase family protein
+1348975..1349754	-	259	212212903	lpxA	CbuG_1388	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+1349759..1350196	-	145	212212904	fabZ	CbuG_1389	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+1350193..1351221	-	342	212212905	lpxD	CbuG_1390	-	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1351231..1351728	-	165	212212906	-	CbuG_1391	-	COG2825M	outer membrane protein
+1354384..1355457	+	357	212212907	hmgA	CbuG_1393	-	COG1257I	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1355454..1356476	+	340	212212908	-	CbuG_1394	-	COG1577I	mevalonate kinase
+1356575..1357516	+	313	212212909	mvk	CbuG_1395	-	COG1577I	phosphomevalonate kinase
+1357509..1359020	+	503	212212910	mvaD	CbuG_1396	-	COG3407I	diphosphomevalonate decarboxylase
+1361630..1361965	+	111	212212911	-	CbuG_1399	-	-	hypothetical protein
+1361962..1363056	-	364	212212912	-	CbuG_1400	-	COG3547L	transposase
+1363075..1363890	-	271	212212913	cysQ1	CbuG_1401	-	COG1218P	3'(2'),5'-bisphosphate nucleotidase
+1363880..1364443	-	187	212212914	nudE	CbuG_1402	-	COG0494LR	ADP-ribose diphosphatase NudE
+1364496..1365623	+	375	212212915	-	CbuG_1403	-	COG0635H	oxygen-independent coproporphyrinogen-III oxidase
+1365741..1365980	-	79	212212916	-	CbuG_1404	-	-	hypothetical protein
+1367137..1367241	+	34	212212917	-	CbuG_1406	-	-	CAAX amino terminal protease family
+1368108..1368425	-	105	212212918	-	CbuG_1407	-	-	hypothetical membrane spanning protein
+1368427..1369251	-	274	212212919	-	CbuG_1408	-	-	hypothetical cytosolic protein
+1369428..1369826	-	132	212212920	-	CbuG_1409	-	COG3411C	ferredoxin, 2Fe-2s
+1369823..1370818	-	331	212212921	nadA	CbuG_1410	-	COG0379H	quinolinate synthetase
+1370898..1371221	-	107	212212922	-	CbuG_1411	-	COG0607P	thiosulfate sulfurtransferase
+1371266..1374781	-	1171	212212923	-	CbuG_1412	-	COG0493ER	pyridine nucleotide-disulfide oxidoreductase family
+1374833..1375036	+	67	212212924	-	CbuG_1413	-	-	hypothetical protein
+1375079..1375396	-	105	212212925	-	CbuG_1414	-	-	hypothetical protein
+1375593..1375892	-	99	212212926	-	CbuG_1415	-	COG0278O	glutaredoxin
+1375895..1376134	-	79	212212927	-	CbuG_1416	-	COG5007K	BolA
+1376207..1376542	+	111	212212928	-	CbuG_1417	-	COG1146C	ferredoxin
+1376512..1377333	-	273	212212929	-	CbuG_1418	-	COG3394S	hypothetical protein
+1377453..1378946	+	497	212212930	-	CbuG_1419	-	COG1807M	undecaprenyl-phosphomannose:protein mannosyltransferase
+1378933..1379907	+	324	212212931	-	CbuG_1420	-	COG0463M	polyprenyl-phosphate beta-D-glucosyltransferase
+1379920..1380696	-	258	212212932	-	CbuG_1421	-	-	hypothetical membrane spanning protein
+1380684..1382612	-	642	212212933	yfcX	CbuG_1422	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+1382612..1382770	+	52	212212934	-	CbuG_1423	-	-	hypothetical protein
+1382786..1384081	-	431	212212935	-	CbuG_1424	-	COG0183I	acetyl-CoA acetyltransferase
+1384324..1384479	+	51	212212936	-	CbuG_1425	-	-	hypothetical cytosolic protein
+1384549..1386696	-	715	212212937	fadE	CbuG_1426	-	COG1960I	acyl-CoA dehydrogenase
+1386706..1388082	-	458	212212938	-	CbuG_1427	-	COG0260E	cytosol aminopeptidase
+1388404..1388829	+	141	212212939	-	CbuG_1428	-	-	hypothetical protein
+1389044..1390726	+	560	212212940	-	CbuG_1429	-	COG0531E	amino acid permease
+1390747..1392066	+	439	212212941	miaB	CbuG_1430	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+1392077..1393048	+	323	212212942	-	CbuG_1431	-	COG1702T	PhoH-like protein
+1393045..1393503	+	152	212212943	-	CbuG_1432	-	COG0319R	hypothetical metal-binding protein
+1393559..1394824	+	421	212212944	-	CbuG_1433	-	COG2271G	transporter, MFS superfamily
+1394867..1395718	+	283	212212945	-	CbuG_1434	-	COG4535P	magnesium and cobalt efflux protein
+1395951..1397165	+	404	212212946	cutE	CbuG_1435	-	COG0815M	apolipoprotein N-acyltransferase
+1397536..1398039	+	167	212212947	-	CbuG_1436	-	-	phytochelatin synthase
+1398046..1399278	-	410	212212948	-	CbuG_1437	-	-	hypothetical cytosolic protein
+1399418..1401880	+	820	212212949	leuS	CbuG_1438	-	COG0495J	leucyl-tRNA synthetase
+1401870..1402421	+	183	212212950	-	CbuG_1439	-	COG2980M	rare lipoprotein B precursor
+1402424..1403443	+	339	212212951	holA	CbuG_1440	-	COG1466L	DNA polymerase III, delta subunit
+1403424..1404092	+	222	212212952	nadD	CbuG_1441	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+1404298..1404501	+	67	212212953	-	CbuG_1442	-	-	hypothetical protein
+1404558..1404656	-	32	212212954	-	CbuG_1443	-	-	hypothetical protein
+1404707..1405057	+	116	212212955	-	CbuG_1444	-	COG0799S	iojap protein family
+1405532..1407379	+	615	212212956	pbpA	CbuG_1446	-	COG0768M	cell elongation specific D,D-transpeptidase
+1407422..1408570	+	382	212212957	rodA	CbuG_1447	-	COG0772D	rod shape-determining protein
+1408650..1409654	+	334	212212958	mltB	CbuG_1448	-	COG2951M	membrane-bound lytic murein transglycosylase B
+1409635..1411320	+	561	212212959	-	CbuG_1449	-	COG4976	tetratricopeptide repeat family protein
+1411361..1412407	-	348	212212960	htpX	CbuG_1450	-	COG0501O	heat shock protein HtpX
+1412417..1413064	-	215	212212961	-	CbuG_1451	-	COG1704S	LemA
+1413123..1413326	-	67	212212962	-	CbuG_1452	-	-	hypothetical protein
+1416719..1418752	-	677	212212963	ligA	CbuG_1454	-	COG0272L	NAD-dependent DNA ligase
+1418753..1419445	-	230	212212964	zipA	CbuG_1455	-	COG3115D	cell division protein
+1419500..1423009	-	1169	212212965	smc	CbuG_1456	-	COG1196D	chromosome partition protein
+1423188..1424795	-	535	212212966	-	CbuG_1457	-	COG3104E	di-/tripeptide transporter
+1425322..1425444	+	40	212212967	-	CbuG_1458	-	-	hypothetical protein
+1425478..1426449	-	323	212212968	-	CbuG_1459	-	COG3266S	hypothetical protein
+1427893..1428960	-	355	212212969	rfe	CbuG_1461	-	COG0472M	undecaprenyl-phosphate alpha-N-acetylglucosaminephosphotransferase
+1429171..1429542	-	123	212212970	-	CbuG_1462	-	COG1555L	COME operon protein 1
+1429605..1430315	-	236	212212971	pyrF	CbuG_1463	-	COG0284F	orotidine 5'-phosphate decarboxylase
+1430319..1431488	-	389	212212972	-	CbuG_1464	-	COG2956G	tetratricopeptide repeat protein
+1431485..1431775	-	96	212212973	-	CbuG_1465	-	-	hypothetical membrane-associated protein
+1431930..1433597	-	555	212212974	rpsA	CbuG_1466	-	COG0539J	30S ribosomal protein S1
+1433729..1434442	-	237	212212975	cmk	CbuG_1467	-	COG0283F	cytidylate kinase
+1434443..1435759	-	438	212212976	aroA	CbuG_1468	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+1435765..1436847	-	360	212212977	serC	CbuG_1469	-	COG1932HE	phosphoserine aminotransferase
+1436908..1439460	-	850	212212978	gyrA	CbuG_1470	-	COG0188L	DNA gyrase subunit A
+1439686..1440780	+	364	212212979	-	CbuG_1471	-	COG3547L	transposase
+1440777..1441085	-	102	212212980	-	CbuG_1472	-	-	hypothetical protein
+1441289..1441459	-	56	212212981	-	CbuG_1473	-	-	hypothetical protein
+1441635..1443089	+	484	212212982	-	CbuG_1474	-	COG0402FR	N-ethylammeline chlorohydrolase
+1443076..1443975	+	299	212212983	leuA	CbuG_1475	-	COG0119E	hydroxymethylglutaryl-CoA lyase
+1444005..1444613	-	202	212212984	-	CbuG_1476	-	COG0586S	DedA family protein
+1444673..1446691	-	672	212212986	uvrB	CbuG_1478	-	COG0556L	excinuclease ABC subunit B
+1446685..1447956	+	423	212212985	aspC	CbuG_1477	-	COG0436E	aspartate aminotransferase
+1455230..1455526	-	98	212212987	-	CbuG_1481	-	-	hypothetical protein
+1456877..1456981	+	34	212212988	-	CbuG_1483	-	-	hypothetical protein
+1457141..1457242	+	33	212212989	-	CbuG_1484	-	-	hypothetical protein
+1457261..1457416	-	51	212212990	-	CbuG_1485	-	-	hypothetical protein
+1457670..1457771	-	33	212212991	-	CbuG_1486	-	-	hypothetical protein
+1457953..1459542	-	529	212212992	-	CbuG_1487	-	-	ankyrin repeat protein
+1459742..1459834	-	30	212212993	-	CbuG_1488	-	-	hypothetical protein
+1460303..1460419	+	38	212212994	-	CbuG_1490	-	-	hypothetical protein
+1461202..1462374	-	390	212212995	-	CbuG_1492	-	-	hypothetical protein
+1462371..1462508	-	45	212212996	-	CbuG_1493	-	COG1473R	metal-dependent amidase/aminoacylase/carboxypeptidase
+1462888..1463205	+	105	212212997	-	CbuG_1494	-	-	hypothetical protein
+1463383..1463499	-	38	212212998	-	CbuG_1495	-	-	hypothetical protein
+1463597..1464916	-	439	212212999	-	CbuG_1496	-	COG2271G	transporter, MFS superfamily
+1465587..1466378	-	263	212213000	-	CbuG_1497	-	-	hypothetical membrane spanning protein
+1466378..1467526	-	382	212213001	-	CbuG_1498	-	COG1980G	fructose-1,6-bisphosphatase
+1467653..1468690	+	345	212213002	-	CbuG_1499	-	COG3608R	succinylglutamate desuccinylase/aspartoacylase family protein
+1468718..1469998	+	426	212213003	-	CbuG_1500	-	COG2271G	transporter, MFS superfamily
+1470107..1470226	-	39	212213004	-	CbuG_1501	-	-	hypothetical cytosolic protein
+1470397..1470699	-	100	212213005	-	CbuG_1502	-	-	hypothetical protein
+1470712..1471056	-	114	212213006	trpR	CbuG_1503	-	COG2973K	Trp operon repressor
+1471106..1471807	+	233	212213007	-	CbuG_1504	-	-	hypothetical membrane spanning protein
+1472027..1473055	+	342	212213008	-	CbuG_1505	-	-	hypothetical cytosolic protein
+1473127..1474851	-	574	212213009	recJ	CbuG_1506	-	COG0608L	single-stranded-DNA-specific exonuclease
+1475292..1475909	+	205	212213011	-	CbuG_1508	-	COG1670J	ribosomal-protein-alanine acetyltransferase
+1475973..1477508	+	511	212213012	-	CbuG_1509	-	COG3104E	di-/tripeptide transporter
+1477671..1478750	+	359	212213013	glnA	CbuG_1510	-	COG0174E	glutamine synthetase
+1478936..1479703	-	255	212213014	-	CbuG_1511	-	COG0084L	DNase, TatD family
+1479723..1479848	-	41	212213015	-	CbuG_1512	-	-	hypothetical protein
+1479867..1480826	-	319	212213016	holB	CbuG_1513	-	COG0470L	DNA polymerase III subunit delta'
+1480823..1481308	-	161	212213017	tmk	CbuG_1514	-	COG0125F	thymidylate kinase
+1481484..1482515	-	343	212213018	-	CbuG_1515	-	COG1559R	hypothetical protein
+1482525..1483769	-	414	212213019	fabF	CbuG_1516	-	COG0304IQ	3-oxoacyl-[acyl-carrier-protein] synthase
+1483814..1484068	-	84	212213020	acpP	CbuG_1517	-	COG0236IQ	acyl carrier protein
+1484136..1484885	-	249	212213021	fabG	CbuG_1518	-	COG1028IQR	3-oxoacyl-[acyl-carrier protein] reductase
+1484953..1485894	-	313	212213022	fabD	CbuG_1519	-	COG0331I	malonyl-CoA-[acyl-carrier-protein] transacylase
+1485995..1486954	-	319	212213023	fabH	CbuG_1520	-	COG0332I	3-oxoacyl-(acyl carrier protein) synthase III
+1486951..1487982	-	343	212213024	plsX	CbuG_1521	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+1487990..1488184	-	64	212213025	rpmF	CbuG_1522	-	COG0333J	50S ribosomal protein L32
+1488328..1490112	+	594	212213026	-	CbuG_1523	-	COG1796L	DNA Polymerase X family
+1490168..1491202	+	344	212213027	-	CbuG_1524	-	COG2829M	phospholipase A1
+1491294..1492001	-	235	212213028	-	CbuG_1525	-	COG0639T	bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+1492030..1492956	-	308	212213029	rluC	CbuG_1526	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+1493285..1495447	+	720	212213030	-	CbuG_1527	-	COG1530J	ribonuclease E
+1495507..1497123	-	538	212213031	-	CbuG_1528	-	-	hypothetical membrane spanning protein
+1497136..1497807	-	223	212213032	artM	CbuG_1529	-	COG4160E	arginine transport system permease protein
+1497804..1498469	-	221	212213033	artQ	CbuG_1530	-	COG4215E	arginine transport system permease protein
+1498469..1499278	-	269	212213034	artI	CbuG_1531	-	COG0834ET	arginine-binding protein
+1499282..1500034	-	250	212213035	artP	CbuG_1532	-	COG1126E	arginine transport ATP-binding protein
+1500127..1500606	+	159	212213036	argR	CbuG_1533	-	COG1438K	arginine repressor
+1500590..1501351	-	253	212213037	kdsB	CbuG_1534	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+1501341..1501511	-	56	212213038	-	CbuG_1535	-	COG2835S	conserved cytosolic protein
+1501631..1501729	-	32	212213039	-	CbuG_1536	-	-	hypothetical protein
+1501762..1502040	+	92	212213040	-	CbuG_1537	-	-	hypothetical protein
+1502050..1503792	-	580	212213041	-	CbuG_1538	-	-	hypothetical protein
+1504274..1504528	-	84	212213042	-	CbuG_1539	-	-	hypothetical protein
+1504540..1504857	-	105	212213043	bph2_1	CbuG_1540	-	COG0776L	DNA-binding protein
+1504994..1506799	-	601	212213044	recQ	CbuG_1541	-	COG0514L	ATP-dependent DNA helicase
+1506872..1508353	-	493	212213045	-	CbuG_1542	-	COG4341R	phosphohydrolase family protein
+1508689..1509345	+	218	212213046	-	CbuG_1543	-	COG1926R	purine/pyrimidine phosphoribosyl transferase
+1509392..1509595	+	67	212213047	-	CbuG_1544	-	-	hypothetical protein
+1509608..1509856	+	82	212213048	xseB	CbuG_1545	-	COG1722L	exodeoxyribonuclease VII small subunit
+1509857..1510702	-	281	212213049	-	CbuG_1546	-	COG2226H	biotin synthesis protein
+1511281..1511376	-	31	212213051	-	CbuG_1548	-	-	hypothetical protein
+1511359..1511820	+	153	212213050	-	CbuG_1547	-	COG1040R	amidophosphoribosyltransferase family protein
+1511994..1513418	-	474	212213052	lpdA	CbuG_1549	-	COG1249C	dihydrolipoamide dehydrogenase
+1513431..1514741	-	436	212213053	aceF	CbuG_1550	-	COG0508C	dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+1514807..1517461	-	884	212213054	aceE	CbuG_1551	-	COG2609C	pyruvate dehydrogenase subunit E1
+1517505..1518281	-	258	212213055	-	CbuG_1552	-	COG3725V	beta-lactamase induction protein
+1518357..1519577	-	406	212213056	-	CbuG_1553	-	COG4651P	potassium/proton antiporter
+1519556..1519774	-	72	212213057	-	CbuG_1554	-	COG4731S	hypothetical protein
+1520248..1520601	+	117	212213058	hq1	CbuG_1555	-	-	histone H1-like protein
+1520627..1520992	-	121	212213059	trx	CbuG_1556	-	COG3118O	thioredoxin
+1521026..1521721	-	231	212213060	adk	CbuG_1557	-	COG0563F	adenylate kinase
+1521756..1522316	-	186	212213061	-	CbuG_1558	-	COG4970NU	type 4 pili biogenesis protein (prepilin-like protein)
+1522318..1523571	-	417	212213062	-	CbuG_1559	-	COG4536P	magnesium and cobalt efflux protein
+1523568..1524116	-	182	212213063	-	CbuG_1560	-	COG4137R	cytochrome c assembly protein family
+1524141..1525526	+	461	212213064	ffh	CbuG_1561	-	COG0541U	signal recognition particle, subunit ffh/srp54
+1525555..1526568	-	337	212213065	cpdP	CbuG_1562	-	COG5212T	3',5'-cyclic-nucleotide phosphodiesterase
+1526550..1526645	-	31	212213066	-	CbuG_1563	-	-	hypothetical protein
+1526684..1527238	+	184	212213067	-	CbuG_1564	-	COG0666R	ankyrin repeat protein
+1527331..1528041	-	236	212213068	-	CbuG_1565	-	-	hypothetical protein
+1528356..1528901	+	181	212213069	rpsP	CbuG_1566	-	COG0228J	30S ribosomal protein S16
+1528982..1529488	+	168	212213070	rimM	CbuG_1567	-	COG0806J	16S rRNA-processing protein RimM
+1529490..1530230	+	246	212213071	trmD	CbuG_1568	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+1530227..1530574	+	115	212213072	rplS	CbuG_1569	-	COG0335J	50S ribosomal protein L19
+1530580..1531092	+	170	212213073	ogt	CbuG_1570	-	COG0350L	O6-methylguanine-DNA methyltransferase
+1531196..1531393	-	65	212213074	-	CbuG_1571	-	-	hypothetical protein
+1531399..1531512	-	37	212213075	-	CbuG_1572	-	-	hypothetical protein
+1531509..1532096	-	195	212213076	-	CbuG_1573	-	-	hypothetical protein
+1532330..1533106	+	258	212213077	-	CbuG_1574	-	-	hypothetical membrane spanning protein
+1533451..1533687	+	78	212213078	-	CbuG_1575	-	-	hypothetical cytosolic protein
+1533730..1533948	+	72	212213079	-	CbuG_1576	-	-	hypothetical protein
+1534047..1534166	+	39	212213080	-	CbuG_1577	-	-	hypothetical cytosolic protein
+1534266..1534787	-	173	212213081	-	CbuG_1578	-	COG3264M	mechanosensitive ion channel
+1536247..1537023	+	258	212213082	-	CbuG_1580	-	COG0354R	aminomethyltransferase family protein
+1536992..1538488	-	498	212213083	lysS	CbuG_1581	-	COG1190J	lysyl-tRNA synthetase
+1538676..1539014	-	112	212213084	-	CbuG_1582	-	COG1186J	peptidyl-tRNA hydrolase domain protein
+1538998..1539867	-	289	212213085	prfB	CbuG_1583	-	COG1186J	peptide chain release factor 2
+1539954..1540175	+	73	212213086	-	CbuG_1584	-	-	hypothetical protein
+1540326..1540427	-	33	212213087	-	CbuG_1585	-	-	hypothetical protein
+1540521..1542116	+	531	212213088	-	CbuG_1586	-	COG0531E	amino acid permease
+1542246..1543730	+	494	212213089	-	CbuG_1587	-	-	hypothetical protein
+1543822..1544622	+	266	212213090	panB	CbuG_1588	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1544633..1545406	+	257	212213091	panC	CbuG_1589	-	COG0414H	pantoate--beta-alanine ligase
+1545400..1545735	+	111	212213092	panD	CbuG_1590	-	COG0853H	aspartate alpha-decarboxylase
+1547571..1548401	+	276	212213093	-	CbuG_1592	-	COG0726G	polysaccharide deacetylase family
+1548486..1549349	+	287	212213094	-	CbuG_1593	-	COG0115EH	branched-chain amino acid aminotransferase
+1549398..1549535	-	45	212213095	-	CbuG_1594	-	-	hypothetical protein
+1549587..1549769	-	60	212213096	-	CbuG_1595	-	-	hypothetical protein
+1550757..1551920	-	387	212213097	-	CbuG_1597	-	-	hypothetical cytosolic protein
+1552273..1552683	+	136	212213098	-	CbuG_1599	-	COG4968NU	type 4 pili biogenesis protein (prepilin-like protein)
+1552755..1552856	+	33	212213099	-	CbuG_1600	-	-	hypothetical protein
+1552893..1553165	+	90	212213100	-	CbuG_1601	-	-	hypothetical protein
+1553162..1554256	-	364	212213101	-	CbuG_1602	-	COG3547L	transposase
+1554452..1556188	+	578	212213102	-	CbuG_1603	-	-	hypothetical membrane spanning protein
+1556464..1556619	+	51	212213103	-	CbuG_1604	-	-	hypothetical protein
+1556631..1557128	+	165	212213104	-	CbuG_1605	-	-	hypothetical protein
+1557121..1557222	+	33	212213105	-	CbuG_1606	-	-	hypothetical protein
+1559214..1559693	-	159	212213106	-	CbuG_1609	-	-	hypothetical protein
+1559715..1560263	-	182	212213107	-	CbuG_1610	-	-	hypothetical membrane spanning protein
+1560275..1560772	-	165	212213108	lspA	CbuG_1611	-	COG0597MU	lipoprotein signal peptidase
+1560775..1563585	-	936	212213109	ileS	CbuG_1612	-	COG0060J	isoleucyl-tRNA synthetase
+1563698..1564384	-	228	212213110	-	CbuG_1613	-	-	hypothetical protein
+1566399..1567436	-	345	212213112	ribF	CbuG_1616	-	COG0196H	FMN adenylyltransferase
+1567433..1568980	-	515	212213113	mviN	CbuG_1617	-	COG0728R	MviN
+1569224..1569496	+	90	212213114	rpsT	CbuG_1618	-	COG0268J	30S ribosomal protein S20
+1573779..1574798	-	339	212213115	obgE	CbuG_1620	-	COG0536R	GTPase ObgE
+1574963..1575235	-	90	212213116	rpmA	CbuG_1621	-	COG0211J	50S ribosomal protein L27
+1575225..1575578	-	117	212213117	rplU	CbuG_1622	-	COG0261J	50S ribosomal protein L21
+1575665..1575889	-	74	212213118	-	CbuG_1623	-	-	hypothetical protein
+1575896..1576168	+	90	212213119	-	CbuG_1624	-	-	hypothetical protein
+1576165..1577259	-	364	212213120	-	CbuG_1625	-	COG3547L	transposase
+1577528..1578166	-	212	212213121	tag	CbuG_1626	-	COG2818L	DNA-3-methyladenine glycosylase
+1578232..1579230	+	332	212213122	ispB	CbuG_1627	-	COG0142H	farnesyl pyrophosphate synthetase
+1580032..1580577	-	181	212213123	-	CbuG_1629	-	COG2320S	glutamate-rich protein
+1580655..1580780	+	41	212213124	-	CbuG_1630	-	-	hypothetical protein
+1580797..1581570	+	257	212213125	ampD	CbuG_1631	-	COG3023V	anhydro-N-acetylmuramyl-tripeptide amidase
+1581585..1582007	-	140	212213126	-	CbuG_1632	-	-	hypothetical membrane-associated protein
+1582164..1582385	-	73	212213127	-	CbuG_1633	-	-	hypothetical protein
+1584021..1584887	+	288	212213128	-	CbuG_1635	-	COG2301G	citrate lyase beta chain
+1584871..1585395	+	174	212213129	-	CbuG_1636	-	COG2030I	dehydrogenase with MaoC-like domain
+1587008..1588201	+	397	212213130	-	CbuG_1638	-	COG2814G	multidrug resistance transporter, Bcr family
+1588273..1588500	+	75	212213131	-	CbuG_1639	-	-	hypothetical membrane-associated protein
+1588564..1588668	+	34	212213132	-	CbuG_1640	-	-	hypothetical protein
+1588671..1589855	-	394	212213133	-	CbuG_1641	-	COG2133G	hypothetical protein
+1589907..1590653	+	248	212213134	phoB	CbuG_1642	-	COG0745TK	PhoB
+1590634..1591392	+	252	212213135	phoR	CbuG_1643	-	COG0642T	phosphate regulon sensor protein
+1591568..1592899	+	443	212213136	-	CbuG_1644	-	-	phosphate transporter
+1593133..1594062	+	309	212213137	-	CbuG_1645	-	COG0826O	hypothetical peptidase
+1593980..1595185	+	401	212213138	-	CbuG_1646	-	COG1473R	metal-dependent amidase/aminoacylase/carboxypeptidase
+1595250..1595345	-	31	212213140	-	CbuG_1648	-	-	hypothetical protein
+1595327..1596619	+	430	212213139	-	CbuG_1647	-	-	hypothetical membrane spanning protein
+1596642..1597787	+	381	212213141	-	CbuG_1649	-	-	hypothetical membrane spanning protein
+1597935..1598162	-	75	212213142	-	CbuG_1650	-	-	hypothetical protein
+1598265..1598411	+	48	212213143	-	CbuG_1651	-	-	hypothetical protein
+1598541..1600181	-	546	212213144	-	CbuG_1652	-	COG0666R	F-box protein
+1600257..1601834	-	525	212213145	-	CbuG_1653	-	COG0531E	amino acid permease
+1602044..1603060	+	338	212213146	-	CbuG_1654	-	COG0616OU	periplasmic protease
+1603197..1604087	+	296	212213147	czcD	CbuG_1655	-	COG1230P	cobalt-zinc-cadmium resistance protein
+1604133..1604486	+	117	212213148	-	CbuG_1656	-	COG2198T	Hpt domain protein
+1604473..1605177	+	234	212213149	ubiG	CbuG_1657	-	COG2227H	3-demethylubiquinone-9 3-methyltransferase
+1605170..1605853	+	227	212213150	gph	CbuG_1658	-	COG0546R	phosphoglycolate phosphatase
+1605875..1606030	+	51	212213151	-	CbuG_1659	-	-	hypothetical protein
+1606056..1607285	+	409	212213152	xylT	CbuG_1660	-	COG2814G	D-xylose-proton symporter
+1608842..1610152	+	436	212213153	xylA	CbuG_1662	-	COG2115G	xylose isomerase
+1612213..1612329	-	38	212213155	-	CbuG_1665	-	-	hypothetical protein
+1612313..1613311	+	332	212213154	pfkA	CbuG_1664	-	COG0205G	6-phosphofructokinase
+1613353..1614291	-	312	212213156	-	CbuG_1666	-	-	hypothetical cytosolic protein
+1615309..1618014	-	901	212213157	pepN	CbuG_1668	-	COG0308E	aminopeptidase N
+1618178..1618489	+	103	212213158	fis	CbuG_1669	-	COG2901KL	DNA-binding protein fis
+1618470..1620053	+	527	212213159	purH	CbuG_1670	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1620070..1620744	-	224	212213160	-	CbuG_1671	-	COG2503R	acid phosphatase
+1620822..1622261	-	479	212213161	thiDE	CbuG_1672	-	COG0351H	hydroxymethylpyrimidine kinase
+1622258..1623037	-	259	212213162	thiG	CbuG_1673	-	COG2022H	thiazole synthase
+1623039..1623242	-	67	212213163	thiS	CbuG_1674	-	COG2104H	ThiS
+1623239..1624261	-	340	212213164	thiO	CbuG_1675	-	COG0665E	glycine oxidase
+1624261..1625925	-	554	212213165	thiC	CbuG_1676	-	COG0422H	thiamine biosynthesis protein ThiC
+1629225..1630538	+	437	212213166	purD	CbuG_1678	-	COG0151F	phosphoribosylamine--glycine ligase
+1630800..1632446	-	548	212213167	-	CbuG_1679	-	COG0318IQ	acyl-CoA synthetase
+1632460..1632711	-	83	212213168	-	CbuG_1680	-	COG0236IQ	acyl carrier protein
+1632708..1633580	-	290	212213169	-	CbuG_1681	-	COG3687R	hypothetical protein
+1633774..1634547	+	257	212213170	icmH	CbuG_1682	-	COG3455S	IcmH
+1637549..1637665	-	38	212213172	-	CbuG_1686	-	-	hypothetical protein
+1637656..1638300	+	214	212213171	enhA.4	CbuG_1685	-	COG1376S	enhanced entry protein
+1638294..1639004	-	236	212213173	dnaQ	CbuG_1687	-	COG0847L	DNA polymerase III, epsilon chain
+1639422..1639886	-	154	212213174	rnhA	CbuG_1688	-	COG0328L	ribonuclease H
+1639901..1640632	-	243	212213175	-	CbuG_1689	-	COG2226H	methyltransferase
+1640697..1641470	+	257	212213176	-	CbuG_1690	-	COG0491R	hydroxyacylglutathione hydrolase
+1641607..1643106	+	499	212213177	-	CbuG_1691	-	COG0741M	membrane-bound lytic murein transglycosylase D precursor
+1643375..1643494	-	39	212213178	-	CbuG_1692	-	-	hypothetical cytosolic protein
+1643803..1644654	+	283	212213179	folD	CbuG_1693	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1644813..1645484	-	223	212213180	p1	CbuG_1694	-	-	outer membrane porin P1
+1645546..1645662	+	38	212213181	-	CbuG_1695	-	-	hypothetical protein
+1645834..1647735	-	633	212213182	htpG	CbuG_1696	-	COG0326O	heat shock protein 90
+1647781..1648065	+	94	212213183	-	CbuG_1697	-	-	hypothetical protein
+1648152..1648847	-	231	212213184	-	CbuG_1698	-	-	outer membrane protein
+1648847..1648966	-	39	212213185	-	CbuG_1699	-	-	hypothetical protein
+1649247..1651361	-	704	212213186	recG	CbuG_1700	-	COG1200LK	ATP-dependent DNA helicase RecG
+1651368..1651814	-	148	212213187	-	CbuG_1701	-	COG0251J	translation initiation inhibitor
+1651842..1653965	-	707	212213188	spoT	CbuG_1702	-	COG0317TK	GTP pyrophosphokinase
+1654019..1654312	-	97	212213189	rpoZ	CbuG_1703	-	COG1758K	DNA-directed RNA polymerase omega chain
+1654390..1655010	-	206	212213190	gmk	CbuG_1704	-	COG0194F	guanylate kinase
+1655003..1655866	-	287	212213191	yicC	CbuG_1705	-	COG1561S	hypothetical protein
+1656004..1656723	+	239	212213192	rph	CbuG_1706	-	COG0689J	ribonuclease PH
+1656723..1657565	+	280	212213193	murI	CbuG_1707	-	COG0796M	glutamate racemase
+1657821..1658600	-	259	212213194	xth	CbuG_1708	-	COG0708L	exodeoxyribonuclease III
+1658628..1659275	+	215	212213195	pyrE	CbuG_1709	-	COG0461F	orotate phosphoribosyltransferase
+1660737..1662152	-	471	212213196	algC	CbuG_1711	-	COG1109G	phosphoglucomutase
+1662130..1662615	-	161	212213197	dut	CbuG_1712	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1662629..1662964	+	111	212213198	-	CbuG_1713	-	-	hypothetical protein
+1663061..1663537	+	158	212213199	radC	CbuG_1714	-	COG2003L	DNA repair protein
+1663631..1663870	+	79	212213200	rpmB	CbuG_1715	-	COG0227J	50S ribosomal protein L28
+1663881..1664093	+	70	212213201	rpmG	CbuG_1716	-	COG0267J	LSU ribosomal protein L33P
+1664107..1664352	-	81	212213202	-	CbuG_1717	-	COG1143C	ferredoxin
+1664367..1664846	-	159	212213203	coaD	CbuG_1718	-	COG0669H	phosphopantetheine adenylyltransferase
+1664843..1665403	-	186	212213204	folK	CbuG_1719	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1665403..1666719	-	438	212213205	pcnB	CbuG_1720	-	COG0617J	poly(A) polymerase
+1666951..1667271	-	106	212213206	-	CbuG_1722	-	-	hypothetical protein
+1667275..1667502	-	75	212213207	-	CbuG_1723	-	COG3657S	hypothetical cytosolic protein
+1667490..1667663	-	57	212213208	-	CbuG_1724	-	-	hypothetical protein
+1667831..1668343	+	170	212213209	-	CbuG_1725	-	COG5499K	transcriptional regulator
+1668522..1668680	-	52	212213210	katE	CbuG_1726	-	COG0753P	catalase HPII
+1668752..1669870	-	372	212213211	dinP	CbuG_1727	-	COG0389L	DNA polymerase IV
+1669932..1670759	+	275	212213212	-	CbuG_1728	-	COG1834E	amidinotransferase family protein
+1670783..1671376	-	197	212213213	-	CbuG_1729	-	COG2095U	marC family integral membrane protein
+1671424..1671576	+	50	212213214	-	CbuG_1730	-	-	hypothetical protein
+1671629..1672708	-	359	212213215	-	CbuG_1731	-	COG1251C	rubredoxin-NAD(+) reductase
+1672749..1673834	-	361	212213216	hemE	CbuG_1732	-	COG0407H	uroporphyrinogen decarboxylase
+1673898..1674065	+	55	212213217	-	CbuG_1733	-	-	hypothetical protein
+1674144..1677008	-	954	212213218	uvrA	CbuG_1734	-	COG0178L	excinuclease ABC subunit A
+1677219..1677965	+	248	212213219	-	CbuG_1735	-	-	hypothetical protein
+1678053..1679429	+	458	212213220	-	CbuG_1736	-	COG2814G	transporter, MFS superfamily
+1679479..1679955	+	158	212213221	ssb	CbuG_1737	-	COG0629L	single-strand DNA binding protein
+1679967..1681187	-	406	212213222	-	CbuG_1738	-	COG3007S	trans-2-enoyl-CoA reductase
+1682718..1683944	-	408	212213223	-	CbuG_1740	-	COG0738G	glucose/galactose transporter
+1683947..1684327	-	126	212213224	rplQ	CbuG_1741	-	COG0203J	50S ribosomal protein L17
+1684339..1685322	-	327	212213225	rpoA	CbuG_1742	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+1685335..1685955	-	206	212213226	rpsD	CbuG_1743	-	COG0522J	30S ribosomal protein S4
+1685968..1686339	-	123	212213227	rpsK	CbuG_1744	-	COG0100J	30S ribosomal protein S11
+1686367..1686726	-	119	212213228	rpsM	CbuG_1745	-	COG0099J	30S ribosomal protein S13
+1686731..1686826	-	31	212213229	-	CbuG_1746	-	-	hypothetical protein
+1687101..1688429	-	442	212213230	secY	CbuG_1747	-	COG0201U	preprotein translocase subunit SecY
+1688447..1688878	-	143	212213231	rplO	CbuG_1748	-	COG0200J	50S ribosomal protein L15
+1688881..1689072	-	63	212213232	rpmD	CbuG_1749	-	COG1841J	50S ribosomal protein L30
+1689076..1689582	-	168	212213233	rpsE	CbuG_1750	-	COG0098J	30S ribosomal protein S5
+1689594..1689947	-	117	212213234	rplR	CbuG_1751	-	COG0256J	50S ribosomal protein L18
+1689947..1690483	-	178	212213235	rplF	CbuG_1752	-	COG0097J	50S ribosomal protein L6
+1690521..1690922	-	133	212213236	rpsH	CbuG_1753	-	COG0096J	30S ribosomal protein S8
+1690916..1691215	-	99	212213237	rpsN	CbuG_1754	-	COG0199J	SSU ribosomal protein S14P
+1691220..1691768	-	182	212213238	rplE	CbuG_1755	-	COG0094J	50S ribosomal protein L5
+1691884..1692207	-	107	212213239	rplX	CbuG_1756	-	COG0198J	50S ribosomal protein L24
+1692219..1692587	-	122	212213240	rplN	CbuG_1757	-	COG0093J	50S ribosomal protein L14
+1692598..1692849	-	83	212213241	rpsQ	CbuG_1758	-	COG0186J	30S ribosomal protein S17
+1692860..1693057	-	65	212213242	rpmC	CbuG_1759	-	COG0255J	50S ribosomal protein L29
+1693058..1693471	-	137	212213243	rplP	CbuG_1760	-	COG0197J	50S ribosomal protein L16
+1693483..1694166	-	227	212213244	rpsC	CbuG_1761	-	COG0092J	30S ribosomal protein S3
+1694166..1694513	-	115	212213245	rplV	CbuG_1762	-	COG0091J	50S ribosomal protein L22
+1694513..1694800	-	95	212213246	rpsS	CbuG_1763	-	COG0185J	30S ribosomal protein S19
+1694813..1695640	-	275	212213247	rplB	CbuG_1764	-	COG0090J	50S ribosomal protein L2
+1695660..1695947	-	95	212213248	rplW	CbuG_1765	-	COG0089J	50S ribosomal protein L23
+1695944..1696564	-	206	212213249	rplD	CbuG_1766	-	COG0088J	50S ribosomal protein L4
+1696561..1697214	-	217	212213250	rplC	CbuG_1767	-	COG0087J	50S ribosomal protein L3
+1697236..1697577	-	113	212213251	rpsJ	CbuG_1768	-	COG0051J	30S ribosomal protein S10
+1697758..1698951	-	397	212213252	tuf2	CbuG_1769	-	COG0050J	elongation factor Tu
+1698967..1701066	-	699	212213253	fusA	CbuG_1770	-	COG0480J	elongation factor G
+1701076..1701651	-	191	212213254	rpsG	CbuG_1771	-	COG0049J	30S ribosomal protein S7
+1701664..1702086	-	140	212213255	rpsL	CbuG_1772	-	COG0048J	30S ribosomal protein S12
+1702380..1706624	-	1414	212213256	rpoC	CbuG_1773	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+1706891..1711024	-	1377	212213257	rpoB	CbuG_1774	-	COG0085K	DNA-directed RNA polymerase subunit beta
+1711039..1711158	-	39	212213258	-	CbuG_1775	-	-	hypothetical protein
+1711171..1711551	-	126	212213259	rplL	CbuG_1776	-	COG0222J	50S ribosomal protein L7/L12
+1711585..1712109	-	174	212213260	rplJ	CbuG_1777	-	COG0244J	50S ribosomal protein L10
+1712363..1713061	-	232	212213261	rplA	CbuG_1778	-	COG0081J	50S ribosomal protein L1
+1713061..1713498	-	145	212213262	rplK	CbuG_1779	-	COG0080J	50S ribosomal protein L11
+1713623..1714189	-	188	212213263	nusG	CbuG_1780	-	COG0250K	transcription antitermination protein
+1714214..1714597	-	127	212213264	secE	CbuG_1781	-	COG0690U	protein translocase subunit
+1714842..1716035	-	397	212213265	tuf1	CbuG_1783	-	COG0050J	elongation factor Tu
+1716622..1717353	-	243	212213266	mtaA	CbuG_1787	-	COG2091H	4'-phosphopantetheinyl transferase
+1717346..1717465	-	39	212213267	-	CbuG_1788	-	-	hypothetical protein
+1718624..1720174	-	516	212213268	cydA2	CbuG_1790	-	COG1271C	cytochrome d ubiquinol oxidase subunit I
+1720259..1720399	-	46	212213269	-	CbuG_1791	-	-	hypothetical protein
+1720559..1721839	-	426	212213270	-	CbuG_1792	-	-	hypothetical protein
+1722024..1723622	+	532	212213271	-	CbuG_1793	-	-	NlpC-P60 family protein
+1723677..1724396	-	239	212213272	-	CbuG_1794	-	COG0670R	integral membrane protein
+1724745..1724903	+	52	212213273	-	CbuG_1795	-	-	hypothetical protein
+1725042..1726298	-	418	212213274	-	CbuG_1796	-	-	hypothetical membrane spanning protein
+1726582..1727595	-	337	212213275	-	CbuG_1797	-	COG2309E	hypothetical protein
+1728868..1729737	-	289	212213276	-	CbuG_1799	-	COG2510S	transporter, drug/metabolite exporter family
+1730071..1730376	-	101	212213277	-	CbuG_1800	-	-	hypothetical protein
+1730626..1731018	-	130	212213278	-	CbuG_1802	-	-	hypothetical membrane spanning protein
+1731080..1732501	-	473	212213279	gltX	CbuG_1803	-	COG0008J	glutamyl-tRNA synthetase
+1732571..1733347	-	258	212213280	-	CbuG_1804	-	-	hypothetical protein
+1733403..1733798	+	131	212213281	-	CbuG_1805	-	COG0666R	ankyrin repeat protein
+1733879..1734652	-	257	212213282	-	CbuG_1806	-	COG2017G	aldose 1-epimerase family protein
+1734765..1735721	-	318	212213283	coaA	CbuG_1807	-	COG1072H	pantothenate kinase
+1735705..1735818	-	37	212213284	-	CbuG_1808	-	-	hypothetical protein
+1735862..1737598	+	578	212213285	-	CbuG_1809	-	COG0729M	outer membrane protein
+1737595..1740384	+	929	212213286	-	CbuG_1810	-	COG2911S	hypothetical outer membrane protein
+1740381..1740656	-	91	212213287	-	CbuG_1811	-	-	hypothetical protein
+1740743..1742044	-	433	212213288	ampG	CbuG_1812	-	-	AmpG
+1742225..1743592	+	455	212213289	sdaA	CbuG_1813	-	COG1760E	L-serine dehydratase
+1743620..1744765	-	381	212213290	-	CbuG_1814	-	-	hypothetical membrane-associated protein
+1747957..1748448	+	163	212213291	-	CbuG_1818	-	-	hypothetical membrane-associated protein
+1748455..1748571	-	38	212213292	-	CbuG_1819	-	-	hypothetical protein
+1749668..1750828	+	386	212213293	-	CbuG_1821	-	-	hypothetical membrane-associated protein
+1750978..1751172	-	64	212213294	-	CbuG_1822	-	-	hypothetical protein
+1752482..1752955	-	157	212213295	-	CbuG_1824	-	-	homing endonuclease
+1758227..1758484	+	85	212213296	-	CbuG_1830	-	-	hypothetical protein
+1758521..1759720	-	399	212213297	tyrS	CbuG_1831	-	COG0162J	tyrosyl-tRNA synthetase
+1759744..1761102	+	452	212213298	-	CbuG_1832	-	COG0739M	peptidoglycan-specific endopeptidase, M23 family
+1761106..1762224	+	372	212213299	anmK	CbuG_1833	-	COG2377O	anhydro-N-acetylmuramic acid kinase
+1762271..1763029	+	252	212213300	-	CbuG_1834	-	COG1125E	glycine betaine transport ATP-binding protein
+1763026..1764606	+	526	212213301	-	CbuG_1835	-	COG1732M	glycine betaine transport system permease protein
+1764615..1765802	-	395	212213302	-	CbuG_1836	-	COG0265O	endopeptidase
+1765860..1766600	-	246	212213303	-	CbuG_1837	-	COG0515RTKL	serine/threonine protein kinase domain protein
+1766737..1767186	+	149	212213304	-	CbuG_1838	-	-	hypothetical protein
+1767303..1767755	+	150	212213305	-	CbuG_1839	-	-	hypothetical membrane spanning protein
+1769377..1769655	-	92	212213306	-	CbuG_1841	-	-	acyl carrier protein
+1769801..1770364	-	187	212213307	pksH	CbuG_1843	-	COG1024I	enoyl-CoA hydratase
+1774422..1775447	-	341	212213308	-	CbuG_1845	-	-	hypothetical protein
+1775557..1775967	+	136	212213309	-	CbuG_1846	-	-	hypothetical protein
+1776721..1777677	-	318	212213310	-	CbuG_1847	-	COG0656R	alcohol dehydrogenase (NADP+)
+1779103..1779738	+	211	212213311	-	CbuG_1849	-	-	hypothetical protein
+1779741..1779920	+	59	212213312	-	CbuG_1850	-	-	hypothetical protein
+1780190..1781158	+	322	212213313	-	CbuG_1851	-	COG1518L	hypothetical cytosolic protein
+1785761..1786723	+	320	212213314	-	CbuG_1853	-	-	hypothetical protein
+1786707..1787816	+	369	212213315	-	CbuG_1854	-	-	hypothetical cytosolic protein
+1787825..1788382	+	185	212213316	-	CbuG_1855	-	-	hypothetical cytosolic protein
+1788379..1788480	+	33	212213317	-	CbuG_1856	-	-	hypothetical protein
+1788623..1788784	+	53	212213318	-	CbuG_1857	-	-	phage integrase family protein
+1789018..1789455	+	145	212213319	pilA	CbuG_1859	-	COG4969NU	type 4 major prepilin protein
+1789445..1790998	+	517	212213320	pilB	CbuG_1860	-	COG2804NU	type 4 pili biogenesis protein (nuleotide-binding protein)
+1792071..1792928	+	285	212213321	pilD	CbuG_1862	-	COG1989NOU	PilD
+1792939..1793538	+	199	212213322	coaE	CbuG_1863	-	COG0237H	dephospho-CoA kinase
+1793559..1794395	+	278	212213323	queF	CbuG_1864	-	COG2904S	7-cyano-7-deazaguanine reductase
+1794417..1795229	+	270	212213324	-	CbuG_1865	-	COG4582S	hypothetical protein
+1795454..1795600	-	48	212213325	-	CbuG_1866	-	-	hypothetical cytosolic protein
+1795597..1796010	-	137	212213326	mutT	CbuG_1867	-	COG1051F	7,8-dihydro-8-oxoguanine-triphosphatase
+1795989..1798739	-	916	212213327	secA	CbuG_1868	-	COG0653U	preprotein translocase subunit SecA
+1798739..1799083	+	114	212213328	-	CbuG_1869	-	COG4701S	hypothetical protein
+1800607..1800720	+	37	212213329	-	CbuG_1871	-	-	hypothetical protein
+1800971..1801834	+	287	212213330	-	CbuG_1872	-	-	hypothetical protein
+1802006..1802143	-	45	212213331	-	CbuG_1873	-	-	hypothetical protein
+1802443..1803354	-	303	212213332	lpxC	CbuG_1874	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1803514..1804695	-	393	212213333	ftsZ	CbuG_1875	-	COG0206D	cell division protein FtsZ
+1804696..1805937	-	413	212213334	ftsA	CbuG_1876	-	COG0849D	cell division protein
+1806119..1806739	+	206	212213335	-	CbuG_1877	-	COG0288P	carbonic anhydrase
+1806736..1807467	-	243	212213336	ftsQ	CbuG_1878	-	COG1589M	cell division protein
+1807467..1808417	-	316	212213337	murB	CbuG_1879	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+1808410..1809807	-	465	212213338	murC	CbuG_1880	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+1809794..1810870	-	358	212213339	murG	CbuG_1881	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1812471..1813589	-	372	212213340	ftsW	CbuG_1883	-	COG0772D	cell division protein
+1813589..1814917	-	442	212213341	murD	CbuG_1884	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1814914..1815150	-	78	212213342	-	CbuG_1885	-	-	hypothetical protein
+1815269..1816582	-	437	212213343	-	CbuG_1886	-	-	hypothetical protein
+1816650..1816769	-	39	212213344	-	CbuG_1887	-	-	hypothetical protein
+1816941..1818026	-	361	212213345	mraY	CbuG_1888	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1818031..1819371	-	446	212213346	murF	CbuG_1889	-	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1819368..1820837	-	489	212213347	murE	CbuG_1890	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1820888..1821166	-	92	212213348	-	CbuG_1891	-	-	hypothetical membrane-associated protein
+1821178..1821309	+	43	212213349	-	CbuG_1892	-	-	hypothetical protein
+1821407..1822813	+	468	212213350	-	CbuG_1893	-	-	hypothetical protein
+1822818..1824476	-	552	212213351	ftsI	CbuG_1894	-	COG0768M	cell division protein
+1824469..1824816	-	115	212213352	ftsL	CbuG_1895	-	COG3116D	cell division protein
+1824813..1825736	-	307	212213353	mraW	CbuG_1896	-	COG0275M	S-adenosyl-methyltransferase MraW
+1825742..1826224	-	160	212213354	mraZ	CbuG_1897	-	COG2001S	cell division protein MraZ
+1826383..1826865	-	160	212213355	-	CbuG_1898	-	COG1666S	nucleotide-binding protein
+1827018..1827230	+	70	212213356	-	CbuG_1899	-	-	hypothetical protein
+1827266..1828294	-	342	212213357	tdh	CbuG_1900	-	COG1063ER	L-threonine 3-dehydrogenase
+1828336..1829526	-	396	212213358	kbl	CbuG_1901	-	COG0156H	2-amino-3-ketobutyrate coenzyme A ligase
+1829687..1829884	+	65	212213359	-	CbuG_1902	-	-	hypothetical protein
+1830139..1830408	+	89	212213360	-	CbuG_1903	-	-	hypothetical protein
+1830419..1831222	-	267	212213361	metQ	CbuG_1904	-	COG1464P	methionine-binding protein
+1831235..1831837	-	200	212213362	metI	CbuG_1905	-	COG2011P	methionine transport system permease protein
+1831860..1832915	-	351	212213363	metN	CbuG_1906	-	COG1135P	methionine transport ATP-binding protein
+1833221..1833331	-	36	212213364	-	CbuG_1907	-	-	hypothetical protein
+1835110..1836552	+	480	212213365	-	CbuG_1909	-	COG0624E	peptidase, M20A family
+1836587..1836700	+	37	212213366	-	CbuG_1910	-	-	hypothetical protein
+1836821..1838431	+	536	212213367	nadB	CbuG_1911	-	COG0029H	L-aspartate oxidase
+1838385..1838786	-	133	212213368	-	CbuG_1912	-	-	hypothetical protein
+1838788..1839267	-	159	212213369	sixA	CbuG_1913	-	COG2062T	phosphohistidine phosphatase SixA-like protein
+1839258..1839464	-	68	212213370	-	CbuG_1914	-	-	hypothetical protein
+1839756..1839917	-	53	212213371	-	CbuG_1917	-	-	hypothetical protein
+1839932..1840756	-	274	212213372	madC	CbuG_1918	-	COG0157H	nicotinate-nucleotide pyrophosphorylase (carboxylating)
+1840756..1841520	-	254	212213373	ppsC	CbuG_1919	-	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase
+1841590..1841982	+	130	212213374	-	CbuG_1920	-	-	acetyltransferase
+1841982..1843157	+	391	212213375	cls	CbuG_1921	-	COG1502I	cardiolipin synthetase
+1843141..1844109	-	322	212213376	-	CbuG_1922	-	COG0530P	sodium-calcium exchanger
+1844106..1846685	-	859	212213377	clpB	CbuG_1923	-	COG0542O	ClpB
+1846998..1847639	-	213	212213378	queE	CbuG_1924	-	COG0602O	queuosine biosynthesis protein
+1847642..1848559	-	305	212213379	ybgF	CbuG_1925	-	COG1729S	Tol system periplasmic component
+1848546..1849133	-	195	212213380	-	CbuG_1926	-	COG2885M	peptidoglycan-associated lipoprotein
+1849143..1850465	-	440	212213381	tolB	CbuG_1927	-	COG0823U	TolB
+1850704..1851045	-	113	212213382	-	CbuG_1928	-	-	hypothetical protein
+1851172..1851267	-	31	212213383	-	CbuG_1929	-	-	hypothetical protein
+1851281..1852213	-	310	212213384	tolA	CbuG_1930	-	-	TolA
+1852266..1854209	-	647	212213385	-	CbuG_1931	-	COG3083R	phosphoglycerol transferase MdoB and related proteins, alkaline phosphatase superfamily
+1854224..1854982	-	252	212213386	-	CbuG_1932	-	COG3618R	lactonase
+1854993..1855148	-	51	212213387	ecnB	CbuG_1933	-	COG5510S	entericidin A precursor
+1855401..1857317	-	638	212213388	-	CbuG_1934	-	COG3083R	phosphoglycerol transferase MdoB and related proteins, alkaline phosphatase superfamily
+1857452..1857694	-	80	212213389	-	CbuG_1935	-	-	hypothetical protein
+1857691..1859391	-	566	212213390	proS	CbuG_1936	-	COG0442J	prolyl-tRNA synthetase
+1859530..1860417	-	295	212213391	-	CbuG_1937	-	-	hypothetical transcriptional regulatory protein
+1860593..1861384	-	263	212213392	-	CbuG_1938	-	-	hypothetical membrane spanning protein
+1861499..1862737	-	412	212213393	visC	CbuG_1939	-	COG0654HC	monooxygenase
+1862724..1863956	-	410	212213394	ubiH	CbuG_1940	-	COG0654HC	2-polyprenyl-6-methoxyphenol hydroxylase
+1863993..1864175	+	60	212213395	-	CbuG_1941	-	-	hypothetical protein
+1864233..1866056	+	607	212213396	-	CbuG_1942	-	COG0006E	Xaa-Pro aminopeptidase
+1866082..1867176	+	364	212213397	-	CbuG_1943	-	COG3547L	transposase
+1867173..1867481	-	102	212213398	-	CbuG_1944	-	-	hypothetical protein
+1867703..1867942	+	79	212213399	-	CbuG_1945	-	-	hypothetical protein
+1867939..1868262	+	107	212213400	-	CbuG_1946	-	COG3027S	hypothetical protein
+1868471..1869064	+	197	212213401	-	CbuG_1947	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+1869061..1869405	-	114	212213402	-	CbuG_1948	-	-	hypothetical protein
+1869456..1869830	-	124	212213403	-	CbuG_1949	-	COG0607P	rhodanese-related sulfurtransferase
+1870019..1871944	-	641	212213404	parE	CbuG_1950	-	COG0187L	DNA topoisomerase IV subunit B
+1872030..1873337	+	435	212213405	kdtA	CbuG_1951	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+1876611..1876766	-	51	212213406	-	CbuG_1954	-	-	hypothetical protein
+1876852..1876980	-	42	212213407	-	CbuG_1955	-	-	hypothetical cytosolic protein
+1877028..1878878	-	616	212213408	-	CbuG_1956	-	COG1538MU	type I secretion outer membrane protein
+1878990..1879853	-	287	212213409	ubiA	CbuG_1957	-	COG0382H	4-hydroxybenzoate polyprenyltransferase
+1879846..1880403	-	185	212213410	-	CbuG_1958	-	COG3161H	chorismate--pyruvate lyase
+1880473..1881222	-	249	212213411	enhA.5	CbuG_1959	-	COG1376S	enhanced entry protein
+1881331..1881915	+	194	212213412	-	CbuG_1960	-	-	hypothetical protein
+1881940..1882542	+	200	212213413	-	CbuG_1961	-	-	hypothetical cytosolic protein
+1882735..1884045	+	436	212213414	-	CbuG_1962	-	COG3266S	hypothetical protein
+1884081..1885079	+	332	212213415	-	CbuG_1963	-	COG1566V	periplasmic component of efflux system
+1885063..1886001	+	312	212213416	-	CbuG_1964	-	COG1131V	export ABC transporter ATP-binding protein
+1887179..1887739	+	186	212213417	-	CbuG_1966	-	COG2885M	outer membrane protein
+1887836..1888591	-	251	212213418	-	CbuG_1967	-	-	hypothetical protein
+1888701..1889303	-	200	212213419	-	CbuG_1968	-	COG0127F	deoxyribonucleotide triphosphate pyrophosphatase
+1889327..1890391	+	354	212213420	hemH	CbuG_1969	-	COG0276H	ferrochelatase
+1890490..1892622	+	710	212213421	-	CbuG_1970	-	-	hypothetical protein
+1892811..1893422	+	203	212213422	-	CbuG_1971	-	-	hypothetical cytosolic protein
+1894894..1895727	-	277	212213423	hemK	CbuG_1972	-	COG2890J	peptide release factor-glutamine N5-methyltransferase
+1895730..1896815	-	361	212213424	prfA	CbuG_1973	-	COG0216J	peptide chain release factor 1
+1896812..1898107	-	431	212213425	hemA	CbuG_1974	-	COG0373H	glutamyl-tRNA reductase
+1898130..1899359	+	409	212213426	-	CbuG_1975	-	COG2814G	multidrug resistance protein D
+1899337..1899639	-	100	212213427	folB	CbuG_1976	-	COG1539H	dihydroneopterin aldolase
+1899683..1900126	-	147	212213428	dksA	CbuG_1977	-	COG1734T	DnaK suppressor protein
+1900268..1901098	-	276	212213429	dapF	CbuG_1978	-	COG0253E	diaminopimelate epimerase
+1901088..1901246	-	52	212213430	-	CbuG_1979	-	-	hypothetical protein
+1901447..1901668	-	73	212213431	-	CbuG_1980	-	COG2197TK	LuxR family regulatory protein
+1901683..1901838	-	51	212213432	-	CbuG_1981	-	-	hypothetical cytosolic protein
+1901848..1901943	+	31	212213433	-	CbuG_1982	-	-	hypothetical protein
+1901940..1902650	+	236	212213434	-	CbuG_1983	-	COG0400R	carboxylesterase
+1902630..1903289	-	219	212213435	-	CbuG_1984	-	COG1208MJ	mannose-1-phosphate guanyltransferase
+1903295..1904392	-	365	212213437	-	CbuG_1986	-	COG3178R	7.5 kDa chlorosome protein
+1904374..1906986	+	870	212213436	ostA	CbuG_1985	-	COG1452M	organic solvent tolerance protein
+1906992..1907957	+	321	212213438	-	CbuG_1987	-	COG0760O	peptidyl-prolyl cis-trans isomerase
+1907957..1908880	+	307	212213439	pdxA	CbuG_1988	-	COG1995H	4-hydroxythreonine-4-phosphate dehydrogenase
+1909065..1909841	+	258	212213440	ksgA	CbuG_1989	-	COG0030J	dimethyladenosine transferase
+1909954..1910388	+	144	212213441	uspA	CbuG_1990	-	COG0589T	universal stress protein A
+1910557..1910931	+	124	212213442	-	CbuG_1991	-	-	hypothetical protein
+1910976..1911674	+	232	212213443	-	CbuG_1992	-	-	hypothetical protein
+1911738..1912679	+	313	212213444	sppA	CbuG_1993	-	COG0616OU	signal peptide peptidase
+1912692..1913567	+	291	212213445	apaH	CbuG_1994	-	COG0639T	diadenosine tetraphosphatase
+1913716..1913850	+	44	212213446	-	CbuG_1995	-	-	hypothetical protein
+1913840..1913989	-	49	212213448	-	CbuG_1997	-	-	hypothetical protein
+1913951..1915045	+	364	212213447	-	CbuG_1996	-	COG3547L	transposase
+1915042..1915314	-	90	212213449	-	CbuG_1998	-	-	hypothetical protein
+1915455..1915709	+	84	212213450	relB	CbuG_1999	-	COG2161D	RelB
+1915709..1915984	+	91	212213451	-	CbuG_2000	-	COG4115S	hypothetical protein
+1915957..1916442	-	161	212213452	folA	CbuG_2001	-	COG0262H	dihydrofolate reductase
+1916439..1917242	-	267	212213453	-	CbuG_2002	-	COG1636S	hypothetical cytosolic protein
+1917396..1917725	+	109	212213454	-	CbuG_2003	-	COG1254C	acylphosphatase
+1917701..1918255	-	184	212213455	-	CbuG_2004	-	COG0241E	D,D-heptose 1,7-bisphosphate phosphatase
+1918268..1919212	-	314	212213456	fmt	CbuG_2005	-	COG0223J	methionyl-tRNA formyltransferase
+1919400..1920326	+	308	212213457	-	CbuG_2006	-	COG0758LU	DNA processing protein
+1920323..1920802	+	159	212213458	-	CbuG_2007	-	COG2922S	Smg protein
+1920805..1923102	+	765	212213459	topA	CbuG_2008	-	COG0550L	DNA topoisomerase I
+1923109..1923279	-	56	212213460	-	CbuG_2009	-	-	hypothetical protein
+1923310..1923810	+	166	212213461	purE	CbuG_2010	-	COG0041F	phosphoribosylaminoimidazole carboxylase carboxyltransferase subunit
+1923813..1924373	+	186	212213462	-	CbuG_2011	-	COG0009J	Sua5/YciO/YrdC/YwlC family protein
+1924816..1924956	+	46	212213463	-	CbuG_2012	-	-	hypothetical protein
+1925034..1926089	-	351	212213464	-	CbuG_2013	-	COG0859M	ADP-heptose--LPS heptosyltransferase
+1926097..1927374	-	425	212213465	-	CbuG_2014	-	COG0642T	sensor protein
+1927371..1928108	-	245	212213466	-	CbuG_2015	-	COG0745TK	two-component response regulator
+1928157..1929341	-	394	212213467	-	CbuG_2016	-	-	hypothetical protein
+1929487..1931265	+	592	212213468	argS	CbuG_2017	-	COG0018J	arginyl-tRNA synthetase
+1931262..1932596	+	444	212213469	-	CbuG_2018	-	COG5339S	hypothetical protein
+1932593..1932907	+	104	212213470	-	CbuG_2019	-	-	hypothetical protein
+1933098..1933712	+	204	212213471	hslV	CbuG_2020	-	COG5405O	ATP-dependent protease peptidase subunit
+1933737..1935134	+	465	212213472	hslU	CbuG_2021	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+1935088..1936185	-	365	212213473	-	CbuG_2022	-	-	hypothetical protein
+1936293..1936892	+	199	212213474	-	CbuG_2023	-	COG2323S	hypothetical membrane-associated protein
+1936913..1938391	-	492	212213475	-	CbuG_2024	-	COG3104E	di-/tripeptide transporter
+1938573..1939169	+	198	212213476	-	CbuG_2025	-	-	hypothetical cytosolic protein
+1939249..1940001	+	250	212213477	ubiE	CbuG_2026	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+1940001..1940615	+	204	212213478	-	CbuG_2027	-	COG3165S	hypothetical protein
+1940612..1942237	+	541	212213479	ubiB	CbuG_2028	-	COG0661R	2-polyprenylphenol 6-hydroxylase accessory protein
+1942642..1944072	-	476	212213480	-	CbuG_2029	-	COG0531E	glutamate/gamma-aminobutyrate antiporter
+1944134..1944889	-	251	212213481	-	CbuG_2030	-	COG1373R	hypothetical ATPase
+1944871..1945098	-	75	212213482	-	CbuG_2031	-	COG0606O	magnesium chelatase subunit-like ATPase
+1945105..1945350	-	81	212213483	-	CbuG_2032	-	COG2960S	hypothetical protein
+1945428..1946378	+	316	212213484	-	CbuG_2033	-	COG0031E	cystathionine beta-synthase
+1946457..1947620	+	387	212213485	metC	CbuG_2034	-	COG0626E	cystathionine gamma-lyase
+1947780..1947965	-	61	212213486	-	CbuG_2035	-	-	hypothetical protein
+1948116..1948310	-	64	212213487	-	CbuG_2036	-	-	hypothetical protein
+1948359..1948646	-	95	212213488	-	CbuG_2037	-	-	hypothetical protein
+1949686..1950318	-	210	212213489	-	CbuG_2039	-	-	hypothetical protein
+1950456..1951637	+	393	212213490	metK	CbuG_2040	-	COG0192H	S-adenosylmethionine synthetase
+1951639..1952955	+	438	212213491	ahcY	CbuG_2041	-	COG0499H	S-adenosyl-L-homocysteine hydrolase
+1952982..1953980	+	332	212213492	-	CbuG_2042	-	COG2199T	GGDEF family protein
+1954140..1955318	+	392	212213493	-	CbuG_2043	-	-	hypothetical membrane-associated protein
+1955417..1955611	-	64	212213494	-	CbuG_2044	-	-	hypothetical protein
+1960814..1961149	+	111	212213495	-	CbuG_2048	-	COG3829KT	transcriptional regulatory protein
+1961146..1962879	+	577	212213496	-	CbuG_2049	-	COG5001T	sensory box/GGDEF family protein
+1965369..1965512	+	47	212213497	-	CbuG_2051	-	-	hypothetical protein
+1965566..1966438	-	290	212213498	metF	CbuG_2052	-	COG0685E	methylenetetrahydrofolate reductase
+1966456..1968783	-	775	212213499	metE	CbuG_2053	-	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+1968968..1970038	-	356	212213500	trpS	CbuG_2054	-	COG0180J	tryptophanyl-tRNA synthetase
+1971232..1971471	-	79	212213501	-	CbuG_2056	-	-	hypothetical protein
+1971797..1972441	-	214	212213502	-	CbuG_2057	-	-	hypothetical protein
+1972821..1974992	+	723	212213503	uvrD	CbuG_2058	-	COG0210L	DNA-dependent helicase II
+1974989..1975702	+	237	212213504	-	CbuG_2059	-	-	zinc uptake transporter
+1976595..1977605	-	336	212213505	-	CbuG_2061	-	-	hypothetical cytosolic protein
+1977990..1979321	-	443	212213506	-	CbuG_2062	-	COG2223P	proline/betaine transporter
+1981226..1981363	-	45	212213507	-	CbuG_2064	-	-	hypothetical protein
+1982804..1983442	-	212	212213508	-	CbuG_2066	-	COG4764S	hypothetical protein
+1983423..1984244	-	273	212213509	-	CbuG_2067	-	COG0730R	hypothetical membrane spanning protein
+1984256..1985488	-	410	212213510	-	CbuG_2068	-	COG2271G	transporter, MFS superfamily
+1985595..1986935	-	446	212213511	-	CbuG_2069	-	COG2271G	transporter, MFS superfamily
+1987076..1987666	-	196	212213512	tdk	CbuG_2070	-	COG1435F	thymidine kinase
+1987683..1988093	-	136	212213513	-	CbuG_2071	-	COG1605E	chorismate mutase family protein
+1988169..1988651	+	160	212213514	-	CbuG_2072	-	-	hypothetical membrane spanning protein
+1988871..1989368	+	165	212213515	-	CbuG_2073	-	-	hypothetical protein
+1989404..1990306	+	300	212213516	-	CbuG_2074	-	COG0204I	acyltransferase
+1990290..1991213	+	307	212213517	hemC	CbuG_2075	-	COG0181H	porphobilinogen deaminase
+1991213..1991914	+	233	212213518	aroD	CbuG_2076	-	COG0710E	3-dehydroquinate dehydratase
+1991924..1992241	+	105	212213519	-	CbuG_2077	-	COG3323S	hypothetical protein
+1992231..1993037	+	268	212213520	hemD	CbuG_2078	-	COG1587H	uroporphyrinogen-III synthase
+1993183..1994229	-	348	212213521	-	CbuG_2079	-	COG3177S	Fic family protein
+1994540..1994944	+	134	212213522	-	CbuG_2080	-	-	hypothetical protein
+1995025..1995987	+	320	212213523	-	CbuG_2081	-	COG2959H	uroporphyrin-III C-methyltransferase
+1995992..1997170	+	392	212213524	hemY	CbuG_2082	-	COG3071H	HemY
+1997173..1997940	+	255	212213525	-	CbuG_2083	-	COG3698S	hypothetical protein
+1997958..1998692	+	244	212213526	queC	CbuG_2084	-	COG0603R	queuosine biosynthesis protein
+1999167..1999322	+	51	212213528	-	CbuG_2086	-	COG5304S	hypothetical protein
+1999509..2000765	-	418	212213529	rho	CbuG_2087	-	COG1158K	transcription termination factor Rho
+2000941..2001279	-	112	212213530	trxA	CbuG_2088	-	COG3118O	thioredoxin
+2001536..2001673	+	45	212213531	-	CbuG_2089	-	-	hypothetical protein
+2001693..2003045	+	450	212213532	-	CbuG_2090	-	COG0733R	sodium-dependent transporter, SNF family
+2003138..2003719	-	193	212213533	-	CbuG_2091	-	COG0762S	integral membrane protein
+2003716..2004540	-	274	212213534	proC	CbuG_2092	-	COG0345E	pyrroline-5-carboxylate reductase
+2004537..2005223	-	228	212213535	-	CbuG_2093	-	COG0325R	hypothetical cytosolic protein
+2005213..2006766	-	517	212213536	pckA	CbuG_2094	-	COG1866C	phosphoenolpyruvate carboxykinase
+2006861..2007445	+	194	212213537	algH	CbuG_2095	-	COG1678K	transcriptional regulator
+2007438..2007863	+	141	212213538	-	CbuG_2096	-	COG0816L	Holliday junction resolvase-like protein
+2007856..2008788	+	310	212213539	pyrB	CbuG_2097	-	COG0540F	aspartate carbamoyltransferase catalytic subunit

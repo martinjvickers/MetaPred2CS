@@ -1,0 +1,1841 @@
+Campylobacter jejuni RM1221, complete genome - 1..1777831
+1838 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1323	+	440	57236915	dnaA	CJE0001	-	COG0593L	chromosomal replication initiation protein
+1483..2550	+	355	57236916	dnaN	CJE0002	-	COG0592L	DNA polymerase III subunit beta
+2579..4888	+	769	57236917	gyrB	CJE0003	-	COG0187L	DNA gyrase subunit B
+4914..5255	-	113	57236918	-	CJE0004	-	-	hypothetical protein
+5258..6496	-	412	57236919	-	CJE0005	-	COG2041R	molybdopterin oxidoreductase
+6707..8008	+	433	57236920	-	CJE0006	-	COG2056R	Na+/H+ antiporter family protein
+8142..12632	+	1496	57236921	gltB	CJE0007	-	COG0069E	glutamate synthase large subunit
+12642..14087	+	481	57236922	gltD	CJE0008	-	COG0493ER	glutamate synthase subunit beta
+14088..14663	-	191	57236923	rnhB	CJE0009	-	COG0164L	ribonuclease HII
+14696..14935	-	79	57236924	comEA	CJE0010	-	COG1555L	competence protein ComEA
+15000..15551	-	183	57236925	rbr	CJE0011	-	COG1592C	rubrerythrin
+15807..17483	+	558	57236926	ilvD	CJE0012	-	COG0129EG	dihydroxy-acid dehydratase
+17983..19209	-	408	57236927	-	CJE0015	-	COG4940U	hypothetical protein
+19287..19961	+	224	57236928	-	CJE0016	-	COG0603R	ExsB
+19982..21508	-	508	57236929	-	CJE0017	-	COG1495O	DsbB family disulfide bond formation protein
+21520..21687	-	55	57236930	-	CJE0018	-	-	hypothetical protein
+21793..23574	-	593	57236931	-	CJE0019	-	COG0840NT	methyl-accepting chemotaxis protein
+23564..24478	-	304	57236932	ccpA-1	CJE0020	-	COG1858P	cytochrome C551 peroxidase
+24542..25420	-	292	57236933	-	CJE0021	-	COG0179Q	fumarylacetoacetate hydrolase
+25533..26435	-	300	57236934	-	CJE0022	-	COG0564J	RNA pseudouridylate synthase
+26513..27841	+	442	57236935	purB-1	CJE0023	-	COG0015F	adenylosuccinate lyase
+27857..30226	+	789	57236936	nrdA	CJE0024	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+30265..31650	-	461	57236937	-	CJE0025	-	COG1823R	sodium/dicarboxylate symporter
+31770..32393	-	207	57236938	thyX	CJE0026	-	COG1351F	FAD-dependent thymidylate synthase
+32513..34144	+	543	57236939	pyrG	CJE0027	-	COG0504F	CTP synthetase
+34131..35702	+	523	57236940	recJ	CJE0028	-	COG0608L	single-stranded-DNA-specific exonuclease RecJ
+35798..36793	+	331	57236941	ansA	CJE0029	-	COG0252EJ	L-asparaginase
+43241..44638	+	465	57237045	-	CJE0030	-	-	hypothetical protein
+44699..48472	+	1257	57237046	-	CJE0031	-	COG1002V	type II restriction-modification enzyme
+48472..50928	+	818	57237047	-	CJE0032	-	-	hypothetical protein
+50958..51659	-	233	57237048	-	CJE0033	-	COG2859S	hypothetical protein
+51656..52858	-	400	57237049	-	CJE0034	-	COG2814G	Bcr/CflA subfamily drug resistance transporter
+52961..54310	+	449	57237050	-	CJE0035	-	COG4487S	hypothetical protein
+54334..55377	-	347	57237051	-	CJE0036	-	COG3258C	cytochrome C family protein
+55555..56202	-	215	57237052	-	CJE0037	-	-	hypothetical protein
+56202..58010	-	602	57237053	typA	CJE0038	-	COG1217T	GTP-binding protein TypA
+58145..58468	+	107	57237054	-	CJE0039	-	-	hypothetical protein
+58487..60277	+	596	57237055	-	CJE0040	-	-	hypothetical protein
+60330..61214	+	294	57237056	flgD	CJE0041	-	COG1843N	flagellar basal body rod modification protein
+61218..62855	+	545	57237057	flgE-1	CJE0042	-	COG1749N	flagellar hook protein
+62859..64730	-	623	57237058	-	CJE0043	-	-	hypothetical protein
+64687..65451	-	254	57237059	-	CJE0044	-	COG2703P	hypothetical protein
+65697..65789	+	30	57237060	-	CJE0045	-	-	hypothetical protein
+67407..68423	-	338	57237061	mnmA	CJE0048	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+68423..69028	-	201	57237062	-	CJE0049	-	COG1611R	lysine decarboxylase
+69149..69307	-	52	57237063	-	CJE0050	-	-	hypothetical protein
+69304..70296	-	330	57237064	-	CJE0051	-	-	hypothetical protein
+70366..70638	-	90	57237065	-	CJE0052	-	-	hypothetical protein
+70677..70880	-	67	57237066	-	CJE0053	-	-	hypothetical protein
+71013..71867	+	284	57237067	-	CJE0054	-	-	HmcD domain-containing protein
+71852..72448	+	198	57237068	-	CJE0055	-	COG3271R	peptidase
+72497..73318	-	273	57237069	fliY	CJE0056	-	COG1776NT	flagellar motor switch protein FliY
+73336..74415	-	359	57237070	fliM	CJE0057	-	COG1868N	flagellar motor switch protein FliM
+74415..75107	-	230	57237071	fliA	CJE0058	-	COG1191K	flagellar biosynthesis sigma factor
+75088..75444	-	118	57237072	-	CJE0059	-	-	hypothetical protein
+75463..76329	-	288	57237073	-	CJE0060	-	COG0455D	ParaA family ATPase
+76322..77776	-	484	57237074	flhF	CJE0061	-	COG1419N	flagellar biosynthesis regulator FlhF
+77786..78259	-	157	57237075	folK	CJE0062	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+78262..78741	-	159	57237076	aroQ	CJE0063	-	COG0757E	3-dehydroquinate dehydratase
+78832..80061	+	409	57237077	-	CJE0064	-	COG0402FR	chlorohydrolase
+80049..80945	+	298	57237078	sppA	CJE0065	-	COG0616OU	signal peptide peptidase SppA, 36K type
+81097..82053	+	318	57237079	-	CJE0066	-	COG0189HJ	hypothetical protein
+82050..82208	-	52	57237080	-	CJE0067	-	-	hypothetical protein
+83090..83746	-	218	57237081	-	CJE0069	-	COG1556S	hypothetical protein
+83739..85178	-	479	57237082	-	CJE0070	-	COG1139C	iron-sulfur cluster binding protein
+85175..85915	-	246	57237083	-	CJE0071	-	COG0247C	hypothetical protein
+86025..87722	-	565	57237084	lctP	CJE0072	-	COG1620C	L-lactate permease
+87894..88463	-	189	57237085	cdtC	CJE0073	-	-	cytolethal distending toxin, subunit C
+88474..89271	-	265	57237086	cdtB	CJE0074	-	-	cytolethal distending toxin, subunit B
+89268..90074	-	268	57237087	cdtA	CJE0075	-	-	cytolethal distending toxin, subunit A
+90151..90420	+	89	57237088	-	CJE0076	-	-	hypothetical protein
+90421..91983	+	520	57237089	cydA	CJE0077	-	COG1271C	cytochrome d ubiquinol oxidase, subunit I
+91983..93107	+	374	57237090	cydB	CJE0078	-	COG1294C	cytochrome d ubiquinol oxidase, subunit II
+93117..93221	+	34	57237091	-	CJE0079	-	-	hypothetical protein
+93301..93996	-	231	57237092	-	CJE0080	-	COG1794M	aspartate racemase
+94116..94811	-	231	57237093	ung	CJE0081	-	COG0692L	uracil-DNA glycosylase
+95082..96488	+	468	57237094	aspA	CJE0082	-	COG1027E	aspartate ammonia-lyase
+96514..97842	+	442	57237095	dcuA	CJE0083	-	COG2704R	anaerobic C4-dicarboxylate transporter
+97948..99309	+	453	57237096	-	CJE0084	-	COG3014S	lipoprotein
+99319..99687	+	122	57237097	-	CJE0085	-	COG5633R	lipoprotein
+99711..100334	+	207	57237098	-	CJE0086	-	COG3417R	lipoprotein
+100417..101754	+	445	57237099	-	CJE0087	-	-	hypothetical protein
+101764..102966	+	400	57237100	-	CJE0088	-	COG1462M	hypothetical protein
+103125..103433	+	102	57237101	rplU	CJE0089	-	COG0261J	50S ribosomal protein L21
+103444..103698	+	84	57237102	rpmA	CJE0090	-	COG0211J	50S ribosomal protein L27
+103805..104857	+	350	57237103	obgE	CJE0091	-	COG0536R	GTPase ObgE
+104962..105717	+	251	57237104	proB	CJE0092	-	COG0263E	gamma-glutamyl kinase
+105791..106708	+	305	57237105	fmt	CJE0093	-	COG0223J	methionyl-tRNA formyltransferase
+106671..107324	+	217	57237106	-	CJE0094	-	COG0340H	biotin--protein ligase
+107321..108106	+	261	57237107	-	CJE0095	-	COG1192D	ParA family chromosome partitioning ATPase
+108112..108948	+	278	57237108	-	CJE0096	-	COG1475K	ParB family chromosome partitioning protein
+109009..109434	+	141	57237109	-	CJE0097	-	COG0711C	F0F1 ATP synthase subunit B'
+109445..109957	+	170	57237110	-	CJE0098	-	COG0711C	F0F1 ATP synthase subunit B
+109960..110481	+	173	57237111	atpH	CJE0099	-	COG0712C	F0F1 ATP synthase subunit delta
+110495..112000	+	501	57237112	atpA	CJE0100	-	COG0056C	F0F1 ATP synthase subunit alpha
+112009..112893	+	294	57237113	atpG	CJE0101	-	COG0224C	F0F1 ATP synthase subunit gamma
+112919..114316	+	465	57237114	atpD	CJE0102	-	COG0055C	F0F1 ATP synthase subunit beta
+114320..114709	+	129	57237115	atpC	CJE0103	-	COG0355C	F0F1 ATP synthase subunit epsilon
+114709..115263	+	184	57237116	-	CJE0104	-	COG0811U	MotA/TolQ/ExbB proton channel family protein
+115272..115661	+	129	57237117	-	CJE0105	-	COG0848U	TonB system transport protein ExbD
+115664..116443	+	259	57237118	-	CJE0106	-	-	TonB domain-containing protein
+116453..117661	+	402	57237119	tolB	CJE0107	-	COG0823U	translocation protein TolB
+117738..118235	+	165	57237120	-	CJE0108	-	COG2885M	peptidoglycan-associated lipoprotein Omp18
+118239..119186	+	315	57237121	-	CJE0109	-	COG1729S	hypothetical protein
+119201..119770	+	189	57237122	slyD	CJE0110	-	COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+119770..120690	+	306	57237123	fabD	CJE0111	-	COG0331I	malonyl CoA-ACP transacylase
+120687..121376	+	229	57237124	mtnA	CJE0112	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+121373..122128	+	251	57237125	-	CJE0113	-	COG0037D	PP-loop family protein
+122133..122654	+	173	57237126	-	CJE0114	-	COG1335Q	pyrazinamidase/nicotinamidase
+122654..123268	+	204	57237127	-	CJE0115	-	-	recombination protein RecO
+123265..123672	+	135	57237128	-	CJE0116	-	COG0319R	metalloprotease
+123796..124485	+	229	57237129	-	CJE0117	-	-	hypothetical protein
+124510..125436	-	308	57237130	dusB	CJE0118	-	COG0042J	tRNA-dihydrouridine synthase B
+125433..126419	-	328	57237131	-	CJE0119	-	-	hypothetical protein
+126409..126771	-	120	57237132	-	CJE0120	-	COG1734T	dnaK suppressor protein
+126783..127244	-	153	57237133	-	CJE0121	-	COG1576S	hypothetical protein
+127234..128076	-	280	57237134	accD	CJE0122	-	COG0777I	acetyl-CoA carboxylase subunit beta
+128085..128807	-	240	57237135	-	CJE0123	-	COG0483G	inositol monophosphatase
+128807..131026	-	739	57237136	-	CJE0124	-	COG4775M	OMP85 family outer membrane protein
+131103..131930	+	275	57237137	tyrA	CJE0125	-	COG0287E	prephenate dehydrogenase
+132010..133383	+	457	57237138	-	CJE0126	-	COG0739M	M24/M37 family peptidase
+133383..134267	+	294	57237139	lpxC	CJE0127	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+134306..134707	+	133	57237140	-	CJE0128	-	COG1214O	hypothetical protein
+134716..135594	+	292	57237141	thrB	CJE0129	-	COG0083E	homoserine kinase
+135619..135876	+	85	57237142	-	CJE0130	-	COG2740K	hypothetical protein
+135863..138478	+	871	57237143	infB	CJE0131	-	COG0532J	translation initiation factor IF-2
+138475..138837	+	120	57237144	rbfA	CJE0132	-	COG0858J	ribosome-binding factor A
+138827..139249	+	140	57237145	-	CJE0133	-	COG0779S	hypothetical protein
+139354..141342	+	662	57237146	-	CJE0134	-	COG1401V	McrBC restriction endonuclease system, McrB subunit
+141335..142666	+	443	57237147	-	CJE0135	-	COG4268V	hypothetical protein
+142655..143458	-	267	57237148	-	CJE0136	-	COG1108P	cation ABC transporter permease
+143451..144305	-	284	57237149	-	CJE0137	-	COG1121P	cation ABC transporter ATP-binding protein
+144318..145208	-	296	57237150	-	CJE0138	-	COG0803P	cation ABC transporter periplasmic cation-binding protein
+145477..145806	+	109	57237151	-	CJE0139	-	-	hypothetical protein
+145824..147446	+	540	57237152	-	CJE0140	-	COG0840NT	methyl-accepting chemotaxis protein
+147581..149362	+	593	57237153	-	CJE0141	-	COG3211R	hypothetical protein
+149400..150338	-	312	57237154	trxB	CJE0142	-	COG0492O	thioredoxin-disulfide reductase
+150472..150786	-	104	57237155	trx	CJE0143	-	COG3118O	thioredoxin
+150843..151181	-	112	57237156	-	CJE0144	-	COG0792L	hypothetical protein
+151181..152428	-	415	57237157	hom	CJE0145	-	COG0460E	homoserine dehydrogenase
+152432..153634	-	400	57237158	-	CJE0146	-	COG0436E	aspartate aminotransferase
+153646..154452	-	268	57237159	-	CJE0147	-	-	hypothetical protein
+154446..155384	-	312	57237160	-	CJE0148	-	-	hypothetical protein
+155377..156060	-	227	57237161	-	CJE0149	-	COG0566J	RNA methyltransferase
+156074..156898	-	274	57237162	-	CJE0150	-	COG0313R	tetrapyrrole methylase
+156901..157101	-	66	57237163	rpmE	CJE0151	-	COG0254J	50S ribosomal protein L31
+157180..157836	-	218	57237164	-	CJE0152	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+157838..158245	-	135	57237165	-	CJE0153	-	-	hypothetical protein
+158245..158670	-	141	57237166	-	CJE0154	-	COG2863C	cytochrome C family protein
+158670..159251	-	193	57237167	-	CJE0155	-	COG0720H	6-pyruvoyl tetrahydrobiopterin synthase-like protein
+159248..159991	-	247	57237168	-	CJE0156	-	COG0602O	radical SAM domain-containing protein
+159994..160956	-	320	57237169	moaA	CJE0157	-	COG2896H	molybdenum cofactor biosynthesis protein A
+160969..161484	-	171	57237170	-	CJE0158	-	-	hypothetical protein
+161481..161978	-	165	57237171	-	CJE0159	-	-	hypothetical protein
+161969..162853	-	294	57237172	ubiA	CJE0160	-	COG0382H	prenyltransferase
+162924..163793	+	289	57237173	miaA	CJE0161	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+163779..164342	-	187	57237174	-	CJE0162	-	COG1971S	hypothetical protein
+164700..164882	-	60	57237175	-	CJE0163	-	-	hypothetical protein
+165146..165808	+	220	57237176	sodB	CJE0164	-	COG0605P	superoxide dismutase, Fe
+165836..167041	-	401	57237177	-	CJE0165	-	COG1748E	saccharopine dehydrogenase
+167083..167991	-	302	57237178	-	CJE0166	-	COG3842E	iron ABC transporter ATP binding subunit
+167975..169591	-	538	57237179	-	CJE0167	-	COG1178P	iron ABC transporter permease
+169591..170595	-	334	57237180	-	CJE0168	-	COG1840P	iron ABC transporter periplasmic iron-binding protein
+170606..170815	-	69	57237181	-	CJE0169	-	-	hypothetical protein
+170945..171796	+	283	57237182	-	CJE0170	-	COG3016S	TonB-dependent colicin lipoprotein
+171793..174060	+	755	57237183	-	CJE0171	-	COG1629P	TonB-dependent colicin receptor protein
+174072..174833	+	253	57237184	exbB-1	CJE0172	-	COG0811U	TonB system transport protein ExbB
+174820..175230	+	136	57237185	-	CJE0173	-	COG0848U	biopolymer ExbD/TolR family transporter
+175232..175978	+	248	57237186	-	CJE0174	-	COG0810M	TonB-dependent colicin receptor protein
+176030..177229	+	399	57237187	-	CJE0175	-	COG1133I	transporter
+177400..178686	+	428	57237188	-	CJE0176	-	COG1253R	transporter
+178700..179884	-	394	57237189	-	CJE0177	-	COG4639R	Ser/Thr protein phosphatase
+179894..180103	-	69	57237190	-	CJE0178	-	COG2824P	PhnA domain-containing protein
+180096..180815	-	239	57237191	-	CJE0179	-	COG0861P	TerC family integral membrane protein
+180887..181453	-	188	57237192	purN	CJE0180	-	COG0299F	phosphoribosylglycinamide formyltransferase
+181444..182814	-	456	57237193	-	CJE0181	-	COG0063G	hypothetical protein
+182798..183496	-	232	57237194	-	CJE0182	-	COG1432S	hypothetical protein
+183498..185003	-	501	57237195	-	CJE0183	-	COG0606O	Mg chelatase-related protein
+185000..185527	-	175	57237196	def	CJE0184	-	COG0242J	peptide deformylase
+185563..186147	-	194	57237197	clpP	CJE0185	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+186147..187481	-	444	57237198	tig	CJE0186	-	COG0544O	trigger factor
+187625..188197	+	190	57237199	folE	CJE0187	-	COG0302H	GTP cyclohydrolase I
+188197..189582	+	461	57237200	fliI	CJE0188	-	COG1157NU	flagellum-specific ATP synthase
+189585..190922	-	445	57237201	purF	CJE0189	-	COG0034F	amidophosphoribosyltransferase
+190924..191652	-	242	57237202	dapB	CJE0190	-	COG0289E	dihydrodipicolinate reductase
+191715..192896	-	393	57237203	-	CJE0191	-	COG2256L	recombination factor protein RarA
+192896..194023	-	375	57237204	-	CJE0192	-	-	hypothetical protein
+194157..194504	-	115	57237205	-	CJE0193	-	-	hypothetical protein
+194603..195208	-	201	57237206	-	CJE0194	-	-	hypothetical protein
+195177..195500	-	107	57237207	-	CJE0195	-	-	hypothetical protein
+197273..199267	+	664	57237208	-	CJE0197	-	COG1297S	OPT family oligopeptide transporter
+199341..200144	+	267	57237209	-	CJE0198	-	COG1968V	undecaprenol kinase
+200275..202083	+	602	57237210	thrS	CJE0199	-	COG0441J	threonyl-tRNA synthetase
+202080..202598	+	172	57237211	infC	CJE0200	-	COG0290J	translation initiation factor IF-3
+202637..203728	+	363	57237212	-	CJE0201	-	COG3392L	D12 class N6 adenine-specific DNA methyltransferase
+203768..203869	+	33	57237213	-	CJE0202	-	-	hypothetical protein
+203805..203918	+	37	57237214	-	CJE0203	-	-	hypothetical protein
+203958..204083	+	41	57237215	-	CJE0204	-	-	hypothetical protein
+204203..204649	+	148	57237216	-	CJE0205	-	-	hypothetical protein
+204813..205043	+	76	57237217	-	CJE0206	-	-	hypothetical protein
+205106..205345	+	79	57237218	-	CJE0207	-	-	hypothetical protein
+205424..205606	+	60	57237219	-	CJE0208	-	-	hypothetical protein
+205700..205882	-	60	57237220	-	CJE0209	-	-	hypothetical protein
+205926..206042	+	38	57237221	-	CJE0210	-	-	hypothetical protein
+206043..206246	+	67	57237222	-	CJE0211	-	-	pathogenicity domain-containing protein
+206505..206687	+	60	57237223	-	CJE0212	-	-	pathogenicity protein,-like protein
+207115..207315	-	66	57237224	-	CJE0213	-	-	hypothetical protein
+207469..207564	+	31	57237225	-	CJE0214	-	-	hypothetical protein
+207610..208239	+	209	57237226	-	CJE0215	-	COG2932K	phage repressor protein
+208320..208640	+	106	57237227	-	CJE0216	-	-	hypothetical protein
+208650..208844	+	64	57237228	-	CJE0217	-	-	hypothetical protein
+208876..208992	-	38	57237229	-	CJE0218	-	-	hypothetical protein
+209029..209211	+	60	57237230	-	CJE0219	-	-	hypothetical protein
+209239..210054	-	271	57237231	dam	CJE0220	-	COG0338L	DNA adenine methylase
+210256..210744	-	162	57237232	-	CJE0221	-	-	phage virion morphogenesis protein
+210748..212964	-	738	57237233	-	CJE0222	-	COG5283S	TP901 family tail tape measure protein
+212985..213311	+	108	57237234	-	CJE0223	-	-	hypothetical protein
+213298..213396	-	32	57237235	-	CJE0224	-	-	hypothetical protein
+213423..213662	-	79	57237236	-	CJE0225	-	-	hypothetical protein
+213815..214324	-	169	57237237	-	CJE0226	-	COG3498R	phage major tail tube protein
+214351..215544	-	397	57237238	-	CJE0227	-	COG3497R	major tail sheath protein
+215555..216568	-	337	57237239	-	CJE0228	-	-	hypothetical protein
+216668..217039	-	123	57237240	-	CJE0229	-	-	hypothetical protein
+217036..217542	-	168	57237241	-	CJE0230	-	-	hypothetical protein
+217552..218631	-	359	57237242	-	CJE0231	-	COG5301R	tail fiber protein H
+218631..219251	-	206	57237243	-	CJE0232	-	COG4385R	phage tail protein
+219248..220414	-	388	57237244	-	CJE0233	-	COG3948R	baseplate assembly protein J
+220411..220692	-	93	57237245	-	CJE0234	-	COG3628R	baseplate assembly protein W
+220698..220889	-	63	57237246	-	CJE0235	-	-	hypothetical protein
+220898..221530	-	210	57237247	-	CJE0236	-	COG4540R	baseplate assembly protein V
+221530..221844	-	104	57237248	-	CJE0237	-	-	hypothetical protein
+221847..221969	-	40	57237249	-	CJE0238	-	-	hypothetical protein
+221956..222192	-	78	57237250	-	CJE0239	-	-	lipoprotein
+222201..222542	-	113	57237251	-	CJE0240	-	-	hypothetical protein
+222553..222942	-	129	57237252	-	CJE0241	-	COG3108S	hypothetical protein
+223009..223182	-	57	57238717	-	CJE0242	-	-	hypothetical protein
+223091..223525	+	144	57237253	-	CJE0243	-	-	hypothetical protein
+223527..224342	+	271	57237254	-	CJE0244	-	COG4388R	Mu-like prophage I protein
+224507..224872	+	121	57237255	-	CJE0245	-	-	hypothetical protein
+224875..225852	+	325	57237256	-	CJE0246	-	-	hypothetical protein
+226028..226426	+	132	57237257	-	CJE0247	-	-	hypothetical protein
+226419..227018	+	199	57237258	-	CJE0248	-	-	hypothetical protein
+227105..228688	+	527	57237259	-	CJE0249	-	COG5362R	phage uncharacterized protein
+228698..230068	+	456	57237260	-	CJE0250	-	COG4383S	hypothetical protein
+230070..231308	+	412	57237261	-	CJE0251	-	COG2369S	prophage MuSo1, F protein
+231434..231808	+	124	57237262	-	CJE0252	-	COG3499R	phage tail protein
+231801..231992	+	63	57237263	-	CJE0253	-	-	tail protein X
+231986..232963	+	325	57237264	-	CJE0254	-	COG3500R	tail protein D
+232960..233244	-	94	57237265	-	CJE0255	-	-	DNA-binding protein
+233338..234009	+	223	57237266	dns	CJE0256	-	COG2356L	extracellular deoxyribonuclease
+234001..234276	-	91	57237267	-	CJE0257	-	-	hypothetical protein
+234323..234772	-	149	57237268	-	CJE0258	-	-	hypothetical protein
+234769..235461	-	230	57237269	-	CJE0259	-	-	hypothetical protein
+235461..235730	-	89	57237270	-	CJE0260	-	-	hypothetical protein
+235727..236689	-	320	57237271	-	CJE0261	-	-	hypothetical protein
+236798..237184	-	128	57237272	-	CJE0262	-	-	hypothetical protein
+237181..237453	-	90	57237273	-	CJE0263	-	-	hypothetical protein
+237517..237696	-	59	57237274	-	CJE0264	-	-	hypothetical protein
+237693..238178	-	161	57237275	-	CJE0265	-	COG4396R	host-nuclease inhibitor protein Gam
+238285..238626	-	113	57237276	-	CJE0266	-	-	hypothetical protein
+238722..238907	-	61	57237277	-	CJE0267	-	-	hypothetical protein
+238891..239094	-	67	57237278	-	CJE0268	-	-	hypothetical protein
+239097..240020	-	307	57237279	-	CJE0269	-	COG2842R	bacteriophage DNA transposition protein B
+240090..242162	-	690	57237280	-	CJE0270	-	-	bacteriophage DNA transposition protein A
+242162..242362	-	66	57237281	-	CJE0271	-	-	hypothetical protein
+242507..243139	+	210	57237282	-	CJE0272	-	COG2932K	transcriptional regulator
+243155..244132	+	325	57237283	-	CJE0273	-	-	hypothetical protein
+244537..245565	+	342	57237284	argC	CJE0275	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+245575..246021	+	148	57237285	-	CJE0276	-	COG0456R	acetyltransferase
+246031..246870	+	279	57237286	argB	CJE0277	-	COG0548E	acetylglutamate kinase
+246880..248061	+	393	57237287	argD	CJE0278	-	COG4992E	acetylornithine aminotransferase
+248081..248710	-	209	57237288	pcm	CJE0279	-	COG2518O	protein-L-isoaspartate O-methyltransferase
+248799..249347	+	182	57237289	-	CJE0280	-	COG0663R	hypothetical protein
+249316..250686	-	456	57237290	-	CJE0281	-	COG1488H	nicotinate phosphoribosyltransferase
+250676..251698	-	340	57237291	nrdF	CJE0282	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+251701..252123	-	140	57237292	-	CJE0283	-	-	hypothetical protein
+252124..252732	-	202	57237293	pyrE	CJE0284	-	COG0461F	orotate phosphoribosyltransferase
+252735..253292	-	185	57237294	frr	CJE0285	-	COG0233J	ribosome recycling factor
+253308..253679	-	123	57237295	secG	CJE0286	-	COG1314U	preprotein translocase subunit SecG
+253783..254478	-	231	57237296	-	CJE0287	-	COG0670R	hypothetical protein
+254639..255274	+	211	57237297	cynT	CJE0288	-	COG0288P	carbonic anhydrase
+255271..257154	+	627	57237298	-	CJE0289	-	COG0668M	mechanosensitive ion channel family protein
+257177..258148	-	323	57237299	-	CJE0290	-	COG0822C	NifU family protein
+258158..259339	-	393	57237300	-	CJE0291	-	COG1104E	cysteine desulfurase
+260051..261217	-	388	57237301	-	CJE0293	-	-	hypothetical protein
+261376..261567	+	63	57237302	rpmI	CJE0294	-	COG0291J	50S ribosomal protein L35
+261661..262014	+	117	57237303	rplT	CJE0295	-	COG0292J	50S ribosomal protein L20
+262073..262555	-	160	57237304	-	CJE0296	-	-	hypothetical protein
+263633..264490	+	285	57237305	-	CJE0298	-	COG1639T	hypothetical protein
+264521..264997	+	158	57237306	-	CJE0299	-	-	hypothetical protein
+264966..266276	-	436	57237307	-	CJE0300	-	COG2814G	major facilitator superfamily protein
+266260..266436	-	58	57237308	-	CJE0301	-	-	hypothetical protein
+266529..267002	+	157	57237309	moaC	CJE0302	-	COG0315H	molybdenum cofactor biosynthesis protein MoaC
+266980..267243	+	87	57237310	-	CJE0303	-	-	hypothetical protein
+267257..268393	+	378	57237311	-	CJE0304	-	-	hypothetical protein
+268412..269191	-	259	57237312	xth	CJE0305	-	COG0708L	exodeoxyribonuclease III
+269288..270826	+	512	57237313	-	CJE0306	-	COG2194R	sulfatase
+270823..271179	+	118	57237314	dgkA	CJE0307	-	COG0818M	diacylglycerol kinase
+271176..271403	+	75	57237315	-	CJE0308	-	-	hypothetical protein
+271412..272407	+	331	57237316	pyrC	CJE0309	-	COG0418F	dihydroorotase
+272329..275679	+	1116	57237317	-	CJE0310	-	COG4889R	D12 class N6 adenine-specific DNA methyltransferase
+275685..276398	-	237	57237318	-	CJE0311	-	COG2226H	hypothetical protein
+276479..278467	-	662	57237319	-	CJE0312	-	COG0840NT	methyl-accepting chemotaxis protein
+278663..279538	+	291	57237320	-	CJE0313	-	COG0428P	zinc transporter ZupT
+279637..281616	-	659	57237321	-	CJE0314	-	COG0840NT	methyl-accepting chemotaxis protein
+281817..282326	-	169	57237322	-	CJE0315	-	-	hypothetical protein
+282326..282835	-	169	57237323	-	CJE0316	-	-	hypothetical protein
+282869..283957	-	362	57237324	-	CJE0317	-	COG0330O	SPFH domain-containing protein
+283970..284884	-	304	57237325	ilvE	CJE0318	-	COG0115EH	branched-chain amino acid aminotransferase
+285060..285266	+	68	57237326	-	CJE0319	-	COG1942R	4-oxalocrotonate tautomerase
+285263..285718	+	151	57237327	-	CJE0320	-	COG1225O	anti-oxidant AhpCTSA family protein
+285718..286809	+	363	57237328	-	CJE0321	-	COG1636S	hypothetical protein
+286903..287343	+	146	57237329	fabZ	CJE0322	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+287343..288134	+	263	57237330	lpxA	CJE0323	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+288127..289350	+	407	57237331	clpX	CJE0324	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+289361..290401	+	346	57237332	mreB	CJE0325	-	COG1077D	rod shape-determining protein MreB
+290391..291140	+	249	57237333	-	CJE0326	-	COG1792M	rod shape-determining protein MreC
+291401..294670	+	1089	57237334	carB	CJE0327	-	COG0458EF	carbamoyl phosphate synthase large subunit
+294667..295089	+	140	57237335	-	CJE0328	-	COG0009J	hypothetical protein
+295090..296067	-	325	57237336	tal	CJE0329	-	COG0176G	transaldolase
+296067..296690	-	207	57237337	serB	CJE0330	-	COG0560E	phosphoserine phosphatase SerB
+296690..297211	-	173	57237338	cheW	CJE0331	-	COG0835NT	chemotaxis protein CheW
+297216..299525	-	769	57237339	cheA	CJE0332	-	COG0643NT	chemotaxis protein CheA
+299529..300485	-	318	57237340	cheV	CJE0333	-	COG0835NT	chemotaxis protein CheV
+300478..301113	-	211	57237341	-	CJE0334	-	COG2908S	hypothetical protein
+301246..301731	-	161	57237342	greA	CJE0335	-	COG0782K	transcription elongation factor GreA
+301743..302837	-	364	57237343	lpxB	CJE0336	-	COG0763M	lipid-A-disaccharide synthase
+302934..303686	-	250	57237344	-	CJE0337	-	COG4588R	major antigenic peptide PEB3
+305377..306153	+	258	57237345	surE	CJE0339	-	COG0496R	stationary phase survival protein SurE
+306146..306796	+	216	57237346	-	CJE0340	-	COG1179H	thiF family protein
+306871..307251	-	126	57237347	panD	CJE0341	-	COG0853H	aspartate alpha-decarboxylase
+307248..308096	-	282	57237348	panC	CJE0342	-	COG0414H	pantoate--beta-alanine ligase
+308107..308931	-	274	57237349	panB	CJE0343	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+309148..309909	+	253	57237350	-	CJE0344	-	COG2602V	beta-lactamase
+310007..310891	-	294	57237351	modC	CJE0345	-	COG1118P	molybdenum ABC transporter ATP-binding protein
+310901..311569	-	222	57237352	modB	CJE0346	-	COG4149P	molybdenum ABC transporter permease
+311562..311963	-	133	57237353	-	CJE0347	-	-	TOBE domain-containing protein
+311960..312709	-	249	57237354	modA	CJE0348	-	COG0725P	molybdenum ABC transporter periplasmic molybdenum-binding protein
+312763..313449	-	228	57237355	-	CJE0349	-	COG4106R	biotin biosynthesis protein BioC
+313446..314057	-	203	57237356	-	CJE0350	-	COG2830S	hypothetical protein
+314054..315196	-	380	57237357	bioF	CJE0351	-	COG0156H	8-amino-7-oxononanoate synthase
+315263..316546	+	427	57237358	bioA	CJE0352	-	COG0161H	adenosylmethionine--8-amino-7-oxononanoate transaminase
+316533..317138	-	201	57237359	bioD	CJE0353	-	COG0132H	dethiobiotin synthetase
+317148..317462	-	104	57237360	-	CJE0354	-	COG2076P	SMR family multidrug efflux pump
+317465..317803	-	112	57237361	-	CJE0355	-	COG2076P	SMR family multidrug efflux pump
+317935..318471	+	178	57237362	rplY	CJE0356	-	COG1825J	50S ribosomal protein L25/general stress protein Ctc
+318468..319013	+	181	57237363	pth	CJE0357	-	COG0193J	peptidyl-tRNA hydrolase
+319015..320073	+	352	57237364	-	CJE0358	-	COG0795R	hypothetical protein
+320117..321325	+	402	57237365	lysA	CJE0359	-	COG0019E	diaminopimelate decarboxylase
+321327..322094	+	255	57237366	-	CJE0360	-	COG0647G	HAD family hydrolase
+322082..323155	+	357	57237367	pheA	CJE0361	-	COG0077E	chorismate mutase/prephenate dehydratase
+323145..324239	+	364	57237368	hisC	CJE0362	-	COG0079E	histidinol-phosphate aminotransferase
+324291..325973	+	560	57237369	fliF	CJE0363	-	COG1766NU	flagellar MS-ring protein
+325973..327001	+	342	57237370	fliG	CJE0364	-	COG1536N	flagellar motor switch protein G
+327009..327839	+	276	57237371	fliH	CJE0365	-	COG1317NU	flagellar assembly protein H
+327832..329679	+	615	57237372	dxs	CJE0366	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+329765..330175	+	136	57237373	-	CJE0367	-	COG0735P	FUR family transcriptional regulator
+330221..331417	+	398	57237374	-	CJE0368	-	-	hypothetical protein
+331420..332127	+	235	57237375	ubiE	CJE0369	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+332124..333287	+	387	57237376	xseA	CJE0370	-	COG1570L	exodeoxyribonuclease VII large subunit
+333297..334373	+	358	57237377	serC	CJE0371	-	COG1932HE	phosphoserine aminotransferase
+334370..334720	+	116	57237378	-	CJE0372	-	COG0251J	endoribonuclease L-PSP family protein
+334717..335691	-	324	57237379	fabH	CJE0373	-	COG0332I	3-oxoacyl-ACP synthase III
+335684..336670	-	328	57237380	plsX	CJE0374	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+336676..336822	-	48	57237381	rpmF	CJE0375	-	COG0333J	50S ribosomal protein L32
+336846..337199	-	117	57237382	-	CJE0376	-	-	hypothetical protein
+337200..337613	-	137	57237383	ndk	CJE0377	-	COG0105F	nucleoside diphosphate kinase
+337726..338010	-	94	57237384	-	CJE0378	-	COG1142C	ferredoxin, 4Fe-4S
+338216..338812	+	198	57237385	-	CJE0379	-	COG0450O	anti-oxidant AhpCTSA family protein
+338931..340019	+	362	57237386	flhB	CJE0380	-	COG1377NU	flagellar biosynthesis protein FlhB
+340025..340768	-	247	57237387	motB	CJE0381	-	COG1360N	flagellar motor protein MotB
+340771..341547	-	258	57237388	-	CJE0382	-	COG1291N	flagellar motor protein MotA
+341564..344203	-	879	57237389	polA	CJE0383	-	COG0749L	DNA polymerase I
+344367..345728	+	453	57237390	-	CJE0384	-	COG2271G	major facilitator family transporter
+345725..346732	+	335	57237391	-	CJE0385	-	COG1957F	inosine-uridine preferring nucleoside hydrolase
+346688..347131	-	147	57237392	-	CJE0386	-	COG1238S	hypothetical protein
+347131..347727	-	198	57237393	-	CJE0387	-	-	hypothetical protein
+347708..348391	-	227	57237394	-	CJE0388	-	-	hypothetical protein
+348435..348986	-	183	57237395	-	CJE0389	-	-	hypothetical protein
+348988..351810	-	940	57237396	uvrA	CJE0390	-	COG0178L	excinuclease ABC subunit A
+351883..352668	-	261	57237397	-	CJE0391	-	-	hypothetical protein
+352768..352881	+	37	57237398	-	CJE0392	-	-	hypothetical protein
+352896..352994	-	32	57237399	-	CJE0393	-	-	hypothetical protein
+353084..354334	+	416	57237400	trpE	CJE0394	-	COG0147EH	anthranilate synthase component I
+354331..355932	+	533	57237401	trpD	CJE0395	-	COG0547E	anthranilate synthase component II
+355919..356518	+	199	57237402	trpF	CJE0396	-	COG0135E	N-(5'phosphoribosyl)anthranilate isomerase
+356515..357693	+	392	57237403	trpB	CJE0397	-	COG0133E	tryptophan synthase subunit beta
+357686..358435	+	249	57237404	trpA	CJE0398	-	COG0159E	tryptophan synthase subunit alpha
+358506..358928	+	140	57237405	-	CJE0399	-	-	hypothetical protein
+358928..359236	+	102	57237406	fliN	CJE0400	-	COG1886NU	flagellar motor switch protein
+359237..360034	+	265	57237407	-	CJE0401	-	-	hypothetical protein
+360031..361491	-	486	57237408	-	CJE0402	-	COG0248FP	Ppx/GppA family phosphatase
+361491..361736	-	81	57237409	-	CJE0403	-	COG1149C	ferredoxin, 4Fe-4S
+361849..362520	-	223	57237410	-	CJE0404	-	COG0745TK	DNA-binding response regulator
+362599..362916	-	105	57237411	-	CJE0405	-	COG1539H	FolB domain-containing protein
+362901..363509	-	202	57237412	-	CJE0406	-	COG0344S	glycerol-3-phosphate acyltransferase PlsY
+363710..364735	+	341	57237413	ccpA-2	CJE0407	-	COG1858P	cytochrome C551 peroxidase
+364719..364829	-	36	57237414	-	CJE0408	-	-	hypothetical protein
+364829..366166	+	445	57237415	glmM	CJE0409	-	COG1109G	phosphoglucosamine mutase
+366159..366629	+	156	57237416	lspA	CJE0410	-	COG0597MU	lipoprotein signal peptidase
+366613..367065	+	150	57237417	-	CJE0411	-	COG1981S	hypothetical protein
+367039..368409	-	456	57237418	-	CJE0412	-	COG0635H	coproporphyrinogen III oxidase
+368537..368788	+	83	57237419	-	CJE0413	-	-	hypothetical protein
+368811..370289	-	492	57237420	cmeC	CJE0414	-	COG1538MU	RND efflux system, outer membrane lipoprotein CmeC
+370282..373404	-	1040	57237421	cmeB	CJE0415	-	COG0841V	RND efflux system, inner membrane transporter CmeB
+373404..374507	-	367	57237422	cmeA	CJE0416	-	COG0845M	RND efflux system, membrane fusion protein CmeA
+374601..375233	-	210	57237423	-	CJE0417	-	COG1309K	TetR family transcriptional regulator
+375220..376596	-	458	57237424	-	CJE0418	-	COG0348C	iron-sulfur cluster-binding domain-containing protein
+376756..376968	+	70	57237425	rpsU	CJE0419	-	COG0828J	30S ribosomal protein S21
+377088..377693	+	201	57237426	-	CJE0420	-	-	hypothetical protein
+377703..378872	+	389	57237427	-	CJE0421	-	COG0754E	glutathionylspermidine synthase
+378875..379810	+	311	57237428	-	CJE0422	-	COG1052CHR	2-hydroxyacid dehydrogenase
+379800..380291	+	163	57237429	-	CJE0423	-	COG1666S	nucleotide-binding protein
+380300..380776	+	158	57237430	-	CJE0424	-	-	lipoprotein
+380787..381611	+	274	57237431	-	CJE0425	-	-	hypothetical protein
+381611..383323	+	570	57237432	-	CJE0426	-	COG0464O	ATPase, AAA family protein
+383288..383860	-	190	57237433	-	CJE0427	-	COG2717S	hypothetical protein
+383860..384753	-	297	57237434	-	CJE0428	-	COG2041R	sulfite oxidase subunit YedY
+384809..385609	-	266	57237435	-	CJE0429	-	-	hypothetical protein
+385591..386430	-	279	57237436	pyrF	CJE0430	-	COG0284F	orotidine 5'-phosphate decarboxylase
+386427..386825	-	132	57237437	nusB	CJE0431	-	COG0781K	transcription antitermination protein NusB
+386825..387289	-	154	57237438	ribH	CJE0432	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+387286..388101	-	271	57237439	kdsA	CJE0433	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+388098..389030	-	310	57237440	-	CJE0434	-	COG2510S	integral membrane protein
+389132..390514	+	460	57237441	engA	CJE0435	-	COG1160R	GTP-binding protein EngA
+390501..390998	+	165	57237442	aroK	CJE0436	-	COG0703E	shikimate kinase
+390995..391954	+	319	57237443	trpS	CJE0437	-	COG0180J	tryptophanyl-tRNA synthetase
+391965..393200	+	411	57237444	serS	CJE0438	-	COG0172J	seryl-tRNA synthetase
+393210..395672	+	820	57237445	-	CJE0439	-	-	hypothetical protein
+395703..396338	-	211	57237446	-	CJE0440	-	-	hypothetical protein
+396436..397878	-	480	57237447	pyk	CJE0441	-	COG0469G	pyruvate kinase
+397927..399273	-	448	57237448	-	CJE0442	-	COG0579R	malate:quinone oxidoreductase
+399391..400020	-	209	57237449	-	CJE0443	-	COG1521K	pantothenate kinase
+400007..400297	-	96	57237450	-	CJE0444	-	-	tram-like protein
+400294..401292	-	332	57237451	-	CJE0445	-	-	lipoprotein
+401289..401867	-	192	57237452	-	CJE0446	-	-	hypothetical protein
+402011..402295	+	94	57237453	gatC	CJE0447	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+402363..402926	+	187	57237454	-	CJE0448	-	COG1286R	cvpA family protein
+402928..403401	+	157	57237455	fur	CJE0449	-	COG0735P	ferric uptake regulation protein
+403402..404907	+	501	57237456	lysS	CJE0450	-	COG1190J	lysyl-tRNA synthetase
+404904..406148	+	414	57237457	glyA	CJE0451	-	COG0112E	serine hydroxymethyltransferase
+406145..406690	+	181	57237458	-	CJE0452	-	-	hypothetical protein
+406704..407540	+	278	57237459	-	CJE0453	-	-	hypothetical protein
+407537..408325	+	262	57237460	aroE	CJE0454	-	COG0169E	shikimate 5-dehydrogenase
+408400..409299	-	299	57237461	-	CJE0455	-	-	lipoprotein
+409389..410204	+	271	57237462	lgt	CJE0456	-	COG0682M	prolipoprotein diacylglyceryl transferase
+410273..411055	+	260	57237463	frdC	CJE0457	-	COG2009C	fumarate reductase cytochrome b-556 subunit
+411039..413030	+	663	57237464	frdA	CJE0458	-	COG1053C	fumarate reductase flavoprotein subunit
+413023..413748	+	241	57237465	frdB	CJE0459	-	COG0479C	fumarate reductase iron-sulfur subunit
+413776..415962	+	728	57237466	-	CJE0460	-	COG0486R	GTP-binding protein
+416072..417781	+	569	57237467	-	CJE0461	-	-	GTP-binding protein
+417781..418485	+	234	57237468	-	CJE0462	-	COG0790R	hypothetical protein
+418621..419349	+	242	57237469	-	CJE0463	-	-	hypothetical protein
+419351..421072	+	573	57237470	-	CJE0464	-	COG2303E	oxidoreductase
+421045..421155	-	36	57237471	-	CJE0465	-	-	hypothetical protein
+421278..421973	+	231	57237472	-	CJE0466	-	-	hypothetical protein
+422080..422784	-	234	57237473	-	CJE0467	-	-	hypothetical protein
+422892..423254	+	120	57237474	-	CJE0468	-	COG0537FGR	HIT family protein
+423328..423900	+	190	57237475	-	CJE0469	-	COG2353S	hypothetical protein
+423905..424861	-	318	57237476	-	CJE0470	-	-	hypothetical protein
+424922..425131	-	69	57237477	-	CJE0471	-	-	hypothetical protein
+425298..425717	+	139	57237478	-	CJE0472	-	-	hypothetical protein
+425760..426020	+	86	57237479	-	CJE0473	-	-	hypothetical protein
+426020..426553	+	177	57237480	-	CJE0474	-	-	lipoprotein
+426676..428253	+	525	57237481	-	CJE0475	-	COG0488R	ABC transporter ATP-binding protein
+428246..428578	+	110	57237482	-	CJE0476	-	-	hypothetical protein
+428655..429038	+	127	57237483	-	CJE0477	-	-	hypothetical protein
+429082..429666	-	194	57237484	-	CJE0478	-	COG1739S	hypothetical protein
+429669..429782	+	37	57238718	-	CJE0479	-	-	hypothetical protein
+429793..431019	+	408	57237485	-	CJE0480	-	-	hypothetical protein
+431012..431749	+	245	57237486	-	CJE0481	-	-	hypothetical protein
+438113..439321	-	402	57237487	murD	CJE0482	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+439321..440382	-	353	57237488	mraY	CJE0483	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+440462..441940	+	492	57237489	pgm	CJE0484	-	COG0696G	phosphoglyceromutase
+442012..442755	+	247	57237490	fabG	CJE0485	-	COG1028IQR	3-ketoacyl-ACP reductase
+442765..443172	+	135	57237491	-	CJE0486	-	COG5015S	hypothetical protein
+443391..443486	+	31	57237492	-	CJE0487	-	-	hypothetical protein
+443615..445345	+	576	57237493	sdhA	CJE0488	-	COG1053C	succinate dehydrogenase, flavoprotein subunit
+445342..446307	+	321	57237494	sdhB	CJE0489	-	COG0479C	succinate dehydrogenase, iron-sulfur protein subunit
+446311..447168	+	285	57237495	sdhC	CJE0490	-	COG2048C	succinate dehydrogenase, C subunit
+447192..447857	-	221	57237496	-	CJE0491	-	COG0819K	TenA/Thi-4 family protein
+447835..447951	+	38	57237497	-	CJE0492	-	-	hypothetical protein
+447970..448203	+	77	57237498	acpP	CJE0493	-	COG0236IQ	ACP
+448230..449444	+	404	57237499	fabF	CJE0494	-	COG0304IQ	3-oxoacyl-ACP synthase II
+449446..450384	+	312	57237500	accA	CJE0495	-	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+452673..453269	+	198	57237501	-	CJE0497	-	-	NUDIX domain-containing protein
+453301..454398	-	365	57237502	-	CJE0498	-	COG0840NT	methyl-accepting chemotaxis protein
+454408..454623	-	71	57237503	-	CJE0499	-	COG2841S	hypothetical protein
+454808..455002	-	64	57237504	rpmB	CJE0500	-	COG0227J	50S ribosomal protein L28
+455142..455789	+	215	57237505	rpe	CJE0501	-	COG0036G	ribulose-phosphate 3-epimerase
+455855..456556	+	233	57237506	-	CJE0502	-	COG2176L	DNA polymerase III subunit epsilon
+456731..458023	+	430	57237507	thiC	CJE0503	-	COG0422H	thiamine biosynthesis protein ThiC
+458015..458533	-	172	57237508	-	CJE0504	-	-	hypothetical protein
+458523..459050	-	175	57237509	-	CJE0505	-	-	hypothetical protein
+459047..460006	-	319	57237510	-	CJE0506	-	-	hypothetical protein
+460008..460658	-	216	57237511	-	CJE0507	-	COG2121S	hypothetical protein
+460621..461922	-	433	57237512	miaB	CJE0508	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+461919..462161	-	80	57237513	-	CJE0509	-	-	hypothetical protein
+462289..463377	+	362	57237514	nusA	CJE0510	-	COG0195K	transcription elongation factor NusA
+463393..464580	-	395	57237515	-	CJE0511	-	-	transporter
+464655..465701	+	348	57237516	-	CJE0512	-	COG1060HR	hypothetical protein
+465701..466921	+	406	57237517	-	CJE0513	-	COG0612R	peptidase
+466911..468734	+	607	57237518	recG	CJE0514	-	COG1200LK	ATP-dependent DNA helicase RecG
+468731..469114	-	127	57237519	-	CJE0515	-	COG2346R	hypothetical protein
+469210..469806	+	198	57237520	-	CJE0516	-	COG0664T	transcriptional regulator
+469822..470523	+	233	57237521	-	CJE0517	-	COG0765E	His/Glu/Gln/Arg/opine ABC transporter permease
+470516..471172	+	218	57237522	-	CJE0518	-	COG0765E	His/Glu/Gln/Arg/opine ABC transporter permease
+471174..471911	+	245	57237523	-	CJE0519	-	COG1126E	amino acid ABC transporter ATP-binding protein
+472565..473764	+	399	57237524	tuf	CJE0520	-	COG0050J	elongation factor Tu
+473817..473975	+	52	57237525	rpmG	CJE0521	-	COG0267J	50S ribosomal protein L33
+474082..474261	+	59	57237526	secE	CJE0522	-	COG0690U	preprotein translocase subunit SecE
+474271..474804	+	177	57237527	nusG	CJE0523	-	COG0250K	transcription antitermination protein NusG
+474830..475255	+	141	57237528	rplK	CJE0524	-	COG0080J	50S ribosomal protein L11
+475310..476011	+	233	57237529	rplA	CJE0525	-	COG0081J	50S ribosomal protein L1
+476163..476642	+	159	57237530	rplJ	CJE0526	-	COG0244J	50S ribosomal protein L10
+476663..477040	+	125	57237531	rplL	CJE0527	-	COG0222J	50S ribosomal protein L7/L12
+477149..481285	+	1378	57237532	rpoB	CJE0528	-	COG0085K	DNA-directed RNA polymerase subunit beta
+481278..485831	+	1517	57237533	rpoC	CJE0529	-	COG0086K	DNA-directed RNA polymerase, beta' subunit
+485862..486623	-	253	57237534	-	CJE0530	-	COG1414K	IclR family transcriptional regulator
+486631..486771	-	46	57237535	-	CJE0531	-	-	hypothetical protein
+486853..487761	+	302	57237536	-	CJE0532	-	COG0329EM	dihydrodipicolinate synthase
+489202..490488	+	428	57237537	-	CJE0534	-	COG2271G	tartrate transporter
+490489..491277	+	262	57237538	-	CJE0535	-	COG1028IQR	short chain dehydrogenase
+491288..492544	+	418	57237539	fucP	CJE0536	-	COG0738G	L-fucose permease
+492528..493298	+	256	57237540	-	CJE0537	-	COG3618R	hypothetical protein
+493299..493616	+	105	57237541	-	CJE0538	-	COG3254S	hypothetical protein
+493630..495069	+	479	57237542	aldA	CJE0539	-	COG1012C	aldehyde dehydrogenase A
+495397..495783	+	128	57237543	rpsL	CJE0540	-	COG0048J	30S ribosomal protein S12
+495853..496323	+	156	57237544	rpsG	CJE0541	-	COG0049J	30S ribosomal protein S7
+496336..498411	+	691	57237545	fusA	CJE0542	-	COG0480J	elongation factor G
+498700..499902	+	400	57237546	-	CJE0544	-	COG0582L	phage integrase family site specific recombinase
+499899..500069	-	56	57237547	-	CJE0545	-	-	DNA binding domain-containing protein
+500062..500604	-	180	57237548	-	CJE0546	-	COG1357S	hypothetical protein
+500614..500805	-	63	57237549	-	CJE0547	-	-	hypothetical protein
+501182..501799	-	205	57237550	-	CJE0548	-	COG3561K	phage anti-repressor protein
+501935..502330	-	131	57237551	-	CJE0549	-	-	hypothetical protein
+502374..503126	-	250	57237552	-	CJE0550	-	COG0863L	site-specific DNA-methyltransferase
+503107..503547	-	146	57237553	-	CJE0551	-	-	hypothetical protein
+503622..503732	-	36	57237554	-	CJE0552	-	-	hypothetical protein
+503790..504053	-	87	57237555	-	CJE0553	-	-	hypothetical protein
+504034..504729	-	231	57237556	-	CJE0554	-	-	hypothetical protein
+504729..505466	-	245	57237557	-	CJE0555	-	-	hypothetical protein
+505468..506322	-	284	57237558	-	CJE0556	-	-	hypothetical protein
+506324..506551	-	75	57237559	-	CJE0557	-	-	hypothetical protein
+506542..506799	-	85	57237560	-	CJE0558	-	-	hypothetical protein
+506790..507059	-	89	57237561	-	CJE0559	-	-	hypothetical protein
+507286..507393	-	35	57237562	-	CJE0560	-	-	hypothetical protein
+507621..507893	-	90	57237563	-	CJE0561	-	-	hypothetical protein
+508148..508843	+	231	57237564	-	CJE0562	-	COG0790R	hypothetical protein
+508862..509233	-	123	57237565	-	CJE0563	-	-	hypothetical protein
+509223..509756	-	177	57237566	-	CJE0564	-	-	hypothetical protein
+509753..510418	-	221	57237567	-	CJE0565	-	-	hypothetical protein
+510498..511151	-	217	57237568	-	CJE0566	-	COG1864F	DNA/RNA non-specific endonuclease
+511157..511849	-	230	57237569	-	CJE0567	-	-	hypothetical protein
+511857..512645	-	262	57237570	-	CJE0568	-	-	hypothetical protein
+512642..513376	-	244	57237571	-	CJE0569	-	COG2932K	phage repressor protein
+513488..513712	+	74	57237572	-	CJE0570	-	-	hypothetical protein
+513709..514137	+	142	57237573	-	CJE0571	-	-	hypothetical protein
+514134..514511	+	125	57237574	-	CJE0572	-	-	lipoprotein
+514508..515509	+	333	57237575	-	CJE0573	-	-	hypothetical protein
+515520..516167	+	215	57237576	-	CJE0574	-	-	hypothetical protein
+516185..516565	+	126	57237577	-	CJE0575	-	-	hypothetical protein
+516565..516951	+	128	57237578	-	CJE0576	-	-	hypothetical protein
+516948..518240	+	430	57237579	-	CJE0577	-	-	terminase B protein
+518230..518502	+	90	57237580	-	CJE0578	-	-	hypothetical protein
+518483..520021	+	512	57237581	-	CJE0579	-	-	hypothetical protein
+520014..520217	+	67	57237582	-	CJE0580	-	-	hypothetical protein
+520207..520854	+	215	57237583	-	CJE0581	-	-	hypothetical protein
+520865..521242	+	125	57237584	-	CJE0582	-	-	hypothetical protein
+521507..522718	+	403	57237585	-	CJE0583	-	-	hypothetical protein
+522718..526419	+	1233	57237586	-	CJE0584	-	-	hypothetical protein
+526698..527543	-	281	57237587	-	CJE0585	-	-	hypothetical protein
+527553..527759	-	68	57237588	-	CJE0586	-	-	hypothetical protein
+527979..529013	+	344	57237589	-	CJE0587	-	-	hypothetical protein
+529013..529417	+	134	57237590	-	CJE0588	-	-	hypothetical protein
+529395..529592	+	65	57237591	-	CJE0589	-	-	hypothetical protein
+529595..532237	+	880	57237592	-	CJE0590	-	COG1196D	hypothetical protein
+532338..532688	+	116	57237593	-	CJE0591	-	-	hypothetical protein
+532701..533336	+	211	57237594	-	CJE0592	-	-	hypothetical protein
+533333..533716	+	127	57237595	-	CJE0593	-	-	hypothetical protein
+533709..534083	+	124	57237596	-	CJE0594	-	-	hypothetical protein
+534080..535360	+	426	57237597	-	CJE0595	-	-	hypothetical protein
+535302..535409	+	35	57238719	-	CJE0596	-	-	hypothetical protein
+535409..535867	+	152	57237598	-	CJE0597	-	-	hypothetical protein
+535929..536348	+	139	57238304	-	CJE0598	-	-	hypothetical protein
+536266..536463	+	65	57238720	-	CJE0599	-	-	hypothetical protein
+536456..536947	+	163	57238303	-	CJE0600	-	-	hypothetical protein
+537061..538671	+	536	57238302	-	CJE0601	-	-	hypothetical protein
+538788..538937	+	49	57238301	-	CJE0602	-	-	hypothetical protein
+538943..539644	+	233	57238300	-	CJE0603	-	COG4123R	hypothetical protein
+539634..540008	+	124	57238299	-	CJE0604	-	COG0727R	hypothetical protein
+539981..541258	+	425	57238298	-	CJE0605	-	-	lipoprotein
+541255..542031	+	258	57238297	trpC	CJE0606	-	COG0134E	indole-3-glycerol-phosphate synthase
+542041..542526	+	161	57238296	-	CJE0607	-	COG0537FGR	Hit family protein
+542516..543514	+	332	57238295	-	CJE0608	-	COG2603R	tRNA 2-selenouridine synthase
+545084..545995	-	303	57238294	hemH	CJE0610	-	COG0276H	ferrochelatase
+545992..546858	-	288	57238293	-	CJE0611	-	COG0673R	Gfo/Idh/MocA family oxidoreductase
+546863..547936	-	357	57238292	-	CJE0612	-	COG0399M	DegT/DnrJ/EryC1/StrS aminotransferase
+548051..550579	+	842	57238291	alaS	CJE0613	-	COG0013J	alanyl-tRNA synthetase
+550579..551130	+	183	57238290	maf	CJE0614	-	COG0424D	Maf-like protein
+551127..553058	+	643	57238289	pbpA	CJE0615	-	COG0744M	penicillin-binding protein 1A
+553086..555659	-	857	57238288	clpB	CJE0616	-	COG0542O	ATP-dependent chaperone protein ClpB
+555771..556061	-	96	57238287	-	CJE0617	-	COG1937S	hypothetical protein
+556188..557522	+	444	57238286	ctpA	CJE0618	-	COG0793M	carboxyl-terminal protease
+557524..558234	+	236	57238285	purC	CJE0619	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+558243..558488	+	81	57238284	purS	CJE0620	-	COG1828F	phosphoribosylformylglycinamidine synthase, purS protein
+558490..559137	+	215	57238283	purQ	CJE0621	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+559221..560330	+	369	57238282	-	CJE0622	-	-	hypothetical protein
+560311..561003	+	230	57238281	-	CJE0623	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+560997..561365	+	122	57238280	-	CJE0624	-	COG0239D	hypothetical protein
+561438..563264	+	608	57238279	htpG	CJE0625	-	COG0326O	heat shock protein 90
+563261..563578	+	105	57238278	-	CJE0626	-	COG0607P	hypothetical protein
+563578..564012	+	144	57238277	-	CJE0627	-	-	hypothetical protein
+564133..565785	+	550	57238276	-	CJE0628	-	COG1283P	Na/Pi-cotransporter
+565800..567539	-	579	57238275	-	CJE0629	-	COG0768M	penicillin-binding protein
+567597..567893	-	98	57238274	fliE	CJE0630	-	COG1677NU	flagellar hook-basal body protein FliE
+567900..568394	-	164	57238273	flgC	CJE0631	-	COG1558N	flagellar basal body rod protein FlgC
+568404..568835	-	143	57238272	flgB	CJE0632	-	COG1815N	flagellar basal body rod protein FlgB
+568915..569817	-	300	57238271	-	CJE0633	-	COG1559R	hypothetical protein
+569831..572401	+	856	57238270	-	CJE0634	-	-	hypothetical protein
+572518..574722	+	734	57238269	icd	CJE0635	-	COG2838C	isocitrate dehydrogenase, NADP-dependent
+574719..575621	+	300	57238268	mdh	CJE0636	-	COG0039C	malate dehydrogenase
+575622..576785	+	387	57238267	sucC	CJE0637	-	COG0045C	succinyl-CoA synthetase subunit beta
+576795..577664	+	289	57238266	sucD	CJE0638	-	COG0074C	succinyl-CoA synthase, alpha subunit
+577678..577989	+	103	57238265	oorD	CJE0639	-	COG1146C	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+577998..579122	+	374	57238264	oorA	CJE0640	-	COG0674C	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+579123..579968	+	281	57238263	oorB	CJE0641	-	COG1013C	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+579965..580522	+	185	57238262	oorC	CJE0642	-	COG1014C	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+580661..580924	+	87	57238261	-	CJE0643	-	-	hypothetical protein
+580927..581463	+	178	57238260	-	CJE0644	-	-	hypothetical protein
+581477..582370	+	297	57238259	-	CJE0645	-	COG0142H	polyprenyl synthetase
+582370..583668	+	432	57238258	hemA	CJE0646	-	COG0373H	glutamyl-tRNA reductase
+583652..585361	+	569	57238257	proS	CJE0647	-	COG0442J	prolyl-tRNA synthetase
+585358..585747	+	129	57238256	-	CJE0648	-	-	hypothetical protein
+585744..586667	+	307	57238255	hemC	CJE0649	-	COG0181H	porphobilinogen deaminase
+586664..588466	+	600	57238254	-	CJE0650	-	COG0043H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+588622..588987	+	121	57238253	flaG	CJE0651	-	COG1334N	flagellar protein FlaG
+588990..590900	+	636	57238252	fliD	CJE0652	-	COG1345N	flagellar capping protein
+590912..591298	+	128	57238251	fliS	CJE0653	-	COG1516NUO	flagellar protein FliS
+591279..591554	+	91	57238250	-	CJE0654	-	-	hypothetical protein
+591986..592555	+	189	57238249	efp	CJE0655	-	COG0231J	elongation factor P
+592715..593407	+	230	57238248	-	CJE0656	-	COG3819S	hypothetical protein
+593394..594347	+	317	57238247	-	CJE0657	-	COG3817S	hypothetical protein
+594357..595361	+	334	57238246	-	CJE0658	-	-	hypothetical protein
+595486..596772	+	428	57238245	-	CJE0659	-	COG0471P	hypothetical protein
+596783..597580	+	265	57238244	-	CJE0660	-	COG3618R	hypothetical protein
+597577..598662	-	361	57238243	-	CJE0661	-	COG1289S	hypothetical protein
+598659..599891	-	410	57238242	proA	CJE0662	-	COG0014E	gamma-glutamyl phosphate reductase
+599962..600897	+	311	57238241	-	CJE0663	-	COG0492O	pyridine nucleotide-disulphide oxidoreductase
+602453..603382	-	309	57238240	-	CJE0666	-	-	hypothetical protein
+603536..604912	+	458	57238239	dnaB	CJE0667	-	COG0305L	replicative DNA helicase
+605017..605577	+	186	57238238	-	CJE0668	-	-	hypothetical protein
+605568..605774	+	68	57238237	-	CJE0669	-	-	hypothetical protein
+605904..606971	+	355	57238236	-	CJE0670	-	COG3597S	GTP-binding protein
+606982..607152	+	56	57238235	-	CJE0671	-	-	hypothetical protein
+607166..607471	+	101	57238234	-	CJE0672	-	-	hypothetical protein
+608545..609417	+	290	57238233	-	CJE0674	-	COG2378K	transcriptional regulator
+609716..610735	+	339	57238232	ribB	CJE0675	-	COG0108H	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+610747..611190	+	147	57238231	-	CJE0676	-	COG1610S	GatB/Yqey family protein
+611208..612908	+	566	57238230	ilvB	CJE0677	-	COG0028EH	acetolactate synthase 3 catalytic subunit
+612905..613369	+	154	57238229	ilvH	CJE0678	-	COG0440E	acetolactate synthase 3 regulatory subunit
+613366..614331	+	321	57238228	lpxD	CJE0679	-	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+614320..615348	-	342	57238227	queA	CJE0680	-	COG0809J	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+615341..616078	-	245	57238226	tatC	CJE0681	-	COG0805U	Sec-independent protein translocase TatC
+616071..616487	-	138	57238225	tatB	CJE0682	-	COG1826U	sec-independent translocase
+616545..617612	-	355	57238224	-	CJE0683	-	COG0635H	coproporphyrinogen III oxidase
+617713..618183	+	156	57238223	nidH	CJE0684	-	COG0494LR	dinucleoside polyphosphate hydrolase
+618185..619387	+	400	57238222	-	CJE0685	-	COG0527E	aspartate kinase
+619388..619924	+	178	57238221	-	CJE0686	-	-	hypothetical protein
+619930..620529	+	199	57238220	-	CJE0687	-	COG0470L	DNA polymerase III subunit delta'
+620531..621673	+	380	57238219	folP	CJE0688	-	COG0294H	dihydropteroate synthase
+621674..623617	+	647	57238218	ligA	CJE0689	-	COG0272L	NAD-dependent DNA ligase LigA
+623598..624602	+	334	57238217	-	CJE0690	-	-	hypothetical protein
+624599..625360	+	253	57238216	tlyA	CJE0691	-	COG1189J	hemolysin A
+625326..626180	+	284	57238215	-	CJE0692	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+626170..626877	+	235	57238214	-	CJE0693	-	COG4106R	methyltransferase
+626867..627082	-	71	57238213	-	CJE0694	-	-	lipoprotein
+627085..627519	-	144	57238212	-	CJE0695	-	-	hypothetical protein
+627577..628209	-	210	57238211	-	CJE0696	-	COG2860S	hypothetical protein
+628220..628870	-	216	57238210	-	CJE0697	-	COG1864F	DNA/RNA non-specific endonuclease
+628867..629493	-	208	57238209	nth	CJE0698	-	COG0177L	endonuclease III
+629574..630395	+	273	57238208	-	CJE0699	-	COG0760O	major antigenic peptide PEB4
+630395..631459	+	354	57238207	fbaA	CJE0700	-	COG0191G	fructose-bisphosphate aldolase
+631554..632996	+	480	57238206	-	CJE0701	-	COG4372S	hypothetical protein
+632993..633946	+	317	57238205	-	CJE0702	-	COG2885M	chemotaxis protein MotB
+633933..634808	+	291	57238204	-	CJE0703	-	COG2515E	hypothetical protein
+634800..636143	-	447	57238203	-	CJE0704	-	COG0733R	sodium-dependent transporter
+636194..636862	-	222	57238202	-	CJE0705	-	COG2258S	MOSC domain-containing protein
+636859..638562	-	567	57238201	dsbD	CJE0706	-	COG4232OC	thiol:disulfide interchange protein DsbD
+638657..639538	+	293	57238200	-	CJE0707	-	COG2326S	hypothetical protein
+639547..640737	+	396	57238199	-	CJE0708	-	COG1473R	carboxypeptidase
+640816..641988	+	390	57238198	-	CJE0709	-	COG0845M	macrolide-specific efflux protein macA
+641988..643913	+	641	57238197	-	CJE0710	-	COG1136V	macrolide-specific efflux protein macB
+643915..645285	+	456	57238196	-	CJE0711	-	COG1538MU	outer membrane efflux protein
+645288..646466	-	392	57238195	-	CJE0712	-	COG2755E	hypothetical protein
+646453..647463	-	336	57238194	-	CJE0713	-	COG2845S	hypothetical protein
+647464..648840	-	458	57238193	algI	CJE0714	-	COG1696M	alginate O-acetyltransferase AlgI
+648883..649386	-	167	57238192	ftn	CJE0715	-	COG1528P	nonheme iron-containing ferritin
+649566..650561	+	331	57238191	-	CJE0716	-	COG0226P	phosphate ABC transporter periplasmic phosphate-binding protein
+650571..651485	+	304	57238190	-	CJE0717	-	COG0573P	phosphate ABC transporter permease
+651482..652570	+	362	57238189	-	CJE0718	-	COG0581P	phosphate ABC transporter permease
+652567..653307	+	246	57238188	pstB	CJE0719	-	COG1117P	phosphate ABC transporter ATP-binding protein
+654603..654701	-	32	57238187	-	CJE0721	-	-	hypothetical protein
+654687..656003	+	438	57238186	-	CJE0722	-	COG0534V	MATE efflux family protein
+655964..656626	+	220	57238185	-	CJE0723	-	COG1451R	hypothetical protein
+656668..658188	+	506	57238184	-	CJE0724	-	-	hypothetical protein
+658169..660358	+	729	57238183	hypF	CJE0725	-	COG0068O	[NiFe] hydrogenase maturation protein HypF
+660435..661178	+	247	57238182	hypB	CJE0726	-	COG0378OK	hydrogenase accessory protein HypB
+661178..661459	+	93	57238181	hypC	CJE0727	-	COG0298O	hydrogenase assembly chaperone HypC/HupF
+661443..662534	+	363	57238180	hypD	CJE0728	-	COG0409O	hydrogenase expression/formation protein HypD
+662531..663505	+	324	57238179	hypE	CJE0729	-	COG0309O	hydrogenase expression/formation protein HypE
+663505..663849	+	114	57238178	hypA	CJE0730	-	COG0375R	hydrogenase nickel insertion protein HypA
+663944..665971	+	675	57238177	-	CJE0731	-	COG2189L	type III restriction/modification enzyme, methylase subunit
+665952..668513	+	853	57236942	-	CJE0732	-	COG3421S	type III restriction-modification enzyme
+668544..669509	-	321	57236943	-	CJE0733	-	COG1466L	DNA polymerase III subunit delta
+669502..671436	-	644	57236944	-	CJE0734	-	COG0557K	RNB-like protein
+671555..672577	+	340	57236945	ilvC	CJE0735	-	COG0059EH	ketol-acid reductoisomerase
+672581..673663	+	360	57236946	-	CJE0736	-	COG2861S	hypothetical protein
+673653..674426	+	257	57236947	dprA	CJE0737	-	COG0758LU	DNA processing protein A
+674423..674806	+	127	57236948	-	CJE0738	-	COG0816L	Holliday junction resolvase-like protein
+674835..675674	+	279	57236949	-	CJE0739	-	COG0144J	NOL1/NOP2/sun family protein
+675850..676347	-	165	57236950	msrA	CJE0740	-	COG0225O	methionine sulfoxide reductase A
+676389..676907	-	172	57236951	ppa	CJE0741	-	COG0221C	inorganic pyrophosphatase
+676917..677495	-	192	57236952	adk	CJE0742	-	COG0563F	adenylate kinase
+677492..679243	-	583	57236953	aspS	CJE0743	-	COG0173J	aspartyl-tRNA synthetase
+679334..680194	+	286	57236954	pnk	CJE0744	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+680194..681717	+	507	57236955	recN	CJE0745	-	COG0497L	DNA repair protein RecN
+681823..683067	+	414	57236956	-	CJE0746	-	COG3706T	response regulator/GGDEF domain-containing protein
+683058..683873	+	271	57236957	-	CJE0747	-	COG0084L	TatD family hydrolase
+683873..684991	+	372	57236958	-	CJE0748	-	COG0741M	membrane-bound lytic murein transglycosylase D
+684951..685778	+	275	57236959	rlpA	CJE0749	-	COG0797M	rare lipoprotein A
+685784..686272	+	162	57236960	-	CJE0750	-	COG1778R	YrbI family phosphatase
+686344..686778	+	144	57236961	-	CJE0751	-	-	hypothetical protein
+686760..687221	+	153	57236962	-	CJE0752	-	COG1934S	OstA family protein
+687218..687814	+	198	57236963	engB	CJE0753	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+687811..688305	+	164	57236964	-	CJE0754	-	-	hypothetical protein
+688312..690111	+	599	57236965	pbpC	CJE0755	-	COG0768M	penicillin-binding protein 2
+690232..692022	-	596	57236966	-	CJE0756	-	COG0006E	M24 family peptidase
+692038..693591	-	517	57236967	-	CJE0757	-	COG3104E	di-/tripeptide transporter
+694507..694746	-	79	57236968	-	CJE0759	-	-	hypothetical protein
+695404..695952	-	182	57236969	-	CJE0761	-	-	hypothetical protein
+696341..697051	-	236	57236970	-	CJE0762	-	-	hypothetical protein
+697038..697913	-	291	57236971	era	CJE0763	-	COG1159R	GTP-binding protein Era
+697910..699229	-	439	57236972	hslU	CJE0764	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+699226..699768	-	180	57236973	hslV	CJE0765	-	COG5405O	ATP-dependent protease peptidase subunit
+699768..700211	-	147	57236974	rplI	CJE0766	-	COG0359J	50S ribosomal protein L9
+700224..701444	-	406	57236975	argG	CJE0767	-	COG0137E	argininosuccinate synthase
+701600..701845	+	81	57236976	-	CJE0768	-	COG1188J	S4 domain-containing protein
+701842..702249	+	135	57236977	-	CJE0769	-	COG0802R	hypothetical protein
+702233..702970	+	245	57236978	-	CJE0770	-	COG1137R	ABC transporter ATP-binding protein
+702970..704220	+	416	57236979	rpoN	CJE0771	-	COG1508K	RNA polymerase factor sigma-54
+704384..705808	+	474	57236980	dcuB	CJE0772	-	COG2704R	anaerobic C4-dicarboxylate transporter
+705950..706063	+	37	57236981	-	CJE0773	-	-	hypothetical protein
+709917..710525	+	202	57236982	-	CJE0776	-	COG2156P	potassium-transporting ATPase, C subunit
+712327..714300	-	657	57236983	uvrB	CJE0778	-	COG0556L	excinuclease ABC subunit B
+714454..714684	+	76	57236984	-	CJE0779	-	-	hypothetical protein
+714674..714916	+	80	57236985	-	CJE0780	-	-	hypothetical protein
+714913..715350	+	145	57236986	-	CJE0781	-	-	hypothetical protein
+715332..717185	+	617	57236987	priA	CJE0782	-	COG1198L	primosome assembly protein PriA
+717195..718592	-	465	57236988	-	CJE0783	-	-	invasion phenotype protein
+718738..719811	+	357	57236989	ispG	CJE0785	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+719841..720539	-	232	57236990	flgH	CJE0786	-	COG2063N	flagellar basal body L-ring protein
+720629..722134	+	501	57236991	pta	CJE0787	-	COG0280C	phosphate acetyltransferase
+722148..723338	+	396	57236992	ackA	CJE0788	-	COG0282C	acetate kinase
+723366..727118	-	1250	57236993	-	CJE0789	-	COG1002V	hypothetical protein
+727268..727759	+	163	57236994	-	CJE0790	-	-	hypothetical protein
+727747..728685	-	312	57236995	-	CJE0791	-	-	hypothetical protein
+728685..729617	-	310	57236996	mraW	CJE0792	-	COG0275M	S-adenosyl-methyltransferase MraW
+729782..731272	+	496	57236997	-	CJE0793	-	COG0760O	peptidyl-prolyl cis-trans isomerase D,-like protein
+731275..732657	+	460	57236998	ftsA	CJE0794	-	COG0849D	cell division protein FtsA
+732673..733785	+	370	57236999	ftsZ	CJE0795	-	COG0206D	cell division protein FtsZ
+733941..734753	+	270	57237000	-	CJE0796	-	COG4786N	flagellar basal-body rod protein
+734782..735573	+	263	57237001	flgG	CJE0797	-	COG4786N	flagellar basal body rod protein FlgG
+735639..737069	-	476	57237002	glnA	CJE0798	-	COG0174E	glutamine synthetase, type I
+737158..737280	-	40	57238721	-	CJE0799	-	-	hypothetical protein
+737272..737967	+	231	57237003	-	CJE0800	-	-	hypothetical protein
+737964..739217	+	417	57237004	-	CJE0801	-	COG0826O	U32 family peptidase
+739218..739712	+	164	57237005	purE	CJE0802	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+740270..741133	+	287	57237006	glyQ	CJE0804	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+741120..741845	+	241	57237007	-	CJE0805	-	COG0327S	hypothetical protein
+741855..742571	+	238	57237008	-	CJE0806	-	COG1579R	hypothetical protein
+742568..743725	+	385	57237009	waaA	CJE0807	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+743706..744458	+	250	57237010	-	CJE0808	-	COG0564J	RNA pseudouridylate synthase
+744526..745863	+	445	57237011	ffh	CJE0809	-	COG0541U	signal recognition particle protein
+745929..746156	+	75	57237012	rpsP	CJE0810	-	COG0228J	30S ribosomal protein S16
+746159..746401	+	80	57237013	-	CJE0811	-	COG1837R	hypothetical protein
+746394..746933	+	179	57237014	rimM	CJE0812	-	COG0806J	16S rRNA processing protein RimM
+746930..747634	+	234	57237015	trmD	CJE0813	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+747645..748001	+	118	57237016	rplS	CJE0814	-	COG0335J	50S ribosomal protein L19
+748135..748548	+	137	57237017	-	CJE0815	-	COG2351R	transthyretin-like protein
+748572..749912	+	446	57237018	-	CJE0816	-	COG3200E	3-deoxy-7-phosphoheptulonate synthase
+749909..750238	+	109	57237019	-	CJE0817	-	COG1393P	hypothetical protein
+750686..754288	+	1200	57237020	dnaE	CJE0818	-	COG0587L	DNA polymerase III subunit alpha
+754300..754932	-	210	57237021	-	CJE0819	-	COG0325R	hypothetical protein
+754967..755716	-	249	57237022	flaC	CJE0820	-	COG1344N	flagellin subunit protein FlaC
+755755..756225	-	156	57237023	-	CJE0821	-	-	hypothetical protein
+756238..757053	-	271	57237024	-	CJE0822	-	COG2890J	HemK family modification methylase
+757050..758237	-	395	57237025	-	CJE0823	-	COG0501O	M48 family peptidase
+758364..758549	+	61	57237026	-	CJE0824	-	-	hypothetical protein
+758546..759088	-	180	57237027	mogA	CJE0825	-	COG0521H	molybdenum cofactor biosynthesis protein MogA
+759109..760092	-	327	57237028	corA	CJE0826	-	COG0598P	magnesium and cobalt transport protein CorA
+760209..761255	+	348	57237029	-	CJE0827	-	COG1840P	ABC transporter periplasmic substrate-binding protein
+761266..762591	+	441	57237030	-	CJE0828	-	COG4222S	hypothetical protein
+762591..763397	+	268	57237031	-	CJE0829	-	COG1524R	hypothetical protein
+763394..764233	+	279	57237032	-	CJE0830	-	COG4132R	ABC transporter permease
+764234..765013	+	259	57237033	-	CJE0831	-	COG1177E	ABC transporter permease
+765054..766007	+	317	57237034	-	CJE0832	-	COG3842E	ABC transporter ATP-binding protein
+766004..766642	+	212	57237035	-	CJE0833	-	COG0560E	HAD family hydrolase
+766666..767421	-	251	57237036	cjaC	CJE0834	-	COG0834ET	CjaC
+767754..768371	+	205	57237037	-	CJE0835	-	-	hypothetical protein
+770335..770754	+	139	57237038	-	CJE0837	-	-	hemagglutination domain-containing protein
+771027..771983	+	318	57237039	-	CJE0838	-	-	hypothetical protein
+772064..772414	+	116	57237040	-	CJE0839	-	-	hypothetical protein
+772510..772968	+	152	57237041	-	CJE0840	-	-	hypothetical protein
+773449..773691	+	80	57237042	-	CJE0841	-	COG2831U	hypothetical protein
+773943..774164	+	73	57237043	-	CJE0842	-	-	hypothetical protein
+774415..774669	+	84	57237044	-	CJE0843	-	COG2831U	hypothetical protein
+782888..783571	-	227	57237599	tonB	CJE0845	-	COG0810M	TonB
+783641..783787	+	48	57237600	-	CJE0846	-	-	hypothetical protein
+783895..785985	+	696	57237601	cfrA	CJE0847	-	COG4771P	ferric receptor CfrA
+786287..787081	+	264	57237602	hrcA	CJE0848	-	COG1420K	heat-inducible transcription repressor
+787078..787605	+	175	57237603	grpE	CJE0849	-	COG0576O	heat shock protein GrpE
+787627..789498	+	623	57237604	dnaK	CJE0850	-	COG0443O	molecular chaperone DnaK
+789818..790780	+	320	57237605	-	CJE0851	-	COG2220R	hypothetical protein
+790850..791191	+	113	57237606	-	CJE0852	-	COG1917S	hypothetical protein
+791252..792421	-	389	57237607	aspC	CJE0853	-	COG0436E	aspartate aminotransferase
+792594..793232	-	212	57237608	cysE	CJE0854	-	COG1045E	serine acetyltransferase
+793233..795068	-	611	57237609	speA	CJE0855	-	COG1166E	arginine decarboxylase
+795065..796291	-	408	57237610	hisS	CJE0856	-	COG0124J	histidyl-tRNA synthetase
+796288..796866	-	192	57237611	tmk	CJE0857	-	COG0125F	thymidylate kinase
+796857..797333	-	158	57237612	coaD	CJE0858	-	COG0669H	phosphopantetheine adenylyltransferase
+797373..797936	-	187	57237613	-	CJE0859	-	COG0163H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+797933..798595	-	220	57237614	flgA	CJE0860	-	COG1261NO	flagellar basal body P-ring biosynthesis protein FlgA
+798679..799455	-	258	57237615	-	CJE0861	-	COG1464P	NLPA family lipoprotein
+799465..800235	-	256	57237616	-	CJE0862	-	COG1464P	NLPA family lipoprotein
+800284..801057	-	257	57237617	-	CJE0863	-	COG1464P	NLPA family lipoprotein
+801247..802158	-	303	57237618	-	CJE0864	-	COG2011P	ABC transporter permease
+802155..803165	-	336	57237619	-	CJE0865	-	COG1135P	ABC transporter ATP-binding protein
+803170..805782	-	870	57237620	valS	CJE0866	-	COG0525J	valyl-tRNA synthetase
+805805..806824	-	339	57237621	-	CJE0867	-	COG2433S	hypothetical protein
+806953..808983	+	676	57237622	-	CJE0868	-	COG0210L	ATP-dependent DNA helicase
+809024..809764	+	246	57237623	-	CJE0869	-	COG4588R	major antigenic peptide PEB2
+809863..810390	+	175	57237624	tpx	CJE0870	-	COG2077O	thiol peroxidase
+810637..813411	+	924	57237625	napA	CJE0871	-	COG0243C	nitrate reductase catalytic subunit
+813429..814169	+	246	57237626	napG	CJE0872	-	COG0437C	quinol dehydrogenase periplasmic component
+814169..814948	+	259	57237627	napH	CJE0873	-	COG0348C	quinol dehydrogenase membrane component
+814948..815469	+	173	57237628	napB	CJE0874	-	COG3043C	periplasmic nitrate reductase, small subunit
+815474..816388	+	304	57237629	napL	CJE0875	-	-	NapL
+816381..816719	+	112	57237630	napD	CJE0876	-	COG3062P	NapD
+816732..816905	+	57	57237631	-	CJE0877	-	-	hypothetical protein
+816987..817232	+	81	57237632	-	CJE0878	-	-	hypothetical protein
+817229..817720	+	163	57237633	-	CJE0879	-	-	hypothetical protein
+817776..818807	+	343	57237634	-	CJE0880	-	COG0617J	polyA polymerase
+818804..819628	+	274	57237635	purU	CJE0881	-	COG0788F	formyltetrahydrofolate deformylase
+819625..820893	-	422	57237636	-	CJE0882	-	COG0520E	aminotransferase
+820935..821813	+	292	57237637	-	CJE0883	-	-	hypothetical protein
+821817..822836	+	339	57237638	-	CJE0884	-	COG0642T	sensor histidine kinase
+822935..824239	+	434	57237639	-	CJE0885	-	-	hypothetical protein
+824297..825724	-	475	57237640	-	CJE0886	-	COG0770M	Mur ligase
+825725..826444	-	239	57237641	-	CJE0887	-	COG0596R	hypothetical protein
+826446..826661	-	71	57237642	-	CJE0888	-	-	prevent-host-death family protein
+826721..827761	-	346	57237643	ddl	CJE0889	-	COG1181M	D-alanyl-alanine synthetase A
+827771..828322	-	183	57237644	ruvA	CJE0890	-	COG0632L	Holliday junction DNA helicase RuvA
+828298..830157	-	619	57237645	-	CJE0891	-	-	hypothetical protein
+830261..831712	+	483	57237646	mviN	CJE0892	-	COG0728R	integral membrane protein MviN
+831712..833100	+	462	57237647	cysS	CJE0893	-	COG0215J	cysteinyl-tRNA synthetase
+833093..834835	+	580	57237648	-	CJE0894	-	COG1132V	ABC transporter ATP-binding protein/permease MsbA
+834867..835925	+	352	57237649	pyrD	CJE0895	-	COG0167F	dihydroorotate dehydrogenase 2
+835922..837172	+	416	57237650	-	CJE0896	-	COG0612R	M16 family peptidase
+837165..838061	+	298	57237651	dapA	CJE0897	-	COG0329EM	dihydrodipicolinate synthase
+838061..838840	+	259	57237652	-	CJE0898	-	COG1028IQR	7-alpha-hydroxysteroid dehydrogenase
+838881..839186	-	101	57237653	-	CJE0899	-	-	hypothetical protein
+839198..839794	-	198	57237654	-	CJE0900	-	COG0491R	metallo-beta-lactamase
+839868..840608	+	246	57237655	nadE	CJE0901	-	COG0171H	NAD synthetase
+840612..841538	+	308	57237656	lpxK	CJE0902	-	COG1663M	tetraacyldisaccharide 4'-kinase
+841535..842947	+	470	57237657	thrC	CJE0903	-	COG0498E	threonine synthase
+842944..843663	+	239	57237658	kdsB	CJE0904	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+843750..844997	+	415	57237659	-	CJE0905	-	-	hypothetical protein
+845091..845861	+	256	57237660	-	CJE0906	-	COG0834ET	amino acid-binding protein
+845877..846611	-	244	57237661	fliP	CJE0907	-	COG1338NU	flagellar biosynthesis protein FliP
+846755..848044	+	429	57237662	glmU	CJE0908	-	COG1207M	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+848041..849195	+	384	57237663	coaBC	CJE0909	-	COG0452H	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+849198..849809	+	203	57237664	-	CJE0910	-	-	hypothetical protein
+849813..850481	+	222	57237665	uppS	CJE0911	-	COG0020I	undecaprenyl diphosphate synthase
+850478..851254	+	258	57237666	-	CJE0912	-	COG1989NOU	A24 family peptidase
+851254..852279	+	341	57237667	-	CJE0913	-	COG0795R	hypothetical protein
+852279..853001	+	240	57237668	truA	CJE0914	-	COG0101J	tRNA pseudouridine synthase A
+852998..854209	-	403	57237669	ilvA	CJE0915	-	COG1171E	threonine dehydratase
+854209..854622	-	137	57237670	-	CJE0916	-	COG1832R	CoA-binding domain-containing protein
+854741..855157	+	138	57237671	-	CJE0917	-	COG3399S	hypothetical protein
+855144..856217	-	357	57237672	trmA	CJE0918	-	COG2265J	tRNA (uracil-5-)-methyltransferase
+856214..857947	-	577	57237673	-	CJE0919	-	COG1757C	Na+/H+ antiporter family protein
+857944..858693	-	249	57237674	-	CJE0920	-	COG4221R	short chain dehydrogenase/reductase family oxidoreductase
+858690..859928	-	412	57237675	-	CJE0921	-	COG0666R	ankyrin
+859988..862534	-	848	57237676	acnB	CJE0922	-	COG1049C	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+862589..863041	+	150	57237677	ogt	CJE0923	-	COG0350L	methylated-DNA--protein-cysteine S-methyltransferase
+863033..863974	-	313	57237678	-	CJE0924	-	-	hypothetical protein
+863978..865864	-	628	57237679	metG	CJE0925	-	COG0143J	methionyl-tRNA synthetase
+865874..866071	-	65	57237680	-	CJE0926	-	-	hypothetical protein
+866064..866906	-	280	57237681	fbp	CJE0927	-	COG0158G	fructose-1,6-bisphosphatase
+866908..867399	-	163	57237682	mobB	CJE0928	-	COG1763H	molybdopterin-guanine dinucleotide biosynthesis protein MobB
+867495..867980	+	161	57237683	-	CJE0929	-	-	lipoprotein
+867877..869502	-	541	57237684	-	CJE0930	-	COG0741M	soluble lytic murein transglycosylase
+869499..869780	-	93	57237685	-	CJE0931	-	-	YGGT family protein
+869783..871078	-	431	57237686	gltX	CJE0932	-	COG0008J	glutamylglutaminyl-tRNA synthetase
+871164..872288	+	374	57237687	-	CJE0933	-	COG1408R	Ser/Thr protein phosphatase
+872285..873085	+	266	57237688	psd	CJE0934	-	COG0688I	phosphatidylserine decarboxylase
+873082..873363	-	93	57237689	-	CJE0935	-	COG2257S	FlhB domain-containing protein
+873360..875471	-	703	57237690	-	CJE0936	-	-	hypothetical protein
+875464..876651	-	395	57237691	-	CJE0937	-	-	major facilitator family protein
+876629..877132	-	167	57237692	-	CJE0938	-	-	hypothetical protein
+877132..877461	-	109	57237693	-	CJE0939	-	COG5336S	hypothetical protein
+877458..878732	-	424	57237694	hemL	CJE0940	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+878729..879076	-	115	57237695	-	CJE0941	-	-	hypothetical protein
+879156..880004	+	282	57237696	folD	CJE0942	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+880014..880862	+	282	57237697	lepB	CJE0943	-	COG0681U	signal peptidase I
+880884..882044	-	386	57237698	-	CJE0944	-	COG0303H	molybdopterin biosynthesis MoeA protein
+882041..883297	-	418	57237699	murA	CJE0945	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+883363..883791	-	142	57237700	-	CJE0946	-	-	hypothetical protein
+883885..884757	+	290	57237701	-	CJE0947	-	-	integral membrane protein
+884744..885310	-	188	57237702	pabA	CJE0948	-	COG0512EH	para-aminobenzoate synthase glutamine amidotransferase, component II
+885307..887091	-	594	57237703	pabB	CJE0949	-	COG0147EH	para-aminobenzoate synthase glutamine amidotransferase, component I
+887081..888145	-	354	57237704	-	CJE0950	-	COG4974L	phage integrase family site specific recombinase
+888773..889435	+	220	57237705	dsbA	CJE0951	-	COG1651O	thiol:disulfide interchange protein DsbA
+889447..890232	+	261	57237706	dsbB	CJE0952	-	COG1495O	disulfide oxidoreductase
+891829..892500	+	223	57237707	-	CJE0954	-	COG1651O	thiol:disulfide interchange protein DsbA
+893729..893869	+	46	57237708	-	CJE0958	-	-	hypothetical protein
+893857..894489	-	210	57237709	-	CJE0959	-	-	periplasmic protein
+894486..894728	-	80	57237710	-	CJE0960	-	-	hypothetical protein
+894712..895758	-	348	57237711	-	CJE0961	-	COG2404R	hypothetical protein
+895767..897941	-	724	57237712	flhA	CJE0962	-	COG1298NU	flagellar biosynthesis protein FlhA
+897928..898338	-	136	57237713	-	CJE0963	-	COG1959K	RrF2 family protein
+898513..898785	+	90	57237714	rpsO	CJE0964	-	COG0184J	30S ribosomal protein S15
+898871..901696	-	941	57237715	-	CJE0965	-	COG1674D	cell division protein FtsK
+901821..904073	-	750	57237716	-	CJE0966	-	COG1344N	lagellar hook-associated protein FlgL
+904454..906385	-	643	57237717	-	CJE0967	-	COG0488R	ABC transporter ATP-binding protein
+906389..907678	-	429	57237718	-	CJE0968	-	COG0642T	sensor histidine kinase
+907672..908334	-	220	57237719	-	CJE0969	-	COG0745TK	DNA-binding response regulator
+908321..909904	-	527	57237720	serA	CJE0970	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+909901..910389	-	162	57237721	-	CJE0971	-	-	hypothetical protein
+910389..912059	-	556	57237722	rpsA	CJE0972	-	COG0539J	30S ribosomal protein S1
+912191..913024	-	277	57237723	ispH	CJE0973	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+913014..914300	-	428	57237724	aroA	CJE0974	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+914297..916618	-	773	57237725	pheT	CJE0975	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+916615..917607	-	330	57237726	pheS	CJE0976	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+917730..918095	+	121	57237727	-	CJE0977	-	COG0537FGR	HIT family protein
+918125..918694	-	189	57237728	thiJ	CJE0978	-	COG0693R	4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+918687..918866	-	59	57237729	-	CJE0979	-	-	hypothetical protein
+918949..919692	+	247	57237730	-	CJE0980	-	COG0765E	His/Glu/Gln/Arg/opine amino acid ABC transporter permease
+919685..920413	+	242	57237731	-	CJE0981	-	COG1126E	amino acid ABC transporter ATP-binding protein
+920441..921907	-	488	57237732	-	CJE0982	-	COG1115E	amino acid carrier protein
+922011..922478	-	155	57237733	-	CJE0983	-	COG0219J	RNA methyltransferase
+922481..923467	-	328	57237734	alr	CJE0984	-	COG0787M	alanine racemase
+923468..924445	-	325	57237735	-	CJE0985	-	COG3034S	hypothetical protein
+924602..925072	+	156	57237736	-	CJE0986	-	-	hypothetical protein
+925158..925577	+	139	57237737	-	CJE0987	-	COG2847S	hypothetical protein
+925581..926033	+	150	57237738	-	CJE0988	-	-	hypothetical protein
+926030..926590	+	186	57237739	-	CJE0989	-	COG1999R	SCO1/SenC family protein
+926597..927496	-	299	57237740	cysK	CJE0990	-	COG0031E	cysteine synthase A
+927623..927919	-	98	57237741	hup	CJE0991	-	COG0776L	DNA-binding protein HU
+928021..929853	-	610	57237742	ciaB	CJE0992	-	-	invasion antigen B
+929915..930328	+	137	57237743	-	CJE0993	-	COG1607I	thioesterase
+930368..930565	-	65	57237744	-	CJE0994	-	COG2879S	hypothetical protein
+930546..932657	-	703	57237745	cstA	CJE0995	-	COG1966T	carbon starvation protein A
+932824..933753	-	309	57237746	prsA	CJE0996	-	COG0462FE	ribose-phosphate pyrophosphokinase
+933860..934519	-	219	57237747	-	CJE0997	-	COG0765E	amino acid ABC transporter permease PEB1
+934530..935282	-	250	57237748	-	CJE0998	-	COG0765E	amino acid ABC transporter permease PEB1
+935284..936063	-	259	57237749	pebA	CJE0999	-	COG0834ET	bifunctional adhesin/ABC transporter aspartate/glutamate-binding protein
+936085..936813	-	242	57237750	pebC	CJE1000	-	COG1126E	amino acid ABC transporter ATP-binding protein PEB1
+936949..937737	-	262	57237751	cheR	CJE1001	-	COG1352NT	chemotaxis protein methyltransferase CheR
+937753..938307	-	184	57237752	cheB	CJE1002	-	COG2201NT	chemotaxis protein CheB
+938473..938910	+	145	57237753	rpiB	CJE1003	-	COG0698G	ribose 5-phosphate isomerase B
+938910..939242	+	110	57237754	-	CJE1004	-	-	hypothetical protein
+939239..939787	+	182	57237755	apt	CJE1005	-	COG0503F	adenine phosphoribosyltransferase
+939806..940402	+	198	57237756	-	CJE1006	-	COG0586S	DedA family protein
+940399..941850	+	483	57237757	-	CJE1007	-	COG0260E	leucyl aminopeptidase
+941847..942950	+	367	57237758	-	CJE1008	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+942972..944354	-	460	57237759	argH	CJE1009	-	COG0165E	argininosuccinate lyase
+944364..945938	-	524	57237760	pckA	CJE1010	-	COG1866C	phosphoenolpyruvate carboxykinase
+945951..947750	-	599	57237761	-	CJE1011	-	COG5016C	oxaloacetate decarboxylase, alpha subunit
+947782..949122	-	446	57237762	-	CJE1012	-	COG0733R	sodium transporter
+949135..950469	-	444	57237763	-	CJE1013	-	COG0733R	sodium transporter
+950702..951040	+	112	57237764	atpE	CJE1014	-	-	F0F1 ATP synthase subunit C
+951358..952269	+	303	57237765	-	CJE1015	-	COG0679R	hypothetical protein
+952277..955789	-	1170	57237766	aas	CJE1016	-	COG0318IQ	2-acyl-glycerophospho-ethanolamine acyltransferase
+955834..956214	-	126	57237767	-	CJE1017	-	-	hypothetical protein
+957015..957800	-	261	57237768	-	CJE1018	-	COG0765E	His/Glu/Gln/Arg/opine ABC transporter permease
+957823..959028	-	401	57237769	-	CJE1019	-	COG4591M	permease
+959025..961613	-	862	57237770	secA	CJE1020	-	COG0653U	preprotein translocase subunit SecA
+961713..962222	+	169	161486705	lolA	CJE1021	-	COG2834M	outer-membrane lipoprotein carrier protein
+962219..962953	-	244	57237772	-	CJE1022	-	-	hypothetical protein
+962963..964306	-	447	57237773	-	CJE1023	-	COG0507L	hypothetical protein
+964355..965701	+	448	57237774	-	CJE1024	-	COG0791M	lipoprotein
+965713..966585	-	290	57237775	-	CJE1025	-	COG0388R	carbon-nitrogen family hydrolase
+966582..967469	-	295	57237776	-	CJE1026	-	COG0053P	cation efflux family protein
+967466..968443	-	325	57237777	-	CJE1027	-	COG2957E	peptidyl-arginine deiminase
+968542..968976	-	144	57237778	-	CJE1028	-	COG3187O	lipoprotein
+968992..969111	-	39	57237779	-	CJE1029	-	-	hypothetical protein
+969127..969660	-	177	57237780	-	CJE1030	-	COG0840NT	methyl-accepting chemotaxis protein
+970677..972209	-	510	57237781	purH	CJE1033	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+972212..972850	-	212	57237782	-	CJE1034	-	COG1076O	DnaJ domain-containing protein
+972979..975165	-	728	57237783	purL	CJE1035	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+975176..976504	-	442	57237784	trmE	CJE1036	-	COG0486R	tRNA modification GTPase TrmE
+976497..977315	-	272	57237785	-	CJE1037	-	-	hypothetical protein
+977312..978904	-	530	57237786	-	CJE1038	-	COG0706U	inner membrane protein translocase component YidC
+978901..979242	-	113	57237787	-	CJE1039	-	COG0759S	hypothetical protein
+979239..979565	-	108	57237788	rnpA	CJE1040	-	COG0594J	ribonuclease P protein component
+979562..979696	-	44	57237789	rpmH	CJE1041	-	-	50S ribosomal protein L34
+979827..980306	+	159	57237790	-	CJE1042	-	COG1247M	acetyltransferase
+980303..980911	+	202	57237791	-	CJE1043	-	COG1573L	hypothetical protein
+980908..982098	+	396	57237792	-	CJE1044	-	-	hypothetical protein
+982090..982464	-	124	57237793	-	CJE1045	-	COG0824R	thioesterase
+982572..982670	-	32	57237794	-	CJE1046	-	-	hypothetical protein
+984859..984987	+	42	57237795	-	CJE1048	-	-	hypothetical protein
+985084..985197	+	37	57237796	-	CJE1049	-	-	hypothetical protein
+985215..985391	+	58	57237797	-	CJE1050	-	-	hypothetical protein
+985388..985501	-	37	57237798	-	CJE1051	-	-	hypothetical protein
+985554..986084	+	176	57237799	-	CJE1052	-	-	hypothetical protein
+986086..986409	+	107	57237800	-	CJE1053	-	-	hypothetical protein
+986550..986732	+	60	57237801	-	CJE1054	-	-	hypothetical protein
+986744..986875	-	43	57237802	-	CJE1055	-	-	hypothetical protein
+988820..989695	+	291	57237803	-	CJE1058	-	COG2227H	methyltransferase
+989768..990346	+	192	57237804	-	CJE1059	-	COG2050Q	hypothetical protein
+990347..990520	-	57	57237805	-	CJE1060	-	-	lipoprotein
+990529..991056	-	175	57237806	-	CJE1061	-	COG1525L	thermonuclease
+991124..992392	+	422	57237807	pepD	CJE1062	-	COG2195E	aminoacyl-histidine dipeptidase
+992375..993622	-	415	57237808	cjaB	CJE1063	-	COG2814G	transport protein CjaB
+993663..994502	-	279	57237809	-	CJE1064	-	COG0834ET	surface antigen, CjaA
+994722..995840	+	372	57237810	jlpA	CJE1065	-	-	surface-exposed lipoprotein
+995932..996672	+	246	57237811	-	CJE1066	-	COG3022S	hypothetical protein
+996676..997827	-	383	57237812	hipO	CJE1067	-	COG1473R	hippurate hydrolase
+997829..998440	-	203	57237813	-	CJE1068	-	COG2807P	hypothetical protein
+998544..998882	+	112	57237814	-	CJE1069	-	-	hypothetical protein
+998885..999646	-	253	57237815	-	CJE1070	-	-	hypothetical protein
+999643..1000908	-	421	57237816	-	CJE1071	-	COG0247C	iron-sulfur cluster-binding domain-containing protein
+1000910..1002265	-	451	57237817	hemN	CJE1072	-	COG0635H	coproporphyrinogen III oxidase
+1002252..1002743	-	163	57237818	-	CJE1073	-	-	hypothetical protein
+1002740..1003660	-	306	57237819	argF	CJE1074	-	COG0078E	ornithine carbamoyltransferase
+1003657..1004640	-	327	57237820	hemB	CJE1075	-	COG0113H	delta-aminolevulinic acid dehydratase
+1004698..1005258	+	186	57237821	ribA	CJE1076	-	COG0807H	GTP cyclohydrolase II
+1005259..1005825	+	188	57237822	gidB	CJE1077	-	COG0357M	methyltransferase GidB
+1005841..1006413	-	190	57237823	-	CJE1078	-	-	hypothetical protein
+1006508..1007605	-	365	57237824	-	CJE1079	-	COG2855S	hypothetical protein
+1007718..1008599	+	293	57237825	-	CJE1080	-	COG0583K	LysR family transcriptional regulator
+1008679..1010547	+	622	57237826	rpoD	CJE1081	-	COG0568K	RNA polymerase sigma factor RpoD
+1010563..1011075	-	170	57237827	sixA	CJE1082	-	COG2062T	phosphohistidine phosphatase SixA
+1011072..1011590	-	172	57237828	-	CJE1083	-	COG0705R	rhomboid family protein
+1011689..1012105	+	138	57237829	-	CJE1084	-	-	hypothetical protein
+1012113..1013729	-	538	57237830	-	CJE1085	-	COG0465O	cell division protein FtsH
+1013733..1014983	-	416	57237831	-	CJE1086	-	COG0621J	MiaB-like tRNA modifying enzyme
+1014980..1016551	-	523	57237832	-	CJE1087	-	COG0668M	mechanosensitive ion channel family protein
+1016548..1017603	-	351	57237833	aroB	CJE1088	-	COG0337E	3-dehydroquinate synthase
+1017649..1019049	-	466	57237834	-	CJE1089	-	COG3400S	TrkA domain-containing protein
+1019079..1020200	+	373	57237835	tgt	CJE1090	-	COG0343J	queuine tRNA-ribosyltransferase
+1020202..1020969	+	255	57237836	-	CJE1091	-	COG0598P	hypothetical protein
+1021288..1021395	+	35	57237837	-	CJE1092	-	-	hypothetical protein
+1021521..1021871	+	116	57237838	-	CJE1093	-	-	hypothetical protein
+1021914..1022585	-	223	57237839	-	CJE1094	-	COG4974L	phage integrase family site specific recombinase
+1022591..1022851	-	86	57237840	-	CJE1095	-	-	hypothetical protein
+1023081..1023311	+	76	57237841	-	CJE1096	-	-	hypothetical protein
+1023559..1023675	-	38	57237842	-	CJE1097	-	-	hypothetical protein
+1023863..1024006	-	47	57237843	-	CJE1098	-	-	hypothetical protein
+1024050..1024181	-	43	57237844	-	CJE1099	-	-	hypothetical protein
+1024202..1024489	-	95	57237845	-	CJE1100	-	COG3654R	death-on-curing family protein
+1024486..1024635	-	49	57237846	-	CJE1101	-	-	hypothetical protein
+1024907..1025134	+	75	57237847	-	CJE1102	-	-	hypothetical protein
+1025103..1025402	+	99	57237848	-	CJE1103	-	COG3041S	hypothetical protein
+1025481..1025648	+	55	57237849	-	CJE1104	-	-	hypothetical protein
+1025669..1026223	-	184	57237850	-	CJE1105	-	-	hypothetical protein
+1026192..1026596	-	134	57237851	-	CJE1106	-	-	hypothetical protein
+1026778..1028367	-	529	57237852	-	CJE1107	-	-	TraG-like protein
+1028406..1028567	-	53	57237853	-	CJE1108	-	-	hypothetical protein
+1028815..1029615	-	266	57237854	-	CJE1109	-	-	hypothetical protein
+1029669..1030955	-	428	57237855	-	CJE1110	-	-	hypothetical protein
+1031031..1032317	-	428	57237856	-	CJE1111	-	-	hypothetical protein
+1032328..1033065	-	245	57237857	-	CJE1112	-	-	hypothetical protein
+1033187..1035799	-	870	57237858	-	CJE1113	-	-	hypothetical protein
+1035796..1037226	-	476	57237859	-	CJE1114	-	-	hypothetical protein
+1037234..1038736	-	500	57237860	-	CJE1115	-	-	hypothetical protein
+1038746..1039051	-	101	57237861	-	CJE1116	-	-	hypothetical protein
+1039102..1039593	-	163	57237862	-	CJE1117	-	-	hypothetical protein
+1040222..1040458	-	78	57237863	-	CJE1118	-	-	hypothetical protein
+1040538..1040756	+	72	57237864	-	CJE1119	-	-	hypothetical protein
+1040819..1040950	+	43	57237865	-	CJE1120	-	-	hypothetical protein
+1042357..1042590	-	77	57237866	-	CJE1122	-	-	hypothetical protein
+1042587..1042874	-	95	57237867	-	CJE1123	-	-	hypothetical protein
+1043022..1043564	-	180	57237868	-	CJE1124	-	COG1432S	hypothetical protein
+1043806..1043925	-	39	57237869	-	CJE1125	-	-	hypothetical protein
+1043942..1044208	-	88	57237870	-	CJE1126	-	-	hypothetical protein
+1044211..1044771	-	186	57237871	-	CJE1127	-	-	hypothetical protein
+1044811..1044939	-	42	57237872	-	CJE1128	-	-	hypothetical protein
+1045351..1045557	-	68	57237873	-	CJE1129	-	-	hypothetical protein
+1045630..1046097	+	155	57237874	-	CJE1130	-	-	hypothetical protein
+1046112..1046321	+	69	57237875	-	CJE1131	-	-	hypothetical protein
+1046363..1046788	+	141	57237876	-	CJE1132	-	-	hypothetical protein
+1046785..1047834	+	349	57237877	-	CJE1133	-	-	hypothetical protein
+1047837..1048079	+	80	57237878	-	CJE1134	-	-	hypothetical protein
+1048069..1049937	+	622	57237879	-	CJE1135	-	-	hypothetical protein
+1049927..1050673	+	248	57237880	-	CJE1136	-	-	hypothetical protein
+1050718..1054650	+	1310	57237881	-	CJE1137	-	-	hypothetical protein
+1054669..1055937	+	422	57237882	-	CJE1138	-	-	hypothetical protein
+1055941..1056840	-	299	57237883	-	CJE1139	-	COG3456T	hypothetical protein
+1057767..1059182	+	471	57237884	-	CJE1141	-	COG3501S	hypothetical protein
+1059374..1060270	+	298	57237885	-	CJE1142	-	COG3501S	hypothetical protein
+1060350..1061093	+	247	57237886	-	CJE1143	-	-	hypothetical protein
+1061080..1061184	+	34	57237887	-	CJE1144	-	-	hypothetical protein
+1061185..1061529	+	114	57237888	-	CJE1145	-	-	hypothetical protein
+1061519..1062595	+	358	57237889	-	CJE1146	-	-	hypothetical protein
+1062598..1063611	+	337	57237890	-	CJE1147	-	-	hypothetical protein
+1063657..1064526	+	289	57237891	-	CJE1148	-	-	hypothetical protein
+1064519..1064635	+	38	57237892	-	CJE1149	-	-	hypothetical protein
+1064610..1065374	+	254	57237893	-	CJE1150	-	-	hypothetical protein
+1065358..1068297	+	979	57237894	-	CJE1151	-	-	hypothetical protein
+1068290..1069546	+	418	57237895	-	CJE1152	-	-	hypothetical protein
+1069546..1070808	+	420	57237896	-	CJE1153	-	-	hypothetical protein
+1070821..1071033	+	70	57237897	-	CJE1154	-	-	hypothetical protein
+1071640..1071756	+	38	57237898	-	CJE1155	-	-	hypothetical protein
+1071875..1072339	-	154	57237899	-	CJE1156	-	-	hypothetical protein
+1072340..1075585	-	1081	57237900	-	CJE1157	-	COG0755O	CcmF/CcyK/CcsA family cytochrome C biogenesis protein
+1075603..1076298	-	231	57237901	livF	CJE1158	-	COG0410E	branched-chain amino acid ABC transporter ATP-binding protein
+1076285..1077055	-	256	57237902	livG	CJE1159	-	COG0411E	branched-chain amino acid ABC transporter ATP-binding protein
+1077052..1078104	-	350	57237903	livM	CJE1160	-	COG4177E	high affinity branched-chain amino acid ABC transporter permease
+1078104..1079000	-	298	57237904	livH	CJE1161	-	COG0559E	branched-chain amino acid ABC transporter permease
+1079019..1080128	-	369	57237905	-	CJE1162	-	COG0683E	high affinity branched-chain amino acid ABC transporter periplasmic amino acid-binding protein
+1080150..1081265	-	371	57237906	-	CJE1163	-	COG0683E	high affinity branched-chain amino acid ABC transporter periplasmic amino acid-binding protein
+1081296..1081730	-	144	57237907	-	CJE1164	-	COG2863C	cytochrome C family protein
+1081739..1081930	-	63	57237908	-	CJE1165	-	-	porin domain-containing protein
+1081983..1082489	-	168	57237909	-	CJE1166	-	COG2862S	hypothetical protein
+1082498..1083529	-	343	57237910	asd	CJE1167	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1083529..1084830	-	433	57237911	-	CJE1168	-	COG2204T	sigma-54 dependent DNA-binding response regulator
+1084887..1085336	-	149	57237912	-	CJE1169	-	-	hypothetical protein
+1085312..1085827	-	171	57237913	-	CJE1170	-	COG3018S	lipoprotein
+1085894..1088482	-	862	57237914	gyrA	CJE1171	-	COG0188L	DNA gyrase subunit A
+1088523..1089098	-	191	57237915	ctsW	CJE1172	-	COG1040R	transformation system protein
+1089095..1089739	-	214	57237916	mapA	CJE1173	-	COG2834M	outer membrane liproprotein MapA
+1089816..1091612	-	598	57237917	lepA	CJE1174	-	COG0481M	GTP-binding protein LepA
+1093009..1093749	+	246	57237918	-	CJE1176	-	COG0845M	hypothetical protein
+1093752..1096769	+	1005	57237919	-	CJE1177	-	COG0841V	AcrB/AcrD/AcrF family protein
+1096793..1097599	-	268	57237920	-	CJE1178	-	COG0484O	adenylosuccinate lyase
+1097600..1098319	-	239	57237921	-	CJE1179	-	COG2935O	arginyl-tRNA-protein transferase
+1098319..1098570	-	83	57237922	-	CJE1180	-	-	hypothetical protein
+1098574..1100019	-	481	57237923	accC-1	CJE1181	-	COG4770I	acetyl-CoA carboxylase subunit A
+1100159..1101322	+	387	57237924	-	CJE1182	-	COG0772D	cell cycle protein FtsW
+1101319..1102347	+	342	57237925	murG	CJE1183	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1102318..1103481	-	387	57237926	-	CJE1184	-	COG2807P	hypothetical protein
+1103489..1104340	-	283	57237927	-	CJE1185	-	-	hypothetical protein
+1104403..1105293	-	296	57237928	-	CJE1186	-	COG2207K	AraC family transcriptional regulator
+1105290..1105895	-	201	57237929	-	CJE1187	-	COG0352H	thiamine-phosphate pyrophosphorylase
+1105885..1107030	-	381	57237930	thiH	CJE1188	-	COG1060HR	thiamine biosynthesis protein ThiH
+1107033..1107809	-	258	57237931	thiG	CJE1189	-	COG2022H	thiazole synthase
+1107812..1108615	-	267	57237932	thiF	CJE1190	-	COG1179H	thiamine biosynthesis protein ThiF
+1108612..1108803	-	63	57237933	thiS	CJE1191	-	COG2104H	thiamine biosynthesis protein ThiS
+1108813..1109910	-	365	57237934	dapE	CJE1192	-	COG0624E	succinyl-diaminopimelate desuccinylase
+1109915..1110514	-	199	57237935	-	CJE1193	-	COG1280E	amino acid transporter LysE
+1110507..1111208	-	233	57237936	-	CJE1194	-	COG0846K	NAD-dependent deacetylase
+1111251..1115282	-	1343	57237937	-	CJE1195	-	COG0286V	type II restriction-modification enzyme
+1115291..1117498	-	735	57237938	mutS	CJE1196	-	COG1193L	recombination and DNA strand exchange inhibitor protein
+1117491..1117841	-	116	57237939	-	CJE1197	-	-	hypothetical protein
+1117834..1119129	-	431	57237940	murC	CJE1198	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+1119253..1120035	-	260	57237941	-	CJE1199	-	COG0388R	carbon-nitrogen family hydrolase
+1120028..1120201	-	57	57237942	-	CJE1200	-	-	exodeoxyribonuclease VII, small subunit
+1120198..1121655	-	485	57237943	guaB	CJE1201	-	COG0516F	inosine 5'-monophosphate dehydrogenase
+1121665..1123026	-	453	57237944	gatA	CJE1202	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1123023..1123133	-	36	57237945	-	CJE1203	-	-	hypothetical protein
+1123127..1125880	-	917	57237946	ileS	CJE1204	-	COG0060J	isoleucyl-tRNA synthetase
+1125979..1127067	+	362	57237947	-	CJE1205	-	COG1546R	competence/damage-inducible domain-containing protein
+1127079..1127504	+	141	57237948	-	CJE1206	-	COG1246E	acetyltransferase
+1128189..1128794	+	201	57238716	-	CJE1209	-	COG0778C	nitroreductase
+1128920..1129456	+	178	57237949	pgsA	CJE1210	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1129453..1130559	+	368	57237950	-	CJE1211	-	COG0750M	membrane-associated zinc metalloprotease
+1130552..1131418	+	288	57237951	-	CJE1212	-	COG2990S	hypothetical protein
+1131505..1131882	+	125	57237952	rpsF	CJE1213	-	COG0360J	30S ribosomal protein S6
+1131891..1132439	+	182	57237953	ssb	CJE1214	-	COG0629L	single-stranded DNA-binding protein
+1132450..1132710	+	86	57237954	rpsR	CJE1215	-	COG0238J	30S ribosomal protein S18
+1132770..1135145	-	791	57237955	lon	CJE1216	-	COG0466O	ATP-dependent protease La
+1135162..1135809	-	215	57237956	-	CJE1217	-	COG4105R	lipoprotein
+1135970..1136359	+	129	57237957	-	CJE1218	-	COG1699S	flagellar assembly protein FliW
+1136359..1137090	+	243	57237958	proC	CJE1219	-	COG0345E	pyrroline-5-carboxylate reductase
+1137087..1137389	+	100	57237959	ctsT	CJE1220	-	-	transformation system protein
+1137386..1138048	+	220	57237960	-	CJE1221	-	-	hypothetical protein
+1138045..1138497	+	150	57237961	-	CJE1222	-	-	hypothetical protein
+1138494..1139123	-	209	57237962	hemD	CJE1223	-	COG1587H	uroporphyrinogen-III synthase
+1139101..1139733	-	210	57237963	thiE	CJE1224	-	COG0352H	thiamine-phosphate pyrophosphorylase
+1139723..1140535	-	270	57237964	thiD	CJE1225	-	COG0351H	phosphomethylpyrimidine kinase
+1140532..1141218	-	228	57237965	-	CJE1226	-	COG2231L	endonuclease III
+1141215..1141976	-	253	57237966	-	CJE1227	-	COG2607R	hypothetical protein
+1141978..1144914	-	978	57237967	mfd	CJE1228	-	COG1197LK	transcription-repair coupling factor
+1144914..1145309	-	131	57237968	-	CJE1229	-	COG1664M	hypothetical protein
+1145246..1146148	-	300	57237969	-	CJE1230	-	COG0739M	M24/M37 family peptidase
+1146135..1147307	-	390	57237970	folC	CJE1231	-	COG0285H	folC bifunctional protein
+1147285..1148682	-	465	57237971	-	CJE1232	-	-	hypothetical protein
+1148666..1149178	-	170	57237972	-	CJE1233	-	-	lipoprotein
+1149175..1151604	-	809	57237973	leuS	CJE1234	-	COG0495J	leucyl-tRNA synthetase
+1151614..1152585	-	323	57237974	secF	CJE1235	-	COG0341U	preprotein translocase subunit SecF
+1152585..1154165	-	526	57237975	secD	CJE1236	-	COG0342U	preprotein translocase subunit SecD
+1154158..1154430	-	90	57237976	yajC	CJE1237	-	COG1862U	preprotein translocase subunit YajC
+1154403..1155728	+	441	57237977	cutE	CJE1238	-	COG0815M	apolipoprotein N-acyltransferase
+1155965..1157176	-	403	57237978	metK	CJE1239	-	COG0192H	S-adenosylmethionine synthetase
+1157301..1158524	+	407	57237979	-	CJE1240	-	COG3633E	serine/threonine transporter SstT
+1158534..1159421	+	295	57237980	pyrB	CJE1241	-	COG0540F	aspartate carbamoyltransferase catalytic subunit
+1159425..1161146	+	573	57237981	pepF	CJE1242	-	COG1164E	oligoendopeptidase F
+1161140..1161577	+	145	57237982	-	CJE1243	-	-	hypothetical protein
+1161574..1163649	+	691	57237983	-	CJE1244	-	COG0210L	ATP-dependent DNA helicase UvrD
+1163646..1164464	+	272	57237984	truB	CJE1245	-	COG0130J	tRNA pseudouridine synthase B
+1164458..1164685	+	75	57237985	csrA	CJE1246	-	COG1551T	carbon storage regulator
+1164682..1165449	+	255	57237986	ispE	CJE1247	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1165446..1165898	+	150	57237987	smpB	CJE1248	-	COG0691O	SsrA-binding protein
+1165909..1166511	+	200	57237988	-	CJE1249	-	-	thioredoxin
+1166511..1166801	+	96	57237989	-	CJE1250	-	COG2127S	hypothetical protein
+1166798..1168927	+	709	57237990	clpA	CJE1251	-	COG0542O	ATP-dependent Clp protease ATP-binding subunit ClpA
+1168902..1169549	+	215	57237991	aat	CJE1252	-	COG2360O	leucyl/phenylalanyl-tRNA--protein transferase
+1169571..1170860	-	429	57237992	-	CJE1253	-	COG0840NT	methyl-accepting chemotaxis protein
+1170941..1171567	-	208	57237993	-	CJE1254	-	COG2095U	MarC family integral membrane protein
+1171582..1171941	-	119	57237994	msrB	CJE1255	-	COG0229O	methionine sulfoxide reductase B
+1172031..1172828	+	265	57237995	-	CJE1256	-	COG2833S	hypothetical protein
+1172819..1173547	-	242	57237996	pssA	CJE1257	-	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase
+1173557..1174174	-	205	57237997	-	CJE1258	-	COG0688I	phosphatidylserine decarboxylase-related protein
+1174171..1176108	-	645	57237998	ftsH	CJE1259	-	COG0465O	cell division protein FtsH
+1176112..1176957	-	281	57237999	prmA	CJE1260	-	COG2264J	ribosomal protein L11 methyltransferase
+1176980..1177372	-	130	57238000	cheY	CJE1261	-	COG3706T	chemotaxis protein CheY
+1177485..1178378	-	297	57238001	pglG	CJE1262	-	-	general glycosylation pathway protein
+1178378..1180150	-	590	57238002	pglF	CJE1263	-	COG1086MG	general glycosylation pathway protein
+1180152..1181312	-	386	57238003	pglE	CJE1264	-	COG0399M	general glycosylation pathway protein
+1181410..1182021	-	203	57238004	pglD	CJE1265	-	COG2171E	general glycosylation pathway protein
+1181987..1182589	-	200	57238005	pglC	CJE1266	-	COG2148M	general glycosylation pathway protein
+1182582..1183712	-	376	57238006	pglA	CJE1267	-	COG0438M	general glycosylation pathway protein
+1183722..1185863	-	713	57238007	pglB	CJE1268	-	COG1287R	general glycosylation pathway protein
+1185867..1186964	-	365	57238008	pglJ	CJE1269	-	COG0438M	general glycosylation pathway protein
+1186952..1187881	-	309	57238009	pglI	CJE1270	-	COG0463M	general glycosylation pathway protein
+1187874..1188950	-	358	57238010	pglH	CJE1271	-	COG0438M	general glycosylation pathway protein
+1188950..1190644	-	564	57238011	wlaB	CJE1272	-	COG1132V	ABC transporter ATP-binding/permease
+1190638..1191624	-	328	57238012	galE	CJE1273	-	COG1087M	UDP-glucose 4-epimerase
+1191683..1192477	-	264	57238013	wlaX	CJE1274	-	COG3298L	polysaccharide biosynthesis protein
+1192544..1193572	+	342	57238014	waaC	CJE1275	-	COG0859M	lipopolysaccharide heptosyltransferase I
+1193562..1194449	+	295	57238015	waaM	CJE1276	-	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+1194446..1195996	+	516	57238016	-	CJE1277	-	COG1215M	lipooligosaccharide biosynthesis glycosyltransferase
+1195965..1196852	-	295	57238017	-	CJE1278	-	COG0463M	lipooligosaccharide biosynthesis galactosyltransferase
+1196845..1198053	-	402	57238018	-	CJE1279	-	COG0463M	lipooligosaccharide biosynthesis glycosyltransferase
+1198131..1199102	-	323	57238019	-	CJE1280	-	COG0463M	lipooligosaccharide biosynthesis galactosyltransferase
+1199095..1199982	-	295	57238020	-	CJE1281	-	-	hypothetical protein
+1200036..1200845	-	269	57238021	waaV	CJE1282	-	COG0463M	lipooligosaccharide biosynthesis glycosyltransferase
+1200904..1201854	+	316	57238022	waaF	CJE1283	-	COG0859M	ADP-heptose--LPS heptosyltransferase II
+1201840..1202604	-	254	57238023	-	CJE1284	-	COG3306M	lipooligosaccharide biosynthesis glycosyltransferase
+1202604..1203164	-	186	57238024	gmhA-1	CJE1285	-	COG0279G	phosphoheptose isomerase
+1203161..1204546	-	461	57238025	hldE	CJE1286	-	COG2870M	D,D-heptose 1-phosphate adenosyltransferase/7-phosphate kinase
+1204539..1205492	-	317	57238026	waaD	CJE1287	-	COG0451MG	ADP-L-glycero-D-mannoheptose-6-epimerase
+1205493..1206020	-	175	57238027	-	CJE1288	-	COG0241E	hydrolase
+1206135..1206437	+	100	57238028	cyf	CJE1289	-	COG2863C	cytochrome C553
+1206460..1206666	-	68	57238029	-	CJE1290	-	COG3197P	cytochrome oxidase maturation protein, cbb3-type
+1206663..1209014	-	783	57238030	-	CJE1291	-	COG2217P	ATPase P
+1209129..1210427	+	432	57238031	rho	CJE1292	-	COG1158K	transcription termination factor Rho
+1210431..1211960	+	509	57238032	dnaX	CJE1293	-	COG2812L	DNA polymerase III subunits gamma/tau
+1212547..1214646	-	699	57238033	-	CJE1295	-	COG2217P	copper-translocating P-type ATPase
+1214646..1214840	-	64	57238034	-	CJE1296	-	-	hypothetical protein
+1214830..1215780	-	316	57238035	-	CJE1297	-	COG1230P	cation efflux family protein
+1215856..1216119	-	87	57238036	-	CJE1298	-	COG3809S	hypothetical protein
+1216189..1216683	-	164	57238037	-	CJE1299	-	COG3610S	hypothetical protein
+1216680..1217456	-	258	57238038	-	CJE1300	-	COG2966S	hypothetical protein
+1217523..1218449	+	308	57238039	ldh	CJE1301	-	COG0039C	L-lactate dehydrogenase
+1218412..1219050	-	212	57238040	-	CJE1302	-	COG0586S	DedA family protein
+1219131..1219358	-	75	57238041	-	CJE1303	-	-	hypothetical protein
+1219369..1220799	-	476	57238042	-	CJE1304	-	-	hypothetical protein
+1220963..1221445	-	160	57238043	ppiB	CJE1305	-	COG0652O	peptidyl-prolyl cis-trans isomerase B
+1221455..1222162	-	235	57238044	-	CJE1306	-	COG0217S	hypothetical protein
+1222267..1222608	+	113	57238045	-	CJE1307	-	COG2076P	SMR family multidrug efflux pump
+1222608..1222916	+	102	57238046	-	CJE1308	-	COG2076P	SMR family multidrug efflux pump
+1222934..1224526	-	530	57238047	argS	CJE1309	-	COG0018J	arginyl-tRNA synthetase
+1224538..1224777	-	79	57238048	-	CJE1310	-	COG1826U	twin arginine-targeting protein translocase
+1224779..1225396	-	205	57238049	gmk	CJE1311	-	COG0194F	guanylate kinase
+1225399..1227042	-	547	57238050	-	CJE1312	-	-	hypothetical protein
+1227099..1227866	-	255	57238051	fliR	CJE1313	-	COG1684NU	flagellar biosynthesis protein FliR
+1227853..1228488	-	211	57238052	-	CJE1314	-	COG1136V	ABC transporter ATP-binding protein
+1228501..1229574	-	357	57238053	tsf	CJE1315	-	COG0264J	elongation factor Ts
+1229574..1230365	-	263	57238054	rpsB	CJE1316	-	COG0052J	30S ribosomal protein S2
+1230481..1231644	-	387	57238055	-	CJE1317	-	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+1231772..1232896	-	374	57238056	petC	CJE1318	-	COG2857C	ubiquinol--cytochrome C reductase, cytochrome C1 subunit
+1232893..1234143	-	416	57238057	petB	CJE1319	-	COG1290C	ubiquinol--cytochrome C reductase, cytochrome b subunit
+1234145..1234648	-	167	57238058	petA	CJE1320	-	COG0723C	ubiquinol--cytochrome C reductase, iron-sulfur subunit
+1234739..1236025	-	428	57238059	arsB	CJE1321	-	COG1055P	arsenical pump membrane protein
+1236026..1237885	-	619	57238060	gidA	CJE1322	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+1237973..1238470	-	165	57238061	-	CJE1323	-	COG2202T	methyl-accepting chemotaxis protein
+1238488..1239867	-	459	57238062	-	CJE1324	-	COG0840NT	methyl-accepting chemotaxis protein
+1239984..1240478	-	164	57238063	-	CJE1325	-	COG2202T	methyl-accepting chemotaxis protein
+1240825..1242123	+	432	57238064	dctA	CJE1326	-	COG1301C	C4-dicarboxylate transport protein
+1242120..1242926	-	268	57238065	-	CJE1327	-	-	hypothetical protein
+1243068..1244594	+	508	57238066	-	CJE1328	-	COG0306P	phosphate transporter family protein
+1244602..1245780	-	392	57238067	-	CJE1329	-	COG0044F	dihydroorotase
+1245790..1246683	-	297	57238068	gpsA	CJE1330	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1246683..1248101	-	472	57238069	gatB	CJE1331	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1248216..1248710	+	164	57238070	luxS	CJE1332	-	COG1854T	S-ribosylhomocysteinase
+1249021..1250013	+	330	57238071	-	CJE1333	-	COG3491R	2OG-Fe(II) oxygenase family oxidoreductase
+1250006..1250794	+	262	57238072	-	CJE1334	-	COG1464P	NLPA family lipoprotein
+1250806..1253070	+	754	57238073	metE	CJE1335	-	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+1253080..1253928	+	282	57238074	metF	CJE1336	-	COG0685E	5,10-methylenetetrahydrofolate reductase
+1253950..1254141	-	63	57238075	-	CJE1337	-	-	hypothetical protein
+1254138..1254818	-	226	57238076	atpB	CJE1338	-	COG0356C	F0F1 ATP synthase subunit A
+1254887..1256227	-	446	57238077	radA	CJE1339	-	COG1066O	DNA repair protein RadA
+1256227..1257093	-	288	57238078	ftsY	CJE1340	-	COG0552U	signal recognition particle-docking protein FtsY
+1257093..1257650	-	185	57238079	-	CJE1341	-	COG0526OC	lipoprotein
+1257733..1258359	+	208	57238080	-	CJE1342	-	COG0212H	hypothetical protein
+1258280..1259833	+	517	57238081	-	CJE1343	-	COG1418R	phosphodiesterase
+1259842..1260399	+	185	57238082	-	CJE1344	-	COG0586S	DedA family protein
+1260399..1261658	+	419	57238722	-	CJE1345	-	-	ComEC/Rec2 family protein
+1261602..1262408	-	268	57238083	rbn	CJE1346	-	COG1295S	ribonuclease BN
+1262412..1263794	-	460	57238084	glcD	CJE1347	-	COG0277C	glycolate oxidase, subunit GlcD
+1263797..1264507	-	236	57238085	-	CJE1348	-	-	hypothetical protein
+1264515..1264616	-	33	57238086	-	CJE1349	-	-	hypothetical protein
+1264644..1265804	+	386	57238087	-	CJE1350	-	COG0739M	M24/M37 family peptidase
+1265801..1266004	-	67	57238088	-	CJE1351	-	-	hypothetical protein
+1266006..1266686	-	226	57238089	-	CJE1352	-	COG1496S	hypothetical protein
+1266650..1267261	-	203	57238090	ribE	CJE1353	-	COG0307H	riboflavin synthase subunit alpha
+1267270..1269810	-	846	57238091	-	CJE1354	-	-	hypothetical protein
+1269972..1270232	+	86	57238092	groES	CJE1355	-	COG0234O	molecular chaperone GroES
+1270253..1271890	+	545	57238093	groEL	CJE1356	-	COG0459O	molecular chaperone GroEL
+1271933..1273123	-	396	57238094	-	CJE1357	-	COG0642T	sensor histidine kinase
+1273116..1273781	-	221	57238095	-	CJE1358	-	COG0745TK	DNA-binding response regulator
+1273929..1274528	+	199	57238096	-	CJE1359	-	COG2703P	hemerythrin family non-heme iron protein
+1274539..1274787	+	82	57238097	-	CJE1360	-	COG4710R	hypothetical protein
+1275045..1276292	-	415	57238098	-	CJE1361	-	COG0642T	sensor histidine kinase
+1276289..1276963	-	224	57238099	-	CJE1362	-	COG0745TK	DNA-binding response regulator
+1277039..1278457	-	472	57238100	htrA	CJE1363	-	COG0265O	protease DO
+1278658..1279551	+	297	57238101	dnaJ-1	CJE1364	-	COG0484O	co-molecular chaperone DnaJ
+1279567..1279941	+	124	57238102	-	CJE1365	-	COG0789K	MerR family transcriptional regulator
+1279948..1281573	+	541	57238103	-	CJE1366	-	COG0475P	sodium/hydrogen exchanger family protein
+1281583..1281915	+	110	57238104	-	CJE1367	-	-	hypothetical protein
+1281912..1282532	+	206	57238105	-	CJE1368	-	COG0546R	HAD-superfamily hydrolase, subfamily IA, variant 1 family protein
+1282588..1284582	+	664	57238106	glyS	CJE1369	-	COG0751J	glycyl-tRNA synthetase subunit beta
+1284579..1285400	+	273	57238107	-	CJE1370	-	COG0739M	M24/M37 family peptidase
+1285397..1286347	+	316	57238108	-	CJE1371	-	COG1565S	hypothetical protein
+1286344..1287318	-	324	57238109	-	CJE1372	-	COG0248FP	Ppx/GppA family phosphatase
+1287374..1288147	+	257	57238110	pdxJ	CJE1373	-	COG0854H	pyridoxine 5'-phosphate synthase
+1288144..1289238	+	364	57238111	pdxA	CJE1374	-	COG1995H	4-hydroxythreonine-4-phosphate dehydrogenase
+1289228..1289539	-	103	57238112	-	CJE1375	-	-	hypothetical protein
+1289512..1289829	-	105	57238113	-	CJE1376	-	-	hypothetical protein
+1289942..1291141	+	399	57238114	-	CJE1377	-	COG2814G	transporter
+1291197..1291517	+	106	57238115	-	CJE1378	-	-	hypothetical protein
+1291701..1292723	+	340	57238116	hemE	CJE1379	-	COG0407H	uroporphyrinogen decarboxylase
+1292720..1293622	+	300	57238117	-	CJE1380	-	COG0731C	radical SAM domain-containing protein
+1293619..1294815	-	398	57238118	-	CJE1381	-	-	hypothetical protein
+1294817..1296619	-	600	57238119	uvrC	CJE1382	-	COG0322L	excinuclease ABC subunit C
+1296612..1297106	-	164	57238120	-	CJE1383	-	-	hypothetical protein
+1297110..1297241	+	43	57238121	-	CJE1384	-	-	hypothetical protein
+1297245..1298780	+	511	57238122	guaA	CJE1385	-	COG0519F	GMP synthase
+1298866..1300326	+	486	57238123	-	CJE1386	-	COG1196D	hypothetical protein
+1300566..1301816	+	416	57238124	purD	CJE1387	-	COG0151F	phosphoribosylamine--glycine ligase
+1301813..1302265	+	150	57238125	-	CJE1388	-	COG1714S	hypothetical protein
+1302255..1304303	+	682	57238126	-	CJE1389	-	COG1452M	organic solvent tolerance protein
+1304373..1306532	+	719	57238127	pnp	CJE1390	-	COG1185J	polynucleotide phosphorylase/polyadenylase
+1306529..1307011	+	160	57238128	-	CJE1391	-	COG3663L	hypothetical protein
+1307062..1307724	-	220	57238129	-	CJE1392	-	-	hypothetical protein
+1308976..1309431	+	151	57238130	-	CJE1394	-	COG0394T	low molecular weight phosphotyrosine protein phosphatase
+1309683..1310978	+	431	57238131	porA	CJE1395	-	-	major outer membrane protein
+1311094..1312215	-	373	57238132	dnaJ-2	CJE1396	-	COG0484O	molecular chaperone DnaJ
+1312372..1313043	+	223	57238133	racR	CJE1397	-	COG0745TK	DNA-binding response regulator
+1313040..1314275	+	411	57238134	racS	CJE1398	-	COG0642T	sensor histidine kinase
+1314275..1314847	+	190	57238135	recR	CJE1399	-	COG0353L	recombination protein RecR
+1314844..1315380	-	178	57238136	hydD	CJE1400	-	COG0680C	hydrogenase maturation protease HydD
+1315377..1316093	-	238	57238137	hydC	CJE1401	-	COG1969C	quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+1316080..1317795	-	571	57238138	hydB	CJE1402	-	COG0374C	quinone-reactive Ni/Fe-hydrogenase, large subunit
+1317798..1318880	-	360	57238139	hydA	CJE1403	-	COG1740C	quinone-reactive Ni/Fe-hydrogenase, small subunit
+1319058..1320899	-	613	57238140	mnmC	CJE1404	-	COG4121S	5-methylaminomethyl-2-thiouridine methyltransferase
+1320896..1322875	-	659	57238141	-	CJE1405	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+1322875..1323966	-	363	57238142	-	CJE1406	-	COG2070R	2-nitropropane dioxygenase family oxidoreductase
+1323963..1325168	-	401	57238143	tyrS	CJE1407	-	COG0162J	tyrosyl-tRNA synthetase
+1325180..1327375	-	731	57238144	-	CJE1408	-	COG0317TK	RelA/SpoT family protein
+1327359..1327583	-	74	57238145	rpoZ	CJE1409	-	COG1758K	DNA-directed RNA polymerase subunit omega
+1327594..1328313	-	239	57238146	pyrH	CJE1410	-	COG0528F	uridylate kinase
+1328365..1329558	-	397	57238147	-	CJE1411	-	COG4942D	M24/M37 family peptidase
+1329555..1330361	-	268	57238148	-	CJE1412	-	-	cell division protein FtsX
+1330348..1331013	-	221	57238149	lolD	CJE1413	-	COG1136V	lipoprotein releasing system ATP-binding protein LolD
+1331083..1332261	-	392	57238150	trmB	CJE1414	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+1332261..1333493	-	410	57238151	-	CJE1415	-	COG3401R	fibronectin type III domain-containing protein
+1333441..1334409	-	322	57238152	-	CJE1416	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+1334487..1335587	+	366	57238153	-	CJE1417	-	COG0772D	rod shape-determining protein RodA
+1335926..1337101	+	391	57238154	-	CJE1418	-	COG0582L	phage integrase family site specific recombinase
+1337098..1337304	-	68	57238155	-	CJE1419	-	-	DNA binding protein
+1337306..1337659	-	117	57238156	-	CJE1420	-	-	hypothetical protein
+1337677..1338432	-	251	57238157	-	CJE1421	-	COG0863L	site-specific DNA-methyltransferase
+1338410..1338676	-	88	57238158	-	CJE1422	-	-	emm-like protein
+1338660..1339031	-	123	57238159	-	CJE1423	-	-	hypothetical protein
+1339032..1339256	-	74	57238160	-	CJE1424	-	-	hypothetical protein
+1339265..1339759	-	164	57238161	-	CJE1425	-	-	hypothetical protein
+1339963..1340277	-	104	57238162	-	CJE1426	-	-	hypothetical protein
+1340356..1340676	-	106	57238163	-	CJE1427	-	-	hypothetical protein
+1340669..1340773	-	34	57238164	-	CJE1428	-	-	hypothetical protein
+1341064..1341300	-	78	57238165	-	CJE1429	-	-	hypothetical protein
+1341314..1342081	-	255	57238166	-	CJE1430	-	-	RloG protein
+1342098..1342247	-	49	57238167	-	CJE1431	-	-	hypothetical protein
+1342219..1342347	-	42	57238168	-	CJE1432	-	-	hypothetical protein
+1342415..1342678	-	87	57238169	-	CJE1433	-	-	hypothetical protein
+1342735..1343022	-	95	57238170	-	CJE1434	-	-	hypothetical protein
+1343075..1343806	-	243	57238171	-	CJE1435	-	COG3645S	DNA-binding protein Roi
+1344237..1344521	-	94	57238172	-	CJE1436	-	-	hypothetical protein
+1344501..1344734	+	77	57238174	-	CJE1437	-	-	hypothetical protein
+1344518..1344721	-	67	57238173	-	CJE1438	-	-	hypothetical protein
+1344926..1345579	+	217	57238175	-	CJE1439	-	-	hypothetical protein
+1345814..1346476	+	220	57238176	-	CJE1440	-	COG2932K	signal peptidase I
+1346482..1347135	+	217	57238723	-	CJE1441	-	COG1864F	DNA/RNA non-specific endonuclease
+1347152..1347433	+	93	57238724	-	CJE1442	-	-	hypothetical protein
+1347447..1347644	-	65	57238725	-	CJE1443	-	-	hypothetical protein
+1347562..1347981	-	139	57238726	-	CJE1444	-	-	hypothetical protein
+1348210..1348671	-	153	57238305	-	CJE1445	-	-	hypothetical protein
+1348671..1348778	-	35	57238727	-	CJE1446	-	-	hypothetical protein
+1348720..1350003	-	427	57238306	-	CJE1447	-	-	hypothetical protein
+1350000..1350374	-	124	57238307	-	CJE1448	-	-	hypothetical protein
+1350367..1350750	-	127	57238308	-	CJE1449	-	-	hypothetical protein
+1350747..1351382	-	211	57238309	-	CJE1450	-	-	hypothetical protein
+1351395..1351745	-	116	57238310	-	CJE1451	-	-	hypothetical protein
+1351846..1353411	-	521	57238311	-	CJE1452	-	COG5271R	hypothetical protein
+1353404..1354036	-	210	57238312	-	CJE1453	-	-	hypothetical protein
+1354033..1354350	-	105	57238313	-	CJE1454	-	-	phage head-tail adaptor
+1354363..1354677	-	104	57238314	-	CJE1455	-	-	hypothetical protein
+1354760..1355032	+	90	57238315	-	CJE1456	-	-	hypothetical protein
+1354797..1355048	-	83	57238316	-	CJE1457	-	-	hypothetical protein
+1355059..1356225	-	388	57238317	-	CJE1458	-	COG4653R	HK97 family major capsid protein
+1356242..1356799	-	185	57238318	-	CJE1459	-	-	hypothetical protein
+1356885..1357754	-	289	57238319	-	CJE1460	-	-	hypothetical protein
+1357767..1363466	-	1899	57238320	-	CJE1461	-	-	hypothetical protein
+1363478..1363609	-	43	57238321	-	CJE1462	-	-	hypothetical protein
+1363592..1363864	+	90	57238322	-	CJE1463	-	-	hypothetical protein
+1363856..1364071	-	71	57238323	-	CJE1464	-	-	hypothetical protein
+1364152..1364508	-	118	57238324	-	CJE1465	-	-	hypothetical protein
+1364505..1365485	-	326	57238325	-	CJE1466	-	-	hypothetical protein
+1365657..1366007	-	116	57238326	-	CJE1467	-	-	hypothetical protein
+1366008..1366550	-	180	57238728	-	CJE1468	-	-	HK97 family phage protein
+1366547..1367719	-	390	57238327	-	CJE1469	-	COG4695S	HK97 family portal protein
+1367879..1368313	-	144	57238328	-	CJE1470	-	COG2337T	toxin-antitoxin protein
+1368368..1369993	-	541	57238329	-	CJE1471	-	COG4626R	phage terminase, large subunit
+1369997..1370632	-	211	57238330	-	CJE1472	-	-	phage terminase, small subunit
+1370883..1371233	-	116	57238331	-	CJE1473	-	COG1403V	HNH endonuclease
+1371220..1371510	-	96	57238332	-	CJE1474	-	-	hypothetical protein
+1372261..1373604	+	447	57238333	-	CJE1475	-	COG0168P	TrkH family potassium uptake protein
+1373615..1374265	+	216	57238334	-	CJE1476	-	COG0569P	potassium uptake protein TrkA
+1374262..1374933	-	223	57238335	-	CJE1477	-	COG1427R	hypothetical protein
+1374939..1375565	-	208	57238336	upp	CJE1478	-	COG0035F	uracil phosphoribosyltransferase
+1375562..1376797	-	411	57238337	-	CJE1479	-	COG0281C	NADP-dependent malic enzyme, truncation
+1376799..1378190	-	463	57238338	gltX	CJE1480	-	COG0008J	glutamyl-tRNA synthetase
+1378255..1379070	+	271	57238339	-	CJE1481	-	-	hypothetical protein
+1379107..1380438	-	443	57238340	accC-2	CJE1482	-	COG0439I	biotin carboxylase
+1380440..1380895	-	151	57238341	accB	CJE1483	-	COG0511I	acetyl-CoA carboxylase
+1381043..1381603	+	186	57238342	dcd	CJE1484	-	COG0717F	deoxycytidine triphosphate deaminase
+1381652..1382656	+	334	57238343	flmA	CJE1485	-	COG1086MG	polysaccharide biosynthesis protein
+1382658..1383788	+	376	57238344	-	CJE1486	-	COG0399M	aminotransferase
+1383781..1385097	+	438	57238345	-	CJE1487	-	COG4310R	hypothetical protein
+1385094..1385879	+	261	57238346	-	CJE1488	-	COG2746V	hypothetical protein
+1385879..1386100	+	73	57238347	-	CJE1489	-	COG0236IQ	ACP
+1386094..1387002	+	302	57238348	-	CJE1490	-	COG2227H	hypothetical protein
+1387002..1388564	+	520	57238349	-	CJE1491	-	COG3882Q	HAD family phosphatase
+1388554..1389615	+	353	57238350	-	CJE1492	-	COG0332I	3-oxoacyl-ACP synthase III
+1389615..1389836	+	73	57238351	-	CJE1493	-	-	ACP
+1389850..1390440	-	196	57238352	-	CJE1494	-	-	hypothetical protein
+1390461..1390865	-	134	57238353	-	CJE1495	-	-	hypothetical protein
+1391138..1392646	+	502	57238354	-	CJE1496	-	COG1020Q	amino acid adenylation domain-containing protein
+1392639..1393364	+	241	57238355	-	CJE1497	-	COG1246E	acetyltransferase
+1393364..1394083	+	239	57238356	-	CJE1498	-	COG0223J	formyl transferase
+1394085..1394309	+	74	57238357	-	CJE1499	-	-	ACP
+1394318..1395232	+	304	57238358	-	CJE1500	-	COG0726G	polysaccharide deacetylase
+1395229..1396227	+	332	57238359	-	CJE1501	-	-	hypothetical protein
+1396224..1396556	+	110	57238360	-	CJE1502	-	COG2746V	aminoglycoside N3-acetyltransferase
+1396855..1397013	+	52	57238361	-	CJE1503	-	-	hypothetical protein
+1397010..1398221	-	403	57238362	-	CJE1504	-	-	hypothetical protein
+1398312..1399010	+	232	57238363	neuA	CJE1506	-	COG1083M	acylneuraminate cytidylyltransferase
+1398994..1399818	+	274	57238364	-	CJE1507	-	COG3980M	flagellar protein
+1399815..1400288	+	157	57238365	-	CJE1508	-	COG1670J	acetyltransferase
+1400253..1400999	-	248	57238366	hisF-1	CJE1509	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+1401000..1401605	-	201	57238367	hisH	CJE1510	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+1401602..1402738	-	378	57238368	-	CJE1511	-	COG0037D	flagellin modification protein, PseA
+1402996..1404027	+	343	57238369	neuB	CJE1512	-	COG2089M	N-acetylneuraminic acid synthetase
+1404024..1404995	+	323	57238370	-	CJE1513	-	COG0451MG	NAD-dependent epimerase/dehydratase
+1404988..1406133	+	381	57238371	-	CJE1514	-	COG0399M	aminotransferase
+1406353..1406724	+	123	57238372	-	CJE1515	-	COG0223J	formyltransferase
+1406883..1407887	+	334	57238373	ptmC	CJE1516	-	COG2089M	N-acetylneuraminic acid synthetase
+1407868..1409034	+	388	57238374	neuC	CJE1517	-	COG0381M	UDP-N-acetylglucosamine 2-epimerase
+1409043..1410068	+	341	57238375	-	CJE1518	-	COG1208MJ	nucleotidyltransferase
+1410065..1410970	+	301	57238376	-	CJE1519	-	COG0673R	hypothetical protein
+1410963..1411670	+	235	57238377	ptmB	CJE1520	-	COG1083M	posttranslational flagellin modification protein B
+1411670..1412440	+	256	57238378	ptmA	CJE1521	-	COG1028IQR	flagellin modification protein A
+1412428..1414389	+	653	57238379	maf-1	CJE1522	-	COG2604S	motility accessory factor
+1414365..1416245	+	626	57238380	maf-2	CJE1523	-	COG2604S	motility accessory factor
+1416258..1418174	+	638	57238381	maf-3	CJE1524	-	COG2604S	motility accessory factor
+1418150..1420057	+	635	57238382	maf-4	CJE1525	-	COG2604S	motility accessory factor
+1420088..1421809	-	573	57238729	flaB	CJE1526	-	COG1344N	flagellin
+1421811..1421912	-	33	57238715	-	CJE1527	-	-	hypothetical protein
+1421954..1423675	-	573	57238714	flaA	CJE1528	-	COG1344N	flagellin
+1423772..1425589	-	605	57238383	maf-5	CJE1529	-	COG2604S	motility accessory factor
+1425586..1427409	-	607	57238384	maf-6	CJE1530	-	COG2604S	motility accessory factor
+1427419..1428660	-	413	57238385	-	CJE1531	-	-	hypothetical protein
+1428660..1429175	-	171	57238386	ctsG	CJE1532	-	-	transformation system protein
+1429176..1430183	-	335	57238387	gcp	CJE1533	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+1430180..1431574	-	464	57238388	-	CJE1534	-	COG3608R	hypothetical protein
+1431576..1432646	-	356	57238389	dxr	CJE1535	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1432643..1433368	-	241	57238390	cdsA	CJE1536	-	COG0575I	phosphatidate cytidylyltransferase
+1433377..1433715	-	112	57238391	-	CJE1537	-	-	hypothetical protein
+1433717..1435024	-	435	57238392	-	CJE1538	-	COG1293K	fibronectin/fibrinogen binding protein
+1435086..1435661	+	191	57238393	-	CJE1539	-	COG0746H	molybdopterin-guanine dinucleotide biosynthesis protein
+1435658..1436647	+	329	57238394	pldA	CJE1540	-	COG2829M	phospholipase A
+1436733..1437701	+	322	57238395	ceuB	CJE1541	-	COG4606P	enterochelin ABC transporter permease
+1437694..1438632	+	312	57238396	ceuC	CJE1542	-	COG4605P	enterochelin ABC transporter permease
+1438629..1439384	+	251	57238397	ceuD	CJE1543	-	COG4604P	enterochelin ABC transporter ATP-binding protein
+1440614..1441168	-	184	57238398	-	CJE1545	-	-	hypothetical protein
+1441303..1443135	-	610	57238399	nrfA	CJE1546	-	COG3303P	cytochrome C552
+1443150..1443665	-	171	57238400	nrfH	CJE1547	-	COG3005C	cytochrome C-type protein nrfH
+1443853..1445937	+	694	57238401	ppk	CJE1548	-	COG0855P	polyphosphate kinase
+1447310..1447705	-	131	57238402	-	CJE1550	-	-	hypothetical protein
+1447900..1448118	-	72	57238403	-	CJE1551	-	-	hypothetical protein
+1448158..1448358	-	66	57238404	-	CJE1552	-	-	hypothetical protein
+1448923..1449375	-	150	57238405	-	CJE1553	-	-	hypothetical protein
+1449424..1450431	+	335	57238406	ruvB	CJE1554	-	COG2255L	Holliday junction DNA helicase RuvB
+1450435..1451478	+	347	57238407	-	CJE1555	-	COG0628R	hypothetical protein
+1451508..1452899	-	463	57238408	fumC	CJE1556	-	COG0114C	fumarate hydratase
+1452955..1456080	-	1041	57238409	-	CJE1557	-	COG1404O	serine protease
+1456083..1457879	-	598	57238410	glmS	CJE1558	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+1457884..1460232	-	782	57238411	-	CJE1559	-	COG2844O	GlnD family protein
+1460376..1461440	+	354	57238412	-	CJE1560	-	COG1060HR	hypothetical protein
+1461450..1462769	+	439	57238413	-	CJE1561	-	COG2252R	xanthine/uracil permease
+1462783..1463226	+	147	57238414	-	CJE1562	-	COG2236R	nucleotide phosphoribosyltransferase
+1463271..1463969	+	232	57238415	-	CJE1563	-	COG2853M	VacJ family lipoprotein
+1463979..1464548	+	189	57238416	-	CJE1564	-	COG2854Q	toluene tolerance protein
+1464548..1467019	+	823	57238417	-	CJE1565	-	COG1033R	hypothetical protein
+1467050..1467652	-	200	57238418	-	CJE1566	-	COG0127F	deoxyribonucleotide triphosphate pyrophosphatase
+1467818..1469119	+	433	57238419	-	CJE1567	-	COG2814G	multidrug resistance efflux transporter
+1469116..1470789	-	557	57238420	-	CJE1568	-	COG1149C	iron-sulfur cluster-binding domain-containing protein
+1470867..1472189	+	440	57238421	selA	CJE1569	-	COG1921E	selenocysteine synthase
+1472186..1473991	+	601	57238422	selB	CJE1570	-	COG3276J	selenocysteine-specific elongation factor
+1474040..1474750	+	236	57238423	-	CJE1571	-	COG1651O	hypothetical protein
+1474756..1475286	+	176	57238424	-	CJE1572	-	-	lipoprotein
+1475331..1475822	-	163	57238425	fldA	CJE1573	-	COG0716C	flavodoxin FldA
+1475822..1476517	-	231	57238426	-	CJE1574	-	-	hypothetical protein
+1476520..1476834	-	104	57238427	-	CJE1575	-	COG4378S	hypothetical protein
+1477005..1478429	+	474	57238428	katA	CJE1576	-	COG0753P	catalase
+1478486..1478956	+	156	57238429	-	CJE1577	-	COG0666R	ankyrin
+1478957..1479613	-	218	57238430	-	CJE1578	-	COG2964S	hypothetical protein
+1479781..1480143	+	120	57238431	-	CJE1579	-	COG0251J	endoribonuclease L-PSP
+1481600..1482763	+	387	57238432	metC	CJE1581	-	COG0626E	cystathionine beta-lyase
+1482773..1484140	+	455	57238433	purB-2	CJE1582	-	COG0015F	adenylosuccinate lyase
+1484149..1485489	+	446	57238434	-	CJE1583	-	COG2079R	MmgE/PrpD family protein
+1485571..1485795	+	74	57238435	-	CJE1584	-	COG1918P	feoA family protein
+1487629..1489122	-	497	57238436	-	CJE1586	-	COG1740C	hydrogenase, (NiFe)/(NiFeSe) small subunit family
+1489126..1489950	-	274	57238437	fabI	CJE1587	-	COG0623I	enoyl-ACP reductase
+1489954..1490625	-	223	57238438	tpiA	CJE1588	-	COG0149G	triosephosphate isomerase
+1490622..1491824	-	400	57238439	pgk	CJE1589	-	COG0126G	phosphoglycerate kinase
+1491827..1492825	-	332	57238440	gapA	CJE1590	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase A
+1492885..1493430	+	181	57238441	nadD	CJE1591	-	COG1057H	nicotinate (nicotinamide) nucleotide adenylyltransferase
+1493458..1493784	+	108	57238442	-	CJE1592	-	COG0799S	hypothetical protein
+1493815..1494192	-	125	57238443	-	CJE1593	-	-	hypothetical protein
+1494240..1495610	-	456	57238444	algC	CJE1594	-	COG1109G	phosphomannomutase/phosphoglucomutase
+1495732..1496268	+	178	57238445	fliL	CJE1595	-	COG1580N	flagellar basal body-associated protein FliL
+1496268..1496615	+	115	57238446	acpS	CJE1596	-	COG0736I	4'-phosphopantetheinyl transferase
+1496616..1497035	-	139	57238447	-	CJE1597	-	-	hypothetical protein
+1497032..1498393	-	453	57238448	-	CJE1598	-	COG2124Q	cytochrome P450 family protein
+1498390..1499511	-	373	57238449	-	CJE1599	-	-	hypothetical protein
+1499584..1500768	-	394	57238450	kpsS	CJE1600	-	COG3562M	capsule polysaccharide export protein KpsS
+1500765..1502837	-	690	57238451	kpsC	CJE1601	-	COG3563M	capsule polysaccharide export protein KpsC
+1502815..1504734	-	639	57238452	-	CJE1602	-	-	capsular polysaccharide biosynthesis protein
+1504703..1506655	-	650	57238453	-	CJE1603	-	-	capsular polysaccharide biosynthesis protein
+1506655..1508136	-	493	57238454	-	CJE1604	-	COG1208MJ	capsular polysaccharide biosynthesis protein
+1508138..1508863	-	241	57238455	-	CJE1605	-	COG0235G	capsular polysaccharide biosynthesis protein
+1508850..1510151	-	433	57238456	-	CJE1606	-	COG0572F	haloacid dehalogenase-like hydrolase
+1510144..1510737	-	197	57238457	-	CJE1607	-	-	hypothetical protein
+1510712..1511392	-	226	57238458	-	CJE1608	-	COG1208MJ	capsular biosynthesis nucleotidyltransferase
+1511380..1511985	-	201	57238459	gmhA-2	CJE1609	-	COG0279G	phosphoheptose isomerase
+1511973..1512992	-	339	57238460	-	CJE1610	-	COG2605R	capsular biosynthesis sugar kinase
+1512989..1514020	-	343	57238461	wcbK	CJE1611	-	COG1089M	GDP-mannose 4,6-dehydratase
+1514017..1515066	-	349	57238462	fcl	CJE1612	-	COG0451MG	GDP-L-fucose synthetase
+1515078..1516688	-	536	57238463	-	CJE1613	-	COG1887M	capsular polysaccharide biosynthesis protein
+1516685..1518121	-	478	57238464	-	CJE1614	-	-	hypothetical protein
+1518157..1519500	-	447	57238465	-	CJE1615	-	COG0438M	capsular polysaccharide biosynthesis glycosyltransferase WcbB
+1519503..1521104	-	533	57238466	-	CJE1616	-	COG1887M	capsular polysaccharide biosynthesis protein
+1521101..1522048	-	315	57238467	kpsF	CJE1617	-	COG0794M	arabinose-5-phosphate isomerase
+1522058..1523716	-	552	57238468	kpsD	CJE1618	-	COG1596M	capsular polysaccharide ABC transporter periplasmic polysaccharide-binding protein
+1523718..1524836	-	372	57238469	kpsE	CJE1619	-	COG3524M	capsular polysaccharide ABC transporter
+1524836..1525498	-	220	57238470	kpsT	CJE1620	-	COG1134GM	capsular polysaccharide ABC transporter ATP-binding protein
+1525495..1526277	-	260	57238471	kpsM	CJE1621	-	COG1682GM	capsular polysaccharide ABC transporter permease
+1526349..1526756	-	135	57238472	-	CJE1622	-	COG3787S	hypothetical protein
+1526831..1527394	+	187	57238473	-	CJE1623	-	-	hypothetical protein
+1527430..1528119	+	229	57238474	-	CJE1624	-	-	deoxyuridine triphosphatase
+1528121..1528834	+	237	57238475	-	CJE1625	-	-	hypothetical protein
+1528817..1529782	-	321	57238476	-	CJE1626	-	COG0037D	PP-loop family protein
+1529772..1531091	-	439	57238477	yliG	CJE1627	-	COG0621J	tRNA modifying protein
+1531165..1532262	+	365	57238478	prfB	CJE1628	-	COG1186J	peptide chain release factor 2
+1532420..1532599	-	59	57238479	-	CJE1629	-	-	hypothetical protein
+1532637..1532771	+	44	57238480	-	CJE1630	-	-	hypothetical protein
+1532855..1533973	-	372	57238481	truD	CJE1631	-	COG0585S	tRNA pseudouridine synthase D
+1533942..1534763	-	273	57238482	-	CJE1632	-	COG0611H	thiamine monophosphate kinase
+1534850..1535923	+	357	57238483	-	CJE1633	-	-	hypothetical protein
+1535920..1536303	+	127	57238484	-	CJE1634	-	-	hypothetical protein
+1536293..1536979	+	228	57238485	-	CJE1635	-	COG0742L	site-specific DNA methyltransferase
+1537038..1538084	+	348	57238486	flgI	CJE1636	-	COG1706N	flagellar basal body P-ring protein
+1538084..1538425	+	113	57238487	-	CJE1637	-	-	hypothetical protein
+1538488..1538685	+	65	57238488	-	CJE1638	-	-	hypothetical protein
+1538728..1539162	+	144	57238489	-	CJE1639	-	-	hypothetical protein
+1539172..1540998	+	608	57238490	flgK	CJE1640	-	COG1256N	flagellar hook-associated protein FlgK
+1541015..1541779	+	254	57238491	-	CJE1641	-	-	hypothetical protein
+1541783..1542547	+	254	57238492	-	CJE1642	-	COG0730R	hypothetical protein
+1542540..1543721	-	393	57238493	ctsF	CJE1643	-	COG1459NU	general secretory pathway protein F
+1543718..1545277	-	519	57238494	ctsE	CJE1644	-	COG2804NU	general secretory pathway protein E
+1545267..1545854	-	195	57238495	ctsX	CJE1645	-	-	transformation system protein
+1545858..1546466	-	202	57238496	ctsP	CJE1646	-	COG2805NU	transformation system protein
+1546459..1547871	-	470	57238497	ctsD	CJE1647	-	COG1450NU	general secretory pathway protein D
+1547849..1548160	-	103	57238498	ctsR	CJE1648	-	-	transformation system protein
+1548184..1551744	-	1186	57238499	-	CJE1649	-	COG0674C	pyruvate ferredoxin/flavodoxin oxidoreductase
+1551837..1552478	-	213	57238500	-	CJE1650	-	COG0546R	HAD-superfamily hydrolase, subfamily IA, variant 1 family protein
+1552478..1553437	-	319	57238501	cadF	CJE1651	-	COG2885M	fibronectin-binding protein
+1553562..1553951	-	129	57238502	rpsI	CJE1652	-	COG0103J	30S ribosomal protein S9
+1553954..1554379	-	141	57238503	rplM	CJE1653	-	COG0102J	50S ribosomal protein L13
+1554463..1557228	-	921	57238504	-	CJE1654	-	COG1074L	recombination protein RecB
+1557225..1559591	-	788	57238505	-	CJE1655	-	COG3893L	hypothetical protein
+1559588..1560109	-	173	57238506	-	CJE1656	-	-	lipoprotein
+1560096..1560698	-	200	57238507	-	CJE1657	-	-	hypothetical protein
+1560695..1560796	-	33	57238508	-	CJE1658	-	-	hypothetical protein
+1560793..1561011	-	72	57238509	-	CJE1659	-	-	hypothetical protein
+1561011..1561874	-	287	57238510	ccoP	CJE1660	-	COG2010C	cytochrome C oxidase, cbb3-type, subunit III
+1561874..1562140	-	88	57238511	ccoQ	CJE1661	-	COG4736O	cytochrome C oxidase, cbb3-type, subunit IV
+1562142..1562807	-	221	57238512	ccoO	CJE1662	-	COG2993C	cbb3-type cytochrome C oxidase subunit II
+1562820..1564286	-	488	57238513	ccoN	CJE1663	-	COG3278O	cbb3-type cytochrome C oxidase subunit I
+1564412..1565092	-	226	57238514	-	CJE1664	-	COG0745TK	DNA-binding response regulator
+1565095..1566306	-	403	57238515	-	CJE1665	-	COG0642T	sensory box sensor histidine kinase
+1566303..1566962	-	219	57238516	-	CJE1666	-	COG2836S	hypothetical protein
+1566959..1568077	-	372	57238517	carA	CJE1667	-	COG0505EF	carbamoyl phosphate synthase small subunit
+1568077..1568628	-	183	57238518	-	CJE1668	-	COG2952S	hypothetical protein
+1568721..1569239	-	172	57238519	-	CJE1669	-	COG3334S	hypothetical protein
+1569232..1569660	-	142	57238520	-	CJE1670	-	-	hypothetical protein
+1569657..1570907	-	416	57238521	purA	CJE1671	-	COG0104F	adenylosuccinate synthetase
+1571036..1571134	+	32	57238522	-	CJE1672	-	-	hypothetical protein
+1571172..1572380	+	402	57238523	-	CJE1673	-	COG2391R	inner membrane protein
+1572384..1572611	+	75	57238524	-	CJE1674	-	COG0425O	hypothetical protein
+1572627..1574096	-	489	57238525	putP	CJE1675	-	COG0591ER	sodium/proline permease
+1574114..1577602	-	1162	57238526	-	CJE1676	-	COG1012C	bifunctional putA protein
+1577733..1578755	-	340	57238527	selD	CJE1677	-	COG0709E	selenide, water dikinase
+1578765..1579337	-	190	57238528	-	CJE1678	-	COG0425O	hypothetical protein
+1579448..1581550	-	700	57238529	-	CJE1679	-	COG0840NT	methyl-accepting chemotaxis protein
+1581663..1582400	-	245	57238530	-	CJE1680	-	COG2005R	molybdate transport repressor
+1582393..1583175	-	260	57238531	fdhD	CJE1681	-	COG1526C	formate dehydrogenase accessory protein
+1583342..1584274	-	310	57238532	fdhC	CJE1682	-	COG2864C	formate dehydrogenase, cytochrome b subunit
+1584271..1584912	-	213	57238533	fdhB	CJE1683	-	COG0437C	formate dehydrogenase, iron-sulfur subunit
+1584909..1587713	-	934	57238534	fdhA	CJE1684	-	COG0243C	formate dehydrogenase, alpha subunit, selenocysteine-containing
+1587713..1587904	-	63	57238535	-	CJE1685	-	-	Tat pathway signal sequence domain-containing protein
+1587879..1588580	-	233	57238536	-	CJE1686	-	COG3381R	hypothetical protein
+1588748..1588861	-	37	57238537	-	CJE1687	-	-	hypothetical protein
+1588897..1590045	-	382	57238538	nspC	CJE1688	-	COG0019E	carboxynorspermidine decarboxylase
+1590169..1591710	+	513	57238539	-	CJE1689	-	COG2132Q	oxidoreductase
+1591712..1591933	+	73	57238540	-	CJE1690	-	COG1977H	thiS family protein
+1591934..1592377	+	147	57238541	-	CJE1691	-	COG0314H	molybdopterin converting factor, subunit 2
+1592374..1592790	+	138	57238542	-	CJE1692	-	-	hypothetical protein
+1592793..1593983	+	396	57238543	-	CJE1693	-	COG0303H	molybdopterin biosynthesis MoeA protein
+1594481..1594912	-	143	57238544	cas2	CJE1694	-	COG3512S	CRISPR-associated Cas2 family protein
+1594905..1595795	-	296	57238545	cas1	CJE1695	-	COG1518L	CRISPR-associated Cas1 family protein
+1598988..1599164	+	58	57238546	-	CJE1698	-	-	hypothetical protein
+1600373..1601362	-	329	57238547	purM	CJE1700	-	COG0150F	phosphoribosylaminoimidazole synthetase
+1601423..1602028	+	201	57238548	coaE	CJE1701	-	COG0237H	dephospho-CoA kinase
+1602025..1602774	+	249	57238549	dapF	CJE1702	-	COG0253E	diaminopimelate epimerase
+1602749..1603480	+	243	57238550	-	CJE1703	-	COG2992R	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+1603477..1604514	-	345	57238551	-	CJE1704	-	COG1373R	hypothetical protein
+1604579..1605028	-	149	57238552	-	CJE1705	-	COG0783P	bacterioferritin
+1605155..1606375	-	406	57238553	pgi	CJE1706	-	COG0166G	glucose-6-phosphate isomerase
+1606369..1607193	-	274	57238554	galU	CJE1707	-	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+1607275..1609248	-	657	57238555	acs	CJE1708	-	COG0365I	acetyl-CoA synthetase
+1609387..1610382	-	331	57238556	-	CJE1709	-	COG3839G	tungsten ABC transporter ATP-binding protein
+1610384..1611070	-	228	57238557	-	CJE1710	-	COG4662H	tungstate ABC transporter permease
+1611149..1611958	+	269	57238558	-	CJE1711	-	COG2998H	tungstate ABC transporter periplasmic tungstate-binding protein
+1612100..1612867	+	255	57238559	-	CJE1712	-	COG1540R	LamB/YcsF family protein
+1612877..1613617	+	246	57238560	-	CJE1713	-	COG2049E	hypothetical protein
+1613598..1614563	+	321	57238561	-	CJE1714	-	COG1984E	hypothetical protein
+1614560..1615456	-	298	57238562	-	CJE1715	-	-	integral membrane protein
+1615489..1616067	-	192	57238563	-	CJE1716	-	COG2249R	flavodoxin
+1616167..1616514	+	115	57238564	-	CJE1717	-	COG1733K	transcriptional regulator
+1616954..1618030	-	358	57238565	-	CJE1719	-	COG1064R	zinc-binding dehydrogenase family oxidoreductase
+1620475..1622805	+	776	57238566	-	CJE1721	-	COG4694S	RloC protein
+1624123..1625193	+	356	57238567	-	CJE1723	-	COG3177S	MloA protein
+1625194..1626678	+	494	57238568	hsdM	CJE1724	-	COG0286V	type I restriction-modification system subunit M
+1626756..1627139	-	127	57238569	-	CJE1725	-	COG0599S	4-carboxymuconolactone decarboxylase
+1627119..1627286	+	55	57238570	-	CJE1726	-	-	hypothetical protein
+1627327..1627746	-	139	57238571	-	CJE1727	-	COG1917S	hypothetical protein
+1627804..1628979	-	391	57238572	-	CJE1728	-	COG2814G	transporter
+1629937..1630884	+	315	57238573	-	CJE1730	-	COG0701R	permease
+1630894..1631211	+	105	57238574	arsR	CJE1731	-	COG0640K	arsenical resistance operon repressor
+1631208..1631630	+	140	57238575	arsC	CJE1732	-	COG0394T	arsenate reductase
+1631624..1632667	+	347	57238576	-	CJE1733	-	COG0798P	arsenical-resistance protein
+1633202..1635157	+	651	57238577	-	CJE1735	-	COG0840NT	methyl-accepting chemotaxis protein
+1635200..1637566	-	788	57238578	pflA	CJE1736	-	-	paralyzed flagella protein PflA
+1637588..1638976	-	462	57238579	nuoN	CJE1737	-	COG1007C	NADH-quinone oxidoreductase, N subunit
+1638966..1640453	-	495	57238580	nuoM	CJE1738	-	COG1008C	NADH-quinone oxidoreductase, M subunit
+1640455..1642245	-	596	57238581	nuoL	CJE1739	-	COG1009CP	NADH dehydrogenase subunit L
+1642247..1642543	-	98	57238582	nuoK	CJE1740	-	COG0713C	NADH-quinone oxidoreductase, K subunit
+1642540..1643058	-	172	57238583	nuoJ	CJE1741	-	COG0839C	NADH dehydrogenase subunit J
+1643055..1643696	-	213	57238584	nuoI	CJE1742	-	COG1143C	NADH dehydrogenase subunit I
+1643706..1644704	-	332	57238585	nuoH	CJE1743	-	COG1005C	NADH dehydrogenase subunit H
+1644697..1647159	-	820	57238586	nuoG	CJE1744	-	COG1034C	NADH dehydrogenase subunit G
+1647156..1647848	-	230	57238587	-	CJE1745	-	-	hypothetical protein
+1647845..1648072	-	75	57238588	-	CJE1746	-	-	hypothetical protein
+1648069..1649295	-	408	57238589	nuoD	CJE1747	-	COG0649C	NADH dehydrogenase subunit D
+1649297..1650088	-	263	57238590	nuoC	CJE1748	-	COG0852C	NADH dehydrogenase subunit C
+1650088..1650591	-	167	57238591	nuoB	CJE1749	-	COG0377C	NADH dehydrogenase subunit B
+1650573..1650962	-	129	57238592	nuoA	CJE1750	-	COG0838C	NADH dehydrogenase subunit A
+1651075..1651740	-	221	57238593	-	CJE1751	-	COG1123R	peptide ABC transporter ATP-binding protein
+1651733..1652443	-	236	57238594	-	CJE1752	-	COG0444EP	peptide ABC transporter ATP-binding protein
+1652440..1653228	-	262	57238595	-	CJE1753	-	COG1173EP	peptide ABC transporter permease
+1653221..1654165	-	314	57238596	-	CJE1754	-	COG0601EP	peptide ABC transporter permease
+1654165..1655700	-	511	57238597	-	CJE1755	-	COG0747E	peptide ABC transporter substrate-binding protein
+1655809..1658580	-	923	57238598	-	CJE1756	-	COG0277C	oxidoreductase, FAD-binding, iron-sulfur cluster-binding
+1658732..1659154	+	140	57238599	-	CJE1757	-	COG1017C	flavohemoprotein, truncation
+1659174..1660805	-	543	57238600	-	CJE1758	-	COG4615QP	multidrug transporter membrane component/ATP-binding component
+1662239..1662583	+	114	57238601	-	CJE1760	-	-	hypothetical protein
+1662616..1663035	+	139	57238602	-	CJE1761	-	COG0491R	metallo-beta-lactamase
+1663123..1663341	+	72	57238603	infA	CJE1762	-	COG0361J	translation initiation factor IF-1
+1663513..1663626	+	37	57238604	rpmJ	CJE1763	-	-	50S ribosomal protein L36
+1663629..1663994	+	121	57238605	rpsM	CJE1764	-	COG0099J	30S ribosomal protein S13
+1664004..1664396	+	130	57238606	rpsK	CJE1765	-	COG0100J	30S ribosomal protein S11
+1664424..1665050	+	208	57238607	rpsD	CJE1766	-	COG0522J	30S ribosomal protein S4
+1665063..1666076	+	337	57238608	rpoA	CJE1767	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+1666080..1666433	+	117	57238609	rplQ	CJE1768	-	COG0203J	50S ribosomal protein L17
+1666606..1667505	+	299	57238610	hisG	CJE1769	-	COG0040E	ATP phosphoribosyltransferase
+1667513..1668799	+	428	57238611	hisD	CJE1770	-	COG0141E	histidinol dehydrogenase
+1668796..1669854	+	352	57238612	hisB	CJE1771	-	COG0131E	imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+1669851..1670438	+	195	57238613	hisH	CJE1772	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+1670435..1671166	+	243	57238614	hisA	CJE1773	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1671151..1672089	+	312	57238615	-	CJE1774	-	COG2958S	HrgA protein
+1672090..1672857	+	255	57238616	hisF-2	CJE1775	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+1672859..1673482	+	207	57238617	hisI	CJE1776	-	COG0139E	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+1673507..1674667	-	386	57238618	-	CJE1777	-	COG2171E	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+1674693..1675799	-	368	57238619	mrp	CJE1778	-	COG0489D	ATP/GTP-binding protein
+1675922..1677037	+	371	57238620	ispDF	CJE1779	-	COG0245I	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase protein
+1677034..1677921	+	295	57238621	-	CJE1780	-	COG0745TK	DNA-binding response regulator
+1677899..1679059	+	386	57238622	-	CJE1781	-	COG2046P	ATP-sulfurylase
+1679064..1679564	+	166	57238623	pgpA	CJE1782	-	COG1267I	phosphatidylglycerophosphatase A
+1679643..1679906	+	87	57238624	rpsT	CJE1783	-	COG0268J	30S ribosomal protein S20
+1679925..1680992	+	355	57238625	prfA	CJE1784	-	COG0216J	peptide chain release factor 1
+1681006..1681761	-	251	57238626	-	CJE1785	-	COG0748P	hypothetical protein
+1681954..1684110	+	718	57238627	chuA	CJE1786	-	COG1629P	TonB-dependent heme receptor
+1684085..1685071	+	328	57238628	-	CJE1787	-	COG0609P	hemin ABC transporter permease
+1685071..1685847	+	258	57238629	-	CJE1788	-	COG1120PH	hemin ABC transporter ATP-binding protein
+1685844..1686650	+	268	57238630	-	CJE1789	-	COG0614P	hemin ABC transporter periplasmic hemin-binding protein
+1687671..1688930	+	419	57238631	kgtP	CJE1791	-	COG2814G	alpha-ketoglutarate permease
+1688916..1689935	-	339	57238632	mutY	CJE1792	-	COG1194L	A/G-specific adenine glycosylase
+1690008..1690760	+	250	57238633	-	CJE1793	-	-	hypothetical protein
+1691440..1692420	+	326	57238634	-	CJE1794	-	COG0117H	riboflavin biosynthesis protein RibD
+1692401..1692922	+	173	57238635	-	CJE1795	-	-	hypothetical protein
+1692930..1694294	-	454	57238636	sdaA	CJE1796	-	COG1760E	L-serine ammonia-lyase
+1694309..1695559	-	416	57238637	sdaC	CJE1797	-	COG0814E	serine transporter
+1695818..1696234	-	138	57238638	-	CJE1798	-	-	hypothetical protein
+1696300..1697043	-	247	57238639	-	CJE1799	-	-	hypothetical protein
+1697202..1697627	+	141	57238640	exbB-2	CJE1800	-	COG0811U	TonB system transport protein ExbB
+1697599..1698009	+	136	57238641	exbD	CJE1801	-	COG0848U	biopolymer transport exbD protein
+1698701..1699579	-	292	57238642	-	CJE1803	-	-	hypothetical protein
+1699633..1699830	-	65	57238643	-	CJE1804	-	-	hypothetical protein
+1699952..1700935	+	327	57238644	-	CJE1805	-	COG0482J	hypothetical protein
+1701022..1702110	-	362	57238645	aroC	CJE1806	-	COG0082E	chorismate synthase
+1702110..1702784	-	224	57238646	rnc	CJE1807	-	COG0571K	ribonuclease III
+1702771..1703211	-	146	57238647	rnhA	CJE1808	-	COG0328L	ribonuclease H
+1703198..1704184	-	328	57238648	-	CJE1809	-	COG2956G	hypothetical protein
+1704254..1706071	+	605	57238649	dnaG	CJE1810	-	COG0358L	DNA primase
+1706153..1706425	+	90	57238650	-	CJE1811	-	COG0694O	NifU family protein
+1706412..1706963	+	183	57238651	-	CJE1812	-	-	hypothetical protein
+1706947..1708230	+	427	57238652	murE	CJE1813	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1708234..1708545	+	103	57238653	-	CJE1814	-	COG0718S	hypothetical protein
+1708542..1709636	+	364	57238654	-	CJE1815	-	COG0265O	PDZ domain-containing protein
+1709633..1710478	+	281	57238655	ispA	CJE1816	-	COG0142H	geranyltranstransferase
+1710488..1712386	+	632	57238656	tkt	CJE1817	-	COG0021G	transketolase
+1712388..1713497	+	369	57238657	-	CJE1818	-	COG0767Q	ABC transporter permease
+1713498..1714220	+	240	57238658	-	CJE1819	-	COG1127Q	ABC transporter ATP-binding protein
+1714223..1715113	+	296	57238659	-	CJE1820	-	COG1463Q	ABC transporter periplasmic substrate-binding protein
+1715113..1715712	+	199	57238660	-	CJE1821	-	COG3218R	lipoprotein
+1715768..1716268	+	166	57238661	-	CJE1822	-	-	hypothetical protein
+1716639..1717397	-	252	57238662	map	CJE1823	-	COG0024J	methionine aminopeptidase
+1717407..1718150	-	247	57238663	murI	CJE1824	-	COG0796M	glutamate racemase
+1718152..1718610	-	152	57238664	nlpC	CJE1825	-	COG0791M	lipoprotein NlpC
+1718619..1719788	-	389	57238665	nhaA	CJE1826	-	COG3004P	pH-dependent sodium/proton antiporter
+1719785..1720933	-	382	57238666	nhaA-2	CJE1827	-	COG3004P	Na+/H+ antiporter NhaA
+1721076..1721258	-	60	57238667	-	CJE1828	-	-	hypothetical protein
+1721618..1721731	+	37	57238668	-	CJE1829	-	-	hypothetical protein
+1722176..1724266	+	696	57238669	-	CJE1830	-	COG0672P	FTR1 family iron permease
+1724263..1724802	+	179	57238670	-	CJE1831	-	COG3470P	hypothetical protein
+1724885..1726288	+	467	57238671	-	CJE1832	-	COG4393S	hypothetical protein
+1726278..1727567	+	429	57238672	-	CJE1833	-	COG4591M	ABC transporter permease
+1727557..1728675	+	372	57238673	-	CJE1834	-	COG4591M	ABC transporter permease
+1728672..1729325	+	217	57238674	-	CJE1835	-	COG1136V	ABC transporter ATP-binding protein
+1729322..1729810	+	162	57238675	-	CJE1836	-	COG0526OC	thiredoxin,-like protein
+1729771..1730274	+	167	57238676	-	CJE1837	-	-	thioredoxin
+1730284..1730721	-	145	57238677	-	CJE1838	-	COG3019R	hypothetical protein
+1730812..1730955	-	47	57238678	-	CJE1839	-	-	hypothetical protein
+1731021..1731326	-	101	57238679	-	CJE1840	-	-	hypothetical protein
+1732089..1732937	-	282	57238680	-	CJE1841	-	COG1793L	DNA ligase
+1732937..1733599	-	220	57238681	-	CJE1842	-	-	hypothetical protein
+1733589..1733792	-	67	57238682	-	CJE1843	-	-	hypothetical protein
+1733858..1735102	-	414	57238683	eno	CJE1844	-	COG0148G	phosphopyruvate hydratase
+1735102..1736133	-	343	57238684	recA	CJE1845	-	COG0468L	recombinase A
+1736239..1737099	+	286	57238685	-	CJE1846	-	COG2107R	hypothetical protein
+1737111..1737380	+	89	57238686	fliQ	CJE1847	-	COG1987NU	flagellar biosynthesis protein FliQ
+1737377..1738153	+	258	57238687	murB	CJE1848	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+1738177..1738941	-	254	57238688	-	CJE1849	-	-	hypothetical protein
+1738987..1739751	-	254	57238689	cysQ	CJE1850	-	COG1218P	CysQ
+1739831..1741099	-	422	57238690	gltA	CJE1851	-	COG0372C	citrate synthase
+1741214..1742389	-	391	57238691	-	CJE1852	-	COG0475P	sodium/hydrogen exchanger family protein
+1742370..1743206	-	278	57238692	bioB	CJE1853	-	COG0502H	biotin synthase
+1743208..1745310	-	700	57238693	topA	CJE1854	-	COG0550L	DNA topoisomerase I
+1745505..1746776	+	423	57238694	-	CJE1855	-	COG2814G	major facilitator superfamily protein
+1746804..1748069	-	421	57238695	secY	CJE1856	-	COG0201U	preprotein translocase subunit SecY
+1748069..1748461	-	130	57238696	rplO	CJE1857	-	COG0200J	50S ribosomal protein L15
+1748466..1748909	-	147	57238697	rpsE	CJE1858	-	COG0098J	30S ribosomal protein S5
+1748921..1749277	-	118	57238698	rplR	CJE1859	-	COG0256J	50S ribosomal protein L18
+1749287..1749823	-	178	57238699	rplF	CJE1860	-	COG0097J	50S ribosomal protein L6
+1749902..1750297	-	131	57238700	rpsH	CJE1861	-	COG0096J	30S ribosomal protein S8
+1750307..1750492	-	61	57238701	rpsN	CJE1862	-	COG0199J	30S ribosomal protein S14
+1750494..1751039	-	181	57238702	rplE	CJE1863	-	COG0094J	50S ribosomal protein L5
+1751043..1751276	-	77	57238703	rplX	CJE1864	-	COG0198J	50S ribosomal protein L24
+1751276..1751644	-	122	57238704	rplN	CJE1865	-	COG0093J	50S ribosomal protein L14
+1751644..1751895	-	83	57238705	rpsQ	CJE1866	-	COG0186J	30S ribosomal protein S17
+1751905..1752090	-	61	57238706	rpmC	CJE1867	-	COG0255J	50S ribosomal protein L29
+1752077..1752502	-	141	57238707	rplP	CJE1868	-	COG0197J	50S ribosomal protein L16
+1752505..1753206	-	233	57238708	rpsC	CJE1869	-	COG0092J	30S ribosomal protein S3
+1753206..1753631	-	141	57238709	rplV	CJE1870	-	COG0091J	50S ribosomal protein L22
+1753642..1753923	-	93	57238710	rpsS	CJE1871	-	COG0185J	30S ribosomal protein S19
+1753925..1754755	-	276	57238711	rplB	CJE1872	-	COG0090J	50S ribosomal protein L2
+1754757..1755038	-	93	57238712	rplW	CJE1873	-	COG0089J	50S ribosomal protein L23
+1755041..1755655	-	204	57238713	rplD	CJE1874	-	COG0088J	50S ribosomal protein L4
+1755652..1756227	-	191	57238730	rplC	CJE1875	-	COG0087J	50S ribosomal protein L3
+1756237..1756548	-	103	57236893	rpsJ	CJE1876	-	COG0051J	30S ribosomal protein S10
+1756607..1756708	+	33	57236894	-	CJE1877	-	-	hypothetical protein
+1756746..1757507	-	253	57236895	-	CJE1878	-	COG1187J	RNA pseudouridylate synthase
+1757543..1759531	-	662	57236896	-	CJE1879	-	COG0595R	metallo-beta-lactamase
+1759506..1760306	-	266	57236897	ksgA	CJE1880	-	COG0030J	dimethyladenosine transferase
+1760387..1760923	+	178	57236898	-	CJE1881	-	COG0775F	hypothetical protein
+1760947..1762017	+	356	57236899	-	CJE1882	-	COG0820R	ribosomal RNA large subunit methyltransferase N
+1762014..1762112	+	32	57236900	-	CJE1883	-	-	hypothetical protein
+1762560..1763495	+	311	57236901	-	CJE1884	-	-	lipopolysaccharide core biosynthesis protien
+1763817..1764347	+	176	57236902	-	CJE1885	-	COG0456R	acetyltransferase
+1764327..1764929	-	200	57236903	leuD	CJE1886	-	COG0066E	isopropylmalate isomerase small subunit
+1764931..1766337	-	468	57236904	leuC	CJE1887	-	COG0065E	isopropylmalate isomerase large subunit
+1766330..1767406	-	358	57236905	leuB	CJE1888	-	COG0473CE	3-isopropylmalate dehydrogenase
+1767403..1768938	-	511	57236906	leuA	CJE1889	-	COG0119E	2-isopropylmalate synthase
+1769258..1769887	+	209	57236907	-	CJE1890	-	-	hypothetical protein
+1769923..1770567	-	214	57236908	-	CJE1891	-	-	hypothetical protein
+1770705..1771088	-	127	57236909	-	CJE1892	-	COG0780R	7-cyano-7-deazaguanine reductase
+1771248..1771847	+	199	57236910	-	CJE1893	-	COG0492O	hypothetical protein
+1771852..1772733	-	293	57236911	metA	CJE1894	-	COG1897E	homoserine O-succinyltransferase
+1772817..1774088	-	423	57236912	metX	CJE1895	-	COG2873E	homoserine O-acetyltransferase
+1774513..1777050	-	845	57236913	flgE	CJE1896	-	COG1749N	flagellar hook protein FlgE
+1777254..1777736	-	160	57236914	ruvC	CJE1897	-	COG0817L	Holliday junction resolvase

@@ -1,0 +1,21 @@
+#!/bin/sh
+
+if test $# -lt 1
+then
+	echo '\n\n** Usage: do_clustal  pirfile\n\n'
+	exit
+fi
+
+./i2hbin/clustalw <<END
+1
+$1
+2
+1
+$1.aln
+
+
+
+x
+x
+x
+END

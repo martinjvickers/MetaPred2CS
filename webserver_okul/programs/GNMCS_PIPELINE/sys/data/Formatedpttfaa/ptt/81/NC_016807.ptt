@@ -1,0 +1,710 @@
+Mycoplasma pneumoniae 309, complete genome - 1..817176
+707 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+691..1833	+	380	377822307	dnaN	MPNA0010	-	-	DNA polymerase III subunit beta
+1837..2766	+	309	377822308	-	MPNA0020	-	-	DnaJ domain-containing protein
+2853..4805	+	650	377822309	gyrB	MPNA0030	-	-	DNA gyrase subunit B
+4805..7324	+	839	377822310	gyrA	MPNA0040	-	-	DNA gyrase subunit A
+7296..8558	+	420	377822311	serS	MPNA0050	-	-	seryl-tRNA synthetase
+8563..9195	+	210	377822312	tmk	MPNA0060	-	-	thymidylate kinase
+9168..9929	+	253	377822313	holB	MPNA0070	-	-	DNA polymerase III subunit delta
+9931..11259	+	442	377822314	trmE	MPNA0080	-	-	tRNA modification GTPase TrmE
+11259..12044	+	261	377822315	tatD	MPNA0090	-	-	TatD DNase family protein
+12241..12636	+	131	377822316	-	MPNA0100	-	-	hypothetical protein
+12822..13517	-	231	377822317	-	MPNA0110	-	-	hypothetical protein
+13542..14249	-	235	377822318	-	MPNA0120	-	-	hypothetical protein
+14976..15749	+	257	377822319	-	MPNA0130	-	-	hypothetical protein
+15851..16489	+	212	377822320	-	MPNA0140	-	-	DNA primase-related protein
+16466..17323	-	285	377822321	-	MPNA0150	-	-	RimK family protein
+17323..18189	-	288	377822322	rimK	MPNA0160	-	-	ribosomal S6 modification protein
+18164..18973	-	269	377822323	folD	MPNA0170	-	-	5,10-methylene-tetrahydrofolate dehydrogenase
+19309..21180	+	623	377822324	-	MPNA0180	-	-	ABC transporter ATP-binding protein
+21092..22996	+	634	377822325	-	MPNA0190	-	-	ABC transporter ATP-binding protein
+23006..26098	+	1030	377822326	-	MPNA0200	-	-	SNF2 family helicase
+26144..27316	+	390	377822327	dnaJ	MPNA0210	-	-	heat shock protein DnaJ
+27300..28229	+	309	377822328	pip	MPNA0220	-	-	proline iminopeptidase
+28229..29767	+	512	377822329	metS	MPNA0230	-	-	methionyl-tRNA synthetase
+29788..30228	+	146	377822330	rpoE	MPNA0240	-	-	DNA-directed RNA polymerase subunit delta
+30228..31094	+	288	377822331	fba	MPNA0250	-	-	fructose-1,6-bisphosphate aldolase
+31095..32195	+	366	377822332	ychF	MPNA0260	-	-	GTP-binding protein YchF
+32185..33009	-	274	377822333	-	MPNA0270	-	-	hypothetical protein
+33042..33941	+	299	377822334	-	MPNA0280	-	-	glycosyltransferase
+33962..34534	+	190	377822335	efp	MPNA0290	-	-	elongation factor P
+34452..34958	+	168	377822336	-	MPNA0300	-	-	hypothetical protein
+34958..35569	+	203	377822337	-	MPNA0310	-	-	hypothetical protein
+35953..36120	-	55	377822338	-	MPNA0320	-	-	hypothetical protein
+36124..36744	-	206	377822339	upp	MPNA0330	-	-	uracil phosphoribosyltransferase
+36784..41115	-	1443	377822340	polC	MPNA0340	-	-	DNA polymerase III subunit alpha
+41393..43393	+	666	377822341	-	MPNA0350	-	-	hypothetical protein
+43565..45586	+	673	377822342	-	MPNA0360	-	-	hypothetical protein
+45754..46197	+	147	377822343	-	MPNA0370	-	-	hypothetical protein
+46426..46776	-	116	377822344	-	MPNA0380	-	-	hypothetical protein
+47178..47276	+	32	377822345	-	MPNA0390	-	-	hypothetical protein
+47361..48194	+	277	377822346	-	MPNA0391	-	-	hypothetical protein
+48089..48400	-	103	377822347	-	MPNA0400	-	-	hypothetical protein
+48654..49214	+	186	377822348	-	MPNA0410	-	-	hypothetical protein
+49276..51294	+	672	377822349	-	MPNA0420	-	-	hypothetical protein
+51618..52412	+	264	377822350	glpF	MPNA0430	-	-	glycerol uptake facilitator
+52383..53033	-	216	377822351	tdk	MPNA0440	-	-	thymidine kinase
+53060..54304	+	414	377822352	hisS	MPNA0450	-	-	histidyl-tRNA synthetase
+54276..55949	+	557	377822353	aspS	MPNA0460	-	-	aspartyl-tRNA synthetase
+55925..57280	+	451	377822354	-	MPNA0470	-	-	putative nicotinate phosphoribosyltransferase
+57870..59342	+	490	377822355	-	MPNA0480	-	-	membrane export protein family protein
+59604..61502	+	632	377822356	-	MPNA0490	-	-	membrane export protein family protein
+61962..63488	-	508	377822357	glpK	MPNA0500	-	-	glycerol kinase
+63479..64633	-	384	377822358	glpD	MPNA0510	-	-	glycerol-3-phospate dehydrogenase
+64816..66789	+	657	377822359	-	MPNA0520	-	-	putative lipoprotein
+66807..67073	+	88	377822360	ptsH	MPNA0530	-	-	phosphocarrier protein HPr
+68600..68971	+	123	377822361	-	MPNA0540	-	-	hypothetical protein
+70378..72060	+	560	377822362	potA	MPNA0550	-	-	spermidine/putrescine transport ATP-binding prot
+72062..72922	+	286	377822363	potB	MPNA0560	-	-	spermidine/putrescine transport system permease
+72915..73775	+	286	377822364	potI	MPNA0570	-	-	spermidine/putrescine transport system permease
+73760..75217	+	485	377822365	potD	MPNA0580	-	-	spermidine/putrescine transport system substrate-binding protein
+75217..76176	+	319	377822366	gcp	MPNA0590	-	-	putative DNA-binding/iron metalloprotein
+76160..77311	+	383	377822367	metK	MPNA0600	-	-	S-adenosylmethionine synthetase
+77599..78951	-	450	377822368	ffh	MPNA0610	-	-	signal recognition particle protein
+79007..79723	+	238	377822369	deoD	MPNA0620	-	-	purine nucleoside phosphorylase
+79727..80401	+	224	377822370	deoC	MPNA0630	-	-	deoxyribose-phosphate aldolase
+80388..81653	+	421	377822371	deoA	MPNA0640	-	-	thymidine phosphorylase
+81664..82065	+	133	377822372	cdd	MPNA0650	-	-	cytidine deaminase
+82055..83719	+	554	377822373	cpsG	MPNA0660	-	-	phosphomannomutase
+83687..84649	-	320	377822374	nusG	MPNA0670	-	-	transcription antitermination factor
+84657..85034	-	125	377822375	secE	MPNA0680	-	-	preprotein translocase subunit SecE
+85040..85186	-	48	377822376	rpmG	MPNA0690	-	-	50S ribosomal protein L33
+85202..85585	-	127	377822377	-	MPNA0700	-	-	hypothetical protein
+85572..86402	-	276	377822378	-	MPNA0710	-	-	hypothetical protein
+86384..86920	-	178	377822379	-	MPNA0720	-	-	Primase-like protein
+86899..88065	-	388	377822380	prs	MPNA0730	-	-	ribose-phosphate diphosphokinase
+87872..88315	-	147	377822381	smpB	MPNA0740	-	-	SsrA-binding protein
+88322..89221	+	299	377822382	-	MPNA0750	-	-	glycosyltransferase
+89273..90967	-	564	377822383	uhpT	MPNA0760	-	-	putative hexosephosphate transport protein
+91173..92813	-	546	377822384	-	MPNA0770	-	-	hypothetical protein
+93165..95249	+	694	377822385	fruA	MPNA0780	-	-	fructose-permease IIBC component
+95242..96144	+	300	377822386	fruK	MPNA0790	-	-	1-phosphofructokinase
+96381..100541	+	1386	377822387	-	MPNA0800	-	-	ABC transporter permease
+100541..101938	+	465	377822388	-	MPNA0810	-	-	ABC transporter ATP-binding protein
+101959..103905	+	648	377822389	tklB	MPNA0820	-	-	transketolase
+103915..105516	+	533	377822390	-	MPNA0830	-	-	hypothetical protein
+105566..107140	+	524	377822391	-	MPNA0840	-	-	hypothetical protein
+107247..108683	+	478	377822392	-	MPNA0850	-	-	adhesin P1
+108829..109146	+	105	377822393	-	MPNA0860	-	-	adhesin P1
+109318..109770	+	150	377822394	-	MPNA0870	-	-	adhesin P1
+110785..111090	+	101	377822395	-	MPNA0880	-	-	hypothetical protein
+111582..112601	+	339	377822396	-	MPNA0890	-	-	putative type I restriction enzyme specificity protein
+112756..113367	+	203	377822397	-	MPNA0900	-	-	adhesin P1
+113244..113744	+	166	377822398	-	MPNA0901	-	-	adhesin P1
+113821..114237	+	138	377822399	-	MPNA0910	-	-	hypothetical protein
+114731..115075	+	114	377822400	-	MPNA0920	-	-	cytadherence-related protein
+114930..115487	+	185	377822401	-	MPNA0930	-	-	cytadherence-related protein
+115397..115834	+	145	377822402	-	MPNA0931	-	-	cytadherence-related protein
+116268..116690	+	140	377822403	-	MPNA0940	-	-	hypothetical protein
+123294..124058	+	254	377822404	-	MPNA0950	-	-	amino acid permease
+124058..124852	+	264	377822405	-	MPNA0960	-	-	amino acid permease
+125028..126653	+	541	377822406	-	MPNA0970	-	-	putative lipoprotein
+126951..127394	+	147	377822407	-	MPNA0980	-	-	putative lipoprotein
+128080..129123	+	347	377822408	-	MPNA0990	-	-	adhesin P1
+129462..130013	+	183	377822409	-	MPNA1000	-	-	hypothetical protein
+130470..131747	+	425	377822410	-	MPNA1010	-	-	adhesin P1
+132559..133662	+	367	377822411	-	MPNA1020	-	-	cytadherence-related protein
+134114..134566	-	150	377822412	-	MPNA1030	-	-	hypothetical protein
+134576..134704	+	42	377822413	-	MPNA1040	-	-	hypothetical protein
+135724..136749	+	341	377822414	pheS	MPNA1050	-	-	phenylalanyl-tRNA synthetase subunit alpha
+136752..139169	+	805	377822415	pheT	MPNA1060	-	-	phenylalanyl-tRNA synthetase subunit beta
+139282..140037	+	251	377822416	-	MPNA1070	-	-	hypothetical protein
+140039..141253	+	404	377822417	-	MPNA1080	-	-	hypothetical protein
+141944..143554	+	536	377822418	-	MPNA1090	-	-	hypothetical protein
+143564..144520	+	318	377822419	-	MPNA1100	-	-	hypothetical protein
+144720..145007	+	95	377822420	-	MPNA1101	-	-	hypothetical protein
+145024..146292	+	422	377822421	-	MPNA1110	-	-	hypothetical protein
+147152..147544	+	130	377822422	-	MPNA1120	-	-	putative permease
+148093..148764	+	223	377822423	-	MPNA1130	-	-	putative transporter
+148754..150556	+	600	377822424	-	MPNA1140	-	-	carnitine O-acetyltransferase
+150646..151251	+	201	377822425	infC	MPNA1150	-	-	translation initiation factor IF-3
+151257..151436	+	59	377822426	rpmI	MPNA1160	-	-	50S ribosomal protein L35
+151447..151830	+	127	377822427	rplT	MPNA1170	-	-	50S ribosomal protein L20
+151805..152515	-	236	377822428	-	MPNA1180	-	-	ribonuclease HII
+152571..155303	+	910	377822429	topJ	MPNA1190	-	-	DnaJ domain-containing protein TopJ
+155326..155979	+	217	377822430	grpE	MPNA1200	-	-	heat shock protein GrpE
+155979..156344	+	121	377822431	-	MPNA1210	-	-	hypothetical protein
+156470..158377	+	635	377822432	parE	MPNA1220	-	-	topoisomerase IV subunit B
+158377..160746	+	789	377822433	parC	MPNA1230	-	-	topoisomerase IV subunit A
+160733..161788	-	351	377822434	hrcA	MPNA1240	-	-	heat-inducible transcription repressor
+161820..163622	+	600	377822435	uvrC	MPNA1250	-	-	excinuclease ABC subunit C
+163615..164094	+	159	377822436	-	MPNA1260	-	-	hypothetical protein
+164486..165301	+	271	377822437	-	MPNA1270	-	-	hypothetical protein
+166524..166973	+	149	377822438	-	MPNA1280	-	-	adhesin P1
+167673..168122	+	149	377822439	-	MPNA1290	-	-	adhesin P1
+168191..168742	+	183	377822440	-	MPNA1300	-	-	adhesin P1
+169428..170093	+	221	377822441	-	MPNA1310	-	-	adhesin P1
+169943..170605	+	220	377822442	-	MPNA1311	-	-	adhesin P1
+170409..171179	+	256	377822443	-	MPNA1320	-	-	adhesin P1
+171637..172542	+	301	377822444	-	MPNA1330	-	-	putative lipoprotein
+172566..174326	+	586	377822445	-	MPNA1340	-	-	ABC transporter ATP-binding protein
+174319..175308	+	329	377822446	-	MPNA1350	-	-	ABC transporter permease
+175280..176239	+	319	377822447	-	MPNA1360	-	-	ABC transporter permease
+176817..177392	-	191	377822448	-	MPNA1370	-	-	hypothetical protein
+177392..177508	-	38	377822449	-	MPNA1380	-	-	hypothetical protein
+177487..177609	-	40	377822450	-	MPNA1381	-	-	hypothetical protein
+177630..178121	-	163	377822451	-	MPNA1390	-	-	hypothetical protein
+178372..179346	+	324	377822452	orf4	MPNA1400	-	-	DHH family phosphoesterase
+179359..184257	+	1632	377822453	p1	MPNA1410	-	-	adhesin P1 type 2A
+184263..187718	+	1151	377822454	orf6	MPNA1420	-	-	cytadherence-related protein
+187834..188361	+	175	377822455	-	MPNA1430	-	-	hypothetical protein
+188935..189996	+	353	377822456	-	MPNA1440	-	-	adhesin P1
+190553..191092	+	179	377822457	-	MPNA1450	-	-	hypothetical protein
+191412..192209	+	265	377822458	-	MPNA1460	-	-	putative lipoprotein
+192216..193673	+	485	377822459	-	MPNA1470	-	-	putative lipoprotein
+194207..194629	+	140	377822460	-	MPNA1480	-	-	hypothetical protein
+195182..196486	+	434	377822461	-	MPNA1490	-	-	cytadherence-related protein
+196314..196988	+	224	377822462	-	MPNA1500	-	-	cytadherence-related protein
+197471..197872	+	133	377822463	-	MPNA1510	-	-	hypothetical protein
+198155..200629	+	824	377822464	-	MPNA1520	-	-	putative lipoprotein
+200716..204057	+	1113	377822465	-	MPNA1530	-	-	putative helicase superfamily protein
+204134..205756	+	540	377822466	nusA	MPNA1540	-	-	transcription elongation factor NusA
+206037..207890	+	617	377822467	infB	MPNA1550	-	-	translation initiation factor IF-2
+207893..208243	+	116	377822468	rbfA	MPNA1560	-	-	ribosome binding factor A
+208259..209467	+	402	377822469	-	MPNA1570	-	-	hypothetical protein
+209480..210289	+	269	377822470	ribF	MPNA1580	-	-	riboflavin biosynthesis protein RibF
+210315..211589	+	424	377822471	hlyC	MPNA1590	-	-	hemolysin-like protein
+211576..212709	+	377	377822472	-	MPNA1600	-	-	hypothetical protein
+212863..214200	+	445	377822473	-	MPNA1610	-	-	hypothetical protein
+214322..215284	+	320	377822474	-	MPNA1620	-	-	hypothetical protein
+215531..215869	+	112	377822475	-	MPNA1630	-	-	hypothetical protein
+215963..216289	+	108	377822476	rpsJ/nusE	MPNA1640	-	-	30S ribosomal protein S10
+216303..217166	+	287	377822477	rplC	MPNA1650	-	-	50S ribosomal protein L3
+217166..217804	+	212	377822478	rplD	MPNA1660	-	-	50S ribosomal protein L4
+217807..218520	+	237	377822479	rplW	MPNA1670	-	-	50S ribosomal protein L23
+218520..219383	+	287	377822480	rplB	MPNA1680	-	-	50S ribosomal protein L2
+219383..219646	+	87	377822481	rpsS	MPNA1690	-	-	30S ribosomal protein S19
+219573..220127	+	184	377822482	rplV	MPNA1700	-	-	50S ribosomal protein L22
+220129..220950	+	273	377822483	rpsC	MPNA1710	-	-	30S ribosomal protein S3
+220950..221369	+	139	377822484	rplP	MPNA1720	-	-	50S ribosomal protein L16
+221369..221704	+	111	377822485	rpmC	MPNA1730	-	-	50S ribosomal protein L29
+221704..221961	+	85	377822486	rpsQ	MPNA1740	-	-	30S ribosomal protein S17
+221965..222333	+	122	377822487	rplN	MPNA1750	-	-	50S ribosomal protein L14
+222333..222668	+	111	377822488	rplX	MPNA1760	-	-	50S ribosomal protein L24
+222671..223213	+	180	377822489	rplE	MPNA1770	-	-	50S ribosomal protein L5
+223215..223400	+	61	377822490	rpsN	MPNA1780	-	-	30S ribosomal protein S14
+223394..223822	+	142	377822491	rpsH	MPNA1790	-	-	30S ribosomal protein S8
+223829..224383	+	184	377822492	rplF	MPNA1800	-	-	50S ribosomal protein L6
+224384..224734	+	116	377822493	rplR	MPNA1810	-	-	50S ribosomal protein L18
+224738..225397	+	219	377822494	rpsE	MPNA1820	-	-	30S ribosomal protein S5
+225401..225856	+	151	377822495	rplO	MPNA1830	-	-	50S ribosomal protein L15
+225856..227289	+	477	377822496	secY	MPNA1840	-	-	preprotein translocase subunit SecY
+227289..227930	+	213	377822497	adk	MPNA1850	-	-	adenylate kinase
+227930..228676	+	248	377822498	map	MPNA1860	-	-	methionine amino peptidase
+228676..228912	+	78	377822499	infA	MPNA1870	-	-	translation initiation factor IF-1
+228923..229036	+	37	377822500	rpmJ	MPNA1880	-	-	50S ribosomal protein L36
+229036..229410	+	124	377822501	rpsM	MPNA1890	-	-	30S ribosomal protein S13
+229410..229775	+	121	377822502	rpsK	MPNA1900	-	-	30S ribosomal protein S11
+229781..230764	+	327	377822503	rpoA	MPNA1910	-	-	DNA-directed RNA polymerase subunit alpha
+230767..231141	+	124	377822504	rplQ	MPNA1920	-	-	50S ribosomal protein L17
+231125..231949	+	274	377822505	cbiO	MPNA1930	-	-	cobalt ABC transporter ATP-binding protein
+231937..232848	+	303	377822506	cbiO	MPNA1940	-	-	cobalt ABC transporter ATP-binding protein
+232841..234145	+	434	377822507	cbiQ	MPNA1950	-	-	cobalt ABC transporter permease
+234138..234869	+	243	377822508	truA	MPNA1960	-	-	tRNA pseudouridine synthase A
+234862..236697	+	611	377822509	pepF	MPNA1970	-	-	oligoendopeptidase F
+236697..237656	+	319	377822510	-	MPNA1980	-	-	site-specific DNA-methyltransferase (adenine-specific)
+237750..240185	+	811	377822511	-	MPNA1990	-	-	putative lipoprotein
+240315..242711	+	798	377822512	-	MPNA2000	-	-	putative lipoprotein
+243185..243901	+	238	377822513	hsdS	MPNA2010	-	-	hypothetical protein
+244381..245034	+	217	377822514	-	MPNA2020	-	-	adhesin P1
+245044..245622	+	192	377822515	-	MPNA2030	-	-	hypothetical protein
+245984..246430	+	148	377822516	-	MPNA2040	-	-	hypothetical protein
+246891..248279	+	462	377822517	-	MPNA2050	-	-	adhesin P1
+248334..248675	-	113	377822518	-	MPNA2060	-	-	hypothetical protein
+248727..251549	+	940	377822519	ptsG	MPNA2070	-	-	PTS system glucose-specific transporter subunit IIABC
+252159..253043	+	294	377822520	rpsB	MPNA2080	-	-	30S ribosomal protein S2
+253036..255654	+	872	377822521	mgtA	MPNA2090	-	-	cation-transporting P-type ATPase
+255641..258067	+	808	377822522	secA	MPNA2100	-	-	Preprotein translocase subunit SecA
+258042..260015	+	657	377822523	uvrB	MPNA2110	-	-	excinuclease ABC subunit B
+260018..260425	+	135	377822524	-	MPNA2120	-	-	hypothetical protein
+260530..263622	+	1030	377822525	-	MPNA2130	-	-	hypothetical protein
+263619..264035	-	138	377822526	-	MPNA2140	-	-	hypothetical protein
+264311..265480	+	389	377822527	oppB	MPNA2150	-	-	oligopeptide ABC transporter permease
+265473..266603	+	376	377822528	oppC	MPNA2160	-	-	oligopeptide ABC transporter permease
+266605..267876	+	423	377822529	oppD	MPNA2170	-	-	oligopeptide ABC transporter ATP-binding protein
+267839..270394	+	851	377822530	oppF	MPNA2180	-	-	oligopeptide ABC transporter ATP-binding protein
+270450..270863	+	137	377822531	rplK	MPNA2190	-	-	50S ribosomal protein L11
+270863..271543	+	226	377822532	rplA	MPNA2200	-	-	50S ribosomal protein L1
+271543..272109	+	188	377822533	pth	MPNA2210	-	-	peptidyl-tRNA hydrolase
+272102..272971	+	289	377822534	tilS	MPNA2220	-	-	tRNA(Ile)-lysidine synthetase
+272972..273910	+	312	377822535	hprK	MPNA2230	-	-	HPr kinase/phosphorylase
+273900..275069	+	389	377822536	lgt	MPNA2240	-	-	prolipoprotein diacylglyceryl transferase
+275098..275517	+	139	377822537	rpsL	MPNA2250	-	-	30S ribosomal protein S12
+275571..276038	+	155	377822538	rpsG	MPNA2260	-	-	30S ribosomal protein S7
+276061..278127	+	688	377822539	fus	MPNA2270	-	-	translation elongation factor G
+278184..278831	+	215	377822540	rpsF	MPNA2280	-	-	30S ribosomal protein S6
+278831..279331	+	166	377822541	ssb	MPNA2290	-	-	single-stranded DNA binding protein
+279321..279635	+	104	377822542	rpsR	MPNA2300	-	-	30S ribosomal protein S18
+279638..280087	+	149	377822543	rplI	MPNA2310	-	-	50S ribosomal protein L9
+280074..281495	+	473	377822544	dnaB	MPNA2320	-	-	replicative DNA helicase DnaB
+281499..282863	+	454	377822545	-	MPNA2330	-	-	hypothetical protein
+283591..284844	+	417	377822546	-	MPNA2340	-	-	membrane export protein family protein
+284869..285591	+	240	377822547	ung	MPNA2350	-	-	uracil-DNA glycosylase
+285789..287228	+	479	377822548	gatC	MPNA2360	-	-	aspartyl/glutamyl-tRNA amidotransferase, C subunit
+287231..288667	+	478	377822549	gatA	MPNA2370	-	-	aspartyl/glutamyl-tRNA amidotransferase, A subunit
+288657..290093	+	478	377822550	gatB	MPNA2380	-	-	aspartyl/glutamyl-tRNA amidotransferase, B subunit
+290068..290736	+	222	377822551	-	MPNA2390	-	-	hypothetical protein
+290729..291676	+	315	377822552	trxB	MPNA2400	-	-	thioredoxin reductase
+291666..292508	+	280	377822553	-	MPNA2410	-	-	hypothetical protein
+292541..292771	+	76	377822554	secG	MPNA2420	-	-	preprotein translocase subunit SecG
+292782..294962	+	726	377822555	rnr	MPNA2430	-	-	ribonuclease R
+294962..295570	+	202	377822556	-	MPNA2440	-	-	hypothetical protein
+295539..296189	-	216	377822557	def	MPNA2450	-	-	peptide deformylas
+296011..296730	+	239	377822558	gmk	MPNA2460	-	-	guanylate kinase
+296730..297509	+	259	377822559	ptc1	MPNA2470	-	-	protein phoshatase
+297500..298669	+	389	377822560	-	MPNA2480	-	-	serine/threonine protein kinase
+298656..299492	+	278	377822561	rsgA	MPNA2490	-	-	ribosome small subunit-dependent GTPase A
+299514..300806	+	430	377822562	pgi	MPNA2500	-	-	glucose-6-phosphate isomerase
+300784..301431	+	215	377822563	rpe	MPNA2510	-	-	ribulose-phosphate 3-epimerase
+301438..302805	+	455	377822564	asnS	MPNA2520	-	-	asparaginyl-tRNA synthetase
+302762..303445	+	227	377822565	pgsA	MPNA2530	-	-	phosphatidylglycerophosphate synthase
+303467..303940	+	157	377822566	-	MPNA2540	-	-	damage-inducible protein CinA-like protein
+303966..304721	+	251	377822567	-	MPNA2550	-	-	hypothetical protein
+304714..305385	+	223	377822568	-	MPNA2560	-	-	hypothetical protein
+305366..306382	+	338	377822569	galE	MPNA2570	-	-	UDP-glucose 4-epimerase
+306397..308115	+	572	377822570	-	MPNA2580	-	-	sugar ABC transporter ATP-binding protein
+308132..309685	+	517	377822571	-	MPNA2590	-	-	amino acid or sugar ABC transporter, permease protein
+309685..310620	+	311	377822572	-	MPNA2600	-	-	sugar ABC transporter, permease subunit
+310657..312792	+	711	377822573	topA	MPNA2610	-	-	DNA topoisomerase I
+312782..314209	+	475	377822574	-	MPNA2620	-	-	hypothetical protein
+314275..314583	+	102	377822575	trx	MPNA2630	-	-	thioredoxin
+314595..315440	+	281	377822576	-	MPNA2640	-	-	hypothetical protein
+315448..316488	-	346	377822577	trpS	MPNA2650	-	-	tryptophanyl-tRNA synthetase
+316545..316982	+	145	377822578	-	MPNA2660	-	-	transcriptional regulator Spx-like protein
+316982..317761	+	259	377822579	ppnK	MPNA2670	-	-	inorganic polyphosphate/ATP-NAD kinase
+317761..318114	+	117	377822580	-	MPNA2680	-	-	hypothetical protein
+318104..319585	+	493	377822581	-	MPNA2690	-	-	hypothetical protein
+319588..319875	+	95	377822582	-	MPNA2700	-	-	hypothetical protein
+320138..320377	+	79	377822583	-	MPNA2710	-	-	hypothetical protein
+320473..320892	+	139	377822584	-	MPNA2711	-	-	hypothetical protein
+322597..322878	+	93	377822585	-	MPNA2720	-	-	hypothetical protein
+322855..323289	-	144	377822586	hit	MPNA2730	-	-	histidine triad (HIT) hydrolase-like protein
+323258..324058	-	266	377822587	-	MPNA2740	-	-	hypothetical protein
+324080..324382	+	100	377822588	-	MPNA2750	-	-	hypothetical protein
+324354..325211	-	285	377822589	-	MPNA2760	-	-	hypothetical protein
+325256..326725	+	489	377822590	lysS	MPNA2770	-	-	lysyl-tRNA synthetase
+326685..327884	+	399	377822591	glf	MPNA2780	-	-	UDP-galactopyranose mutase
+327884..329680	+	598	377822592	lepA	MPNA2790	-	-	GTP-binding protein LepA
+329759..331468	+	569	377822593	-	MPNA2800	-	-	putative ribonuclease J
+332026..332811	+	261	377822594	-	MPNA2810	-	-	putative lipoprotein
+333166..333666	+	166	377822595	-	MPNA2820	-	-	hypothetical protein
+334879..335226	+	115	377822596	-	MPNA2830	-	-	hypothetical protein
+336170..338554	+	794	377822597	-	MPNA2840	-	-	putative lipoprotein
+339013..339957	+	314	377822598	-	MPNA2850	-	-	putative type I restriction enzyme DNA specificity domain protein
+340060..341700	+	546	377822599	-	MPNA2860	-	-	adhesin P1
+342187..342543	+	118	377822600	-	MPNA2870	-	-	hypothetical protein
+343140..345503	+	787	377822601	-	MPNA2880	-	-	putative lipoprotein
+345593..346180	+	195	377822602	hsdS	MPNA2890	-	-	hypothetical protein
+346319..346756	+	145	377822603	-	MPNA2900	-	-	putative type I restriction enzyme DNA specificity domain protein
+346749..347339	-	196	377822604	-	MPNA2910	-	-	protease-like protein
+347323..348252	-	309	377822605	-	MPNA2920	-	-	putative RluA family pseudouridine synthase
+348252..348806	-	184	377822606	lspA	MPNA2930	-	-	signal peptidase II
+348845..349465	+	206	377822607	-	MPNA2940	-	-	putative intracellular protease/amidase
+349514..350176	+	220	377822608	-	MPNA2950	-	-	hypothetical protein
+350176..350358	+	60	377822609	rpsU	MPNA2960	-	-	30S ribosomal protein S21
+350383..350832	+	149	377822610	-	MPNA2970	-	-	hypothetical protein
+350835..351194	+	119	377822611	acpS	MPNA2980	-	-	4'-phosphopantetheinyl transferase
+351182..351982	+	266	377822612	-	MPNA2990	-	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+351983..353503	+	506	377822613	scpA/folA	MPNA3000	-	-	segregation and condensation protein A/dihydrofolate reductase
+353487..354113	+	208	377822614	scpB	MPNA3010	-	-	segregation and condensation protein B
+354133..355119	+	328	377822615	pfkA	MPNA3020	-	-	6-phosphofructokinase
+355125..356651	+	508	377822616	pyk	MPNA3030	-	-	pyruvate kinase
+357631..358347	+	238	377822617	arcA	MPNA3040	-	-	putative arginine deiminase
+358248..358844	+	198	377822618	arcA	MPNA3050	-	-	putative arginine deiminase
+359092..359913	+	273	377822619	arcB	MPNA3060	-	-	ornithine carbamoyltransferase
+359916..360845	+	309	377822620	arcC	MPNA3070	-	-	carbamate kinase
+360848..362545	+	565	377822621	-	MPNA3080	-	-	amino acid permease
+362679..363950	+	423	377822622	p65	MPNA3090	-	-	cytadherence-related protein P65
+363970..369426	+	1818	377822623	hmw2	MPNA3100	-	-	cytadherence accessory protein HMW2
+369441..370514	+	357	377822624	p41	MPNA3110	-	-	cytadherence-related protein P41
+370504..371160	+	218	377822625	p24	MPNA3120	-	-	cytadherence-related protein P24
+371243..371515	-	90	377822626	-	MPNA3130	-	-	hypothetical protein
+371916..372341	+	141	377822627	mraZ	MPNA3140	-	-	cell division protein MraZ
+372331..373257	+	308	377822628	mraW	MPNA3150	-	-	S-adenosyl-methyltransferase MraW
+373260..374519	+	419	377822629	-	MPNA3160	-	-	hypothetical protein
+374525..375667	+	380	377822630	ftsZ	MPNA3170	-	-	cell division protein FtsZ
+375710..377185	+	491	377822631	-	MPNA3180	-	-	amino acid permease
+377160..378671	+	503	377822632	-	MPNA3190	-	-	amino acid permease
+379043..380029	+	328	377822633	thyA	MPNA3200	-	-	thymidylate synthase
+380031..380513	+	160	377822634	dhfR	MPNA3210	-	-	dihydrofolate reductase
+380520..381539	+	339	377822635	nrdF	MPNA3220	-	-	ribonucleotide-diphosphate reductase, beta subunit
+381542..382003	+	153	377822636	nrdI	MPNA3230	-	-	ribonucleotide reductase stimulatory protein
+382027..384192	+	721	377822637	nrdE	MPNA3240	-	-	ribonucleotide-diphosphate reductase, alpha subunit
+384339..384641	+	100	377822638	rplU	MPNA3250	-	-	50S ribosomal protein L21
+384634..384936	+	100	377822639	-	MPNA3260	-	-	hypothetical protein
+384929..385243	+	104	377822640	rpmA	MPNA3270	-	-	50S ribosomal protein L27
+385236..386096	+	286	377822641	nfo	MPNA3280	-	-	endonuclease IV
+386050..386526	+	158	377822642	-	MPNA3290	-	-	ferric uptake regulator family protein
+386516..387400	+	294	377822643	-	MPNA3300	-	-	hypothetical protein
+387425..388759	+	444	377822644	tig	MPNA3310	-	-	trigger factor
+388830..391217	+	795	377822645	lon	MPNA3320	-	-	ATP-dependent protease Lon
+391412..393664	+	750	377822646	-	MPNA3330	-	-	hypothetical protein
+393667..394647	+	326	377822647	-	MPNA3340	-	-	ABC transporter ATP-binding protein
+394634..396859	+	741	377822648	-	MPNA3350	-	-	hypothetical protein
+396860..397894	-	344	377822649	nadD	MPNA3360	-	-	putative nicotinate-nucleotide adenylyl transferase
+397979..399844	+	621	377822650	-	MPNA3370	-	-	hypothetical protein
+399847..401745	+	632	377822651	-	MPNA3380	-	-	hypothetical protein
+401745..402419	+	224	377822652	-	MPNA3390	-	-	hypothetical protein
+402423..404012	+	529	377822653	pcrA	MPNA3400	-	-	ATP-dependent DNA helicase II
+404075..406222	+	715	377822654	pcrA	MPNA3410	-	-	ATP-dependent DNA helicase II
+406363..407994	+	543	377822655	hsdM	MPNA3420	-	-	type I restriction-modification system, M subunit
+408064..409209	+	381	377822656	hsdS	MPNA3430	-	-	hypothetical protein
+409432..410082	+	216	377822657	-	MPNA3440	-	-	hypothetical protein
+411026..411427	+	133	377822658	hsdR	MPNA3450	-	-	type I restriction system endonuclease
+411777..412124	+	115	377822659	hsdR	MPNA3460	-	-	type I restriction system endonuclease
+412331..413461	+	376	377822660	hsdR	MPNA3470	-	-	type I restriction system endonuclease
+414416..414910	+	164	377822661	-	MPNA3480	-	-	5-formyltetrahydrofolate cyclo-ligase
+414900..415745	+	281	377822662	-	MPNA3490	-	-	hypothetical protein
+415737..416456	-	239	377822663	-	MPNA3500	-	-	putative glycerol-3-phosphate acyltransferase
+416443..417102	-	219	377822664	-	MPNA3510	-	-	putative SAM-dependent methyltransferase
+417086..418585	-	499	377822665	rpoD	MPNA3520	-	-	RNA polymerase sigma factor
+418638..420500	-	620	377822666	dnaG	MPNA3530	-	-	DNA primase
+420484..421833	-	449	377822667	glyS	MPNA3540	-	-	glycyl-tRNA synthetase
+421855..422583	-	242	377822668	-	MPNA3550	-	-	tRNA/rRNA methyltransferase
+422586..423899	-	437	377822669	cysS	MPNA3560	-	-	cysteinyl-tRNA synthetase
+423880..425856	-	658	377822670	ligA	MPNA3570	-	-	NAD-dependent DNA ligase
+426024..427628	+	534	377822671	-	MPNA3580	-	-	hypothetical protein
+427858..428634	+	258	377822672	-	MPNA3590	-	-	hypothetical protein
+428679..428972	+	97	377822673	rpmE	MPNA3600	-	-	50S ribosomal protein L31
+428973..430052	+	359	377822674	prfA	MPNA3610	-	-	peptide chain release factor 1
+430052..431413	+	453	377822675	-	MPNA3620	-	-	HemK family methylase
+431545..433926	+	793	377822676	-	MPNA3630	-	-	putative lipoprotein
+433964..434911	+	315	377822677	-	MPNA3640	-	-	hypothetical protein
+435168..435977	+	269	377822678	-	MPNA3650	-	-	cytadherence-related protein
+435785..437050	+	421	377822679	-	MPNA3660	-	-	cytadherence-related protein
+436825..437172	+	115	377822680	-	MPNA3670	-	-	cytadherence-related protein
+437566..438108	+	180	377822681	-	MPNA3680	-	-	hypothetical protein
+438240..439001	-	253	377822682	-	MPNA3690	-	-	hypothetical protein
+439648..440442	+	264	377822683	-	MPNA3700	-	-	adhesin P1
+440364..441443	+	359	377822684	-	MPNA3701	-	-	hypothetical protein
+441517..441861	+	114	377822685	-	MPNA3702	-	-	adhesin P1
+442049..442540	-	163	377822686	-	MPNA3710	-	-	hypothetical protein
+442694..444469	+	591	377822687	-	MPNA3720	-	-	ADP-ribosylating toxin CARDS
+444480..445094	-	204	377822688	-	MPNA3730	-	-	hypothetical protein
+446123..446812	-	229	377822689	-	MPNA3740	-	-	hypothetical protein
+447158..447547	-	129	377822690	-	MPNA3750	-	-	hypothetical protein
+447927..451349	-	1140	377822691	-	MPNA3760	-	-	hypothetical protein
+451776..452000	+	74	377822692	-	MPNA3770	-	-	hypothetical protein
+452004..454622	+	872	377822693	dnaE	MPNA3780	-	-	DNA polymerase III subunit alpha
+454626..455501	+	291	377822694	polA	MPNA3790	-	-	DNA polymerase I
+455501..456334	+	277	377822695	fpg/mutM	MPNA3800	-	-	formamidopyrimidine-DNA glycosylase
+456480..457358	+	292	377822696	-	MPNA3810	-	-	HAD family hydrolase/Cof-like hydrolase
+457352..457954	+	200	377822697	coaE	MPNA3820	-	-	dephospho-CoA kinase
+457884..458732	-	282	377822698	-	MPNA3830	-	-	putative phosphotransferase
+458735..461116	-	793	377822699	leuS	MPNA3840	-	-	leucyl-tRNA synthetase
+461117..461461	-	114	377822700	-	MPNA3850	-	-	hypothetical protein
+461496..462185	-	229	377822701	-	MPNA3860	-	-	deoxyguanosine kinase/ deoxyadenosine kinase
+462333..463409	-	358	377822702	-	MPNA3870	-	-	hypothetical protein
+463402..463788	-	128	377822703	-	MPNA3880	-	-	putative ATP-dependent DNA helicase II
+463781..464800	-	339	377822704	lplA	MPNA3890	-	-	lipoate protein ligase
+464827..466200	-	457	377822705	pdhD	MPNA3900	-	-	dihydrolipoamide dehydrogenase
+466201..467409	-	402	377822706	pdhC	MPNA3910	-	-	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase)
+467728..468711	-	327	377822707	pdhB	MPNA3920	-	-	pyruvate dehydrogenase E1 component subunit beta
+468733..469809	-	358	377822708	pdhA	MPNA3930	-	-	pyruvate dehydrogenase E1 component subunit alpha
+469830..471269	-	479	377822709	nox	MPNA3940	-	-	NADH oxidase
+471337..471870	-	177	377822710	apt	MPNA3950	-	-	adenine phosphoribosyltransferase
+471905..474820	-	971	377822711	-	MPNA3960	-	-	hypothetical protein
+474824..477025	+	733	377822712	SpoT/RelA	MPNA3970	-	-	ppGpp 3'-pyrophosphohydrolase
+477022..477678	-	218	377822713	-	MPNA3980	-	-	hypothetical protein
+477678..478541	-	287	377822714	-	MPNA3990	-	-	hypothetical protein
+478603..480351	-	582	377822715	-	MPNA4000	-	-	hypothetical protein
+481119..481601	-	160	377822716	greA	MPNA4010	-	-	transcription elongation factor GreA
+481883..483334	+	483	377822717	proS	MPNA4020	-	-	prolyl-tRNA synthetase
+483479..483847	+	122	377822718	-	MPNA4030	-	-	hypothetical protein
+483828..484211	+	127	377822719	-	MPNA4040	-	-	hypothetical protein
+484292..484867	+	191	377822720	-	MPNA4041	-	-	hypothetical protein
+484874..485467	+	197	377822721	-	MPNA4050	-	-	hypothetical protein
+485502..485756	+	84	377822722	-	MPNA4060	-	-	acyl carrier protein
+486161..488500	-	779	377822723	-	MPNA4070	-	-	lipase-like protein
+488728..491010	+	760	377822724	-	MPNA4080	-	-	putative lipoprotein
+491083..492711	+	542	377822725	-	MPNA4090	-	-	adhesin P1
+493048..493494	+	148	377822726	-	MPNA4100	-	-	hypothetical protein
+493636..494394	-	252	377822727	-	MPNA4110	-	-	hypothetical protein
+494988..495824	+	278	377822728	-	MPNA4120	-	-	adhesin P1
+495901..496320	+	139	377822729	-	MPNA4130	-	-	hypothetical protein
+496665..497912	+	415	377822730	-	MPNA4140	-	-	cytadherence-related protein
+498163..499305	+	380	377822731	p37	MPNA4150	-	-	high affinity transport system protein P37
+499298..500032	+	244	377822732	-	MPNA4160	-	-	ABC transporter, ATP-binding protein/ P29-like protein
+500025..501653	+	542	377822733	-	MPNA4170	-	-	ABC transporter, permease protein/ P69-like protein
+501654..502076	-	140	377822734	-	MPNA4180	-	-	putative Holliday junction resolvase protein YggF
+502076..504778	-	900	377822735	alaS	MPNA4190	-	-	alanyl-tRNA synthetase
+504830..505555	-	241	377822736	glpQ	MPNA4200	-	-	glycerophosphoryl diester phosphodiesterase
+505548..506975	-	475	377822737	-	MPNA4210	-	-	putative permease
+507106..508218	-	370	377822738	mnmA	MPNA4220	-	-	tRNA-specific 2-thiouridylase MnmA
+508219..508608	-	129	377822739	-	MPNA4230	-	-	hypothetical protein
+508608..508916	-	102	377822740	-	MPNA4240	-	-	hypothetical protein
+508897..509943	-	348	377822741	ftsY	MPNA4250	-	-	cell division protein FtsY
+509949..512897	-	982	377822742	smc	MPNA4260	-	-	chromosome segregation protein SMC
+513082..513954	+	290	377822743	-	MPNA4270	-	-	HAD family hydrolase/Cof-like hydrolase/yidA; sugar phosphatase
+513960..514922	-	320	377822744	eutD/pta	MPNA4280	-	-	phosphotransacetylase/ phosphate acetyltransferase
+514960..516189	-	409	377822745	pgk	MPNA4290	-	-	phosphoglycerate kinase
+516192..517205	-	337	377822746	gap	MPNA4300	-	-	glyceraldehyde-3-phosphate dehydrogenase
+517236..518189	-	317	377822747	-	MPNA4310	-	-	cobalt/nickel transport system permease protein
+518179..519327	-	382	377822748	cbiO	MPNA4320	-	-	cobalt ABC transporter ATP-binding protein
+519222..520034	-	270	377822749	cbiO	MPNA4330	-	-	cobalt ABC transporter ATP-binding protein
+520192..521979	-	595	377822750	dnaK	MPNA4340	-	-	molecular chaperone DnaK
+522035..523222	-	395	377822751	-	MPNA4350	-	-	putative ABC transporter permease
+523232..526966	-	1244	377822752	-	MPNA4360	-	-	putative lipoprotein
+527217..530243	-	1008	377822753	-	MPNA4380	-	-	putative lipoprotein
+530185..531012	-	275	377822754	-	MPNA4390	-	-	putative lipoprotein
+531172..533352	-	726	377822755	-	MPNA4400	-	-	putative lipoprotein
+533822..534142	+	106	377822756	-	MPNA4410	-	-	hypothetical protein
+533900..534526	-	208	377822757	-	MPNA4411	-	-	putative lipoprotein
+534444..534899	-	151	377822758	-	MPNA4420	-	-	putative lipoprotein
+534884..536113	-	409	377822759	-	MPNA4430	-	-	ATP-dependent RNA helicase
+536031..540095	-	1354	377822760	-	MPNA4440	-	-	putative lipoprotein
+540090..540959	+	289	377822761	lip	MPNA4450	-	-	lipase/esterase
+541020..541637	-	205	377822762	rpsD	MPNA4460	-	-	30S ribosomal protein S4
+541660..544716	-	1018	377822763	hmw1	MPNA4470	-	-	cytadherence accessory protein HMW1
+544780..545637	-	285	377822764	-	MPNA4480	-	-	hypothetical protein
+545688..547034	-	448	377822765	orf8	MPNA4490	-	-	hypothetical protein
+547046..547990	-	314	377822766	orf7	MPNA4500	-	-	hypothetical protein
+547869..548978	-	369	377822767	-	MPNA4510	-	-	ComEC/Rec2 family protein
+549018..551036	-	672	377822768	hmw3	MPNA4520	-	-	cytadherence accessory protein HMW3
+551050..551874	-	274	377822769	p30	MPNA4530	-	-	adhersin-related protein P30
+551895..552476	-	193	377822770	-	MPNA4540	-	-	hypothetical protein
+552565..553428	-	287	377822771	-	MPNA4550	-	-	hypothetical protein
+553754..556771	-	1005	377822772	-	MPNA4560	-	-	putative lipoprotein
+556461..556835	-	124	377822773	-	MPNA4590	-	-	hypothetical protein
+557595..559292	-	565	377822774	ktrB	MPNA4600	-	-	Trk-type K+ transport systems, membrane components
+559327..560022	+	231	377822775	ktrA	MPNA4610	-	-	Na, K uptake transporter family protein
+560174..560986	+	270	377822776	-	MPNA4620	-	-	adhesin P1
+561061..561534	+	157	377822777	-	MPNA4630	-	-	hypothetical protein
+561828..563165	+	445	377822778	-	MPNA4640	-	-	cytadherence-related protein
+563562..564092	+	176	377822779	-	MPNA4641	-	-	hypothetical protein
+563681..564181	-	166	377822780	-	MPNA4650	-	-	hypothetical protein
+564225..564647	-	140	377822781	-	MPNA4660	-	-	hypothetical protein
+564677..564982	-	101	377822782	-	MPNA4670	-	-	hypothetical protein
+565720..566343	+	207	377822783	-	MPNA4680	-	-	adhesin P1
+567193..567924	-	243	377822784	-	MPNA4690	-	-	hypothetical protein
+567965..569029	-	354	377822785	-	MPNA4700	-	-	Xaa-Pro aminopeptidase
+569029..569190	-	53	377822786	rpmG	MPNA4710	-	-	50S ribosomal protein L33
+569209..570090	-	293	377822787	-	MPNA4720	-	-	hypothetical protein
+570096..570902	-	268	377822788	lip	MPNA4730	-	-	putative esterase/lipase
+570889..573990	-	1033	377822789	-	MPNA4740	-	-	coiled-coil domain containing protein
+574348..575697	-	449	377822790	engA	MPNA4750	-	-	GTP-binding protein EngA
+575699..576352	-	217	377822791	cmk	MPNA4760	-	-	cytidylate kinase
+576379..577008	-	209	377822792	-	MPNA4770	-	-	hypothetical protein
+577011..577718	-	235	377822793	-	MPNA4780	-	-	hypothetical protein
+577722..578315	-	197	377822794	-	MPNA4790	-	-	acyl carrier protein phosphodiesterase/ FMN-dependent NADH-azoreductase
+578343..580859	-	838	377822795	valS	MPNA4800	-	-	valyl-tRNA synthetase
+580843..581424	-	193	377822796	engB/ysxC	MPNA4810	-	-	ribosome biogenesis GTP-binding protein YsxC
+581432..581626	-	64	377822797	-	MPNA4820	-	-	hypothetical protein
+581712..582737	+	341	377822798	-	MPNA4830	-	-	bifunctional threonine dehydrogenase/ galactosyltransferase/ glycosyltransferase, group 2 family protein
+583241..583552	-	103	377822799	-	MPNA4840	-	-	hypothetical protein
+583969..584919	-	316	377822800	-	MPNA4850	-	-	putative lipoprotein
+584861..585304	+	147	377822801	-	MPNA4860	-	-	hypothetical protein
+585508..586734	+	408	377822802	-	MPNA4870	-	-	putative cysteine desulfurase
+586737..587159	+	140	377822803	-	MPNA4880	-	-	nitrogen fixation NifU-like protein
+587140..591240	-	1366	377822804	-	MPNA4890	-	-	putative lipoprotein
+591740..592750	-	336	377822805	recA	MPNA4900	-	-	recombinase protein, RecA
+592824..594248	+	474	377822806	-	MPNA4910	-	-	membrane nuclease
+594387..595304	-	305	377822807	sgaU	MPNA4920	-	-	L-xylulose 5-phosphate 3-epimerase/L-ribulose-5-phosphate 3-epimerase
+595240..595896	-	218	377822808	ulaD	MPNA4930	-	-	3-keto-L-gulonate-6-phosphate decarboxylase
+595898..596377	-	159	377822809	sgaA	MPNA4940	-	-	PTS system ascorbate-specific transporter subunit IIA
+596379..596666	-	95	377822810	sgaB	MPNA4950	-	-	PTS system ascorbate-specific transporter subunit IIB
+596669..598651	-	660	377822811	ulaA/ sgaT	MPNA4960	-	-	PTS system ascorbate-specific transporter subunit IIC
+599079..599510	-	143	377822812	-	MPNA4970	-	-	phosphotriesterase-related protein
+599821..600549	+	242	377822813	araD	MPNA4980	-	-	L-ribulose-5-phosphate 4-epimerase
+600503..600994	+	163	377822814	-	MPNA4990	-	-	hypothetical protein
+601142..602710	+	522	377822815	-	MPNA5000	-	-	adhesin P1
+603076..603666	+	196	377822816	-	MPNA5010	-	-	hypothetical protein
+604110..605378	+	422	377822817	-	MPNA5020	-	-	adhesin P1
+605934..607256	+	440	377822818	-	MPNA5030	-	-	cytadherence-related protein
+607647..608027	+	126	377822819	-	MPNA5040	-	-	hypothetical protein
+608095..608856	-	253	377822820	-	MPNA5050	-	-	hypothetical protein
+609778..612159	+	793	377822821	-	MPNA5060	-	-	putative lipoprotein
+612279..613370	+	363	377822822	hsdS	MPNA5070	-	-	putative type I restriction enzyme, S subunit
+613398..614927	-	509	377822823	-	MPNA5080	-	-	membrane export protein family protein
+615475..616758	-	427	377822824	-	MPNA5090	-	-	membrane export protein family protein
+617664..619163	-	499	377822825	-	MPNA5100	-	-	membrane export protein family protein
+619776..620558	-	260	377822826	-	MPNA5110	-	-	membrane export protein family protein
+620589..621053	-	154	377822827	-	MPNA5120	-	-	membrane export protein family protein
+621831..622283	-	150	377822828	-	MPNA5130	-	-	hypothetical protein
+622800..623162	-	120	377822829	-	MPNA5140	-	-	hypothetical protein
+623324..627196	-	1290	377822830	rpoC	MPNA5150	-	-	DNA-directed RNA polymerase subunit beta'
+627200..631375	-	1391	377822831	rpoB	MPNA5160	-	-	DNA-directed RNA polymerase subunit beta
+631468..631968	-	166	377822832	-	MPNA5170	-	-	NADPH-dependent FMN reductase domain-containing protein
+633066..634112	-	348	377822833	-	MPNA5180	-	-	hypothetical protein
+634115..634933	-	272	377822834	lip	MPNA5190	-	-	putative esterase/lipase
+634936..637635	-	899	377822835	ileS	MPNA5200	-	-	isoleucyl-tRNA synthetase
+637678..638178	+	166	377822836	-	MPNA5210	-	-	putative rRNA methylase/ tRNA (cytidine/uridine-2'-O-)-methyltransferase
+638169..638801	+	210	377822837	trmB	MPNA5220	-	-	tRNA (guanine-N(7)-)-methyltransferase
+638956..639873	-	305	377822838	-	MPNA5230	-	-	putative lipoprotein
+640463..640948	-	161	377822839	-	MPNA5240	-	-	hypothetical protein
+641541..642782	+	413	377822840	-	MPNA5250	-	-	putative replication initiation/membrane attachment protein DnaB
+642763..643749	+	328	377822841	-	MPNA5260	-	-	hypothetical protein
+644004..644681	-	225	377822842	-	MPNA5270	-	-	hypothetical protein
+644736..645290	+	184	377822843	ppa	MPNA5280	-	-	inorganic pyrophosphatase
+645299..645817	+	172	377822844	recU	MPNA5281	-	-	recombination protein, RecU
+645814..646143	-	109	377822845	-	MPNA5290	-	-	putative histone like DNA-binding protein HU
+646292..646702	+	136	377822846	-	MPNA5300	-	-	hypothetical protein
+646699..648846	-	715	377822847	clpB	MPNA5310	-	-	ATP-dependent protease binding subunit ClpB
+649022..649870	-	282	377822848	-	MPNA5320	-	-	putative choline kinase
+649878..651050	-	390	377822849	ackA	MPNA5330	-	-	acetate kinase
+651392..651814	+	140	377822850	-	MPNA5340	-	-	hypothetical protein
+651820..652440	+	206	377822851	ruvA	MPNA5350	-	-	Holliday junction DNA helicase RuvA
+652415..653338	+	307	377822852	ruvB	MPNA5360	-	-	Holliday junction DNA helicase RuvB
+653324..654562	-	412	377822853	-	MPNA5370	-	-	ImpB/MucB/SamB family protein/ DNA polymerase IV
+654680..655165	+	161	377822854	rplJ	MPNA5380	-	-	50S ribosomal protein L10
+655203..655571	+	122	377822855	rplL	MPNA5390	-	-	50S ribosomal protein L7/L12
+655578..655751	+	57	377822856	rpmF	MPNA5400	-	-	50S ribosomal protein L32
+655761..656024	-	87	377822857	rpsT	MPNA5410	-	-	30S ribosomal protein S20
+656085..656741	+	218	377822858	-	MPNA5420	-	-	hypothetical protein
+656746..657681	+	311	377822859	fmt	MPNA5430	-	-	methionyl-tRNA formyltransferase
+657681..659675	+	664	377822860	-	MPNA5440	-	-	hypothetical protein
+659659..660507	-	282	377822861	rnc	MPNA5450	-	-	ribonuclease III
+660497..661483	-	328	377822862	plsX	MPNA5460	-	-	putative glycerol-3-phosphate acyltransferase PlsX
+661483..663159	-	558	377822863	-	MPNA5470	-	-	dihydroxyacetone kinase 2 domain-containing protein
+663214..664194	-	326	377822864	-	MPNA5480	-	-	RluA family pseudouridine synthase/ 23S rRNA pseudouridine955/2504/2580 synthase
+664181..665158	-	325	377822865	-	MPNA5490	-	-	phosphoesterase RecJ domain-containing protein
+665151..666314	-	387	377822866	thiI	MPNA5500	-	-	thiamine biosynthesis protein ThiI
+666301..667146	-	281	377822867	-	MPNA5510	-	-	hypothetical protein
+667153..667962	-	269	377822868	-	MPNA5520	-	-	hypothetical protein
+667955..669649	-	564	377822869	thrS	MPNA5530	-	-	threonyl-tRNA synthetase
+669649..669963	-	104	377822870	-	MPNA5540	-	-	hypothetical protein
+669965..670546	-	193	377822871	-	MPNA5550	-	-	hypothetical protein
+670589..672202	-	537	377822872	argS	MPNA5560	-	-	arginyl-tRNA synthetase
+672230..674068	+	612	377822873	gidA	MPNA5570	-	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+674061..674636	+	191	377822874	gidB	MPNA5580	-	-	16S rRNA methyltransferase GidB
+674590..675297	+	235	377822875	-	MPNA5590	-	-	hypothetical protein
+675375..676691	-	438	377822876	arcA	MPNA5600	-	-	arginine deiminase
+676745..677386	+	213	377822877	udk	MPNA5610	-	-	uridine kinase
+677383..678129	-	248	377822878	-	MPNA5620	-	-	NH(3)-dependent NAD(+) synthetase
+678122..679423	-	433	377822879	obgE	MPNA5630	-	-	GTPase ObgE
+679627..680247	-	206	377822880	-	MPNA5640	-	-	alcohol dehydrogenase-like protein
+680142..680681	-	179	377822881	-	MPNA5641	-	-	alcohol dehydrogenase-like protein
+680895..681353	-	152	377822882	-	MPNA5650	-	-	hypothetical protein
+681523..682236	-	237	377822883	-	MPNA5660	-	-	glycerophosphodiester phosphodiesterase family protein
+682240..685350	-	1036	377822884	p200	MPNA5670	-	-	cytadherence-related protein
+685450..686325	-	291	377822885	era	MPNA5680	-	-	GTP-binding protein Era
+686313..686639	-	108	377822886	-	MPNA5690	-	-	rRNA maturation factor
+686761..687150	-	129	377822887	-	MPNA5700	-	-	hypothetical protein
+687454..689130	-	558	377822888	-	MPNA5710	-	-	ABC transporter-like protein
+689234..690571	-	445	377822889	pepA	MPNA5720	-	-	leucyl aminopeptidase
+690585..692216	-	543	377822890	groEL	MPNA5730	-	-	chaperonin GroEL
+692219..692569	-	116	377822891	groES	MPNA5740	-	-	co-chaperonin GroES
+692757..693143	-	128	377822892	-	MPNA5750	-	-	hypothetical protein
+693578..694798	-	406	377822893	glyA	MPNA5760	-	-	glycine hydroxymethyltransferase
+694960..696000	-	346	377822894	-	MPNA5770	-	-	putative lipoprotein
+696438..696740	+	100	377822895	-	MPNA5780	-	-	hypothetical protein
+696756..697085	-	109	377822896	-	MPNA5790	-	-	hypothetical protein
+697227..697649	-	140	377822897	-	MPNA5800	-	-	putative lipoprotein
+697717..698514	-	265	377822898	-	MPNA5810	-	-	putative lipoprotein
+698690..700009	-	439	377822899	-	MPNA5820	-	-	putative lipoprotein
+700084..701124	-	346	377822900	-	MPNA5830	-	-	putative lipoprotein
+701629..702036	-	135	377822901	-	MPNA5840	-	-	putative lipoprotein
+702098..703006	-	302	377822902	-	MPNA5850	-	-	putative lipoprotein
+703080..703622	-	180	377822903	-	MPNA5860	-	-	putative lipoprotein
+703655..704254	-	199	377822904	-	MPNA5861	-	-	putative lipoprotein
+704091..704438	-	115	377822905	-	MPNA5862	-	-	hypothetical protein
+704452..705852	-	466	377822906	-	MPNA5863	-	-	putative lipoprotein
+706119..706889	-	256	377822907	-	MPNA5864	-	-	putative lipoprotein
+707348..708880	-	510	377822908	-	MPNA5865	-	-	putative lipoprotein
+708956..710332	-	458	377822909	-	MPNA5870	-	-	putative lipoprotein
+710390..711985	-	531	377822910	-	MPNA5880	-	-	putative lipoprotein
+712198..712671	-	157	377822911	-	MPNA5890	-	-	putative lipoprotein
+712812..713465	-	217	377822912	-	MPNA5900	-	-	putative lipoprotein
+713622..714683	-	353	377822913	-	MPNA5910	-	-	putative lipoprotein
+715206..716771	-	521	377822914	-	MPNA5920	-	-	putative lipoprotein
+716872..717240	-	122	377822915	-	MPNA5930	-	-	hypothetical protein
+717466..717834	-	122	377822916	-	MPNA5940	-	-	hypothetical protein
+717752..718210	-	152	377822917	rpiB	MPNA5950	-	-	ribose-5-phosphate isomerase B
+718210..719919	-	569	377822918	-	MPNA5960	-	-	hypothetical protein
+719919..720320	-	133	377822919	atpC	MPNA5970	-	-	F0F1 ATP synthase, epsilon subunit
+720323..721750	-	475	377822920	atpD	MPNA5980	-	-	F0F1 ATP synthase, beta subunit
+721750..722589	-	279	377822921	atpG	MPNA5990	-	-	F0F1 ATP synthase, gamma subunit
+722589..724145	-	518	377822922	atpA	MPNA6000	-	-	F0F1 ATP synthase, alpha subunit
+724148..724684	-	178	377822923	atpH	MPNA6010	-	-	F0F1 ATP synthase, delta subunit
+724677..725300	-	207	377822924	atpF	MPNA6020	-	-	F0F1 ATP synthase, B subunit
+725303..725620	-	105	377822925	atpE	MPNA6030	-	-	F0F1 ATP synthase, C subunit
+725623..726504	-	293	377822926	atpB	MPNA6040	-	-	F0F1 ATP synthase, A subunit
+726470..726943	-	157	377822927	-	MPNA6050	-	-	hypothetical protein
+726949..728319	-	456	377822928	eno	MPNA6060	-	-	phosphopyruvate hydratase
+728374..728847	+	157	377822929	msrA	MPNA6070	-	-	peptide-methionine (S)-S-oxide reductase
+728844..729521	-	225	377822930	phoU	MPNA6080	-	-	phosphate transport system protein
+729524..730513	-	329	377822931	pstB	MPNA6090	-	-	phosphate ABC transporter ATP-binding protein
+730498..732453	-	651	377822932	pstA	MPNA6100	-	-	phosphate ABC transporter permease
+732453..733610	-	385	377822933	-	MPNA6110	-	-	phosphate transport system substrate-binding protein
+733852..734799	-	315	377822934	-	MPNA6121	-	-	hypothetical protein
+734866..736164	-	432	377822935	-	MPNA6122	-	-	hypothetical protein
+736128..736844	-	238	377822936	-	MPNA6123	-	-	hypothetical protein
+736959..737993	-	344	377822937	-	MPNA6130	-	-	hypothetical protein
+737929..738933	-	334	377822938	-	MPNA6140	-	-	hypothetical protein
+739019..739624	-	201	377822939	-	MPNA6150	-	-	hypothetical protein
+740197..740595	-	132	377822940	rpsI	MPNA6160	-	-	30S ribosomal protein S9
+740601..741041	-	146	377822941	rplM	MPNA6170	-	-	50S ribosomal protein L13
+741072..743117	-	681	377822942	dnaH/dnaX	MPNA6180	-	-	DNA polymerase III subunit gamma and tau
+743126..745972	-	948	377822943	uvrA	MPNA6190	-	-	excinuclease ABC subunit A
+745950..748469	-	839	377822944	-	MPNA6200	-	-	hypothetical protein
+748515..750200	-	561	377822945	-	MPNA6210	-	-	putative hydrolase
+750205..750465	-	86	377822946	rpsO	MPNA6220	-	-	30S ribosomal protein S15
+750623..751975	+	450	377822947	deaD	MPNA6230	-	-	ATP-dependent RNA helicase deaD
+751997..752194	+	65	377822948	rpmB	MPNA6240	-	-	50S ribosomal protein L28
+752238..752663	+	141	377822949	-	MPNA6250	-	-	osmotical inducible protein C-like protein
+752798..753316	+	172	377822950	-	MPNA6260	-	-	hypothetical protein
+753313..755031	-	572	377822951	ptsI	MPNA6270	-	-	phosphotransferase system, enzyme I
+755036..756562	-	508	377822952	pgm	MPNA6280	-	-	phosphoglycerate mutase
+756555..757289	-	244	377822953	tpiA	MPNA6290	-	-	triosephosphate isomerase
+757342..758556	-	404	377822954	-	MPNA6300	-	-	hypothetical protein
+758643..759539	+	298	377822955	tsf	MPNA6310	-	-	translation elongation factor EF-Ts
+759541..760248	+	235	377822956	pyrH	MPNA6320	-	-	uridylate kinase
+760351..761721	+	456	377822957	pyrH	MPNA6330	-	-	uridylate kinase
+762277..762792	+	171	377822958	-	MPNA6350	-	-	hypothetical protein
+762802..763335	+	177	377822959	-	MPNA6351	-	-	hypothetical protein
+763412..763966	+	184	377822960	frr	MPNA6360	-	-	ribosome recycling factor
+763966..765153	+	395	377822961	cdsA	MPNA6370	-	-	phosphatidate cytidylyltransferase
+765173..766300	+	375	377822962	-	MPNA6380	-	-	K family restriction enzyme specificity determining subunit
+766297..766554	-	85	377822963	-	MPNA6390	-	-	hypothetical protein
+766557..767150	-	197	377822964	-	MPNA6391	-	-	hypothetical protein
+767207..768061	-	284	377822965	-	MPNA6400	-	-	hypothetical protein
+768228..768890	-	220	377822966	-	MPNA6410	-	-	hypothetical protein
+768893..769732	-	279	377822967	-	MPNA6420	-	-	hypothetical protein
+769732..770640	-	302	377822968	-	MPNA6430	-	-	hypothetical protein
+770561..771412	-	283	377822969	-	MPNA6440	-	-	hypothetical protein
+771415..772266	-	283	377822970	-	MPNA6450	-	-	hypothetical protein
+772266..773099	-	277	377822971	-	MPNA6460	-	-	hypothetical protein
+773122..773994	-	290	377822972	-	MPNA6470	-	-	hypothetical protein
+774105..774515	-	136	377822973	-	MPNA6480	-	-	hypothetical protein
+775402..775812	-	136	377822974	-	MPNA6490	-	-	hypothetical protein
+775797..776102	-	101	377822975	-	MPNA6500	-	-	hypothetical protein
+777102..778241	+	379	377822976	mtlA	MPNA6510	-	-	PTS system mannitol-specific transporter subunit IIC
+778228..779322	+	364	377822977	mtlD	MPNA6520	-	-	mannitol-1-phosphate 5-dehydrogenase
+779303..779734	+	143	377822978	mtlF	MPNA6530	-	-	PTS system mannitol-specific transporter subunit IIA
+780107..780496	-	129	377822979	-	MPNA6540	-	-	hypothetical protein
+780773..781387	+	204	377822980	-	MPNA6550	-	-	hypothetical protein
+781862..782677	-	271	377822981	rbgA/ylqF	MPNA6560	-	-	ribosomal biogenesis GTPase
+782646..783851	-	401	377822982	-	MPNA6570	-	-	hypothetical protein
+783867..784226	-	119	377822983	rplS	MPNA6580	-	-	50S ribosomal protein L19
+784210..784842	-	210	377822984	trmD	MPNA6590	-	-	tRNA (guanine-N(1)-)-methyltransferase/ tRNA (guanine37-N1)-methyltransferase
+784908..785174	-	88	377822985	rpsP	MPNA6600	-	-	30S ribosomal protein S16
+785256..786905	-	549	377822986	-	MPNA6610	-	-	hypothetical protein
+786906..787361	-	151	377822987	-	MPNA6620	-	-	methionine sulfoxide reductase B/ peptide-methionine (R)-S-oxide reductase
+787325..788029	-	234	377822988	-	MPNA6630	-	-	putative tRNA binding domain protein
+788036..788749	-	237	377822989	-	MPNA6640	-	-	hypothetical protein
+788908..790092	-	394	377822990	tuf	MPNA6650	-	-	ranslation elongation factor EF-Tu
+790177..790932	+	251	377822991	-	MPNA6660	-	-	hypothetical protein
+790920..791795	+	291	377822992	gtaB	MPNA6670	-	-	UTP--glucose-1-phosphate uridylyltransferase
+791805..792227	-	140	377822993	-	MPNA6680	-	-	hypothetical protein
+792253..793452	+	399	377822994	tyrS	MPNA6690	-	-	tyrosyl tRNA synthetase
+793492..794529	-	345	377822995	-	MPNA6700	-	-	hypothetical protein
+795082..797211	-	709	377822996	ftsH	MPNA6710	-	-	cell division protein FtsH
+797392..797919	-	175	377822997	hpt	MPNA6720	-	-	hypoxanthine phosphoribosyltransferase
+797919..798428	-	169	377822998	-	MPNA6730	-	-	hypothetical protein
+798600..799538	+	312	377822999	ldh	MPNA6740	-	-	L-lactate dehydrogenase
+799943..800248	-	101	377823000	-	MPNA6750	-	-	hypothetical protein
+800639..800959	+	106	377823001	-	MPNA6760	-	-	hypothetical protein
+801516..802793	-	425	377823002	-	MPNA6770	-	-	HD domain-containing protein
+802774..804228	-	484	377823003	gltX	MPNA6780	-	-	glutamyl-tRNA synthetase
+804215..805006	-	263	377823004	ksgA	MPNA6790	-	-	dimethyladenosine transferase/ 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase
+804999..806156	-	385	377823005	yidC	MPNA6800	-	-	preprotein translocase subunit
+806137..806493	-	118	377823006	rnpA	MPNA6810	-	-	ribonuclease P protein component
+806483..806629	-	48	377823007	rpmH	MPNA6820	-	-	50S ribosomal protein L34
+806652..807671	-	339	377823008	-	MPNA6830	-	-	ABC transporter ATP-binding protein
+807673..813321	-	1882	377823009	-	MPNA6840	-	-	putative ABC transporter permease
+813327..814181	-	284	377823010	-	MPNA6850	-	-	ABC transporter ATP-binding protein
+814250..815569	-	439	377823011	dnaA	MPNA6860	-	-	chromosomal replication initiation protein DnaA
+815569..816321	-	250	377823012	-	MPNA6870	-	-	hypothetical protein
+816308..817120	-	270	377823013	soj	MPNA6880	-	-	ParA family ATPase/ chromosome partitioning protein

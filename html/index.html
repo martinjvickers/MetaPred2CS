@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="MetaPred2cs: prediction of two-component system protein protein interactions" name="description">
+<title id='title'>MetaPred2CS Web server at bioinsilico \dot\ org</title>
+<link href="/home/altan/webserver_okul/images/icon.gif" type="image/x-icon">
+<link href="/MetaPred2cs/CSS/response.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="body_div" >
+ <div class="header_div" ><div class="title_div" >MetaPred2CS<i> Web server</i></div>
+<div class="subtitle_div" ><a href="http://www.bioinsilico.org" >@ bioinsilico \dot\ org</a></div></div><div class="response_div" >
+
+  <div style="position:relative;" class="can_pathway" >
+  <span class="pathway" ><a href="#" >Submit</a></span>
+  <span class="pathway" ><a href="help_page1.html" target="_blank" >Help</a></span>
+  <span class="pathway" ><a href="disclaimer_page.html" target="_blank" >Disclaimer</a></span>
+</div>
+<div style="text-align: justify;">
+
+<style>
+textarea {
+    resize: none;
+}
+</style>
+
+<h3_main>
+
+<form action="http://metapred2cs.ibers.aber.ac.uk/cgi-bin/MetaPred2cs/check_mysqlDB_final.cgi" method="post" enctype="multipart/form-data">
+<p align="justify"> <b> MetaPred2CS Web server </b> is a meta-predictor based on <a href="http://www.ncbi.nlm.nih.gov/pubmed/17160063">Support Vector Machine (SVM)</a>
+that combines 6 individual sequence based protein-protein interaction prediction
+methods to predict <b> prokaryotic two-component system </b> protein-protein interactions (PPIs).
+The methods implemented in MetaPred2CS are 2 co-evolutionary methods: <a href="http://www.ncbi.nlm.nih.gov/pubmed/11933068">in-silico
+two hybrid (i2h)</a> and <a href="http://www.ncbi.nlm.nih.gov/pubmed/11707606">mirror tree (MT)</a> methods and 4 genomics context based
+methods: <a href="http://www.ncbi.nlm.nih.gov/pubmed/15947018">phylogenetic profiling (PP)</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/10573422">gene fusion (GF)</a>,
+<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030043">gene neighbourhood (GN)</a> 
+and and <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030043">gene operon methods (GO)</a>.</p>
+
+<p align="center"> Please check <a href="help_page1.html" target="_blank">help page</a> before uploading input files as the fasta files require a specific header. </p> 
+<div id="optionstitle"> <b>Input Files</b><a href="help_page1.html#inputs" target="_blank"><img src="/MetaPred2cs/images/help.png" border="0" width="12" height="12"></a><br></div>
+		<div id="options">	
+			<div>
+
+Please upload fasta file for first protein:   <input  type="file" name="prt1_fasta" accept=".faa"><br><br>
+
+<b> OR </b> paste your proteins sequence here: <br><textarea name="prt1_fasta_alt" cols="75" rows="5" ></textarea><br>
+<br>
+Please upload fasta file for second protein: <input  type="file" name="prt2_fasta" accept=".faa"><br>
+<br>
+<b> OR </b> paste your proteins sequence here: <br><textarea name="prt2_fasta_alt" cols="75" rows="5" ></textarea>
+<br>
+
+         		</div>
+</div>
+<p align="center">
+	<input type="submit" name="sub" value="Submit">
+   	<input name="clear_button" value="Reset" type="Reset">
+</p>
+
+</form>  
+</h3_main>
+
+<div class="footer_div" >
+<hr/><h5 >Finding it useful? Please cite the server.</h5>
+</div>
+
+
+</body>
+</html>

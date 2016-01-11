@@ -1,0 +1,636 @@
+Mycoplasma mobile 163K, complete genome - 1..777079
+633 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+215..1603	+	462	47458836	dnaA	MMOB0010	-	COG0593L	chromosomal replication initiation protein
+1739..2848	+	369	47458837	dnaN	MMOB0020	-	COG0592L	DNA polymerase III beta chain
+2848..3054	+	68	47458838	-	MMOB0030	-	COG2501S	hypothetical protein
+3074..3454	-	126	47458839	-	MMOB0040	-	-	hypothetical protein
+3444..4838	-	464	47458840	gltX	MMOB0050	-	COG0008J	glutamyl-tRNA synthetase
+4925..6607	-	560	47458841	-	MMOB0060	-	-	hypothetical protein
+6749..7897	+	382	47458842	-	MMOB0070	-	-	hypothetical protein
+7959..9176	+	405	47458843	pstS	MMOB0080	-	COG0226P	phosphate binding protein
+9182..11209	+	675	47458844	pstA	MMOB0090	-	COG0573P	phosphate ABC transporter permease protein
+11202..12047	+	281	47458845	pstB	MMOB0100	-	COG1117P	phosphate ABC transporter ATP-binding protein
+12049..12744	+	231	47458846	phoU	MMOB0110	-	COG0704P	truncated phosphate uptake regulatory protein
+12766..13473	-	235	47458847	-	MMOB0120	-	-	hypothetical protein
+13442..14764	-	440	47458848	xylH	MMOB0130	-	COG4214G	xylose ABC transporter permease protein
+14730..16295	-	521	47458849	xylG	MMOB0140	-	COG1129G	xylose ABC transporter ATB-binding protein
+16318..17934	-	538	47458850	xylF	MMOB0150	-	COG4213G	xylose solute binding protein
+18298..20826	+	842	47458851	nrdA	MMOB0160	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+20828..21331	+	167	47458852	btuR	MMOB0170	-	COG2109H	cobalamin adenosyltransferase
+21463..21813	-	116	47458853	-	MMOB0180	-	-	hypothetical protein
+22567..23049	+	160	47458854	-	MMOB0190	-	-	hypothetical protein
+23201..23707	+	168	47458855	-	MMOB0200	-	-	hypothetical protein
+24206..24655	-	149	47458856	-	MMOB0210	-	-	hypothetical protein
+24776..27118	-	780	47458857	lrpE	MMOB0220	-	-	hypothetical protein
+27222..27647	-	141	47458858	lrpAbor	MMOB0230	-	-	hypothetical protein
+28562..30901	-	779	47458859	lrpD	MMOB0240	-	-	hypothetical protein
+31005..33335	-	776	47458860	lrpC	MMOB0250	-	-	hypothetical protein
+33439..35766	-	775	47458861	lrpB	MMOB0260	-	-	hypothetical protein
+35870..38215	-	781	47458862	lrpA	MMOB0270	-	-	hypothetical protein
+38479..38736	+	85	47458863	-	MMOB0280	-	-	hypothetical protein
+38726..39361	+	211	47458864	-	MMOB0290	-	-	hypothetical protein
+42704..43153	-	149	47458865	-	MMOB0300	-	-	hypothetical protein
+43762..44445	-	227	47458866	-	MMOB0310	-	-	hypothetical protein
+44746..45648	-	300	47458867	-	MMOB0320	-	COG1518L	hypothetical protein
+45652..49362	-	1236	47458868	-	MMOB0330	-	COG3513S	hypothetical protein
+49646..50512	+	288	47458869	thyA	MMOB0340	-	COG0207F	thymidylate synthase
+50512..50985	+	157	47458870	dhfR	MMOB0350	-	COG0262H	dihydrofolate reductase
+51115..52590	+	491	47458871	-	MMOB0360	-	COG1744R	unspecified sugar ABC transporter binding protein
+52592..54124	+	510	47458872	mglA	MMOB0370	-	COG3845R	unspecified sugar ABC transport ATP-binding protein
+54124..55719	+	531	47458873	-	MMOB0380	-	COG4603R	unspecified sugar ABC transport permease protein
+55719..56636	+	305	47458874	-	MMOB0390	-	COG1079R	unspecified sugar ABC transport permease protein
+56722..57393	+	223	47458875	-	MMOB0400	-	-	hypothetical protein
+57555..58511	+	318	47458876	ldh	MMOB0410	-	COG0039C	l-lactate dehydrogenase
+58514..59923	+	469	47458877	-	MMOB0420	-	-	unspecified transport or permease protein
+60043..61446	+	467	47458878	-	MMOB0430	-	-	unspecified transport or permease protein
+61535..62998	+	487	47458879	lysS	MMOB0440	-	COG1190J	lysyl-tRNA synthetase
+63032..63844	+	270	47458880	-	MMOB0450	-	COG0561R	COF family HAD hydrolase protein
+63849..64703	+	284	47458881	-	MMOB0460	-	COG0561R	COF family HAD hydrolase protein
+64733..65578	+	281	47458882	-	MMOB0470	-	COG0561R	COF family HAD hydrolase protein
+65713..67134	+	473	47458883	potA	MMOB0480	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+67103..67945	+	280	47458884	potB	MMOB0490	-	COG1176E	spermidine/putrescine ABC transporter permease protein
+67938..68867	+	309	47458885	potC	MMOB0500	-	COG1177E	spermidine/putrescine ABC transporter permease protein
+68869..70482	+	537	47458886	potD	MMOB0510	-	-	spermidine/putrescine ABC transporter substrate-binding protein
+70641..72221	+	526	47458887	-	MMOB0520	-	-	spermidine/putrescine ABC transporter substrate-binding protein
+72257..72484	+	75	47458888	-	MMOB0530	-	COG1595K	hypothetical protein
+72513..73250	+	245	47458889	pyrH	MMOB0540	-	COG0528F	uridylate kinase
+73254..73805	+	183	47458890	frr	MMOB0550	-	COG0233J	ribosome recycling factor
+73807..74820	+	337	47458891	cdsA	MMOB0560	-	COG0575I	phosphatidate cytidylyltransferase
+74868..79169	+	1433	47458892	polC	MMOB0570	-	COG2176L	DNA polymerase III PolC
+79180..80163	-	327	47458893	lplA	MMOB0580	-	COG0095H	lipoate-protein ligase
+80163..80483	-	106	47458894	-	MMOB0590	-	-	hypothetical protein
+80583..81500	+	305	47458895	-	MMOB0600	-	-	hypothetical protein
+81554..83260	-	568	47458896	ptsI	MMOB0610	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase enzyme I
+83472..84977	+	501	47458897	treB	MMOB0620	-	COG1263G	pts system trehalose specific enzyme IIBC
+84992..86587	+	531	47458898	treC	MMOB0630	-	COG0366G	alpha, alpha phosphotrehalase
+86580..86852	+	90	47458899	-	MMOB0640	-	-	hypothetical protein
+86867..87352	+	161	47458900	bglP	MMOB0650	-	COG2190G	pts system enzyme IIA component
+87378..88235	+	285	47458901	lip2	MMOB0660	-	COG0596R	triacyl glycerol lipase
+88264..89253	-	329	47458902	mgpA	MMOB0670	-	COG0618R	mgpa-like protein
+89326..90375	-	349	47458903	nemA	MMOB0680	-	COG1902C	NADH:flavin oxidoreductase
+90487..91086	-	199	47458904	rpsD	MMOB0690	-	COG0522J	30S ribosomal protein S4
+91348..93072	+	574	47458905	-	MMOB0700	-	-	hypothetical protein
+93041..94240	+	399	47458906	thiI	MMOB0710	-	COG0301H	thiamine biosynthesis protein ThiI
+94224..94895	+	223	47458907	ung	MMOB0720	-	COG0692L	uracil-DNA glycosylase
+94931..97093	+	720	47458908	dnaX	MMOB0730	-	COG2812L	DNA polymerase III subunits gamma and tau
+97106..97393	+	95	47458909	-	MMOB0740	-	COG0718S	putative DNA repair-related protein
+97393..97983	+	196	47458910	recR	MMOB0750	-	COG0353L	recombination protein RecR
+97983..98612	+	209	47458911	tmk	MMOB0760	-	COG0125F	thymidylate kinase
+98672..99757	+	361	47458912	-	MMOB0770	-	-	hypothetical protein
+99788..100216	-	142	47458913	nifU	MMOB0780	-	COG0822C	aminotransferase protein U-like protein
+100203..101372	-	389	47458914	nifS	MMOB0790	-	COG0520E	aminotransferase protein S-like protein
+101375..102100	-	241	47458915	-	MMOB0800	-	COG1189J	putative rRNA methylase
+103012..103920	-	302	47458916	-	MMOB0810	-	-	hypothetical protein
+104141..105982	-	613	47458917	topA	MMOB0820	-	COG0550L	DNA topoisomerase I
+106271..106789	+	172	47458918	-	MMOB0830	-	COG1881R	putative phospholipid binding protein
+107016..107747	+	243	47458919	-	MMOB0840	-	-	hypothetical protein
+107771..109222	+	483	47458920	tig	MMOB0850	-	COG0544O	trigger factor
+109320..111884	+	854	47458921	secA	MMOB0860	-	COG0653U	preprotein translocase subunit SecA
+111853..112281	+	142	47458922	-	MMOB0870	-	-	hypothetical protein
+112395..114488	+	697	47458923	-	MMOB0880	-	-	hypothetical protein
+114516..114884	-	122	47458924	-	MMOB0890	-	COG0537FGR	HIT family hydrolase
+114898..116790	-	630	47458925	-	MMOB0900	-	-	lipoprotein P60-like protein
+116799..119450	-	883	47458926	-	MMOB0910	-	-	M. homonis p80-related protein
+119577..120842	-	421	47458927	serS	MMOB0920	-	COG0172J	seryl-tRNA synthetase
+120929..123133	+	734	47458928	recD	MMOB0930	-	COG0507L	exodeoxyribonuclease V alpha chain
+123815..124303	+	162	47458929	-	MMOB0940	-	-	hypothetical protein
+124594..125523	+	309	47458930	-	MMOB0950	-	COG2263J	putative type II DNA methylase protein
+125745..126359	+	204	47458931	recD	MMOB0960	-	COG0507L	exodeoxyribonuclease V C-terminal fragment
+126415..126867	-	150	47458932	-	MMOB0970	-	-	hypothetical protein
+128047..129525	+	492	47458933	mvspA	MMOB0980	-	-	variable surface protein mvspA
+129616..131862	-	748	47458934	ushA	MMOB0990	-	COG0737F	5'-nucleotidase
+131977..133110	-	377	47458935	ald	MMOB1000	-	COG0686E	alanine dehydrogenase
+133204..135147	-	647	47458936	gyrB	MMOB1010	-	COG0187L	DNA gyrase subunit b
+135402..138788	+	1128	47458937	-	MMOB1020	-	-	hypothetical protein
+138878..148429	+	3183	47458938	gliA	MMOB1030	-	-	Gli349 adhesion and gliding protein
+148482..162665	+	4727	47458939	gliB	MMOB1040	-	-	Gli521 adhesion and gliding protein
+162669..163739	+	356	47458940	-	MMOB1050	-	-	hypothetical protein
+163752..164024	-	90	47458941	-	MMOB1060	-	-	hypothetical protein
+164079..164537	-	152	47458942	-	MMOB1070	-	-	hypothetical protein
+164539..165072	-	177	47458943	-	MMOB1080	-	-	hypothetical protein
+165044..165592	-	182	47458944	-	MMOB1090	-	-	hypothetical protein
+165687..166874	+	395	47458945	-	MMOB1100	-	-	hypothetical protein
+166919..167917	+	332	47458946	hrcA	MMOB1110	-	COG1420K	heat-inducible transcription repressor
+167939..168850	+	303	47458947	grpE	MMOB1120	-	COG0576O	heat shock protein GrpE
+168947..170752	+	601	47458948	dnaK	MMOB1130	-	COG0443O	molecular chaperone DnaK
+170842..172458	+	538	47458949	-	MMOB1140	-	COG0531E	putative amino acid permease
+172491..173990	+	499	47458950	-	MMOB1150	-	COG0531E	putative amino acid permease
+173993..174580	+	195	47458951	-	MMOB1160	-	-	hypothetical protein
+174637..175515	+	292	47458952	galU	MMOB1170	-	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+175519..176235	+	238	47458953	-	MMOB1180	-	COG0344S	membrane protein
+176245..177078	-	277	47458954	rbgA	MMOB1190	-	COG1161R	ribosomal biogenesis GTPase
+177104..177799	-	231	47458955	spoU	MMOB1200	-	COG0566J	spoU class tRNA/rRNA methylase
+177792..178313	-	173	47458956	cspR	MMOB1210	-	COG0219J	spoU class tRNA/rRNA methylase
+178376..179284	+	302	47458957	-	MMOB1220	-	COG0561R	COF family HAD hydrolase protein
+179287..179970	+	227	47458958	rnhB	MMOB1230	-	COG1039L	ribonuclease HII
+180127..181737	+	536	47458959	argS	MMOB1240	-	COG0018J	arginyl-tRNA synthetase
+181739..181996	+	85	47458960	-	MMOB1250	-	-	hypothetical protein
+182025..182897	+	290	47458961	fba	MMOB1260	-	COG0191G	fructose-bisphosphate aldolase
+182869..183471	+	200	47458962	nuc	MMOB1270	-	COG1525L	nuclease
+183550..183762	+	70	47458963	rpmE	MMOB1280	-	COG0254J	50S ribosomal protein L31
+183768..184127	+	119	47458964	-	MMOB1290	-	-	hypothetical protein
+184120..185037	-	305	47458965	gcp	MMOB1300	-	COG0533O	putative DNA-binding/iron metalloprotein/AP endonuclease
+185041..185595	-	184	47458966	-	MMOB1310	-	COG1214O	hypothetical protein
+185972..186367	-	131	47458967	-	MMOB1320	-	COG0802R	putative ATPase or kinase
+186439..187512	+	357	47458968	-	MMOB1330	-	-	putative K+ ion channel membrane protein
+187518..188522	+	334	47458969	-	MMOB1340	-	-	hypothetical protein
+188522..189238	+	238	47458970	-	MMOB1350	-	-	hypothetical protein
+189247..191235	+	662	47458971	-	MMOB1360	-	-	hypothetical protein
+191216..194320	+	1034	47458972	-	MMOB1370	-	-	hypothetical protein
+194351..195631	-	426	47458973	ftsY	MMOB1380	-	COG0552U	cell division protein ftsY
+195690..196391	-	233	47458974	rplA	MMOB1390	-	COG0081J	50S ribosomal protein L1
+196384..196977	-	197	161621807	rplK	MMOB1400	-	COG0080J	50S ribosomal protein L11/unknown domain fusion protein
+197320..198141	-	273	47458976	-	MMOB1410	-	COG0561R	COF family HAD hydrolase protein
+198196..198498	-	100	47458977	trxA	MMOB1420	-	COG3118O	thioredoxin
+198612..198917	-	101	47458978	trxA	MMOB1430	-	COG3118O	thioredoxin
+199009..200439	-	476	47458979	proRS	MMOB1440	-	COG0442J	prolyl-tRNA synthetase
+200771..201418	-	215	47458980	nusG	MMOB1450	-	COG0250K	transcription antitermination protein NusG
+201419..201646	-	75	47458981	secE	MMOB1460	-	-	preprotein translocase subunit SecE
+202394..203086	-	230	47458982	spoU	MMOB1470	-	COG0566J	spoU class tRNA/rRNA methylase
+203090..204331	-	413	47458983	cysS	MMOB1480	-	COG0215J	cysteinyl-tRNA synthetase
+204463..204969	+	168	47458984	-	MMOB1490	-	COG0779S	hypothetical protein
+204985..206529	+	514	47458985	nusA	MMOB1500	-	COG0195K	transcription elongation factor NusA
+206510..206827	+	105	47458986	-	MMOB1510	-	COG2740K	putative transciprtional termination factor
+206796..208598	+	600	47458987	infB	MMOB1520	-	COG0532J	translation initiation factor IF-2
+208623..208988	+	121	47458988	rbfA	MMOB1530	-	COG0858J	ribosome-binding factor a
+208978..210813	+	611	47458989	gidA	MMOB1540	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+210803..211234	+	143	47458990	-	MMOB1550	-	COG1576S	hypothetical protein
+211279..212214	+	311	47458991	-	MMOB1560	-	-	hypothetical protein
+212201..214753	+	850	47458992	oppF	MMOB1570	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein
+214754..217273	+	839	47458993	valS	MMOB1580	-	COG0525J	valyl-tRNA synthetase
+217394..217567	+	57	47458994	-	MMOB1590	-	-	hypothetical protein
+217597..218439	+	280	47458995	folD	MMOB1600	-	COG0190H	methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+218564..220006	+	480	47458996	-	MMOB1610	-	-	hypothetical protein
+220026..220907	+	293	47458997	-	MMOB1620	-	-	hypothetical protein
+220932..221942	+	336	47458998	-	MMOB1630	-	-	hypothetical protein
+221945..222541	+	198	47458999	-	MMOB1640	-	-	hypothetical protein
+222553..226029	+	1158	47459000	-	MMOB1650	-	-	hypothetical protein
+226054..227640	+	528	47459001	atpA	MMOB1660	-	COG0056C	ATP synthase alpha chain
+228431..229981	+	516	161621806	atpD	MMOB1670	-	COG0055C	F0F1 ATP synthase subunit beta
+230100..231068	+	322	47459003	eutD	MMOB1680	-	COG0280C	phosphotransacetylase
+231049..232254	+	401	47459004	ackA	MMOB1690	-	COG0282C	acetate kinase
+232701..233795	-	364	47459005	-	MMOB1700	-	COG1284S	hypothetical protein
+233805..235163	-	452	47459006	dnaB	MMOB1710	-	COG0305L	replicative DNA helicase
+235156..235611	-	151	47459007	rplI	MMOB1720	-	COG0359J	50S ribosomal protein L9
+235636..237597	-	653	47459008	-	MMOB1730	-	COG3887T	signaling protein
+237643..238995	-	450	47459009	pepA	MMOB1740	-	COG0260E	leucyl aminopeptidase
+239009..240430	-	473	47459010	pdhD	MMOB1750	-	COG1249C	dihydrolipoamide dehydrogenase (pyruvate dehydrogenase complex)
+240774..241676	+	300	47459011	rpsB	MMOB1760	-	COG0052J	30S ribosomal protein S2
+241676..242560	+	294	47459012	tsf	MMOB1770	-	COG0264J	elongation factor Ts
+242814..243668	-	284	47459013	degV	MMOB1780	-	COG1307S	degV-like protein
+243712..244557	-	281	47459014	degV	MMOB1790	-	COG1307S	degV-like protein
+244670..246037	+	455	47459015	eno	MMOB1800	-	COG0148G	phosphopyruvate hydratase
+246151..248994	+	947	47459016	uvrA	MMOB1810	-	COG0178L	excinuclease ABC subunit A
+248981..249949	+	322	47459017	ptsK	MMOB1820	-	COG1493T	HPr kinase/phosphorylase
+249937..250833	+	298	47459018	lgt	MMOB1830	-	COG0682M	prolipoprotein diacylglyceryl transferase
+250826..251761	+	311	47459019	trxB	MMOB1840	-	COG0492O	thioredoxin reductase
+252012..253067	+	351	47459020	ydnaB	MMOB1850	-	COG3611L	putative dnaB-like protein
+253060..253989	+	309	47459021	-	MMOB1860	-	-	hypothetical protein
+254079..255098	+	339	47459022	gapA	MMOB1870	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+255221..256210	+	329	47459023	-	MMOB1880	-	-	hypothetical protein
+256197..256907	-	236	47459024	hemK	MMOB1890	-	COG2890J	protoporphyrinogen oxidase
+256914..257990	-	358	47459025	prfA	MMOB1900	-	COG0216J	peptide chain release factor 1
+258108..258842	-	244	47459026	-	MMOB1910	-	COG0217S	hypothetical protein
+258843..259550	-	235	47459027	nadE	MMOB1920	-	COG0171H	NH(3)-dependent NAD(+) synthetase
+259550..260542	-	330	47459028	galE	MMOB1930	-	COG1087M	udp-glucose 4-epimerase
+260831..261079	+	82	47459029	-	MMOB1940	-	-	hypothetical protein
+261127..263142	-	671	47459030	lig	MMOB1950	-	COG0272L	NAD(+)-dependent DNA ligase
+263143..264009	-	288	47459031	-	MMOB1960	-	COG1131V	unspecified ABC transporter ATP-binding subunit
+264009..265058	-	349	47459032	-	MMOB1970	-	-	hypothetical protein
+265270..265785	+	171	47459033	apt	MMOB1980	-	COG0503F	adenine phosphoribosyltransferase
+265805..267634	+	609	47459034	pepF	MMOB1990	-	COG1164E	oligoendopeptidase f
+267656..268456	-	266	47459035	lip	MMOB2000	-	COG0596R	triacylglycerol lipase 2
+268526..269206	+	226	47459036	alsD	MMOB2010	-	COG3527Q	alpha-acetolactate decarboxylase
+269250..272147	+	965	47459037	manB	MMOB2020	-	COG1109G	phosphoglucomutase/phosphomannomutase
+272191..273078	+	295	47459038	glcK	MMOB2030	-	COG1940KG	putative sugar binding signalling protein
+273279..274745	+	488	47459039	-	MMOB2040	-	-	unspecified permease
+274755..275465	+	236	47459040	glpQ	MMOB2050	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+275514..277109	+	531	47459041	gap1	MMOB2060	-	COG0531E	amino acid permease
+277370..277795	-	141	47459042	atpC	MMOB2070	-	COG0355C	ATP synthase epsilon chain
+277782..279194	-	470	47459043	atpD	MMOB2080	-	COG0055C	F0F1 ATP synthase subunit beta
+279210..280070	-	286	47459044	atpG	MMOB2090	-	COG0224C	F0F1 ATP synthase subunit gamma
+280073..280195	-	40	47459045	-	MMOB2100	-	-	ATP synthase operon intergenic protein
+280237..281808	-	523	47459046	atpA	MMOB2110	-	COG0056C	F0F1 ATP synthase subunit alpha
+281810..282352	-	180	47459047	atpH	MMOB2120	-	COG0712C	F0F1 ATP synthase subunit delta
+282336..282890	-	184	47459048	atpF	MMOB2130	-	COG0711C	ATP synthase b chain
+282906..283205	-	99	47459049	atpE	MMOB2140	-	-	ATP synthase c chain
+283225..284031	-	268	47459050	atpB	MMOB2150	-	COG0356C	F0F1 ATP synthase subunit A
+284006..284488	-	160	47459051	-	MMOB2160	-	-	hypothetical protein
+284601..284948	+	115	47459052	-	MMOB2170	-	-	hypothetical protein
+284938..286059	+	373	47459053	-	MMOB2180	-	-	hypothetical protein
+286034..286453	+	139	47459054	-	MMOB2190	-	-	hypothetical protein
+286471..286710	+	79	47459055	acpP	MMOB2200	-	COG0236IQ	acyl carrier protein
+286868..287803	-	311	47459056	focA	MMOB2210	-	COG2116P	formate/nitrate transporter
+288389..290125	+	578	47459057	potE	MMOB2220	-	-	amino acid permease
+290230..291459	+	409	47459058	arcA	MMOB2230	-	COG2235E	arginine demininase
+291539..292741	-	400	47459059	tuf	MMOB2240	-	COG0050J	elongation factor Tu
+292906..293160	-	84	47459060	rpsR	MMOB2250	-	COG0238J	30S ribosomal protein S18
+293169..293696	-	175	47459061	ssb	MMOB2260	-	COG0629L	single strand binding protein
+293718..294182	-	154	47459062	rpsF	MMOB2270	-	COG0360J	30S ribosomal protein S6
+294344..295015	+	223	47459063	-	MMOB2280	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+295194..295628	+	144	47459064	rplM	MMOB2290	-	COG0102J	50S ribosomal protein L13
+295628..296020	+	130	47459065	rpsI	MMOB2300	-	COG0103J	30S ribosomal protein S9
+296216..296989	+	257	47459066	-	MMOB2310	-	COG4123R	O-methyltransferase putative nucleic acid modification enzyme
+297057..297497	+	146	47459067	pmsR	MMOB2320	-	COG0229O	methionine sulfoxide reductase B
+297521..297856	+	111	47459068	-	MMOB2330	-	-	hypothetical protein
+298040..298348	+	102	47459069	rpsJ	MMOB2340	-	COG0051J	30S ribosomal protein S10
+298371..299264	+	297	47459070	rplC	MMOB2350	-	COG0087J	50S ribosomal protein L3
+299267..300148	+	293	47459071	rplD	MMOB2360	-	COG0088J	50S ribosomal protein L4
+300148..300789	+	213	47459072	rplW	MMOB2370	-	COG0089J	50S ribosomal protein L23
+300881..301732	+	283	47459073	rplB	MMOB2380	-	COG0090J	50S ribosomal protein L2
+301732..302007	+	91	47459074	rpsS	MMOB2390	-	COG0185J	30S ribosomal protein s19
+302007..302339	+	110	47459075	rplV	MMOB2400	-	COG0091J	50S ribosomal protein L22
+302351..303028	+	225	47459076	rpsC	MMOB2410	-	COG0092J	30S ribosomal protein S3
+303006..303422	+	138	47459077	rplP	MMOB2420	-	COG0197J	50S ribosomal protein L16
+303422..303676	+	84	47459078	rpmC	MMOB2430	-	COG0255J	50S ribosomal protein L29
+303660..303938	+	92	47459079	rpsQ	MMOB2440	-	COG0186J	30S ribosomal protein S17
+303938..304306	+	122	47459080	rplN	MMOB2450	-	COG0093J	50S ribosomal protein L14
+304314..304691	+	125	47459081	rplX	MMOB2460	-	COG0198J	50S ribosomal protein l24
+304691..305239	+	182	47459082	rplE	MMOB2470	-	COG0094J	50S ribosomal protein L5
+305248..305433	+	61	47459083	rpsN	MMOB2480	-	COG0199J	30S ribosomal protein S14
+305433..305834	+	133	47459084	rpsH	MMOB2490	-	COG0096J	30S ribosomal protein S8
+305840..306379	+	179	47459085	rplF	MMOB2500	-	COG0097J	50S ribosomal protein L6
+306379..306732	+	117	47459086	rplR	MMOB2510	-	COG0256J	50S ribosomal protein L18
+306732..307463	+	243	47459087	rpsE	MMOB2520	-	COG0098J	30S ribosomal protein S5
+307478..307915	+	145	47459088	rplO	MMOB2530	-	COG0200J	50S ribosomal protein L15
+307915..309333	+	472	47459089	secY	MMOB2540	-	COG0201U	preprotein translocase subunit SecY
+309327..309980	+	217	47459090	adk	MMOB2550	-	COG0563F	adenylate kinase
+309973..310725	+	250	47459091	map	MMOB2560	-	COG0024J	methionine aminopeptidase
+310727..310942	+	71	47459092	infA	MMOB2570	-	COG0361J	translation initiation factor IF-1
+310951..311067	+	38	47459093	rpmJ	MMOB2580	-	COG0257J	50S ribosomal protein l36
+311071..311439	+	122	47459094	rpsM	MMOB2590	-	COG0099J	30S ribosomal protein S13
+311442..311846	+	134	47459095	rpsK	MMOB2600	-	COG0100J	30S ribosomal protein S11
+311846..312847	+	333	47459096	rpoA	MMOB2610	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+312849..313211	+	120	47459097	rplQ	MMOB2620	-	COG0203J	50S ribosomal protein L17
+313249..314790	-	513	47459098	manB	MMOB2630	-	COG1109G	phosphomannomutase
+314847..315275	-	142	47459099	smpB	MMOB2640	-	COG0691O	SsrA-binding protein
+315284..317410	-	708	47459100	vacB	MMOB2650	-	COG0557K	vacb-like ribonuclease II
+317669..318736	-	355	47459101	ecm27	MMOB2660	-	COG0530P	Ca2+/Na+ antiporter
+318930..319655	+	241	47459102	-	MMOB2670	-	-	hypothetical protein
+319787..322288	+	833	47459103	lonA	MMOB2680	-	COG0466O	ATP-dependent Lon protease
+322320..322805	-	161	47459104	-	MMOB2690	-	COG4508S	hypothetical protein
+323305..323910	+	201	161621805	ruvA	MMOB2700	-	COG0632L	Holliday junction DNA helicase RuvA
+323873..324844	+	323	47459106	ruvB	MMOB2710	-	COG2255L	Holliday junction DNA helicase RuvB
+324897..327473	+	858	47459107	secDF	MMOB2720	-	COG0341U	bifunctional preprotein translocase subunit SecD/SecF
+327518..328855	+	445	47459108	hisS	MMOB2730	-	COG0124J	histidyl-tRNA synthetase
+328836..330539	+	567	47459109	aspS	MMOB2740	-	COG0173J	aspartyl-tRNA synthetase
+330541..331776	+	411	47459110	mucB	MMOB2750	-	COG0389L	DNA-damage repair protein
+331813..332895	+	360	47459111	nadD	MMOB2760	-	COG1057H	putative nicotinate-nucleotide adenylyltransferase
+332895..333572	+	225	47459112	pfs	MMOB2770	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+333543..334424	-	293	47459113	-	MMOB2780	-	-	hypothetical protein
+334495..334992	+	165	47459114	tpx	MMOB2790	-	COG2077O	thiol peroxidase
+335048..336721	-	557	47459115	deaD	MMOB2800	-	COG0513LKJ	DEAD-box ATP-dependent RNA helicase
+337077..340643	+	1188	47459116	rpoB	MMOB2810	-	COG0085K	DNA-directed RNA polymerase subunit beta
+340636..344910	+	1424	47459117	rpoC	MMOB2820	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+345497..348139	+	880	47459118	hsdR	MMOB2830	-	COG0610V	type I restriction enzyme r protein
+348172..349752	+	526	47459119	hsdM	MMOB2840	-	COG0286V	type I restriction enzyme m protein
+349756..350898	+	380	47459120	hsdS	MMOB2850	-	-	restriction-modification enzyme mpuUVIII s subunit
+350976..352550	+	524	47459121	hsdM	MMOB2860	-	COG0286V	type I restriction enzyme m protein
+352550..353686	+	378	47459122	hsdS	MMOB2870	-	COG0732V	type I restriction-modification enzyme s subunit
+353697..354497	-	266	47459123	-	MMOB2880	-	COG0327S	hypothetical protein
+354506..355972	-	488	47459124	rpoD	MMOB2890	-	COG0568K	RNA polymerase sigma factor
+356201..357811	+	536	47459125	potE	MMOB2900	-	COG0531E	amino acid permease
+357822..359666	-	614	47459126	dnaG	MMOB2910	-	COG0358L	DNA primase
+359656..361032	-	458	47459127	glyS	MMOB2920	-	COG0423J	glycyl-tRNA synthetase
+361175..361945	-	256	47459128	glpF	MMOB2930	-	COG0580G	glycerol uptake facilitator protein
+361938..363470	-	510	47459129	glpK	MMOB2940	-	COG0554C	glycerol kinase
+363492..364643	-	383	47459130	glpD	MMOB2950	-	COG0579R	glycerol-3-phosphate dehydrogenase
+364815..366236	-	473	47459131	atpD	MMOB2960	-	COG0055C	F0F1 ATP synthase subunit beta
+366229..367779	-	516	47459132	atpA	MMOB2970	-	COG0056C	F0F1 ATP synthase subunit alpha
+367781..370150	-	789	47459133	-	MMOB2980	-	-	hypothetical protein
+370140..370682	-	180	47459134	-	MMOB2990	-	-	hypothetical protein
+370648..371508	-	286	47459135	-	MMOB3000	-	-	hypothetical protein
+371492..372040	-	182	47459136	-	MMOB3010	-	-	hypothetical protein
+372044..373453	-	469	47459137	-	MMOB3020	-	-	hypothetical protein
+373490..374020	+	176	47459138	-	MMOB3030	-	COG0622R	phosphoesterase protein
+374176..374475	+	99	47459139	rplU	MMOB3040	-	COG0261J	50S ribosomal protein L21
+374479..374736	+	85	47459140	rpmA	MMOB3050	-	COG0211J	50S ribosomal protein L27
+374753..375724	-	323	47459141	-	MMOB3060	-	-	hypothetical protein
+375663..377411	-	582	47459142	-	MMOB3070	-	-	hypothetical protein
+377398..378243	-	281	47459143	-	MMOB3080	-	-	hypothetical protein
+378236..379396	-	386	47459144	metK	MMOB3090	-	COG0192H	S-adenosylmethionine synthetase
+379417..380196	-	259	47459145	-	MMOB3100	-	-	hypothetical protein
+380253..382217	-	654	47459146	-	MMOB3110	-	-	hypothetical protein
+382220..383245	-	341	47459147	pncB	MMOB3120	-	COG1488H	nicotinate phosphoribosyltransferase
+383408..386284	+	958	47459148	snf2	MMOB3130	-	COG0553KL	SWF/SNF family helicase
+386289..386546	-	85	47459149	-	MMOB3140	-	-	hypothetical protein
+386579..388108	-	509	47459150	metG	MMOB3150	-	COG0143J	methionyl-tRNA synthetase
+388142..392527	-	1461	47459151	-	MMOB3160	-	-	hypothetical protein
+392529..393518	-	329	47459152	pheS	MMOB3170	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+393544..394077	-	177	47459153	-	MMOB3180	-	COG3981R	acetyltransferase
+394089..395273	-	394	47459154	deoB	MMOB3190	-	COG1015G	phosphopentomutase
+395381..396358	+	325	47459155	pfkA	MMOB3200	-	COG0205G	6-phosphofructokinase
+396371..397822	+	483	47459156	pyk	MMOB3210	-	COG0469G	pyruvate kinase
+398037..399923	-	628	47459157	mvspB	MMOB3220	-	-	variable surface protein mvspB
+400037..401668	-	543	47459158	mvspC	MMOB3230	-	-	variable surface protein mvspC
+401764..403302	-	512	47459159	-	MMOB3240	-	COG4637R	ATPase
+403408..403998	+	196	47459160	-	MMOB3250	-	-	hypothetical protein
+404039..404935	+	298	47459161	rluD	MMOB3260	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+405020..405787	-	255	47459162	-	MMOB3270	-	COG0778C	NADPH-linked nitro/flavin oxidoreductase
+405941..407881	-	646	47459163	mvspD	MMOB3280	-	-	variable surface protein mvspD
+408069..410615	-	848	47459164	mvspE	MMOB3290	-	-	variable surface protein mvspE
+410924..413470	-	848	47459165	mvspF	MMOB3300	-	-	variable surface protein mvspF
+413559..415091	-	510	47459166	pgm	MMOB3310	-	COG0696G	phosphoglyceromutase
+415415..415732	-	105	47459167	mvspG	MMOB3320	-	-	variable surface protein mvspG
+416310..417302	-	330	47459168	mvspH	MMOB3330	-	-	variable surface protein mvspH
+417670..423678	-	2002	47459169	mvspI	MMOB3340	-	-	variable surface protein mvspI
+423916..424923	+	335	47459170	polC	MMOB3350	-	COG2176L	truncated DNA polymerase III (exonuclease subunit) protein
+424993..425673	-	226	47459171	mvspJ	MMOB3360	-	-	variable surface protein mvspJ
+426058..428127	-	689	47459172	mvspK	MMOB3370	-	-	variable surface protein mvspK
+428445..430685	-	746	47459173	mvspL	MMOB3380	-	-	variable surface protein mvspL
+431495..432484	+	329	47459174	-	MMOB3390	-	-	hypothetical protein
+432496..433041	-	181	47459175	engB	MMOB3400	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+433316..433705	-	129	47459176	-	MMOB3410	-	-	hypothetical protein
+433705..434955	-	416	47459177	-	MMOB3420	-	-	hypothetical protein
+435465..436904	+	479	47459178	-	MMOB3430	-	COG2333R	truncated late competance locus-related protein
+436910..437803	-	297	47459179	dpnII	MMOB3440	-	-	type II restriction enzyme DpnII
+437837..438922	-	361	47459180	dam	MMOB3450	-	COG0338L	adenine-specific DNA methyltransferase
+438973..439866	-	297	47459181	era	MMOB3460	-	COG1159R	GTP-binding protein Era
+439850..440278	-	142	47459182	cdd	MMOB3470	-	COG0295F	cytidine deaminase
+440323..440781	-	152	47459183	-	MMOB3480	-	COG0319R	putative metal binding protein
+440790..441167	-	125	47459184	-	MMOB3490	-	-	hypothetical protein
+441167..443200	-	677	47459185	sunT	MMOB3500	-	COG2274V	unspecified toxin/drug ABC transporter ATP-binding and permease protein
+443257..443865	-	202	47459186	acpD	MMOB3510	-	COG1182I	azoreductase
+444049..445806	+	585	47459187	mdlB	MMOB3520	-	COG1132V	multidrug ABC transporter ATP-binding protein
+445839..446405	+	188	47459188	lspA	MMOB3530	-	-	lipoprotein signal peptidase
+446398..446613	+	71	47459189	-	MMOB3540	-	-	hypothetical protein
+446615..447565	-	316	47459190	-	MMOB3550	-	COG1323R	hypothetical protein
+447621..447815	+	64	47459191	rpmF	MMOB3560	-	COG0333J	50S ribosomal protein L32
+447870..448430	-	186	47459192	pgsA	MMOB3570	-	COG0558I	phosphatidylglycerophosphate synthase
+448433..449020	-	195	47459193	-	MMOB3580	-	-	hypothetical protein
+449452..449934	+	160	47459194	comEA	MMOB3590	-	COG1555L	competance locus protein ComEA
+451157..452089	+	310	47459195	holA	MMOB3600	-	COG1466L	DNA polymerase III delta subunit
+452098..453594	+	498	47459196	dexB	MMOB3610	-	-	glucan 1,6-alpha- (dextran) glucosidase
+453615..454787	+	390	47459197	-	MMOB3620	-	-	hypothetical protein
+454789..455859	+	356	47459198	-	MMOB3630	-	-	hypothetical protein
+455918..456343	+	141	47459199	-	MMOB3640	-	-	hypothetical protein
+456332..458467	-	711	47459200	clpB	MMOB3650	-	COG0542O	ATP-dependent Clp protease, ATPase subunit
+458555..458893	-	112	47459201	-	MMOB3660	-	-	hypothetical protein
+458937..461021	-	694	47459202	tufA	MMOB3670	-	COG0480J	elongation factor G
+461015..461485	-	156	47459203	rpsG	MMOB3680	-	COG0049J	30S ribosomal protein S7
+461543..461962	-	139	47459204	rpsL	MMOB3690	-	COG0048J	30S ribosomal protein S12
+462122..462568	-	148	47459205	rpiB	MMOB3700	-	COG0698G	ribose-5-phosphate isomerase B
+462568..463056	-	162	47459206	sua5	MMOB3710	-	COG0009J	putative translation factor
+463055..463879	+	274	47459207	fpg	MMOB3720	-	COG0266L	formamidopyrimidine-DNA glycosylase
+463876..466398	-	840	47459208	-	MMOB3730	-	-	hypothetical protein
+466462..467184	+	240	47459209	smf	MMOB3740	-	COG0758LU	DNA processing protein smf
+467181..468278	-	365	47459210	-	MMOB3750	-	COG1295S	hypothetical protein
+468287..469714	-	475	47459211	gatB	MMOB3760	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+469716..471056	-	446	47459212	gatA	MMOB3770	-	COG0154J	amidase
+471059..471367	-	102	47459213	gatC	MMOB3780	-	COG0721J	glutamyl-tRNA amidotransferase subunit C
+471536..471976	+	146	47459214	mraZ	MMOB3790	-	COG2001S	cell division protein MraZ
+471976..472884	+	302	47459215	mraW	MMOB3800	-	COG0275M	S-adenosylmethionine-dependent methyltransferase
+472889..474079	+	396	47459216	-	MMOB3810	-	-	hypothetical protein
+474179..474634	+	151	47459217	-	MMOB3820	-	-	hypothetical protein
+475021..475365	+	114	47459218	-	MMOB3830	-	-	hypothetical protein
+475362..476090	-	242	47459219	-	MMOB3840	-	COG0745TK	putative transcriptional regulator DNA-binding protein
+476761..477588	-	275	47459220	pldB	MMOB3850	-	COG2267I	lysophospholipase
+477620..479536	-	638	47459221	parE	MMOB3860	-	COG0187L	topoisomerase IB subunit B
+479982..481070	-	362	47459222	malK	MMOB3870	-	COG3839G	maltodextrin ABC transporter ATP-binding protein
+481081..482793	-	570	47459223	malG	MMOB3880	-	COG3833G	maltose ABC transporter permease protein
+483249..485462	-	737	47459224	malC	MMOB3890	-	COG1175G	maltodextrin ABC transporter permease protein
+485464..485895	-	143	47459225	-	MMOB3900	-	-	hypothetical protein
+485889..486374	-	161	47459226	-	MMOB3910	-	-	hypothetical protein
+486393..487877	-	494	47459227	malE	MMOB3920	-	COG2182G	truncated maltose-binding protein
+488215..488634	-	139	47459228	-	MMOB3930	-	COG1554G	hypothetical protein
+488921..490393	-	490	47459229	malE	MMOB3940	-	COG2182G	truncated maltose-binding protein
+490570..492969	-	799	47459230	-	MMOB3950	-	COG1554G	trehalose/maltose hydrolase
+492972..493643	-	223	47459231	pgmB	MMOB3960	-	COG0637R	beta-phosphoglucomutase
+493636..495285	-	549	47459232	algA	MMOB3970	-	COG0366G	alpha-glucosidase
+495260..496435	-	391	47459233	glgC	MMOB3980	-	COG0448G	divergent glucose-1-phosphate adenylyltransferase
+496435..497580	-	381	47459234	glgC	MMOB3990	-	COG0448G	glucose-1-phosphate adenylyltransferase
+497580..499748	-	722	47459235	pulA	MMOB4000	-	COG1523G	pullulanase
+499741..501621	-	626	47459236	glgB	MMOB4010	-	COG0296G	glycogen branching enzyme
+501625..503055	-	476	47459237	glgA	MMOB4020	-	COG0297G	glycogen synthase
+503562..505358	+	598	47459238	lepA	MMOB4030	-	COG0481M	GTP-binding protein LepA
+505367..505624	+	85	47459239	-	MMOB4040	-	-	hypothetical protein
+505629..506465	+	278	47459240	fmt	MMOB4050	-	COG0223J	methionyl-tRNA formyltransferase
+506506..506772	-	88	47459241	ptsH	MMOB4060	-	COG1925G	phosphocarrier protein Hpr
+506807..509464	-	885	47459242	ileS	MMOB4070	-	COG0060J	isoleucyl-tRNA synthetase
+509475..511097	-	540	47459243	pyrG	MMOB4080	-	COG0504F	CTP synthetase
+511496..512413	+	305	47459244	wcaA	MMOB4090	-	COG1215M	putative glycosyltransferase
+512495..515419	-	974	47459245	smc	MMOB4100	-	COG1196D	segregation of chromosomes protein
+515429..516169	-	246	47459246	rnc	MMOB4110	-	COG0571K	ribonuclease III
+516194..517177	-	327	47459247	plsX	MMOB4120	-	COG0416I	putative glycerol-3-phosphate acyltransferase PlsX
+517178..518806	-	542	47459248	-	MMOB4130	-	COG1461R	kinase
+518806..519111	-	101	47459249	-	MMOB4140	-	-	hypothetical protein
+519259..519456	+	65	161621804	rpmB	MMOB4150	-	COG0227J	50S ribosomal protein L28
+519511..520317	-	268	47459251	-	MMOB4160	-	COG3356S	hypothetical protein
+520408..521769	+	453	47459252	-	MMOB4170	-	-	hypothetical protein
+521794..522522	-	242	47459253	glpR	MMOB4180	-	COG1349KG	DeoR family transcriptional regulator
+522626..523354	-	242	47459254	tpiA	MMOB4190	-	COG0149G	triosephosphate isomerase
+523398..524609	+	403	47459255	glf	MMOB4200	-	COG0562M	UDP-galactopyranose mutase
+524596..525672	+	358	47459256	wcaA	MMOB4210	-	COG0463M	putative glycosyltransferase
+525674..526942	+	422	47459257	obgE	MMOB4220	-	COG0536R	GTPase ObgE
+527378..528142	-	254	47459258	-	MMOB4230	-	-	lipoprotein
+528230..529153	+	307	47459259	-	MMOB4240	-	-	hypothetical protein
+529146..533528	-	1460	47459260	-	MMOB4250	-	-	P65 lipoprotein-like protein
+533640..535223	-	527	47459261	ktrB	MMOB4260	-	COG0168P	potassium uptake protein B
+535289..536158	+	289	47459262	ktrA	MMOB4270	-	COG0569P	potassium uptake protein A
+536207..536557	-	116	47459263	rplS	MMOB4280	-	COG0335J	50S ribosomal protein L19
+536547..537131	-	194	47459264	trmD	MMOB4290	-	COG0336J	tRNA (guanine-N1)-methyltransferase
+537222..537485	-	87	47459265	rpsP	MMOB4300	-	COG0228J	30S ribosomal protein S16
+537562..538476	-	304	47459266	cbiQ	MMOB4310	-	COG0619P	putative cobalt ABC transporter permease protein
+538478..539404	-	308	47459267	cbiO	MMOB4320	-	COG1122P	cobalt transporter ATP-binding subunit
+539395..540219	-	274	47459268	cbiO	MMOB4330	-	COG1122P	cobalt transporter ATP-binding subunit
+540240..540800	-	186	47459269	hpt	MMOB4340	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+540876..541400	-	174	47459270	greA	MMOB4350	-	COG0782K	transcription elongation factor
+541416..542087	-	223	47459271	-	MMOB4360	-	-	hypothetical protein
+542087..542596	-	169	47459272	-	MMOB4370	-	-	hypothetical protein
+542583..543017	-	144	47459273	-	MMOB4380	-	COG0816L	endonuclease
+543022..545739	-	905	47459274	alaS	MMOB4390	-	COG0013J	alanyl-tRNA synthetase
+545752..546864	-	370	47459275	mnmA	MMOB4400	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+546940..550080	-	1046	47459276	-	MMOB4410	-	-	hypothetical protein
+550180..550884	-	234	47459277	-	MMOB4420	-	-	hypothetical protein
+550960..551730	-	256	47459278	-	MMOB4430	-	COG0670R	hypothetical protein
+551778..552629	-	283	47459279	-	MMOB4440	-	COG1481S	hypothetical protein
+552647..552874	-	75	47459280	-	MMOB4450	-	COG3763S	hypothetical protein
+554008..554334	+	108	47459281	arsR	MMOB4460	-	COG0640K	arsenical resistance operon repressor family protein
+554360..554770	-	136	47459282	-	MMOB4470	-	-	hypothetical protein
+554792..557068	-	758	47459283	oppF	MMOB4480	-	COG4608E	oligopeptide ABC transporter ATP-binding protein
+557061..559325	-	754	47459284	pgk	MMOB4490	-	COG0444EP	phosphoglycerate kinase/ATPase domain-containing protein
+559327..560478	-	383	47459285	oppC	MMOB4500	-	COG1173EP	oligopeptide ABC transporter permease protein
+560471..561523	-	350	47459286	oppB	MMOB4510	-	COG0601EP	oligopeptide ABC transporter permease protein
+561535..564402	-	955	47459287	-	MMOB4520	-	-	hypothetical protein
+565471..567006	-	511	47459288	pgk	MMOB4530	-	COG0126G	phosphoglycerate kinase
+567225..568889	+	554	47459289	-	MMOB4540	-	-	hypothetical protein
+568897..569547	+	216	47459290	-	MMOB4550	-	COG1624S	hypothetical protein
+569745..571247	+	500	47459291	cls	MMOB4560	-	COG1502I	cardiolipin synthetase
+571250..571906	-	218	47459292	chrA1	MMOB4570	-	COG2059P	chromate transport protein
+571906..572559	-	217	47459293	chrA2	MMOB4580	-	COG2059P	chromate transport protein
+572721..574034	+	437	47459294	-	MMOB4590	-	-	hypothetical protein
+574082..576658	-	858	47459295	parC	MMOB4600	-	COG0188L	DNA topoisomerase IV subunit A
+576815..578464	+	549	47459296	-	MMOB4610	-	COG2189L	type III restriction-modification system methylase
+578464..580722	+	752	47459297	ssl2	MMOB4620	-	-	superfamily II DNA/RNA helicase
+580755..582134	-	459	47459298	pepA	MMOB4630	-	COG0260E	leucyl aminopeptidase
+582898..584499	+	533	47459299	scrA	MMOB4640	-	COG1263G	sucrose-specific PTS system IIBC component
+584539..587100	+	853	47459300	scrB	MMOB4650	-	COG1621G	sucrose-6-phosphate hydrolase
+587328..588191	+	287	47459301	truB	MMOB4660	-	COG0130J	tRNA pseudouridine synthase B
+588184..589008	+	274	47459302	-	MMOB4670	-	COG0561R	COF family HAD hydrolase protein
+589008..589877	+	289	47459303	ribF	MMOB4680	-	COG0196H	hypothetical protein
+589909..590175	+	88	47459304	rpsO	MMOB4690	-	COG0184J	30S ribosomal protein S15
+590247..590531	+	94	47459305	-	MMOB4700	-	-	hypothetical protein
+590557..591813	+	418	47459306	glyA	MMOB4710	-	COG0112E	serine hydroxymethyltransferase
+591813..592652	+	279	47459307	hsp33	MMOB4720	-	COG1281O	Hsp33 disulfide bond chaperone
+592717..593307	-	196	47459308	-	MMOB4730	-	-	hypothetical protein
+593307..594035	-	242	47459309	-	MMOB4740	-	-	hypothetical protein
+594079..595023	-	314	47459310	rluC	MMOB4750	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+594965..595543	-	192	47459311	scpB	MMOB4760	-	COG1386K	segregation and condensation protein B
+595533..596276	-	247	47459312	scpA	MMOB4770	-	COG1354S	segregation and condensation protein A
+596269..597288	-	339	47459313	plsC	MMOB4780	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+597272..597595	-	107	47459314	acpS	MMOB4790	-	COG0736I	holo-acyl carrier protein synthase
+597623..598132	+	169	47459315	recU	MMOB4800	-	COG3331R	Holliday junction-specific endonuclease
+598129..598455	-	108	47459316	himA	MMOB4810	-	COG0776L	nucleoid DNA-binding protein HU
+598468..599496	-	342	47459317	gpsA	MMOB4820	-	COG0240C	NAD-dependent glycerol-3-phosphate dehydrogenase
+599489..600787	-	432	47459318	engA	MMOB4830	-	COG1160R	GTP-binding protein EngA
+600780..601952	-	390	47459319	cmk	MMOB4840	-	COG0283F	cytidylate kinase
+601973..603094	-	373	47459320	dnaJ	MMOB4850	-	COG0484O	heat shock protein DnaJ
+603176..603616	-	146	47459321	-	MMOB4860	-	-	hypothetical protein
+603917..606865	+	982	47459322	dnaE	MMOB4870	-	COG0587L	DNA polymerase III DnaE
+606867..607754	+	295	47459323	polA	MMOB4880	-	COG0258L	DNA polymerase I
+607744..609915	-	723	47459324	pcrA1	MMOB4890	-	COG0210L	ATP-dependent DNA helicase
+609925..611481	-	518	47459325	-	MMOB4900	-	-	hypothetical protein
+611489..613717	-	742	47459326	pcrA2	MMOB4910	-	COG0210L	ATP-dependent DNA helicase
+613689..614450	-	253	47459327	-	MMOB4920	-	-	hypothetical protein
+614420..615430	-	336	47459328	-	MMOB4930	-	-	hypothetical protein
+615439..618201	-	920	47459329	gyrA	MMOB4940	-	COG0188L	DNA gyrase subunit A
+618347..618874	+	175	47459330	pmsR	MMOB4950	-	COG0225O	methionine sulfoxide reductase A
+618857..619462	-	201	47459331	trmB	MMOB4960	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+619533..621413	+	626	47459332	-	MMOB4970	-	-	hypothetical protein
+621475..622077	+	200	47459333	-	MMOB4980	-	COG3557J	RNase G /E associated domain-containing protein
+622094..625267	-	1057	47459334	-	MMOB4990	-	COG1112L	putative ATP-binding helicase protein
+625323..625691	-	122	47459335	-	MMOB5000	-	-	putative glucose/sucrose specific PTS system IIB component
+625788..626789	+	333	47459336	trpS	MMOB5010	-	COG0180J	tryptophanyl-tRNA synthetase
+626789..627880	+	363	47459337	trmA	MMOB5020	-	COG2265J	SAM-dependent methyltransferase
+627942..628799	+	285	47459338	-	MMOB5030	-	-	hypothetical protein
+628889..629017	+	42	47459339	-	MMOB5040	-	-	hypothetical protein
+629215..629772	+	185	47459340	-	MMOB5050	-	-	hypothetical protein
+629990..631570	+	526	47459341	sps1	MMOB5060	-	COG0515RTKL	serine/threonine kinase
+631670..633013	+	447	47459342	asnC	MMOB5070	-	COG0017J	asparaginyl-tRNA synthetase
+633594..634085	-	163	47459343	-	MMOB5080	-	-	hypothetical protein
+634853..635383	-	176	47459344	-	MMOB5090	-	-	hypothetical protein
+635527..637422	-	631	47459345	mldB1	MMOB5100	-	COG1132V	ABC-type multidrug/protein/lipid transport system ATPase component
+637391..639193	-	600	47459346	mldB2	MMOB5110	-	COG1132V	ABC-type multidrug/protein/lipid transport system ATPase component
+639257..639967	-	236	47459347	-	MMOB5120	-	-	hypothetical protein
+640138..642846	+	902	47459348	-	MMOB5130	-	-	hypothetical protein
+647980..648777	-	265	47459349	-	MMOB5140	-	COG1692S	hypothetical protein
+648818..649813	-	331	47459350	recA	MMOB5150	-	COG0468L	recombinase A
+649861..652002	-	713	47459351	pheT	MMOB5160	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+652045..653265	-	406	161621803	mgs1	MMOB5170	-	COG2256L	recombination factor protein RarA
+653287..653979	-	230	47459353	-	MMOB5180	-	COG1451R	metal-dependent hydrolase
+653981..654748	-	255	47459354	-	MMOB5190	-	-	hypothetical protein
+654814..655089	+	91	47459355	rpsT	MMOB5200	-	COG0268J	30S ribosomal protein S20
+655145..655702	+	185	47459356	ppa	MMOB5210	-	COG0221C	inorganic pyrophosphatase
+655717..658452	+	911	47459357	-	MMOB5220	-	COG2755E	putative esterase or lipase protein
+658449..658943	-	164	47459358	ahpC	MMOB5230	-	COG2077O	peroxiredoxin
+658954..660585	-	543	47459359	manB	MMOB5240	-	COG1109G	phosphomannomutase
+660591..661295	-	234	47459360	-	MMOB5250	-	COG0313R	putative SAM-dependent methyltransferase
+661285..662244	-	319	47459361	holB	MMOB5260	-	COG0470L	DNA polymerase III subunit delta'
+662276..663619	-	447	47459362	ffh	MMOB5270	-	COG0541U	signal recognition particle GTPase
+663702..664661	+	319	47459363	manA	MMOB5280	-	COG1482G	mannose-6-phosphate isomerase
+664673..665827	-	384	47459364	-	MMOB5290	-	COG1322S	hypothetical protein
+666085..666549	+	154	47459365	comEB	MMOB5300	-	COG2131F	deoxycytidylate deaminase competance related protein
+666546..667100	-	184	47459366	-	MMOB5310	-	COG0073R	EMAP domain-containing protein
+667152..668030	+	292	47459367	degV	MMOB5320	-	COG1307S	degV-like protein
+668193..668696	+	167	47459368	rplJ	MMOB5330	-	COG0244J	50S ribosomal protein l10
+668734..669108	+	124	47459369	rplL	MMOB5340	-	COG0222J	50S ribosomal protein L7/L12
+669188..669889	+	233	47459370	deoD	MMOB5350	-	COG0813F	purine-nucleoside phosphorylase
+669922..671223	+	433	47459371	deoA	MMOB5360	-	COG0213F	pyrimidine (thymidine)-nucleoside phosphorylase
+671225..671878	+	217	47459372	deoC	MMOB5370	-	COG0274F	deoxyribose-phosphate aldolase
+671880..672503	+	207	47459373	upp	MMOB5380	-	COG0035F	uracil phosphoribosyltransferase
+672528..674420	-	630	47459374	leuS	MMOB5390	-	COG0495J	leucyl-tRNA synthetase
+674480..676603	-	707	47459375	ftsH	MMOB5400	-	COG0465O	cell division protein ftsH
+676699..677271	-	190	47459376	pth	MMOB5410	-	COG0193J	peptidyl-tRNA hydrolase
+677362..677778	+	138	47459377	napA	MMOB5420	-	COG0783P	neutrophil activating protein bacterioferritin
+677842..678333	-	163	47459378	-	MMOB5430	-	-	hypothetical protein
+678335..678748	-	137	47459379	-	MMOB5440	-	-	hypothetical protein
+678849..680546	+	565	47459380	uvrC	MMOB5450	-	COG0322L	excinuclease ABC nuclease subunit C
+680543..682183	-	546	47459381	-	MMOB5460	-	-	hypothetical protein
+682255..683502	+	415	47459382	tyrS	MMOB5470	-	COG0162J	tyrosyl-tRNA synthetase
+683555..684394	+	279	47459383	nfo	MMOB5480	-	COG0648L	endonuclease IV
+684469..684621	+	50	47459384	rpmG	MMOB5490	-	COG0267J	50S ribosomal protein L33
+684644..685684	+	346	47459385	pepQ	MMOB5500	-	COG0006E	XAA-Pro dipeptidase
+685690..686256	+	188	47459386	efp	MMOB5510	-	COG0231J	elongation factor P
+686256..686561	+	101	47459387	-	MMOB5520	-	-	hypothetical protein
+686570..688411	+	613	47459388	tktA	MMOB5530	-	COG0021G	transketolase
+688467..689768	-	433	47459389	pgi	MMOB5540	-	COG0166G	glucose-6-phosphate isomerase
+689741..690091	-	116	47459390	rpsA	MMOB5550	-	COG0539J	30S ribosomal protein s1
+690163..690711	+	182	47459391	-	MMOB5560	-	COG0742L	N6-adenine-specific methylase
+690763..691368	+	201	47459392	gmk	MMOB5570	-	COG0194F	guanylate kinase
+691358..692125	+	255	47459393	-	MMOB5580	-	COG0631T	phosphoprotein Ser/thr phosphatase
+692115..693107	+	330	47459394	sps1	MMOB5590	-	COG0515RTKL	serine/threonine protein kinase
+693293..693952	+	219	47459395	-	MMOB5600	-	COG1162R	GTPase protein
+693939..694595	+	218	47459396	rpe	MMOB5610	-	COG0036G	ribulose-phosphate 3-epimerase
+694604..695932	+	442	47459397	trmE	MMOB5620	-	COG0486R	tRNA modification GTPase TrmE
+695945..696730	+	261	47459398	tatD	MMOB5630	-	COG0084L	Mg-dependent DNAse
+696720..697484	+	254	47459399	ksgA	MMOB5640	-	COG0030J	dimethyladenosine transferase
+697515..698195	+	226	47459400	-	MMOB5650	-	-	hypothetical protein
+698238..699236	+	332	47459401	prsA	MMOB5660	-	COG0462FE	ribose-phosphate pyrophosphokinase
+699169..699846	+	225	47459402	gidB	MMOB5670	-	COG0357M	16S rRNA methyltransferase GidB
+700964..702703	-	579	47459403	thrS	MMOB5680	-	COG0441J	threonyl-tRNA synthetase
+703275..703613	-	112	47459404	-	MMOB5690	-	-	hypothetical protein
+704352..704780	-	142	47459405	-	MMOB5700	-	-	hypothetical protein
+705641..705991	-	116	47459406	trxA	MMOB5710	-	COG0526OC	thioredoxin
+706076..708055	-	659	47459407	uvrB	MMOB5720	-	COG0556L	excinuclease ABC subunit B
+708163..710997	+	944	47459408	-	MMOB5730	-	-	hypothetical protein
+711050..711697	+	215	47459409	lemA	MMOB5740	-	COG1704S	hypothetical protein
+711706..712767	+	353	47459410	-	MMOB5750	-	-	hypothetical protein
+712814..713251	+	145	47459411	coaD	MMOB5760	-	COG0669H	putative phosphopantetheine adenylyltransferase
+713315..713878	+	187	47459412	coaE	MMOB5770	-	COG0237H	dephospho-CoA kinase
+713974..715170	+	398	47459413	bioF	MMOB5780	-	COG0156H	2-amino-3-ketobutyrate coenzyme A ligase
+715204..716154	+	316	47459414	wcaG	MMOB5790	-	COG0451MG	NAD-dependent nucleoside-diphosphate-sugar epimerase
+716180..717982	-	600	47459415	pdhD	MMOB5800	-	COG1249C	pyruvate dehydrogenase E3 component dihydrolipoamide dehydrogenase
+717984..719345	-	453	47459416	pdhC	MMOB5810	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+719346..720242	-	298	47459417	pdhC	MMOB5820	-	COG0508C	dihydrolipoamide acetyltransferase
+720340..721320	-	326	47459418	pdhB	MMOB5830	-	COG0022C	pyruvate dehydrogenase E1 component beta subunit
+721320..722432	-	370	47459419	pdhA	MMOB5840	-	COG1071C	pyruvate dehydrogenase E1 component alpha subunit
+722897..723496	-	199	47459420	-	MMOB5850	-	COG3022S	hypothetical protein
+723559..723954	+	131	47459421	-	MMOB5860	-	COG4095S	hypothetical protein
+723954..724352	+	132	47459422	-	MMOB5870	-	COG4095S	hypothetical protein
+724417..724632	+	71	47459423	-	MMOB5880	-	-	hypothetical protein
+724662..725210	-	182	47459424	thiJ	MMOB5890	-	COG0693R	putative intracellular protease/amidase and/or 4-methyl-5 (b-hydroxyethyl)-thiazole monophosphate biosynthesis protein
+725225..725854	-	209	47459425	-	MMOB5900	-	-	hypotethical membrane protein
+725838..726569	-	243	47459426	-	MMOB5910	-	COG1521K	putative transcriptional regulator
+726554..727636	-	360	47459427	dfp	MMOB5920	-	COG0452H	pantothenate metabolism flavoprotein
+727782..728522	+	246	47459428	licA	MMOB5930	-	COG0510M	choline kinase
+728531..729223	-	230	47459429	-	MMOB5940	-	-	hypothetical protein
+729286..729963	-	225	47459430	-	MMOB5950	-	-	hypothetical protein
+730059..730934	-	291	47459431	-	MMOB5960	-	-	hypothetical protein
+731339..732370	+	343	47459432	ribA	MMOB5970	-	COG0807H	riboflavin biosynthesis protein
+732372..733943	+	523	47459433	-	MMOB5980	-	-	hypothetical protein
+733925..734671	+	248	47459434	-	MMOB5990	-	-	hypothetical protein
+734662..735687	+	341	47459435	-	MMOB6000	-	-	hypothetical protein
+735672..736430	+	252	47459436	udgA	MMOB6010	-	COG1004M	UDP-glucose dehydrogenase
+736481..737581	-	366	47459437	-	MMOB6020	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+737879..739249	+	456	47459438	-	MMOB6030	-	COG1881R	phospholipid binding lipoprotein
+739377..739973	-	198	47459439	-	MMOB6040	-	-	hypothetical protein
+742110..742610	+	166	47459440	-	MMOB6050	-	-	hypothetical protein
+742843..745020	+	725	47459441	fruA	MMOB6060	-	COG1299G	PTS system fructose specific IIABC component
+746365..747093	-	242	47459442	mvspM	MMOB6070	-	-	variable surface protein mvspM
+747389..748456	-	355	47459443	mvspN	MMOB6080	-	-	variable surface protein mvspN
+748869..750245	-	458	47459444	mvspO	MMOB6090	-	-	variable surface protein mvspO
+750568..752304	+	578	47459445	-	MMOB6100	-	-	hypothetical protein
+752633..753754	-	373	47459446	-	MMOB6110	-	-	restriction endonuclease protein
+753882..755204	+	440	47459447	-	MMOB6120	-	COG1479S	hypothetical protein
+755243..755776	+	177	47459448	-	MMOB6130	-	-	hypothetical protein
+756082..757980	-	632	47459449	-	MMOB6140	-	COG0552U	putative ATPase/GTPase
+759866..760468	+	200	47459450	tdk	MMOB6150	-	COG1435F	thymidine kinase
+760534..761472	+	312	47459451	-	MMOB6160	-	-	hypothetical protein
+761529..762083	+	184	47459452	def	MMOB6170	-	COG0242J	formylmethionine deformylase
+762117..763931	+	604	47459453	-	MMOB6180	-	COG0595R	hydrolase
+764000..764455	-	151	47459454	mscL	MMOB6190	-	COG1970M	large-conductance mechanosensitive channel
+764565..765953	-	462	47459455	nox	MMOB6200	-	COG0446R	NADH oxidase
+766175..767830	+	551	47459456	-	MMOB6210	-	COG0595R	hydrolase
+767856..769235	+	459	47459457	-	MMOB6220	-	-	hypothetical protein
+769141..770859	+	572	47459458	-	MMOB6230	-	COG0488R	unspecified ABC transporter ATP binding protein
+770837..771454	+	205	47459459	rnhB	MMOB6240	-	COG0164L	ribonuclease HII
+771468..771842	-	124	47459460	-	MMOB6250	-	COG4095S	hypothetical protein
+771835..772338	-	167	47459461	-	MMOB6260	-	-	hypothetical protein
+772403..772756	-	117	47459462	rplT	MMOB6270	-	COG0292J	50S ribosomal protein L20
+772766..772963	-	65	47459463	rpmI	MMOB6280	-	COG0291J	50S ribosomal protein l35
+772911..773555	-	214	47459464	infC	MMOB6290	-	COG0290J	translation initiation factor IF-3
+773780..775750	-	656	47459465	yidC	MMOB6300	-	COG0706U	putative inner membrane protein translocase component YidC
+775728..776066	-	112	47459466	rnpA	MMOB6310	-	COG0594J	ribonuclease p protein component
+776079..776222	-	47	47459467	rpmH	MMOB6320	-	-	50S ribosomal protein L34
+776648..777079	+	143	47459468	mvspP	MMOB6330	-	-	variable surface protein mvspP

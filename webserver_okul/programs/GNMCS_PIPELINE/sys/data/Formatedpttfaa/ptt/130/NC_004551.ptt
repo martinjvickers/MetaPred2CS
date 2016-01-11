@@ -1,0 +1,786 @@
+Tropheryma whipplei TW08/27, complete genome - 1..925938
+783 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1437	+	478	28572176	dnaA	TW001	-	COG0593L	chromosome replication initiator DnaA
+1767..2900	+	377	28572177	dnaN	TW002	-	COG0592L	DNA polymerase III subunit beta
+2890..3981	+	363	28572178	recF	TW003	-	COG1195L	recombination protein F
+4011..4445	+	144	28572179	-	TW004	-	-	hypothetical protein
+4485..6434	+	649	28572180	gyrB	TW005	-	COG0187L	DNA gyrase subunit B
+6438..8897	+	819	28572181	gyrA1	TW006	-	COG0188L	DNA gyrase subunit A
+8894..9274	+	126	28572182	-	TW007	-	-	integral membrane protein
+9640..10332	-	230	28572183	-	TW008	-	COG1564H	hypothetical protein
+10472..11095	+	207	28572184	-	TW009	-	COG0705R	integral membrane protein
+11133..11342	-	69	28572185	-	TW010	-	-	septation inhibitor protein
+11399..12037	+	212	28572186	-	TW011	-	COG0512EH	glutamine amidotransferase
+12143..12715	+	190	28572187	-	TW012	-	COG1704S	hypothetical protein
+12752..13627	+	291	28572188	-	TW013	-	COG0501O	integral membrane heat shock protease
+13628..13999	+	123	28572189	-	TW014	-	-	integral membrane protein
+14121..15404	+	427	28572190	-	TW015	-	-	WiSP family protein
+15432..16280	+	282	28572191	dkgA	TW016	-	COG0656R	2,5-diketo-D-gluconate reductase A
+16396..18048	-	550	28572192	-	TW017	-	COG1109G	phosphomannomutase
+18061..18894	-	277	28572193	punA	TW018	-	COG0005F	purine nucleoside phosphorylase
+18975..20372	+	465	28572194	-	TW019	-	COG1249C	flavoprotein disulfide reductase
+20441..22216	-	591	28572195	-	TW020	-	COG4770I	acyl-CoA carboxylase complex A subunit
+22333..22752	-	139	28572196	-	TW021	-	-	hypothetical protein
+22844..23152	+	102	28572197	-	TW022	-	-	hypothetical protein
+23168..23563	+	131	28572198	-	TW023	-	-	integral membrane protein
+23661..23798	+	45	28572199	-	TW024	-	-	hypothetical protein
+24099..25676	-	525	28572200	pccB	TW025	-	COG4799I	propionyl-CoA carboxylase subunit beta
+25738..26484	+	248	28572201	-	TW026	-	COG0340H	protein ligase
+26537..26869	-	110	28572202	-	TW027	-	COG2246S	hypothetical protein
+26979..28232	+	417	28572203	purK	TW028	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit PurK
+28311..28853	+	180	28572204	purE	TW029	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit PurE
+29078..29476	-	132	28572205	-	TW030	-	-	hypothetical protein
+29804..30667	-	287	28572206	-	TW032	-	COG1091M	polysaccharide biosynthesis protein
+30664..31647	-	327	28572207	-	TW033	-	COG1088M	dehydratase
+31892..32515	+	207	28572208	-	TW035	-	COG1898M	epimerase
+32571..33449	+	292	28572209	-	TW036	-	COG1209M	nucleotidyl transferase
+33457..34305	-	282	28572210	-	TW037	-	COG1216R	glycosyl transferase
+34302..35108	-	268	28572211	-	TW038	-	COG1134GM	ABC transport ATP-binding subunit
+35160..36041	-	293	28572212	-	TW039	-	COG1682GM	ABC transport integral membrane subunit
+36116..37087	+	323	28572213	-	TW040	-	COG0463M	glycosyl transferase
+37195..37551	-	118	28572214	-	TW041	-	COG2456S	hypothetical protein
+37548..38276	-	242	28572215	-	TW042	-	COG0463M	glycosyl transferase
+38634..40475	+	613	28572216	-	TW043	-	COG1807M	large integral membrane protein
+40712..40825	+	37	28572217	-	TW044	-	-	hypothetical protein
+40845..40934	+	29	28572218	-	TW045	-	-	small membrane protein
+41326..41835	+	169	28572219	-	TW046	-	-	hypothetical protein
+42189..42587	+	132	28572220	-	TW048	-	-	secreted protein
+42584..42982	+	132	28572221	-	TW049	-	-	integral membrane protein
+43109..43420	+	103	28572222	-	TW051	-	-	integral membrane protein
+43784..44215	+	143	28572223	-	TW052	-	-	secreted protein
+44219..44608	+	129	28572224	-	TW053	-	-	integral membrane protein
+44860..46251	-	463	28572225	-	TW054	-	COG0642T	two component system sensor kinase
+46318..47001	-	227	28572226	-	TW055	-	COG0745TK	two component system response regulator
+47266..47643	+	125	28572227	-	TW057	-	COG1278K	cold shock protein B
+47741..47968	+	75	28572228	-	TW058	-	-	hypothetical protein
+47971..48753	+	260	28572229	-	TW059	-	COG1192D	sporulation/chromosome partition protein
+48827..49963	+	378	28572230	-	TW060	-	COG0287E	prephenate dehydrogenase
+49945..52005	+	686	28572231	-	TW061	-	COG1160R	bifunctional cytidylate kinase/GTP-binding protein
+52002..53279	-	425	28572232	-	TW062	-	COG1169HQ	chorismate binding enzyme
+53375..54094	+	239	28572233	-	TW063	-	COG2226H	ubiquinone/menaquinone methyltransferase
+54106..55122	+	338	28572234	-	TW064	-	COG0142H	polyprenyl diphosphate synthase
+55141..56484	+	447	28572235	-	TW065	-	COG0493ER	ferredoxin/ferredoxin-NADP reductase
+56824..57795	-	323	28572236	-	TW066	-	COG0614P	iron-siderophore binding lipoprotein
+57921..58916	-	331	28572237	-	TW067	-	COG0614P	iron-siderophore binding lipoprotein
+59134..59919	-	261	28572238	-	TW068	-	COG1120PH	iron-siderophore uptake system ATP-binding component
+59903..60937	-	344	28572239	-	TW069	-	COG4779P	iron-siderophore uptake system integral membrane component
+60943..61908	-	321	28572240	-	TW070	-	COG0609P	iron-siderophore uptake system integral membrane component
+62354..62647	+	97	28572241	-	TW071	-	COG0640K	regulator
+62943..64580	-	545	28572242	lysK	TW072	-	COG1384J	lysyl-tRNA synthetase
+64669..65535	+	288	28572243	panC	TW073	-	COG0414H	pantoate--beta-alanine ligase
+65832..67328	+	498	28572244	-	TW074	-	COG1502I	phospholipase
+67380..69902	+	840	28572245	-	TW075	-	COG0542O	Clp-family ATP-binding protease/regulator
+70637..72220	+	527	28572246	menD	TW078	-	COG1165H	menaquinone biosynthesis protein MenD
+72230..72775	+	181	28572247	-	TW079	-	-	secreted protein
+72796..73707	+	303	28572248	menA	TW080	-	COG1575H	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+73945..77412	+	1155	28572249	rpoB	TW081	-	COG0085K	DNA-directed RNA polymerase subunit beta
+77472..81299	+	1275	28572250	rpoC	TW082	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+81523..82884	-	453	28572251	-	TW083	-	COG0400R	hydrolase
+82958..83341	+	127	28572252	groES	TW084	-	COG0234O	co-chaperonin GroES
+83392..84867	+	491	28572253	guaB1	TW085	-	COG0516F	inosine-5'-monophosphate dehydrogenase
+84872..85993	+	373	28572254	guaB2	TW086	-	COG2070R	inosine 5-monophosphate dehydrogenase
+85986..86699	+	237	28572255	-	TW087	-	COG3346S	hypothetical protein
+86765..87202	+	145	28572256	-	TW088	-	-	hypothetical protein
+87199..88710	+	503	28572257	guaA	TW089	-	COG0519F	GMP synthase
+88815..91046	+	743	28572258	-	TW090	-	COG0210L	ATP-dependent DNA helicase
+91313..92797	+	494	28572259	-	TW092	-	COG1368M	hypothetical protein
+92799..93437	+	212	28572260	purN	TW093	-	COG0299F	phosphoribosylglycinamide formyltransferase
+93477..95105	+	542	28572261	purH	TW094	-	COG0138F	bifunctional purine biosynthesis protein PurH
+95180..95521	-	113	28572262	-	TW095	-	-	integral membrane protein
+95602..96681	+	359	28572263	-	TW096	-	COG2814G	hypothetical protein
+96582..97733	-	383	28572264	truB	TW097	-	COG0130J	tRNA pseudouridine synthase B
+97781..98905	+	374	28572265	-	TW098	-	COG0750M	metalloprotease
+98907..100013	-	368	28572266	dxr	TW099	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+100065..100817	+	250	28572267	-	TW100	-	COG0631T	hypothetical protein
+100840..102411	-	523	28572268	-	TW101	-	COG3593L	hypothetical protein
+102673..102936	+	87	28572269	-	TW103	-	-	hypothetical protein
+102921..103964	+	347	28572270	-	TW104	-	-	hypothetical protein
+103993..104355	+	120	28572271	-	TW105	-	-	hypothetical protein
+104352..105071	+	239	28572272	-	TW106	-	COG1131V	ABC transport ATP-binding subunit
+105068..105424	+	118	28572273	-	TW107	-	-	integral membrane protein
+107600..108649	-	349	28572274	-	TW108	-	COG4974L	DNA recombinase
+110016..110624	-	202	28572275	-	TW109	-	COG0494LR	NUDIX hydrolase
+111707..113344	-	545	28572276	pyrG	TW110	-	COG0504F	CTP synthetase
+115156..116793	-	545	28572277	recN	TW111	-	COG0497L	DNA repair protein RecN
+116812..117729	-	305	28572278	-	TW112	-	COG0061G	ATP-NAD kinase
+117757..124683	-	2308	28572279	-	TW113	-	-	WiSP family protein
+124733..125194	-	153	28572280	rplI	TW114	-	COG0359J	50S ribosomal protein L9
+125191..125442	-	83	28572281	rpsR	TW115	-	COG0238J	30S ribosomal protein S18
+125457..126017	-	186	28572282	ssb1	TW116	-	COG0629L	single-stranded DNA-binding protein
+126021..126323	-	100	28572283	rpsF	TW117	-	COG0360J	30S ribosomal protein S6
+126672..127589	-	305	28572284	hemH	TW119	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+128106..129023	+	305	28572285	menB	TW120	-	COG0447H	naphthoate synthase
+129025..130161	+	378	28572286	menE	TW121	-	COG0318IQ	O-succinylbenzoic acid--CoA ligase
+130688..131341	+	217	28572287	ideR	TW124	-	COG1321K	iron-dependent repressor
+131520..131756	+	78	28572288	rpmB	TW125	-	COG0227J	50S ribosomal protein L28
+131756..131926	+	56	28572289	rpmG	TW126	-	COG0267J	50S ribosomal protein L33
+131927..132232	+	101	28572290	rpsN	TW127	-	COG0199J	30S ribosomal protein S14
+132298..132579	+	93	28572291	hup	TW128	-	COG0776L	DNA-binding protein HU-alpha
+132629..134734	+	701	28572292	-	TW129	-	COG3336S	integral membrane protein
+134760..136832	+	690	28572293	-	TW130	-	COG0553KL	helicase regulator
+136972..138165	+	397	28572294	tufA	TW131	-	COG0050J	elongation factor Tu
+138453..140111	-	552	28572295	-	TW132	-	COG1928O	hypothetical protein
+140623..141990	+	455	28572296	manA	TW133	-	COG1482G	mannose-6-phosphate isomerase
+142042..142350	+	102	28572297	-	TW134	-	-	WhiB-like regulatory protein
+142512..144908	+	798	28572298	-	TW135	-	COG1216R	hypothetical protein
+144961..146340	+	459	28572299	-	TW136	-	-	secreted protein
+146782..148212	+	476	28572300	manB	TW137	-	COG1109G	phosphomannomutase/phosphoglucomutase
+148563..149258	+	231	28572301	-	TW138	-	COG1040R	hypothetical protein
+149502..152045	+	847	28572302	secA	TW139	-	COG0653U	preprotein translocase subunit SecA
+152632..152805	+	57	28572303	-	TW140	-	-	hypothetical protein
+152950..153696	+	248	28572304	-	TW141	-	COG1261NO	membrane/secreted protein
+153705..154487	+	260	28572305	-	TW142	-	COG0455D	regulator
+154524..155181	+	218	28572306	-	TW143	-	-	phase-variable integral membrane protein
+155275..158181	+	968	28572307	gcvP	TW144	-	COG1003E	glycine dehydrogenase
+158391..159971	+	526	28572308	-	TW145	-	COG4166E	ABC transporter substrate-binding protein
+159968..161569	+	533	28572309	-	TW146	-	COG4166E	ABC transporter substrate-binding protein
+161570..162175	-	201	28572310	-	TW147	-	COG0619P	ABC transporter integral membrane subunit
+162302..162985	-	227	28572311	-	TW148	-	COG1122P	ABC transporter ATP-binding subunit
+163138..164073	+	311	28572312	-	TW149	-	COG0601EP	ABC transporter integral membrane subunit
+164075..165040	+	321	28572313	-	TW150	-	COG1173EP	ABC transporter system integral membrane subunit
+165037..166665	+	542	28572314	-	TW151	-	COG1123R	ABC transporter ATP-binding subunit
+171897..172667	-	256	28572315	-	TW152	-	-	hypothetical protein
+178288..178713	+	141	28572316	rplM	TW153	-	COG0102J	50S ribosomal protein L13
+178713..179177	+	154	28572317	rpsI	TW154	-	COG0103J	30S ribosomal protein S9
+179181..180542	+	453	28572318	glmM	TW155	-	COG1109G	phosphoglucosamine mutase
+180517..181272	-	251	28572319	coaA	TW156	-	COG1072H	pantothenate kinase
+181855..183954	+	699	28572320	-	TW157	-	COG3889R	WiSP family protein
+184178..186028	+	616	28572321	glmS	TW158	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+187878..189107	-	409	28572322	ispE	TW159	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+191188..192282	+	364	28572323	-	TW160	-	COG1814S	hypothetical protein
+193769..196159	+	796	28572324	-	TW161	-	-	WiSP family protein
+197697..199415	-	572	28572325	-	TW162	-	COG1132V	ABC transporter (ATP-binding and integral membrane)
+199447..201318	-	623	28572326	-	TW163	-	COG4988CO	ABC transporter (ATP-binding and integral membrane)
+202542..203240	-	232	28572327	-	TW164	-	-	integral membrane protein
+203335..204531	+	398	28572328	-	TW165	-	COG0515RTKL	serine/threonine protein kinase
+205328..207172	+	614	28572329	-	TW166	-	COG1217T	transcription factor
+207488..208330	+	280	28572330	-	TW167	-	COG0802R	hypothetical protein
+208351..209856	+	501	28572331	-	TW169	-	COG1214O	hypothetical protein
+209856..211061	+	401	28572332	gcp	TW170	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+212254..213477	+	407	28572333	-	TW171	-	COG0037D	hypothetical protein
+213482..213985	+	167	28572334	hpt	TW172	-	COG0634F	hypoxanthine phosphoribosyltransferase
+213988..215988	+	666	28572335	ftsH	TW173	-	COG0465O	FtsH-like cell division protein
+216002..216547	+	181	28572336	folE	TW174	-	COG0302H	GTP cyclohydrolase I
+216584..218881	+	765	28572337	folP	TW175	-	COG0294H	dihydropteroate synthase
+218878..219327	+	149	28572338	-	TW176	-	-	integral membrane protein
+219552..220313	+	253	28572339	-	TW177	-	COG1131V	ABC transporter ATP-binding subunit
+220402..221079	+	225	28572340	-	TW178	-	-	hypothetical protein
+221086..221778	+	230	28572341	ung	TW179	-	COG0692L	uracil-DNA glycosylase
+221811..222749	+	312	28572342	ribF	TW180	-	COG0196H	riboflavin biosynthesis protein
+223106..223651	+	181	28572343	-	TW181	-	-	secreted protein
+223721..224497	+	258	28572344	-	TW182	-	-	hypothetical protein
+224723..225307	+	194	28572345	-	TW184	-	-	peptidase
+225473..226039	+	188	28572346	-	TW186	-	-	hypothetical protein
+226082..226408	+	108	28572347	-	TW187	-	COG1146C	ferredoxin
+226431..227699	+	422	28572348	-	TW188	-	COG4987CO	hypothetical protein
+228065..228706	+	213	28572349	-	TW189	-	COG1429H	hypothetical protein
+228948..229565	-	205	28572350	mdmC	TW190	-	COG4122R	O-methyltransferase
+229601..229825	+	74	28572351	-	TW191	-	-	secreted protein
+229953..230495	+	180	28572352	-	TW192	-	-	integral membrane protein
+230519..231298	+	259	28572353	-	TW193	-	-	hypothetical protein
+231435..232766	-	443	28572354	aroA	TW194	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+232840..234861	+	673	28572355	recG	TW195	-	COG1200LK	ATP-dependent DNA helicase RecG
+234982..235512	+	176	28572356	coaD	TW196	-	COG0669H	phosphopantetheine adenylyltransferase
+235965..236714	-	249	28572357	-	TW197	-	COG3764M	hypothetical protein
+236982..237179	+	65	28572358	rpmF	TW198	-	COG0333J	50S ribosomal protein L32
+237204..237851	+	215	28572359	rnc	TW199	-	COG0571K	ribonuclease III
+237969..239126	+	385	28572360	-	TW200	-	COG0683E	ABC transporter branched chain amino acid binding protein
+239174..240178	+	334	28572361	-	TW201	-	COG0559E	ABC transporter branched chain amino acid transport permease
+240175..241269	+	364	28572362	-	TW202	-	COG4177E	ABC transporter branched chain amino acid transport permease
+241271..242053	+	260	28572363	-	TW203	-	COG0411E	branched chain amino acid ABC transporter ATP-binding subunit
+242078..242761	+	227	28572364	-	TW204	-	COG0410E	branched chain amino acid ABC transporter ATP-binding subunit
+242928..243596	+	222	28572365	ftsY	TW205	-	COG0552U	SRP54-type protein
+243756..244064	+	102	28572366	rpsJ	TW206	-	COG0051J	30S ribosomal protein S10
+244074..244706	+	210	28572367	rplC	TW207	-	COG0087J	50S ribosomal protein L3
+244696..245442	+	248	28572368	rplD	TW208	-	COG0088J	50S ribosomal protein L4
+245439..245750	+	103	28572369	rplW	TW209	-	COG0089J	50S ribosomal protein L23
+245758..246591	+	277	28572370	rplB	TW210	-	COG0090J	50S ribosomal protein L2
+246596..246877	+	93	28572371	rpsS	TW211	-	COG0185J	30S ribosomal protein S19
+246877..247236	+	119	28572372	rplV	TW212	-	COG0091J	50S ribosomal protein L22
+247239..247901	+	220	28572373	rpsC	TW213	-	COG0092J	30S ribosomal protein S3
+247898..248329	+	143	28572374	rplP	TW214	-	COG0197J	50S ribosomal protein L16
+248316..248555	+	79	28572375	rpmC	TW215	-	COG0255J	50S ribosomal protein L29
+248552..248812	+	86	28572376	rpsQ	TW216	-	COG0186J	30S ribosomal protein S17
+248910..249281	+	123	28572377	rplN	TW217	-	COG0093J	50S ribosomal protein L14
+249284..249625	+	113	28572378	rplX	TW218	-	COG0198J	50S ribosomal protein L24
+249622..250173	+	183	28572379	rplE	TW219	-	COG0094J	50S ribosomal protein L5
+250203..250601	+	132	28572380	rpsH	TW220	-	COG0096J	30S ribosomal protein S8
+250604..251140	+	178	161501892	rplF	TW221	-	COG0097J	50S ribosomal protein L6
+251137..251496	+	119	28572382	rplR	TW222	-	COG0256J	50S ribosomal protein L18
+251493..252353	+	286	28572383	rpsE	TW223	-	COG0098J	30S ribosomal protein S5
+252558..253001	+	147	28572384	rplO	TW224	-	COG0200J	50S ribosomal protein L15
+253023..254348	+	441	28572385	secY	TW225	-	COG0201U	preprotein translocase subunit SecY
+254348..254908	+	186	28572386	adk	TW226	-	COG0563F	adenylate kinase
+254911..255774	+	287	28572387	-	TW227	-	COG0115EH	4-amino-4-deoxychorismate lyase
+255844..256065	+	73	28572388	infA	TW228	-	COG0361J	translation initiation factor IF-1
+256068..256187	+	39	28572389	rpmJ	TW229	-	COG0257J	50S ribosomal protein L36
+256222..256596	+	124	28572390	rpsM	TW230	-	COG0099J	30S ribosomal protein S13
+256600..256992	+	130	28572391	rpsK	TW231	-	COG0100J	30S ribosomal protein S11
+257011..257994	+	327	28572392	rpoA	TW232	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+258010..258549	+	179	28572393	rplQ	TW233	-	COG0203J	50S ribosomal protein L17
+258575..259378	+	267	28572394	truA	TW234	-	COG0101J	tRNA pseudouridine synthase A
+259491..260606	-	371	28572395	-	TW235	-	COG0489D	MRP family ATP-binding protein
+260614..261108	-	164	28572396	-	TW236	-	COG4420S	hypothetical protein
+261095..262342	-	415	28572397	-	TW237	-	COG2239P	hypothetical protein
+262339..263508	-	389	28572398	-	TW238	-	COG0006E	Xaa-Pro aminopeptidase
+263951..264562	+	203	28572399	-	TW240	-	-	hypothetical protein
+264653..264874	-	73	28572400	-	TW241	-	-	hypothetical protein
+264900..267881	+	993	28572401	-	TW242	-	COG0210L	ATP-dependent DNA helicase subunit
+267878..270799	+	973	28572402	-	TW243	-	COG0210L	ATP-dependent DNA helicase subunit
+270823..271998	-	391	28572403	-	TW244	-	COG3173R	transferase
+272079..273836	+	585	28572404	-	TW245	-	COG0210L	ATP-dependent DNA helicase
+273875..275149	-	424	28572405	-	TW246	-	COG5282S	hypothetical protein
+275690..276775	+	361	28572406	ftsZ	TW247	-	COG0206D	cell division protein FtsZ
+276892..277263	+	123	28572407	-	TW248	-	COG1799S	hypothetical protein
+277348..277875	+	175	28572408	-	TW249	-	COG3599D	cell division protein
+277872..278324	+	150	28572409	lspA	TW250	-	COG0597MU	lipoprotein signal peptidase
+278405..279316	+	303	28572410	-	TW251	-	COG0564J	pseudouridine synthase
+279326..282820	+	1164	28572411	dnaE	TW252	-	COG0587L	DNA polymerase III subunit alpha
+283033..283935	+	300	28572412	-	TW253	-	COG0861P	hypothetical protein
+283980..285305	+	441	28572413	murA	TW254	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+285371..286027	+	218	28572414	-	TW255	-	COG0204I	hypothetical protein
+286002..286979	+	325	28572415	gpsA	TW256	-	COG0240C	glycerol-3-phosphate dehydrogenase
+286979..288022	+	347	28572416	ddlA	TW257	-	COG1181M	D-alanine--D-alanine ligase A
+288036..288500	-	154	28572417	-	TW258	-	-	lipoprotein
+288527..289912	-	461	28572418	-	TW259	-	COG0508C	lipoamide acyltransferase
+290066..291418	-	450	28572419	acoL	TW260	-	COG1249C	dihydrolipoamide dehydrogenase
+291425..292933	-	502	28572420	-	TW261	-	COG0260E	leucyl aminopeptidase
+293012..296086	-	1024	28572421	glyQS	TW262	-	COG0751J	glycyl-tRNA synthetase
+296144..297307	+	387	28572422	hrdB	TW263	-	COG0568K	RNA polymerase sigma factor
+297309..298694	+	461	28572423	-	TW264	-	COG0769M	hypothetical protein
+298685..299464	+	259	28572424	-	TW265	-	COG3442R	hypothetical protein
+299448..300608	-	386	28572425	alr1	TW266	-	COG0787M	alanine racemase
+300658..301320	-	220	28572426	alr2	TW267	-	COG0787M	alanine racemase
+301377..303365	+	662	28572427	gyrB2	TW268	-	COG0187L	DNA topoisomerase IV subunit B
+305928..307358	+	476	28572428	gnd	TW272	-	COG0362G	6-phosphogluconate dehydrogenase
+307631..310096	-	821	28572429	gyrA1	TW273	-	COG0188L	DNA topoisomerase IV subunit A
+310102..311025	-	307	28572430	-	TW274	-	-	DNA-binding protein
+311166..311444	+	92	28572431	-	TW275	-	-	hypothetical protein
+311511..311978	-	155	28572432	-	TW276	-	-	hypothetical protein
+312051..312491	+	146	28572433	dut	TW277	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+312484..313059	+	191	28572434	-	TW278	-	-	hypothetical protein
+313063..313719	+	218	28572435	-	TW279	-	-	hypothetical protein
+313747..315636	+	629	28572436	Dxs	TW280	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+316355..317668	+	437	28572437	tig	TW281	-	COG0544O	trigger factor
+317665..318867	+	400	28572438	-	TW282	-	-	integral membrane protein
+318864..319406	+	180	28572439	clpP1	TW283	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+319418..320041	+	207	28572440	clpP2	TW284	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+320051..321322	+	423	28572441	clpX	TW285	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+321314..323884	-	856	28572442	valS	TW286	-	COG0525J	valyl-tRNA synthetase
+324081..327251	+	1056	28572443	ileS	TW287	-	COG0060J	isoleucyl-tRNA synthetase
+327361..328722	+	453	28572444	fgs	TW288	-	COG0285H	folylpolyglutamate synthase
+328727..329056	+	109	28572445	-	TW289	-	-	hypothetical protein
+329121..329531	+	136	28572446	ndk	TW290	-	COG0105F	nucleoside diphosphate kinase
+329749..331398	+	549	28572447	rne	TW291	-	COG1530J	ribonuclease E
+331522..331836	+	104	28572448	rplU	TW292	-	COG0261J	50S ribosomal protein L21
+331877..332125	+	82	28572449	rpmA	TW293	-	COG0211J	50S ribosomal protein L27
+332125..333462	+	445	28572450	obgE	TW294	-	COG0536R	GTPase ObgE
+333528..333767	+	79	28572451	-	TW295	-	-	hypothetical protein
+333790..334350	+	186	28572452	nadD	TW296	-	COG1057H	nicotinic acid mononucleotide adenylyltransferase
+334343..335269	+	308	28572453	-	TW297	-	-	hypothetical protein
+335653..336300	+	215	28572454	-	TW298	-	-	hypothetical protein
+336318..337370	+	350	28572455	-	TW299	-	COG3568R	integral membrane protein
+337674..338228	-	184	28572456	-	TW300	-	COG0350L	DNA-binding/repair enzyme
+338230..339285	-	351	28572457	lipA	TW301	-	COG0320H	lipoyl synthase
+339304..339981	-	225	28572458	lipB	TW302	-	COG0321H	lipoate-protein ligase B
+340094..341434	+	446	28572459	ffh	TW303	-	COG0541U	signal recognition particle protein
+341630..342076	+	148	28572460	rpsP	TW304	-	COG0228J	30S ribosomal protein S16
+342073..342303	+	76	28572461	-	TW305	-	COG1837R	hypothetical protein
+342303..342851	+	182	28572462	rimM	TW306	-	COG0806J	16S rRNA-processing protein RimM
+342884..343588	+	234	28572463	trmD	TW307	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+343681..344028	+	115	28572464	rplS	TW308	-	COG0335J	50S ribosomal protein L19
+344025..344717	+	230	28572465	sipS	TW309	-	COG0681U	signal peptidase I
+344979..345098	+	39	28572466	-	TW311	-	-	hypothetical protein
+345350..345712	+	120	28572467	-	TW312	-	COG0792L	hypothetical protein
+345709..347244	+	511	28572468	-	TW313	-	COG0606O	hypothetical protein
+347316..348461	+	381	28572469	-	TW314	-	COG0758LU	DNA processing protein
+348498..349418	+	306	28572470	-	TW315	-	COG4974L	DNA recombinase
+349918..350202	+	94	28572471	-	TW316	-	-	hypothetical protein
+350217..350912	-	231	28572472	-	TW317	-	COG0739M	hypothetical protein
+351143..351988	+	281	161501891	rpsB	TW318	-	COG0052J	30S ribosomal protein S2
+352019..352840	+	273	28572474	tsf	TW319	-	COG0264J	elongation factor Ts
+352851..353546	+	231	28572475	pyrH	TW320	-	COG0528F	uridylate kinase
+353710..354255	+	181	28572476	frr	TW321	-	COG0233J	ribosome recycling factor
+354324..355133	+	269	28572477	-	TW322	-	COG4589R	integral membrane phospholipid biosynthetic nucleotidyltransferase
+355281..356120	+	279	28572478	xthA1	TW323	-	COG0708L	exodeoxyribonuclease III
+356139..356681	+	180	28572479	-	TW324	-	-	hypothetical protein
+356911..357549	-	212	28572480	-	TW325	-	-	secreted protein
+357802..359424	+	540	28572481	groEL	TW327	-	COG0459O	molecular chaperone GroEL
+359486..360241	-	251	28572482	-	TW328	-	-	integral membrane protein
+360443..361912	+	489	28572483	hom	TW329	-	COG0460E	homoserine dehydrogenase
+361919..362971	+	350	28572484	thrC	TW330	-	COG0498E	threonine synthase
+363012..364019	+	335	28572485	thrB	TW331	-	COG0083E	homoserine kinase
+364090..365454	+	454	28572486	rho	TW332	-	COG1158K	transcription termination factor Rho
+365530..366573	+	347	28572487	prfA	TW333	-	COG0216J	peptide chain release factor 1
+366577..367434	+	285	28572488	-	TW334	-	COG2890J	peptide chain release factor methyltransferase
+367483..368160	+	225	28572489	-	TW335	-	COG0009J	hypothetical protein
+368207..369307	+	366	28572490	-	TW336	-	COG0472M	glycosyl transferase
+369348..369785	+	145	28572491	atpI	TW337	-	-	ATP synthase I
+369786..370601	+	271	28572492	atpB	TW338	-	COG0356C	ATP synthase F0F1 subunit A
+370645..370872	+	75	28572493	atpE	TW339	-	COG0636C	ATP synthase subunit C
+370894..371412	+	172	28572494	atpF	TW340	-	COG0711C	ATP synthase F0F1 subunit B
+371402..372190	+	262	28572495	atpH	TW341	-	COG0712C	ATP synthase subunit delta
+372201..373829	+	542	28572496	atpA	TW342	-	COG0056C	ATP synthase F0F1 subunit alpha
+373849..374859	+	336	28572497	atpG	TW343	-	COG0224C	ATP synthase gamma chain
+374908..376332	+	474	28572498	atpD	TW344	-	COG0055C	ATP synthase F0F1 subunit beta
+376334..376618	+	94	28572499	atpC	TW345	-	COG0355C	ATP synthase subunit epsilon
+376790..377062	+	90	28572500	rpsO	TW346	-	COG0184J	30S ribosomal protein S15
+377107..379314	+	735	28572501	pnp	TW347	-	COG1185J	polynucleotide phosphorylase
+379342..380280	+	312	28572502	-	TW348	-	COG1230P	cation efflux protein
+380264..381343	-	359	28572503	-	TW349	-	COG0628R	hypothetical protein
+381354..383045	-	563	28572504	-	TW350	-	COG1269C	low complexity hydrophilic protein
+383069..384745	+	558	28572505	-	TW351	-	-	integral membrane protein
+384742..385893	+	383	28572506	-	TW352	-	COG1104E	aminotransferase
+385916..386995	+	359	28572507	mnmA	TW353	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+386982..388868	+	628	28572508	ligA	TW354	-	COG0272L	DNA ligase
+389007..389309	+	100	28572509	gatC	TW355	-	COG0721J	glutamyl-tRNA(Gln) amidotransferase subunit C
+389299..390780	+	493	28572510	gatA	TW356	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+390777..392291	+	504	28572511	gatB	TW357	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+392340..393296	-	318	28572512	-	TW358	-	-	hypothetical protein
+393620..394174	+	184	28572513	-	TW360	-	COG4721S	hypothetical protein
+394242..395789	+	515	28572514	-	TW361	-	COG1123R	ABC transporter ATP-binding subunit
+395780..396508	+	242	28572515	-	TW362	-	COG0619P	ABC transporter integral membrane subunit
+396636..396851	-	71	28572516	-	TW363	-	-	hypothetical protein
+396883..397437	+	184	28572517	orn	TW364	-	COG1949A	oligoribonuclease
+397571..398386	+	271	28572518	nadE	TW365	-	COG0171H	NAD synthetase
+398438..399064	-	208	28572519	-	TW366	-	-	hypothetical protein
+399273..399719	+	148	28572520	ssb2	TW367	-	COG0629L	single-strand DNA binding protein
+399868..400374	+	168	28572521	-	TW368	-	-	secreted protein
+400381..402051	+	556	28572522	-	TW369	-	COG0488R	ABC transporter ATP-binding protein
+402051..402527	+	158	28572523	-	TW370	-	COG0824R	hypothetical protein
+402731..405247	-	838	28572524	pepN	TW371	-	COG0308E	aminopeptidase
+405395..406006	+	203	28572525	-	TW372	-	-	hypothetical protein
+406008..406475	+	155	28572526	rpiB	TW373	-	COG0698G	ribose-5-phosphate isomerase B
+406503..407387	+	294	28572527	nei	TW374	-	COG0266L	endonuclease VIII
+407389..407862	-	157	28572528	-	TW375	-	COG0783P	hypothetical protein
+407992..409074	-	360	28572529	-	TW376	-	COG0349J	ribonuclease
+409148..409699	-	183	28572530	-	TW377	-	COG0595R	hypothetical protein
+409719..410414	-	231	28572531	-	TW378	-	COG1985H	hypothetical protein
+410411..410809	-	132	28572532	-	TW379	-	COG2166R	hypothetical protein
+410908..411816	-	302	28572533	-	TW380	-	COG2897P	thiosulfate sulfurtransferase
+412536..413744	-	402	28572534	-	TW381	-	COG4942D	secreted protein
+413741..414856	-	371	28572535	-	TW382	-	COG4129S	integral membrane protein.
+414883..416610	-	575	28572536	-	TW383	-	COG4850S	hypothetical protein
+416640..418070	+	476	28572537	trpE	TW384	-	COG0147EH	anthranilate synthase component I
+418111..420531	+	806	28572538	leuS	TW385	-	COG0495J	leucyl-tRNA synthetase
+420613..421194	+	193	28572539	-	TW386	-	COG1555L	DNA uptake protein
+421191..422609	+	472	28572540	-	TW387	-	COG0658R	DNA uptake protein
+422606..423442	+	278	28572541	-	TW388	-	COG2333R	DNA uptake protein
+423503..424432	+	309	28572542	-	TW389	-	COG1466L	hypothetical protein
+424690..425814	-	374	28572543	-	TW390	-	-	hypothetical protein
+425857..427077	-	406	28572544	-	TW391	-	-	hypothetical protein
+427160..427777	+	205	28572545	rpsD	TW392	-	COG0522J	30S ribosomal protein S4
+427986..430628	+	880	28572546	alaS	TW393	-	COG0013J	alanyl-tRNA synthetase
+430659..431096	+	145	28572547	-	TW394	-	COG0816L	hypothetical protein
+431279..432280	+	333	28572548	-	TW395	-	COG1559R	hypothetical protein
+432281..433228	+	315	28572549	aroE	TW396	-	COG0169E	shikimate 5-dehydrogenase
+433349..434551	+	400	28572550	aroC	TW397	-	COG0082E	chorismate synthase
+434582..435082	+	166	28572551	aroK	TW398	-	COG0703E	shikimate kinase
+435142..436284	+	380	28572552	aroB	TW399	-	COG0337E	3-dehydroquinate synthase
+436368..436817	+	149	28572553	aroQ	TW400	-	COG0757E	3-dehydroquinate dehydratase
+436842..437399	+	185	28572554	efp	TW401	-	COG0231J	elongation factor P
+437412..438698	+	428	28572555	pyrC	TW402	-	COG0044F	dihydroorotase
+438740..439885	+	381	28572556	carA	TW403	-	COG0505EF	carbamoyl phosphate synthase small subunit
+439872..443183	+	1103	28572557	carB	TW404	-	COG0458EF	carbamoyl-phosphate synthase large chain
+443180..444091	+	303	28572558	pyrF	TW405	-	COG0284F	orotidine 5'-phosphate decarboxylase
+444443..445024	+	193	28572559	gmk	TW406	-	COG0194F	guanylate kinase
+445147..445404	+	85	28572560	rpoZ	TW407	-	COG1758K	DNA-directed RNA polymerase subunit omega
+445401..446633	+	410	28572561	-	TW408	-	COG0452H	flavoprotein
+446643..447830	+	395	28572562	metK	TW409	-	COG0192H	S-adenosylmethionine synthetase
+447831..449705	+	624	28572563	-	TW410	-	COG1198L	primosome assembly protein PriA
+449695..450654	+	319	28572564	fmt	TW411	-	COG0223J	methionyl-tRNA formyltransferase
+450954..451613	+	219	28572565	rpe	TW413	-	COG0036G	D-ribulose-5-phosphate 3-epimerase
+451660..452754	-	364	28572566	-	TW414	-	COG0836M	sugar-1-phosphate nucleotidyltransferase
+452949..454019	+	356	28572567	pstS	TW415	-	COG0226P	ABC transporter phosphate-binding lipoprotein
+454102..455001	+	299	28572568	pstC	TW416	-	COG0573P	phosphate ABC transporter permease
+455068..455961	+	297	28572569	pstA	TW417	-	COG0581P	phosphate ABC transporter permease
+455972..456745	+	257	28572570	-	TW418	-	COG1117P	phosphate ABC transporter ATP-binding protein
+456981..458633	+	550	28572571	argS	TW419	-	COG0018J	arginyl-tRNA synthetase
+458872..459096	+	74	28572572	-	TW420	-	-	hypothetical protein
+459221..459703	+	160	28572573	-	TW421	-	COG1329K	transcription regulator CarD
+459710..460978	+	422	28572574	-	TW422	-	COG1211I	terpenoid biosynthesis bifunctional enzyme
+461063..462463	+	466	28572575	cysS	TW423	-	COG0215J	cysteinyl-tRNA synthetase
+462460..463251	+	263	28572576	-	TW424	-	COG0566J	rRNA methyltransferase
+463366..464247	+	293	28572577	-	TW425	-	COG1651O	secreted protein
+464516..464956	+	146	28572578	-	TW426	-	-	hypothetical protein
+465159..466622	-	487	28572579	zwf	TW428	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+466665..468308	-	547	28572580	pgi	TW429	-	COG0166G	glucose-6-phosphate isomerase
+468325..469419	-	364	28572581	tal	TW430	-	COG0176G	transaldolase
+469409..471505	-	698	28572582	tkt	TW431	-	COG0021G	transketolase
+471644..472546	+	300	28572583	-	TW432	-	COG0109O	protoheme IX farnesyltransferase
+472470..473525	-	351	28572584	-	TW433	-	COG1612O	cytochrome synthase
+473664..475085	+	473	28572585	-	TW434	-	COG0719O	hypothetical protein
+475078..476226	+	382	28572586	-	TW435	-	COG0719O	hypothetical protein
+476251..476553	+	100	28572587	-	TW436	-	COG2146PR	dioxygenase 2Fe-2S ferredoxin subunit
+476687..477436	+	249	28572588	-	TW437	-	COG0396O	ABC transporter ATP-binding subunit
+477461..477811	+	116	28572589	-	TW438	-	COG2151R	hypothetical protein
+477896..478753	-	285	28572590	-	TW439	-	COG3346S	hypothetical protein
+479180..479956	-	258	28572591	uppS1	TW440	-	COG0020I	undecaprenyl pyrophosphate synthase
+480076..481632	+	518	28572592	-	TW441	-	COG1129G	sugar ABC transporter ATP-binding subunit
+481622..482845	+	407	28572593	-	TW442	-	COG4214G	sugar ABC transporter permease subunit
+482886..483956	+	356	28572594	-	TW443	-	COG4213G	sugar ABC transporter substrate-binding lipoprotein subunit
+484012..484953	+	313	28572595	-	TW444	-	COG1686M	carboxypeptidase
+485059..486129	-	356	28572596	adh	TW445	-	COG1063ER	alcohol dehydrogenase
+486396..487262	+	288	28572597	-	TW446	-	COG0084L	TatD-family DNase
+487545..488229	+	227	28572598	-	TW447	-	COG3889R	hypothetical protein
+488391..488660	+	89	28572599	-	TW449	-	-	hypothetical protein
+488661..489437	-	258	28572600	-	TW450	-	COG1028IQR	short chain dehydrogenase
+489434..490156	-	240	28572601	tatC	TW451	-	COG0805U	sec-independent protein translocase TatC
+490167..490448	-	93	28572602	tatA	TW452	-	COG1826U	sec-independent protein translocase TatA
+490453..491337	-	294	28572603	-	TW453	-	COG0545O	drug-binding lipoprotein
+491355..492323	-	322	28572604	-	TW454	-	COG2519J	hypothetical protein
+492381..493271	+	296	28572605	-	TW455	-	-	hypothetical protein
+493213..494565	-	450	28572606	cysS2	TW456	-	COG0215J	cysteinyl-tRNA synthetase
+494619..495458	-	279	28572607	upk	TW457	-	COG1968V	undecaprenol kinase
+495667..495918	-	83	28572608	rpmE2	TW458	-	COG0254J	50S ribosomal protein L31
+496060..496776	-	238	28572609	fabG	TW459	-	COG1028IQR	3-oxoacyl-ACP reductase
+496780..497955	-	391	28572610	-	TW460	-	COG0438M	glycosyltransferase
+498160..498927	-	255	28572611	-	TW461	-	-	integral membrane protein
+499172..499777	+	201	28572612	def	TW462	-	COG0242J	peptide deformylase
+499790..500608	-	272	28572613	-	TW463	-	COG0682M	prolipoprotein diacylglyceryl transferase
+500720..501478	+	252	28572614	pgl	TW464	-	COG0363G	6-phosphogluconolactonase
+501475..501954	-	159	28572615	ppa1	TW465	-	COG0221C	inorganic pyrophosphatase
+501957..502484	-	175	28572616	-	TW467	-	-	hypothetical protein
+502797..503162	-	121	28572617	-	TW468	-	-	hypothetical protein
+503234..503530	-	98	28572618	secG	TW469	-	COG1314U	preprotein translocase subunit SecG
+503561..504442	-	293	28572619	tpiA	TW470	-	COG0149G	triosephosphate isomerase
+504444..505631	-	395	28572620	pgk	TW471	-	COG0126G	phosphoglycerate kinase
+505638..506651	-	337	28572621	gap	TW472	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+506673..507281	-	202	28572622	sodA	TW473	-	COG0605P	superoxide dismutase
+507366..508325	-	319	28572623	-	TW474	-	COG1481S	hypothetical protein
+508335..510158	-	607	28572624	uvrC	TW475	-	COG0322L	excinuclease ABC subunit C
+510167..513013	-	948	28572625	uvrA	TW476	-	COG0178L	excinuclease ABC subunit A
+513025..515058	-	677	28572626	uvrB	TW477	-	COG0556L	excinuclease ABC subunit B
+515051..515791	-	246	28572627	coaE	TW478	-	COG0237H	dephospho-CoA kinase
+515795..517216	-	473	28572628	rpsA	TW479	-	COG0539J	30S ribosomal protein S1
+517394..518464	-	356	28572629	polA	TW480	-	COG0258L	DNA polymerase I
+518480..519088	-	202	28572630	-	TW481	-	COG3707T	two-component system response regulator
+519320..520735	-	471	28572631	pyk	TW482	-	COG0469G	pyruvate kinase
+520865..521758	-	297	28572632	-	TW483	-	COG0791M	NLP/P60-family protein
+522062..523873	-	603	28572633	dnaG	TW484	-	COG0358L	DNA primase
+523870..525309	-	479	28572634	dgt	TW485	-	COG0232F	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+525319..526068	-	249	28572635	uppS2	TW486	-	COG0020I	undecaprenyl pyrophosphate synthase
+526096..526821	-	241	161501890	recO	TW487	-	COG1381L	DNA repair protein RecO
+526847..527752	-	301	28572637	era	TW488	-	COG1159R	GTP-binding protein Era
+527739..528254	-	171	28572638	-	TW489	-	COG0319R	hypothetical protein
+528251..528574	-	107	28572639	-	TW490	-	COG0537FGR	hypothetical protein
+528610..529317	-	235	28572640	-	TW491	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+529351..530397	-	348	28572641	dnaJ1	TW492	-	COG0484O	molecular chaperone DnaJ
+530842..531444	-	200	28572642	-	TW493	-	COG4762S	hypothetical protein
+531458..533263	-	601	28572643	lepA	TW494	-	COG0481M	GTP-binding protein LepA
+533550..533837	+	95	28572644	rpsT	TW495	-	COG0268J	30S ribosomal protein S20
+533898..536120	-	740	28572645	relA	TW496	-	COG0317TK	GTP pyrophosphokinase
+536344..536976	-	210	28572646	-	TW497	-	-	hypothetical protein
+537313..538281	-	322	28572647	secF	TW498	-	COG0341U	preprotein translocase subunit SecF
+538281..539903	-	540	28572648	secD	TW499	-	COG0342U	preprotein translocase subunit SecD
+539982..540473	-	163	28572649	-	TW500	-	COG1862U	secreted protein
+540495..541490	-	331	28572650	ruvB	TW501	-	COG2255L	Holliday junction DNA helicase RuvB
+541501..542025	-	174	28572651	ruvA	TW502	-	COG0632L	holliday junction DNA helicase RuvA
+542124..542675	-	183	28572652	ruvC	TW503	-	COG0817L	crossover junction endodeoxyribonuclease RuvC
+542666..543424	-	252	28572653	-	TW504	-	COG0217S	hypothetical protein
+543467..544033	-	188	28572654	-	TW505	-	COG0311H	glutamine amidotransferase subunit PdxT
+544033..544896	-	287	28572655	-	TW506	-	COG0214H	pyridoxal biosynthesis lyase PdxS
+544909..545445	-	178	28572656	-	TW507	-	COG0537FGR	hypothetical protein
+545454..547376	-	640	28572657	thrS	TW508	-	COG0441J	threonyl-tRNA synthetase
+547499..548923	+	474	28572658	glnA	TW509	-	COG0174E	glutamine synthetase
+548929..549738	+	269	28572659	panB	TW510	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+549738..550607	+	289	28572660	map	TW511	-	COG0024J	methionine aminopeptidase
+551089..551790	-	233	28572661	-	TW512	-	COG1579R	hypothetical protein
+551783..552622	-	279	28572662	-	TW513	-	COG0327S	hypothetical protein
+552783..553241	-	152	28572663	-	TW514	-	COG1225O	hypothetical protein
+553337..556156	+	939	28572664	aceE	TW515	-	COG2609C	pyruvate dehydrogenase subunit E1
+556140..557159	+	339	28572665	fabD	TW516	-	COG0331I	ACP S-malonyltransferase
+557122..558141	+	339	161501889	fabH	TW517	-	COG0332I	3-oxoacyl-ACP synthase
+558218..558466	+	82	28572667	acpP	TW518	-	COG0236IQ	acyl carrier protein
+558467..559702	+	411	28572668	fabF	TW519	-	COG0304IQ	3-oxoacyl-ACP synthase
+559792..560274	-	160	28572669	-	TW520	-	-	hypothetical protein
+560351..561961	-	536	28572670	qcrB	TW521	-	COG1290C	ubiquinol-cytochrome C reductase cytochrome B subunit
+561961..562944	-	327	28572671	qcrA	TW522	-	COG0723C	ubiquinol-cytochrome C reductase iron-sulfur subunit
+562998..563822	-	274	28572672	qcrC	TW523	-	COG2010C	cytochrome C heme-binding subunit
+563822..564445	-	207	28572673	ctaE	TW524	-	COG1845C	cytochrome c oxidase subunit III
+564534..564953	-	139	28572674	-	TW525	-	-	hypothetical protein
+564974..566605	-	543	28572675	ctaD	TW526	-	COG0843C	cytochrome c oxidase subunit I
+566617..567489	-	290	28572676	ctaC	TW527	-	COG1622C	cytochrome c oxidase subunit II
+567559..567903	-	114	28572677	-	TW528	-	COG0316S	hypothetical protein
+567920..569260	-	446	28572678	-	TW529	-	COG0624E	hypothetical protein
+569392..569913	+	173	28572679	-	TW530	-	-	hypothetical protein
+569929..570414	+	161	28572680	rnhA	TW531	-	COG0328L	ribonuclease H
+570529..571521	-	330	28572681	pyrD	TW532	-	COG0167F	dihydroorotate dehydrogenase 2
+571543..571986	-	147	28572682	nrdR	TW533	-	COG1327K	transcriptional regulator NrdR
+571987..572463	-	158	28572683	-	TW534	-	COG0789K	hypothetical protein
+572506..573183	-	225	28572684	-	TW535	-	COG0789K	hypothetical protein
+573189..573620	-	143	28572685	-	TW536	-	COG1716T	hypothetical protein
+573636..574154	-	172	28572686	-	TW537	-	-	hypothetical protein
+574357..574854	+	165	28572687	-	TW539	-	-	hypothetical protein
+574920..575669	-	249	28572688	ftsQ	TW540	-	COG1589M	cell division protein FtsQ
+575696..577123	-	475	28572689	murC	TW541	-	COG0773M	UDP-N-acetylmuramate--alanine ligase
+577126..578196	-	356	28572690	murG	TW542	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+578196..579308	-	370	28572691	ftsW	TW543	-	COG0772D	cell division protein FtsW
+579308..580750	-	480	28572692	murD	TW544	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+580752..582281	-	509	28572693	murE	TW545	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diami nopimelate ligase
+582278..583387	-	369	28572694	mraY	TW546	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+583384..584778	-	464	28572695	murF	TW547	-	COG0770M	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-- D-alanyl-D-alanyl ligase
+584800..586545	-	581	28572696	pbp	TW548	-	COG0768M	penicillin-binding protein
+586618..587073	-	151	28572697	-	TW549	-	-	hypothetical protein
+587070..588023	-	317	28572698	mraW	TW550	-	COG0275M	S-adenosyl-methyltransferase MraW
+588073..588501	-	142	28572699	mraZ	TW551	-	COG2001S	cell division protein MraZ
+588579..589076	-	165	28572700	-	TW552	-	-	WiSP family protein
+589163..589504	-	113	28572701	-	TW553	-	-	hypothetical protein
+589617..590681	+	354	28572702	-	TW554	-	COG0142H	polyprenyl diphosphate synthase
+590691..592496	+	601	28572703	-	TW555	-	COG0515RTKL	serine/threonine protein kinase
+592766..594133	-	455	28572704	aroH	TW556	-	COG3200E	phospho-2-dehydro-3-deoxyheptonate aldolase
+594117..594782	-	221	28572705	-	TW557	-	COG0204I	acyltransferase
+594860..595777	-	305	28572706	glk	TW558	-	COG1940KG	glucokinase
+595831..598080	-	749	28572707	-	TW559	-	-	WiSP family protein
+598196..598759	-	187	28572708	-	TW560	-	COG1268R	BioY-family membrane protein
+598981..599292	-	103	28572709	-	TW561	-	-	WiSP family protein
+599498..600619	-	373	28572710	-	TW562	-	COG0492O	oxidoreductase
+600620..602062	-	480	28572711	gltX	TW563	-	COG0008J	glutamyl-tRNA synthetase
+602111..603196	-	361	28572712	ilvE	TW564	-	COG0115EH	branched-chain amino acid aminotransferase
+603297..604298	-	333	28572713	ilvC	TW565	-	COG0059EH	ketol-acid reductoisomerase
+604367..604609	-	80	28572714	ilvN	TW566	-	COG0440E	acetohydroxy acid synthase, small subunit
+604602..606347	-	581	28572715	ilvB	TW567	-	COG0028EH	acetolactate synthase 1 catalytic subunit
+606392..608101	-	569	28572716	ilvD	TW568	-	COG0129EG	dihydroxy-acid dehydratase
+616652..617908	-	418	28572717	ksgA	TW569	-	COG0030J	dimethyladenosine transferase
+617905..622575	-	1556	28572718	-	TW570	-	-	WiSP family protein
+623081..623716	-	211	28572719	smpB	TW571	-	COG0691O	SsrA-binding protein
+623728..624639	-	303	28572720	ftsX	TW572	-	COG2177D	cell division protein FtsX
+624654..626954	-	766	28572721	ftsE	TW573	-	COG2884D	cell division ATP-binding protein FtsE
+627148..628278	-	376	28572722	prfB	TW574	-	COG1186J	peptide chain release factor 2
+628384..629523	+	379	28572723	-	TW575	-	COG2271G	integral membrane transport protein
+634418..635638	-	406	28572724	pyrB	TW576	-	COG0540F	aspartate carbamoyltransferase
+644368..644865	-	165	28572725	-	TW577	-	-	hypothetical protein
+644981..645415	-	144	28572726	-	TW578	-	-	membrane/secreted protein
+645415..645834	-	139	28572727	-	TW579	-	COG4961U	hypothetical protein
+645831..646019	-	62	28572728	-	TW580	-	-	hypothetical protein
+646082..646978	-	298	28572729	-	TW581	-	COG2064NU	hypothetical protein
+646975..647859	-	294	28572730	-	TW582	-	COG4965U	hypothetical protein
+647813..649147	-	444	28572731	-	TW583	-	COG4962U	TadA-like protein
+655551..657386	+	611	28572732	-	TW584	-	COG1207M	peptidoglycan synthesis protein
+657383..658429	+	348	28572733	prsA	TW585	-	COG0462FE	ribose-phosphate pyrophosphokinase
+658576..659718	+	380	28572734	ispG	TW586	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+659799..660323	-	174	28572735	-	TW587	-	-	hypothetical protein
+660811..662616	+	601	28572736	proS	TW588	-	COG0442J	prolyl-tRNA synthetase
+662858..666604	-	1248	28572737	mfd	TW589	-	COG1197LK	transcription-repair coupling factor
+667703..669169	-	488	28572738	-	TW590	-	COG0534V	hypothetical protein
+669363..670142	-	259	28572739	-	TW591	-	-	hypothetical protein
+670145..671137	-	330	28572740	-	TW592	-	COG1131V	ABC transporter ATP-binding subunit
+671258..671836	-	192	28572741	-	TW593	-	-	secreted protein
+671969..672631	-	220	28572742	-	TW594	-	COG1136V	ABC transporter ATP-binding protein
+672632..673525	-	297	28572743	-	TW595	-	-	hypothetical protein
+673535..674707	-	390	28572744	-	TW596	-	COG4591M	hypothetical protein
+674949..675440	+	163	28572745	-	TW597	-	-	integral membrane protein
+675726..675839	+	37	28572746	-	TW598	-	-	hypothetical protein
+675851..675955	+	34	28572747	-	TW599	-	-	hypothetical protein
+676009..676287	+	92	28572748	-	TW600	-	-	hypothetical protein
+682344..683117	-	257	28572749	-	TW602	-	-	hypothetical protein
+683275..684690	-	471	28572750	tyrS	TW603	-	COG0162J	tyrosyl-tRNA synthetase
+684889..687774	-	961	28572751	pheT	TW604	-	COG0072J	phenylalanyl-tRNA synthetase beta chain
+687857..688867	-	336	28572752	pheS	TW605	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+689251..689661	-	136	28572753	rplT	TW606	-	COG0292J	50S ribosomal protein L20
+689691..689885	-	64	161501888	rpmI	TW607	-	COG0291J	50S ribosomal protein L35
+689959..690507	-	182	28572755	infC	TW608	-	COG0290J	translation initiation factor IF-3
+691441..693909	-	822	28572756	metT	TW610	-	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+694598..694954	-	118	28572757	-	TW611	-	-	hypothetical protein
+694956..697502	-	848	28572758	-	TW612	-	COG0438M	hypothetical protein
+697504..698094	-	196	28572759	rbfA	TW613	-	COG0858J	ribosome-binding factor A
+698201..700612	-	803	28572760	infB	TW614	-	COG0532J	translation initiation factor IF-2
+700744..701703	-	319	28572761	nusA	TW615	-	COG0195K	transcription elongation factor NusA
+702163..702450	-	95	28572762	-	TW616	-	-	hypothetical protein
+702560..703195	-	211	28572763	-	TW617	-	COG1738S	integral membrane protein
+703479..703958	-	159	28572764	ppa2	TW618	-	COG0221C	inorganic pyrophosphatase
+703961..704488	-	175	28572765	-	TW619	-	-	hypothetical protein
+704564..705778	+	404	28572766	tgt	TW620	-	COG0343J	queuine tRNA-ribosyltransferase
+705782..706750	-	322	28572767	-	TW621	-	COG5373S	proline/alanine-rich repetetive membrane anchored protein
+707270..708502	-	410	28572768	-	TW622	-	COG0791M	NLP/P60 family secreted protein
+709006..709233	-	75	28572769	-	TW623	-	-	hypothetical protein
+709750..710373	-	207	28572770	-	TW624	-	-	hypothetical protein
+710513..712633	-	706	28572771	-	TW625	-	-	WiSP family protein
+712844..713704	-	286	28572772	miaA	TW626	-	COG0324J	tRNA delta (2)-isopentenylpyrophosphate transferase
+713825..715237	-	470	28572773	-	TW627	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+715252..716565	-	437	28572774	recA	TW628	-	COG0468L	recombinase A
+716760..717365	-	201	28572775	pgsA	TW629	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+717488..717835	-	115	28572776	-	TW630	-	-	hypothetical protein
+717893..720118	-	741	28572777	-	TW631	-	COG1674D	DNA translocase FtsK
+720115..721752	-	545	28572778	-	TW632	-	COG0595R	hypothetical protein
+721883..722605	-	240	28572779	thyX	TW633	-	COG1351F	FAD-dependent thymidylate synthase
+722670..723827	-	385	28572780	-	TW634	-	COG3889R	hypothetical protein
+724543..724776	+	77	28572781	-	TW636	-	-	WhiB family regulatory protein
+725478..725921	-	147	28572782	-	TW637	-	-	hypothetical protein
+725920..726630	+	236	28572783	-	TW638	-	COG0586S	hypothetical protein
+726584..727165	-	193	28572784	-	TW639	-	COG0127F	hypothetical protein
+727191..727961	-	256	28572785	rph	TW640	-	COG0689J	ribonuclease PH
+727985..729313	+	442	28572786	-	TW641	-	COG1488H	nicotinate phosphoribosyltransferase
+729543..731694	-	716	28572787	-	TW642	-	-	WiSP family protein
+731763..733025	-	420	28572788	-	TW643	-	COG0265O	hypothetical protein
+733276..736152	-	958	28572789	-	TW644	-	COG1615S	integral membrane protein
+736186..737220	-	344	28572790	-	TW645	-	COG3480T	secreted protein
+737310..738668	-	452	28572791	pdhD	TW646	-	COG1249C	mycothione reductase
+738673..742068	-	1131	28572792	pyc	TW647	-	COG1038C	pyruvate carboxylase
+742132..742905	+	257	28572793	parA2	TW648	-	COG1192D	chromosome partitioning protein
+742928..743734	-	268	28572794	-	TW649	-	-	hypothetical protein
+743942..745456	-	504	28572795	-	TW651	-	COG3920T	histidine kinase
+746050..747348	-	432	28572796	gabT	TW652	-	COG0160E	4-aminobutyrate aminotransferase
+747349..748224	-	291	28572797	folD	TW653	-	COG0190H	methylenetetrahydrofolate dehydrogenase; methenyltetrahydrofolate cyclohydrolase
+748409..749695	-	428	28572798	glyA	TW655	-	COG0112E	serine hydroxymethyltransferase
+749768..750331	-	187	28572799	-	TW656	-	COG0742L	hypothetical protein
+750975..751340	-	121	28572800	gcvH	TW658	-	COG0509E	glycine cleavage system H protein
+751396..752466	-	356	28572801	gcvT	TW659	-	COG0404E	glycine cleavage system protein T
+752772..753806	-	344	28572802	-	TW661	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+753874..755175	+	433	28572803	-	TW662	-	COG1322S	secreted protein
+755247..755717	-	156	28572804	-	TW663	-	-	hypothetical protein
+755714..756655	-	313	28572805	ispH	TW664	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+756796..758010	+	404	28572806	xseA	TW665	-	COG1570L	exodeoxyribonuclease VII large subunit
+758059..758424	+	121	28572807	xseB	TW666	-	COG1722L	exodeoxyribonuclease VII small subunit
+758459..759691	-	410	28572808	-	TW667	-	COG2271G	integral membrane sugar transport protein
+760086..761030	-	314	28572809	-	TW668	-	COG0524G	PfkB-family carbohydrate kinase.
+761023..761682	-	219	28572810	sgaE	TW669	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+761688..762542	-	284	28572811	sgaU	TW670	-	COG3623G	L-xylulose 5-phosphate 3-epimerase
+762568..763248	-	226	28572812	ulaD	TW671	-	COG0269G	3-keto-L-gulonate-6-phosphate decarboxylase
+763248..764228	-	326	28572813	-	TW672	-	COG1735R	hypothetical protein
+764591..765151	-	186	28572814	pth	TW673	-	COG0193J	peptidyl-tRNA hydrolase
+765382..766143	-	253	28572815	-	TW674	-	-	hypothetical protein
+766167..766376	-	69	28572816	-	TW675	-	-	hypothetical protein
+766453..766824	+	123	28572817	-	TW676	-	-	integral membrane protein
+766845..767408	-	187	28572818	rplY	TW677	-	COG1825J	50S ribosomal protein L25
+767545..768210	-	221	28572819	pgm	TW678	-	COG0588G	phosphoglycerate mutase
+768256..769221	-	321	28572820	-	TW679	-	COG0354R	hypothetical protein
+769353..769517	-	54	28572821	-	TW680	-	-	hypothetical protein
+769550..770104	-	184	28572822	-	TW681	-	COG4243S	integral membrane protein
+770211..771188	+	325	28572823	-	TW682	-	COG0456R	acetyltransferase
+771236..772135	+	299	28572824	-	TW683	-	COG2062T	hypothetical protein
+772508..773119	+	203	28572825	mscL	TW684	-	COG1970M	large-conductance mechanosensitive channel
+773383..774351	+	322	28572826	-	TW685	-	COG0803P	ABC-transporter periplasmic solute-binding subunit
+774394..775203	+	269	28572827	-	TW686	-	COG1121P	ABC transporter ATP-binding subunit
+775284..776138	+	284	28572828	-	TW687	-	COG1108P	ABC transporter integral membrane subunit
+776233..778524	+	763	28572829	-	TW688	-	-	WiSP family protein
+778689..779474	-	261	28572830	-	TW689	-	-	integral membrane protein
+779537..780148	+	203	28572831	-	TW690	-	COG0212H	hypothetical protein
+780347..783865	-	1172	28572832	-	TW691	-	COG1112L	hypothetical protein
+784091..786109	+	672	28572833	-	TW692	-	COG0531E	hypothetical protein
+786619..787059	+	146	28572834	-	TW693	-	-	integral membrane protein
+787370..789475	-	701	28572835	fusA	TW694	-	COG0480J	elongation factor G
+789511..789981	-	156	28572836	rpsG	TW695	-	COG0049J	30S ribosomal protein S7
+789981..790355	-	124	28572837	rpsL	TW696	-	COG0048J	30S ribosomal protein S12
+790518..790790	+	90	28572838	-	TW697	-	-	hypothetical protein
+791029..791394	+	121	28572839	-	TW698	-	-	hypothetical protein
+791384..791872	+	162	28572840	greA	TW699	-	COG0782K	transcription elongation factor GreA
+791981..793264	-	427	28572841	tdcB	TW700	-	COG1171E	threonine dehydratase
+793275..794258	-	327	28572842	nrdF	TW701	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+794354..796732	-	792	28572843	-	TW702	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+796846..798072	+	408	28572844	-	TW703	-	COG2814G	hypothetical protein
+798257..799102	+	281	28572845	-	TW704	-	COG0708L	exodeoxyribonuclease
+799092..800099	+	335	28572846	trpS	TW705	-	COG0180J	tryptophanyl-tRNA synthetase
+800071..801186	+	371	28572847	ribD	TW706	-	COG1985H	riboflavin biosynthesis protein RibD
+801190..801903	+	237	161501887	ribE	TW707	-	COG0307H	riboflavin synthase subunit alpha
+801930..802577	+	215	28572849	ribB	TW708	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+802594..803229	+	211	28572850	ribA	TW709	-	COG0807H	GTP cyclohydrolase II
+803253..803723	+	156	28572851	ribH	TW710	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+803796..804407	-	203	28572852	pncA	TW711	-	COG1335Q	pyrazinamidase/nicotinamidase
+804753..806291	-	512	28572853	-	TW712	-	-	secreted proteinase
+806432..807667	-	411	28572854	-	TW713	-	COG0470L	DNA polymerase
+807832..808431	-	199	28572855	-	TW714	-	COG0125F	nucleotide kinase
+808491..811016	-	841	28572856	topA	TW715	-	COG0550L	DNA topoisomerase I
+811077..811487	-	136	28572857	-	TW716	-	-	hypothetical protein
+811484..811840	-	118	28572858	-	TW717	-	COG4961U	hypothetical protein
+811842..812048	-	68	28572859	-	TW718	-	-	hypothetical protein
+812076..813008	-	310	28572860	-	TW719	-	-	integral membrane protein
+812993..813937	-	314	28572861	-	TW720	-	COG4962U	TadA-like protein
+814114..814572	-	152	28572862	-	TW721	-	COG0251J	hypothetical protein
+815134..817764	+	876	28572863	-	TW722	-	COG0744M	penicillin-binding protein/transpeptidase
+817873..818757	+	294	28572864	-	TW723	-	COG1408R	secreted protein
+819127..820140	-	337	28572865	asd	TW724	-	COG0136E	aspartate-semialdehyde dehydrogenase
+820137..821393	-	418	28572866	lysC	TW725	-	COG0527E	aspartate kinase
+821589..822185	-	198	28572867	recR	TW726	-	COG0353L	recombination protein RecR
+822194..823762	-	522	28572868	dnaX	TW727	-	COG2812L	DNA polymerase III subunits gamma and tau
+823996..824376	-	126	28572869	rplL	TW728	-	COG0222J	50S ribosomal protein L7/L12
+824388..824888	-	166	28572870	rplJ	TW729	-	COG0244J	50S ribosomal protein L10
+825023..825706	-	227	28572871	rplA	TW730	-	COG0081J	50S ribosomal protein L1
+825703..826128	-	141	28572872	rplK	TW731	-	COG0080J	50S ribosomal protein L11
+826165..826782	-	205	28572873	nusG	TW732	-	COG0250K	transcription antitermination protein NusG
+827185..828399	+	404	28572874	aspC	TW733	-	COG0436E	aspartate aminotransferase
+828402..829457	-	351	28572875	murB	TW734	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+829742..830185	-	147	28572876	-	TW735	-	COG2030I	hypothetical protein
+830331..830753	-	140	28572877	-	TW736	-	COG2030I	hypothetical protein
+831128..832588	-	486	28572878	purF	TW737	-	COG0034F	amidophosphoribosyltransferase
+832699..833712	-	337	28572879	purM	TW738	-	COG0150F	phosphoribosylaminoimidazole synthetase
+834385..835644	+	419	28572880	purD	TW739	-	COG0151F	phosphoribosylamine--glycine ligase
+835755..837008	+	417	28572881	serS	TW740	-	COG0172J	seryl-tRNA synthetase
+837031..837822	+	263	28572882	-	TW741	-	COG0561R	hypothetical protein
+838028..839191	+	387	28572883	-	TW742	-	COG1316K	hypothetical protein
+839366..840766	-	466	28572884	hemL	TW743	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+840770..841741	-	323	28572885	hemB	TW744	-	COG0113H	delta-aminolevulinic acid dehydratase
+841752..842477	-	241	28572886	-	TW745	-	COG1587H	porphyrin biosynthesis protein
+842474..843439	-	321	28572887	hemC	TW746	-	COG0181H	porphobilinogen deaminase
+843450..844625	-	391	28572888	hemH	TW747	-	COG0276H	ferrochelatase
+844622..845269	-	215	28572889	-	TW748	-	COG3253S	hypothetical protein
+845400..846557	-	385	28572890	hemE	TW749	-	COG0407H	uroporphyrinogen decarboxylase
+846577..847920	+	447	28572891	hemA	TW750	-	COG0373H	glutamyl-tRNA reductase
+847917..849119	+	400	28572892	-	TW751	-	COG4948MR	O-succinylbenzoate synthase
+849132..850457	+	441	28572893	dnaB	TW752	-	COG0305L	replicative DNA helicase
+850732..851337	+	201	28572894	-	TW753	-	COG2372R	hypothetical protein
+851640..852425	+	261	28572895	nagD	TW754	-	COG0647G	N-acetylglucosamine-6-phosphate deacetylase
+852422..853066	-	214	28572896	pyrE	TW755	-	COG0461F	orotate phosphoribosyltransferase
+853087..853896	+	269	28572897	xthA1	TW756	-	COG0708L	exodeoxyribonuclease III
+853877..854614	-	245	28572898	-	TW757	-	-	hypothetical protein
+854662..856761	-	699	28572899	clpB	TW758	-	COG0542O	heat shock protein ClpB
+856754..857146	-	130	28572900	hspR	TW759	-	COG0789K	heat shock regulator protein HspR
+857155..858018	-	287	28572901	dnaJ2	TW760	-	COG0484O	molecular chaperone DnaJ
+858011..858580	-	189	28572902	grpE	TW761	-	COG0576O	heat shock protein GrpE
+858605..860416	-	603	28572903	dnaK	TW762	-	COG0443O	molecular chaperone DnaK
+860629..861141	+	170	28572904	-	TW763	-	COG0590FJ	hypothetical protein
+861255..862145	+	296	28572905	proC	TW764	-	COG0345E	pyrroline-5-carboxylate reductase
+862538..862864	+	108	28572906	-	TW765	-	-	hypothetical protein
+862885..864183	-	432	28572907	aspS	TW766	-	COG0017J	aspartyl-tRNA synthetase
+864255..864863	+	202	28572908	-	TW767	-	COG0406G	phosphoglycerate mutase
+864901..865533	+	210	28572909	-	TW768	-	COG0526OC	lipoprotein
+865758..866444	+	228	28572910	ccdA	TW769	-	COG0785O	cytochrome c-type biogenesis protein CcdA
+866473..868056	+	527	28572911	-	TW770	-	COG1333O	integral membrane protein
+868063..869034	+	323	28572912	-	TW771	-	COG0755O	cytochrome biogenesis protein
+869029..871320	-	763	28572913	-	TW772	-	-	WiSP family protein
+871415..871729	-	104	28572914	-	TW773	-	COG1108P	hypothetical protein
+871798..872406	-	202	28572915	-	TW774	-	-	WiSP family protein
+872789..874540	+	583	28572916	metG	TW775	-	COG0143J	methionyl-tRNA synthetase
+875052..881462	-	2136	28572917	-	TW776	-	-	WiSP family protein
+881548..882351	-	267	28572918	-	TW777	-	COG0463M	glycosyl transferase
+882521..882823	+	100	28572919	-	TW778	-	-	hypothetical protein
+882892..883335	-	147	28572920	-	TW779	-	-	hypothetical protein
+883348..883710	-	120	28572921	-	TW780	-	-	secreted protein
+883834..885900	-	688	28572922	-	TW781	-	COG3590O	peptidase
+885973..886731	+	252	28572923	-	TW782	-	COG0546R	hydrolase
+887009..887890	+	293	28572924	-	TW783	-	COG0863L	DNA methylase
+888171..888836	+	221	28572925	-	TW784	-	COG1716T	hypothetical protein
+889052..889501	+	149	28572926	-	TW785	-	COG1716T	secreted protein
+889664..891010	+	448	28572927	-	TW786	-	COG0772D	FtsW/RodA/SpoVE family cell cycle protein
+891053..892510	+	485	28572928	-	TW787	-	COG0768M	penicillin-binding protein
+892514..894271	+	585	28572929	-	TW788	-	COG0515RTKL	serine/threonine-protein kinase
+894276..895928	+	550	28572930	-	TW789	-	COG2815S	serine/threonine-protein kinase
+896339..897667	-	442	28572931	-	TW790	-	COG1252C	NADH dehydrogenase
+897747..898235	-	162	28572932	-	TW791	-	COG1507S	hypothetical protein
+898237..898647	-	136	28572933	-	TW792	-	COG2919D	secreted protein
+898644..899930	-	428	28572934	eno	TW793	-	COG0148G	phosphopyruvate hydratase
+900245..901525	-	426	28572935	hisS	TW794	-	COG0124J	histidyl-tRNA synthetase
+901522..902679	-	385	28572936	-	TW795	-	COG3004P	sodium/proton antiporter
+902676..903266	-	196	28572937	dcd	TW796	-	COG0717F	deoxycytidine triphosphate deaminase
+903614..904936	-	440	28572938	pdhC	TW797	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+904954..905958	-	334	28572939	pdhB	TW798	-	COG0022C	pyruvate dehydrogenase E1 component, beta subunit
+905955..907067	-	370	28572940	pdhA	TW799	-	COG1071C	pyruvate dehydrogenase E1 component, alpha subunit
+907280..908725	+	481	28572941	purB	TW800	-	COG0015F	adenylosuccinate lyase
+908787..910076	+	429	28572942	purA	TW801	-	COG0104F	adenylosuccinate synthetase
+910180..910497	+	105	28572943	-	TW802	-	COG1605E	chorismate mutase
+910537..912819	-	760	28572944	purL	TW803	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+912816..913088	-	90	28572945	-	TW804	-	-	hypothetical protein
+913300..913980	-	226	28572946	purQ	TW805	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+913984..914232	-	82	28572947	-	TW806	-	COG1828F	hypothetical protein
+914410..915627	+	405	28572948	-	TW807	-	COG0438M	glycosyltransferase
+915642..916367	-	241	28572949	-	TW808	-	COG2120S	hypothetical protein
+916433..917989	+	518	28572950	-	TW809	-	COG0728R	integral membrane virulence protein
+918020..919456	+	478	28572951	-	TW810	-	COG0617J	RNA nucleotidyltransferase
+919509..920384	-	291	28572952	parB	TW811	-	COG1475K	chromosome partitioning protein ParB
+920395..921297	-	300	28572953	parA1	TW812	-	COG1192D	chromosome partitioning protein ParA
+921486..923636	-	716	28572954	-	TW813	-	COG2217P	metal cation-transporting ATPase
+923696..924196	-	166	28572955	-	TW814	-	COG1847R	hypothetical protein
+924201..925133	-	310	28572956	-	TW815	-	COG0706U	inner membrane protein translocase component YidC
+925126..925404	-	92	28572957	-	TW816	-	COG0759S	hypothetical protein
+925397..925735	-	112	28572958	rnpA	TW817	-	COG0594J	ribonuclease P protein component

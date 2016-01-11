@@ -1,0 +1,660 @@
+Mycoplasma hyopneumoniae J chromosome, complete genome - 1..897405
+657 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+198..1598	+	466	71893360	dnaA	MHJ_0001	-	COG0593L	chromosome replication initiator DnaA
+1743..2879	+	378	71893361	dnaN	MHJ_0002	-	COG0592L	DNA polymerase III subunit beta
+3010..4842	+	610	71893362	gidA	MHJ_0003	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+4854..5300	+	148	71893363	-	MHJ_0004	-	COG1576S	hypothetical protein
+5314..6297	+	327	71893364	-	MHJ_0005	-	COG0618R	MgpA like-protein
+6299..7261	+	320	71893365	-	MHJ_0006	-	COG0618R	DHH family phosphoesterase
+7289..7933	+	214	71893366	-	MHJ_0007	-	COG3600S	hypothetical protein
+8023..9024	+	333	71893367	ftsY	MHJ_0008	-	COG0552U	cell division protein ftsY
+9190..11214	+	674	71893368	-	MHJ_0009	-	COG0595R	hypothetical protein
+11299..12306	+	335	71893369	hrcA	MHJ_0010	-	COG1420K	heat-inducible transcription repressor
+12303..13055	+	250	71893370	grpE	MHJ_0011	-	COG0576O	heat shock protein
+13039..14643	+	534	71893371	argS	MHJ_0012	-	COG0018J	arginyl-tRNA synthetase
+14648..14893	+	81	71893372	-	MHJ_0013	-	COG3343K	hypothetical protein
+14966..15829	+	287	71893373	fba	MHJ_0014	-	COG0191G	fructose-bisphosphate aldolase
+15836..16681	+	281	71893374	rluC	MHJ_0015	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+16715..17026	-	103	71893375	-	MHJ_0016	-	-	hypothetical protein
+17416..17658	-	80	71893376	-	MHJ_0017	-	COG1136V	hypothetical protein
+17804..20071	-	755	71893377	-	MHJ_0018	-	COG1136V	ABC transporter ATP-binding protein
+20265..22505	-	746	71893378	-	MHJ_0019	-	COG1136V	ABC transporter ATP-binding protein
+22579..24906	-	775	71893379	-	MHJ_0020	-	COG1136V	ABC transporter ATP-binding protein
+24893..25570	-	225	71893380	-	MHJ_0021	-	-	hypothetical protein
+26074..26514	+	146	71893381	sipS	MHJ_0022	-	COG4959OU	signal peptidase I
+26677..27009	+	110	71893382	gatC	MHJ_0023	-	COG0721J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit
+26999..28321	+	440	71893383	gatA	MHJ_0024	-	COG0154J	amidase
+28314..29714	+	466	71893384	gatB	MHJ_0025	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+29945..30454	+	169	71893385	-	MHJ_0026	-	-	hypothetical protein
+30571..31098	-	175	71893386	lsp	MHJ_0027	-	COG0597MU	lipoprotein signal peptidase
+31142..33805	-	887	71893387	ileS	MHJ_0028	-	COG0060J	isoleucyl-tRNA synthetase
+33802..36342	-	846	71893388	parC	MHJ_0029	-	COG0188L	DNA topoisomerase IV subunit A
+36335..38263	-	642	71893389	parE	MHJ_0030	-	COG0187L	topoisomerase IV subunit B
+38473..39483	+	336	71893390	gap	MHJ_0031	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+39582..41576	+	664	71893391	-	MHJ_0032	-	-	hypothetical protein
+41677..43755	-	692	71893392	vacB	MHJ_0033	-	COG0557K	VACB-like ribonuclease II
+44054..45592	-	512	71893393	cls	MHJ_0034	-	COG1502I	cardiolipin synthetase
+45597..46586	-	329	71893394	recA	MHJ_0035	-	COG0468L	recombinase A
+46817..47572	+	251	71893395	licA	MHJ_0036	-	COG0510M	PTS system lichenan-specific transporter subunit IIA
+47574..48833	+	419	71893396	obgE	MHJ_0037	-	COG0536R	GTPase ObgE
+48936..49289	+	117	71893397	-	MHJ_0038	-	-	hypothetical protein
+49293..50501	+	402	71893398	-	MHJ_0039	-	-	hypothetical protein
+50503..50928	+	141	71893399	-	MHJ_0040	-	-	hypothetical protein
+50955..52130	+	391	71893400	dinP	MHJ_0041	-	COG0389L	DNA polymerase IV
+52135..52566	+	143	71893401	-	MHJ_0042	-	-	hypothetical protein
+52563..53294	+	243	71893402	atpB	MHJ_0043	-	COG0356C	ATP synthase F0F1 subunit A
+53322..53627	+	101	71893403	atpE	MHJ_0044	-	COG0636C	ATP synthase F0F1 subunit C
+53657..54247	+	196	71893404	atpF	MHJ_0045	-	COG0711C	ATP synthase subunit B
+54253..54810	+	185	71893405	atpH	MHJ_0046	-	COG0712C	ATP synthase F0F1 subunit delta
+54826..56352	+	508	71893406	atpA-1	MHJ_0047	-	COG0056C	ATP synthase F0F1 subunit alpha
+56381..57211	+	276	71893407	atpG	MHJ_0048	-	COG0224C	ATP synthase subunit gamma
+57229..58644	+	471	71893408	atpD	MHJ_0049	-	COG0055C	ATP synthase F0F1 subunit beta
+59000..59485	+	161	71893409	recU	MHJ_0050	-	COG3331R	Holliday junction-specific endonuclease
+59762..60664	+	300	71893410	rpsB	MHJ_0051	-	COG0052J	30S ribosomal protein S2
+60695..61606	+	303	71893411	tsf	MHJ_0052	-	COG0264J	elongation factor Ts
+61691..63013	+	440	71893412	ffh	MHJ_0053	-	COG0541U	signal recognition particle protein
+63038..64408	+	456	71893413	glyS	MHJ_0054	-	COG0423J	glycyl-tRNA synthetase
+64401..66242	+	613	71893414	dnaG	MHJ_0055	-	COG0358L	DNA primase
+66824..68293	+	489	71893415	rpoD	MHJ_0056	-	COG0568K	RNA polymerase sigma factor
+68300..69073	+	257	71893416	-	MHJ_0057	-	COG0327S	hypothetical protein
+69067..69897	+	276	71893417	nfo	MHJ_0058	-	COG0648L	endonuclease IV
+69913..71157	+	414	71893418	tyrS	MHJ_0059	-	COG0162J	tyrosyl tRNA synthetase
+71564..75931	+	1455	71893419	-	MHJ_0060	-	COG1112L	hypothetical protein
+76174..78882	+	902	71893420	-	MHJ_0061	-	-	hypothetical protein
+78940..80457	-	505	71893421	uvrC	MHJ_0062	-	COG0322L	excinuclease ABC subunit C
+81104..82906	+	600	71893422	dnaK	MHJ_0063	-	COG0443O	molecular chaperone DnaK
+83117..84241	+	374	71893423	dnaJ	MHJ_0064	-	COG0484O	molecular chaperone DnaJ
+84300..84989	+	229	71893424	cmk	MHJ_0065	-	COG0283F	cytidylate kinase
+85004..86308	+	434	71893425	engA	MHJ_0066	-	COG1160R	GTP-binding protein EngA
+86342..86632	+	96	71893426	himA	MHJ_0067	-	COG0776L	nucleoid DNA-binding protein
+86635..86865	+	76	71893427	-	MHJ_0068	-	-	hypothetical protein
+86866..88662	+	598	71893428	lepA	MHJ_0069	-	COG0481M	GTP-binding protein LepA
+88724..89680	+	318	71893429	-	MHJ_0070	-	-	hypothetical protein
+89995..92082	-	695	71893430	fusA	MHJ_0071	-	COG0480J	elongation factor G
+92092..92562	-	156	71893431	rpsG	MHJ_0072	-	COG0049J	30S ribosomal protein S7
+92614..93033	-	139	71893432	rpsL	MHJ_0073	-	COG0048J	30S ribosomal protein S12
+93164..93544	-	126	71893433	-	MHJ_0074	-	-	hypothetical protein
+93548..94039	-	163	71893434	-	MHJ_0075	-	-	hypothetical protein
+94051..94533	-	160	71893435	-	MHJ_0076	-	-	hypothetical protein
+94816..96162	+	448	71893436	-	MHJ_0077	-	COG0531E	amino acid permease
+96377..97759	+	460	71893437	nox	MHJ_0078	-	COG0446R	NADH oxidase
+97947..99230	-	427	71893438	deoA	MHJ_0079	-	COG0213F	thymidine phosphorylase
+99235..99933	-	232	71893439	deoD	MHJ_0080	-	COG0813F	purine-nucleoside phosphorylase
+100022..100492	-	156	71893440	-	MHJ_0081	-	-	hypothetical protein
+100649..103600	-	983	161611224	secA	MHJ_0082	-	COG0653U	preprotein translocase subunit SecA
+104867..105685	+	272	71893442	rbgA	MHJ_0083	-	COG1161R	ribosomal biogenesis GTPase
+105969..107405	-	478	71893443	-	MHJ_0084	-	-	hypothetical protein
+107443..109581	-	712	71893444	-	MHJ_0085	-	COG1404O	subtilisin-like serine protease
+109801..110076	+	91	71893445	-	MHJ_0086	-	-	hypothetical protein
+110173..111066	+	297	71893446	-	MHJ_0087	-	-	hypothetical protein
+111446..114259	-	937	71893447	uvrA	MHJ_0088	-	COG0178L	excinuclease ABC subunit A
+114282..116720	-	812	71893448	-	MHJ_0089	-	COG0595R	hypothetical protein
+116928..117287	-	119	71893449	-	MHJ_0090	-	-	hypothetical protein
+117398..118981	+	527	71893450	-	MHJ_0091	-	COG4487S	hypothetical protein
+119004..119591	-	195	71893451	-	MHJ_0092	-	COG4508S	hypothetical protein
+119960..120454	+	164	71893452	tpx	MHJ_0093	-	COG2077O	thiol peroxidase
+121028..121966	+	312	71893453	lgt	MHJ_0094	-	COG0682M	prolipoprotein diacylglyceryl transferase
+122125..123042	+	305	71893454	trxB	MHJ_0095	-	COG0492O	thioredoxin reductase
+123067..126501	+	1144	71893455	-	MHJ_0096	-	-	outer membrane protein - P95
+126600..129440	+	946	71893456	-	MHJ_0097	-	-	hypothetical protein
+129445..131628	-	727	71893457	clpB	MHJ_0098	-	COG0542O	ATP-dependent protease binding protein
+131706..132434	+	242	71893458	tpiA	MHJ_0099	-	COG0149G	triosephosphate isomerase
+132553..132819	+	88	71893459	rpsO	MHJ_0100	-	COG0184J	30S ribosomal protein S15
+136543..137142	-	199	71893460	-	MHJ_0103	-	-	hypothetical protein
+137369..140218	-	949	71893461	-	MHJ_0104	-	-	protein P102
+140239..143355	-	1038	71893462	-	MHJ_0105	-	-	protein P97
+143633..145552	-	639	71893463	gyrB	MHJ_0106	-	COG0187L	DNA gyrase subunit B
+146026..146994	-	322	71893464	pfkA	MHJ_0107	-	COG0205G	6-phosphofructokinase
+147439..148662	+	407	71893465	-	MHJ_0108	-	-	hypothetical protein
+148726..150336	+	536	71893466	-	MHJ_0109	-	COG0531E	amino acid permease
+150355..150864	+	169	71893467	apt	MHJ_0110	-	COG0503F	adenine phosphoribosyltransferase
+151054..152178	+	374	71893468	pdhA	MHJ_0111	-	COG1071C	pyruvate dehydrogenase E1-alpha subunit
+152178..153182	+	334	71893469	pdhB	MHJ_0112	-	COG0022C	pyruvate dehydrogenase
+154016..154843	+	275	71893470	-	MHJ_0113	-	-	hypothetical protein
+154852..155601	+	249	71893471	-	MHJ_0114	-	-	hypothetical protein
+155691..156134	-	147	71893472	-	MHJ_0115	-	COG1858P	hypothetical protein
+156385..157257	+	290	71893473	-	MHJ_0116	-	-	hypothetical protein
+157262..157927	+	221	71893474	-	MHJ_0117	-	-	hypothetical protein
+158092..158286	-	64	71893475	rpmB	MHJ_0118	-	COG0227J	50S ribosomal protein L28
+158342..158695	-	117	71893476	rplT	MHJ_0119	-	COG0292J	50S ribosomal protein L20
+158740..158934	-	64	161611223	rpmI	MHJ_0120	-	COG0291J	50S ribosomal protein L35
+158927..159583	-	218	71893478	infC	MHJ_0121	-	COG0290J	translation initiation factor IF-3
+159810..161237	-	475	71893479	pyk	MHJ_0122	-	COG0469G	pyruvate kinase
+161342..162145	-	267	71893480	-	MHJ_0123	-	-	hypothetical protein
+162190..162483	+	97	71893481	-	MHJ_0124	-	-	hypothetical protein
+162512..163582	-	356	71893482	-	MHJ_0125	-	COG1363G	aminopeptidase
+163634..164302	-	222	71893483	ung	MHJ_0126	-	COG0692L	uracil-DNA glycosylase
+164443..164742	+	99	71893484	rplU	MHJ_0127	-	COG0261J	50S ribosomal protein L21
+164751..165005	+	84	71893485	rpmA	MHJ_0128	-	COG0211J	50S ribosomal protein L27
+165262..166059	-	265	71893486	lip2	MHJ_0129	-	COG0596R	lipase/esterase
+166362..167441	+	359	71893487	-	MHJ_0131	-	COG1284S	hypothetical protein
+167674..169113	+	479	71893488	-	MHJ_0132	-	COG2814G	hexosephosphate transport protein
+169238..170185	+	315	71893489	ldh	MHJ_0133	-	COG0039C	L-lactate dehydrogenase
+170434..173385	+	983	71893490	-	MHJ_0134	-	-	hypothetical protein
+173453..174538	+	361	71893491	prfA	MHJ_0135	-	COG0216J	peptide chain release factor 1
+174531..175241	+	236	71893492	hemK	MHJ_0136	-	COG2890J	protoporphirogen oxidase
+175299..176705	+	468	71893493	gltX	MHJ_0137	-	COG0008J	glutamyl-tRNA synthetase
+176720..177115	+	131	71893494	-	MHJ_0138	-	-	hypothetical protein
+177192..177632	+	146	71893495	-	MHJ_0139	-	COG0219J	tRNA/rRNA methyltransferase
+177628..178377	+	249	71893496	-	MHJ_0140	-	COG0566J	tRNA/rRNA methyltransferase
+178523..179122	+	199	71893497	-	MHJ_0141	-	COG2059P	chromate transport protein
+179106..179756	+	216	71893498	-	MHJ_0142	-	COG2059P	chromate transport protein
+179766..180578	+	270	71893499	-	MHJ_0143	-	-	hypothetical protein
+180594..181829	+	411	71893500	-	MHJ_0144	-	COG1281O	hypothetical protein
+182043..183422	+	459	71893501	tig	MHJ_0145	-	COG0544O	trigger factor
+183472..183990	-	172	71893502	-	MHJ_0146	-	-	hypothetical protein
+184003..184641	-	212	71893503	rpe	MHJ_0147	-	COG0036G	ribulose-phosphate 3-epimerase
+184634..185491	-	285	71893504	-	MHJ_0148	-	COG1162R	hypothetical protein
+185492..186085	-	197	71893505	gmk	MHJ_0149	-	COG0194F	guanylate kinase
+186066..186626	-	186	71893506	-	MHJ_0150	-	COG0742L	DNA methylase
+186653..187333	-	226	71893507	-	MHJ_0151	-	COG1381L	hypothetical protein
+187813..188694	-	293	71893508	era	MHJ_0152	-	COG1159R	GTP-binding protein Era
+188701..189096	-	131	71893509	cdd	MHJ_0153	-	COG0295F	cytidine deaminase
+189096..189548	-	150	71893510	-	MHJ_0154	-	COG0319R	hypothetical protein
+189566..189919	-	117	71893511	-	MHJ_0155	-	-	hypothetical protein
+189921..191960	-	679	71893512	-	MHJ_0156	-	COG2274V	ABC transporter ATP-binding and permease
+192038..193234	+	398	71893513	deoB	MHJ_0157	-	COG1015G	phosphopentomutase
+193562..194161	+	199	71893514	-	MHJ_0158	-	COG0781K	hypothetical protein
+194595..195308	+	237	71893515	tlyA	MHJ_0159	-	COG1189J	haemolysin
+195301..196446	+	381	71893516	nifS	MHJ_0160	-	COG0520E	nitrogen fixation protein
+196436..196867	+	143	71893517	-	MHJ_0161	-	COG0822C	hypothetical protein
+196857..197570	+	237	71893518	rluB	MHJ_0162	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+197779..198141	-	120	71893519	rplQ	MHJ_0163	-	COG0203J	50S ribosomal protein L17
+198144..199142	-	332	71893520	rpoA	MHJ_0164	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+199149..199553	-	134	71893521	rpsK	MHJ_0165	-	COG0100J	30S ribosomal protein S11
+199556..199969	-	137	71893522	rpsM	MHJ_0166	-	COG0099J	30S ribosomal protein S13
+200115..200228	-	37	71893523	rpmJ	MHJ_0167	-	-	50S ribosomal protein L36
+200273..200491	-	72	71893524	infA	MHJ_0168	-	COG0361J	translation initiation factor IF-1
+200501..201253	-	250	71893525	map	MHJ_0169	-	COG0024J	methionine aminopeptidase
+201244..201882	-	212	71893526	adk	MHJ_0170	-	COG0563F	adenylate kinase
+201928..203349	-	473	71893527	secY	MHJ_0171	-	COG0201U	preprotein translocase subunit SecY
+203349..203786	-	145	71893528	rplO	MHJ_0172	-	COG0200J	50S ribosomal protein L15
+203905..204555	-	216	71893529	rpsE	MHJ_0173	-	COG0098J	30S ribosomal protein S5
+204557..204925	-	122	71893530	rplR	MHJ_0174	-	COG0256J	50S ribosomal protein L18
+204925..205464	-	179	71893531	rplF	MHJ_0175	-	COG0097J	50S ribosomal protein L6
+205471..205866	-	131	71893532	rpsH	MHJ_0176	-	COG0096J	30S ribosomal protein S8
+205872..206057	-	61	71893533	rpsN	MHJ_0177	-	COG0199J	30S ribosomal protein S14
+206104..206646	-	180	71893534	rplE	MHJ_0178	-	COG0094J	50S ribosomal protein L5
+206653..206976	-	107	71893535	rplX	MHJ_0179	-	COG0198J	50S ribosomal protein L24
+206981..207349	-	122	71893536	rplN	MHJ_0180	-	COG0093J	50S ribosomal protein L14
+207351..207623	-	90	71893537	rpsQ	MHJ_0181	-	COG0186J	30S ribosomal protein S17
+207631..207999	-	122	71893538	rpmC	MHJ_0182	-	COG0255J	50S ribosomal protein L29
+208004..208414	-	136	71893539	rplP	MHJ_0183	-	COG0197J	50S ribosomal protein L16
+208417..209100	-	227	161611222	rpsC	MHJ_0184	-	COG0092J	30S ribosomal protein S3
+209100..209690	-	196	71893541	rplV	MHJ_0185	-	COG0091J	50S ribosomal protein L22
+209725..209997	-	90	71893542	rpsS	MHJ_0186	-	COG0185J	30S ribosomal protein S19
+209997..210845	-	282	71893543	rplB	MHJ_0187	-	COG0090J	50S ribosomal protein L2
+210968..211471	-	167	71893544	rplW	MHJ_0188	-	COG0089J	50S ribosomal protein L23
+211475..212095	-	206	71893545	rplD	MHJ_0189	-	COG0088J	50S ribosomal protein L4
+212112..212804	-	230	71893546	rplC	MHJ_0190	-	COG0087J	50S ribosomal protein L3
+212806..213177	-	123	71893547	rpsJ	MHJ_0191	-	COG0051J	30S ribosomal protein S10
+213712..214140	+	142	71893549	-	MHJ_0193	-	-	hypothetical protein
+214552..217830	+	1092	71893550	-	MHJ_0194	-	COG3898	protein P97
+217851..220565	+	904	71893551	-	MHJ_0195	-	-	protein P102
+220882..221565	-	227	71893552	-	MHJ_0196	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+221649..224291	+	880	71893553	alaS	MHJ_0197	-	COG0013J	alanyl-tRNA synthetase
+224306..224698	+	130	71893554	-	MHJ_0198	-	COG0816L	hypothetical protein
+224704..225132	+	142	71893555	-	MHJ_0199	-	-	hypothetical protein
+225166..225720	+	184	71893556	pth	MHJ_0200	-	COG0193J	peptidyl-tRNA hydrolase
+225731..226591	+	286	71893557	-	MHJ_0201	-	COG0037D	hypothetical protein
+226628..228778	+	716	71893558	ftsH	MHJ_0202	-	COG0465O	cell division protein
+228897..230366	+	489	71893559	lysS	MHJ_0203	-	COG1190J	lysyl-tRNA synthetase
+230368..231198	+	276	71893560	-	MHJ_0204	-	COG0561R	HAD family hydrolase
+231187..232515	-	442	71893561	trmE	MHJ_0205	-	COG0486R	tRNA modification GTPase TrmE
+232559..234175	-	538	71893562	-	MHJ_0206	-	COG0488R	ABC transporter ATP-binding protein
+234333..235397	+	354	71893563	-	MHJ_0207	-	-	hypothetical protein
+235856..236956	+	366	71893564	oppB-1	MHJ_0208	-	COG0601EP	oligopeptide ABC transporter system permease
+236974..237921	+	315	71893565	oppC-1	MHJ_0209	-	COG1173EP	oligopeptide transport system permease
+238007..239335	+	442	71893566	oppD-1	MHJ_0210	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein
+239511..240656	+	381	71893567	oppF-1	MHJ_0211	-	COG4608E	oligopeptide ABC transporter ATP-binding protein
+240658..246786	+	2042	71893568	-	MHJ_0212	-	-	hypothetical protein
+246806..249475	+	889	71893569	-	MHJ_0213	-	COG4166E	lipoprotein
+249566..250330	-	254	71893570	-	MHJ_0214	-	-	hypothetical protein
+251268..253409	-	713	71893571	nrdE	MHJ_0215	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+253486..253938	-	150	71893572	nrdI	MHJ_0216	-	COG1780F	ribonucleotide reductase stimulatory protein
+253940..254959	-	339	71893573	nrdF	MHJ_0217	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+255658..256914	-	418	71893574	glyA	MHJ_0218	-	COG0112E	serine hydroxymethyltransferase
+257420..258889	+	489	71893575	-	MHJ_0219	-	COG1012C	methylmalonate-semialdehyde dehydrogenase
+258889..259905	+	338	71893576	iolC	MHJ_0220	-	COG0524G	myo-inositol catabolism protein
+259910..260695	+	261	71893577	iolB	MHJ_0221	-	COG3718G	myo-inositol catabolism protein
+260703..261704	+	333	71893578	-	MHJ_0222	-	COG0673R	myo-inositol 2-dehydrogenase
+261704..263674	+	656	71893579	iolD	MHJ_0223	-	COG3962E	myo-inositol catabolism protein
+263683..264576	+	297	71893580	iolE	MHJ_0224	-	COG1082G	myo-inositol catabolism protein
+264612..266117	+	501	71893581	mglA	MHJ_0225	-	COG1129G	ribose ABC transport ATP-binding protein
+266952..267944	+	330	71893582	-	MHJ_0226	-	COG1172G	ribose ABC transporter
+267967..269172	+	401	71893583	rbsB	MHJ_0227	-	COG1879G	periplasmic sugar-binding proteins
+269195..270238	+	347	71893584	-	MHJ_0228	-	COG0673R	myo-inositol 2-dehydrogenase
+270349..271407	-	352	71893585	-	MHJ_0229	-	-	hypothetical protein
+271411..271845	-	144	229220848	-	MHJ_0230	-	-	hypothetical protein
+272223..272771	-	182	71893587	-	MHJ_0231	-	-	hypothetical protein
+272782..273711	-	309	71893588	-	MHJ_0232	-	-	hypothetical protein
+274230..276827	+	865	71893589	secD	MHJ_0233	-	COG0342U	bifunctional preprotein translocase subunit SecD/SecF
+276916..278202	+	428	71893590	hisS	MHJ_0234	-	COG0124J	histidyl-tRNA synthetase
+278213..279898	+	561	71893591	aspS	MHJ_0235	-	COG0173J	aspartyl-tRNA synthetase
+279973..280428	+	151	71893592	-	MHJ_0236	-	COG2731G	hypothetical protein
+280568..280840	+	90	71893593	rpsT	MHJ_0237	-	COG0268J	30S ribosomal protein S20
+281004..284591	-	1195	71893594	-	MHJ_0238	-	-	hypothetical protein
+284636..287272	-	878	71893595	-	MHJ_0239	-	COG3451U	TRSE-like protein
+287311..289557	-	748	71893596	-	MHJ_0240	-	COG0477GEPR	hypothetical protein
+289865..290644	-	259	71893597	smf	MHJ_0241	-	COG0758LU	DNA processing protein SMF
+290939..292294	+	451	71893598	eno	MHJ_0242	-	COG0148G	phosphopyruvate hydratase
+292303..293547	+	414	71893599	serS	MHJ_0243	-	COG0172J	seryl-tRNA synthetase
+293627..294196	+	189	71893600	-	MHJ_0244	-	COG0693R	hypothetical protein
+294199..294999	-	266	71893601	lip	MHJ_0245	-	COG0596R	triacylglycerol lipase
+295000..296001	-	333	71893602	lplA	MHJ_0246	-	COG0095H	lipoate-protein ligase A
+296015..296365	-	116	71893603	-	MHJ_0247	-	-	hypothetical protein
+296477..298624	+	715	71893604	dnaX	MHJ_0248	-	COG2812L	DNA polymerase III subunits gamma and tau
+298662..298967	+	101	71893605	-	MHJ_0249	-	COG0718S	hypothetical protein
+298970..299554	+	194	71893606	recR	MHJ_0250	-	COG0353L	recombination protein RecR
+299551..300192	+	213	71893607	tmk	MHJ_0251	-	COG0125F	thymidylate kinase
+300233..301045	+	270	71893608	-	MHJ_0252	-	COG0470L	DNA polymerase III subunit delta'
+301175..301783	+	202	71893609	-	MHJ_0253	-	COG0313R	hypothetical protein
+301816..302352	+	178	71893610	hpt	MHJ_0254	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+302382..303200	+	272	71893611	cbiO	MHJ_0255	-	COG1122P	cobalt transporter ATP-binding subunit
+303173..304075	+	300	71893612	-	MHJ_0256	-	COG1122P	cobalt transporter ATP-binding subunit
+304065..305027	+	320	71893613	-	MHJ_0257	-	COG0619P	ABC transporter permease
+305028..307109	+	693	71893614	lig	MHJ_0258	-	COG0272L	DNA ligase
+307179..308132	+	317	71893615	-	MHJ_0259	-	COG1323R	hypothetical protein
+308129..310702	-	857	71893616	mgtA	MHJ_0260	-	COG0474P	cation-transporting P-type ATPase
+310834..311271	+	145	71893617	smpB	MHJ_0261	-	COG0691O	SsrA-binding protein
+311271..311897	+	208	71893618	-	MHJ_0262	-	COG1525L	nuclease, lipoprotein
+312028..315012	-	994	71893619	-	MHJ_0263	-	-	P102-like protein
+315111..318182	-	1023	71893620	-	MHJ_0264	-	-	P97-like protein
+318698..319387	+	229	71893621	pheS	MHJ_0265	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+319398..321554	+	718	71893622	pheT	MHJ_0266	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+321613..321810	+	65	71893623	rpmF	MHJ_0267	-	COG0333J	50S ribosomal protein L32
+322434..323276	+	280	71893624	truB	MHJ_0268	-	COG0130J	tRNA pseudouridine synthase B
+323278..324099	+	273	71893625	-	MHJ_0269	-	COG0561R	hypothetical protein
+324092..324937	+	281	71893626	-	MHJ_0270	-	COG0196H	hypothetical protein
+324934..325752	-	272	71893627	-	MHJ_0271	-	COG1737K	transcriptional regulator
+326279..327883	+	534	161611221	pyrG	MHJ_0272	-	COG0504F	CTP synthetase
+327895..328461	-	188	71893629	pgsA	MHJ_0273	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+328464..329111	-	215	71893630	-	MHJ_0274	-	-	hypothetical protein
+329142..331064	-	640	71893631	topA	MHJ_0275	-	COG0550L	DNA topoisomerase I
+331057..331422	-	121	71893632	rplS	MHJ_0276	-	COG0335J	50S ribosomal protein L19
+331476..332159	-	227	71893633	trmD	MHJ_0277	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+332181..332447	-	88	71893634	rpsP	MHJ_0278	-	COG0228J	30S ribosomal protein S16
+332735..333187	-	150	71893635	-	MHJ_0279	-	-	hypothetical protein
+333347..335404	-	685	71893636	-	MHJ_0280	-	COG1136V	ABC transporter ATP-binding protein
+335642..337528	-	628	71893637	-	MHJ_0281	-	-	hypothetical protein
+337532..338071	-	179	71893638	-	MHJ_0282	-	-	hypothetical protein
+338677..339198	+	173	71893639	-	MHJ_0283	-	-	hypothetical protein
+339318..340421	-	367	71893640	ychF	MHJ_0284	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+340431..340694	-	87	161611220	rpsR	MHJ_0285	-	COG0238J	30S ribosomal protein S18
+340712..341272	-	186	71893642	ssb	MHJ_0286	-	COG0629L	single-strand binding protein
+341290..342015	-	241	71893643	rpsF	MHJ_0287	-	COG0360J	30S ribosomal protein S6
+342721..343863	-	380	71893644	-	MHJ_0288	-	-	hypothetical protein
+343902..344666	-	254	71893645	-	MHJ_0289	-	-	hypothetical protein
+344847..345599	+	250	71893646	-	MHJ_0290	-	-	hypothetical protein
+346450..347547	+	365	71893647	-	MHJ_0291	-	-	hypothetical protein
+347703..348098	+	131	71893648	-	MHJ_0292	-	-	hypothetical protein
+348157..348579	+	140	71893649	-	MHJ_0293	-	-	hypothetical protein
+348732..350165	+	477	71893650	-	MHJ_0294	-	COG2211G	permease
+350158..350892	+	244	71893651	ugpQ	MHJ_0295	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+351466..353418	-	650	71893652	-	MHJ_0297	-	COG1136V	ABC transporter ATP-binding protein
+353495..355777	-	760	71893653	-	MHJ_0298	-	COG1136V	ABC transporter ATP-binding protein
+355743..356654	-	303	71893654	-	MHJ_0299	-	-	hypothetical protein
+357335..363076	+	1913	71893655	-	MHJ_0300	-	COG1511S	hypothetical protein
+363383..364555	-	390	71893656	baiH	MHJ_0301	-	COG1902C	NADH-dependent flavin oxidoreductase
+364558..365589	-	343	71893657	lplA-1	MHJ_0302	-	COG0095H	lipoate-protein ligase A
+365592..366434	-	280	71893658	-	MHJ_0303	-	COG0846K	hypothetical protein
+366436..366768	-	110	71893659	-	MHJ_0304	-	COG0509E	glycine cleavage system H protein
+367181..368002	+	273	71893660	-	MHJ_0305	-	-	hypothetical protein
+368005..370323	+	772	71893661	-	MHJ_0306	-	COG1136V	ABC transporter ATP-binding protein
+370415..372367	+	650	71893662	-	MHJ_0307	-	COG1136V	ABC transporter ATP-binding protein
+374223..376634	+	803	71893663	-	MHJ_0309	-	COG1061KL	hypothetical protein
+377193..378851	-	552	71893664	-	MHJ_0310	-	COG5421L	ISMHp1 transposase
+379203..380228	+	341	71893665	-	MHJ_0311	-	-	hypothetical protein
+380248..381579	+	443	71893666	-	MHJ_0312	-	COG2274V	hypothetical protein
+382033..382269	+	78	71893667	-	MHJ_0313	-	COG1063ER	hypothetical protein
+382692..384149	-	485	71893668	-	MHJ_0314	-	-	hypothetical protein
+384154..384813	-	219	71893669	-	MHJ_0315	-	-	hypothetical protein
+385311..385574	+	87	71893670	-	MHJ_0316	-	-	hypothetical protein
+385706..385975	-	89	71893671	-	MHJ_0317	-	-	hypothetical protein
+386038..386466	-	142	71893672	-	MHJ_0318	-	-	hypothetical protein
+386475..387917	-	480	71893673	-	MHJ_0319	-	COG0286V	hypothetical protein
+388065..388967	-	300	71893674	-	MHJ_0320	-	-	hypothetical protein
+389055..389984	-	309	71893675	-	MHJ_0321	-	-	hypothetical protein
+389986..390894	-	302	71893676	-	MHJ_0322	-	-	hypothetical protein
+391214..391477	+	87	71893677	-	MHJ_0323	-	-	hypothetical protein
+391532..392164	-	210	71893678	-	MHJ_0324	-	-	hypothetical protein
+392553..393641	+	362	71893679	-	MHJ_0325	-	-	hypothetical protein
+393711..394358	+	215	71893680	-	MHJ_0326	-	COG1704S	hypothetical protein
+394895..395356	-	153	71893681	-	MHJ_0327	-	-	hypothetical protein
+395837..396589	+	250	71893682	-	MHJ_0328	-	-	hypothetical protein
+396657..398315	-	552	71893683	-	MHJ_0329	-	COG5421L	transposase
+399163..400422	-	419	71893684	-	MHJ_0330	-	-	hypothetical protein
+400637..401422	-	261	71893685	-	MHJ_0331	-	-	hypothetical protein
+402065..404461	-	798	71893686	-	MHJ_0332	-	COG1404O	hypothetical protein
+405169..407556	-	795	71893687	-	MHJ_0333	-	COG1136V	ABC transporter ATP-binding protein
+407543..409399	-	618	71893688	-	MHJ_0334	-	-	hypothetical protein
+409435..410103	-	222	71893689	-	MHJ_0335	-	-	hypothetical protein
+411710..412723	-	337	71893690	-	MHJ_0337	-	-	hypothetical protein
+413306..413500	-	64	71893691	-	MHJ_0338	-	-	hypothetical protein
+413711..414025	+	104	71893692	-	MHJ_0339	-	-	hypothetical protein
+414028..414630	+	200	71893693	-	MHJ_0340	-	-	hypothetical protein
+414651..415721	+	356	71893694	-	MHJ_0341	-	COG0474P	hypothetical protein
+416857..417714	-	285	71893695	-	MHJ_0342	-	COG1158K	hypothetical protein
+418260..418535	-	91	71893696	-	MHJ_0343	-	-	hypothetical protein
+418712..419539	-	275	71893697	-	MHJ_0344	-	-	hypothetical protein
+419702..420691	-	329	71893698	-	MHJ_0345	-	COG3611L	hypothetical protein
+420694..422034	-	446	71893699	-	MHJ_0346	-	COG0561R	hypothetical protein
+422146..424299	+	717	71893700	-	MHJ_0347	-	-	hypothetical protein
+424315..425913	+	532	71893701	-	MHJ_0348	-	-	P60-like lipoprotein
+425945..426277	+	110	71893702	hit	MHJ_0349	-	COG0537FGR	HIT-like protein
+426332..427981	-	549	71893703	-	MHJ_0350	-	-	hypothetical protein
+428092..429111	-	339	71893704	-	MHJ_0351	-	-	hypothetical protein
+429120..429650	-	176	71893705	-	MHJ_0352	-	-	hypothetical protein
+429765..431321	+	518	71893706	-	MHJ_0353	-	COG0531E	amino acid permease
+431698..432444	-	248	71893707	glpF	MHJ_0354	-	COG0580G	glycerol uptake facilitator protein
+432458..433990	-	510	71893708	glpK	MHJ_0355	-	COG0554C	glycerol kinase
+434330..435595	+	421	71893709	-	MHJ_0356	-	-	P37-like ABC transporter substrate-binding lipoprotein
+435579..436349	+	256	71893710	-	MHJ_0357	-	COG3638P	ABC transporter ATP-binding protein
+436327..438048	+	573	71893711	-	MHJ_0358	-	COG3639P	ABC transport system permease p69 - like
+438156..438632	+	158	71893712	-	MHJ_0359	-	-	hypothetical protein
+438650..439936	+	428	71893713	-	MHJ_0360	-	COG0658R	hypothetical protein
+439948..440784	+	278	71893714	-	MHJ_0361	-	COG1466L	hypothetical protein
+441117..443312	+	731	71893715	-	MHJ_0362	-	-	lipoprotein
+443369..445444	+	691	71893716	-	MHJ_0363	-	-	lipoprotein
+445471..446403	+	310	71893717	-	MHJ_0364	-	COG1525L	lipoprotein
+446417..448594	+	725	229220847	-	MHJ_0365	-	COG3839G	ABC transporter permease
+448603..449604	+	333	71893719	-	MHJ_0366	-	COG1175G	ABC transport permease
+449567..450532	+	321	229220846	-	MHJ_0367	-	COG0395G	ABC transporter permease
+450864..453737	-	957	71893721	-	MHJ_0368	-	-	Lppt protein
+453750..456698	-	982	71893722	-	MHJ_0369	-	-	hypothetical protein
+456869..457348	-	159	71893723	sgaA	MHJ_0370	-	COG1762GT	PTS system transporter subunit IIA
+457373..457663	-	96	71893724	-	MHJ_0371	-	COG3414G	PTS system transporter subunit IIB
+458086..459855	-	589	71893725	ulaA	MHJ_0372	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+459953..461005	-	350	71893726	-	MHJ_0373	-	COG1735R	hypothetical protein
+461191..463005	-	604	71893727	-	MHJ_0374	-	-	lipoprotein
+463146..464309	+	387	71893728	-	MHJ_0375	-	COG3842E	ABC transport ATP-binding protein
+464305..465234	+	309	71893729	-	MHJ_0376	-	COG1175G	ABC transporter permease
+465230..466057	+	275	71893730	-	MHJ_0377	-	COG0395G	ABC transporter permease
+466127..466633	+	168	71893731	-	MHJ_0378	-	COG1739S	proline dipeptidase
+466743..469043	+	766	71893732	-	MHJ_0379	-	COG1136V	ABC transporter ATP-binding protein
+469140..469472	-	110	71893733	-	MHJ_0380	-	COG0526OC	thioredoxin
+469539..470978	-	479	71893734	proS	MHJ_0381	-	COG0442J	prolyl-tRNA synthetase
+473202..474929	+	575	71893735	-	MHJ_0383	-	COG2189L	type III restriction-modification system: methylase
+474947..477379	+	810	71893736	-	MHJ_0384	-	COG1061KL	hypothetical protein
+478192..478419	-	75	71893737	-	MHJ_0385	-	-	transposase
+479478..479657	-	59	71893740	-	MHJ_0388	-	-	hypothetical protein
+479807..480739	+	310	71893741	-	MHJ_0389	-	COG5643R	hypothetical protein
+480789..481016	-	75	71893742	-	MHJ_0390	-	-	transposase
+482037..482216	-	59	71893745	-	MHJ_0393	-	-	hypothetical protein
+482355..483161	-	268	71893746	-	MHJ_0394	-	-	hypothetical protein
+483185..483976	-	263	71893747	-	MHJ_0395	-	-	hypothetical protein
+484167..484904	-	245	71893748	-	MHJ_0396	-	-	hypothetical protein
+484906..485496	-	196	71893749	-	MHJ_0397	-	-	hypothetical protein
+485839..487020	-	393	71893750	-	MHJ_0398	-	-	hypothetical protein
+489474..489905	+	143	71893752	-	MHJ_0401	-	-	hypothetical protein
+489946..490272	+	108	71893753	-	MHJ_0402	-	-	hypothetical protein
+490301..491680	-	459	71893754	-	MHJ_0403	-	COG0534V	hypothetical protein
+492459..492899	+	146	71893755	-	MHJ_0404	-	COG2001S	cell division protein MraZ
+492901..493791	+	296	71893756	-	MHJ_0405	-	COG0275M	S-adenosyl-methyltransferase
+493840..494805	+	321	71893757	ftsZ	MHJ_0406	-	COG0206D	cell division protein ftsZ
+495034..496047	+	337	71893758	-	MHJ_0407	-	COG1488H	nicotinate phosphoribosyltransferase
+496055..496807	+	250	71893759	-	MHJ_0408	-	COG4123R	DNA methylase
+496800..498341	+	513	71893760	metG	MHJ_0409	-	COG0143J	methionyl-tRNA synthetase
+498338..499213	-	291	71893761	-	MHJ_0410	-	-	hypothetical protein
+499414..500097	-	227	71893762	rnc	MHJ_0411	-	COG0571K	ribonuclease III
+500162..500719	-	185	71893763	-	MHJ_0412	-	-	hypothetical protein
+501028..502551	+	507	71893764	-	MHJ_0413	-	-	hypothetical protein
+503044..504393	+	449	71893765	asnC	MHJ_0414	-	COG0017J	asparaginyl-tRNA synthetase
+504455..505045	+	196	71893766	-	MHJ_0415	-	-	hypothetical protein
+505062..507308	+	748	71893767	pcrA	MHJ_0416	-	COG0210L	ATP-dependent helicase PcrA
+507310..508734	+	474	71893768	-	MHJ_0417	-	COG2176L	hypothetical protein
+508838..509503	+	221	71893769	ruvA	MHJ_0418	-	COG0632L	Holliday junction DNA helicase RuvA
+509499..510437	+	312	71893770	ruvB	MHJ_0419	-	COG2255L	Holliday junction DNA helicase RuvB
+510453..512276	-	607	71893771	-	MHJ_0420	-	-	hypothetical protein
+512372..513520	-	382	71893772	-	MHJ_0421	-	-	hypothetical protein
+513777..514499	-	240	71893773	-	MHJ_0422	-	-	hypothetical protein
+514625..516283	-	552	71893774	-	MHJ_0423	-	COG2189L	type III restriction-modification system: methylase
+516642..516989	-	115	71893775	-	MHJ_0424	-	-	hypothetical protein
+517247..517804	+	185	71893776	efp	MHJ_0425	-	COG0231J	elongation factor P
+517842..519689	+	615	71893777	tkt	MHJ_0426	-	COG0021G	transketolase
+519847..520758	+	303	71893778	-	MHJ_0427	-	-	hypothetical protein
+520758..521876	+	372	71893779	mnmA	MHJ_0428	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+521916..523145	-	409	71893780	-	MHJ_0429	-	COG1881R	hypothetical protein
+523347..524744	-	465	71893781	-	MHJ_0430	-	-	hypothetical protein
+524949..526868	-	639	71893782	-	MHJ_0431	-	-	hypothetical protein
+526991..527494	-	167	71893783	-	MHJ_0432	-	-	hypothetical protein
+527496..528338	-	280	71893784	-	MHJ_0433	-	COG0561R	hypothetical protein
+528376..529098	-	240	71893785	araD	MHJ_0434	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+529088..529972	-	294	71893786	sgaU	MHJ_0435	-	COG3623G	L-xylulose 5-phosphate 3-epimerase
+529953..530621	-	222	71893787	ulaD	MHJ_0436	-	COG0269G	3-keto-L-gulonate-6-phosphate decarboxylase
+530936..533023	-	695	71893788	-	MHJ_0437	-	-	hypothetical protein
+533223..534812	-	529	71893789	-	MHJ_0438	-	COG1196D	hypothetical protein
+535032..536690	+	552	71893790	-	MHJ_0439	-	COG5421L	transposase
+536765..537043	+	92	71893791	-	MHJ_0440	-	-	hypothetical protein
+537119..539035	-	638	71893792	-	MHJ_0441	-	-	hypothetical protein
+539756..544771	-	1671	71893793	-	MHJ_0442	-	-	hypothetical protein
+544822..551238	-	2138	71893794	-	MHJ_0443	-	-	hypothetical protein
+551339..556051	-	1570	71893795	-	MHJ_0444	-	-	hypothetical protein
+556075..563295	-	2406	71893796	-	MHJ_0445	-	-	hypothetical protein
+563611..564165	-	184	71893797	engB	MHJ_0446	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+564349..565089	-	246	71893798	-	MHJ_0447	-	COG1692S	hypothetical protein
+565392..566525	-	377	71893799	metK	MHJ_0448	-	COG0192H	S-adenosylmethionine synthetase
+566618..567502	-	294	71893800	-	MHJ_0449	-	COG1136V	ABC transporter ATP-binding protein
+567623..575605	-	2660	71893801	-	MHJ_0450	-	COG0201U	hypothetical protein
+575771..576355	+	194	71893802	acpD	MHJ_0451	-	COG1182I	ACP phosphodieterase
+576369..576974	+	201	71893803	acpD-1	MHJ_0452	-	COG1182I	ACP phosphodieterase
+577033..577254	+	73	71893804	rpmE	MHJ_0453	-	COG0254J	50S ribosomal protein L31
+577275..577709	+	144	71893805	napA	MHJ_0454	-	COG0783P	neutrophil activating factor
+577732..578601	+	289	71893806	rluD	MHJ_0455	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+578662..579357	-	231	71893807	rplA	MHJ_0456	-	COG0081J	50S ribosomal protein L1
+579359..579808	-	149	71893808	rplK	MHJ_0457	-	COG0080J	50S ribosomal protein L11
+580400..580897	+	165	71893809	-	MHJ_0458	-	-	hypothetical protein
+581234..581794	+	186	71893810	-	MHJ_0459	-	-	hypothetical protein
+582217..584469	+	750	71893811	-	MHJ_0460	-	-	hypothetical protein
+584676..586037	-	453	71893812	pepA	MHJ_0461	-	COG0260E	leucyl aminopeptidase
+586199..586804	-	201	71893813	trmB	MHJ_0462	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+586828..587634	-	268	71893814	-	MHJ_0463	-	COG3087D	hypothetical protein
+587760..588701	-	313	71893815	-	MHJ_0464	-	-	hypothetical protein
+588706..590772	-	688	71893816	-	MHJ_0465	-	COG0419L	hypothetical protein
+590769..591443	-	224	71893817	-	MHJ_0466	-	COG1131V	ABC transporter atp-binding protein
+591486..593267	-	593	71893818	-	MHJ_0467	-	COG1277R	hypothetical protein
+593469..594362	+	297	71893819	-	MHJ_0468	-	COG0039C	hypothetical protein
+594437..596173	+	578	71893820	ptsI	MHJ_0469	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+596348..597088	+	246	71893821	nadE	MHJ_0470	-	COG0171H	NH(3)-dependent NAD+ synthetase
+597088..597816	+	242	71893822	-	MHJ_0471	-	COG0217S	hypothetical protein
+597846..598475	-	209	71893823	pfs	MHJ_0472	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+598483..599568	-	361	161611219	nadD	MHJ_0473	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+599572..600492	-	306	71893825	-	MHJ_0474	-	COG0561R	hypothetical protein
+601055..602428	-	457	161611218	atpD-1	MHJ_0475	-	COG0055C	ATP synthase F0F1 subunit beta
+602431..603969	-	512	71893827	atpA	MHJ_0476	-	COG0056C	ATP synthase F0F1 subunit alpha
+603969..606119	-	716	71893828	-	MHJ_0477	-	-	hypothetical protein
+606196..606666	-	156	71893829	-	MHJ_0478	-	-	hypothetical protein
+606667..607536	-	289	71893830	-	MHJ_0479	-	-	hypothetical protein
+607552..608118	-	188	71893831	-	MHJ_0480	-	-	hypothetical protein
+608131..609711	-	526	71893832	-	MHJ_0481	-	-	hypothetical protein
+610004..610807	+	267	71893833	-	MHJ_0482	-	COG0561R	hypothetical protein
+610852..611556	-	234	71893834	-	MHJ_0483	-	-	hypothetical protein
+611657..613111	-	484	71893835	mgtE	MHJ_0484	-	COG2239P	MG2+ transport protein
+613127..613738	-	203	71893836	-	MHJ_0485	-	COG1624S	hypothetical protein
+613971..616610	-	879	71893837	-	MHJ_0486	-	-	hypothetical protein
+617070..618284	+	404	71893838	pgk	MHJ_0487	-	COG0126G	phosphoglycerate kinase
+618459..618713	+	84	71893839	-	MHJ_0488	-	-	hypothetical protein
+618830..620812	+	660	71893840	fruA	MHJ_0489	-	COG1299G	PTS system fructose-specific transporter subunit IIABC
+620812..621096	+	94	71893841	-	MHJ_0490	-	-	hypothetical protein
+621108..622031	+	307	71893842	-	MHJ_0491	-	COG1482G	mannose-6-phosphate isomerase
+622335..623993	+	552	71893843	-	MHJ_0492	-	COG5421L	ISMHp1 transposase
+624355..629991	-	1878	71893844	-	MHJ_0493	-	-	P216 surface protein
+630118..634401	-	1427	71893845	-	MHJ_0494	-	COG5271R	p76 membrane protein precursor
+634692..635918	-	408	71893846	-	MHJ_0495	-	-	hypothetical protein
+635956..637584	-	542	71893847	-	MHJ_0496	-	COG1363G	hypothetical protein
+637586..638548	-	320	71893848	-	MHJ_0497	-	COG0017J	asparagine synthetase A
+638850..641177	-	775	71893849	oppF	MHJ_0498	-	COG1123R	oligopeptide ABC transporter ATP-binding protein
+641174..642226	-	350	71893850	oppD	MHJ_0499	-	COG0444EP	oligopeptide ABC transporte ATP-binding protein
+642226..643383	-	385	71893851	oppC	MHJ_0500	-	COG1173EP	oligopeptide transport system permease
+643376..644410	-	344	71893852	oppB	MHJ_0501	-	COG0601EP	oligopeptide ABC transporter permease
+644416..647232	-	938	71893853	-	MHJ_0502	-	-	lipoprotein
+648264..649184	+	306	71893854	pdhC	MHJ_0503	-	COG0508C	dihydrolipoamide acetyltransferase
+649184..651031	+	615	71893855	pdhD	MHJ_0504	-	COG1249C	dihydrolipoamide dehydrogenase
+651263..652471	-	402	71893856	ackA	MHJ_0505	-	COG0282C	acetate kinase
+652471..653424	-	317	71893857	eutD	MHJ_0506	-	COG0280C	phosphotransacetylase
+653544..654557	-	337	71893858	-	MHJ_0507	-	-	hypothetical protein
+654562..654981	-	139	71893859	-	MHJ_0508	-	-	hypothetical protein
+655206..655577	-	123	71893860	-	MHJ_0509	-	-	hypothetical protein
+655579..656391	-	270	71893861	-	MHJ_0510	-	-	hypothetical protein
+656714..657973	+	419	71893862	-	MHJ_0511	-	COG4213G	hypothetical protein
+658093..659637	+	514	71893863	xylG	MHJ_0512	-	COG1129G	xylose ABC transporter ATP-binding protein
+659637..660887	+	416	71893864	xylH	MHJ_0513	-	COG4214G	xylose ABC transporter permease
+660892..661455	+	187	71893865	-	MHJ_0514	-	-	hypothetical protein
+661466..662335	+	289	71893866	glck	MHJ_0515	-	COG1940KG	glucokinase
+662575..662826	-	83	71893867	-	MHJ_0516	-	-	hypothetical protein
+662913..664571	+	552	71893868	-	MHJ_0517	-	COG5421L	ISMHp1 transposase
+664639..665460	-	273	71893869	-	MHJ_0518	-	-	hypothetical protein
+665604..666467	-	287	71893870	-	MHJ_0519	-	-	hypothetical protein
+666526..666897	-	123	71893871	-	MHJ_0520	-	-	hypothetical protein
+667156..667428	-	90	71893872	-	MHJ_0521	-	-	hypothetical protein
+667980..669824	-	614	71893873	pepF	MHJ_0522	-	COG1164E	oligoendopeptidase F
+669939..675953	+	2004	71893874	-	MHJ_0523	-	COG2755E	hypothetical protein
+676055..677263	-	402	71893875	tuf	MHJ_0524	-	COG0050J	elongation factor Tu
+677562..680180	-	872	71893876	lon	MHJ_0525	-	COG0466O	heat shock ATP-dependent protease
+680345..681040	-	231	71893877	-	MHJ_0526	-	-	hypothetical protein
+681043..681657	-	204	71893878	upp	MHJ_0527	-	COG0035F	uracil phosphoribosyltransferase
+681750..682415	-	221	71893879	deoC	MHJ_0528	-	COG0274F	deoxyribose-phosphate aldolase
+682812..685418	+	868	71893880	gyrA	MHJ_0529	-	COG0188L	DNA gyrase subunit A
+685469..685897	-	142	71893881	pmsR	MHJ_0530	-	COG0229O	methionine sulfoxide reductase B
+685973..686437	-	154	71893882	-	MHJ_0531	-	-	hypothetical protein
+686494..687783	-	429	71893883	pgi	MHJ_0532	-	COG0166G	glucose-6-phosphate isomerase
+687922..692328	-	1468	71893884	polC	MHJ_0533	-	COG2176L	DNA polymerase III PolC
+692362..693288	-	308	71893885	-	MHJ_0534	-	COG4589R	phosphatidate cytidylyltransferase synthase
+693290..693814	-	174	71893886	frr	MHJ_0535	-	COG0233J	ribosome recycling factor
+693854..694564	-	236	71893887	pyrH	MHJ_0536	-	COG0528F	uridylate kinase
+694685..696073	+	462	71893888	-	MHJ_0537	-	-	hypothetical protein
+696109..696639	+	176	71893889	-	MHJ_0538	-	COG1214O	hypothetical protein
+696785..698443	-	552	71893890	-	MHJ_0539	-	COG5421L	ISMHp1 transposase
+698614..699465	-	283	71893891	-	MHJ_0540	-	-	hypothetical protein
+699486..701156	-	556	71893892	-	MHJ_0541	-	COG0687E	hypothetical protein
+701186..702010	-	274	71893893	potC	MHJ_0542	-	COG1177E	spermidine/putrescine ABC transporter permease
+702003..702812	-	269	71893894	potB	MHJ_0543	-	COG1176E	spermidine/putrescine ABC transporter permease
+702850..704184	-	444	71893895	potA	MHJ_0544	-	COG3842E	spermidine/putrescine transport system ATP-binding protein
+705179..705439	+	86	71893897	-	MHJ_0546	-	-	hypothetical protein
+705470..706879	+	469	71893898	-	MHJ_0547	-	-	hypothetical protein
+706960..707655	-	231	71893899	ktrA	MHJ_0548	-	COG0569P	potassium uptake protein
+707953..709437	+	494	71893900	ktrB	MHJ_0549	-	COG0168P	potassium uptake protein
+709745..711403	-	552	71893901	-	MHJ_0550	-	COG5421L	ISMHp1 transposase
+711672..715697	-	1341	71893902	-	MHJ_0551	-	-	hypothetical protein
+716116..716544	-	142	71893903	mtlF	MHJ_0552	-	COG4668G	PTS system mannitol-specific transporter subunit IIA
+716535..717647	-	370	71893904	mtlD	MHJ_0553	-	COG0246G	mannitol-1-phosphate 5-dehydrogenase
+717638..719113	-	491	71893905	mtlA	MHJ_0554	-	COG2213G	PTS system mannitol-specific transporter subunit IIBC
+719140..719925	+	261	71893906	-	MHJ_0555	-	COG1737K	hypothetical protein
+720244..721758	-	504	71893907	ulaA	MHJ_0556	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+721774..722049	-	91	71893908	-	MHJ_0557	-	COG3414G	PTS system galactitol-specific transporter subunit IIB
+722039..722455	-	138	71893909	-	MHJ_0558	-	COG1762GT	PTS system transporter subunit IIA
+722796..723452	-	218	71893910	-	MHJ_0559	-	-	hypothetical protein
+724067..724723	-	218	71893911	-	MHJ_0560	-	COG0036G	d-ribulose-5-phosphate 3 epimerase
+725485..727164	-	559	71893912	-	MHJ_0561	-	-	hypothetical protein
+727226..727675	-	149	71893913	-	MHJ_0562	-	-	hypothetical protein
+729302..730960	+	552	71893914	-	MHJ_0564	-	COG5421L	ISMHp1 transposase
+731395..733074	-	559	71893915	-	MHJ_0565	-	-	hypothetical protein
+733136..733585	-	149	71893916	-	MHJ_0566	-	-	hypothetical protein
+735198..735866	+	222	71893917	-	MHJ_0568	-	COG0265O	hypothetical protein
+735996..736223	-	75	71893918	-	MHJ_0569	-	COG1249C	hypothetical protein
+736231..736926	-	231	71893919	-	MHJ_0570	-	-	hypothetical protein
+736992..738881	-	629	71893920	-	MHJ_0571	-	COG1074L	hypothetical protein
+739135..740499	-	454	71893921	pdhD-1	MHJ_0572	-	COG1249C	dihydrolipoamide dehydrogenase
+740682..741842	+	386	71893922	nagA	MHJ_0573	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+741897..742718	-	273	71893923	fba-1	MHJ_0574	-	COG0191G	fructose-bisphosphate aldolase
+742727..744436	-	569	71893924	-	MHJ_0575	-	COG1263G	PTS system N-acetylglucosamine-specific transporter subunit IIABC
+744532..745296	-	254	71893925	nagB	MHJ_0576	-	COG0363G	glucosamine-6-phosphate deaminase
+745664..746281	+	205	71893926	rpsD	MHJ_0577	-	COG0522J	30S ribosomal protein S4
+746395..746829	+	144	71893927	rpiB	MHJ_0578	-	COG0698G	ribose-5-phosphate isomerase B
+746829..747656	+	275	71893928	fpg	MHJ_0579	-	COG0266L	formamidopyrimidine-DNA glycosylase
+747767..748438	-	223	71893929	-	MHJ_0580	-	COG0510M	hypothetical protein
+748465..749598	-	377	71893930	mnuA	MHJ_0581	-	COG2374R	membrane nuclease, lipoprotein
+749620..750504	-	294	71893931	-	MHJ_0582	-	COG0258L	5'-3' exonuclease
+750507..753452	-	981	71893932	dnaE	MHJ_0583	-	COG0587L	DNA polymerase III DnaE
+753503..753832	-	109	71893933	rbfA	MHJ_0584	-	COG0858J	ribosome-binding factor A
+753844..755643	-	599	71893934	infB	MHJ_0585	-	COG0532J	translation initiation factor IF-2
+755910..757763	-	617	71893935	nusA	MHJ_0586	-	COG0195K	transcription elongation factor NusA
+758275..760281	+	668	71893936	pulA	MHJ_0587	-	COG1523G	pullulanase
+760382..761527	-	381	71893937	glpD	MHJ_0588	-	COG0579R	glycerol-3-phosphate dehydrogenase
+762018..763757	-	579	71893938	thrS	MHJ_0589	-	COG0441J	threonyl-tRNA synthetase
+763761..764747	-	328	71893939	trpS	MHJ_0590	-	COG0180J	tryptophanyl-tRNA synthetase
+764805..765167	+	120	71893940	-	MHJ_0591	-	COG1264G	PTS system glucose-specific transporter subunit IIB
+765210..768404	+	1064	71893941	-	MHJ_0592	-	COG1112L	ATP-binding protein
+768394..769137	+	247	71893942	rnhB	MHJ_0593	-	COG1039L	ribonuclease HII
+769175..769423	+	82	71893943	-	MHJ_0594	-	COG3763S	hypothetical protein
+769431..770948	+	505	71893944	pgm	MHJ_0595	-	COG0696G	phosphoglyceromutase
+771095..772486	+	463	71893945	-	MHJ_0596	-	-	hypothetical protein
+772530..774245	+	571	71893946	-	MHJ_0597	-	-	hypothetical protein
+774413..775837	+	474	71893947	-	MHJ_0598	-	-	hypothetical protein
+775914..777599	+	561	71893948	-	MHJ_0599	-	COG3398S	hypothetical protein
+777843..779600	+	585	71893949	-	MHJ_0600	-	-	hypothetical protein
+779795..781192	+	465	71893950	-	MHJ_0601	-	-	hypothetical protein
+781331..783037	+	568	71893951	-	MHJ_0602	-	-	hypothetical protein
+783428..784297	+	289	71893952	-	MHJ_0603	-	COG1481S	hypothetical protein
+784299..785087	+	262	71893953	-	MHJ_0604	-	COG0670R	hypothetical protein
+785138..785695	+	185	71893954	ppa	MHJ_0605	-	COG0221C	inorganic pyrophosphatase
+785962..787305	+	447	71893955	xylF	MHJ_0606	-	COG1744R	ABC transporter xylose-binding lipoprotein
+787470..788981	+	503	71893956	-	MHJ_0607	-	COG3845R	sugar ABC transporter ATP-binding protein
+788984..790696	+	570	71893957	-	MHJ_0608	-	COG4603R	ABC transporter protein
+790702..791607	+	301	71893958	-	MHJ_0609	-	COG1079R	sugar ABC transporter permease
+791666..792220	+	184	71893959	tdk	MHJ_0610	-	COG1435F	thymidine kinase
+792469..792738	+	89	71893960	ptsH	MHJ_0611	-	COG1925G	phosphocarrier protein HPr
+792932..793552	+	206	71893961	-	MHJ_0612	-	COG2190G	hypothetical protein
+793881..796259	-	792	71893962	-	MHJ_0613	-	-	hypothetical protein
+796360..798450	-	696	71893963	-	MHJ_0614	-	COG2433S	hypothetical protein
+798962..799951	-	329	71893964	ddem	MHJ_0615	-	COG0270L	cytosine specific DNA methyltransferase
+800252..800671	-	139	71893965	-	MHJ_0616	-	COG0802R	hypothetical protein
+800678..804916	-	1412	71893966	rpoC	MHJ_0617	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+804973..808635	-	1220	71893967	rpoB	MHJ_0618	-	COG0085K	DNA-directed RNA polymerase subunit beta
+808850..809215	-	121	71893968	rplL	MHJ_0619	-	COG0222J	50S ribosomal protein L7/L12
+809227..809724	-	165	161611217	rplJ	MHJ_0620	-	COG0244J	50S ribosomal protein L10
+810113..812653	+	846	71893970	-	MHJ_0621	-	-	hypothetical protein
+812724..815144	+	806	71893971	-	MHJ_0622	-	-	lipoprotein
+815173..816822	-	549	71893972	dam	MHJ_0623	-	COG0338L	DNA adenine methylase
+817472..819085	+	537	71893973	-	MHJ_0624	-	COG2274V	ABC transporter ATP-binding protein Pr1
+819096..820709	+	537	71893974	-	MHJ_0625	-	COG2274V	ABC transporter ATP-binding protein Pr2
+821450..823813	-	787	71893975	-	MHJ_0627	-	COG0286V	hypothetical protein
+824162..825757	+	531	71893976	-	MHJ_0628	-	COG2274V	ABC transporter ATP-binding Pr1-like proten
+825799..827382	+	527	71893977	-	MHJ_0629	-	COG2274V	ABC transporter ATP-binding Pr2-like protein
+827470..829278	-	602	71893978	-	MHJ_0630	-	-	hypothetical protein
+829353..831089	-	578	71893979	-	MHJ_0631	-	COG0737F	5'-nucleotidase precursor
+831839..832576	+	245	71893980	plsC	MHJ_0632	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+832606..833325	+	239	71893981	scpA	MHJ_0633	-	COG1354S	segregation and condensation protein A
+833327..833902	+	191	71893982	scpB	MHJ_0634	-	COG1386K	segregation and condensation protein B
+833924..836185	+	753	71893983	-	MHJ_0635	-	COG0392S	hypothetical protein
+836729..837697	-	322	71893984	gcp	MHJ_0636	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+838234..838806	-	190	71893985	nusG	MHJ_0637	-	COG0250K	transcription antitermination protein NusG
+838826..839164	-	112	71893986	secE	MHJ_0638	-	COG0690U	preprotein translocase subunit SecE
+839255..839809	-	184	71893987	-	MHJ_0639	-	COG1191K	hypothetical protein
+839821..840522	-	233	71893988	-	MHJ_0640	-	COG0566J	tRNA/rRNA methyltransferase
+840556..841761	-	401	71893989	cysS	MHJ_0641	-	COG0215J	cysteinyl-tRNA synthetase
+841757..842419	-	220	71893990	-	MHJ_0642	-	COG1451R	hypothetical protein
+842424..843656	-	410	71893991	-	MHJ_0643	-	COG1253R	hemolysin C
+843656..845047	-	463	71893992	dnaB	MHJ_0644	-	COG0305L	replicative DNA helicase
+845040..845477	-	145	71893993	rplI	MHJ_0645	-	COG0359J	50S ribosomal protein L9
+845458..847455	-	665	71893994	-	MHJ_0646	-	COG3887T	hypothetical protein
+847459..849831	-	790	71893995	leuS	MHJ_0647	-	COG0495J	leucyl-tRNA synthetase
+850039..852018	+	659	71893996	uvrB	MHJ_0648	-	COG0556L	excinuclease ABC subunit B
+852040..852903	+	287	71893997	-	MHJ_0649	-	COG0009J	hypothetical protein
+853091..853489	-	132	71893998	rpsI	MHJ_0650	-	COG0103J	30S ribosomal protein S9
+853493..853927	-	144	71893999	rplM	MHJ_0651	-	COG0102J	50S ribosomal protein L13
+854060..854812	-	250	71894000	ksgA	MHJ_0652	-	COG0030J	dimethyladenosine transferase
+854820..856082	-	420	71894001	-	MHJ_0653	-	COG0084L	hypothetical protein
+856169..857155	+	328	71894002	prsA	MHJ_0654	-	COG0462FE	ribose-phosphate pyrophosphokinase
+857178..857786	+	202	71894003	gidB	MHJ_0655	-	COG0357M	16S rRNA methyltransferase GidB
+857925..859808	+	627	71894004	-	MHJ_0656	-	COG2755E	prolipoprotein p65
+860006..862945	+	979	71894005	-	MHJ_0657	-	COG1196D	ABC transporter ATP-binding protein P115-like
+863067..863219	+	50	71894006	rpmG	MHJ_0658	-	COG0267J	50S ribosomal protein L33
+863221..864258	+	345	71894007	pepP	MHJ_0659	-	COG0006E	XAA-Pro aminopeptidase
+864295..865998	+	567	71894008	-	MHJ_0660	-	-	hypothetical protein
+866056..867627	+	523	71894009	-	MHJ_0661	-	-	hypothetical protein
+868307..871843	-	1178	71894010	-	MHJ_0662	-	COG3889R	hypothetical protein
+871941..875852	-	1303	71894011	-	MHJ_0663	-	-	adhesin like-protein P146
+876401..877255	+	284	71894012	-	MHJ_0664	-	COG2274V	ABC transporter ATP-binding protein Pr1
+883176..883790	+	204	71894014	-	MHJ_0666	-	-	hypothetical protein
+883831..884313	+	160	71894015	greA	MHJ_0667	-	COG0782K	transcription elongation factor GreA
+884382..885875	+	497	71894016	-	MHJ_0668	-	COG0534V	hypothetical protein
+885956..886921	+	321	71894017	-	MHJ_0669	-	-	hypothetical protein
+886934..888847	+	637	71894018	-	MHJ_0670	-	-	hypothetical protein
+888858..891326	+	822	71894019	valS	MHJ_0671	-	COG0525J	valyl-tRNA synthetase
+891333..892334	-	333	71894020	-	MHJ_0672	-	-	hypothetical protein
+892390..895008	-	872	71894021	-	MHJ_0673	-	COG0443O	hypothetical protein
+895087..896916	-	609	71894022	-	MHJ_0674	-	COG0706U	inner membrane protein translocase component YidC
+896906..897244	-	112	71894023	rnpA	MHJ_0675	-	COG0594J	ribonuclease P protein component
+897262..897405	-	47	71894024	rpmH	MHJ_0676	-	COG0230J	50S ribosomal protein L34

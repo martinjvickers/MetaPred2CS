@@ -1,0 +1,1824 @@
+Lactobacillus johnsonii NCC 533, complete genome - 1..1992676
+1821 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1365	+	454	42518085	dnaA	LJ0001	-	COG0593L	chromosomal replication initiation protein
+1546..2676	+	376	42518086	-	LJ0002	-	COG0592L	DNA polymerase III, beta chain
+2951..3100	+	49	42518087	-	LJ0002b	-	COG2501S	hypothetical protein
+3104..4228	+	374	42518088	recF	LJ0003	-	COG1195L	recombination protein F
+4229..6196	+	655	42518089	-	LJ0004	-	COG0187L	DNA gyrase subunit B
+6207..8696	+	829	42518090	-	LJ0005	-	COG0188L	DNA gyrase subunit A
+8883..9179	+	98	42518091	rpsF	LJ0006	-	COG0360J	30S ribosomal protein S6
+9213..9731	+	172	42518092	-	LJ0007	-	COG0629L	single-strand binding protein
+9756..9992	+	78	42518093	rpsR	LJ0008	-	COG0238J	30S ribosomal protein S18
+10086..11003	+	305	42518094	-	LJ0009	-	COG0598P	hypothetical protein
+11110..13128	+	672	42518095	-	LJ0010	-	COG3887T	hypothetical protein
+13140..13595	+	151	42518096	rplI	LJ0011	-	COG0359J	50S ribosomal protein L9
+13598..14971	+	457	42518097	-	LJ0012	-	COG0305L	replicative DNA helicase
+15069..15953	+	294	42518098	-	LJ0013	-	COG1940KG	fructokinase
+16017..17159	-	380	42518099	-	LJ0014	-	-	hypothetical protein
+17277..19295	-	672	42518100	-	LJ0015	-	-	hypothetical protein
+19628..20980	-	450	42518101	-	LJ0016	-	COG0531E	hypothetical protein
+21517..22680	+	387	42518102	-	LJ0017	-	COG4552R	hypothetical protein
+22717..23577	-	286	42518103	-	LJ0018	-	COG0204I	hypothetical protein
+23719..24366	+	215	42518104	-	LJ0019	-	COG2910R	hypothetical protein
+24563..25363	-	266	42518105	-	LJ0020	-	-	hypothetical protein
+25638..26702	+	354	42518106	-	LJ0021	-	COG0476H	hypothetical protein
+26708..27913	+	401	42518107	-	LJ0022	-	-	major facilitator superfamily permease
+28305..28994	-	229	42518108	-	LJ0023	-	COG5523S	hypothetical protein
+29130..29837	+	235	42518109	-	LJ0024	-	COG1011R	hypothetical protein
+29872..30711	-	279	42518110	-	LJ0025	-	COG1307S	hypothetical protein
+31207..32814	+	535	42518111	-	LJ0026	-	COG1132V	ABC transporter ATPase and permease components
+32837..33646	-	269	42518112	-	LJ0027	-	COG1396K	hypothetical protein
+33801..35720	+	639	42518113	-	LJ0028	-	COG0480J	hypothetical protein
+35975..37309	-	444	42518114	-	LJ0029	-	COG0038P	hypothetical protein
+37838..39571	-	577	42518115	-	LJ0030	-	COG3590O	endopeptidase O
+39672..40538	+	288	42518116	-	LJ0031	-	COG1283P	hypothetical protein
+40727..42001	+	424	42518117	-	LJ0032	-	COG2270R	major facilitator superfamily permease
+42139..43164	-	341	42518118	-	LJ0033	-	COG2826L	transposase
+43272..44198	-	308	42518119	-	LJ0034	-	COG0598P	hypothetical protein
+44502..44663	+	53	42518120	-	LJ0034b	-	-	hypothetical protein
+44703..44969	+	88	42518121	-	LJ0035	-	-	hypothetical protein
+45106..45933	+	275	42518122	-	LJ0036	-	COG0708L	exodeoxyribonuclease
+46005..48845	+	946	42518123	-	LJ0037	-	COG1061KL	hypothetical protein
+48935..49441	+	168	42518124	-	LJ0038	-	COG4814R	hypothetical protein
+49555..49821	+	88	42518125	-	LJ0039	-	COG4814R	hypothetical protein
+49857..50090	-	77	42518126	-	LJ0040	-	-	hypothetical protein
+50221..51270	+	349	42518127	-	LJ0041	-	COG0628R	hypothetical protein
+51471..52805	+	444	42518128	-	LJ0042	-	COG1249C	hypothetical protein
+52848..54002	-	384	42518129	-	LJ0043	-	COG0516F	inosine-5-monophosphate dehydrogenase
+54076..54651	-	191	42518130	-	LJ0044	-	COG2755E	hypothetical protein
+54728..55741	-	337	42518131	-	LJ0045	-	COG1052CHR	D-lactate dehydrogenase
+55999..58611	+	870	42518132	-	LJ0046	-	-	hypothetical protein
+59228..65647	+	2139	42518133	-	LJ0047	-	-	hypothetical protein
+65803..68754	+	983	42518134	-	LJ0048	-	-	hypothetical protein
+68742..70337	+	531	42518135	-	LJ0049	-	COG0531E	hypothetical protein
+70490..71416	+	308	42518136	-	LJ0050	-	COG0583K	hypothetical protein
+71548..73398	+	616	42518137	-	LJ0051	-	COG0029H	hypothetical protein
+73489..74853	+	454	42518138	-	LJ0052	-	COG1114E	branched-chain amino acid transporter
+74904..75638	+	244	42518139	ubiE	LJ0053	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+75671..76585	+	304	42518140	-	LJ0054	-	COG0596R	prolinase PepPN
+76704..77315	+	203	42518141	-	LJ0055	-	COG3212S	hypothetical protein
+77465..78415	-	316	42518142	-	LJ0056	-	COG3049M	conjugated bile salt hydrolase
+78431..79786	-	451	42518143	-	LJ0057	-	COG2271G	bile salt transporter
+79810..81168	-	452	42518144	-	LJ0058	-	COG2271G	bile salt transporter
+81470..82330	-	286	42518145	-	LJ0059	-	COG0204I	hypothetical protein
+82327..83277	-	316	42518146	-	LJ0060	-	COG1442M	hypothetical protein
+83290..84240	-	316	42518147	-	LJ0061	-	COG1442M	hypothetical protein
+84266..85090	-	274	42518148	-	LJ0062	-	COG1442M	hypothetical protein
+85092..85868	-	258	42518149	-	LJ0063	-	COG0204I	hypothetical protein
+86234..87511	+	425	42518150	-	LJ0064	-	COG3464L	transposase
+87816..88523	+	235	42518151	-	LJ0065	-	COG0745TK	two-component regulatory system response regulator
+88570..90420	+	616	42518152	-	LJ0066	-	COG5002T	two-component regulatory system histidine kinase
+90410..91738	+	442	42518153	-	LJ0067	-	COG4863S	hypothetical protein
+91728..92549	+	273	42518154	-	LJ0068	-	COG4853S	hypothetical protein
+92555..93352	+	265	42518155	-	LJ0069	-	COG1235R	hypothetical protein
+93436..94656	+	406	42518156	-	LJ0070	-	COG0265O	serine protease do-like HtrA
+95167..95646	+	159	42518157	-	LJ0071	-	COG1576S	rRNA large subunit methyltransferase
+95647..96300	-	217	42518158	-	LJ0072	-	COG0619P	ABC transporter permease component
+96312..97658	-	448	42518159	-	LJ0073	-	COG1123R	ABC transporter ATPase component
+97633..98196	-	187	42518160	-	LJ0074	-	COG4721S	hypothetical protein
+98433..99359	+	308	42518161	-	LJ0075	-	COG2207K	hypothetical protein
+99394..100284	-	296	42518162	-	LJ0076	-	COG0501O	heat shock protein HtpX
+100293..100850	-	185	42518163	-	LJ0077	-	COG1704S	LemA-like protein
+100966..102060	-	364	42518164	-	LJ0078	-	COG1055P	hypothetical protein
+102236..102646	+	136	42518165	-	LJ0079	-	-	hypothetical protein
+103041..103571	+	176	42518166	-	LJ0080	-	-	hypothetical protein
+104036..105343	+	435	42518167	-	LJ0081	-	COG1215M	hypothetical protein
+105353..106477	+	374	42518168	-	LJ0082	-	COG3405G	hypothetical protein
+106592..107236	+	214	42518169	-	LJ0083	-	COG1896R	hypothetical protein
+107238..108167	+	309	42518170	-	LJ0084	-	COG1403V	hypothetical protein
+108250..108516	-	88	42518171	-	LJ0085	-	-	hypothetical protein
+108770..109528	-	252	42518172	-	LJ0086	-	COG1126E	ABC transporter ATPase component
+109518..111131	-	537	42518173	-	LJ0087	-	COG0765E	ABC transporter permease component
+111467..112093	-	208	42518174	-	LJ0088	-	COG2094L	3-methyladenine DNA glycosylase
+112170..112532	+	120	42518175	-	LJ0089	-	COG3189S	hypothetical protein
+112529..113311	-	260	42518176	-	LJ0090	-	COG0861P	hypothetical protein
+113298..113534	-	78	42518177	-	LJ0091	-	COG0350L	methylated DNA-protein cysteine methyltransferase DNA binding subunit
+113494..113829	-	111	42518178	-	LJ0092	-	COG0350L	methylated DNA-protein cysteine methyltransferase ribonuclease-like subunit
+113946..114659	-	237	42518179	-	LJ0093	-	COG0846K	NAD-dependent deacetylase
+114786..115262	+	158	42518180	-	LJ0094	-	-	hypothetical protein
+115330..116799	-	489	42518181	-	LJ0095	-	COG1502I	cardiolipinsynthetase
+116804..117511	-	235	42518182	-	LJ0096	-	COG2738R	hypothetical protein
+117535..118461	-	308	42518183	-	LJ0097	-	COG4814R	hypothetical protein
+118550..119281	+	243	42518184	-	LJ0098	-	COG0328L	hypothetical protein
+119742..120710	-	322	42518185	-	LJ0099	-	COG4086S	hypothetical protein
+120833..121663	+	276	42518186	-	LJ0100	-	COG0463M	hypothetical protein
+121688..122350	+	220	42518187	-	LJ0101	-	COG0596R	hypothetical protein
+122437..122799	+	120	42518188	-	LJ0102	-	-	hypothetical protein
+122882..123871	+	329	42518189	-	LJ0103	-	COG0462FE	phosphoribosylpyrophosphate synthetase
+124168..125523	+	451	42518190	-	LJ0104	-	COG1113E	amino acid permease
+125688..126347	+	219	42518191	-	LJ0105	-	COG1309K	hypothetical protein
+126670..127209	+	179	42518192	-	LJ0106	-	-	hypothetical protein
+127496..129022	-	508	42518193	-	LJ0107	-	-	hypothetical protein
+129182..130267	+	361	42518194	ddl	LJ0108	-	COG1181M	D-alanyl-alanine synthetase A
+130297..131013	+	238	42518195	-	LJ0109	-	-	hypothetical protein
+131046..132617	-	523	42518196	-	LJ0110	-	COG0025P	hypothetical protein
+132722..133390	+	222	42518197	-	LJ0111	-	COG5438S	hypothetical protein
+133353..133829	+	158	42518198	-	LJ0112	-	COG5438S	hypothetical protein
+133826..134587	+	253	42518199	-	LJ0113	-	COG5438S	hypothetical protein
+134610..135428	+	272	42518200	-	LJ0114	-	COG0657I	hypothetical protein
+135510..138569	-	1019	42518201	-	LJ0115	-	COG1501G	hypothetical protein
+138729..139445	+	238	42518202	-	LJ0116	-	COG2188K	hypothetical protein
+139466..140632	+	388	42518203	-	LJ0117	-	COG2222M	putative tagatose-6-phosphate ketose/aldose isomerase
+140694..141851	+	385	42518204	-	LJ0118	-	COG1820G	hypothetical protein
+141989..142477	+	162	42518205	-	LJ0119	-	COG3444G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, mannose specific
+142489..143406	+	305	42518206	-	LJ0120	-	COG3715G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, mannose specific
+143396..144211	+	271	42518207	-	LJ0121	-	COG3716G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIID, mannose specific
+144235..144633	+	132	42518208	-	LJ0122	-	COG2893G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIA, mannose specific
+144789..145985	+	398	42518209	-	LJ0123	-	-	hypothetical protein
+146032..146481	-	149	42518210	-	LJ0124	-	-	nucleoside 2-deoxyribosyltransferase
+146508..147155	+	215	42518211	-	LJ0125	-	COG1762GT	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIA, galactitol/fructose specific
+147200..147925	-	241	42518212	-	LJ0126	-	COG2188K	hypothetical protein
+147934..148737	-	267	42518213	-	LJ0127	-	COG2365T	hypothetical protein
+148911..149405	+	164	42518214	-	LJ0128	-	COG0589T	hypothetical protein
+149805..150737	+	310	42518215	-	LJ0129	-	COG3221P	hypothetical protein
+150845..151630	+	261	42518216	-	LJ0130	-	COG3638P	phosphate/phosphonate ABC transporter ATPase component
+151623..152426	+	267	42518217	-	LJ0131	-	COG3639P	phosphate/phosphonate ABC transporter permease component
+152426..153238	+	270	42518218	-	LJ0132	-	COG3639P	phosphate/phosphonate ABC transporter permease component
+153391..153873	+	160	42518219	-	LJ0133	-	-	hypothetical protein
+153926..155320	+	464	42518220	-	LJ0134	-	-	hypothetical protein
+155381..157330	+	649	42518221	-	LJ0135	-	COG0367E	asparagine synthase
+157360..158691	+	443	42518222	-	LJ0136	-	COG3919R	hypothetical protein
+158901..161111	+	736	42518223	-	LJ0137	-	COG1328F	anaerobic ribonucleoside triphosphate reductase
+161111..161824	+	237	42518224	-	LJ0138	-	COG0602O	anaerobic ribonucleoside-triphosphate reductase activating protein
+161879..162469	+	196	42518225	-	LJ0139	-	COG2151R	hypothetical protein
+162469..163665	+	398	42518226	-	LJ0140	-	COG2461S	hypothetical protein
+163769..164986	+	405	42518227	-	LJ0141	-	COG2271G	major facilitator superfamily permease
+165105..166100	+	331	42518228	-	LJ0142	-	COG3684G	tagatose 1,6-diphosphate aldolase
+166235..169183	+	982	42518229	-	LJ0143	-	-	hypothetical protein
+169257..170015	-	252	42518230	-	LJ0144	-	COG1737K	hypothetical protein
+170137..171063	+	308	42518231	-	LJ0145	-	COG1105G	fructose-1-phosphate kinase
+171081..173018	+	645	42518232	-	LJ0146	-	COG1299G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, fructose specific
+173133..175082	+	649	42518233	-	LJ0147	-	COG3590O	endopeptidase O
+175224..176930	+	568	42518234	-	LJ0148	-	COG5617S	hypothetical protein
+177128..178786	+	552	42518235	-	LJ0149	-	COG1866C	hypothetical protein
+178883..180934	-	683	42518236	-	LJ0150	-	COG3158P	hypothetical protein
+181083..183080	-	665	42518237	-	LJ0151	-	COG3158P	hypothetical protein
+183220..183639	-	139	42518238	-	LJ0152	-	-	hypothetical protein
+183726..184790	-	354	42518239	-	LJ0153	-	-	hypothetical protein
+185219..185458	+	79	42518240	-	LJ0154	-	-	hypothetical protein
+185662..187758	+	698	42518241	-	LJ0155	-	COG1705NU	hypothetical protein
+187813..189360	+	515	42518242	-	LJ0156	-	COG3757M	hypothetical protein
+189311..189982	+	223	42518243	-	LJ0157	-	-	hypothetical protein
+190093..190905	+	270	42518244	-	LJ0158	-	COG1105G	hypothetical protein
+190992..192818	+	608	42518245	-	LJ0159	-	COG0569P	hypothetical protein
+192860..193822	-	320	42518246	-	LJ0160	-	COG0673R	hypothetical protein
+193836..194618	-	260	42518247	-	LJ0161	-	-	hypothetical protein
+194639..195466	-	275	42518248	-	LJ0162	-	-	hypothetical protein
+195552..195974	-	140	42518249	-	LJ0163	-	COG2461S	hypothetical protein
+196136..196828	+	230	42518250	gpmA	LJ0164	-	COG0588G	phosphoglyceromutase
+196894..197175	+	93	42518251	-	LJ0165	-	COG1598S	hypothetical protein
+197771..198028	-	85	42518252	-	LJ0166	-	COG0199J	30S ribosomal protein S14-3
+198212..198649	+	145	42518253	-	LJ0167	-	-	hypothetical protein
+198669..199601	+	310	42518254	-	LJ0168	-	COG0463M	bactoprenol glucosyl transferase
+199839..200552	+	237	42518255	-	LJ0169	-	-	hypothetical protein
+200624..201487	+	287	42518256	-	LJ0170	-	COG4975G	hypothetical protein
+201778..202659	+	293	42518257	-	LJ0171	-	COG2017G	hypothetical protein
+202788..203897	+	369	42518258	-	LJ0172	-	COG1316K	hypothetical protein
+203897..204517	+	206	42518259	-	LJ0173	-	COG0344S	membrane protein
+204514..207447	+	977	42518260	-	LJ0174	-	COG1368M	hypothetical protein
+207687..208967	+	426	42518261	-	LJ0175	-	COG0162J	tyrosyl-tRNA synthetase
+209216..210529	+	437	42518262	-	LJ0176	-	COG3579E	aminopeptidase C
+210545..211198	+	217	42518263	-	LJ0177	-	COG1418R	hypothetical protein
+211269..212579	-	436	42518264	-	LJ0178	-	COG3579E	aminopeptidase C
+212742..213365	+	207	42518265	-	LJ0179	-	-	hypothetical protein
+213365..213826	+	153	42518266	greA	LJ0180	-	COG0782K	transcription elongation factor GreA
+213872..214321	-	149	42518267	-	LJ0181	-	COG0071O	hypothetical protein
+214451..215899	-	482	42518268	-	LJ0182	-	COG2723G	6-phospho-beta-glucosidase
+216097..216594	+	165	42518269	-	LJ0183	-	-	hypothetical protein
+216617..217969	+	450	42518270	celD	LJ0184	-	COG1455G	cellobiose phosphotransferase system IIC component
+218045..218743	+	232	42518271	-	LJ0185	-	COG2188K	hypothetical protein
+218844..220121	-	425	42518272	-	LJ0186	-	COG3464L	transposase
+220263..220670	-	135	42518273	-	LJ0187	-	-	hypothetical protein
+220742..222235	-	497	42518274	-	LJ0188	-	COG2723G	6-phospho-beta-glucosidase
+222302..223027	-	241	42518275	-	LJ0189	-	COG2188K	hypothetical protein
+223027..223353	-	108	42518276	-	LJ0190	-	COG1447G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIA, cellobiose specific
+223447..223695	-	82	42518277	-	LJ0191	-	-	hypothetical protein
+223700..224023	-	107	42518278	-	LJ0192	-	COG1440G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, cellobiose specific
+224170..225600	-	476	42518279	-	LJ0193	-	COG1455G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, cellobiose specific
+225600..226979	-	459	42518280	-	LJ0194	-	COG2723G	beta-glucosidase
+227182..228042	-	286	42518281	-	LJ0195	-	COG1940KG	hypothetical protein
+228185..228847	+	220	42518282	-	LJ0196	-	-	hypothetical protein
+228988..229599	-	203	42518283	-	LJ0197	-	COG2135S	hypothetical protein
+229734..230762	+	342	42518284	-	LJ0198	-	COG0180J	tryptophanyl-tRNA synthetase II
+230782..231270	+	162	42518285	-	LJ0199	-	COG2131F	ComE operon protein 2.
+231260..231847	+	195	42518286	-	LJ0200	-	-	hypothetical protein
+232146..233177	+	343	42518287	-	LJ0201	-	COG0474P	hypothetical protein
+233275..235251	+	658	42518288	-	LJ0202	-	COG0143J	methionyl-tRNA synthetase
+235251..236024	+	257	42518289	-	LJ0203	-	COG0084L	hypothetical protein
+236008..236571	+	187	42518290	-	LJ0204	-	COG1658L	hypothetical protein
+236561..237451	+	296	42518291	ksgA	LJ0205	-	COG0030J	dimethyladenosine transferase
+237527..237766	+	79	42518292	-	LJ0206	-	COG4466S	veg protein
+237884..238720	+	278	42518293	-	LJ0207	-	COG0503F	pur operon repressor
+238768..240153	+	461	42518294	glmU	LJ0208	-	COG1207M	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+240264..241235	+	323	42518295	-	LJ0209	-	COG0462FE	ribose-phosphate pyrophosphokinase
+241388..242332	+	314	42518296	-	LJ0210	-	COG1609K	hypothetical protein
+242437..244092	+	551	42518297	-	LJ0211	-	COG0366G	hypothetical protein
+244112..245836	+	574	42518298	-	LJ0212	-	COG0366G	maltogenic amylase or neopullulanase
+245988..248261	+	757	42518299	-	LJ0213	-	COG1554G	maltose phosphorylase
+248246..248908	+	220	42518300	-	LJ0214	-	COG0637R	beta-phosphoglucomutase
+248929..250032	+	367	42518301	-	LJ0215	-	COG3839G	multiple sugar ABC transporter ATPase component
+250144..251361	+	405	42518302	-	LJ0216	-	COG2182G	hypothetical protein
+251398..252753	+	451	42518303	-	LJ0217	-	COG1175G	multiple sugar ABC transporter permease component
+252756..253613	+	285	42518304	-	LJ0219	-	COG3833G	multiple sugar ABC transporter permease component
+253689..255305	+	538	42518305	-	LJ0220	-	COG0366G	glucan 1,6-alpha-glucosidase
+255343..256707	-	454	42518306	-	LJ0221	-	COG1078R	hypothetical protein
+256802..257239	+	145	42518307	-	LJ0222	-	COG4506S	hypothetical protein
+257288..257830	+	180	42518308	-	LJ0223	-	COG3343K	DNA-directed RNA polymerase subunit delta
+257960..259582	+	540	42518309	pyrG	LJ0224	-	COG0504F	CTP synthetase
+259714..260979	+	421	42518310	-	LJ0225	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+261071..262399	-	442	42518311	-	LJ0226	-	COG2233F	xanthine/uracil permease
+262400..262978	-	192	42518312	-	LJ0227	-	COG0503F	xanthine phosphoribosyltransferase
+263190..263966	-	258	42518313	-	LJ0228	-	-	hypothetical protein
+264154..265707	+	517	42518314	guaA	LJ0229	-	COG0519F	GMP synthase
+265991..266290	+	99	42518315	-	LJ0230	-	COG0640K	arsenical resistance operon repressor
+266364..267401	+	345	42518316	-	LJ0231	-	COG0798P	hypothetical protein
+267401..267802	+	133	42518317	-	LJ0232	-	COG0394T	arsenate reductase
+268355..268588	+	77	42518318	-	LJ0233	-	-	hypothetical protein
+268614..269132	+	172	42518319	-	LJ0234	-	-	hypothetical protein
+269219..269422	+	67	42518320	-	LJ0234b	-	-	hypothetical protein
+269423..269806	+	127	42518321	-	LJ0235	-	-	hypothetical protein
+269849..270670	+	273	42518322	-	LJ0236	-	COG4974L	hypothetical protein
+270804..271196	-	130	42518323	-	LJ0237	-	-	hypothetical protein
+271401..272033	+	210	42518324	-	LJ0238	-	COG1309K	hypothetical protein
+272194..272703	+	169	42518325	-	LJ0239	-	COG1881R	hypothetical protein
+273128..274153	-	341	42518326	-	LJ0240	-	COG1396K	hypothetical protein
+274192..274788	-	198	42518327	-	LJ0241	-	COG2249R	hypothetical protein
+274790..275323	-	177	42518328	-	LJ0242	-	COG1309K	hypothetical protein
+275534..275947	+	137	42518329	-	LJ0243	-	-	hypothetical protein
+276509..277663	+	384	42518330	-	LJ0244	-	-	hypothetical protein
+277846..278691	+	281	42518331	-	LJ0245	-	COG1131V	ABC transporter ATPase component
+278691..279557	+	288	42518332	-	LJ0246	-	-	hypothetical protein
+279547..279996	+	149	42518333	-	LJ0247	-	COG3279KT	hypothetical protein
+279998..280387	+	129	42518334	-	LJ0248	-	-	hypothetical protein
+280412..280915	+	167	42518335	-	LJ0249	-	COG3153R	hypothetical protein
+280973..281113	+	46	42518336	-	LJ0249b	-	-	hypothetical protein
+281182..282180	-	332	42518337	-	LJ0250	-	COG0604CR	hypothetical protein
+282158..282607	-	149	42518338	-	LJ0251	-	COG1959K	hypothetical protein
+282916..283404	+	162	42518339	-	LJ0252	-	COG0350L	methylated DNA-protein cysteine methyltransferase
+284067..284582	-	171	42518340	-	LJ0253	-	-	hypothetical protein
+284895..285155	+	86	42518341	-	LJ0254	-	-	hypothetical protein
+285202..285915	-	237	42518342	-	LJ0255	-	-	hypothetical protein
+286002..286454	+	150	42518343	-	LJ0256	-	-	hypothetical protein
+286574..287332	-	252	42518344	-	LJ0257	-	COG0778C	nitro/flavin reductase
+287473..288888	-	471	42518345	-	LJ0258	-	COG4690E	dipeptidase
+288966..289793	-	275	42518346	-	LJ0259	-	COG2207K	raffinose operon transcriptional regulator
+290014..291975	+	653	42518347	-	LJ0260	-	COG2211G	raffinose permease
+291959..294157	+	732	42518348	-	LJ0261	-	COG3345G	alpha-galactosidase
+294169..295611	+	480	42518349	-	LJ0262	-	COG0366G	sucrose phosphorylase
+295759..296994	+	411	42518350	glyA	LJ0263	-	COG0112E	serine hydroxymethyltransferase
+297280..298272	+	330	42518351	-	LJ0264	-	COG2984R	hypothetical protein
+298269..299168	+	299	42518352	-	LJ0265	-	COG4120R	ABC transporter permease component
+299161..299925	+	254	42518353	-	LJ0266	-	COG1101R	ABC transporter ATPase component
+300030..301628	+	532	42518354	-	LJ0267	-	COG0531E	hypothetical protein
+301745..301996	+	83	42518355	rpmE2	LJ0268	-	COG0254J	50S ribosomal protein L31 type B
+302159..303526	+	455	42518356	-	LJ0269	-	COG0770M	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D- alanyl ligase
+303542..304996	+	484	42518357	-	LJ0270	-	COG0513LKJ	RNA helicase
+305072..305431	+	119	42518358	acpS	LJ0271	-	COG0736I	4'-phosphopantetheinyl transferase
+305431..306561	+	376	42518359	-	LJ0272	-	COG0787M	alanine racemase
+306626..307306	-	226	42518360	-	LJ0273	-	COG3448T	hypothetical protein
+307453..308424	-	323	42518361	-	LJ0274	-	COG0039C	L-lactate dehydrogenase
+308537..309586	-	349	42518362	-	LJ0275	-	COG2826L	transposase
+309811..310368	+	185	42518363	-	LJ0276	-	COG0193J	peptidyl-tRNA hydrolase
+310370..313867	+	1165	42518364	-	LJ0277	-	COG1197LK	transcription-repair coupling factor
+313885..314127	+	80	42518365	-	LJ0278	-	COG1188J	hypothetical protein
+314216..314593	+	125	42518366	-	LJ0279	-	COG2919D	hypothetical protein
+314593..314949	+	118	42518367	-	LJ0280	-	COG1098J	hypothetical protein
+314972..316267	+	431	42518368	-	LJ0281	-	COG0037D	hypothetical protein
+316351..318477	+	708	42518369	-	LJ0282	-	COG0465O	cell division protein FtsH-like protein
+318548..321235	+	895	42518370	-	LJ0283	-	COG4485S	hypothetical protein
+321298..323940	+	880	42518371	-	LJ0284	-	COG4485S	hypothetical protein
+323994..324869	+	291	42518372	hslO	LJ0285	-	COG1281O	Hsp33-like chaperonin
+324929..325936	+	335	42518373	-	LJ0286	-	COG0042J	hypothetical protein
+325951..327492	+	513	42518374	lysS	LJ0287	-	COG1190J	lysyl-tRNA synthetase
+327894..329069	-	391	42518375	-	LJ0288	-	COG4974L	Lj965 prophage integrase
+329225..329749	-	174	42518376	-	LJ0289	-	-	Lj965 prophage superinfection immunity protein
+329842..330372	-	176	42518377	-	LJ0290	-	-	Lj965 prophage protein
+330483..331268	-	261	42518378	-	LJ0291	-	-	Lj965 prophage protein
+331240..331698	-	152	42518379	-	LJ0292	-	-	Lj965 prophage protein
+331779..332201	-	140	42518380	-	LJ0293	-	COG2856E	Lj965 prophage repressor
+332205..332558	-	117	42518381	-	LJ0294	-	COG1813K	Lj965 prophage repressor
+332731..332934	+	67	42518382	-	LJ0294b	-	COG1476K	Lj965 prophage Cro-repressor
+332972..333721	+	249	42518383	-	LJ0295	-	COG3561K	Lj965 prophage antirepressor
+333733..334011	+	92	42518384	-	LJ0296	-	-	Lj928 prophage protein
+334136..334345	+	69	42518385	-	LJ1452b	-	-	Lj928 prophage protein
+334342..334491	+	49	42518386	-	LJ0296b	-	-	Lj965 prophage protein
+334860..335225	+	121	42518387	-	LJ0297	-	-	Lj965 prophage protein
+335237..336136	+	299	42518388	-	LJ0298	-	-	Lj965 prophage protein
+336139..336975	+	278	42518389	-	LJ0299	-	-	Lj965 prophage replication protein
+336985..337719	+	244	42518390	-	LJ0300	-	-	Lj965 prophage replication protein
+337709..337993	+	94	42518391	-	LJ0301	-	-	Lj965 prophage protein
+338129..338965	+	278	42518392	-	LJ0302	-	COG3617K	Lj965 prophage antirepressor
+339360..339842	+	160	42518393	-	LJ0303	-	-	Lj965 prophage protein
+341279..342334	+	351	42518394	-	LJ0304	-	-	Lj965 prophage protein
+342312..342692	+	126	42518395	-	LJ0305	-	COG4933S	Lj965 prophage protein
+342714..343310	+	198	42518396	-	LJ0306	-	-	Lj965 prophage protein
+343363..344217	+	284	42518397	-	LJ0307	-	COG3728L	Lj965 prophage terminase small subunit
+344204..345478	+	424	42518398	-	LJ0308	-	COG1783R	Lj965 prophage terminase large subunit
+345494..346993	+	499	42518399	-	LJ0309	-	-	Lj965 prophage portal protein
+346923..347210	+	95	42518400	-	LJ0310	-	COG2868J	Lj965 prophage protein
+347217..348299	+	360	42518401	-	LJ0311	-	COG5585T	Lj965 prophage minor head protein
+348454..349098	+	214	42518402	-	LJ0312	-	-	Lj965 prophage scaffold protein
+349111..349476	+	121	42518403	-	LJ0313	-	-	Lj965 prophage protein
+349497..350546	+	349	42518404	-	LJ0314	-	-	Lj965 prophage major head protein
+350556..350873	+	105	42518405	-	LJ0315	-	-	Lj965 prophage protein
+350870..351223	+	117	42518406	-	LJ0316	-	-	Lj965 prophage protein
+351216..351764	+	182	42518407	-	LJ0317	-	-	Lj965 prophage protein
+351765..352133	+	122	42518408	-	LJ0318	-	-	Lj965 prophage protein
+352136..352615	+	159	42518409	-	LJ0319	-	-	Lj965 prophage major tail protein
+352693..353103	+	136	42518410	-	LJ0320	-	-	Lj965 prophage protein
+353196..353489	+	97	42518411	-	LJ0321	-	-	Lj965 prophage protein
+353489..359554	+	2021	42518412	-	LJ0322	-	COG3953R	Lj965 prophage putative minor tail protein
+359572..359928	+	118	42518413	-	LJ0323	-	-	Lj965 prophage protein
+359942..364816	+	1624	42518414	-	LJ0324	-	COG3883S	Lj965 prophage protein
+364948..365208	+	86	42518415	-	LJ0325	-	-	Lj965 prophage protein
+365208..365615	+	135	42518416	-	LJ0326	-	-	Lj965 prophage protein
+365625..365882	+	85	42518417	-	LJ0327	-	-	Lj965 prophage protein
+365875..366222	+	115	42518418	-	LJ0328	-	-	Lj965 prophage holin
+366215..367147	+	310	42518419	-	LJ0329	-	COG3757M	Lj965 prophage lysin
+367573..367791	+	72	42518420	-	LJ0330	-	-	Lj965 prophage protein
+368143..370611	+	822	42518421	-	LJ0331	-	COG0542O	ATP-dependent Clp protease ATP-binding subunit clpA-like protein
+370819..374448	+	1209	42518422	rpoB	LJ0332	-	COG0085K	DNA-directed RNA polymerase subunit beta
+374466..378140	+	1224	42518423	-	LJ0333	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+378215..378886	-	223	42518424	-	LJ0334	-	COG1989NOU	hypothetical protein
+379053..379460	+	135	42518425	rpsL	LJ0335	-	COG0048J	30S ribosomal protein S12
+379484..379954	+	156	42518426	-	LJ0336	-	COG0049J	30S ribosomal protein S7
+379984..382080	+	698	42518427	-	LJ0337	-	COG0480J	elongation factor G
+382351..382659	+	102	42518428	rpsJ	LJ0338	-	COG0051J	30S ribosomal protein S10
+382686..383315	+	209	42518429	rplC	LJ0339	-	COG0087J	50S ribosomal protein L3
+383330..383947	+	205	42518430	rplD	LJ0340	-	COG0088J	50S ribosomal protein L4
+383947..384243	+	98	42518431	rplW	LJ0341	-	COG0089J	50S ribosomal protein L23
+384263..385099	+	278	42518432	rplB	LJ0342	-	COG0090J	50S ribosomal protein L2
+385121..385408	+	95	42518433	rpsS	LJ0343	-	COG0185J	30S ribosomal protein S19
+385429..385782	+	117	42518434	rplV	LJ0344	-	COG0091J	50S ribosomal protein L22
+385797..386465	+	222	42518435	rpsC	LJ0345	-	COG0092J	30S ribosomal protein S3
+386468..386905	+	145	42518436	rplP	LJ0346	-	COG0197J	50S ribosomal protein L16
+386895..387092	+	65	42518437	rpmC	LJ0346b	-	COG0255J	50S ribosomal protein L29
+387115..387381	+	88	42518438	rpsQ	LJ0347	-	COG0186J	30S ribosomal protein S17
+387415..387783	+	122	42518439	rplN	LJ0348	-	COG0093J	50S ribosomal protein L14
+387804..388043	+	79	42518440	rplX	LJ0349	-	COG0198J	50S ribosomal protein L24
+388058..388600	+	180	42518441	rplE	LJ0350	-	COG0094J	50S ribosomal protein L5
+388615..388800	+	61	42518442	rpsN	LJ0350b	-	COG0199J	30S ribosomal protein S14
+388825..389223	+	132	42518443	rpsH	LJ0351	-	COG0096J	30S ribosomal protein S8
+389248..389778	+	176	42518444	rplF	LJ0352	-	COG0097J	50S ribosomal protein L6
+389806..390165	+	119	42518445	rplR	LJ0353	-	COG0256J	50S ribosomal protein L18
+390183..390707	+	174	42518446	rpsE	LJ0354	-	COG0098J	30S ribosomal protein S5
+390720..390902	+	60	42518447	rpmD	LJ0354b	-	COG1841J	50S ribosomal protein L30
+390928..391368	+	146	42518448	rplO	LJ0355	-	COG0200J	50S ribosomal protein L15
+391368..392663	+	431	42518449	secY	LJ0356	-	COG0201U	preprotein translocase subunit SecY
+392675..393328	+	217	42518450	adk	LJ0357	-	COG0563F	adenylate kinase
+393402..393623	+	73	42518451	infA	LJ0358	-	COG0361J	translation initiation factor IF-1
+393638..393754	+	38	42518452	rpmJ	LJ0358b	-	COG0257J	50S ribosomal protein L36
+393788..394135	+	115	42518453	rpsM	LJ0359	-	COG0099J	30S ribosomal protein S13
+394160..394549	+	129	42518454	-	LJ0360	-	COG0100J	30S ribosomal protein S11
+394595..395533	+	312	42518455	-	LJ0361	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+395560..395943	+	127	42518456	rplQ	LJ0362	-	COG0203J	50S ribosomal protein L17
+396129..396977	+	282	42518457	cbiO	LJ0363	-	COG1122P	cobalt transporter ATP-binding subunit
+396953..397822	+	289	42518458	cbiO	LJ0364	-	COG1122P	cobalt transporter ATP-binding subunit
+397815..398612	+	265	42518459	-	LJ0365	-	COG0619P	ABC transporter permease component
+398616..399407	+	263	42518460	truA	LJ0366	-	COG0101J	tRNA pseudouridine synthase A
+399510..399953	+	147	42518461	rplM	LJ0367	-	COG0102J	50S ribosomal protein L13
+399967..400362	+	131	42518462	rpsI	LJ0368	-	COG0103J	30S ribosomal protein S9
+400937..402424	+	495	42518463	-	LJ0369	-	COG1132V	ABC transporter permease component
+402425..403999	+	524	42518464	-	LJ0370	-	COG1132V	ABC transporter ATPase and permease components
+404024..404410	+	128	42518465	-	LJ0371	-	COG0406G	hypothetical protein
+404511..405560	+	349	42518466	-	LJ0372	-	COG2826L	transposase
+405611..406129	+	172	42518467	-	LJ0373	-	-	hypothetical protein
+406355..406939	-	194	42518468	-	LJ0374	-	COG0693R	hypothetical protein
+407201..407890	+	229	42518469	-	LJ0375	-	COG0406G	hypothetical protein
+407917..408243	-	108	42518470	-	LJ0376	-	COG0640K	hypothetical protein
+408336..409220	+	294	42518471	-	LJ0377	-	COG1230P	hypothetical protein
+409285..409542	+	85	42518472	-	LJ0378	-	-	hypothetical protein
+409545..409787	+	80	42518473	-	LJ0379	-	-	hypothetical protein
+409797..410486	+	229	42518474	-	LJ0380	-	COG0588G	phosphoglycerate mutase
+410595..411530	+	311	42518475	-	LJ0381	-	COG4639R	hypothetical protein
+411766..422625	+	3619	42518476	-	LJ0382	-	-	hypothetical protein
+422908..424569	-	553	42518477	-	LJ0383	-	COG0531E	hypothetical protein
+425047..426234	+	395	42518478	-	LJ0384	-	COG0201U	hypothetical protein
+426237..427745	+	502	42518479	-	LJ0385	-	-	hypothetical protein
+427747..429291	+	514	42518480	-	LJ0386	-	-	hypothetical protein
+429275..430135	+	286	42518481	-	LJ0387	-	-	hypothetical protein
+430140..432506	+	788	42518482	-	LJ0388	-	COG0653U	preprotein translocase subunit SecA
+432519..434045	+	508	42518483	-	LJ0389	-	COG0438M	hypothetical protein
+434042..435370	+	442	42518484	-	LJ0390	-	-	hypothetical protein
+435913..439203	+	1096	42518485	-	LJ0391	-	-	hypothetical protein
+439357..440235	+	292	42518486	-	LJ0393	-	COG0463M	hypothetical protein
+440291..441307	-	338	42518487	-	LJ0394	-	-	hypothetical protein
+441590..442939	-	449	42518488	-	LJ0395	-	COG3579E	aminopeptidase C
+443136..444170	+	344	42518489	-	LJ0396	-	COG1316K	hypothetical protein
+444288..444839	+	183	42518490	-	LJ0397	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+444839..446218	+	459	42518491	-	LJ0398	-	COG1066O	DNA repair protein RadA
+446300..447799	+	499	42518492	gltX	LJ0399	-	COG0008J	glutamyl-tRNA synthetase
+447889..449301	+	470	42518493	cysS	LJ0400	-	COG0215J	cysteinyl-tRNA synthetase
+449294..449737	+	147	42518494	-	LJ0401	-	COG1939S	hypothetical protein
+449724..450479	+	251	42518495	-	LJ0402	-	COG0566J	hypothetical protein
+451032..451250	+	72	42518496	-	LJ0403	-	-	hypothetical protein
+451318..451536	+	72	42518497	-	LJ0404	-	-	hypothetical protein
+451658..453166	+	502	42518498	-	LJ0405	-	COG1070G	gluconokinase
+453232..454992	-	586	42518499	-	LJ0406	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+455092..456339	-	415	42518500	-	LJ0407	-	COG2807P	hypothetical protein
+456437..457489	-	350	42518501	-	LJ0408	-	COG0142H	hypothetical protein
+457819..457968	+	49	42518502	rpmG	LJ0408b	-	COG0267J	50S ribosomal protein L33
+457976..458146	+	56	42518503	secE	LJ0408c	-	-	preprotein translocase subunit SecE
+458242..458793	+	183	42518504	-	LJ0409	-	COG0250K	transcription antitermination protein NusG
+458925..459350	+	141	42518505	rplK	LJ0410	-	COG0080J	50S ribosomal protein L11
+459448..460140	+	230	42518506	rplA	LJ0411	-	COG0081J	50S ribosomal protein L1
+460271..460915	+	214	42518507	-	LJ0412	-	COG0765E	ABC transporter permease component
+460902..461549	+	215	42518508	-	LJ0413	-	COG1126E	ABC transporter ATPase component
+461549..462337	+	262	42518509	-	LJ0414	-	COG0834ET	ABC transporter solute-binding component
+462537..463037	+	166	42518510	rplJ	LJ0415	-	COG0244J	50S ribosomal protein L10
+463081..463443	+	120	42518511	rplL	LJ0416	-	COG0222J	50S ribosomal protein L7/L12
+463521..464357	+	278	42518512	-	LJ0417	-	-	hypothetical protein
+464389..464613	-	74	42518513	-	LJ0418	-	-	hypothetical protein
+464717..465328	+	203	42518514	-	LJ0419	-	COG2813J	hypothetical protein
+465795..466616	+	273	42518515	-	LJ0420	-	-	hypothetical protein
+466729..467055	+	108	42518516	-	LJ0421	-	COG5294S	hypothetical protein
+467129..467611	+	160	42518517	-	LJ0422	-	COG0590FJ	hypothetical protein
+467788..469596	+	602	42518518	-	LJ0423	-	COG2812L	DNA polymerase III subunit gamma/tau
+469610..469939	+	109	42518519	-	LJ0424	-	COG0718S	hypothetical protein
+469941..470540	+	199	42518520	recR	LJ0425	-	COG0353L	recombination protein RecR
+470537..470773	+	78	42518521	-	LJ0426	-	-	hypothetical protein
+470880..471521	+	213	42518522	tmk	LJ0427	-	COG0125F	thymidylate kinase
+471535..471861	+	108	42518523	-	LJ0428	-	COG3870S	hypothetical protein
+471861..472718	+	285	42518524	-	LJ0429	-	COG2812L	hypothetical protein
+472729..473073	+	114	42518525	-	LJ0430	-	COG4467S	DNA replication intiation control protein YabA
+473079..473936	+	285	42518526	-	LJ0431	-	COG0313R	hypothetical protein
+473951..474685	+	244	42518527	-	LJ0432	-	COG3884I	hypothetical protein
+474734..475255	+	173	42518528	-	LJ0433	-	-	hypothetical protein
+475284..476009	+	241	42518529	-	LJ0434	-	COG1214O	hypothetical protein
+475993..476529	+	178	42518530	-	LJ0435	-	COG0456R	hypothetical protein
+476547..477593	+	348	42518531	-	LJ0436	-	COG0533O	putative DNA-binding/iron metalloprotein/AP endonuclease
+477811..480813	+	1000	42518532	-	LJ0437	-	COG1196D	hypothetical protein
+480818..481699	+	293	42518533	-	LJ0438	-	-	hypothetical protein
+481951..482574	+	207	42518534	-	LJ0439	-	-	hypothetical protein
+482669..484024	-	451	42518535	-	LJ0440	-	COG0038P	hypothetical protein
+484157..485149	-	330	42518536	-	LJ0441	-	COG0516F	guanosine 5'-monophosphate oxidoreductase
+485340..486629	+	429	42518537	-	LJ0442	-	COG0104F	adenylosuccinate synthetase
+486633..487928	+	431	42518538	-	LJ0443	-	COG0015F	adenylosuccinate lyase
+488002..488745	+	247	42518539	-	LJ0444	-	-	hypothetical protein
+488764..489216	+	150	42518540	-	LJ0445	-	COG1051F	hypothetical protein
+489377..489625	+	82	42518541	-	LJ0446	-	-	hypothetical protein
+489625..489978	+	117	42518542	-	LJ0447	-	-	hypothetical protein
+490168..491427	+	419	42518543	-	LJ0448	-	COG3290T	two-component system histidine kinase
+491428..492195	+	255	42518544	-	LJ0449	-	COG3279KT	two-component system response regulator
+492358..493116	+	252	42518545	-	LJ0450	-	COG1804C	hypothetical protein
+493315..494133	+	272	42518546	-	LJ0451	-	-	hypothetical protein
+494251..494718	+	155	42518547	-	LJ0452	-	-	hypothetical protein
+494812..496104	-	430	42518548	-	LJ0453	-	COG1653G	hypothetical protein
+496215..498140	-	641	42518549	-	LJ0454	-	COG0488R	ABC transporter ATPase component
+498306..498950	+	214	42518550	-	LJ0455	-	COG2344R	redox-sensing transcriptional repressor Rex
+499091..499657	+	188	42518551	-	LJ0456	-	COG1611R	hypothetical protein
+499599..499904	+	101	42518552	-	LJ0457	-	COG1440G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC cellobiose specific
+500064..500522	+	152	42518553	-	LJ0458	-	COG3279KT	hypothetical protein
+500519..501277	+	252	42518554	-	LJ0459	-	-	hypothetical protein
+501720..501872	-	50	42518555	-	LJ0459b	-	-	hypothetical protein
+502194..502478	+	94	42518556	groES	LJ0460	-	COG0234O	co-chaperonin GroES
+502509..504140	+	543	42518557	groEL	LJ0461	-	COG0459O	chaperonin GroEL
+504280..504528	+	82	42518558	-	LJ0462	-	-	hypothetical protein
+504477..505115	+	212	42518559	-	LJ0463	-	-	hypothetical protein
+505720..507483	+	587	42518560	-	LJ0464	-	COG1132V	ABC transporter ATPase and permease components
+507610..510183	+	857	42518561	-	LJ0465	-	COG0249L	DNA mismatch repair protein MutS
+510189..512081	+	630	42518562	mutL	LJ0466	-	COG0323L	DNA mismatch repair protein
+512087..512665	+	192	42518563	ruvA	LJ0467	-	COG0632L	Holliday junction DNA helicase RuvA
+512694..513713	+	339	42518564	ruvB	LJ0468	-	COG2255L	Holliday junction DNA helicase RuvB
+513789..514229	+	146	42518565	-	LJ0469	-	COG1862U	hypothetical protein
+514327..515775	+	482	42518566	-	LJ0470	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+515775..516896	+	373	42518567	-	LJ0471	-	COG0389L	DNA polymerase IV
+516934..517899	+	321	42518568	-	LJ0472	-	COG0618R	hypothetical protein
+517883..519268	+	461	42518569	-	LJ0473	-	COG0513LKJ	RNA helicase
+519500..522148	+	882	42518570	alaS	LJ0474	-	COG0013J	alanyl-tRNA synthetase
+522203..522460	+	85	42518571	-	LJ0475	-	COG4472S	hypothetical protein
+522460..522891	+	143	42518572	-	LJ0476	-	COG0816L	Holliday junction resolvase-like protein
+522893..523207	+	104	42518573	-	LJ0477	-	COG3906S	hypothetical protein
+523265..523807	+	180	42518574	-	LJ0478	-	COG1286R	hypothetical protein
+523849..526215	+	788	42518575	-	LJ0479	-	COG1193L	DNA mismatch repair protein MutS
+526294..526605	+	103	42518576	-	LJ0480	-	COG3118O	thioredoxin
+526688..527083	-	131	42518577	-	LJ0481	-	-	hypothetical protein
+527180..527980	+	266	42518578	-	LJ0482	-	COG0796M	glutamate racemase
+527983..528606	+	207	42518579	-	LJ0483	-	COG0127F	nucleoside-triphosphatase
+528762..540875	+	4037	42518580	-	LJ0484	-	-	hypothetical protein
+541051..542229	+	392	42518581	-	LJ0485	-	COG0282C	acetate kinase
+542275..542808	-	177	42518582	-	LJ0486	-	COG0668M	hypothetical protein
+542790..543170	-	126	42518583	-	LJ0487	-	-	hypothetical protein
+543293..543724	+	143	42518584	-	LJ0488	-	COG4768R	hypothetical protein
+543747..544079	+	110	42518585	-	LJ0489	-	-	hypothetical protein
+544173..545279	-	368	42518586	-	LJ0490	-	COG0006E	Xaa-Pro dipeptidase
+545423..546418	+	331	42518587	-	LJ0491	-	COG1609K	catabolite control protein A
+546491..549307	-	938	42518588	-	LJ0492	-	COG0744M	hypothetical protein
+549406..550803	-	465	42518589	-	LJ0493	-	COG0624E	dipeptidase PepV
+550823..552205	-	460	42518590	-	LJ0494	-	COG0584C	hypothetical protein
+552305..552631	+	108	42518591	-	LJ0495	-	-	hypothetical protein
+552644..554023	+	459	42518592	-	LJ0496	-	COG0737F	hypothetical protein
+554023..554562	+	179	42518593	-	LJ0497	-	COG4470S	hypothetical protein
+554565..555347	+	260	42518594	-	LJ0498	-	COG0647G	hypothetical protein
+555344..555952	+	202	42518595	-	LJ0499	-	COG4478S	hypothetical protein
+555960..556610	-	216	42518596	-	LJ0500	-	COG0586S	hypothetical protein
+556637..557593	-	318	42518597	-	LJ0501	-	COG0492O	hypothetical protein
+557693..558064	+	123	42518598	-	LJ0502	-	COG1098J	hypothetical protein
+564086..565294	+	402	42518599	-	LJ0677	-	COG0192H	S-adenosylmethionine synthetase
+565284..566741	+	485	42518600	-	LJ0678	-	COG2814G	major facilitator superfamily permease
+566784..567434	-	216	42518601	-	LJ0679	-	COG0671I	hypothetical protein
+567734..570148	+	804	42518602	leuS	LJ0680	-	COG0495J	leucyl-tRNA synthetase
+570250..571908	+	552	42518603	-	LJ0681	-	COG2244R	export protein for polysaccharides and teichoic acids
+572015..573151	+	378	42518604	-	LJ0682	-	COG3319Q	hypothetical protein
+573239..573985	+	248	42518605	-	LJ0683	-	-	hypothetical protein
+574029..574874	+	281	42518606	-	LJ0684	-	COG0063G	hypothetical protein
+574927..575853	+	308	42518607	-	LJ0685	-	COG1686M	D-alanyl-D-alanine carboxypeptidase
+576133..577809	+	558	42518608	argS	LJ0686	-	COG0018J	arginyl-tRNA synthetase
+577921..578838	+	305	42518609	-	LJ0687	-	COG0191G	fructose-bisphosphate aldolase
+578905..579216	+	103	42518610	-	LJ0688	-	-	hypothetical protein
+579725..580261	+	178	42518611	-	LJ0689	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+580273..580944	+	223	42518612	-	LJ0690	-	COG0518F	hypothetical protein
+581016..581648	+	210	42518613	-	LJ0691	-	COG2910R	hypothetical protein
+581866..583203	-	445	42518614	-	LJ0692	-	COG0675L	transposase
+583303..583767	+	154	42518615	-	LJ0693	-	COG1943L	transposase
+583810..584268	-	152	42518616	-	LJ0694	-	COG1956T	hypothetical protein
+584316..585527	-	403	42518617	-	LJ0695	-	COG0038P	hypothetical protein
+585654..586649	+	331	42518618	-	LJ0696	-	-	hypothetical protein
+586717..587283	+	188	42518619	-	LJ0697	-	COG2818L	3-methyladenine DNA glycosylase
+587283..588221	+	312	42518620	-	LJ0698	-	COG0679R	hypothetical protein
+588237..589022	+	261	42518621	-	LJ0699	-	-	hypothetical protein
+589061..589813	-	250	42518622	-	LJ0700	-	COG0580G	glycerol uptake facilitator protein
+590018..591496	+	492	42518623	-	LJ0701	-	COG2814G	major facilitator superfamily permease
+591603..593054	+	483	42518624	-	LJ0702	-	COG2814G	major facilitator superfamily permease
+593283..593711	+	142	42518625	-	LJ0703	-	-	hypothetical protein
+593837..594922	+	361	42518626	-	LJ0704	-	-	hypothetical protein
+594967..595755	-	262	42518627	-	LJ0705	-	COG0561R	hypothetical protein
+595937..596410	+	157	42518628	-	LJ0706	-	COG3477S	hypothetical protein
+596451..597257	-	268	42518629	-	LJ0707	-	COG0561R	hypothetical protein
+597362..598195	+	277	42518630	-	LJ0708	-	COG2207K	hypothetical protein
+598304..599638	-	444	42518631	-	LJ0709	-	COG2233F	uracil permease
+599886..600326	+	146	42518632	-	LJ0710	-	COG2723G	truncated 6-phospho-beta-galactosidase
+600466..601554	+	362	42518633	-	LJ0711	-	-	hypothetical protein
+601590..602096	+	168	42518634	-	LJ0712	-	COG0406G	hypothetical protein
+602185..603105	+	306	42518635	-	LJ0713	-	COG2066E	glutaminase
+603246..603866	+	206	42518636	-	LJ0714	-	-	hypothetical protein
+603956..605311	-	451	42518637	-	LJ0715	-	-	hypothetical protein
+605345..606670	-	441	42518638	-	LJ0716	-	COG3579E	aminopeptidase C
+606697..608364	-	555	42518639	-	LJ0717	-	COG0531E	hypothetical protein
+608429..609853	-	474	42518640	-	LJ0718	-	COG4690E	dipeptidase
+609887..611212	-	441	42518641	-	LJ0719	-	COG3579E	aminopeptidase C
+611246..612895	-	549	42518642	-	LJ0720	-	COG0531E	hypothetical protein
+613419..614795	+	458	42518643	-	LJ0721	-	COG0531E	hypothetical protein
+614888..616105	-	405	42518644	-	LJ0722	-	COG2814G	major facilitator superfamily permease
+616080..616310	-	76	42518645	-	LJ0723	-	-	hypothetical protein
+616325..616735	-	136	42518646	-	LJ0724	-	COG1846K	hypothetical protein
+616816..617385	-	189	42518647	-	LJ0725	-	-	hypothetical protein
+617495..617725	-	76	42518648	-	LJ0726	-	-	hypothetical protein
+618138..619220	+	360	42518649	-	LJ0727	-	COG1363G	hypothetical protein
+619517..620170	+	217	42518650	-	LJ0728	-	COG4619R	ABC transporter ATPase component
+620148..620909	+	253	42518651	-	LJ0729	-	COG0390R	hypothetical protein
+620979..622265	-	428	42518652	-	LJ0730	-	COG0688I	hypothetical protein
+622293..623726	-	477	42518653	-	LJ0731	-	COG0531E	arginine/ornithine antiporter
+623762..625048	-	428	42518654	-	LJ0732	-	COG0688I	hypothetical protein
+625243..626532	-	429	42518655	-	LJ0733	-	COG1455G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, cellobiose specific
+626665..627810	-	381	42518656	-	LJ0734	-	COG1940KG	hypothetical protein
+627951..628838	+	295	42518657	-	LJ0735	-	COG1940KG	hypothetical protein
+628828..630321	+	497	42518658	-	LJ0736	-	COG2723G	beta-glucosidase
+630318..632591	+	757	42518659	-	LJ0737	-	COG1501G	alpha-xylosidase YicI
+632667..634703	+	678	42518660	-	LJ0738	-	COG1874G	hypothetical protein
+635013..635507	+	164	42518661	-	LJ0739	-	COG3444G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, sorbose specific
+635510..636307	+	265	42518662	-	LJ0740	-	COG3715G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, sorbose specific
+636300..637133	+	277	42518663	-	LJ0741	-	COG3716G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIID, fructose specific
+637151..637582	+	143	42518664	-	LJ0742	-	COG2893G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIA, mannose specific
+637575..639242	+	555	42518665	-	LJ0743	-	COG0366G	oligo-1,6-glucosidase
+639235..640215	+	326	42518666	-	LJ0744	-	COG1609K	hypothetical protein
+640439..641932	+	497	42518667	-	LJ0745	-	COG3104E	dipeptide/tripeptide permease
+642114..643520	+	468	42518668	-	LJ0746	-	COG4690E	hypothetical protein
+643611..644849	+	412	42518669	-	LJ0747	-	COG2814G	major facilitator superfamily permease
+644949..645803	+	284	42518670	-	LJ0748	-	COG4814R	hypothetical protein
+645841..646212	+	123	42518671	-	LJ0749	-	COG1846K	hypothetical protein
+646282..648015	+	577	42518672	-	LJ0750	-	COG1132V	ABC transporter ATPase and permease components
+648008..649777	+	589	42518673	-	LJ0751	-	COG1132V	ABC transporter ATPase and permease components
+649841..650662	+	273	42518674	-	LJ0752	-	COG0834ET	glutamine ABC transporter solute-binding component
+651106..651855	+	249	42518675	-	LJ0753	-	COG1126E	glutamine ABC transporter ATPase component
+651857..652681	+	274	42518676	-	LJ0754	-	COG0834ET	glutamine ABC transporter solute-binding component
+652678..653316	+	212	42518677	-	LJ0755	-	COG0765E	glutamine ABC transporter permease component
+653330..653980	+	216	42518678	-	LJ0756	-	COG0765E	glutamine ABC transporter permease component
+654165..654554	+	129	42518679	-	LJ0757	-	-	hypothetical protein
+654614..656272	-	552	42518680	-	LJ0758	-	COG0366G	trehalose-6-phosphate hydrolase
+656288..657190	-	300	42518681	-	LJ0759	-	COG2188K	trehalose operon repressor
+657207..659135	+	642	42518682	-	LJ0760	-	COG1263G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, trhalose specific
+659335..660129	+	264	42518683	-	LJ0761	-	-	hypothetical protein
+660137..660364	+	75	42518684	-	LJ0762	-	-	hypothetical protein
+660391..661026	-	211	42518685	-	LJ0763	-	COG0572F	uridine kinase
+661355..661507	+	50	42518686	-	LJ0763b	-	-	lactacin F two-component system inducer peptide precursor
+661510..662817	+	435	42518687	-	LJ0764	-	COG2972T	lactacin F two-component system histidine kinase
+662960..664117	+	385	42518688	-	LJ0765	-	COG0675L	transposase
+664315..665112	+	265	42518689	-	LJ0766	-	COG3279KT	lactacin F two-component system response regulator
+665125..667284	+	719	42518690	-	LJ0767	-	COG2274V	lactacin F ABC transporter permease component
+667295..667888	+	197	42518691	-	LJ0768	-	-	lactacin F transporter auxillary protein
+668015..668242	+	75	42518692	-	LJ0769	-	-	bacteriocin lactacin F, subunit LafA precursor
+668253..668441	+	62	42518693	-	LJ0769b	-	-	bacteriocin lactacin F, subunit LafX precursor
+668528..668902	+	124	42518694	-	LJ0770	-	-	lactacin F immunity protein
+669022..669237	-	71	42518695	-	LJ0771	-	-	hypothetical protein
+669262..670311	+	349	42518696	-	LJ0772	-	COG2826L	transposase
+670446..670853	+	135	42518697	-	LJ0773	-	COG3279KT	lactacin F two-component system response regulator fragment
+670866..673025	+	719	42518698	-	LJ0774	-	COG2274V	lactacin F ABC transporter permease component
+673036..673629	+	197	42518699	-	LJ0775	-	-	lactacin F transporter auxillary protein
+673779..673973	+	64	42518700	-	LJ0775b	-	-	hypothetical protein
+674086..674376	+	96	42518701	-	LJ0776	-	-	hypothetical protein
+674461..675693	+	410	42518702	-	LJ0777	-	-	hypothetical protein
+675702..676064	+	120	42518703	-	LJ0778	-	-	hypothetical protein
+676064..676282	+	72	42518704	-	LJ0779	-	-	hypothetical protein
+676269..676499	+	76	42518705	-	LJ0780	-	-	hypothetical protein
+676622..676936	+	104	42518706	-	LJ0781	-	-	hypothetical protein
+676939..677223	+	94	42518707	-	LJ0782	-	-	hypothetical protein
+677311..679011	+	566	42518708	-	LJ0783	-	COG0474P	hypothetical protein
+678983..680119	+	378	42518709	-	LJ0784	-	COG0474P	hypothetical protein
+680190..681038	+	282	42518710	-	LJ0785	-	COG4667R	hypothetical protein
+681139..682632	+	497	42518711	-	LJ0786	-	COG0765E	ABC transporter permease component
+682619..683350	+	243	42518712	-	LJ0787	-	COG1126E	ABC transporter ATPase component
+683395..683967	+	190	42518713	-	LJ0788	-	COG0456R	hypothetical protein
+684085..684954	+	289	42518714	-	LJ0789	-	COG0226P	ABC transporter solute-binding component
+684971..685963	+	330	42518715	-	LJ0790	-	COG0573P	ABC transporter permease component
+685963..686853	+	296	42518716	-	LJ0791	-	COG0581P	ABC transporter permease component
+686864..687664	+	266	42518717	-	LJ0792	-	COG1117P	phosphate transporter ATP-binding protein
+687675..688430	+	251	42518718	-	LJ0793	-	COG1117P	phosphate ABC transporter ATP-binding protein
+688447..689130	+	227	42518719	-	LJ0794	-	COG0704P	phosphate uptake regulator
+689342..690880	+	512	42518720	-	LJ0795	-	COG1288S	hypothetical protein
+690964..691431	+	155	42518721	-	LJ0796	-	COG0783P	non-heme iron-containing ferritin
+691521..692447	+	308	42518722	-	LJ0797	-	COG0524G	ribokinase
+692447..693145	+	232	42518723	-	LJ0798	-	COG0120G	ribose-5-phosphate isomerase A
+693262..694185	+	307	42518724	-	LJ0799	-	COG1957F	hypothetical protein
+694185..694913	+	242	42518725	-	LJ0800	-	COG2188K	hypothetical protein
+694979..695305	-	108	42518726	-	LJ0801	-	-	hypothetical protein
+695570..696355	+	261	42518727	-	LJ0802	-	COG1349KG	hypothetical protein
+696462..698867	+	801	42518728	-	LJ0803	-	COG3957G	putative phosphoketolase
+699028..699684	+	218	42518729	-	LJ0804	-	COG0778C	hypothetical protein
+699815..700507	+	230	42518730	-	LJ0805	-	-	hypothetical protein
+700558..700878	+	106	42518731	-	LJ0806	-	COG1253R	hypothetical protein
+700850..701941	+	363	42518732	-	LJ0807	-	COG1253R	hypothetical protein
+702039..702608	+	189	42518733	-	LJ0808	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+702699..704009	-	436	42518734	-	LJ0809	-	COG0531E	amino acid permease
+704130..704840	+	236	42518735	-	LJ0810	-	COG3757M	hypothetical protein
+704851..706080	+	409	42518736	-	LJ0811	-	COG0513LKJ	hypothetical protein
+706080..707411	+	443	42518737	-	LJ0812	-	COG1455G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, cellobiose specific
+707627..708904	-	425	42518738	-	LJ0813	-	COG3464L	transposase
+709084..709455	-	123	42518739	-	LJ0814	-	-	hypothetical protein
+709488..711656	-	722	42518740	-	LJ0815	-	COG0542O	ATP-dependent Clp protease ATP-binding subunit clpE
+712163..712429	+	88	42518741	-	LJ0816	-	COG1925G	phosphocarrier protein HPr
+712429..714168	+	579	42518742	-	LJ0817	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase (enzyme I)
+714364..714756	+	130	42518743	-	LJ0818	-	COG1393P	hypothetical protein
+714859..715512	+	217	42518744	-	LJ0819	-	COG4862OTN	adaptor protein
+715569..716450	+	293	42518745	-	LJ0820	-	COG4469R	hypothetical protein
+716456..717154	-	232	42518746	-	LJ0821	-	-	hypothetical protein
+717132..717755	-	207	42518747	-	LJ0822	-	COG4116S	hypothetical protein
+717833..718459	+	208	42518748	-	LJ0823	-	COG2357S	hypothetical protein
+718459..719271	+	270	42518749	ppnK	LJ0824	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+719271..720170	+	299	42518750	-	LJ0825	-	COG0564J	hypothetical protein
+720270..722045	+	591	42518751	-	LJ0826	-	COG4716S	myosin-cross-reactive antigen
+722113..723342	-	409	42518752	-	LJ0827	-	COG3410S	hypothetical protein
+723412..724434	-	340	42518753	-	LJ0828	-	COG2706G	hypothetical protein
+724574..724954	+	126	42518754	-	LJ0829	-	COG3731G	hypothetical protein
+724966..726147	+	393	42518755	-	LJ0830	-	COG0628R	hypothetical protein
+726220..726777	+	185	42518756	-	LJ0831	-	COG0219J	hypothetical protein
+726779..727213	+	144	42518757	-	LJ0832	-	COG4835S	hypothetical protein
+727235..729658	+	807	42518758	-	LJ0833	-	COG1674D	stage III sporulation protein E
+729661..730875	+	404	42518759	-	LJ0834	-	COG0612R	hypothetical protein
+730872..732107	+	411	42518760	-	LJ0835	-	COG0612R	hypothetical protein
+732108..732836	+	242	42518761	-	LJ0836	-	COG1028IQR	hypothetical protein
+732895..733944	+	349	42518762	-	LJ0837	-	COG1426S	hypothetical protein
+733944..734507	+	187	42518763	-	LJ0838	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate3-phosphatidyltransferase
+734670..735752	+	360	42518764	recA	LJ0839	-	COG0468L	recombinase A
+735879..737501	+	540	42518765	-	LJ0840	-	COG1418R	phosphodiesterase
+737603..738745	+	380	42518766	-	LJ0841	-	COG0472M	hypothetical protein
+738763..739428	-	221	42518767	-	LJ0842	-	COG1739S	hypothetical protein
+739552..740739	+	395	42518768	-	LJ0843	-	COG4098L	COMF operon protein 1
+740736..741407	+	223	42518769	-	LJ0844	-	COG1040R	COMF operon protein 3
+741489..742034	+	181	42518770	-	LJ0845	-	COG1544J	hypothetical protein
+742192..744591	+	799	42518771	secA	LJ0846	-	COG0653U	preprotein translocase subunit SecA
+744791..745789	+	332	42518772	-	LJ0847	-	COG1186J	peptide chain release factor 2
+745808..746086	+	92	42518773	-	LJ0848	-	-	hypothetical protein
+746079..747038	+	319	42518774	-	LJ0849	-	COG1493T	HPr kinase/phosphorylase
+747035..747871	+	278	42518775	-	LJ0850	-	COG0682M	prolipoprotein diacylglyceryl transferase
+747908..748927	+	339	42518776	gpsA	LJ0851	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+748999..749934	+	311	42518777	-	LJ0852	-	COG0492O	thioredoxin reductase
+750021..751013	-	330	42518778	-	LJ0853	-	COG1087M	UDP-glucose 4-epimerase
+751045..751998	-	317	42518779	-	LJ0854	-	-	beta-galactosidase small subunit
+751982..753862	-	626	42518780	-	LJ0855	-	COG3250G	beta-galactosidase large subunit
+754076..755086	+	336	42518781	-	LJ0856	-	COG1609K	lactose operon repressor
+755272..757236	+	654	42518782	-	LJ0857	-	COG2211G	lactose permease
+757248..759254	+	668	42518783	-	LJ0858	-	COG1874G	beta-galactosidase
+759382..760551	+	389	42518784	-	LJ0859	-	COG0153G	galactokinase
+760570..762057	+	495	42518785	-	LJ0860	-	COG4468G	galactose-1-phosphate uridylyltransferase
+762041..763027	+	328	42518786	-	LJ0861	-	COG2017G	aldose 1-epimerase
+763174..764898	+	574	42518787	-	LJ0862	-	COG1109G	phosphomannomutase
+764997..767012	+	671	42518788	-	LJ0863	-	COG0556L	excinuclease ABC subunit B
+767027..769894	+	955	42518789	-	LJ0864	-	COG0178L	excinuclease ABC subunit A
+769944..770483	+	179	42518790	-	LJ0865	-	-	hypothetical protein
+770592..771467	+	291	42518791	-	LJ0866	-	COG1660R	hypothetical protein
+771478..772515	+	345	42518792	-	LJ0867	-	COG0391S	hypothetical protein
+772519..773460	+	313	42518793	-	LJ0868	-	COG1481S	hypothetical protein
+773513..774100	-	195	42518794	clpP	LJ0869	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+774242..775690	-	482	42518795	-	LJ0870	-	COG0531E	amino acid permease
+776127..777158	+	343	42518796	-	LJ0871	-	COG2390K	hypothetical protein
+777213..778229	+	338	42518797	-	LJ0872	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+778336..779547	+	403	42518798	pgk	LJ0873	-	COG0126G	phosphoglycerate kinase
+779566..780321	+	251	42518799	tpiA	LJ0874	-	COG0149G	triosephosphate isomerase
+780368..781666	+	432	42518800	eno	LJ0875	-	COG0148G	phosphopyruvate hydratase
+781790..782023	+	77	42518801	secG	LJ0876	-	COG1314U	preprotein translocase subunit SecG
+782107..784449	+	780	42518802	-	LJ0877	-	COG0557K	ribonuclease R
+784464..784919	+	151	42518803	smpB	LJ0878	-	COG0691O	SsrA-binding protein
+784932..785501	+	189	42518804	-	LJ0879	-	COG0456R	hypothetical protein
+785688..786257	+	189	42518805	-	LJ0880	-	-	hypothetical protein
+786254..786769	-	171	42518806	-	LJ0881	-	COG4894S	hypothetical protein
+786793..787659	-	288	42518807	-	LJ0882	-	COG0561R	hypothetical protein
+787736..788431	+	231	42518808	-	LJ0883	-	COG0692L	uracil-DNA glycosylase
+788505..789482	+	325	42518809	eutD	LJ0884	-	COG0280C	phosphotransacetylase
+789484..789960	+	158	42518810	-	LJ0885	-	COG0802R	hypothetical protein
+789977..790510	-	177	42518811	-	LJ0886	-	COG0847L	hypothetical protein
+790628..791533	+	301	42518812	murB	LJ0887	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+791599..792690	+	363	42518813	-	LJ0888	-	COG3842E	spermidine/putrescine ABC transporter ATPase
+792694..793506	+	270	42518814	-	LJ0889	-	COG1176E	spermidine/putrescine ABC transporter permease
+793503..794300	+	265	42518815	-	LJ0890	-	COG1177E	spermidine/putrescine ABC transporter permease
+794297..795370	+	357	42518816	-	LJ0891	-	COG0687E	spermidine/putrescine ABC transporter solute-binding component
+795411..796259	+	282	42518817	-	LJ0892	-	COG1624S	hypothetical protein
+796256..797224	+	322	42518818	-	LJ0893	-	COG4856S	hypothetical protein
+797237..798604	+	455	42518819	glmM	LJ0894	-	COG1109G	phosphoglucosamine mutase
+798784..799599	+	271	42518820	-	LJ0895	-	COG0561R	hypothetical protein
+799592..799981	+	129	42518821	-	LJ0896	-	COG0239D	hypothetical protein
+799978..800337	+	119	42518822	-	LJ0897	-	COG0239D	camphor resistance protein CrcB
+800392..801609	-	405	42518823	-	LJ0898	-	COG3595S	hypothetical protein
+801721..802428	+	235	42518824	-	LJ0899	-	-	hypothetical protein
+802431..803207	+	258	42518825	-	LJ0900	-	COG0596R	hypothetical protein
+803252..804142	-	296	42518826	-	LJ0901	-	COG0803P	hypothetical protein
+804306..805514	+	402	42518827	-	LJ0902	-	COG0452H	DNA/pantothenate metabolism flavoprotein
+805511..806026	+	171	42518828	-	LJ0903	-	COG5652S	hypothetical protein
+806100..806831	+	243	42518829	-	LJ0904	-	COG0217S	hypothetical protein
+806989..807966	+	325	42518830	-	LJ0905	-	COG2804NU	hypothetical protein
+807932..808933	+	333	42518831	-	LJ0906	-	COG1459NU	hypothetical protein
+808946..809242	+	98	42518832	-	LJ0907	-	COG4537U	hypothetical protein
+809354..809656	+	100	42518833	-	LJ0908	-	-	hypothetical protein
+809646..809864	+	72	42518834	-	LJ0909	-	-	hypothetical protein
+809870..810379	+	169	42518835	-	LJ0910	-	-	hypothetical protein
+810585..811586	+	333	42518836	-	LJ0911	-	COG0827L	hypothetical protein
+811612..812820	+	402	42518837	-	LJ0912	-	COG0282C	acetate kinase
+813481..815874	+	797	42518838	-	LJ0913	-	-	levansucrase precursor
+816113..817003	+	296	42518839	-	LJ0914	-	-	hypothetical protein
+817006..818172	+	388	42518840	-	LJ0915	-	COG1168E	hypothetical protein
+818233..819198	+	321	42518841	-	LJ0916	-	COG1482G	mannose-6-phosphate isomerase
+819223..819615	+	130	42518842	-	LJ0917	-	-	hypothetical protein
+819615..820325	+	236	42518843	-	LJ0918	-	COG0745TK	two-component system response regulator
+820329..821780	+	483	42518844	-	LJ0919	-	COG0642T	two-component system histidine kinase
+821822..822460	-	212	42518845	-	LJ0920	-	COG1368M	hypothetical protein
+822457..823203	-	248	42518846	-	LJ0921	-	COG1368M	hypothetical protein
+823175..824014	-	279	42518847	-	LJ0922	-	COG1368M	hypothetical protein
+824174..824776	+	200	42518848	-	LJ0923	-	COG4767V	hypothetical protein
+824860..826203	+	447	42518849	pgi	LJ0924	-	COG0166G	glucose-6-phosphate isomerase
+826278..827720	+	480	42518850	-	LJ0925	-	COG2814G	hypothetical protein
+827713..828153	+	146	42518851	-	LJ0926	-	-	hypothetical protein
+828512..829531	+	339	42518852	-	LJ0927	-	COG1680V	hypothetical protein
+829568..830920	-	450	42518853	-	LJ0928	-	COG0769M	hypothetical protein
+831079..831678	+	199	42518854	-	LJ0929	-	COG1435F	thymidine kinase
+831710..832798	+	362	42518855	prfA	LJ0930	-	COG0216J	peptide chain release factor 1
+832791..833633	+	280	42518856	-	LJ0931	-	COG2890J	hypothetical protein
+833633..834625	+	330	42518857	-	LJ0932	-	COG0009J	hypothetical protein
+834739..835350	+	203	42518858	upp	LJ0933	-	COG0035F	uracil phosphoribosyltransferase
+835461..836177	+	238	42518859	-	LJ0934	-	COG0356C	F0F1 ATP synthase subunit A
+836196..836408	+	70	42518860	-	LJ0935	-	COG0636C	F0F1 ATP synthase subunit C
+836458..836958	+	166	42518861	-	LJ0936	-	COG0711C	F0F1 ATP synthase subunit B
+836958..837506	+	182	42518862	-	LJ0937	-	COG0712C	F0F1 ATP synthase subunit delta
+837521..839032	+	503	42518863	-	LJ0938	-	COG0056C	F0F1 ATP synthase subunit alpha
+839050..840006	+	318	42518864	-	LJ0939	-	COG0224C	F0F1 ATP synthase subunit gamma
+840029..841471	+	480	42518865	-	LJ0940	-	COG0055C	F0F1 ATP synthase subunit beta
+841483..841923	+	146	42518866	atpC	LJ0941	-	COG0355C	F0F1 ATP synthase subunit epsilon
+841926..842207	+	93	42518867	-	LJ0942	-	COG4836S	hypothetical protein
+842315..843304	+	329	42518868	-	LJ0943	-	COG1077D	rod shape-determining protein MreB
+843494..843787	+	97	42518869	-	LJ0944	-	COG0759S	hypothetical protein
+843798..844025	+	75	42518870	-	LJ0945	-	-	hypothetical protein
+844044..845240	+	398	42518871	-	LJ0946	-	COG0772D	hypothetical protein
+845289..845768	-	159	42518872	-	LJ0947	-	COG0589T	hypothetical protein
+845829..846113	-	94	42518873	-	LJ0948	-	-	hypothetical protein
+846398..847693	-	431	42518874	-	LJ0949	-	COG2256L	recombination factor protein RarA
+847696..848160	-	154	42518875	-	LJ0950	-	COG5506S	hypothetical protein
+848277..848888	-	203	42518876	rpsD	LJ0951	-	COG0522J	30S ribosomal protein S4
+849168..850892	+	574	42518877	-	LJ0952	-	COG4477D	septation ring formation regulator EzrA
+850983..852137	+	384	42518878	-	LJ0953	-	COG1104E	NifS/IcsS protein-like protein
+852147..853364	+	405	42518879	-	LJ0954	-	COG0301H	thiamine biosynthesis protein ThiI
+853415..854116	+	233	42518880	-	LJ0955	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+854120..855232	+	370	42518881	-	LJ0956	-	COG0584C	hypothetical protein
+855444..858071	+	875	42518882	-	LJ0957	-	COG0474P	cation-transporting ATPase PacL
+858364..861003	+	879	42518883	valS	LJ0958	-	COG0525J	valyl-tRNA synthetase
+861006..862271	+	421	42518884	-	LJ0959	-	COG0285H	hypothetical protein
+862261..862941	+	226	42518885	-	LJ0960	-	COG0637R	hypothetical protein
+862980..863591	+	203	42518886	-	LJ0961	-	COG2003L	DNA repair protein RadC
+863729..864730	+	333	42518887	-	LJ0962	-	COG1077D	rod shape-determining protein MreB
+864795..865646	+	283	42518888	-	LJ0963	-	COG1792M	rod shape-determining protein MreC
+865646..866179	+	177	42518889	-	LJ0964	-	COG2891M	rod shape-determining protein MreD
+866453..866788	+	111	42518890	-	LJ0965	-	-	hypothetical protein
+866969..867400	+	143	42518891	-	LJ0966	-	COG2001S	cell division protein MraZ
+867384..868352	+	322	42518892	mraW	LJ0967	-	COG0275M	S-adenosyl-methyltransferase MraW
+868381..868743	+	120	42518893	-	LJ0968	-	COG4839D	hypothetical protein
+868743..870893	+	716	42518894	-	LJ0969	-	COG0768M	penicillin-binding protein 2B
+870918..871877	+	319	42518895	mraY	LJ0970	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+871885..873267	+	460	42518896	murD	LJ0971	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+873270..874382	+	370	42518897	murG	LJ0972	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+874401..875249	+	282	42518898	-	LJ0973	-	COG1589M	Div1B-like protein
+875314..876684	+	456	42518899	-	LJ0974	-	COG0849D	cell division protein FtsA
+876702..878078	+	458	42518900	-	LJ0975	-	COG0206D	cell division protein FtsZ
+878097..878531	+	144	42518901	-	LJ0976	-	COG1799S	hypothetical protein
+878531..878827	+	98	42518902	-	LJ0977	-	-	hypothetical protein
+878829..879626	+	265	42518903	-	LJ0978	-	COG2302S	hypothetical protein
+879631..880419	+	262	42518904	-	LJ0979	-	COG3599D	hypothetical protein
+880626..883433	+	935	42518905	ileS	LJ0980	-	COG0060J	isoleucyl-tRNA synthetase
+883433..883642	+	69	42518906	-	LJ0980b	-	COG1278K	cold shock protein
+883656..884219	+	187	42518907	-	LJ0981	-	COG0494LR	ADP-ribose pyrophosphatase
+884212..884502	+	96	42518908	-	LJ0982	-	-	hypothetical protein
+884518..885219	+	233	42518909	-	LJ0983	-	COG0775F	nucleoside phosphorylase
+885321..886475	+	384	42518910	-	LJ0984	-	COG1104E	cysteine desulfurase NifS
+886579..886914	+	111	42518911	-	LJ0985	-	-	hypothetical protein
+886932..888059	+	375	42518912	mnmA	LJ0986	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+888163..888822	+	219	42518913	-	LJ0987	-	COG0406G	hypothetical protein
+888824..889468	+	214	42518914	-	LJ0988	-	COG4783R	hypothetical protein
+889455..891830	+	791	42518915	-	LJ0989	-	COG0507L	hypothetical protein
+891869..892804	-	311	42518916	-	LJ0990	-	COG1597IR	hypothetical protein
+892854..894533	-	559	42518917	-	LJ0991	-	COG0595R	hypothetical protein
+894539..894766	-	75	42518918	-	LJ0992	-	COG5503S	hypothetical protein
+894952..895506	-	184	42518919	def	LJ0993	-	COG0242J	peptide deformylase
+895519..895743	-	74	42518920	-	LJ0994	-	-	hypothetical protein
+895777..897609	+	610	42518921	-	LJ0995	-	COG1217T	GTP-binding protein typA/bipA-like protein
+897723..898907	+	394	42518922	-	LJ0996	-	COG0772D	hypothetical protein
+898910..899239	+	109	42518923	-	LJ0997	-	COG4471S	hypothetical protein
+899236..899784	+	182	42518924	-	LJ0998	-	COG0742L	hypothetical protein
+899786..900286	+	166	42518925	coaD	LJ0999	-	COG0669H	phosphopantetheine adenylyltransferase
+900273..901283	+	336	42518926	-	LJ1000	-	COG3480T	hypothetical protein
+901340..902023	+	227	42518927	-	LJ1001	-	COG1555L	hypothetical protein
+901980..902927	+	315	42518928	-	LJ1002	-	-	hypothetical protein
+902893..904263	+	456	42518929	-	LJ1003	-	COG2333R	hypothetical protein
+904260..905249	+	329	42518930	-	LJ1004	-	COG1466L	hypothetical protein
+905318..905575	-	85	42518931	rpsT	LJ1005	-	COG0268J	30S ribosomal protein S20
+905770..906039	+	89	42518932	rpsO	LJ1006	-	COG0184J	30S ribosomal protein S15
+906200..907975	+	591	42518933	-	LJ1007	-	COG0595R	hypothetical protein
+907975..908832	+	285	42518934	-	LJ1008	-	-	hypothetical protein
+909010..910200	+	396	42518935	tuf	LJ1009	-	COG0050J	elongation factor Tu
+910359..911708	+	449	42518936	tig	LJ1010	-	COG0544O	trigger factor
+911853..913118	+	421	42518937	clpX	LJ1011	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+913118..913702	+	194	42518938	engB	LJ1012	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+913915..914391	+	158	42518939	-	LJ1013	-	COG0394T	hypothetical protein
+914391..914906	+	171	42518940	-	LJ1014	-	-	hypothetical protein
+915216..915866	+	216	42518941	-	LJ1015	-	COG2761Q	hypothetical protein
+916006..916539	+	177	42518942	-	LJ1016	-	-	hypothetical protein
+916636..917904	+	422	42518943	-	LJ1017	-	-	hypothetical protein
+917972..918637	+	221	42518944	-	LJ1018	-	COG2761Q	hypothetical protein
+918758..919609	+	283	42518945	-	LJ1019	-	-	hypothetical protein
+919815..920297	+	160	42518946	-	LJ1020	-	-	hypothetical protein
+920537..921541	+	334	42518947	-	LJ1021	-	COG1316K	hypothetical protein
+921548..922411	+	287	42518948	-	LJ1022	-	COG3944M	hypothetical protein
+922422..923183	+	253	42518949	-	LJ1023	-	COG0489D	putative tyrosine-protein kinase
+923190..923960	+	256	42518950	-	LJ1024	-	COG4464GM	hypothetical protein
+923988..924647	+	219	42518951	-	LJ1025	-	COG2148M	undecaprenyl-phosphate galactosephosphotransferase
+924658..925434	+	258	42518952	-	LJ1026	-	-	hypothetical protein
+925461..926561	+	366	42518953	-	LJ1027	-	COG0438M	hypothetical protein
+926558..927679	+	373	42518954	-	LJ1028	-	COG0438M	hypothetical protein
+927686..928780	+	364	42518955	-	LJ1029	-	COG0438M	hypothetical protein
+928798..929721	+	307	42518956	-	LJ1030	-	COG1216R	hypothetical protein
+929787..931022	+	411	42518957	-	LJ1031	-	-	hypothetical protein
+931047..932165	+	372	42518958	-	LJ1032	-	COG0562M	UDP-galactopyranose mutase
+932155..933057	+	300	42518959	-	LJ1033	-	-	hypothetical protein
+933059..934486	+	475	42518960	-	LJ1034	-	COG2244R	hypothetical protein
+934533..935504	+	323	42518961	-	LJ1035	-	-	hypothetical protein
+935671..935928	+	85	42518962	-	LJ1036	-	-	hypothetical protein
+935886..936125	+	79	42518963	-	LJ1037	-	-	hypothetical protein
+936107..936499	+	130	42518964	-	LJ1038	-	-	hypothetical protein
+936757..937131	-	124	42518965	-	LJ1039	-	-	hypothetical protein
+937890..938375	-	161	42518966	-	LJ1040	-	COG3464L	putative transposase
+938753..939097	-	114	42518967	-	LJ1041	-	-	putative transposase
+939602..940363	+	253	42518968	-	LJ1042	-	-	hypothetical protein
+941004..941675	+	223	42518969	-	LJ1043	-	-	hypothetical protein
+942219..943394	+	391	42518970	-	LJ1045	-	COG2856E	hypothetical protein
+943391..943942	+	183	42518971	-	LJ1046	-	-	hypothetical protein
+944377..946899	+	840	42518972	-	LJ1047	-	COG4928R	hypothetical protein
+946936..948108	+	390	42518973	-	LJ1048	-	COG2226H	hypothetical protein
+948239..949276	+	345	42518974	-	LJ1049	-	COG1088M	dTDP-D-glucose 4,6-dehydratase
+949283..950167	+	294	42518975	-	LJ1050	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+950198..950806	+	202	42518976	-	LJ1051	-	COG1898M	dTDP-4-dehydrorhamnose 3,5-epimerase
+950823..951809	+	328	42518977	-	LJ1052	-	COG1091M	dTDP-4-dehydrorhamnose reductase
+952342..953091	+	249	42518978	-	LJ1053	-	-	hypothetical protein
+953112..954290	+	392	42518979	-	LJ1054	-	COG2856E	hypothetical protein
+954498..956234	+	578	42518980	-	LJ1055	-	COG3593L	hypothetical protein
+956224..957819	+	531	42518981	-	LJ1056	-	COG0210L	hypothetical protein
+958447..959364	+	305	42518982	-	LJ1057	-	COG0501O	protease HtpX-like protein
+960072..960848	+	258	42518983	-	LJ1058	-	-	hypothetical protein
+960914..961759	-	281	42518984	-	LJ1059	-	-	hypothetical protein
+961911..962351	+	146	42518985	-	LJ1060	-	COG1051F	hypothetical protein
+962380..963039	-	219	42518986	-	LJ1061	-	-	hypothetical protein
+963244..963645	+	133	42518987	-	LJ1062	-	-	hypothetical protein
+963734..964114	+	126	42518988	-	LJ1063	-	-	hypothetical protein
+964337..965188	+	283	42518989	-	LJ1064	-	-	hypothetical protein
+965459..966811	-	450	42518990	-	LJ1065	-	COG0531E	hypothetical protein
+967079..967720	+	213	42518991	-	LJ1066	-	COG2910R	hypothetical protein
+967749..968546	-	265	42518992	-	LJ1067	-	COG4974L	hypothetical protein
+968653..969264	-	203	42518993	-	LJ1068	-	COG0586S	alkaline phosphatase like protein
+969273..970199	-	308	42518994	-	LJ1069	-	COG1957F	hypothetical protein
+970341..972143	+	600	42518995	uvrC	LJ1070	-	COG0322L	excinuclease ABC subunit C
+972251..973537	+	428	42518996	obgE	LJ1071	-	COG0536R	GTPase ObgE
+973567..975492	+	641	42518997	-	LJ1072	-	COG1835I	hypothetical protein
+975506..976435	+	309	42518998	-	LJ1073	-	COG1234R	hypothetical protein
+976440..977234	+	264	42518999	-	LJ1074	-	COG0300R	hypothetical protein
+977241..977570	+	109	42519000	-	LJ1075	-	-	hypothetical protein
+977687..977878	+	63	42519001	rpmF	LJ1075b	-	COG0333J	50S ribosomal protein L32
+977938..979503	+	521	42519002	-	LJ1076	-	COG0737F	hypothetical protein
+979865..982981	+	1038	42519003	-	LJ1077	-	COG0587L	DNA polymerase III alpha subunit
+982911..983123	+	70	42519004	-	LJ1078	-	-	hypothetical protein
+983155..984114	+	319	42519005	-	LJ1079	-	COG0205G	6-phosphofructokinase
+984149..985918	+	589	42519006	-	LJ1080	-	COG0469G	pyruvate kinase
+986031..986924	+	297	42519007	-	LJ1081	-	COG2996S	hypothetical protein
+986914..987804	+	296	42519008	-	LJ1082	-	COG4974L	integrase/recombinase XerD
+987810..988172	+	120	42519009	-	LJ1083	-	-	hypothetical protein
+988165..988908	+	247	42519010	-	LJ1084	-	COG1354S	hypothetical protein
+988898..989488	+	196	42519011	-	LJ1085	-	COG1386K	hypothetical protein
+989490..990209	+	239	42519012	-	LJ1086	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+990270..991037	+	255	42519013	-	LJ1087	-	COG1388M	hypothetical protein
+991302..991895	+	197	42519014	-	LJ1088	-	COG3601S	hypothetical protein
+991976..992668	+	230	42519015	cmk	LJ1089	-	COG0283F	cytidylate kinase
+992731..993933	+	400	42519016	rpsA	LJ1090	-	COG0539J	30S ribosomal protein S1
+994008..995315	+	435	42519017	engA	LJ1091	-	COG1160R	GTP-binding protein EngA
+995481..995756	+	91	42519018	-	LJ1092	-	COG0776L	DNA-binding protein HU
+995815..997119	+	434	42519019	-	LJ1093	-	COG4783R	hypothetical protein
+997285..999105	+	606	42519020	-	LJ1094	-	COG3410S	hypothetical protein
+999125..1000192	+	355	42519021	-	LJ1095	-	-	hypothetical protein
+1000180..1002423	+	747	42519022	-	LJ1096	-	-	hypothetical protein
+1002714..1003616	+	300	42519023	-	LJ1097	-	-	hypothetical protein
+1003799..1004545	+	248	42519024	-	LJ1098	-	-	hypothetical protein
+1004626..1005516	-	296	42519025	-	LJ1099	-	COG1284S	hypothetical protein
+1005574..1006770	+	398	42519026	-	LJ1100	-	COG0617J	tRNA CCA-pyrophosphorylase
+1006819..1007484	-	221	42519027	-	LJ1101	-	COG1272R	hemolysin-like protein
+1007629..1008486	+	285	42519028	-	LJ1102	-	COG1307S	hypothetical protein
+1008486..1008713	+	75	42519029	-	LJ1103	-	COG4479S	hypothetical protein
+1008721..1010172	+	483	42519030	-	LJ1104	-	COG0793M	hypothetical protein
+1010175..1011014	+	279	42519031	-	LJ1105	-	COG1161R	hypothetical protein
+1011011..1011763	+	250	42519032	rnhB	LJ1106	-	COG0164L	ribonuclease HII
+1011816..1012661	+	281	42519033	-	LJ1107	-	COG0758LU	SMF protein
+1012727..1014808	+	693	42519034	-	LJ1108	-	COG0550L	DNA topoisomerase I
+1014906..1016222	+	438	42519035	-	LJ1109	-	COG1206J	tRNA (uracil-5-)-methyltransferase Gid
+1016225..1017148	+	307	42519036	-	LJ1110	-	COG4974L	integrase/recombinase CodV
+1017153..1017677	+	174	42519037	-	LJ1111	-	COG5405O	ATP-dependent protease peptidase subunit
+1017688..1019082	+	464	42519038	hslU	LJ1112	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+1019110..1019997	+	295	42519039	-	LJ1113	-	COG2017G	hypothetical protein
+1020019..1020660	+	213	42519040	-	LJ1114	-	-	hypothetical protein
+1020812..1021375	+	187	42519041	-	LJ1115	-	COG1988R	hypothetical protein
+1021642..1022103	+	153	42519042	-	LJ1116	-	-	hypothetical protein
+1022300..1023331	+	343	42519043	-	LJ1117	-	COG2855S	hypothetical protein
+1023378..1024247	-	289	42519044	-	LJ1118	-	COG0583K	hypothetical protein
+1024371..1024721	+	116	42519045	-	LJ1119	-	COG0655R	hypothetical protein
+1024927..1025967	+	346	42519046	-	LJ1120	-	COG1063ER	hypothetical protein
+1026360..1027211	+	283	42519047	-	LJ1121	-	COG4814R	hypothetical protein
+1027888..1029393	+	501	42519048	-	LJ1122	-	COG0488R	ABC transporter ATPase component
+1029474..1029932	-	152	42519049	-	LJ1123	-	COG5015S	hypothetical protein
+1030121..1031800	+	559	42519050	-	LJ1124	-	COG0028EH	acetolactate synthase
+1031800..1032534	+	244	42519051	-	LJ1125	-	COG3527Q	alpha-acetolactate decarboxylase
+1032580..1032993	-	137	42519052	-	LJ1126	-	-	hypothetical protein
+1032995..1033429	-	144	42519053	-	LJ1127	-	COG3279KT	hypothetical protein
+1033906..1048110	+	4734	42519054	-	LJ1128	-	-	hypothetical protein
+1048219..1048905	-	228	42519055	-	LJ1129	-	COG3548S	hypothetical protein
+1049630..1050229	+	199	42519056	-	LJ1130	-	COG1011R	hypothetical protein
+1050252..1050875	+	207	42519057	-	LJ1131	-	COG1051F	hypothetical protein
+1051015..1051710	+	231	42519058	-	LJ1132	-	COG0745TK	two-component system response regulator
+1051703..1053055	+	450	42519059	-	LJ1133	-	COG0642T	two-component system histidine kinase
+1053186..1053806	+	206	42519060	-	LJ1134	-	COG3212S	hypothetical protein
+1053844..1054461	+	205	42519061	-	LJ1135	-	COG1063ER	hypothetical protein
+1054623..1055369	+	248	42519062	-	LJ1136	-	COG3595S	hypothetical protein
+1055642..1057150	+	502	42519063	-	LJ1137	-	COG1114E	branched-chain amino acid transport system carrier protein
+1057350..1058144	+	264	42519064	-	LJ1138	-	COG0396O	ABC transporter ATPase component
+1058153..1059358	+	401	42519065	-	LJ1139	-	COG0719O	hypothetical protein
+1059339..1060577	+	412	42519066	-	LJ1140	-	COG0520E	selenocysteine lyase
+1060564..1061022	+	152	42519067	-	LJ1141	-	COG0822C	NifU-like protein
+1061015..1062418	+	467	42519068	-	LJ1142	-	COG0719O	hypothetical protein
+1062418..1062741	+	107	42519069	-	LJ1143	-	COG2151R	hypothetical protein
+1062750..1064249	+	499	42519070	-	LJ1144	-	COG1914P	manganese transport protein MntH2
+1064318..1065058	+	246	42519071	-	LJ1145	-	COG2226H	hypothetical protein
+1065441..1065680	-	79	42519072	-	LJ1146	-	-	hypothetical protein
+1065946..1066923	+	325	42519073	-	LJ1147	-	COG3049M	conjugated bile salt hydrolase
+1067068..1067841	-	257	42519074	-	LJ1148	-	-	hypothetical protein
+1067865..1068167	-	100	42519075	-	LJ1149	-	-	hypothetical protein
+1068391..1070913	+	840	42519076	-	LJ1150	-	COG0178L	excinuclease ATPase subunit
+1071123..1071575	+	150	42519077	-	LJ1151	-	-	hypothetical protein
+1071642..1071974	-	110	42519078	-	LJ1152	-	COG1359S	hypothetical protein
+1072108..1072602	-	164	42519079	-	LJ1153	-	COG2077O	thiol peroxidase
+1072763..1073212	+	149	42519080	-	LJ1154	-	COG1917S	hypothetical protein
+1073605..1076343	+	912	42519081	-	LJ1155	-	COG0474P	Mg(2+) transport ATPase, P-type 2
+1076475..1076912	+	145	42519082	-	LJ1156	-	COG1846K	hypothetical protein
+1076997..1078748	+	583	42519083	-	LJ1157	-	COG1132V	ABC transporter ATPase and permease components
+1078872..1079693	+	273	42519084	-	LJ1158	-	COG0656R	reductase
+1079774..1080037	-	87	42519085	-	LJ1159	-	-	hypothetical protein
+1080153..1081415	+	420	42519086	-	LJ1160	-	COG2256L	recombination factor protein RarA
+1081467..1082381	+	304	42519087	-	LJ1161	-	COG2159R	hypothetical protein
+1082399..1082629	+	76	42519088	-	LJ1162	-	-	hypothetical protein
+1082760..1083476	+	238	42519089	-	LJ1163	-	COG0670R	hypothetical protein
+1083774..1084883	+	369	42519090	-	LJ1164	-	-	hypothetical protein
+1084880..1086133	+	417	42519091	-	LJ1165	-	-	hypothetical protein
+1086140..1087009	+	289	42519092	-	LJ1166	-	COG1131V	ABC transporter ATPase component
+1087128..1088003	+	291	42519093	-	LJ1167	-	COG0656R	reductase
+1088139..1088753	+	204	42519094	-	LJ1168	-	COG0110R	galactoside O-acetyltransferase
+1088856..1089512	-	218	42519095	-	LJ1169	-	COG0344S	hypothetical protein
+1089612..1091570	+	652	42519096	-	LJ1170	-	COG0187L	DNA topoisomerase IV subunit B
+1091587..1094067	+	826	42519097	-	LJ1171	-	COG0188L	DNA topoisomerase IV subunit A
+1094310..1095263	+	317	42519098	-	LJ1172	-	COG0583K	hypothetical protein
+1095382..1096317	+	311	42519099	-	LJ1173	-	COG1227C	putative manganese-dependent inorganic pyrophosphatase
+1096388..1098184	+	598	42519100	-	LJ1174	-	COG0514L	ATP-dependent DNA helicase RecQ
+1098246..1098833	+	195	42519101	-	LJ1175	-	COG0652O	hypothetical protein
+1098900..1099595	+	231	42519102	-	LJ1176	-	COG3619S	hypothetical protein
+1100907..1101977	+	356	42519103	xerS	LJ1177	-	COG4974L	site-specific tyrosine recombinase XerS
+1102048..1102929	+	293	42519104	-	LJ1178	-	COG0583K	hypothetical protein
+1102986..1104098	-	370	42519105	-	LJ1179	-	-	hypothetical protein
+1104183..1105070	-	295	42519106	-	LJ1180	-	COG1307S	hypothetical protein
+1105186..1105608	-	140	42519107	-	LJ1181	-	COG1846K	hypothetical protein
+1105784..1107475	+	563	42519108	-	LJ1182	-	COG1293K	hypothetical protein
+1107548..1110712	-	1054	42519109	carB	LJ1184	-	COG0458EF	carbamoyl phosphate synthase large subunit
+1110716..1111771	-	351	42519110	-	LJ1185	-	COG0505EF	carbamoyl phosphate synthase small subunit
+1111775..1112689	-	304	42519111	-	LJ1186	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+1112704..1113168	-	154	42519112	-	LJ1187	-	COG0597MU	lipoprotein signal peptidase
+1113168..1114841	-	557	42519113	-	LJ1188	-	COG2759F	formate--tetrahydrofolate ligase
+1114844..1115188	-	114	42519114	-	LJ1189	-	-	hypothetical protein
+1115321..1116244	+	307	42519115	-	LJ1190	-	COG1307S	hypothetical protein
+1116331..1117458	+	375	42519116	-	LJ1191	-	COG1835I	hypothetical protein
+1117507..1118739	-	410	42519117	-	LJ1192	-	COG1409R	hypothetical protein
+1118745..1119869	-	374	42519118	-	LJ1193	-	COG0116L	hypothetical protein
+1120335..1120772	-	145	42519119	-	LJ1194	-	COG3599D	hypothetical protein
+1120978..1121541	-	187	42519120	-	LJ1195	-	COG4474S	hypothetical protein
+1121603..1122220	+	205	42519121	recU	LJ1196	-	COG3331R	Holliday junction-specific endonuclease
+1122231..1124618	+	795	42519122	-	LJ1197	-	COG0744M	penicillin-binding protein 1A
+1124690..1125319	-	209	42519123	-	LJ1198	-	COG0177L	endonuclease III
+1125329..1125973	-	214	42519124	-	LJ1199	-	COG3935L	hypothetical protein
+1126045..1127343	-	432	42519125	asnC	LJ1200	-	COG0017J	asparaginyl-tRNA synthetase
+1127412..1127906	-	164	42519126	-	LJ1201	-	COG5353S	hypothetical protein
+1127899..1130715	-	938	42519127	-	LJ1202	-	COG1199KL	hypothetical protein
+1130740..1134354	-	1204	42519128	-	LJ1203	-	COG1074L	hypothetical protein
+1134355..1137831	-	1158	42519129	-	LJ1204	-	COG3857L	hypothetical protein
+1137918..1138835	+	305	42519130	-	LJ1205	-	COG1577I	mevalonate kinase
+1138835..1139800	+	321	42519131	-	LJ1206	-	COG3407I	mevalonate pyrophosphate decarboxylase
+1139835..1140908	+	357	42519132	-	LJ1207	-	COG1577I	mevalonate kinase
+1140920..1141945	+	341	42519133	-	LJ1208	-	COG1304C	isopentenyl pyrophosphate isomerase
+1142139..1143722	-	527	42519134	-	LJ1209	-	COG1132V	ABC transporter ATPase and permease components
+1143722..1145302	-	526	42519135	-	LJ1210	-	COG1132V	ABC transporter ATPase and permease components
+1145652..1146866	+	404	42519136	-	LJ1211	-	-	major facilitator superfamily permease
+1146994..1147800	+	268	42519137	-	LJ1212	-	COG2746V	hypothetical protein
+1147870..1148760	-	296	42519138	-	LJ1213	-	COG4975G	hypothetical protein
+1148836..1149231	-	131	42519139	-	LJ1214	-	COG1869G	D-ribose pyranase
+1149843..1150694	+	283	42519140	-	LJ1215	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1150835..1151284	-	149	42519141	-	LJ1216	-	COG4405S	hypothetical protein
+1151277..1152059	-	260	42519142	-	LJ1217	-	COG2820F	hypothetical protein
+1152072..1152851	-	259	42519143	-	LJ1218	-	COG2820F	hypothetical protein
+1153008..1153472	-	154	42519144	-	LJ1219	-	COG1051F	hypothetical protein
+1153473..1154294	-	273	42519145	-	LJ1220	-	COG2334R	hypothetical protein
+1154278..1154790	-	170	42519146	-	LJ1221	-	COG0645R	hypothetical protein
+1154818..1155339	-	173	42519147	-	LJ1222	-	-	hypothetical protein
+1155330..1156001	-	223	42519148	-	LJ1223	-	-	hypothetical protein
+1156024..1156797	-	257	42519149	-	LJ1224	-	COG0596R	hypothetical protein
+1156812..1157426	-	204	42519150	-	LJ1225	-	COG1051F	hypothetical protein
+1157416..1157913	-	165	42519151	-	LJ1226	-	-	hypothetical protein
+1157931..1158452	-	173	42519152	-	LJ1227	-	COG1670J	hypothetical protein
+1158601..1159347	-	248	42519153	-	LJ1228	-	COG2945R	hypothetical protein
+1159399..1160607	-	402	42519154	-	LJ1229	-	-	hypothetical protein
+1160977..1161606	-	209	42519155	-	LJ1230	-	-	hypothetical protein
+1161750..1162043	-	97	42519156	-	LJ1231	-	-	hypothetical protein
+1162251..1162943	-	230	42519157	-	LJ1232	-	COG2365T	hypothetical protein
+1162940..1163302	-	120	42519158	-	LJ1233	-	-	hypothetical protein
+1163306..1163602	-	98	42519159	-	LJ1234	-	COG1694R	hypothetical protein
+1163613..1164074	-	153	42519160	-	LJ1235	-	COG0537FGR	hypothetical protein
+1164095..1164547	-	150	42519161	-	LJ1236	-	COG0456R	hypothetical protein
+1164643..1165110	+	155	42519162	-	LJ1237	-	-	hypothetical protein
+1165163..1165621	+	152	42519163	-	LJ1238	-	-	hypothetical protein
+1165605..1166150	+	181	42519164	-	LJ1239	-	COG1670J	hypothetical protein
+1166334..1166609	+	91	42519165	-	LJ1240	-	COG3077L	DNA-damage-inducible protein J
+1166609..1166914	+	101	42519166	-	LJ1241	-	COG3041S	hypothetical protein
+1167126..1167461	-	111	42519167	-	LJ1242	-	-	hypothetical protein
+1167635..1169212	+	525	42519168	-	LJ1243	-	COG1132V	ABC transporter ATPase and permease components
+1169277..1169759	-	160	42519169	-	LJ1244	-	COG0778C	hypothetical protein
+1169938..1171119	+	393	42519170	-	LJ1245	-	COG2814G	major facilitator superfamily permease
+1171209..1172495	-	428	42519171	eno	LJ1246	-	COG0148G	phosphopyruvate hydratase
+1172700..1174283	-	527	42519172	-	LJ1247	-	COG1132V	ABC transporter ATPase and permease components
+1174286..1174747	-	153	42519173	-	LJ1248	-	COG2274V	ABC transporter ATPase component
+1174836..1175876	-	346	42519174	-	LJ1249	-	COG1132V	ABC transporter ATPase and permease components
+1176180..1177046	+	288	42519175	-	LJ1250	-	COG0330O	hypothetical protein
+1177308..1178438	-	376	42519176	-	LJ1251	-	COG1929G	glycerate kinase
+1178542..1179039	+	165	42519177	-	LJ1252	-	COG0698G	hypothetical protein
+1179193..1179585	-	130	42519178	-	LJ1253	-	-	hypothetical protein
+1179659..1180582	-	307	42519179	-	LJ1254	-	COG1902C	hypothetical protein
+1180563..1180823	-	86	42519180	-	LJ1255	-	COG1902C	hypothetical protein
+1180916..1181560	-	214	42519181	-	LJ1256	-	COG0778C	hypothetical protein
+1181672..1183204	-	510	42519182	-	LJ1257	-	-	hypothetical protein
+1183219..1184217	-	332	42519183	-	LJ1258	-	-	hypothetical protein
+1184144..1184446	-	100	42519184	-	LJ1259	-	-	hypothetical protein
+1184615..1185571	+	318	42519185	-	LJ1260	-	COG1609K	hypothetical protein
+1185633..1187825	-	730	42519186	-	LJ1261	-	COG1263G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, beta-glucoside-specific
+1187831..1188673	-	280	42519187	-	LJ1262	-	COG3711K	hypothetical protein
+1188838..1190136	-	432	42519188	-	LJ1263	-	-	hypothetical protein
+1190165..1191625	-	486	42519189	-	LJ1264	-	COG2407G	hypothetical protein
+1191726..1192745	-	339	42519190	-	LJ1265	-	COG1609K	hypothetical protein
+1192879..1193712	+	277	42519191	-	LJ1266	-	COG3959G	transketolase
+1193705..1194646	+	313	42519192	-	LJ1267	-	COG3958G	transketolase
+1194657..1196108	+	483	42519193	-	LJ1268	-	COG0554C	glycerol kinase
+1196160..1198103	-	647	42519194	-	LJ1269	-	COG3590O	neutral endopeptidase
+1198318..1198992	-	224	42519195	-	LJ1270	-	COG4912L	hypothetical protein
+1199047..1200171	+	374	42519196	-	LJ1271	-	COG0438M	hypothetical protein
+1200239..1201816	+	525	42519197	-	LJ1272	-	COG2352C	phosphoenolpyruvate carboxylase
+1201820..1202977	+	385	42519198	-	LJ1273	-	COG2352C	phosphoenolpyruvate carboxylase
+1203000..1203548	+	182	42519199	-	LJ1274	-	COG1335Q	hypothetical protein
+1203599..1204135	-	178	42519200	-	LJ1275	-	COG2065F	bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase
+1204168..1207356	-	1062	42519201	carB	LJ1276	-	COG0458EF	carbamoyl phosphate synthase large subunit
+1207349..1208437	-	362	42519202	-	LJ1277	-	COG0505EF	carbamoyl phosphate synthase small subunit
+1208434..1209711	-	425	42519203	pyrC	LJ1278	-	COG0044F	dihydroorotase
+1209711..1210667	-	318	42519204	pyrB	LJ1279	-	COG0540F	aspartate carbamoyltransferase catalytic subunit
+1210815..1211381	-	188	42519205	-	LJ1280	-	COG2065F	bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase
+1211524..1212447	-	307	42519206	-	LJ1281	-	COG0167F	dihydroorotate dehydrogenase 1B
+1212697..1213404	+	235	42519207	-	LJ1282	-	COG0284F	orotidine 5'-phosphate decarboxylase
+1213406..1214044	+	212	42519208	pyrE	LJ1283	-	COG0461F	orotate phosphoribosyltransferase
+1214341..1215936	+	531	42519209	-	LJ1284	-	-	hypothetical protein
+1215986..1216798	-	270	42519210	-	LJ1285	-	COG0561R	hypothetical protein
+1216795..1217835	-	346	42519211	-	LJ1286	-	COG1434S	hypothetical protein
+1217963..1218289	+	108	42519212	-	LJ1287	-	COG0393S	hypothetical protein
+1218320..1219711	-	463	42519213	-	LJ1288	-	COG0144J	hypothetical protein
+1219711..1220688	-	325	42519214	-	LJ1289	-	-	hypothetical protein
+1220688..1221416	-	242	42519215	-	LJ1290	-	-	hypothetical protein
+1221506..1222075	+	189	42519216	-	LJ1291	-	COG0681U	signal peptidase I
+1222381..1222875	+	164	42519217	-	LJ1292	-	COG2963L	hypothetical protein
+1222872..1223120	+	82	42519218	-	LJ1293	-	-	hypothetical protein
+1223240..1223611	-	123	42519219	-	LJ1294	-	-	hypothetical protein
+1223581..1223952	-	123	42519220	-	LJ1295	-	-	hypothetical protein
+1223930..1225549	-	539	42519221	-	LJ1296	-	COG1132V	ABC transporter ATPase and permease components
+1225918..1226733	-	271	42519222	-	LJ1297	-	-	hypothetical protein
+1227014..1227241	+	75	42519223	-	LJ1298	-	-	putative transposase
+1227296..1228132	-	278	42519224	-	LJ1299	-	-	hypothetical protein
+1228139..1228954	-	271	42519225	-	LJ1300	-	-	hypothetical protein
+1228957..1229664	-	235	42519226	-	LJ1301	-	COG1131V	ABC transporter ATPase component
+1229666..1230034	-	122	42519227	-	LJ1302	-	COG1725K	hypothetical protein
+1230345..1231592	-	415	42519228	-	LJ1303	-	COG2195E	peptidase T
+1231604..1232401	-	265	42519229	-	LJ1304	-	COG0327S	hypothetical protein
+1232398..1233111	-	237	42519230	-	LJ1305	-	COG2384R	hypothetical protein
+1233280..1234557	+	425	42519231	-	LJ1306	-	COG3464L	transposase
+1234673..1235527	-	284	42519232	-	LJ1307	-	COG0834ET	ABC transporter solute-binding component
+1235540..1236280	-	246	42519233	-	LJ1309	-	COG1126E	ABC transporter ATPase component
+1236284..1236961	-	225	42519234	-	LJ1310	-	COG0765E	ABC transporter permease component
+1236942..1237601	-	219	42519235	-	LJ1311	-	COG0765E	ABC transporter permease component
+1237816..1238673	-	285	42519236	-	LJ1312	-	-	hypothetical protein
+1238782..1240311	-	509	42519237	-	LJ1313	-	COG0810M	hypothetical protein
+1240392..1240997	-	201	42519238	-	LJ1314	-	-	hypothetical protein
+1241016..1241528	-	170	42519239	-	LJ1315	-	-	hypothetical protein
+1241541..1242428	-	295	42519240	-	LJ1316	-	-	hypothetical protein
+1242786..1243904	-	372	42519241	-	LJ1317	-	COG0568K	RNA polymerase sigma factor RpoD
+1243920..1245731	-	603	42519242	-	LJ1318	-	COG0358L	DNA primase
+1245755..1247827	-	690	42519243	glyS	LJ1319	-	COG0751J	glycyl-tRNA synthetase subunit beta
+1247820..1248737	-	305	42519244	glyQ	LJ1320	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+1249032..1249784	-	250	42519245	-	LJ1321	-	COG1381L	DNA repair protein RecO
+1249785..1250696	-	303	42519246	era	LJ1322	-	COG1159R	GTP-binding protein Era
+1250721..1251248	-	175	42519247	-	LJ1323	-	COG0319R	hypothetical protein
+1251252..1252214	-	320	42519248	-	LJ1324	-	COG1702T	PHOH-like protein
+1252242..1252685	-	147	42519249	-	LJ1324b	-	COG1610S	30S ribosomal protein S21
+1252792..1252968	-	58	42519250	rpsU	LJ1325	-	COG0828J	30S ribosomal protein S21
+1253119..1253961	+	280	42519251	-	LJ1326	-	COG1806S	hypothetical protein
+1254027..1254347	-	106	42519252	-	LJ1327	-	COG2151R	hypothetical protein
+1254349..1255230	-	293	42519253	-	LJ1328	-	COG1760E	L-serine dehydratase alpha subunit
+1255243..1255905	-	220	42519254	-	LJ1329	-	COG1760E	L-serine dehydratase, beta chain
+1255994..1256872	-	292	42519255	-	LJ1330	-	COG1284S	hypothetical protein
+1256938..1257495	-	185	42519256	-	LJ1331	-	COG0225O	peptide methionine sulfoxide reductase MsrA
+1257659..1257850	-	63	42519257	-	LJ1387b	-	-	hypothetical protein
+1258132..1258893	-	253	42519258	-	LJ1388	-	COG2755E	hypothetical protein
+1258898..1259326	-	142	42519259	-	LJ1389	-	COG0229O	methionine sulfoxide reductase B
+1259431..1260615	+	394	42519260	-	LJ1390	-	COG0436E	aspartate aminotransferase
+1260691..1262544	-	617	42519261	aspS	LJ1391	-	COG0173J	aspartyl-tRNA synthetase
+1262546..1263832	-	428	42519262	hisS	LJ1392	-	COG0124J	histidyl-tRNA synthetase
+1264115..1264552	-	145	42519263	-	LJ1393	-	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+1264552..1266801	-	749	42519264	-	LJ1394	-	COG0317TK	GTP pyrophosphokinase
+1266819..1267199	-	126	42519265	-	LJ1395	-	-	hypothetical protein
+1267232..1268179	-	315	42519266	prmA	LJ1396	-	COG2264J	ribosomal protein L11 methyltransferase
+1268242..1268745	+	167	42519267	-	LJ1397	-	COG2606S	hypothetical protein
+1268868..1270490	-	540	42519268	-	LJ1398	-	COG5617S	hypothetical protein
+1270656..1272347	-	563	42519269	-	LJ1399	-	COG5617S	hypothetical protein
+1272427..1274856	-	809	42519270	-	LJ1400	-	COG0474P	hypothetical protein
+1274873..1275898	-	341	42519271	-	LJ1401	-	COG0252EJ	L-asparaginase
+1275989..1277371	-	460	42519272	-	LJ1402	-	COG2966S	hypothetical protein
+1277480..1278406	-	308	42519273	ldh	LJ1403	-	COG0039C	L-lactate dehydrogenase
+1278486..1279859	-	457	42519274	-	LJ1404	-	COG1053C	fumarate reductase flavoprotein subunit
+1279874..1281280	-	468	42519275	fumC	LJ1405	-	COG0114C	fumarate hydratase
+1281418..1282119	-	233	42519276	-	LJ1406	-	COG2011P	ABC transporter permease component
+1282112..1283161	-	349	42519277	-	LJ1407	-	COG1135P	ABC transporter ATPase component
+1283178..1284032	-	284	42519278	-	LJ1408	-	COG1464P	D-methionine-binding lipoprotein MetQ precursor
+1284450..1285154	+	234	42519279	-	LJ1409	-	-	hypothetical protein
+1285154..1286005	+	283	42519280	-	LJ1410	-	-	hypothetical protein
+1286234..1286623	+	129	42519281	-	LJ1411	-	COG1396K	hypothetical protein
+1286673..1287653	-	326	42519282	-	LJ1412	-	COG3049M	conjugated bile salt hydrolase
+1287749..1288708	-	319	42519283	-	LJ1413	-	COG0488R	ABC transporter ATPase component
+1288701..1289372	-	223	42519284	-	LJ1414	-	COG0488R	ABC transporter ATPase component
+1289440..1289721	-	93	42519285	-	LJ1415	-	-	hypothetical protein
+1289835..1291121	-	428	42519286	eno	LJ1416	-	COG0148G	phosphopyruvate hydratase
+1291299..1291883	-	194	42519287	-	LJ1417	-	-	hypothetical protein
+1292553..1293500	-	315	42519288	-	LJ1418	-	COG3757M	Lj928 prophage lysin
+1293512..1293910	-	132	42519289	-	LJ1419	-	-	Lj928 prophage holin
+1293910..1294122	-	70	42519290	-	LJ1420	-	-	Lj928 prophage protein
+1294097..1294318	-	73	42519291	-	LJ1421	-	-	Lj928 prophage protein
+1294386..1294787	-	133	42519292	-	LJ1422	-	-	Lj928 prophage protein
+1294789..1297467	-	892	42519293	-	LJ1423	-	COG2755E	Lj928 prophage protein
+1297448..1297840	-	130	42519294	-	LJ1424	-	-	Lj928 prophage protein
+1297833..1300223	-	796	42519295	-	LJ1425	-	COG3953R	Lj928 prophage protein
+1300223..1301032	-	269	42519296	-	LJ1425c	-	-	Lj928 prophage protein
+1301032..1305666	-	1544	42519297	-	LJ1425d	-	COG1196D	Lj928 prophage protein
+1305666..1306007	-	113	42519298	-	LJ1426	-	-	Lj928 prophage protein
+1306031..1306411	-	126	42519299	-	LJ1427	-	-	Lj928 prophage minor tail protein
+1306469..1307038	-	189	42519300	-	LJ1428	-	-	Lj928 prophage protein
+1307052..1307429	-	125	42519301	-	LJ1429	-	-	Lj928 prophage protein
+1307499..1307777	-	92	42519302	-	LJ1430	-	-	Lj928 prophage major tail protein
+1307764..1308042	-	92	42519303	-	LJ1431	-	-	Lj928 prophage protein
+1308011..1308385	-	124	42519304	-	LJ1432	-	-	Lj928 prophage protein
+1308443..1309378	-	311	42519305	-	LJ1433	-	-	Lj928 prophage protein
+1309394..1309960	-	188	42519306	-	LJ1434	-	-	Lj928 prophage protein
+1310095..1310430	-	111	42519307	-	LJ1435	-	-	Lj928 prophage major head protein
+1310443..1310676	-	77	42519308	-	LJ1436	-	-	Lj928 prophage minor head protein
+1310669..1312108	-	479	42519309	-	LJ1437	-	-	Lj928 prophage protein
+1312092..1313504	-	470	42519310	-	LJ1438	-	-	Lj928 prophage protein
+1313516..1314784	-	422	42519311	-	LJ1439	-	COG1783R	Lj928 prophage protein
+1314777..1315232	-	151	42519312	-	LJ1440	-	COG3728L	Lj928 prophage portal protein
+1315289..1315945	-	218	42519313	-	LJ1441	-	-	Lj928 prophage terminase large subunit
+1316127..1316651	-	174	42519314	-	LJ1442	-	-	Lj928 prophage terminase small subunit
+1317695..1318135	-	146	42519315	-	LJ1443	-	-	Lj928 prophage protein
+1318224..1318445	-	73	42519316	-	LJ1444	-	-	Lj928 prophage protein
+1318465..1319019	-	184	42519317	-	LJ1445	-	-	Lj928 prophage protein
+1319021..1319419	-	132	42519318	-	LJ1446	-	-	Lj928 prophage protein
+1319420..1319635	-	71	42519319	-	LJ1447	-	-	Lj928 prophage protein
+1319795..1320685	-	296	42519320	-	LJ1448	-	-	Lj928 prophage protein
+1320698..1321483	-	261	42519321	-	LJ1449	-	-	Lj928 prophage protein
+1321485..1322378	-	297	42519322	-	LJ1450	-	-	Lj928 prophage replication protein
+1322415..1322561	-	48	42519323	-	LJ1451	-	-	Lj928 prophage recombination protein
+1322575..1322724	-	49	42519324	-	LJ1452	-	-	Lj928 prophage protein
+1323055..1323270	-	71	42519325	-	LJ1453	-	-	Lj928 prophage protein
+1323348..1323824	+	158	42519326	-	LJ1454	-	COG4306S	Lj928 prophage protein
+1323975..1324736	-	253	42519327	-	LJ1455	-	COG3617K	Lj928 prophage antirepressor
+1324764..1324985	-	73	42519328	-	LJ1456	-	-	Lj928 prophage Cro-repressor
+1325165..1325602	+	145	42519329	-	LJ1457	-	-	Lj928 prophage repressor protein
+1325592..1325996	+	134	42519330	-	LJ1458	-	-	Lj928 prophage protein
+1326052..1326624	+	190	42519331	-	LJ1459	-	-	Lj928 prophage protein
+1326641..1326940	+	99	42519332	-	LJ1460	-	-	Lj928 prophage protein
+1326949..1327245	+	98	42519333	-	LJ1461	-	-	Lj928 prophage protein
+1327270..1327725	+	151	42519334	-	LJ1462	-	-	Lj928 prophage protein
+1327718..1328095	+	125	42519335	-	LJ1463	-	-	Lj928 prophage protein
+1328158..1329033	+	291	42519336	-	LJ1464	-	-	Lj928 prophage protein
+1329202..1330377	+	391	42519337	-	LJ1465	-	COG4974L	Lj928 prophage integrase
+1330838..1331686	-	282	42519338	-	LJ1466	-	COG0583K	hypothetical protein
+1331810..1332469	+	219	42519339	-	LJ1467	-	COG0474P	P-type proton motive membrane ATPase-like protein
+1332561..1333721	+	386	42519340	-	LJ1468	-	COG0474P	P-type proton motive membrane ATPase-like protein
+1333795..1335138	-	447	42519341	-	LJ1469	-	COG2211G	major facilitator superfamily permease
+1335313..1335816	-	167	42519342	-	LJ1470	-	COG0262H	dihydrofolate reductase
+1335834..1336790	-	318	42519343	thyA	LJ1471	-	COG0207F	thymidylate synthase
+1336925..1338412	+	495	42519344	-	LJ1472	-	COG1502I	cardiolipinsynthetase
+1338461..1339969	-	502	42519345	-	LJ1473	-	COG0531E	amino acid transporter
+1340094..1340621	-	175	42519346	-	LJ1474	-	COG0503F	adenine phosphoribosyltransferase
+1340756..1343026	-	756	42519347	-	LJ1475	-	COG0608L	hypothetical protein
+1343125..1343814	-	229	42519348	-	LJ1476	-	COG3764M	hypothetical protein
+1343952..1345790	-	612	42519349	-	LJ1477	-	COG0481M	GTP-binding protein LepA
+1345934..1347100	-	388	42519350	-	LJ1478	-	COG0484O	chaperone protein DnaJ
+1347180..1349054	-	624	42519351	dnaK	LJ1479	-	COG0443O	molecular chaperone DnaK
+1349072..1349650	-	192	42519352	-	LJ1480	-	COG0576O	heat shock protein GrpE
+1349662..1350720	-	352	42519353	hrcA	LJ1481	-	COG1420K	heat-inducible transcription repressor
+1351132..1351488	-	118	42519354	-	LJ1482	-	COG4832S	hypothetical protein
+1351504..1353015	-	503	42519355	-	LJ1483	-	COG0488R	ABC transporter ATPase component
+1353274..1354212	-	312	42519356	-	LJ1484	-	COG0196H	riboflavin kinase/FMN adenylyltransferase
+1354225..1355118	-	297	42519357	truB	LJ1485	-	COG0130J	tRNA pseudouridine synthase B
+1355164..1355535	-	123	42519358	-	LJ1486	-	COG0858J	ribosome-binding factor A
+1355566..1358208	-	880	42519359	infB	LJ1487	-	COG0532J	translation initiation factor IF-2
+1358213..1358524	-	103	42519360	-	LJ1488	-	COG1358J	hypothetical protein
+1358527..1358823	-	98	42519361	-	LJ1489	-	COG2740K	hypothetical protein
+1358834..1360054	-	406	42519362	nusA	LJ1490	-	COG0195K	transcription elongation factor NusA
+1360074..1360550	-	158	42519363	-	LJ1491	-	COG0779S	hypothetical protein
+1360658..1364956	-	1432	42519364	-	LJ1492	-	COG2176L	DNA polymerase III alpha subunit
+1364962..1366659	-	565	42519365	-	LJ1493	-	COG0442J	prolyl-tRNA synthetase
+1366676..1367932	-	418	42519366	-	LJ1494	-	COG0750M	protease eep
+1367945..1368736	-	263	42519367	-	LJ1495	-	COG0575I	phosphatidate cytidylyltransferase
+1368763..1369482	-	239	42519368	-	LJ1496	-	COG0020I	undecaprenyl pyrophosphate synthase
+1369501..1370058	-	185	42519369	frr	LJ1497	-	COG0233J	ribosome recycling factor
+1370058..1370783	-	241	42519370	pyrH	LJ1498	-	COG0528F	uridylate kinase
+1370893..1371918	-	341	42519371	tsf	LJ1499	-	COG0264J	elongation factor Ts
+1371956..1372741	-	261	42519372	rpsB	LJ1500	-	COG0052J	30S ribosomal protein S2
+1372895..1373917	-	340	42519373	-	LJ1501	-	COG4123R	hypothetical protein
+1373986..1374600	+	204	42519374	-	LJ1502	-	COG0204I	hypothetical protein
+1374668..1375849	+	393	42519375	-	LJ1503	-	COG2230M	hypothetical protein
+1375893..1377575	-	560	42519376	-	LJ1504	-	COG1132V	ABC transporter ATPase and permease components
+1377672..1379441	-	589	42519377	-	LJ1505	-	COG1132V	ABC transporter ATPase and permease components
+1379518..1379739	-	73	42519378	-	LJ1506	-	COG3763S	hypothetical protein
+1379812..1380060	-	82	42519379	-	LJ1507	-	COG4224S	hypothetical protein
+1380198..1380821	+	207	42519380	-	LJ1508	-	COG1974KT	LexA repressor
+1380858..1381496	-	212	42519381	-	LJ1509	-	COG1573L	hypothetical protein
+1381480..1381899	-	139	42519382	-	LJ1510	-	COG0494LR	hypothetical protein
+1382095..1382736	+	213	42519383	-	LJ1511	-	COG0681U	signal peptidase I
+1382830..1383180	-	116	42519384	rplS	LJ1512	-	COG0335J	50S ribosomal protein L19
+1383294..1384016	-	240	42519385	trmD	LJ1513	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+1384006..1384527	-	173	42519386	rimM	LJ1514	-	COG0806J	16S rRNA-processing protein RimM
+1384596..1384868	-	90	42519387	rpsP	LJ1515	-	COG0228J	30S ribosomal protein S16
+1384955..1386385	-	476	42519388	-	LJ1516	-	COG0541U	signal recognition particle protein
+1386387..1386728	-	113	42519389	-	LJ1517	-	COG2739S	hypothetical protein
+1386872..1388296	-	474	42519390	-	LJ1518	-	COG4690E	dipeptidase
+1388336..1389667	-	443	42519391	-	LJ1519	-	COG0552U	signal recognition particle receptor FtsY
+1389670..1393230	-	1186	42519392	-	LJ1520	-	COG1196D	chromosome partitioning protein Smc
+1393245..1393925	-	226	42519393	rnc	LJ1521	-	COG0571K	ribonuclease III
+1394033..1395793	-	586	42519394	-	LJ1522	-	COG0747E	oligopeptide ABC transporter solute-binding component
+1395921..1397675	-	584	42519395	-	LJ1523	-	COG0747E	oligopeptide ABC transporter solute-binding component
+1397968..1398882	-	304	42519396	-	LJ1524	-	COG1173EP	oligopeptide ABC transporter permease component
+1398899..1399861	-	320	42519397	-	LJ1525	-	COG0601EP	oligopeptide ABC transporter permease component
+1399864..1400832	-	322	42519398	-	LJ1526	-	COG1123R	oligopeptide ABC transporter ATPase component
+1400839..1401849	-	336	42519399	-	LJ1527	-	COG0444EP	oligopeptide ABC transporter ATPase component
+1402007..1402249	-	80	42519400	acpP	LJ1528	-	COG0236IQ	acyl carrier protein
+1402304..1403305	-	333	42519401	-	LJ1529	-	COG0416I	putative glycerol-3-phosphate acyltransferase PlsX
+1403323..1405362	-	679	42519402	-	LJ1530	-	COG1200LK	ATP-dependent DNA helicase RecG
+1405366..1407030	-	554	42519403	-	LJ1531	-	COG1461R	hypothetical protein
+1407052..1407414	-	120	42519404	-	LJ1532	-	COG1302S	hypothetical protein
+1407585..1407770	+	61	42519405	rpmB	LJ1533	-	COG0227J	50S ribosomal protein L28
+1407818..1408486	-	222	42519406	-	LJ1534	-	COG1564H	hypothetical protein
+1408483..1409133	-	216	42519407	-	LJ1535	-	COG0036G	ribulose-phosphate 3-epimerase
+1409142..1410035	-	297	42519408	-	LJ1536	-	COG1162R	hypothetical protein
+1410035..1412023	-	662	42519409	-	LJ1537	-	COG0515RTKL	hypothetical protein
+1412026..1412778	-	250	42519410	-	LJ1538	-	COG0631T	hypothetical protein
+1412785..1414101	-	438	42519411	-	LJ1539	-	COG0144J	SUN protein
+1414094..1415038	-	314	42519412	-	LJ1540	-	COG0223J	methionyl-tRNA formyltransferase
+1415060..1417456	-	798	42519413	-	LJ1541	-	COG1198L	primosomal protein N'
+1417511..1417729	-	72	42519414	-	LJ1542	-	COG1758K	DNA-directed RNA polymerase omega subunit
+1417733..1418347	-	204	42519415	gmk	LJ1543	-	COG0194F	guanylate kinase
+1418508..1418801	+	97	42519416	-	LJ1544	-	-	hypothetical protein
+1418861..1420540	-	559	42519417	-	LJ1545	-	COG0497L	DNA repair protein RecN
+1420551..1421363	-	270	42519418	-	LJ1546	-	COG1189J	hemolysin-like protein
+1421367..1422233	-	288	42519419	-	LJ1547	-	COG0142H	geranyltranstransferase
+1422234..1422479	-	81	42519420	-	LJ1548	-	COG1722L	exodeoxyribonuclease VII small subunit
+1422460..1423830	-	456	42519421	xseA	LJ1549	-	COG1570L	exodeoxyribonuclease VII large subunit
+1423820..1424668	-	282	42519422	-	LJ1550	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1424715..1425116	-	133	42519423	-	LJ1551	-	COG0781K	hypothetical protein
+1425117..1425557	-	146	42519424	-	LJ1552	-	COG1302S	hypothetical protein
+1425575..1426144	-	189	42519425	-	LJ1553	-	COG0231J	elongation factor P
+1426229..1427338	-	369	42519426	-	LJ1554	-	COG0006E	Xaa-Pro aminopeptidase
+1427411..1427710	-	99	42519427	rpmA	LJ1555	-	COG0211J	50S ribosomal protein L27
+1427730..1428041	-	103	42519428	rplU	LJ1556	-	COG0261J	50S ribosomal protein L21
+1428255..1428611	+	118	42519429	-	LJ1556b	-	COG1393P	hypothetical protein
+1428606..1429445	-	279	42519430	-	LJ1557	-	COG1284S	hypothetical protein
+1429523..1430221	-	232	42519431	-	LJ1558	-	-	hypothetical protein
+1430199..1430843	-	214	42519432	-	LJ1559	-	-	hypothetical protein
+1431135..1431536	-	133	42519433	-	LJ1560	-	-	hypothetical protein
+1431540..1431719	-	59	42519434	-	LJ1560b	-	COG1942R	4-oxalocrotonate tautomerase
+1431772..1432329	-	185	42519435	-	LJ1561	-	COG4720S	hypothetical protein
+1432333..1433166	-	277	42519436	-	LJ1562	-	COG2240H	hypothetical protein
+1433163..1433624	-	153	42519437	-	LJ1563	-	-	hypothetical protein
+1433645..1434298	-	217	42519438	-	LJ1564	-	-	hypothetical protein
+1434321..1436117	-	598	42519439	-	LJ1565	-	COG4907S	hypothetical protein
+1436315..1437214	-	299	42519440	-	LJ1566	-	COG0657I	hypothetical protein
+1437229..1437621	-	130	42519441	-	LJ1567	-	COG2207K	hypothetical protein
+1437764..1438105	-	113	42519442	-	LJ1568	-	-	hypothetical protein
+1438105..1438833	-	242	42519443	-	LJ1569	-	COG1940KG	hypothetical protein
+1439198..1439677	-	159	42519444	-	LJ1570	-	COG3764M	hypothetical protein
+1440688..1441077	+	129	42519445	-	LJ1571	-	-	hypothetical protein
+1441258..1442574	-	438	42519446	-	LJ1572	-	COG3579E	aminopeptidase C
+1442734..1443099	-	121	42519447	-	LJ1573	-	COG3576R	hypothetical protein
+1443781..1445535	+	584	42519448	-	LJ1574	-	COG0747E	ABC transporter solute-binding component
+1445622..1446059	-	145	42519449	-	LJ1575	-	COG0789K	hypothetical protein
+1446236..1447708	+	490	42519450	-	LJ1576	-	COG2814G	major facilitator superfamily permease
+1447708..1448268	+	186	42519451	-	LJ1577	-	-	hypothetical protein
+1448318..1449106	-	262	42519452	-	LJ1578	-	-	hypothetical protein
+1449391..1449978	-	195	42519453	-	LJ1579	-	COG2184D	hypothetical protein
+1449971..1450390	-	139	42519454	-	LJ1580	-	-	hypothetical protein
+1450536..1452347	-	603	42519455	-	LJ1581	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+1452614..1454230	-	538	42519456	-	LJ1582	-	COG1132V	ABC transporter ATPase and permease components
+1454906..1455676	-	256	42519457	-	LJ1583	-	COG0561R	hypothetical protein
+1455763..1458297	-	844	42519458	-	LJ1584	-	COG0308E	aminopeptidase N
+1458495..1460879	+	794	42519459	-	LJ1585	-	COG2936R	x-prolyl-dipeptidyl aminopeptidase
+1461048..1462289	-	413	42519460	-	LJ1586	-	COG0642T	two-component system histidine kinase
+1462333..1462998	-	221	42519461	-	LJ1587	-	COG0745TK	two-component system response regulator
+1463003..1463614	-	203	42519462	-	LJ1588	-	COG2357S	hypothetical protein
+1463682..1464614	-	310	42519463	-	LJ1589	-	COG4292S	hypothetical protein
+1464876..1465286	-	136	42519464	-	LJ1590	-	COG1765O	hypothetical protein
+1465299..1466846	-	515	42519465	-	LJ1591	-	COG1732M	ABC transporter permease component
+1466839..1467801	-	320	42519466	-	LJ1592	-	COG1125E	ABC transporter ATPase component
+1467932..1468837	-	301	42519467	-	LJ1593	-	COG1210M	UTP--glucose-1-phosphate uridylyltransferase
+1468911..1469819	-	302	42519468	-	LJ1594	-	COG1295S	hypothetical protein
+1469834..1470658	-	274	42519469	-	LJ1595	-	COG0024J	methionine aminopeptidase
+1470844..1471290	+	148	42519470	-	LJ1596	-	COG0716C	hypothetical protein
+1471283..1471792	+	169	42519471	-	LJ1597	-	COG2246S	hypothetical protein
+1471825..1472967	-	380	42519472	-	LJ1598	-	COG0381M	putative UDP-N-acetylglucosamine 2-epimerase
+1473424..1474701	+	425	42519473	-	LJ1599	-	COG3464L	transposase
+1474757..1476325	-	522	42519474	prfC	LJ1600	-	COG4108J	peptide chain release factor 3
+1476325..1477191	-	288	42519475	-	LJ1601	-	COG1253R	hypothetical protein
+1477307..1477768	+	153	42519476	-	LJ1602	-	-	hypothetical protein
+1477769..1478266	-	165	42519477	-	LJ1603	-	-	hypothetical protein
+1478238..1478828	-	196	42519478	-	LJ1604	-	COG3557J	hypothetical protein
+1478865..1479680	-	271	42519479	recX	LJ1605	-	COG2137R	recombination regulator RecX
+1479809..1481188	+	459	42519480	-	LJ1606	-	COG2265J	hypothetical protein
+1481498..1482661	-	387	42519481	-	LJ1607	-	COG3425I	hydroxymethylglutaryl-CoA synthase
+1482663..1483898	-	411	42519482	-	LJ1608	-	COG1257I	hydroxymethylglutaryl-CoA reductase
+1483876..1485042	-	388	42519483	-	LJ1609	-	COG0183I	acetyl-CoA acetyltransferase
+1485166..1486110	-	314	42519484	-	LJ1610	-	COG1073R	hypothetical protein
+1486185..1486481	+	98	42519485	-	LJ1611	-	-	hypothetical protein
+1486530..1487342	-	270	42519486	-	LJ1612	-	COG0561R	hypothetical protein
+1487356..1488525	-	389	42519487	-	LJ1613	-	-	major facilitator superfamily permease
+1488633..1489970	-	445	42519488	-	LJ1614	-	COG0174E	glutamine synthetase
+1490175..1491095	-	306	42519489	miaA	LJ1615	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+1491236..1491415	+	59	42519490	-	LJ1615b	-	-	hypothetical protein
+1491463..1491861	-	132	42519491	-	LJ1616	-	COG0607P	hypothetical protein
+1491897..1492127	-	76	42519492	-	LJ1617	-	COG4483S	hypothetical protein
+1492130..1492816	-	228	42519493	-	LJ1618	-	COG0705R	hypothetical protein
+1492832..1493389	-	185	42519494	-	LJ1619	-	COG0212H	hypothetical protein
+1493444..1493593	-	49	42519495	rpmG	LJ1619b	-	COG0267J	50S ribosomal protein L33
+1493666..1495765	-	699	42519496	-	LJ1620	-	COG0768M	penicillin-binding protein 2B
+1495881..1498457	+	858	42519497	-	LJ1621	-	COG4485S	hypothetical protein
+1498508..1498990	-	160	42519498	-	LJ1622	-	COG0782K	transcription elongation factor GreA
+1499071..1500165	-	364	42519499	-	LJ1623	-	COG1559R	hypothetical protein
+1500229..1502643	-	804	42519500	pheT	LJ1624	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+1502643..1503692	-	349	42519501	pheS	LJ1625	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+1503982..1504338	-	118	42519502	-	LJ1626	-	COG1733K	hypothetical protein
+1504426..1505187	-	253	42519503	-	LJ1627	-	COG0566J	hypothetical protein
+1505285..1505560	+	91	42519504	-	LJ1628	-	COG1254C	putative acylphosphatase
+1505624..1506607	+	327	42519505	-	LJ1629	-	COG0706U	hypothetical protein
+1506647..1508179	-	510	42519506	-	LJ1630	-	COG0642T	two-component system histidine kinase
+1508151..1508879	-	242	42519507	-	LJ1631	-	COG0745TK	two-component regulatory system response regulator
+1508966..1509511	-	181	42519508	-	LJ1632	-	COG1399R	hypothetical protein
+1509511..1510668	-	385	42519509	-	LJ1633	-	COG1323R	hypothetical protein
+1510679..1511044	-	121	42519510	-	LJ1634	-	COG0799S	hypothetical protein
+1511049..1511645	-	198	42519511	-	LJ1635	-	COG1713H	hypothetical protein
+1511638..1512264	-	208	42519512	-	LJ1636	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+1512264..1513373	-	369	42519513	-	LJ1637	-	COG1161R	GTP-binding protein YqeH
+1513386..1513889	-	167	42519514	-	LJ1638	-	COG2179R	hypothetical protein
+1514051..1515052	+	333	42519515	-	LJ1639	-	COG1816F	adenosine deaminase
+1515100..1515456	-	118	42519516	rplT	LJ1640	-	COG0292J	50S ribosomal protein L20
+1515489..1515689	-	66	42519517	rpmI	LJ1640b	-	COG0291J	50S ribosomal protein L35
+1515708..1516226	-	172	42519518	infC	LJ1641	-	COG0290J	translation initiation factor IF-3
+1516441..1517682	-	413	42519519	-	LJ1642	-	-	hypothetical protein
+1517890..1518321	-	143	42519520	-	LJ1643	-	-	hypothetical protein
+1518318..1518752	-	144	42519521	-	LJ1644	-	COG3279KT	hypothetical protein
+1518923..1520854	-	643	42519522	thrS	LJ1645	-	COG0441J	threonyl-tRNA synthetase
+1521136..1522035	-	299	42519523	-	LJ1646	-	COG1484L	primosomal protein DnaI
+1522050..1523390	-	446	42519524	-	LJ1647	-	COG3611L	hypothetical protein
+1523398..1523862	-	154	42519525	nrdR	LJ1648	-	COG1327K	transcriptional regulator NrdR
+1523867..1524463	-	198	42519526	coaE	LJ1649	-	COG0237H	dephospho-CoA kinase
+1524460..1525290	-	276	42519527	-	LJ1650	-	COG0266L	formamidopyrimidine-DNA glycosylase
+1525310..1527970	-	886	42519528	-	LJ1651	-	COG0749L	DNA polymerase I
+1528177..1528485	-	102	42519529	-	LJ1652	-	-	hypothetical protein
+1528511..1529344	-	277	42519530	-	LJ1653	-	COG3716G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIID, mannose specific
+1529347..1530204	-	285	42519531	-	LJ1654	-	COG3715G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, mannose specific
+1530242..1530745	-	167	42519532	-	LJ1655	-	COG3444G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, mannose specific
+1530758..1531201	-	147	42519533	-	LJ1656	-	COG2893G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIA, mannose specific
+1531395..1532357	+	320	42519534	-	LJ1657	-	COG1879G	hypothetical protein
+1532357..1533661	+	434	42519535	-	LJ1658	-	COG4585T	two-component system histidine kinase
+1533663..1534337	+	224	42519536	-	LJ1659	-	COG2197TK	two-component system response regulator
+1534315..1535595	+	426	42519537	-	LJ1660	-	COG1653G	hypothetical protein
+1535709..1536422	+	237	42519538	-	LJ1661	-	COG0274F	deoxyribose-phosphate aldolase
+1536423..1537136	+	237	42519539	-	LJ1662	-	COG2188K	hypothetical protein
+1537210..1538523	-	437	42519540	murC	LJ1663	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+1539182..1539829	-	215	42519541	-	LJ1664	-	COG0073R	phenylalanyl-tRNA synthetase beta chain
+1539854..1540174	-	106	42519542	-	LJ1665	-	COG0526OC	thioredoxin
+1540304..1540687	+	127	42519543	-	LJ1666	-	-	hypothetical protein
+1540760..1541416	-	218	42519544	trmB	LJ1667	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+1541428..1542639	-	403	42519545	-	LJ1668	-	COG4473U	hypothetical protein
+1542632..1543378	-	248	42519546	-	LJ1669	-	COG1131V	ABC transporter ATPase component
+1543474..1543908	+	144	42519547	-	LJ1670	-	COG0537FGR	hit protein
+1543991..1544482	+	163	42519548	-	LJ1671	-	-	hypothetical protein
+1544482..1544832	+	116	42519549	-	LJ1672	-	-	hypothetical protein
+1544954..1545850	+	298	42519550	prsA	LJ1673	-	COG0760O	peptidylprolyl isomerase
+1545908..1546885	-	325	42519551	-	LJ1674	-	COG3481R	hypothetical protein
+1546885..1549323	-	812	42519552	-	LJ1675	-	COG4717S	hypothetical protein
+1549304..1550527	-	407	42519553	-	LJ1676	-	COG0420L	hypothetical protein
+1550533..1550886	-	117	42519554	-	LJ1677	-	COG3679S	hypothetical protein
+1550906..1552963	-	685	42519555	-	LJ1678	-	COG0744M	penicillin-binding protein 1F
+1553069..1553917	+	282	42519556	-	LJ1679	-	COG0564J	hypothetical protein
+1554179..1557883	-	1234	42519557	-	LJ1680	-	-	hypothetical protein
+1558828..1559115	-	95	42519558	-	LJ1681	-	-	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, galactitol specific
+1559143..1560492	-	449	42519559	-	LJ1682	-	COG3775G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, galactitol specific
+1560505..1560966	-	153	42519560	-	LJ1683	-	COG1762GT	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIA, galactitol specific
+1560956..1561381	-	141	42519561	-	LJ1684	-	-	hypothetical protein
+1561353..1562852	-	499	42519562	-	LJ1685	-	COG3711K	hypothetical protein
+1563028..1563582	-	184	42519563	-	LJ1686	-	-	hypothetical protein
+1563606..1564457	-	283	42519564	-	LJ1687	-	-	hypothetical protein
+1564542..1565327	-	261	42519565	-	LJ1688	-	COG3231J	hypothetical protein
+1565372..1566403	-	343	42519566	-	LJ1689	-	COG1680V	hypothetical protein
+1566825..1567055	-	76	42519567	-	LJ1690	-	-	hypothetical protein
+1567057..1567506	-	149	42519568	-	LJ1691	-	-	hypothetical protein
+1567493..1567738	-	81	42519569	-	LJ1692	-	COG1573L	hypothetical protein
+1567820..1568464	-	214	42519570	-	LJ1693	-	COG0664T	hypothetical protein
+1568475..1568801	-	108	42519571	-	LJ1694	-	-	hypothetical protein
+1569019..1569249	-	76	42519572	-	LJ1695	-	COG2217P	hypothetical protein
+1569276..1571177	-	633	42519573	-	LJ1696	-	COG2217P	cation-transporting ATPase
+1571401..1571985	-	194	42519574	-	LJ1697	-	-	hypothetical protein
+1572152..1573504	-	450	42519575	-	LJ1698	-	COG2265J	hypothetical protein
+1573554..1574237	-	227	42519576	-	LJ1699	-	COG4200S	major facilitator superfamily permease
+1574230..1574934	-	234	42519577	-	LJ1700	-	COG1131V	ABC transporter ATPase component
+1575294..1576670	+	458	42519578	-	LJ1701	-	COG1757C	Na+/H+ antiporter
+1576796..1577641	+	281	42519579	-	LJ1702	-	COG1912S	hypothetical protein
+1577662..1578219	+	185	42519580	-	LJ1703	-	COG4720S	hypothetical protein
+1578241..1579962	+	573	42519581	-	LJ1704	-	COG1123R	ABC transporter ATPase component
+1579955..1580785	+	276	42519582	-	LJ1705	-	COG0619P	ABC transporter permease component
+1580848..1581561	+	237	42519583	-	LJ1706	-	COG0670R	hypothetical protein
+1581636..1583660	-	674	42519584	-	LJ1707	-	COG1442M	hypothetical protein
+1583660..1585666	-	668	42519585	-	LJ1708	-	COG1442M	hypothetical protein
+1585941..1587125	-	394	42519586	-	LJ1709	-	-	hypothetical protein
+1587298..1587720	-	140	42519587	-	LJ1710	-	COG1442M	hypothetical protein
+1587777..1596896	-	3039	42519588	-	LJ1711	-	-	hypothetical protein
+1597235..1598050	-	271	42519589	-	LJ1714	-	COG0561R	hypothetical protein
+1598310..1599218	-	302	42519590	-	LJ1715	-	COG1597IR	putative lipid kinase
+1599242..1600672	-	476	42519591	gatB	LJ1716	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1600676..1602115	-	479	42519592	gatA	LJ1717	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1602115..1602417	-	100	42519593	-	LJ1718	-	COG0721J	glutamyl-tRNA(Gln) amidotransferase subunit C
+1602428..1603567	-	379	42519594	-	LJ1719	-	COG4851R	hypothetical protein
+1603589..1605595	-	668	42519595	-	LJ1720	-	COG0272L	NAD-dependent DNA ligase
+1605634..1607880	-	748	42519596	-	LJ1721	-	COG0210L	ATP-dependent DNA helicase PcrA
+1607978..1608604	-	208	42519597	-	LJ1722	-	COG1705NU	hypothetical protein
+1608606..1609223	-	205	42519598	-	LJ1723	-	COG4684S	hypothetical protein
+1609442..1609900	-	152	42519599	-	LJ1724	-	COG3091S	hypothetical protein
+1609900..1610601	-	233	42519600	-	LJ1725	-	COG3774M	hypothetical protein
+1610727..1611776	+	349	42519601	-	LJ1726	-	COG2826L	transposase
+1611773..1613242	-	489	42519602	-	LJ1727	-	COG2244R	hypothetical protein
+1613254..1614402	-	382	42519603	-	LJ1728	-	COG1887M	hypothetical protein
+1614627..1615433	+	268	42519604	-	LJ1729	-	-	hypothetical protein
+1615535..1617103	+	522	42519605	-	LJ1730	-	COG1132V	ABC transporter ATPase and permease components
+1617192..1619885	-	897	42519606	-	LJ1731	-	COG0474P	cation-transporting ATPase
+1620091..1622088	-	665	42519607	-	LJ1732	-	COG0464O	hypothetical protein
+1622113..1622946	-	277	42519608	nadE	LJ1733	-	COG0171H	NAD synthetase
+1622948..1624420	-	490	42519609	-	LJ1734	-	COG1488H	nicotinate phosphoribosyltransferase
+1624530..1626524	-	664	42519610	-	LJ1735	-	COG0463M	hypothetical protein
+1626508..1627623	-	371	42519611	-	LJ1736	-	COG0438M	hypothetical protein
+1627628..1628368	-	246	42519612	-	LJ1737	-	COG1922M	teichoic acid biosynthesis protein A
+1628512..1628898	+	128	42519613	-	LJ1738	-	COG0615MI	glycerol-3-phosphate cytidylyltransferase
+1628950..1629651	-	233	42519614	-	LJ1739	-	COG2188K	hypothetical protein
+1629706..1630827	-	373	42519615	-	LJ1740	-	-	hypothetical protein
+1630920..1631222	+	100	42519616	-	LJ1741	-	COG0607P	hypothetical protein
+1631588..1632496	-	302	42519617	-	LJ1742	-	COG0039C	L-2-hydroxyisocaproate dehydrogenase
+1632581..1632829	-	82	42519618	-	LJ1743	-	-	hypothetical protein
+1632954..1633274	-	106	42519619	-	LJ1744	-	COG4269S	hypothetical protein
+1633596..1634576	-	326	42519620	-	LJ1745	-	-	surface protein, aggregation promoting factor
+1634938..1635741	-	267	42519621	-	LJ1746	-	-	surface protein, aggregation promoting factor
+1635958..1636677	-	239	42519622	-	LJ1747	-	COG4905S	hypothetical protein
+1636821..1637225	+	134	42519623	-	LJ1747b	-	COG3223S	phosphate-starvation-inducible protein PsiE
+1637220..1637741	-	173	42519624	-	LJ1748	-	-	hypothetical protein
+1637990..1639192	-	400	42519625	-	LJ1749	-	COG4974L	hypothetical protein
+1639454..1639840	-	128	42519626	-	LJ1750	-	-	hypothetical protein
+1639830..1640636	-	268	42519627	-	LJ1751	-	COG2946L	hypothetical protein
+1640744..1641538	-	264	42519628	-	LJ1752	-	COG1674D	hypothetical protein
+1641528..1642097	-	189	42519629	-	LJ1753	-	-	hypothetical protein
+1642108..1642554	-	148	42519630	-	LJ1754	-	-	hypothetical protein
+1642760..1643560	+	266	42519631	-	LJ1755	-	COG3620K	hypothetical protein
+1643939..1644796	-	285	42519632	-	LJ1756	-	COG0656R	reductase
+1644878..1646209	-	443	42519633	-	LJ1757	-	COG1249C	pyridine nucleotide-disulfide oxidoreductase
+1646343..1647104	+	253	42519634	-	LJ1758	-	COG4295S	hypothetical protein
+1647164..1648156	+	330	42519635	-	LJ1759	-	COG1087M	UDP-glucose 4-epimerase
+1648199..1650421	-	740	42519636	-	LJ1760	-	COG1201R	hypothetical protein
+1650429..1651763	-	444	42519637	-	LJ1761	-	-	hypothetical protein
+1651767..1653647	-	626	42519638	-	LJ1762	-	-	hypothetical protein
+1653760..1654008	-	82	42519639	-	LJ1763	-	COG0599S	hypothetical protein
+1653963..1654445	-	160	42519640	-	LJ1764	-	-	hypothetical protein
+1654662..1655087	+	141	42519641	-	LJ1765	-	-	hypothetical protein
+1655304..1657913	-	869	42519642	-	LJ1766	-	COG1454C	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+1658228..1659601	+	457	42519643	-	LJ1767	-	COG1113E	hypothetical protein
+1671938..1673929	-	663	42519644	-	LJ1768	-	COG1368M	hypothetical protein
+1674014..1675030	-	338	42519645	-	LJ1770	-	COG0392S	hypothetical protein
+1675030..1676073	-	347	42519646	-	LJ1771	-	COG0438M	hypothetical protein
+1676066..1677232	-	388	42519647	-	LJ1772	-	COG0438M	hypothetical protein
+1678542..1678901	+	119	42519648	-	LJ1773	-	-	hypothetical protein
+1686282..1687592	-	436	42519649	-	LJ0676	-	COG0172J	seryl-tRNA synthetase
+1687808..1688362	-	184	42519650	-	LJ0675	-	COG1670J	hypothetical protein
+1688362..1688961	-	199	42519651	-	LJ0674	-	COG0398S	hypothetical protein
+1689127..1689933	+	268	42519652	-	LJ0673	-	COG0657I	hypothetical protein
+1689920..1690762	+	280	42519653	-	LJ0672	-	-	hypothetical protein
+1690865..1692238	+	457	42519654	-	LJ0671	-	COG1012C	succinate-semialdehyde dehydrogenase
+1692287..1693297	-	336	42519655	-	LJ0670	-	-	hypothetical protein
+1693372..1694055	-	227	42519656	-	LJ0669	-	COG0398S	hypothetical protein
+1694203..1695006	+	267	42519657	-	LJ0668	-	COG0561R	hypothetical protein
+1695079..1698735	-	1218	42519658	-	LJ0667	-	COG2409R	hypothetical protein
+1698755..1699318	-	187	42519659	-	LJ0666	-	COG1309K	hypothetical protein
+1699445..1700389	-	314	42519660	-	LJ0665	-	-	hypothetical protein
+1700581..1701504	+	307	42519661	-	LJ0664	-	COG2971G	hypothetical protein
+1701554..1701994	-	146	42519662	-	LJ0663	-	COG2153R	hypothetical protein
+1701994..1702518	-	174	42519663	-	LJ0662	-	COG0456R	protease synthase and sporulation negative regulatory protein PAI 1
+1702520..1702978	-	152	42519664	-	LJ0661	-	COG1846K	hypothetical protein
+1703129..1703497	+	122	42519665	-	LJ0660	-	COG3759S	hypothetical protein
+1703563..1704867	-	434	42519666	-	LJ0659	-	COG1653G	hypothetical protein
+1704912..1705913	-	333	42519667	-	LJ0658	-	COG0595R	hypothetical protein
+1705948..1706214	-	88	42519668	-	LJ0657	-	-	hypothetical protein
+1706198..1707028	-	276	42519669	-	LJ0656	-	COG0395G	ABC transporter permease component
+1707030..1707893	-	287	42519670	-	LJ0655	-	COG1175G	ABC transporter permease component
+1707893..1708978	-	361	42519671	-	LJ0654	-	COG3842E	ABC transporter ATPase component
+1709286..1710719	-	477	42519672	-	LJ0653	-	COG4690E	dipeptidase
+1710750..1711598	-	282	42519673	-	LJ0652	-	-	hypothetical protein
+1711736..1712560	+	274	42519674	-	LJ0651	-	COG0656R	2,5-diketo-D-gluconate reductase
+1712577..1713701	+	374	42519675	-	LJ0650	-	COG4292S	hypothetical protein
+1713728..1714690	-	320	42519676	-	LJ0649	-	COG2176L	hypothetical protein
+1714704..1715510	-	268	42519677	-	LJ0648	-	COG0846K	hypothetical protein
+1715520..1716155	-	211	42519678	-	LJ0647	-	COG2323S	hypothetical protein
+1716163..1716612	-	149	42519679	-	LJ0646	-	-	hypothetical protein
+1716619..1717893	-	424	42519680	-	LJ0645	-	COG2195E	peptidase T
+1717956..1718492	-	178	42519681	-	LJ0644	-	-	hypothetical protein
+1718562..1719332	-	256	42519682	-	LJ0643	-	COG3201H	hypothetical protein
+1719813..1720862	-	349	42519683	-	LJ0642	-	COG2826L	transposase
+1721279..1725970	+	1563	42519684	-	LJ0641	-	COG0810M	hypothetical protein
+1726093..1726467	+	124	42519685	mscL	LJ0640	-	COG1970M	large-conductance mechanosensitive channel
+1726563..1727054	-	163	42519686	-	LJ0639	-	COG2190G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIA, glucose specific
+1727059..1727568	-	169	42519687	-	LJ0638	-	-	hypothetical protein
+1727546..1728352	-	268	42519688	-	LJ0637	-	COG1737K	hypothetical protein
+1728441..1730327	-	628	42519689	-	LJ0636	-	COG1263G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIBC, arbutin specific
+1730413..1731756	-	447	42519690	-	LJ0635	-	COG1486G	6-phospho-alpha-glucosidase (maltose-6'-phosphate hydrolase)
+1732175..1732909	-	244	42519691	-	LJ0634	-	COG2461S	hypothetical protein
+1733320..1734708	+	462	42519692	-	LJ0633	-	COG1823R	hypothetical protein
+1735232..1736341	+	369	42519693	-	LJ0632	-	COG0620E	hypothetical protein
+1736356..1736832	+	158	42519694	-	LJ0631	-	COG1854T	S-ribosylhomocysteinase
+1736894..1737289	-	131	42519695	-	LJ0630	-	-	hypothetical protein
+1737376..1738179	-	267	42519696	-	LJ0629	-	COG3716G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIID, N-acetylgalactosamine specific
+1738169..1738978	-	269	42519697	-	LJ0628	-	COG3715G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, N-acetylgalactosamine specific
+1738994..1739914	-	306	42519698	-	LJ0627	-	COG3444G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIAB, mannose specific
+1740199..1741953	-	584	42519699	-	LJ0626	-	COG0747E	oligopeptide ABC transporter ABC transporter solute-binding component
+1742205..1743116	-	303	42519700	-	LJ0625	-	COG5006R	DMT permease
+1743410..1743673	-	87	42519701	-	LJ0624	-	COG1264G	hypothetical protein
+1744077..1744745	-	222	42519702	-	LJ0623	-	COG3711K	hypothetical protein
+1745031..1746080	+	349	42519703	-	LJ0622	-	COG2826L	transposase
+1746202..1754571	-	2789	42519704	-	LJ0621	-	-	hypothetical protein
+1754879..1755451	-	190	42519705	-	LJ0620	-	COG0231J	elongation factor P
+1755464..1756315	-	283	42519706	-	LJ0619	-	COG1072H	pantothenate kinase
+1756405..1756977	+	190	42519707	-	LJ0618	-	COG2755E	hypothetical protein
+1757013..1757672	-	219	42519708	-	LJ0617	-	COG4990S	hypothetical protein
+1757870..1760164	-	764	42519709	-	LJ0616	-	COG3973R	hypothetical protein
+1760333..1760977	+	214	42519710	-	LJ0615	-	COG5549O	hypothetical protein
+1761379..1762665	+	428	42519711	-	LJ0614	-	COG0474P	cation-transporting ATPase
+1762550..1764064	+	504	42519712	-	LJ0613	-	COG0474P	cation-transporting ATPase
+1764285..1765103	-	272	42519713	-	LJ0612	-	COG1737K	hypothetical protein
+1765232..1765924	+	230	42519714	-	LJ0611	-	COG3010G	N-acetylmannosamine-6-phosphate 2-epimerase
+1765952..1768018	+	688	42519715	-	LJ0610	-	COG1263G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, glucose specific
+1768093..1768878	-	261	42519716	-	LJ0609	-	COG0708L	exodeoxyribonuclease A
+1768984..1769328	-	114	42519717	-	LJ0608	-	-	hypothetical protein
+1769432..1769647	+	71	42519718	-	LJ0607	-	-	hypothetical protein
+1769690..1770340	+	216	42519719	-	LJ0606	-	COG0406G	phosphoglycerate mutase
+1770375..1772237	-	620	42519720	-	LJ0605	-	-	hypothetical protein
+1772257..1773003	-	248	42519721	-	LJ0604	-	COG1136V	ABC transporter ATPase component
+1773243..1774685	+	480	42519722	-	LJ0603	-	COG0531E	hypothetical protein
+1774761..1775480	-	239	42519723	-	LJ0602	-	-	hypothetical protein
+1775477..1776211	-	244	42519724	-	LJ0601	-	-	hypothetical protein
+1776213..1776983	-	256	42519725	-	LJ0600	-	COG1131V	ABC transporter ATPase component
+1777904..1779184	+	426	42519726	-	LJ0599	-	COG2262R	hypothetical protein
+1779228..1780436	-	402	42519727	-	LJ0598	-	-	hypothetical protein
+1780540..1781745	-	401	42519728	-	LJ0597	-	COG0791M	hypothetical protein
+1781939..1782496	-	185	42519729	-	LJ0596	-	COG0194F	guanylate kinase
+1782587..1782880	+	97	42519730	-	LJ0595	-	-	hypothetical protein
+1782929..1784458	+	509	42519731	-	LJ0594	-	-	hypothetical protein
+1784528..1785154	-	208	42519732	-	LJ0593	-	-	hypothetical protein
+1785296..1785757	+	153	42519733	nrdI	LJ0592	-	COG1780F	ribonucleotide reductase stimulatory protein
+1785750..1786691	+	313	42519734	nrdF	LJ0591	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+1786716..1787201	-	161	42519735	-	LJ0590	-	-	hypothetical protein
+1787287..1787628	-	113	42519736	-	LJ0589	-	COG2337T	hypothetical protein
+1787615..1787866	-	83	42519737	-	LJ0588	-	-	hypothetical protein
+1788097..1788567	-	156	42519738	-	LJ0587	-	COG3610S	hypothetical protein
+1788567..1789349	-	260	42519739	-	LJ0586	-	COG2966S	hypothetical protein
+1789366..1790913	-	515	42519740	-	LJ0585	-	COG0488R	ABC transporter ATPase component
+1790913..1791296	-	127	42519741	-	LJ0584	-	-	hypothetical protein
+1791521..1791793	+	90	42519742	-	LJ0583	-	-	hypothetical protein
+1791898..1793022	-	374	42519743	-	LJ0582	-	COG1316K	hypothetical protein
+1793186..1794994	+	602	42519744	-	LJ0581	-	COG1164E	oligoendopeptidase F
+1795063..1796574	-	503	42519745	-	LJ0580	-	COG1620C	L-lactate permease
+1796696..1797487	-	263	42519746	-	LJ0579	-	COG1108P	ABC transporter permease component
+1797487..1798146	-	219	42519747	-	LJ0578	-	COG1121P	ABC transporter ATPase component
+1798183..1799082	-	299	42519748	-	LJ0577	-	COG0803P	ABC transporter solute-binding component
+1799383..1799661	-	92	42519749	-	LJ0576	-	COG0640K	hypothetical protein
+1799691..1800476	-	261	42519750	-	LJ0575	-	COG0561R	hypothetical protein
+1800576..1805291	-	1571	42519751	-	LJ0574	-	-	hypothetical protein
+1805547..1806014	-	155	42519752	-	LJ0573	-	-	hypothetical protein
+1806355..1808340	-	661	42519753	-	LJ0572	-	COG1299G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, fructose specific
+1808381..1809295	-	304	42519754	-	LJ0571	-	COG1105G	fructose-1-phosphate kinase
+1809292..1810050	-	252	42519755	-	LJ0570	-	COG1349KG	hypothetical protein
+1810227..1812533	-	768	42519756	-	LJ0569	-	COG1501G	alpha-glucosidase
+1812618..1813844	-	408	42519757	-	LJ0568	-	COG1668CP	ABC transporter permease component
+1813837..1814733	-	298	42519758	-	LJ0567	-	COG4152R	ABC transporter ATPase component
+1814858..1815607	-	249	42519759	-	LJ0566	-	COG1794M	aspartate racemase
+1815610..1817181	-	523	42519760	murE	LJ0565	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1817218..1818375	-	385	42519761	-	LJ0564	-	COG0642T	two-component system histidine kinase
+1818381..1819067	-	228	42519762	-	LJ0563	-	COG0745TK	two-component system response regulator
+1819218..1821074	-	618	42519763	-	LJ0562	-	COG1132V	ABC transporter ATPase and permease components
+1821088..1822818	-	576	42519764	-	LJ0561	-	COG1132V	ABC transporter ATPase and permease components
+1822954..1823787	-	277	42519765	-	LJ0560	-	COG4858S	hypothetical protein
+1823799..1824899	-	366	42519766	-	LJ0559	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+1824922..1825170	-	82	42519767	-	LJ0558	-	COG4481S	hypothetical protein
+1825190..1826071	-	293	42519768	-	LJ0557	-	COG1475K	chromosome partitioning protein ParB
+1826055..1826828	-	257	42519769	-	LJ0556	-	COG1192D	chromosome partitioning protein ParA
+1826844..1827725	-	293	42519770	-	LJ0555	-	COG1475K	chromosome partitioning protein ParB
+1827747..1828466	-	239	42519771	gidB	LJ0554	-	COG0357M	16S rRNA methyltransferase GidB
+1828665..1829201	+	178	42519772	-	LJ0553	-	-	hypothetical protein
+1829246..1830172	-	308	42519773	-	LJ0552	-	COG1477H	hypothetical protein
+1830169..1830972	-	267	42519774	-	LJ0551	-	COG2365T	hypothetical protein
+1830983..1832020	-	345	42519775	-	LJ0550	-	COG3589S	hypothetical protein
+1832151..1832705	-	184	42519776	-	LJ0549	-	COG0431R	hypothetical protein
+1832718..1833254	-	178	42519777	-	LJ0548	-	COG0431R	hypothetical protein
+1833390..1834013	-	207	42519778	-	LJ0547	-	COG1309K	hypothetical protein
+1834159..1834401	-	80	42519779	-	LJ0546	-	-	hypothetical protein
+1834479..1835891	+	470	42519780	-	LJ0545	-	COG4690E	dipeptidase
+1835953..1837431	-	492	42519781	-	LJ0544	-	COG2723G	6-phospho-beta-glucosidase
+1837441..1839303	-	620	42519782	-	LJ0543	-	COG2190G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, beta-glucosides specific
+1839300..1840148	-	282	42519783	-	LJ0542	-	COG3711K	hypothetical protein
+1840291..1840971	-	226	42519784	-	LJ0541	-	COG1136V	ABC transporter ATPase component
+1840986..1842038	-	350	42519785	-	LJ0540	-	COG4591M	ABC transporter permease component
+1842045..1842566	-	173	42519786	-	LJ0539	-	COG1309K	hypothetical protein
+1842698..1843297	-	199	42519787	-	LJ0538	-	COG0406G	hypothetical protein
+1843304..1843930	-	208	42519788	-	LJ0537	-	COG0406G	hypothetical protein
+1844051..1844800	+	249	42519789	-	LJ0536	-	COG0596R	hypothetical protein
+1844842..1845600	-	252	42519790	-	LJ0535	-	COG3022S	hypothetical protein
+1845590..1845949	-	119	42519791	-	LJ0534	-	-	hypothetical protein
+1846064..1846753	+	229	42519792	-	LJ0533	-	-	hypothetical protein
+1846821..1847720	-	299	42519793	-	LJ0532	-	-	hypothetical protein
+1847725..1849056	-	443	42519794	-	LJ0531	-	COG1455G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, cellobiose specific
+1849205..1850983	-	592	42519795	-	LJ0530	-	COG0584C	hypothetical protein
+1851065..1851826	-	253	42519796	-	LJ0529	-	COG2367V	hypothetical protein
+1852029..1852880	-	283	42519797	-	LJ0528	-	COG1737K	hypothetical protein
+1852929..1853705	-	258	42519798	-	LJ0527	-	COG1085C	hypothetical protein
+1853857..1854279	-	140	42519799	-	LJ0526	-	COG0710E	hypothetical protein
+1854340..1855206	-	288	42519800	-	LJ0525	-	-	hypothetical protein
+1855382..1855813	+	143	42519801	-	LJ0524	-	-	hypothetical protein
+1855774..1856595	+	273	42519802	-	LJ0523	-	COG2814G	hypothetical protein
+1856618..1857301	+	227	42519803	-	LJ0522	-	COG2071R	hypothetical protein
+1857344..1858954	-	536	42519804	-	LJ0521	-	COG1132V	ABC transporter ATPase and permease components
+1858974..1859480	-	168	42519805	-	LJ0520	-	COG2110R	hypothetical protein
+1859597..1861540	-	647	42519806	-	LJ0519	-	COG1263G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, sucrose specific
+1861776..1863245	+	489	42519807	-	LJ0518	-	COG1621G	sucrose-6-phosphate hydrolase
+1863256..1864242	+	328	42519808	-	LJ0517	-	COG1609K	sucrose operon repressor
+1864280..1865056	-	258	42519809	-	LJ0516	-	COG2365T	hypothetical protein
+1865259..1866074	+	271	42519810	-	LJ0515	-	COG0351H	phosphomethylpyrimidine kinase (HMP-phosphate kinase)
+1866150..1866833	+	227	42519811	-	LJ0514	-	COG3442R	hypothetical protein
+1866814..1868202	+	462	42519812	-	LJ0513	-	COG0531E	hypothetical protein
+1868240..1869142	-	300	42519813	-	LJ0512	-	COG0697GER	hypothetical protein
+1869563..1870573	+	336	42519814	-	LJ0511	-	COG2502E	asparagine synthetase AsnA
+1870620..1872020	-	466	42519815	-	LJ0510	-	COG0531E	hypothetical protein
+1872038..1872763	-	241	42519816	-	LJ0509	-	COG2071R	hypothetical protein
+1872926..1874308	-	460	42519817	-	LJ0508	-	COG1113E	hypothetical protein
+1874298..1875692	-	464	42519818	-	LJ0507	-	COG1113E	hypothetical protein
+1875850..1876212	-	120	42519819	-	LJ0506	-	COG4687S	hypothetical protein
+1876277..1877206	-	309	42519820	-	LJ0505	-	COG3716G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIID mannose specific
+1877236..1878039	-	267	42519821	-	LJ0504	-	COG3715G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, mannose specific
+1878061..1879056	-	331	42519822	-	LJ0503	-	COG3444G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIAB, mannose specific
+1890385..1891782	-	465	42519823	-	LJ1774	-	COG0531E	amino acid transporter
+1891909..1894023	-	704	42519824	-	LJ1775	-	COG0542O	ATP-dependent Clp protease ATP-binding subunit clpE
+1894276..1895187	-	303	42519825	-	LJ1776	-	COG4814R	hypothetical protein
+1895177..1896496	-	439	42519826	-	LJ1777	-	COG1455G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, cellobiose specific
+1896662..1896898	+	78	42519827	-	LJ1778	-	-	hypothetical protein
+1897016..1898215	+	399	42519828	-	LJ1779	-	-	major facilitator superfamily permease
+1898455..1899246	-	263	42519829	-	LJ1780	-	COG1680V	hypothetical protein
+1899408..1900709	-	433	42519830	-	LJ1781	-	COG3966M	DltD precursor
+1900702..1900941	-	79	42519831	-	LJ1782	-	-	D-alanine--poly(phosphoribitol) ligase subunit 2
+1900971..1902194	-	407	42519832	-	LJ1783	-	COG1696M	DLTB protein
+1902191..1903699	-	502	42519833	-	LJ1784	-	COG1020Q	D-alanine--poly(phosphoribitol) ligase subunit 1
+1904013..1904303	-	96	42519834	-	LJ1785	-	-	hypothetical protein
+1904306..1905457	-	383	42519835	-	LJ1786	-	-	hypothetical protein
+1905813..1906124	-	103	42519836	-	LJ1787	-	-	hypothetical protein
+1906129..1906473	-	114	42519837	-	LJ1788	-	-	hypothetical protein
+1906475..1906762	-	95	42519838	-	LJ1789	-	-	hypothetical protein
+1907049..1907333	+	94	42519839	-	LJ1790	-	-	hypothetical protein
+1907660..1908154	+	164	42519840	-	LJ1791	-	COG3620K	hypothetical protein
+1908225..1910096	+	623	42519841	-	LJ1792	-	COG2217P	cation-transporting ATPase
+1910268..1911428	+	386	42519842	-	LJ1793	-	COG0475P	Na+/H+ antiporter
+1911465..1912118	-	217	42519843	-	LJ1794	-	-	hypothetical protein
+1912118..1913686	-	522	42519844	-	LJ1795	-	COG1132V	ABC transporter ATPase and permease components
+1913791..1914654	+	287	42519845	-	LJ1796	-	-	hypothetical protein
+1914679..1914909	-	76	42519846	-	LJ1797	-	-	hypothetical protein
+1914926..1915573	-	215	42519847	-	LJ1798	-	COG2039O	pyrrolidone-carboxylate peptidase
+1915593..1916516	-	307	42519848	-	LJ1799	-	COG3817S	hypothetical protein
+1916518..1917192	-	224	42519849	-	LJ1800	-	COG3819S	hypothetical protein
+1917306..1917794	-	162	42519850	-	LJ1801	-	-	hypothetical protein
+1917817..1918239	-	140	42519851	-	LJ1802	-	-	hypothetical protein
+1918304..1918828	-	174	42519852	-	LJ1803	-	-	hypothetical protein
+1918971..1920425	+	484	42519853	-	LJ1804	-	COG3775G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC, galactitol specific
+1920476..1920985	+	169	42519854	-	LJ1805	-	COG3477S	hypothetical protein
+1921002..1921649	-	215	42519855	-	LJ1806	-	COG1266R	hypothetical protein
+1921729..1922850	+	373	42519856	-	LJ1807	-	COG1434S	hypothetical protein
+1922863..1924755	+	630	42519857	-	LJ1808	-	COG1136V	ABC transporter ATPase component
+1924757..1925203	+	148	42519858	-	LJ1809	-	COG4591M	ABC transporter permease component
+1925368..1926759	+	463	42519859	-	LJ1810	-	COG1271C	cytochrome d ubiquinol oxidase subunit I
+1926759..1927781	+	340	42519860	-	LJ1811	-	COG1294C	cytochrome d ubiquinol oxidase subunit II
+1927800..1929617	+	605	42519861	-	LJ1812	-	COG4988CO	ABC transporter ATPase and permease components
+1929614..1931359	+	581	42519862	-	LJ1813	-	COG4987CO	ABC transporter ATPase and permease components
+1931379..1932455	+	358	42519863	-	LJ1814	-	COG1575H	hypothetical protein
+1932520..1933452	+	310	42519864	-	LJ1815	-	COG3221P	hypothetical protein
+1933546..1934616	+	356	42519865	-	LJ1816	-	COG1744R	hypothetical protein
+1934639..1935499	-	286	42519866	-	LJ1817	-	COG1737K	hypothetical protein
+1935502..1936572	-	356	42519867	-	LJ1818	-	COG3589S	hypothetical protein
+1936629..1937525	-	298	42519868	murQ	LJ1819	-	COG2103R	N-acetylmuramic acid-6-phosphate etherase
+1937534..1939537	-	667	42519869	-	LJ1820	-	COG1263G	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, beta-glucoside specific
+1939856..1940611	+	251	42519870	-	LJ1821	-	COG0730R	hypothetical protein
+1940696..1941535	-	279	42519871	-	LJ1822	-	COG0656R	hypothetical protein
+1941662..1942381	+	239	42519872	-	LJ1823	-	COG0363G	glucosamine-6-P isomerase
+1942591..1943238	+	215	42519873	-	LJ1824	-	COG1428F	deoxyadenosine kinase
+1943260..1943934	+	224	42519874	-	LJ1825	-	COG1428F	deoxyguanosine kinase
+1943988..1945226	-	412	42519875	-	LJ1826	-	COG1304C	glycolate oxidase
+1945469..1946779	+	436	42519876	-	LJ1827	-	COG2252R	hypothetical protein
+1946864..1947598	-	244	42519877	-	LJ1828	-	COG0789K	hypothetical protein
+1947903..1949213	+	436	42519878	-	LJ1829	-	COG2252R	hypothetical protein
+1949566..1950879	+	437	42519879	-	LJ1830	-	COG2252R	hypothetical protein
+1950987..1951472	+	161	42519880	-	LJ1831	-	COG1476K	hypothetical protein
+1951537..1951950	+	137	42519881	-	LJ1832	-	COG0242J	peptide deformylase
+1952032..1952577	-	181	42519882	-	LJ1833	-	-	hypothetical protein
+1952599..1953156	-	185	42519883	-	LJ1834	-	-	hypothetical protein
+1953314..1953748	+	144	42519884	-	LJ1835	-	COG3682K	CopAB ATPase metal-fist type repressor
+1953761..1954138	+	125	42519885	-	LJ1836	-	COG4633S	hypothetical protein
+1954156..1954443	+	95	42519886	-	LJ1837	-	COG4633S	hypothetical protein
+1954443..1956368	+	641	42519887	-	LJ1838	-	COG2217P	cation-transporting ATPase PacS
+1956573..1962017	+	1814	42519888	-	LJ1839	-	-	hypothetical protein
+1962122..1968751	-	2209	42519889	-	LJ1840	-	COG0419L	cell wall-associated serine proteinase
+1969039..1969935	+	298	42519890	prsA	LJ1841	-	COG0760O	peptidylprolyl isomerase
+1970494..1971975	-	493	42519891	-	LJ1842	-	COG0531E	amino acid transporter
+1972219..1974318	+	699	42519892	-	LJ1843	-	COG1982E	ornithine decarboxylase
+1974321..1975589	+	422	42519893	-	LJ1844	-	COG4100P	hypothetical protein
+1975660..1976073	-	137	42519894	-	LJ1845	-	COG0456R	hypothetical protein
+1976338..1977681	+	447	42519895	-	LJ1846	-	-	major facilitator superfamily permease
+1977736..1978134	+	132	42519896	-	LJ1847	-	-	hypothetical protein
+1978287..1979879	-	530	42519897	-	LJ1848	-	COG1136V	ABC transporter ATPase component
+1980275..1982137	+	620	42519898	-	LJ1850	-	COG1193L	hypothetical protein
+1982223..1983776	-	517	42519899	-	LJ1851	-	COG0038P	hypothetical protein
+1983876..1985264	-	462	42519900	-	LJ1852	-	COG0362G	6-phosphogluconate dehydrogenase
+1985410..1987110	-	566	42519901	-	LJ1853	-	COG0028EH	pyruvate oxidase
+1987355..1989253	-	632	42519902	-	LJ1854	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+1989261..1990646	-	461	42519903	trmE	LJ1855	-	COG0486R	tRNA modification GTPase TrmE
+1990757..1991632	-	291	42519904	-	LJ1856	-	COG0706U	stage III sporulation protein J precursor
+1991634..1992002	-	122	42519905	rnpA	LJ1857	-	COG0594J	ribonuclease P

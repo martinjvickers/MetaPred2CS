@@ -1,0 +1,196 @@
+Agrobacterium tumefaciens str. C58 plasmid Ti, complete sequence - 0..214233
+193 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..2502	+	833	16119781	virA	AGR_pTi_2	T	COG2197	sensor kinase
+3047..3784	+	245	41223307	virB1	AGR_pTi_3	-	-	type IV secretion system apparatus lytic transglycosylase
+3784..4149	+	121	16119783	virB2	AGR_pTi_4	U	COG3838	prepropilin
+4149..4475	+	108	16119784	virB3	AGR_pTi_bx137	U	COG3702	type IV secretion system apparatus component
+4475..6844	+	789	16119786	virB4	AGR_pTi_8	U	COG3451	type IV secretion sytem apparatus ATPase
+6861..7523	+	220	16119787	virB5	AGR_pTi_9	-	-	type IV secretion system apparatus component
+7624..8511	+	295	41223308	virB6	AGR_pTi_10	-	-	type IV secretion system apparatus component
+8547..8714	+	55	16119789	virB7	AGR_pTi_missing	-	-	type IV secretion system apparatus outer membrane lipoprotein precursor
+8701..9414	+	237	41223309	-	AGR_pTi_11	-	-	type IV secretion system apparatus component
+9411..10292	+	293	16119791	-	AGR_pTi_12	U	COG3504	type IV secretion system apparatus outer membrane protein
+10289..11422	+	377	16119792	virB10	AGR_pTi_13	U	COG2948	type IV secretion apparatus inner membrane protein
+11463..12497	+	344	41223310	virB11	AGR_pTi_14	-	-	type IV secretion apparatus ATPase
+12716..13477	+	253	16119794	virG	AGR_pTi_15	T	COG0745	vir operon transcriptional activator
+13619..14233	-	204	16119795	virC2	AGR_pTi_16	-	-	virulence protein
+14230..14925	-	231	16119796	virC1	AGR_pTi_18	D	COG1192	DNA-binding protein
+15196..15639	+	147	41223311	virD1	AGR_pTi_19	-	-	T-DNA border endonuclease accessory protein
+15673..17016	+	447	16119798	virD2	AGR_pTi_21	U	COG3843	T-DNA border endonuclease
+17028..19052	+	674	16119799	virD3	AGR_pTi_22	-	-	hypothetical protein
+19126..21132	+	668	41223312	virD4	AGR_pTi_23	-	-	type IV secretion system coupling protein
+21244..23766	+	840	16119801	-	AGR_pTi_24	-	-	hypothetical protein
+23944..24402	+	152	41223313	-	AGR_pTi_24.1N	-	-	hypothetical protein
+24143..24469	-	108	57903202	-	AGR_pTi_bx129	-	-	VirH-like protein
+24861..24968	+	35	16119803	-	AGR_pTi_25	-	-	hypothetical protein
+25221..25412	+	63	16119804	-	AGR_pTi_26	-	-	secretion chaperone
+25426..27096	+	556	16119805	-	AGR_pTi_28	-	-	single-stranded DNA-binding protein
+27163..29217	+	684	16119806	-	AGR_pTi_29	-	-	secreted effector protein
+29647..29976	+	109	16119807	-	AGR_pTi_30	-	-	hypothetical protein
+30038..30409	-	123	16119808	-	AGR_pTi_32	K	COG2771	hypothetical protein
+30385..31116	-	243	16119809	-	AGR_pTi_34	G	COG1082	hypothetical protein
+31140..31679	-	179	16119810	-	AGR_pTi_35	L	COG0494	hypothetical protein
+31871..32599	-	242	16119811	-	AGR_pTi_37	G	COG0483	hypothetical protein
+32641..32925	-	94	16119812	-	AGR_pTi_38	-	-	hypothetical protein
+33790..34905	-	371	41223314	-	AGR_pTi_39	-	-	agrocinopine synthase
+35792..36475	+	227	16119814	-	AGR_pTi_bx89	-	-	hypothetical protein
+36931..38541	-	536	16119815	-	AGR_pTi_41	-	-	hypothetical protein
+39542..40273	+	243	16119816	-	AGR_pTi_42	-	-	beta-glucosidase
+40981..41676	+	231	16119817	-	AGR_pTi_43	-	-	hypothetical protein
+42155..43099	+	314	16119818	-	AGR_pTi_45	-	-	hypothetical protein
+43752..44786	-	344	16119819	-	AGR_pTi_46	Q	COG1028	hypothetical protein
+44994..46250	-	418	16119820	acs	AGR_pTi_47	-	-	agrocinopine synthase
+46864..47529	+	221	16119821	-	AGR_pTi_bx83	-	-	indole-3-lactate synthase
+48034..49437	-	467	16119822	iaaH	AGR_pTi_48	J	COG0154	indole acetimide hydrolase
+49775..52042	+	755	16119823	iaaM	AGR_pTi_49	-	-	tryptophan monooxygenase
+52740..53462	+	240	41223315	-	AGR_pTi_50	-	-	isopentenyl transferase
+53978..54538	+	186	16119825	-	AGR_pTi_51	-	-	protein 6a
+55021..55644	-	207	16119826	-	AGR_pTi_bx99	-	-	protein 6b
+56634..57875	-	413	16119827	nos	AGR_pTi_53	-	-	nopaline synthase
+58383..59447	-	354	41223316	ocd	AGR_pTi_54	-	-	ornithine cyclodeaminase
+59495..60577	-	360	41223317	-	AGR_pTi_55	-	-	opine dehydrogenase
+60654..61628	-	324	41223318	arc	AGR_pTi_56	-	-	arginase
+61676..63094	-	472	16119831	noxA	AGR_pTi_58	R	COG0446	nopaline oxidase subunit A
+63091..63384	-	97	16119832	-	AGR_pTi_bx141	R	COG0446	hypothetical protein
+63381..64499	-	372	16119833	noxB	AGR_pTi_61	E	COG0665	nopaline oxidase subunit B
+65107..67143	+	678	16119834	hyuA	AGR_pTi_62	E	COG0145	hydantoin utilization protein A
+67147..69102	+	651	16119835	hyuB	AGR_pTi_63	E	COG0146	hydantoin utilization protein B
+69222..70142	-	306	16119836	-	AGR_pTi_64	K	COG0583	transcriptional regulatory
+70257..70982	-	241	16119837	nocM	AGR_pTi_65	E	COG4160	opine permease
+70984..71694	-	236	16119838	nocQ	AGR_pTi_66	E	COG4215	opine permease
+71768..72619	-	283	41223319	nocT	AGR_pTi_67	-	-	opine-binding periplasmic protein
+72684..73457	-	257	41223320	nocP	AGR_pTi_69	-	-	opine permease ATP-binding protein
+73699..74613	+	304	41223321	nocR	AGR_pTi_70	-	-	transcriptional regulator
+74617..74976	-	119	16119842	-	AGR_pTi_bx125	-	-	hypothetical protein
+74973..76289	-	438	16119843	-	AGR_pTi_71	U	COG2948	conjugal transfer protein TrbI
+76302..76778	-	158	41223322	-	AGR_pTi_72	-	-	conjugal transfer protein TrbH
+76778..77632	-	284	41223323	-	AGR_pTi_73	-	-	conjugal transfer protein TrbG
+77650..78312	-	220	16119846	-	AGR_pTi_74	U	COG3701	conjugal transfer protein TrbF
+78327..79523	-	398	16119847	-	AGR_pTi_76	U	COG3846	conjugal transfer protein TrbL
+79517..79735	-	72	16119848	-	AGR_pTi_78	-	-	entry exclusion protein
+79732..80535	-	267	16119849	-	AGR_pTi_81	U	COG5314	conjugal transfer protein TrbJ
+80507..82975	-	822	16119850	-	AGR_pTi_83	U	COG3451	conjugal transfer protein ATPase
+82986..83285	-	99	16119851	-	AGR_pTi_85	N	COG5268	conjugal transfer protein TrbD
+83278..83691	-	137	16119852	-	AGR_pTi_87	U	COG3838	conjugal transfer prepropilin
+83669..84700	-	343	16119853	trbB	AGR_pTi_89	U	COG4962	conjugal transfer ATPase
+84637..85272	-	211	16119854	traI	AGR_pTi_91	T	COG3916	autoinducer biosynthetic protein
+85618..86853	+	411	16119855	repA	AGR_pTi_93	D	COG1192	replication protein A
+86981..88093	+	370	16119856	-	AGR_pTi_94	K	COG1475	replication protein B
+88308..89627	+	439	16119857	-	AGR_pTi_95	-	-	replication protein C
+89636..90577	-	313	41223324	-	AGR_pTi_97	-	-	DNA invertase
+90860..91969	+	369	16119859	-	AGR_pTi_98	-	-	hypothetical protein
+92150..94660	-	836	16119860	-	AGR_pTi_100	R	COG1204	helicase
+94863..96050	-	395	16119861	-	AGR_pTi_102	-	-	hypothetical protein
+96284..97000	+	238	16119862	-	AGR_pTi_103	-	-	hypothetical protein
+97009..97593	+	194	16119863	-	AGR_pTi_104	-	-	hypothetical protein
+97761..98588	+	275	16119864	-	AGR_pTi_bx90	-	-	hypothetical protein
+98685..99089	+	134	41223325	-	AGR_pTi_107	-	-	hypothetical protein
+99118..99510	-	130	16119866	-	AGR_pTi_108	-	-	hypothetical protein
+99834..100730	-	298	41223326	-	AGR_pTi_110	-	-	transcriptional regulator
+100645..100809	-	54	16119868	-	AGR_pTi_112	-	-	hypothetical protein
+100848..101720	+	290	16119869	-	AGR_pTi_113	R	COG0384	phenazine biosynthetic protein
+101762..102037	-	91	16119870	-	AGR_pTi_115	-	-	hypothetical protein
+102295..103092	+	265	41223327	-	AGR_pTi_116	-	-	permease protein
+103089..103892	+	267	16119872	-	AGR_pTi_117	P	COG1116	ABC transporter ATP-binding protein
+103919..104881	+	320	16119873	-	AGR_pTi_119	P	COG0715	substrate binding protein precursor
+105924..107171	+	415	16119875	-	AGR_pTi_123	C	COG2141	nitrilotriacetate monooxygenase
+107329..108099	+	256	16119876	-	AGR_pTi_126	Q	COG1028	dehydrogenase
+108259..109884	+	541	16119877	-	AGR_pTi_129	E	COG2303	dehydrogenase
+110019..110933	-	304	16119878	-	AGR_pTi_130	R	COG0596	haloalkane dehalogenase
+110930..111553	-	207	16119879	-	AGR_pTi_131	S	COG2128	hypothetical protein
+111693..112898	-	401	16119880	-	AGR_pTi_133	I	COG1960	acyl-CoA dehydrogenase
+112952..113521	-	189	16119881	-	AGR_pTi_134	S	COG2128	hypothetical protein
+113678..114712	-	344	41223328	-	AGR_pTi_136	-	-	ABC transporter permease protein
+114723..116309	-	528	16119883	-	AGR_pTi_138	G	COG1129	ABC transporter ATP-binding protein
+116306..117613	-	435	16119884	-	AGR_pTi_139	G	COG1879	ABC transporter periplasmic binding protein
+117747..118577	-	276	16119885	-	AGR_pTi_140	R	COG0491	hypothetical protein
+118657..119871	-	404	16119886	-	AGR_pTi_142	I	COG1960	acyl-CoA dehydrogenase
+119960..121555	-	531	16119887	-	AGR_pTi_144	E	COG0747	oligopeptide ABC transporter system binding protein
+121613..123283	-	556	16119888	-	AGR_pTi_146	R	COG1123	oligopeptide ABC transporter ATP-binding protein
+123280..124284	-	334	16119889	-	AGR_pTi_147	E	COG1173	oligopeptide ABC transporter permease protein
+124221..125207	-	328	41223329	-	AGR_pTi_148	-	-	oligopeptide ABC transporter integral membrane protein
+125204..126643	-	479	41223330	-	AGR_pTi_150	-	-	hypothetical protein
+126702..127928	-	408	16119892	-	AGR_pTi_152	C	COG2141	hypothetical protein
+127925..129217	-	430	16119893	-	AGR_pTi_154	C	COG2141	nitrilotriacetate monooxygenase
+129371..130351	+	326	41223331	-	AGR_pTi_155	-	-	transcriptional regulator
+130397..131026	+	209	16119895	-	AGR_pTi_157	-	-	hypothetical protein
+131276..132262	+	328	41223332	-	AGR_pTi_158	-	-	ATPase
+132266..134776	+	836	16119897	-	AGR_pTi_160	-	-	hypothetical protein
+135128..136480	+	450	16119898	-	AGR_pTi_161	C	COG2141	nitrilotriacetate monooxygenase
+136500..137435	+	311	16119899	-	AGR_pTi_163	P	COG0715	ABC transporter binding protein
+137454..138254	+	266	16119900	-	AGR_pTi_164	P	COG0600	ABC transporter permease protein
+138267..139082	+	271	16119901	-	AGR_pTi_165	P	COG1116	ABC transporter ATP-binding protein
+139079..140026	+	315	16119902	-	AGR_pTi_166	K	COG0583	transcriptional regulator
+140058..141245	+	395	16119903	-	AGR_pTi_bx104	P	COG0607	sulfurtransferase
+141340..142401	-	353	16119904	-	AGR_pTi_171	L	COG1793	ATP-dependent DNA ligase
+142685..143437	+	250	16119905	-	AGR_pTi_172	S	COG4544	hypothetical protein
+143451..144869	+	472	16119906	-	AGR_pTi_174	L	COG0389	hypothetical protein
+144866..148129	+	1087	16119907	-	AGR_pTi_175	L	COG0587	DNA polymerase III subunit alpha
+148364..149482	+	372	16119908	-	AGR_pTi_177	-	-	hypothetical protein
+149764..150177	-	137	16119909	-	AGR_pTi_179	-	-	hypothetical protein
+150397..151320	+	307	41223333	-	AGR_pTi_180	-	-	hypothetical protein
+151281..151877	-	198	16119911	-	AGR_pTi_bx97	D	COG2184	hypothetical protein
+151317..151922	+	201	41223334	-	AGR_pTi_180.1n	-	-	hypothetical protein
+151874..152335	-	153	16119912	-	AGR_pTi_183	K	COG1396	DNA-binding protein
+152716..153318	+	200	41223335	-	AGR_pTi_186	-	-	hypothetical protein
+153330..153731	+	133	16119915	-	AGR_pTi_187	-	-	hypothetical protein
+153860..158941	+	1693	16119916	-	AGR_pTi_188	K	COG4646	methyltransferase
+159093..161054	+	653	16119917	-	AGR_pTi_191	K	COG1475	partitioning protein
+161151..161624	+	157	16119918	-	AGR_pTi_193	-	-	hypothetical protein
+161621..162508	+	295	41223336	-	AGR_pTi_195	-	-	hypothetical protein
+162610..162813	+	67	16119921	-	AGR_pTi_196	-	-	hypothetical protein
+162785..163009	+	74	16119922	-	AGR_pTi_198	-	-	hypothetical protein
+163029..163334	-	101	16119923	-	AGR_pTi_201	P	COG2824	alkylphosphonate uptake protein
+163852..164451	+	199	16119924	-	AGR_pTi_204	-	-	hypothetical protein
+164763..165689	+	308	41223337	-	AGR_pTi_206	-	-	antirestriction protein
+165689..166603	+	304	16119926	-	AGR_pTi_207	-	-	hypothetical protein
+167259..167615	+	118	41223338	-	AGR_pTi_209	-	-	hypothetical protein
+167707..168318	-	203	41223339	-	AGR_pTi_211	-	-	hypothetical protein
+168299..168541	-	80	16119929	-	AGR_pTi_212	-	-	hypothetical protein
+168622..170028	-	468	16119930	-	AGR_pTi_213	-	-	hypothetical protein
+170091..170942	-	283	41223340	-	AGR_pTi_214	-	-	hypothetical protein
+171074..171559	+	161	16119932	-	AGR_pTi_215	L	COG0494	hypothetical protein
+171567..172652	-	361	16119933	-	AGR_pTi_bx162	-	-	hypothetical protein
+172027..172344	+	105	41223341	-	AGR_pTi_217	-	-	hypothetical protein
+172663..172833	+	56	16119936	-	AGR_pTi_219	-	-	hypothetical protein
+172875..173153	-	92	41223342	-	AGR_pTi_222	-	-	DNA-binding protein HU
+173293..173550	-	85	16119938	-	AGR_pTi_223	S	COG3831	hypothetical protein
+173549..173884	+	111	16119939	-	AGR_pTi_224	-	-	hypothetical protein
+173790..174260	-	156	16119940	-	AGR_pTi_225	L	COG1525	nuclease
+174257..174655	-	132	16119941	-	AGR_pTi_226	-	-	hypothetical protein
+174652..176628	-	658	16119942	-	AGR_pTi_bx12	U	COG3505	conjugal transfer coupling protein
+176615..176860	-	81	16119943	-	AGR_pTi_234	-	-	conjugal transfer protein TraD
+176835..177131	-	98	16119944	-	AGR_pTi_235	-	-	conjugal transfer protein TraC
+177339..180692	+	1117	16119945	-	AGR_pTi_237	L	COG0507	conjugal transfer endonuclease
+180689..181219	+	176	16119946	-	AGR_pTi_240	O	COG4959	conjugal transfer protein TraF
+181230..182405	+	391	41223343	-	AGR_pTi_241	-	-	conjugal transfer protein TraB
+182419..183048	+	209	16119948	-	AGR_pTi_243	-	-	hypothetical protein
+183574..183882	+	102	16119949	-	AGR_pTi_bx139	-	-	transcriptional repressor
+184041..185795	-	584	16119950	-	AGR_pTi_246	T	COG2202	methyl-accepting chemotaxis protein
+185883..186212	-	109	16119951	-	AGR_pTi_247	-	-	hypothetical protein
+186242..186946	-	234	16119952	traR	AGR_pTi_249	K	COG2771	transcriptional activator
+187164..188621	-	485	41223344	-	AGR_pTi_251	-	-	sucrose phosphorylase
+188673..190343	-	556	41223345	-	AGR_pTi_bx25	-	-	hypothetical protein
+190870..191643	+	257	41223346	accR	AGR_pTi_255	-	-	transcriptional repressor
+191701..193266	+	521	16119957	accA	AGR_pTi_257	E	COG0747	agrocinopine utilization periplasmic binding protein precursor
+193300..194265	+	321	16119958	accB	AGR_pTi_258	E	COG0444	transport protein
+194262..195281	+	339	16119959	accC	AGR_pTi_260	E	COG4608	transport protein
+195278..196204	+	308	16119960	accD	AGR_pTi_261	E	COG0601	permease protein
+196197..197057	+	286	16119961	accE	AGR_pTi_263	E	COG1173	permease protein
+197088..197873	+	261	16119962	accF	AGR_pTi_266	C	COG0584	opine catabolic protein
+197866..198684	+	272	41223347	accG	AGR_pTi_267	-	-	opine catabolic protein
+198684..199142	+	152	16119964	-	AGR_pTi_268	L	COG0494	hypothetical protein
+199139..200146	+	335	16119965	-	AGR_pTi_269	-	-	hypothetical protein
+200939..201283	+	114	41223348	-	AGR_pTi_bx53.1n	-	-	hypothetical protein
+201286..202545	+	419	16119967	-	AGR_pTi_272	Q	COG2124	cytochrome P450
+202622..203797	+	391	16119968	-	AGR_pTi_273	Q	COG2124	cytochrome P450
+205892..206830	+	312	16119971	virF	AGR_pTi_277	-	-	secreted effector protein
+206911..207048	+	45	16119972	-	AGR_pTi_278	-	-	hypothetical protein
+207740..208165	+	141	41223349	-	AGR_pTi_278.1N	-	-	hypothetical protein
+208564..208884	-	106	16119973	-	AGR_pTi_281	R	COG3550	hypothetical protein
+209014..209298	-	94	16119974	-	AGR_pTi_283	-	-	hypothetical protein
+210320..210478	-	52	41223350	-	AGR_pTi_284.2n	-	-	hypothetical protein
+210810..211520	-	236	16119976	-	AGR_pTi_287	-	-	hypothetical protein
+212665..213396	-	243	41223351	-	AGR_pTi_290	-	-	hypothetical protein
+213955..214125	+	56	16119978	-	AGR_pTi_291	-	-	hypothetical protein

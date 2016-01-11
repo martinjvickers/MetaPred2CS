@@ -1,0 +1,190 @@
+
+
+
+Please upload TUS file for query specie: <input type="file" name="tus_file" accept=".tus"><br>
+Please upload Ptt file for query specie: <input type="file" name="ptt_file" accept=".ptt"><br>
+	                 </div>
+			</div>
+
+<div id="optionstitle"> <b>Set Parameters for In-silico 2 hybrid & MirrorTree Methods</b><a href="../help_page2.html#inputs" target="_blank"><img src="/MetaPred2cs/images/help.png" border="0" width="12" height="12"></a><br></div>
+                <div id="options">
+                        <div>
+			e-value Blast Search:  
+         		<label>
+          			<select name="e_value" id="e_value" style="">
+            		<option selected>1e-5</option>
+            		<option>1e-4</option>
+			<option>1e-3</option>
+			<option>1e-2</option>
+				</select>
+          		</label>
+			
+			b-value Blast Search:
+                        <label>
+                                <select name="b_value" id="b_value" style="">
+                        <option>250</option>
+                        <option selected>500</option>
+			<option>750</option>
+                        <option>1000</option>
+                                </select>
+                        </label>
+			<br>		
+                        Min Matches:
+                        <label>
+				<select name="min_matches" id="min_matches" style="">
+                        <option selected>11</option>
+                        <option>12</option>
+                        <option>13</option>
+			<option>14</option>
+                        <option>15</option>
+                                </select>
+                        </label>
+			
+			Max Matches:
+                        <label>
+                                <select name="max_matches" id="max_matches" style="">
+                        <option>16</option>
+                        <option>17</option>
+                        <option>18</option>
+                        <option>19</option>
+                        <option>20</option>
+                        <option>21</option>
+                        <option>22</option>
+                        <option>23</option>
+			<option>24</option>
+                        <option selected>25</option>
+			<option>26</option>
+			<option>27</option>
+                        <option>28</option>
+			<option>29</option>
+                        <option>30</option>
+                        <option>31</option>
+                        <option>32</option>
+                        <option>33</option>
+                        <option>34</option>
+                        <option>35</option>
+                        <option>36</option>
+                        <option>37</option>
+                        <option>38</option>
+                        <option>39</option>
+                        <option>40</option>
+				</select>
+                        </label><br>
+			
+			Correlation Calculation:
+			<label>
+                                <select name="CorCal" id="CorCal" style="">
+                        <option selected>rankorr</option>
+                        <option>corr</option>
+                                </select>
+                        </label>
+			
+			Residue Homology Matrix:
+                        <label>
+                                <select name="Matrix" id="Matrix" style="">
+                        <option selected>Maxhom_GCG.metric</option>
+                        <option>Maxhom_McLachlan.metric</option>
+                                </select>
+                        </label>
+			</div>
+			</div>
+
+<div id="optionstitle"> <b>Set Parameteres for Genomics Pipeline</b><a href="../help_page2.html#inputs" target="_blank"><img src="/MetaPred2cs/images/help.png" border="0" width="12" height="12"></a><br></div>
+				<div id="options">
+	                        <div>
+
+				<b>Phylogenetic Profile Method</b><br>
+					
+				Cut_off Value Mutual Information:
+		                        <label>
+                        	        <select name="ct1" id="ct1" style="">
+                	        <option selected>0.35</option>
+                	        <option>0.45</option>
+                               	<option>0.75</option> 
+					</select>
+                        		</label>
+
+				e-value Cut_off Value BLASTP: 
+                                        <label>
+                                        <select name="ct2" id="ct2" style="">
+                                <option selected>1e-4</option>
+                                <option>1e-5</option>
+                                <option>1e-3</option> 
+                                        </select>
+                                        </label><br>
+
+				<b>Gene Fusion Method</b><br>
+					
+				Cut_off Value Bits:
+					<label>
+                                        <select name="ct3" id="ct3" style="">
+                                <option>10</option>
+                                <option>20</option>
+				<option selected>30</option>
+                                <option>40</option>
+				<option>50</option>
+				<option>60</option>
+                                <option>70</option>
+                                <option>80</option>
+				<option>90</option>
+                                <option>100</option>
+                                        </select>
+                                        </label>
+
+				e-value Cut_off Value BLASTP:
+                                        <label>
+                                        <select name="ct4" id="ct4" style="">
+                                <option selected>1e-5</option>
+                                <option>1e-4</option>
+                                <option>1e-3</option>
+                                        </select>
+                                        </label><br>
+
+				<b>Gene Neighbourhood Method</b><br>
+
+				 Cut_off Value Nucleic Acids Distance:
+                                        <label>
+                                        <select name="ct5" id="ct5" style="">
+                                <option>300</option>
+                                <option selected>200</option>
+                                        </select>
+                                        </label>
+
+                                e-value Cut_off Value BLASTP:
+                                        <label>
+                                        <select name="ct6" id="ct6" style="">
+                                <option selected>1e-5</option>
+                                <option>1e-4</option>
+                                <option>1e-3</option>
+                                        </select>
+                                        </label><br>
+
+				<b>Gene Operon Method</b><br>
+					
+					e-value Cut_off Value BLASTP:
+                                        <label>
+                                        <select name="ct7" id="ct7" style="">
+                                <option selected>1e-5</option>
+                                <option>1e-4</option>
+                                <option>1e-3</option>
+                                        </select>
+                                        </label><br>
+
+				</div>
+				</div>
+			
+<p align="center">
+        <input type="submit" name="sub" value="Submit">
+        <input name="clear_button" value="Reset" type="Reset">
+</p>
+
+</form>
+</h3_main>
+
+<div class="footer_div" >
+<hr/><h5 >Finding it useful? Please cite the server.</h5>
+</div>
+
+</body>
+</html>
+

@@ -1,0 +1,914 @@
+Chlamydia trachomatis A/HAR-13, complete genome - 1..1044459
+911 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1770	+	589	76788712	-	CTA_0001	-	COG1949A	hypothetical protein
+1915..2187	-	90	76788713	-	CTA_0002	-	COG2155S	hypothetical protein
+2388..2690	+	100	76788714	gatC	CTA_0003	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+2702..4177	+	491	76788715	gatA	CTA_0004	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+4179..5645	+	488	76788716	gatB	CTA_0005	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+5744..6835	-	363	76788717	-	CTA_0006	-	COG5253T	hypothetical protein
+6963..7532	-	189	76788718	-	CTA_0007	-	-	hypothetical protein
+7846..8796	+	316	76788719	-	CTA_0008	-	-	hypothetical protein
+8812..9714	-	300	76788720	rnhC	CTA_0009	-	COG1039L	ribonuclease HIII
+9968..10399	+	143	76788721	yfgA	CTA_0010	-	COG1426S	sigma-54 interaction/ATP-binding protein
+10386..11753	-	455	76788722	htrB	CTA_0011	-	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+11884..13140	-	418	76788723	-	CTA_0012	-	-	hypothetical protein
+13318..13932	-	204	76788724	ybbP	CTA_0013	-	COG1624S	hypothetical protein
+14207..15547	+	446	76788725	cydA	CTA_0014	-	COG1271C	cytochrome d ubiquinol oxidase subunit I
+15559..16620	+	353	76788726	cydB	CTA_0015	-	COG1294C	cytochrome d ubiquinol oxidase subunit II
+16718..18022	-	434	76788727	phoH	CTA_0016	-	COG1875T	hypothetical protein
+18231..18959	+	242	76788728	-	CTA_0017	-	-	hypothetical protein
+19145..20446	+	433	76788729	-	CTA_0018	-	COG3103T	hypothetical protein
+20508..20981	-	157	76788730	-	CTA_0019	-	-	hypothetical protein
+22027..25137	+	1036	76788731	ileS	CTA_0021	-	COG0060J	isoleucyl-tRNA synthetase
+25198..27084	-	628	76788732	lepB	CTA_0022	-	COG0681U	signal peptidase I
+27270..28013	-	247	76788733	-	CTA_0023	-	-	hypothetical protein
+28089..28415	+	108	76788734	rpmE2	CTA_0024	-	COG0254J	50S ribosomal protein L31
+28603..29682	+	359	76788735	prfA	CTA_0025	-	COG0216J	peptide chain release factor 1
+29666..30538	+	290	76788736	-	CTA_0026	-	COG2890J	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+30535..31881	+	448	76788737	ffh	CTA_0027	-	COG0541U	signal recognition particle, subunit FFH/SRP54
+31872..32222	+	116	76788738	rpsP	CTA_0028	-	COG0228J	30S ribosomal protein S16
+32238..33296	+	352	76788739	trmD	CTA_0029	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase/unknown domain fusion protein
+33322..33687	+	121	76788740	rplS	CTA_0030	-	COG0335J	50S ribosomal protein L19
+33750..34403	+	217	76788741	rnhB	CTA_0031	-	COG0164L	ribonuclease HII
+34394..35011	+	205	76788742	gmk	CTA_0032	-	COG0194F	guanylate kinase
+35004..35306	+	100	76788743	-	CTA_0033	-	-	hypothetical protein
+35306..36958	+	550	76788744	metG	CTA_0034	-	COG0143J	methionyl-tRNA synthetase
+37098..39338	-	746	76788745	recD_1	CTA_0035	-	COG0507L	exodeoxyribonuclease V subunit alpha
+39586..40611	-	341	76788746	ytfF	CTA_0036	-	COG0697GER	drug/metabolite exporter family protein
+40950..41723	+	257	76788747	-	CTA_0037	-	COG4285S	biotin--protein ligase
+41688..42899	-	403	76788748	-	CTA_0038	-	-	hypothetical protein
+42906..43262	-	118	76788749	-	CTA_0039	-	-	hypothetical protein
+43461..43811	-	116	76788750	-	CTA_0041	-	-	hypothetical protein
+43827..44399	-	190	76788751	dcd	CTA_0042	-	COG0717F	deoxycytidine triphosphate deaminase
+44487..44639	+	50	76788752	-	CTA_0043	-	-	hypothetical protein
+44681..45685	+	334	76788753	ruvB	CTA_0044	-	COG2255L	Holliday junction DNA helicase RuvB
+45639..46499	+	286	76788754	-	CTA_0045	-	-	hypothetical protein
+46561..48561	-	666	76788755	glgX	CTA_0046	-	COG1523G	isoamylase
+48679..49182	-	167	76788756	-	CTA_0047	-	-	hypothetical protein
+49647..50120	+	157	76788757	ssb	CTA_0048	-	COG0629L	single-stranded DNA-binding protein
+50461..51960	+	499	76788758	pepA	CTA_0049	-	COG0260E	leucyl aminopeptidase
+52097..52708	+	203	76788759	hctB	CTA_0050	-	-	histone-like protein 2
+52863..53807	+	314	76788760	-	CTA_0051	-	COG1466L	hypothetical protein
+53902..54615	+	237	76788761	yraL	CTA_0052	-	COG0313R	tetrapyrrole (corrin/porphyrin) methylase
+54706..56178	+	490	76788762	-	CTA_0053	-	-	hypothetical protein
+56237..57985	-	582	76788763	-	CTA_0054	-	-	hypothetical protein
+58089..59651	-	520	76788764	-	CTA_0055	-	-	hypothetical protein
+59705..60841	-	378	76788765	hemN_1	CTA_0056	-	COG0635H	coproporphyrinogen III oxidase
+60831..61277	-	148	76788766	-	CTA_0057	-	-	hypothetical protein
+61609..64320	+	903	76788767	sucA	CTA_0058	-	COG0567C	2-oxoglutarate dehydrogenase E1
+64324..65421	+	365	76788768	sucB_1	CTA_0059	-	COG0508C	dihydrolipoamide succinyltransferase
+65450..66208	-	252	76788769	-	CTA_0060	-	COG1496S	hypothetical protein
+66190..67998	-	602	76788770	gcpE	CTA_0061	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+68149..69252	-	367	76788771	-	CTA_0062	-	-	hypothetical protein
+69332..69607	-	91	76788772	fer	CTA_0063	-	COG0633C	ferredoxin
+69789..71606	+	605	76788773	flhA	CTA_0065	-	COG1298NU	type III secretion system protein
+71714..72475	+	253	76788774	fliA	CTA_0066	-	COG1191K	RNA polymerase sigma factor sigma-28
+72634..73872	+	412	76788775	tyrS	CTA_0067	-	COG0162J	tyrosyl-tRNA synthetase
+73882..75324	+	480	76788776	gnd	CTA_0068	-	COG0362G	6-phosphogluconate dehydrogenase
+75385..77193	-	602	76788777	lepA	CTA_0069	-	COG0481M	GTP-binding protein LepA
+77379..78959	-	526	76788778	-	CTA_0070	-	COG3202C	ADP,ATP carrier protein
+79310..79786	-	158	76788779	-	CTA_0071	-	-	hypothetical protein
+80445..81425	+	326	76788780	ytgA	CTA_0072	-	COG0803P	manganese-binding protein
+81343..82197	+	284	76788781	ytgB	CTA_0073	-	COG1121P	hypothetical protein
+82198..83553	+	451	76788782	ytgC	CTA_0074	-	COG1108P	MntB
+83543..84499	+	318	76788783	ytgD	CTA_0075	-	COG1108P	ABC transporter ATP-binding protein
+84526..85665	+	379	76788784	dxr	CTA_0076	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+85861..87720	+	619	76788785	yaeL	CTA_0077	-	COG0750M	M50 family membrane endopeptidase
+87667..88644	-	325	76788786	-	CTA_0078	-	COG1075R	esterase
+88802..89899	-	365	76788787	recF	CTA_0079	-	COG1195L	recombination protein F
+89899..91149	-	416	76788788	dnaN	CTA_0080	-	COG0592L	DNA polymerase III subunit beta
+91279..91734	+	151	76788789	smpB	CTA_0081	-	COG0691O	SsrA-binding protein
+91712..92662	-	316	76788790	apbE	CTA_0082	-	COG1477H	thiamine biosynthesis lipoprotein ApbE precursor
+92632..93495	-	287	76788791	folD	CTA_0083	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+93613..94056	-	147	76788792	-	CTA_0084	-	-	hypothetical protein
+94333..94626	+	97	76788793	ltuB	CTA_0085	-	-	late transcription unit B protein
+94683..94979	+	98	76788794	-	CTA_0086	-	-	hypothetical protein
+94989..96671	+	560	76788795	-	CTA_0087	-	-	hypothetical protein
+96668..97150	+	160	76788796	-	CTA_0088	-	-	hypothetical protein
+97164..98249	-	361	76788797	-	CTA_0089	-	COG1502I	phosphatidylcholine-hydrolyzing phospholipase D (PLD) family protein
+98419..100158	-	579	76788798	-	CTA_0090	-	COG0043H	quinone decarboxylase
+100284..100553	-	89	76788799	rpmB	CTA_0091	-	COG0227J	50S ribosomal protein L28
+100702..102285	-	527	76788800	malQ	CTA_0092	-	COG1640G	4-alpha-glucanotransferase
+102289..102729	-	146	76788801	sycE	CTA_0093	-	-	secretion chaperone
+102767..104032	-	421	76788802	lcrE	CTA_0094	-	-	low calcium response protein E
+104050..106176	-	708	76788803	lcrD	CTA_0095	-	COG4789U	low calcium response protein D
+106176..107258	-	360	76788804	sctU	CTA_0096	-	COG1377NU	type III secretion system protein
+107515..108615	+	366	76788805	ychF	CTA_0097	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+108624..109529	-	301	76788806	ribF	CTA_0098	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+109486..109743	-	85	76788807	truB_1	CTA_0099	-	COG0130J	tRNA pseudouridine synthase B
+109796..110212	-	138	76788808	truB_2	CTA_0100	-	COG0130J	tRNA pseudouridine synthase B
+110250..110621	-	123	76788809	rbfA	CTA_0101	-	COG0858J	ribosome-binding factor A
+110628..113306	-	892	76788810	infB	CTA_0102	-	COG0532J	translation initiation factor IF-2
+113263..114567	-	434	76788811	nusA	CTA_0103	-	COG0195K	transcription elongation factor NusA
+114685..116394	-	569	76788812	rpsA	CTA_0104	-	COG0539J	30S ribosomal protein S1
+116639..117712	+	357	76788813	trxB	CTA_0105	-	COG0492O	thioredoxin reductase
+117700..118059	+	119	76788814	acpS	CTA_0106	-	COG0736I	4'-phosphopantetheinyl transferase
+118060..118521	-	153	76788815	-	CTA_0107	-	-	hypothetical protein
+118656..119117	+	153	76788816	-	CTA_0108	-	COG3190N	hypothetical protein
+119152..120048	+	298	76788817	-	CTA_0109	-	COG0561R	HAD family phosphatase
+120038..120934	-	298	76788818	fabI	CTA_0110	-	COG0623I	enoyl-ACP reductase
+121172..121552	+	126	76788819	-	CTA_0111	-	-	hypothetical protein
+121598..123142	+	514	76788820	-	CTA_0112	-	-	hypothetical protein
+123342..124166	-	274	76788821	yceC	CTA_0113	-	COG0564J	tRNA pseudouridine synthase A
+124213..125319	+	368	76788822	mutY	CTA_0114	-	COG1194L	A/G-specific adenine glycosylase
+125373..126128	+	251	76788823	ybgI	CTA_0115	-	COG0327S	NIF3-related protein
+126141..126929	-	262	76788824	-	CTA_0116	-	-	hypothetical protein
+127057..128691	-	544	76788825	groEL	CTA_0117	-	COG0459O	molecular chaperone GroEL
+128729..129037	-	102	76788826	groES	CTA_0118	-	COG0234O	co-chaperonin GroES
+129209..131035	-	608	76788827	pepF	CTA_0119	-	COG1164E	oligoendopeptidase F
+131338..133941	+	867	76788828	clpB	CTA_0120	-	COG0542O	ClpB
+133967..135427	+	486	76788829	-	CTA_0121	-	COG2912S	hypothetical protein
+135613..136068	+	151	76788830	incD	CTA_0122	-	-	inclusion membrane protein D
+136151..136549	+	132	76788831	incE	CTA_0123	-	-	inclusion membrane protein E
+136554..136868	+	104	76788832	incF	CTA_0124	-	-	inclusion membrane protein F
+136955..137458	+	167	76788833	incG	CTA_0125	-	-	inclusion membrane protein G
+137624..138445	-	273	76788834	incA	CTA_0126	-	COG1196D	inclusion membrane protein A
+138566..138763	-	65	76788835	-	CTA_0127	-	-	hypothetical protein
+138847..139548	+	233	76788836	araD	CTA_0128	-	COG0036G	ribulose-phosphate 3-epimerase
+139535..140092	+	185	76788837	efp_1	CTA_0129	-	COG0231J	elongation factor P
+140105..140599	+	164	76788838	accB	CTA_0130	-	COG0511I	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+140603..141976	+	457	76788839	accC	CTA_0131	-	COG0439I	acetyl-CoA carboxylase biotin carboxylase subunit
+142199..142651	+	150	76788840	rplM	CTA_0132	-	COG0102J	50S ribosomal protein L13
+142677..143066	+	129	76788841	rpsI	CTA_0133	-	COG0103J	30S ribosomal protein S9
+143114..143965	-	283	76788842	ydhO	CTA_0134	-	COG0791M	chitinase
+144061..144798	-	245	76788843	adk	CTA_0135	-	COG0563F	adenylate kinase
+145004..145648	+	214	76788844	glnP	CTA_0136	-	COG0765E	GlnP
+145645..146346	+	233	76788845	glnQ	CTA_0137	-	COG1126E	hypothetical protein
+146349..149765	-	1138	76788846	-	CTA_0138	-	COG2911S	hypothetical protein
+149762..151039	-	425	76788847	-	CTA_0139	-	COG1295S	hypothetical protein
+151117..151920	-	267	76788848	-	CTA_0140	-	COG2226H	metallothionein family protein
+152375..152788	+	137	76788849	-	CTA_0141	-	-	hypothetical protein
+152847..153749	+	300	76788850	-	CTA_0142	-	COG4709S	hypothetical protein
+154019..154738	+	239	76788851	-	CTA_0143	-	COG0400R	carboxylesterase
+154757..155602	+	281	76788852	ywlC	CTA_0144	-	COG0009J	sua5/YciO/YrdC/YwlC family protein
+155580..156527	+	315	76788853	-	CTA_0145	-	COG2355E	microsomal dipeptidase
+156524..157804	-	426	76788854	oppA_1	CTA_0146	-	COG0747E	hypothetical protein
+157981..158667	+	228	76788855	ypdP	CTA_0147	-	COG1738S	hypothetical protein
+158851..159297	+	148	76788856	secA_1	CTA_0148	-	COG3318R	preprotein translocase subunit-like protein
+159696..160553	+	285	76788857	-	CTA_0151	-	-	hypothetical protein
+160555..161397	+	280	76788858	-	CTA_0152	-	-	hypothetical protein
+161397..162254	+	285	76788859	-	CTA_0153	-	-	hypothetical protein
+162440..164284	+	614	76788860	-	CTA_0154	-	COG1262S	serine/threonine-protein kinase PKN1
+164295..166286	+	663	76788861	ligA	CTA_0155	-	COG0272L	NAD-dependent DNA ligase LigA
+166384..170733	+	1449	76788862	-	CTA_0156	-	COG0419L	hypothetical protein
+170796..172319	-	507	76788863	mhpA	CTA_0157	-	COG0654HC	FAD-dependent monooxygenase
+172519..173466	-	315	76788864	-	CTA_0158	-	COG1073R	alpha/beta hydrolase
+173865..174023	+	52	76788865	rpmG	CTA_0159	-	COG0267J	50S ribosomal protein L33
+174059..175570	+	503	76788866	-	CTA_0160	-	COG4591M	lipoprotein release inner membrane protein
+175575..176252	+	225	76788867	-	CTA_0161	-	COG1136V	lipoprotein release atp-binding protein
+176403..178835	-	810	76788868	-	CTA_0162	-	-	MAC/perforin family protein
+179021..180034	-	337	76788869	-	CTA_0163	-	COG1502I	phosphatidylcholine-hydrolyzing phospholipase D (PLD) family protein
+180597..181535	-	312	76788870	-	CTA_0164	-	COG1502I	phosphatidylcholine-hydrolyzing phospholipase D (PLD) family protein
+181415..181756	-	113	76788871	-	CTA_0165	-	-	phosphatidylcholine-hydrolyzing phospholipase D (PLD) family protein
+182049..183260	-	403	76788872	-	CTA_0166	-	COG1502I	phosphatidylcholine-hydrolyzing phospholipase D (PLD) family protein
+183384..184100	-	238	76788873	-	CTA_0167	-	COG1502I	phosphatidylcholine-hydrolyzing phospholipase D (PLD) family protein
+184043..184894	-	283	76788874	-	CTA_0168	-	COG1502I	hypothetical protein
+185121..185624	-	167	76788875	-	CTA_0169	-	-	hypothetical protein
+185617..186363	-	248	76788876	-	CTA_0170	-	-	hypothetical protein
+186511..186750	-	79	76788877	-	CTA_0171	-	-	hypothetical protein
+186980..187507	+	175	76788878	-	CTA_0172	-	-	hypothetical protein
+187564..188619	+	351	76788879	-	CTA_0173	-	-	hypothetical protein
+188672..188932	+	86	76788880	-	CTA_0174	-	-	hypothetical protein
+189402..189905	+	167	76788881	-	CTA_0175	-	-	adherence factor
+190142..191194	+	350	76788882	-	CTA_0176	-	-	adherence factor
+191198..191488	+	96	76788883	-	CTA_0177	-	-	adherence factor
+191517..192641	+	374	76788884	-	CTA_0178	-	-	adherence factor
+192673..193533	+	286	76788885	-	CTA_0179	-	-	adherence factor
+193542..194117	+	191	76788886	-	CTA_0180	-	-	adherence factor
+194126..194485	+	119	76788887	-	CTA_0181	-	-	adherence factor
+194541..194825	+	94	76788888	trpR	CTA_0182	-	COG2973K	Trp operon repressor
+194866..195045	+	59	76788889	-	CTA_0183	-	-	hypothetical protein
+195174..195362	+	62	76788890	trpB_2	CTA_0184	-	COG0133E	tryptophan synthase subunit beta
+195405..196352	+	315	76788891	trpB_1	CTA_0185	-	COG0133E	tryptophan synthase subunit beta
+196345..196896	+	183	76788892	trpA	CTA_0186	-	COG0159E	tryptophan synthase subunit alpha
+197332..197841	-	169	76788893	-	CTA_0187	-	-	hypothetical protein
+197847..198038	-	63	76788894	-	CTA_0188	-	-	hypothetical protein
+198106..198378	-	90	76788895	-	CTA_0189	-	-	hypothetical protein
+198465..198920	-	151	76788896	-	CTA_0190	-	-	hypothetical protein
+199115..200704	+	529	76788897	oppA_2	CTA_0191	-	COG4166E	hypothetical protein
+200731..201138	-	135	76788898	dsbB	CTA_0192	-	COG1495O	disulfide oxidoreductase
+201135..201851	-	238	76788899	dsbG	CTA_0193	-	COG1651O	disulfide bond chaperone
+201997..203211	+	404	76788900	-	CTA_0194	-	-	hypothetical protein
+203213..203725	-	170	76788901	-	CTA_0195	-	-	hypothetical protein
+203869..204561	-	230	76788902	tauB	CTA_0196	-	COG1116P	ABC transporter ATP-binding protein
+204869..205579	-	236	76788903	-	CTA_0199	-	-	hypothetical protein
+205947..206711	+	254	76788904	kdsB	CTA_0200	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+206687..208306	+	539	76788905	pyrG	CTA_0201	-	COG0504F	CTP synthetase
+208293..208739	+	148	76788906	yqgF	CTA_0202	-	COG0816L	Holliday junction resolvase-like protein
+208856..210379	+	507	162019866	zwf	CTA_0203	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+210404..211174	+	256	76788908	devB	CTA_0204	-	COG0363G	6-phosphogluconolactonase
+211171..212043	-	290	76788909	dnaX_1	CTA_0205	-	COG0470L	DNA polymerase III subunit delta'
+212057..212668	-	203	76788910	tmk	CTA_0206	-	COG0125F	thymidylate kinase
+212670..215180	-	836	76788911	gyrA_1	CTA_0207	-	COG0188L	DNA gyrase subunit A
+215195..217609	-	804	76788912	gyrB	CTA_0208	-	COG0187L	DNA gyrase subunit B
+217612..217962	-	116	76788913	-	CTA_0209	-	-	hypothetical protein
+218108..218680	-	190	76788914	-	CTA_0210	-	-	hypothetical protein
+218906..220024	-	372	76788915	tgt	CTA_0211	-	COG0343J	queuine tRNA-ribosyltransferase
+220151..221563	-	470	76788916	mgtE	CTA_0212	-	COG2239P	Mg2+ transporter
+222002..223093	-	363	76788917	-	CTA_0213	-	-	hypothetical protein
+223318..223638	+	106	76788918	-	CTA_0214	-	-	transport protein
+223714..224730	+	338	76788919	gcp	CTA_0215	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+224694..226250	+	518	76788920	oppA_3	CTA_0216	-	COG4166E	hypothetical protein
+226409..227350	+	313	76788921	oppB_1	CTA_0217	-	COG0601EP	hypothetical protein
+227382..228227	+	281	76788922	oppC_1	CTA_0218	-	COG1173EP	hypothetical protein
+228220..229053	+	277	76788923	oppD	CTA_0219	-	COG0444EP	OppD
+229068..229811	+	247	76788924	oppF	CTA_0220	-	COG1124EP	hypothetical protein
+230118..230873	+	251	76788925	-	CTA_0221	-	-	hypothetical protein
+230903..232318	+	471	76788926	ybhI	CTA_0222	-	COG0471P	2-oxoglutarate/malate translocator
+232338..233999	+	553	76788927	pfkA_1	CTA_0223	-	COG0205G	diphosphate--fructose-6-phosphate 1-phosphotransferase
+233948..234856	+	302	76788928	-	CTA_0224	-	COG1073R	alpha/beta hydrolase
+234838..236484	+	548	76788929	pfkA_2	CTA_0225	-	COG0205G	diphosphate--fructose-6-phosphate 1-phosphotransferase
+236730..238025	-	431	76788930	gseA	CTA_0228	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+238022..240481	-	819	76788931	leuS	CTA_0229	-	COG0495J	leucyl-tRNA synthetase
+240678..241946	+	422	76788932	hemL	CTA_0230	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+241938..242507	-	189	76788933	-	CTA_0231	-	COG1678K	hypothetical protein
+242526..242972	-	148	76788934	-	CTA_0232	-	COG1259S	hypothetical protein
+242962..243690	-	242	76788935	rpiA	CTA_0233	-	COG0120G	ribose-5-phosphate isomerase A
+243785..245431	-	548	76788936	-	CTA_0234	-	-	hypothetical protein
+245735..246781	+	348	76788937	dhnA	CTA_0235	-	COG1830G	fructose-bisphosphate aldolase
+246795..248195	+	466	76788938	xasA	CTA_0236	-	COG0531E	glutamate/gamma-aminobutyrate antiporter
+248289..249053	+	254	76788939	ydaO	CTA_0237	-	COG0037D	TtcA
+249184..250035	+	283	76788940	surE	CTA_0238	-	COG0496R	stationary phase survival protein SurE
+250147..251055	+	302	76788941	ubiA	CTA_0239	-	COG0382H	prenyltransferase
+251052..251630	+	192	76788942	ubiX	CTA_0240	-	COG0163H	aromatic acid decarboxylase
+251627..252523	-	298	76788943	yqfU	CTA_0241	-	COG1284S	hypothetical protein
+252979..253368	-	129	76788944	-	CTA_0244	-	-	LAGLI-DADG endonuclease
+253510..254322	-	270	76788945	-	CTA_0245	-	COG1196D	hypothetical protein
+254713..255156	-	147	76788946	-	CTA_0246	-	-	hypothetical protein
+255247..255615	-	122	76788947	-	CTA_0247	-	-	hypothetical protein
+255714..256205	-	163	76788948	-	CTA_0248	-	-	hypothetical protein
+256488..256757	-	89	76788949	-	CTA_0249	-	-	hypothetical protein
+257028..257618	-	196	76788950	-	CTA_0250	-	-	hypothetical protein
+257768..258415	-	215	76788951	-	CTA_0251	-	COG1196D	hypothetical protein
+258641..259888	+	415	76788952	-	CTA_0252	-	COG1301C	proton/sodium-glutamate symport protein
+260071..261543	+	490	76788953	-	CTA_0253	-	COG0733R	sodium-dependent amino acid transporter
+261648..261995	+	115	76788954	incB	CTA_0254	-	-	inclusion membrane protein B
+262072..262608	+	178	76788955	incC	CTA_0255	-	-	inclusion membrane protein C
+262666..265452	+	928	76788956	-	CTA_0256	-	COG3202C	ADP,ATP carrier protein
+265481..265894	+	137	76788957	-	CTA_0257	-	COG0664T	Crp/Fnr family transcriptional regulator
+265955..266188	-	77	76788958	acpP	CTA_0258	-	COG0236IQ	acyl carrier protein
+266557..267303	-	248	76788959	fabG	CTA_0259	-	COG1028IQR	3-ketoacyl-ACP reductase
+267300..268226	-	308	76788960	fabD	CTA_0260	-	COG0331I	ACP S-malonyltransferase
+268243..269226	-	327	76788961	fabH	CTA_0261	-	COG0332I	3-oxoacyl-ACP synthase
+269364..269966	+	200	76788962	recR	CTA_0262	-	COG0353L	recombination protein RecR
+270341..272719	+	792	76788963	yaeT	CTA_0263	-	COG4775M	outer membrane protein/Omp85 analog
+272788..273309	+	173	76788964	-	CTA_0264	-	COG2825M	OmpH
+273337..274401	+	354	76788965	lpxD	CTA_0265	-	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+274403..275593	-	396	76788966	-	CTA_0266	-	-	hypothetical protein
+275815..276837	+	340	76788967	pdhA_1	CTA_0267	-	COG1071C	pyruvate dehydrogenase E1 component alpha subunit
+276830..277816	+	328	76788968	pdhB	CTA_0268	-	COG0022C	pyruvate dehydrogenase E1 component beta subunit
+277821..279110	+	429	76788969	pdhC	CTA_0269	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+279137..281581	-	814	76788970	glgP	CTA_0270	-	COG0058G	glycogen phosphorylase
+281737..282087	+	116	76788971	-	CTA_0271	-	-	hypothetical protein
+282141..283511	-	456	76788972	dnaA	CTA_0272	-	COG0593L	chromosome replication initiator DnaA
+283588..285951	-	787	76788973	-	CTA_0273	-	COG0706U	inner membrane protein translocase component YidC
+286261..287079	-	272	76788974	lgt	CTA_0274	-	COG0682M	prolipoprotein diacylglyceryl transferase
+287330..287977	+	215	76788975	-	CTA_0275	-	-	hypothetical protein
+287981..288751	+	256	76788976	-	CTA_0276	-	-	CAAX amino protease
+288959..289342	-	127	76788977	-	CTA_0277	-	COG1694R	hypothetical protein
+289531..290775	+	414	76788978	-	CTA_0278	-	COG1253R	CBS domain-containing protein
+290765..291979	+	404	76788979	-	CTA_0279	-	COG1253R	hypothetical protein
+291983..293107	-	374	76788980	yfhO_1	CTA_0280	-	COG1104E	hypothetical protein
+293113..293859	-	248	76788981	-	CTA_0281	-	COG0631T	protein phosphatase 2C
+294181..294672	+	163	76788982	-	CTA_0282	-	COG5465S	hypothetical protein
+294681..295379	+	232	76788983	dnaQ_1	CTA_0283	-	COG0847L	DNA polymerase III subunit epsilon
+295376..296146	+	256	76788984	-	CTA_0284	-	COG2107R	hypothetical protein
+296139..296729	+	196	76788985	-	CTA_0285	-	-	hypothetical protein
+296750..298690	-	646	76788986	msbA	CTA_0286	-	COG1132V	ABC transporter, ATP-binding protein
+298656..299630	-	324	76788987	accA	CTA_0287	-	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+299763..300944	-	393	76788988	-	CTA_0288	-	-	hypothetical protein
+301062..301364	-	100	76788989	ihfA	CTA_0289	-	COG0776L	integration host factor alpha-subunit
+301584..302363	-	259	76788990	amiA	CTA_0290	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+302278..303729	-	483	76788991	murE	CTA_0291	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+304052..305995	-	647	76788992	pbp3	CTA_0292	-	COG0768M	penicillin-binding protein
+305982..306269	-	95	76788993	-	CTA_0293	-	-	hypothetical protein
+306269..307171	-	300	76788994	mraW	CTA_0294	-	COG0275M	S-adenosyl-methyltransferase MraW
+307449..308015	+	188	76788995	-	CTA_0295	-	-	hypothetical protein
+308022..308441	+	139	76788996	-	CTA_0296	-	COG3071H	TPR repeat-containing protein
+308684..310051	+	455	76788997	dnaA	CTA_0297	-	COG0593L	chromosome replication initiator DnaA
+310090..310674	+	194	76788998	-	CTA_0298	-	COG1664M	hypothetical protein
+310646..311305	-	219	76788999	-	CTA_0299	-	-	hypothetical protein
+311307..312818	+	503	76789000	nqrB	CTA_0300	-	COG1805C	Na(+)-translocating NADH-quinone reductase subunit B
+312822..313772	+	316	76789001	nqrC	CTA_0301	-	COG2869C	Na(+)-translocating NADH-quinone reductase subunit C
+313762..314403	+	213	76789002	nqrD	CTA_0302	-	COG1347C	Na(+)-translocating NADH-quinone reductase subunit D
+314409..315143	+	244	76789003	nqrE	CTA_0303	-	COG2209C	Na(+)-translocating NADH-quinone reductase subunit E
+315167..315520	-	117	76789004	gcsH	CTA_0304	-	COG0509E	glycine cleavage system protein H
+315540..317636	-	698	76789005	-	CTA_0305	-	-	hypothetical protein
+317807..319231	-	474	76789006	-	CTA_0306	-	COG1502I	phospholipase D
+319237..319956	-	239	76789007	lplA_1	CTA_0307	-	COG0095H	lipoate-protein ligase A
+320221..322785	+	854	76789008	clpC	CTA_0308	-	COG0542O	negative regulator of genetic competence
+322766..323842	-	358	76789009	mnmA	CTA_0309	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+324073..325764	+	563	76789010	-	CTA_0310	-	COG3808C	hypothetical protein
+325851..326990	-	379	76789011	-	CTA_0311	-	COG3064M	hypothetical protein
+327048..327725	-	225	76789012	ptsN_1	CTA_0312	-	COG1762GT	nitrogen regulatory IIA protein
+327728..328204	-	158	76789013	ptsN_2	CTA_0313	-	COG1762GT	PTS system, nitrogen regulatory IIA component
+328206..328643	-	145	76789014	dut	CTA_0314	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+328680..329606	-	308	76789015	accD	CTA_0315	-	COG0777I	acetyl-CoA carboxylase subunit beta
+329678..330298	-	206	76789016	sodM	CTA_0316	-	COG0605P	superoxide dismutase
+330430..332211	-	593	76789017	mrsA_1	CTA_0317	-	COG1109G	phosphoglucomutase
+332363..332830	-	155	76789018	dcrA	CTA_0318	-	-	hypothetical protein
+332939..333634	+	231	76789019	rnc	CTA_0319	-	COG0571K	ribonuclease III
+333618..334982	+	454	76789020	radA	CTA_0320	-	COG1066O	DNA repair protein RadA
+334960..335685	+	241	76789021	hemC	CTA_0321	-	COG0181H	porphobilinogen deaminase
+336078..336425	+	115	76789022	-	CTA_0322	-	-	hypothetical protein
+336478..339282	-	934	76789023	pknD	CTA_0323	-	COG0515RTKL	serine/threonine-protein kinase
+339297..342116	-	939	76789024	valS	CTA_0324	-	COG0525J	valyl-tRNA synthetase
+342243..342758	-	171	76789025	-	CTA_0325	-	-	hypothetical protein
+342679..343104	-	141	76789026	atpK	CTA_0326	-	-	V-type ATP synthase subunit K
+343167..345116	-	649	76789027	atpI	CTA_0327	-	COG1269C	V-type ATP synthase subunit I
+345122..345733	-	203	76789028	atpD	CTA_0328	-	COG1394C	V-type ATP synthase subunit D
+345718..347034	-	438	76789029	atpB	CTA_0329	-	COG1156C	V-type ATP synthase subunit B
+347037..348812	-	591	76789030	atpA	CTA_0330	-	COG1155C	V-type ATP synthase subunit A
+348806..349606	-	266	76789031	-	CTA_0331	-	-	hypothetical protein
+349773..350399	-	208	76789032	atpE	CTA_0332	-	COG1390C	V-type ATP synthase subunit E
+350508..351218	+	236	76789033	-	CTA_0333	-	-	hypothetical protein
+351226..351597	-	123	76789034	-	CTA_0334	-	-	ferredoxin
+351642..352625	-	327	76789035	tal	CTA_0335	-	COG0176G	transaldolase B
+352737..356927	-	1396	76789036	rpoC	CTA_0336	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+356952..360710	-	1252	76789037	rpoB	CTA_0337	-	COG0085K	DNA-directed RNA polymerase subunit beta
+361071..361463	-	130	76789038	rplL	CTA_0338	-	COG0222J	50S ribosomal protein L7/L12
+361495..362013	-	172	76789039	rplJ	CTA_0339	-	COG0244J	50S ribosomal protein L10
+362035..362733	-	232	76789040	rplA	CTA_0340	-	COG0081J	50S ribosomal protein L1
+362756..363181	-	141	76789041	rplK	CTA_0341	-	COG0080J	50S ribosomal protein L11
+363287..363835	-	182	76789042	nusG	CTA_0342	-	COG0250K	transcription antitermination protein NusG
+363839..364087	-	82	76789043	secE	CTA_0343	-	COG0690U	preprotein translocase subunit SecE
+364230..365414	-	394	76789044	tuf	CTA_0345	-	COG0050J	elongation factor Tu
+365762..365983	-	73	76789045	infA	CTA_0347	-	COG0361J	translation initiation factor IF-1
+366395..367306	+	303	76789046	-	CTA_0348	-	-	hypothetical protein
+367303..367749	+	148	76789047	-	CTA_0349	-	COG2166R	hypothetical protein
+367801..369603	-	600	76789048	-	CTA_0350	-	-	hypothetical protein
+369966..370148	-	60	76789049	-	CTA_0351	-	-	hypothetical protein
+370329..370535	-	68	76789050	-	CTA_0352	-	-	hypothetical protein
+370869..371495	-	208	76789051	trpC	CTA_0354	-	COG0135E	N-(5'-phosphoribosyl)anthranilate isomerase
+371692..372516	+	274	76789052	tpiA	CTA_0355	-	COG0149G	triosephosphate isomerase
+372530..374080	+	516	76789053	xseA	CTA_0356	-	COG1570L	exodeoxyribonuclease VII large subunit
+374064..374282	+	72	76789054	xseB	CTA_0357	-	COG1722L	exodeoxyribonuclease VII small subunit
+374289..374561	+	90	76789055	-	CTA_0358	-	-	hypothetical protein
+374558..376480	+	640	76789056	dxs	CTA_0359	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+376577..378034	+	485	76789057	pykF	CTA_0360	-	COG0469G	pyruvate kinase
+378057..383417	+	1786	76789058	uvrA	CTA_0361	-	COG0178L	excinuclease ABC subunit A
+383635..385035	+	466	76789059	dnaX_2	CTA_0362	-	COG2812L	DNA polymerase III subunits gamma and tau
+385028..385318	+	96	76789060	-	CTA_0363	-	COG0718S	hypothetical protein
+385328..387043	-	571	76789061	ptsI	CTA_0364	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+387043..387372	-	109	76789062	ptsH	CTA_0365	-	COG1925G	phosphocarrier protein HPr
+387509..387970	-	153	76789063	-	CTA_0366	-	-	hypothetical protein
+388027..388293	-	88	76789065	-	CTA_0368	-	-	cytoplasmic protein
+388254..389783	+	509	76789064	-	CTA_0367	-	COG0658R	hypothetical protein
+389856..391892	-	678	76789066	pdhA_2	CTA_0369	-	COG0022C	2-oxoisovalerate dehydrogenase alpha subunit
+391927..393105	-	392	76789067	dnaJ	CTA_0370	-	COG0484O	molecular chaperone DnaJ
+393134..393310	-	58	76789068	rpsU	CTA_0371	-	COG0828J	30S ribosomal protein S21
+393507..394139	-	210	76789069	-	CTA_0372	-	COG1214O	O-sialoglycoprotein endopeptidase
+394449..396908	+	819	76789070	lon	CTA_0373	-	COG0466O	ATP-dependent protease La
+397010..397375	+	121	76789071	-	CTA_0374	-	-	hypothetical protein
+397725..398639	+	304	76789072	elaC	CTA_0375	-	COG1234R	ribonuclease Z
+398701..399648	+	315	76789073	xerC	CTA_0376	-	COG4974L	site-specific tyrosine recombinase XerC
+399702..401288	+	528	76789074	yjjK	CTA_0377	-	COG0488R	ABC transporter ATP-binding protein
+401324..401914	+	196	76789075	maf	CTA_0378	-	COG0424D	Maf-like protein
+401896..403596	+	566	76789076	-	CTA_0379	-	COG1413C	hypothetical protein
+403603..405696	+	697	76789077	-	CTA_0380	-	-	hypothetical protein
+405860..406165	+	101	76789078	-	CTA_0381	-	-	hypothetical protein
+406235..406780	-	181	76789079	def	CTA_0382	-	COG0242J	peptide deformylase
+407055..407888	-	277	76789080	ksgA	CTA_0383	-	COG0030J	dimethyladenosine transferase
+407904..408965	-	353	76789081	-	CTA_0384	-	-	hypothetical protein
+409270..411384	-	704	76789082	yyaL	CTA_0385	-	COG1331O	hypothetical protein
+411702..411989	-	95	76789084	-	CTA_0388	-	-	cytoplasmic protein
+411841..412173	+	110	76789083	-	CTA_0387	-	-	hypothetical protein
+412199..412735	+	178	76789085	-	CTA_0389	-	-	hypothetical protein
+412795..413385	-	196	76789086	bioY	CTA_0390	-	COG1268R	hypothetical protein
+413440..413694	-	84	76789087	-	CTA_0391	-	-	hypothetical protein
+413637..414263	-	208	76789088	-	CTA_0392	-	-	hypothetical protein
+414425..415285	-	286	76789089	dapA	CTA_0393	-	COG0329EM	dihydrodipicolinate synthase
+415295..416590	-	431	76789090	lysC	CTA_0394	-	COG0527E	aspartate kinase
+416583..417587	-	334	76789091	asd	CTA_0395	-	COG0136E	aspartate-semialdehyde dehydrogenase
+417597..418358	-	253	76789092	dapB	CTA_0396	-	COG0289E	dihydrodipicolinate reductase
+418535..420262	-	575	76789093	-	CTA_0397	-	-	hypothetical protein
+420432..421754	+	440	76789094	aroA	CTA_0398	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+421696..422250	+	184	76789095	aroL	CTA_0399	-	COG0703E	shikimate kinase
+422243..423316	+	357	76789096	aroC	CTA_0400	-	COG0082E	chorismate synthase
+423313..424434	+	373	76789097	aroB	CTA_0401	-	COG0337E	3-dehydroquinate synthase
+424415..425851	+	478	76789098	aroDE	CTA_0402	-	COG0169E	bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase
+425893..426678	+	261	76789099	-	CTA_0403	-	-	hypothetical protein
+426819..428147	+	442	76789100	-	CTA_0404	-	COG3659M	hypothetical protein
+428216..428803	+	195	76789101	-	CTA_0405	-	COG1945S	hypothetical protein
+428819..429226	+	135	76789102	arcD_3	CTA_0406	-	COG0531E	arginine/ornithine antiporter
+429235..429843	+	202	76789103	arcD_2	CTA_0407	-	COG0531E	arginine/ornithine antiporter
+430061..430267	+	68	76789104	arcD_1	CTA_0408	-	-	arginine/ornithine antiporter
+430439..431497	+	352	76789105	-	CTA_0409	-	COG0665E	D-amino acid oxidase
+431539..432519	-	326	76789106	mdhC	CTA_0410	-	COG0039C	malate dehydrogenase
+432710..432850	-	46	76789107	ltuA	CTA_0411	-	-	late transcription unit A protein
+432965..434542	-	525	76789108	pgi	CTA_0412	-	COG0166G	glucose-6-phosphate isomerase
+434655..435998	-	447	76789109	hlfX	CTA_0413	-	COG2262R	GTP-binding protein
+436011..436811	-	266	76789110	phnP	CTA_0414	-	COG1235R	metal-dependent hydrolase
+436840..437613	-	257	76789111	artJ	CTA_0415	-	COG0834ET	arginine-binding protein
+437681..438517	-	278	76789112	aroG	CTA_0416	-	COG2876E	3-deoxy-7-phosphoheptulonate synthase
+438654..438845	-	63	76789113	-	CTA_0417	-	-	hypothetical protein
+439004..439759	+	251	76789114	-	CTA_0418	-	-	hypothetical protein
+439770..441389	-	539	76789115	-	CTA_0419	-	-	hypothetical protein
+441404..441739	-	111	76789116	ycfF	CTA_0420	-	COG0537FGR	hit family protein
+441736..442650	-	304	76789117	-	CTA_0421	-	COG4286S	MYG1 protein
+442892..444967	+	691	76789118	-	CTA_0422	-	COG1611R	hypothetical protein
+444981..445283	-	100	162019865	-	CTA_0423	-	COG1872S	hypothetical protein
+445510..446736	+	408	76789120	-	CTA_0424	-	-	hypothetical protein
+446844..448028	+	394	76789121	aspC	CTA_0425	-	COG0436E	L,L-diaminopimelate aminotransferase
+448036..449043	+	335	76789122	-	CTA_0426	-	COG2984R	ABC transporter substrate-binding protein
+449049..450182	-	377	76789123	yprS	CTA_0427	-	-	hypothetical protein
+450383..452128	+	581	76789124	proS	CTA_0428	-	COG0442J	prolyl-tRNA synthetase
+452197..453375	+	392	76789125	hrcA	CTA_0429	-	COG1420K	heat-inducible transcription repressor
+453372..453944	+	190	76789126	grpE	CTA_0430	-	COG0576O	HSP-70 cofactor
+453970..455952	+	660	76789127	dnaK	CTA_0431	-	COG0443O	molecular chaperone DnaK
+456245..458329	+	694	76789128	vacB	CTA_0432	-	COG0557K	exoribonuclease II
+458585..459349	+	254	76789129	-	CTA_0433	-	COG1579R	hypothetical protein
+459772..460758	-	328	76789130	yrbH	CTA_0434	-	COG0794M	carbohydrate isomerase KpsF/GutQ family protein
+460790..461956	-	388	76789131	sucB_2	CTA_0435	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+462202..463440	-	412	76789132	gltT	CTA_0436	-	COG1301C	proton/sodium-glutamate symport protein
+463741..464697	-	318	76789133	lpxK	CTA_0437	-	COG1663M	tetraacyldisaccharide 4'-kinase
+464713..465522	-	269	76789134	yjfH	CTA_0438	-	COG0566J	23S rRNA methyltransferase
+465510..466337	-	275	76789135	-	CTA_0439	-	COG1092R	N-6 adenine-specific DNA methylase
+466334..466933	-	199	76789136	ribC	CTA_0440	-	COG0307H	riboflavin synthase subunit alpha
+467326..467790	+	154	76789137	nrdR	CTA_0441	-	COG1327K	transcriptional regulator NrdR
+467804..468178	+	124	76789138	dksA	CTA_0442	-	COG1734T	dnaK suppressor protein
+468184..468687	+	167	76789139	lspA	CTA_0443	-	COG0597MU	lipoprotein signal peptidase
+468789..470150	+	453	76789140	-	CTA_0444	-	COG1115E	Na(+)-linked D-alanine glycine permease
+470366..471643	+	425	76789141	pcnB_1	CTA_0445	-	COG0617J	polyA polymerase
+471704..473527	+	607	76789142	lpxB	CTA_0446	-	COG0763M	lipid-A-disaccharide synthase
+473634..476561	+	975	76789143	pmpA	CTA_0447	-	-	hypothetical protein
+476700..481955	+	1751	76789144	pmpB	CTA_0448	-	-	hypothetical protein
+482131..487485	+	1784	76789145	pmpC	CTA_0449	-	COG5253T	hypothetical protein
+488038..488868	+	276	76789146	yebL	CTA_0451	-	COG0803P	metal transport system, metal-binding protein
+488865..489575	+	236	76789147	-	CTA_0452	-	COG1121P	metal transport system ATP-binding protein
+489566..490447	+	293	76789148	-	CTA_0453	-	COG1108P	metal transport system permease
+490363..491370	-	335	76789149	obgE	CTA_0454	-	COG0536R	GTPase ObgE
+491460..491711	-	83	76789150	rpmA	CTA_0455	-	COG0211J	50S ribosomal protein L27
+491742..492065	-	107	76789151	rplU	CTA_0456	-	COG0261J	50S ribosomal protein L21
+492615..493316	+	233	76789152	-	CTA_0458	-	COG2928S	hypothetical protein
+493486..493662	+	58	76789153	-	CTA_0459	-	-	hypothetical protein
+493679..493840	+	53	76789154	-	CTA_0460	-	-	hypothetical protein
+493853..494338	+	161	76789155	-	CTA_0461	-	COG0319R	metal-binding protein
+494471..495580	+	369	76789156	corC	CTA_0462	-	COG1253R	hypothetical protein
+495769..496119	+	116	76789157	rsbV	CTA_0463	-	COG1366T	anti-sigma F factor antagonist
+496297..498162	+	621	76789158	-	CTA_0464	-	-	hypothetical protein
+498175..498390	+	71	76789159	-	CTA_0465	-	-	hypothetical protein
+498359..499468	+	369	76789160	-	CTA_0466	-	COG1060HR	hypothetical protein
+499441..500262	+	273	76789161	-	CTA_0467	-	COG1427R	hypothetical protein
+500198..500887	+	229	76789162	ubiE	CTA_0468	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+500913..501902	-	329	76789163	-	CTA_0469	-	-	hypothetical protein
+501963..502790	-	275	76789164	dapF	CTA_0470	-	COG0253E	diaminopimelate epimerase
+502759..503337	-	192	76789165	clpP_1	CTA_0471	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+503349..504842	-	497	76789166	glyA	CTA_0472	-	COG0112E	serine hydroxymethyltransferase
+505206..505877	+	223	76789167	hemD	CTA_0473	-	COG1587H	uroporphyrinogen-III synthase
+505980..506516	+	178	76789168	ispF	CTA_0474	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+506513..507565	-	350	76789169	cysJ	CTA_0475	-	COG0369P	NADPH-cytochrome P450 reductase
+507582..507899	-	105	76789170	rpsJ	CTA_0476	-	COG0051J	30S ribosomal protein S10
+507907..509991	-	694	76789171	fusA	CTA_0477	-	COG0480J	elongation factor G
+510033..510506	-	157	76789172	rpsG	CTA_0478	-	COG0049J	30S ribosomal protein S7
+510556..510927	-	123	162019864	rpsL	CTA_0479	-	COG0048J	30S ribosomal protein S12
+511187..511525	+	112	76789174	-	CTA_0480	-	-	hypothetical protein
+511683..513617	+	644	76789175	tsp	CTA_0481	-	COG0793M	carboxy-terminal processing protease precursor
+513739..514197	-	152	76789176	crpA	CTA_0482	-	-	sulfur-rich protein
+514375..516036	-	553	76789177	omcB	CTA_0483	-	-	60kD cysteine-rich outer membrane protein
+516183..516449	-	88	76789178	omcA	CTA_0484	-	-	cysteine-rich outer membrane protein 3 precursor
+516786..517010	+	74	76789179	-	CTA_0485	-	-	hypothetical protein
+517007..518527	-	506	76789180	gltX	CTA_0486	-	COG0008J	glutamyl-tRNA synthetase
+518799..519350	-	183	76789181	euo	CTA_0487	-	-	euo protein
+519755..521509	-	584	76789182	recJ	CTA_0488	-	COG0608L	hypothetical protein
+521627..523321	-	564	76789183	secF	CTA_0489	-	COG0342U	hypothetical protein
+523306..525828	-	840	76789184	secD	CTA_0490	-	COG0342U	SecD
+526248..526580	-	110	76789185	-	CTA_0491	-	-	hypothetical protein
+527043..527804	+	253	76789186	uppS	CTA_0492	-	COG0020I	undecaprenyl pyrophosphate synthase
+527810..528727	+	305	76789187	cdsA	CTA_0493	-	COG0575I	phosphatidate cytidylyltransferase
+528724..529374	+	216	76789188	cmk	CTA_0494	-	COG0283F	cytidylate kinase
+529371..530021	+	216	76789189	plsC	CTA_0495	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+530036..531727	+	563	76789190	argS	CTA_0496	-	COG0018J	arginyl-tRNA synthetase
+531765..533099	-	444	76789191	murA	CTA_0497	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+533311..536631	+	1106	76789192	-	CTA_0498	-	-	tarp protein
+536683..537399	-	238	76789193	-	CTA_0499	-	COG0217S	hypothetical protein
+537584..538087	-	167	76789194	yhhY	CTA_0500	-	COG0456R	ribosomal-protein-alanine acetyltransferase
+538084..539191	-	369	76789195	prfB	CTA_0501	-	COG1186J	peptide chain release factor 2
+539511..539771	+	86	76789196	-	CTA_0503	-	COG5531B	SwiB complex protein
+539829..540818	+	329	76789197	yaeI	CTA_0504	-	COG1408R	metallo-phosphoesterase
+540808..541467	+	219	76789198	ispD	CTA_0505	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+541476..542279	+	267	76789199	truA	CTA_0506	-	COG0101J	tRNA pseudouridine synthase A
+542231..542905	-	224	76789200	-	CTA_0507	-	COG0637R	HAD superfamily hydrolase
+542998..543639	+	213	76789201	-	CTA_0508	-	-	hypothetical protein
+543933..544262	+	109	76789202	-	CTA_0510	-	-	hypothetical protein
+544240..545298	+	352	76789203	atoS	CTA_0511	-	COG3852T	AtoS
+545341..546501	+	386	76789204	atoC	CTA_0512	-	COG2204T	2-component regulatory system-ATPase
+546728..547264	+	178	76789205	-	CTA_0514	-	-	hypothetical protein
+547234..547965	+	243	76789206	recO	CTA_0515	-	COG1381L	DNA repair protein RecO
+547962..548564	-	200	76789207	-	CTA_0516	-	-	hypothetical protein
+549029..549823	+	264	76789208	-	CTA_0518	-	COG1723S	hypothetical protein
+549829..550143	+	104	76789209	-	CTA_0519	-	COG0759S	hypothetical protein
+550082..551092	-	336	76789210	-	CTA_0520	-	-	hypothetical protein
+551099..553471	+	790	76789211	pheT	CTA_0521	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+553468..554433	+	321	76789212	-	CTA_0522	-	COG2849S	hypothetical protein
+554452..554964	+	170	76789213	ada	CTA_0523	-	COG0350L	o6-methylguanine-DNA methyltransferase
+554961..556697	-	578	76789214	oppC_2	CTA_0524	-	COG1173EP	hypothetical protein
+556699..558177	-	492	76789215	oppB_2	CTA_0525	-	COG0601EP	hypothetical protein
+558159..560249	-	696	76789216	oppA_4	CTA_0526	-	COG0747E	hypothetical protein
+560500..560664	-	54	76789217	-	CTA_0527	-	-	hypothetical protein
+560857..561588	-	243	76789218	-	CTA_0528	-	COG0726G	hypothetical protein
+561750..562403	-	217	76789219	-	CTA_0529	-	-	hypothetical protein
+562871..563236	+	121	76789220	-	CTA_0530	-	-	hypothetical protein
+563215..564213	-	332	76789221	-	CTA_0531	-	COG4783R	hypothetical protein
+564370..565314	-	314	76789222	hemH	CTA_0532	-	COG0276H	ferrochelatase
+565336..566121	-	261	76789223	fliY	CTA_0533	-	COG0834ET	glutamine-binding protein
+566167..566739	-	190	76789224	yhhF	CTA_0534	-	COG0742L	methyltransferase
+566736..567470	-	244	76789225	-	CTA_0535	-	COG1768R	phosphohydrolase
+567559..568884	-	441	76789226	glgC	CTA_0536	-	COG0448G	glucose-1-phosphate adenylyltransferase
+569077..569328	+	83	76789227	-	CTA_0537	-	-	hypothetical protein
+569338..570732	-	464	76789228	rho	CTA_0538	-	COG1158K	transcription termination factor Rho
+570729..571337	-	202	76789229	coaE	CTA_0539	-	COG0237H	dephospho-CoA kinase
+571331..573931	-	866	76789230	polA	CTA_0540	-	COG0749L	DNA polymerase I
+573948..574943	-	331	76789231	sohB	CTA_0541	-	COG0616OU	endopeptidase IV
+575082..576704	-	540	76789232	-	CTA_0542	-	COG3202C	ADP,ATP carrier protein
+576916..577422	-	168	76789233	pgsA_1	CTA_0543	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+577936..579354	+	472	76789234	dnaB_1	CTA_0545	-	COG0305L	replicative DNA helicase
+579649..581481	+	610	76789235	gidA	CTA_0546	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+581471..582172	+	233	76789236	lplA_2	CTA_0547	-	COG0095H	lipoate-protein ligase A
+582229..582654	-	141	76789237	ndk	CTA_0548	-	COG0105F	nucleoside diphosphate kinase
+582814..583416	-	200	76789238	ruvA	CTA_0549	-	COG0632L	Holliday junction DNA helicase RuvA
+583436..583948	-	170	76789239	ruvC	CTA_0550	-	COG0817L	Holliday junction resolvase
+584056..584610	-	184	76789240	-	CTA_0551	-	-	hypothetical protein
+584897..585763	-	288	76789241	-	CTA_0553	-	-	hypothetical protein
+585774..586778	-	334	76789242	gapA	CTA_0554	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+586822..587247	-	141	76789243	rplQ	CTA_0555	-	COG0203J	50S ribosomal protein L17
+587256..588389	-	377	76789244	rpoA	CTA_0556	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+588410..588808	-	132	76789245	rpsK	CTA_0557	-	COG0100J	30S ribosomal protein S11
+588830..589198	-	122	76789246	rpsM	CTA_0558	-	COG0099J	30S ribosomal protein S13
+589254..590627	-	457	76789247	secY	CTA_0559	-	COG0201U	preprotein translocase subunit SecY
+590650..591084	-	144	76789248	rplO	CTA_0560	-	COG0200J	50S ribosomal protein L15
+591077..591574	-	165	76789249	rpsE	CTA_0561	-	COG0098J	30S ribosomal protein S5
+591589..591960	-	123	76789250	rplR	CTA_0562	-	COG0256J	50S ribosomal protein L18
+591982..592533	-	183	76789251	rplF	CTA_0563	-	COG0097J	50S ribosomal protein L6
+592561..592962	-	133	76789252	rpsH	CTA_0564	-	COG0096J	30S ribosomal protein S8
+592980..593522	-	180	76789253	rplE	CTA_0565	-	COG0094J	50S ribosomal protein L5
+593524..593859	-	111	76789254	rplX	CTA_0566	-	COG0198J	50S ribosomal protein L24
+593872..594240	-	122	76789255	rplN	CTA_0567	-	COG0093J	50S ribosomal protein L14
+594257..594508	-	83	76789256	rpsQ	CTA_0568	-	COG0186J	30S ribosomal protein S17
+594501..594719	-	72	162019863	rpmC	CTA_0569	-	COG0255J	50S ribosomal protein L29
+594721..595137	-	138	76789258	rplP	CTA_0570	-	COG0197J	50S ribosomal protein L16
+595170..595844	-	224	76789259	rpsC	CTA_0571	-	COG0092J	30S ribosomal protein S3
+595854..596189	-	111	76789260	rplV	CTA_0572	-	COG0091J	50S ribosomal protein L22
+596208..596474	-	88	76789261	rpsS	CTA_0573	-	COG0185J	30S ribosomal protein S19
+596480..597334	-	284	76789262	rplB	CTA_0574	-	COG0090J	50S ribosomal protein L2
+597358..597693	-	111	76789263	rplW	CTA_0575	-	COG0089J	50S ribosomal protein L23
+597709..598377	-	222	76789264	rplD	CTA_0576	-	COG0088J	50S ribosomal protein L4
+598386..599051	-	221	76789265	rplC	CTA_0577	-	COG0087J	50S ribosomal protein L3
+599486..600382	-	298	76789266	-	CTA_0578	-	-	hypothetical protein
+600548..601498	-	316	76789267	fmt	CTA_0579	-	COG0223J	methionyl-tRNA formyltransferase
+601488..602330	-	280	76789268	lpxA	CTA_0580	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+602342..602803	-	153	76789269	fabZ	CTA_0581	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+602800..603660	-	286	76789270	lpxC	CTA_0582	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+603761..605389	-	542	76789271	lnt	CTA_0583	-	COG0815M	apolipoprotein N-acyltransferase
+605453..605935	-	160	76789272	yciA	CTA_0584	-	COG1607I	acyl-CoA hydrolase
+606071..606823	-	250	76789273	dnaQ_2	CTA_0585	-	COG0847L	DNA polymerase III subunit epsilon
+606827..607300	-	157	76789274	yjeE	CTA_0586	-	COG0802R	ATP/GTP hydrolase
+607279..607995	-	238	76789275	-	CTA_0587	-	-	hypothetical protein
+608717..609025	+	102	76789276	trxA	CTA_0589	-	COG3118O	thioredoxin
+609075..609530	-	151	76789277	yibK	CTA_0590	-	COG0219J	rRNA methylase
+609546..610277	-	243	76789278	mip	CTA_0591	-	COG0545O	peptidyl-prolyl cis-trans isomerase
+610414..612162	-	582	76789279	aspS	CTA_0592	-	COG0173J	aspartyl-tRNA synthetase
+612143..613429	-	428	76789280	hisS	CTA_0593	-	COG0124J	histidyl-tRNA synthetase
+613865..615235	+	456	76789281	uhpC	CTA_0594	-	COG2271G	sugar phosphate permease
+615249..618962	+	1237	76789282	dnaE	CTA_0595	-	COG0587L	DNA polymerase III subunit alpha
+619191..620060	-	289	76789283	-	CTA_0596	-	-	hypothetical protein
+620212..621168	+	318	76789284	-	CTA_0597	-	COG4105R	TPR repeat-containing protein
+621193..621777	+	194	76789285	-	CTA_0598	-	-	hypothetical protein
+621764..622204	+	146	76789286	rsbW	CTA_0599	-	COG2172T	sigma regulatory factor-histidine kinase
+622211..622636	-	141	76789287	-	CTA_0600	-	-	hypothetical protein
+622744..624057	+	437	76789288	dacC	CTA_0601	-	COG1686M	D-alanyl-D-alanine carboxypeptidase
+624191..624598	+	135	76789289	-	CTA_0602	-	-	hypothetical protein
+624595..625701	+	368	76789290	fmu	CTA_0603	-	COG0144J	16S rRNA m(5)C 967 methyltransferase
+625851..627086	+	411	76789291	brnQ	CTA_0604	-	COG1114E	branched-chain amino acid transport system carrier protein
+627261..630860	+	1199	76789292	-	CTA_0605	-	COG0553KL	SWF/SNF family helicase
+631038..631517	+	159	76789293	-	CTA_0606	-	-	hypothetical protein
+631726..633123	+	465	76789294	lpdA	CTA_0607	-	COG1249C	dihydrolipoamide dehydrogenase
+633120..634055	+	311	76789295	lipA	CTA_0608	-	COG0320H	lipoyl synthase
+634159..635139	+	326	76789296	sctJ	CTA_0609	-	COG4669U	SctJ
+635140..635976	+	278	76789297	-	CTA_0610	-	-	hypothetical protein
+636252..636923	+	223	76789298	sctL	CTA_0611	-	COG1317NU	type III secretion system protein
+636936..637856	+	306	76789299	sctR	CTA_0612	-	COG1338NU	type III secretion system protein
+637868..638152	+	94	76789300	sctS	CTA_0613	-	COG4794U	SctS
+638159..639028	+	289	76789301	sctT	CTA_0614	-	COG4791U	SctT
+639107..639550	-	147	76789302	-	CTA_0615	-	-	hypothetical protein
+639641..640633	-	330	76789303	-	CTA_0616	-	-	hypothetical protein
+640639..641163	-	174	76789304	-	CTA_0617	-	COG2165NU	hypothetical protein
+641148..641603	-	151	76789305	-	CTA_0618	-	-	hypothetical protein
+641587..641916	-	109	76789306	gspG	CTA_0619	-	COG2165NU	general secretion pathway protein G
+641978..643153	-	391	76789307	gspF	CTA_0620	-	COG1459NU	general secretion pathway protein F
+643165..644670	-	501	76789308	gspE	CTA_0621	-	COG2804NU	general secretion pathway protein E
+644654..646936	-	760	76789309	gspD_1	CTA_0622	-	COG1450NU	general secretion pathway protein D
+646937..648166	-	409	76789310	-	CTA_0623	-	-	hypothetical protein
+648294..649364	-	356	76789311	pepP	CTA_0624	-	COG0006E	Xaa-Pro dipeptidase
+649375..651105	-	576	76789312	mutL	CTA_0625	-	COG0323L	DNA mismatch repair protein
+651400..652098	+	232	76789313	lcrH_1	CTA_0626	-	COG4783R	type III secretion chaperone/low calcium response protein H
+652115..652474	+	119	76789314	-	CTA_0627	-	-	hypothetical protein
+652511..653974	+	487	76789315	-	CTA_0628	-	-	hypothetical protein
+654005..655324	+	439	76789316	-	CTA_0629	-	-	hypothetical protein
+655402..656355	-	317	76789317	-	CTA_0630	-	COG0697GER	hypothetical protein
+656689..658596	+	635	76789318	thrS	CTA_0631	-	COG0441J	threonyl-tRNA synthetase
+659047..659814	+	255	76789319	minD	CTA_0632	-	COG1192D	ParaA family ATPase
+659819..660610	+	263	76789320	gp6D	CTA_0633	-	-	virulence plasmid protein pGP6-D-related protein
+660576..661127	+	183	76789321	-	CTA_0634	-	-	hypothetical protein
+661326..662366	+	346	76789322	trpS	CTA_0635	-	COG0180J	tryptophanyl-tRNA synthetase
+662391..664397	+	668	76789323	uvrB	CTA_0636	-	COG0556L	excinuclease ABC subunit B
+664559..665833	+	424	76789324	eno	CTA_0637	-	COG0148G	phosphopyruvate hydratase
+665960..667912	+	650	76789325	rbsU	CTA_0638	-	COG2208TK	sigma regulatory family protein-PP2C phosphatase
+668037..669845	+	602	76789326	-	CTA_0639	-	COG2208TK	hypothetical protein
+669860..672724	-	954	76789327	-	CTA_0640	-	-	hypothetical protein
+672821..673519	-	232	76789328	sdhB	CTA_0641	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+673598..675478	-	626	76789329	sdhA	CTA_0642	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+675475..676044	-	189	76789330	sdhC	CTA_0643	-	COG2009C	succinate dehydrogenase cytochrome b558 subunit
+676070..676261	-	63	76789331	-	CTA_0644	-	-	succinate dehydrogenase cytochrome b558 subunit
+676483..677274	-	263	76789332	ycfH	CTA_0645	-	COG0084L	PHP superfamily hydrolase
+677359..679437	-	692	76789333	dsdD	CTA_0646	-	COG4232OC	DsbD
+679590..680288	+	232	76789334	exbB	CTA_0647	-	COG0811U	component of a macromolecule transport system
+680285..680692	+	135	76789335	exbD	CTA_0648	-	COG0848U	ExbD/TolR family protein
+680695..681402	+	235	76789336	-	CTA_0649	-	-	histone H1-I
+681402..682697	+	431	76789337	tolB	CTA_0650	-	COG0823U	translocation protein TolB
+682694..683260	+	188	76789338	pal	CTA_0651	-	COG2885M	peptidoglycan-associated lipoprotein
+683250..683852	+	200	76789339	papQ	CTA_0652	-	COG1388M	soluble lytic murein transglycosylase and related regulatory proteins
+683923..684315	+	130	76789340	-	CTA_0653	-	-	hypothetical protein
+684312..684923	-	203	76789341	ahpC	CTA_0654	-	COG0450O	thioredoxin peroxidase
+685203..686708	-	501	76789342	groEL_2	CTA_0656	-	COG0459O	chaperonin
+686785..688014	-	409	76789343	ybbC	CTA_0657	-	COG3876S	hypothetical protein
+688212..688841	+	209	76789344	-	CTA_0658	-	COG0127F	deoxyribonucleotide triphosphate pyrophosphatase
+688815..689054	-	79	76789345	-	CTA_0659	-	-	hypothetical protein
+689039..689728	-	229	76789346	ung	CTA_0660	-	COG0692L	uracil-DNA glycosylase
+689809..691713	+	634	76789347	uvrD	CTA_0661	-	COG0210L	DNA helicase
+691717..693027	+	436	76789348	rpoN	CTA_0662	-	COG1508K	RNA polymerase factor sigma-54
+693135..693830	-	231	76789349	pqqC	CTA_0663	-	COG5424H	hypothetical protein
+693827..694558	-	243	76789350	-	CTA_0664	-	COG1478S	hypothetical protein
+694530..695009	-	159	76789351	folA	CTA_0665	-	COG0262H	dihydrofolate reductase
+695006..696358	-	450	76789352	folP	CTA_0666	-	COG0294H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+696355..696729	-	124	76789353	folX	CTA_0667	-	COG1539H	dihydroneopterin aldolase
+696748..698463	-	571	76789354	rpoD	CTA_0668	-	COG0568K	RNA polymerase sigma factor
+698612..699901	-	429	76789355	-	CTA_0669	-	COG1196D	hypothetical protein
+700350..700646	+	98	76789356	rpsT	CTA_0670	-	COG0268J	30S ribosomal protein S20
+700878..701678	+	266	76789357	-	CTA_0671	-	COG4867R	hypothetical protein
+701734..704367	-	877	76789358	-	CTA_0672	-	-	hypothetical protein
+704482..706998	+	838	76789359	-	CTA_0673	-	-	hypothetical protein
+707062..709560	-	832	76789360	-	CTA_0674	-	-	hypothetical protein
+709788..711743	-	651	76789361	-	CTA_0675	-	COG1053C	CHLPN 76 kD protein-like
+711851..713191	-	446	76789362	-	CTA_0676	-	-	CHLPN 76 kD protein-like
+713392..715002	-	536	76789363	mviN	CTA_0677	-	COG0728R	hypothetical protein
+715175..716041	+	288	76789364	nfo	CTA_0678	-	COG0648L	endonuclease IV
+716138..716767	-	209	76789365	rpsD	CTA_0679	-	COG0522J	30S ribosomal protein S4
+717150..718133	+	327	76789366	yceA	CTA_0680	-	COG1054R	hypothetical protein
+718205..719080	-	291	76789367	ispA	CTA_0681	-	COG0142H	dimethylallyltransferase
+719136..719753	-	205	76789368	glmU	CTA_0682	-	COG1207M	glucosamine-1-phosphate acetyltransferase
+719806..720489	-	227	76789369	cpxR	CTA_0683	-	COG0745TK	CpxR
+720668..720922	+	84	76789370	-	CTA_0684	-	-	hypothetical protein
+721103..722692	-	529	76789371	-	CTA_0686	-	COG1351F	hypothetical protein
+722990..724006	+	338	76789372	hemB	CTA_0687	-	COG0113H	delta-aminolevulinic acid dehydratase
+724032..725429	-	465	76789373	-	CTA_0688	-	COG1726C	Na(+)-translocating NADH-quinone reductase subunit A
+725451..725885	-	144	76789374	-	CTA_0689	-	-	hypothetical protein
+725999..728146	+	715	76789375	greA	CTA_0690	-	COG1747S	transcript cleavage factor/unknown domain fusion protein
+728334..729536	+	400	76789376	tyrB	CTA_0692	-	COG1448E	aromatic amino acid aminotransferase
+729511..730521	+	336	76789377	-	CTA_0693	-	COG1792M	rod shape-determining protein MreC
+730537..733617	-	1026	76789378	recB	CTA_0694	-	COG1074L	exodeoxyribonuclease V subunit beta
+733619..736639	-	1006	76789379	recC	CTA_0695	-	COG1330L	exodeoxyribonuclease V subunit gamma
+736652..738331	+	559	76789380	ygeD	CTA_0696	-	COG2814G	macrolide-efflux protein
+738351..739166	-	271	76789381	-	CTA_0697	-	-	hypothetical protein
+740061..742634	+	857	76789382	topA	CTA_0698	-	COG0550L	DNA topoisomerase I/SWI domain fusion protein
+742664..743668	-	334	76789383	yohI	CTA_0699	-	COG0042J	oxidoreductase
+743647..743943	-	98	76789384	-	CTA_0700	-	COG0762S	hypothetical protein
+744044..745423	+	459	76789385	-	CTA_0701	-	-	hypothetical protein
+745423..746001	+	192	76789386	-	CTA_0702	-	-	hypothetical protein
+745992..747266	+	424	76789387	-	CTA_0703	-	COG2849S	hypothetical protein
+747269..747805	+	178	76789388	ygfA	CTA_0704	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+748066..749124	+	352	76789389	recA	CTA_0705	-	COG0468L	recombinase A
+749410..751236	+	608	76789390	-	CTA_0706	-	-	hypothetical protein
+751233..752723	+	496	76789391	recD_2	CTA_0707	-	COG0507L	exodeoxyribonuclease V subunit alpha
+752789..752968	+	59	76789392	-	CTA_0708	-	-	hypothetical protein
+753069..753788	-	239	76789393	yhbG	CTA_0709	-	COG1137R	ABC transporter ATP-binding protein
+753797..754285	-	162	76789394	-	CTA_0710	-	-	hypothetical protein
+754282..755091	-	269	76789395	kdsA	CTA_0711	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+755577..755870	+	97	76789396	-	CTA_0713	-	-	hypothetical protein
+755870..756187	+	105	76789397	-	CTA_0714	-	-	hypothetical protein
+756269..757276	+	335	76789398	sfhB	CTA_0715	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+757376..757612	+	78	76789399	-	CTA_0716	-	COG1837R	hypothetical protein
+757751..759223	-	490	76789400	gyrA_2	CTA_0717	-	COG0188L	DNA topoisomerase IV subunit A
+759238..761055	-	605	76789401	gyrB_2	CTA_0718	-	COG0187L	DNA topoisomerase IV subunit B
+761435..762442	+	335	76789402	hemA	CTA_0719	-	COG0373H	glutamyl-tRNA reductase
+763161..763562	+	133	76789403	-	CTA_0720	-	-	hypothetical protein
+763566..766055	+	829	76789404	-	CTA_0721	-	COG1716T	phosphopeptide binding protein
+766099..766350	+	83	76789405	-	CTA_0722	-	-	hypothetical protein
+766377..766628	+	83	76789406	-	CTA_0723	-	-	hypothetical protein
+766647..767096	+	149	76789407	-	CTA_0724	-	-	hypothetical protein
+767116..767787	+	223	76789408	-	CTA_0725	-	-	hypothetical protein
+767789..769117	+	442	76789409	sctN	CTA_0726	-	COG1157NU	type III secretion system ATPase
+769140..769646	+	168	76789410	-	CTA_0727	-	-	hypothetical protein
+769650..770501	+	283	76789411	-	CTA_0728	-	-	hypothetical protein
+770511..771632	+	373	76789412	sctQ	CTA_0729	-	COG1886NU	type III secretion system protein
+771767..773239	+	490	76789413	pkn5	CTA_0730	-	COG0515RTKL	serine/threonine-protein kinase PAR-1
+773236..776001	+	921	76789414	gspD_2	CTA_0731	-	COG1450NU	general secretion pathway protein D
+776317..777387	-	356	76789415	karG	CTA_0733	-	COG3869E	ATP:guanido phosphotransferase
+777377..777898	-	173	76789416	-	CTA_0734	-	COG3880S	hypothetical protein
+778260..778799	-	179	76789417	frr	CTA_0737	-	COG0233J	ribosome recycling factor
+778796..779533	-	245	76789418	pyrH	CTA_0738	-	COG0528F	uridylate kinase
+779546..780394	-	282	76789419	tsf	CTA_0739	-	COG0264J	elongation factor Ts
+780391..781239	-	282	76789420	rpsB	CTA_0740	-	COG0052J	30S ribosomal protein S2
+781617..782807	-	396	76789421	ompA	CTA_0742	-	-	major outer membrane protein
+783415..786657	+	1080	76789422	pbpB	CTA_0743	-	COG0768M	penicillin-binding protein
+786721..787728	+	335	76789423	-	CTA_0744	-	COG4783R	TPR repeat-containing protein
+788071..789522	+	483	76789424	-	CTA_0745	-	COG0719O	cysteine desulfurase
+789525..790292	+	255	76789425	-	CTA_0746	-	COG0396O	ABC transporter ATP-binding protein
+790296..791483	+	395	76789426	-	CTA_0747	-	COG0719O	ABC transporter-associated protein
+791476..792681	+	401	76789427	yfhO_2	CTA_0748	-	COG0520E	cysteine desulfurase
+792817..793662	+	281	76789428	parB	CTA_0749	-	COG1475K	hypothetical protein
+793654..794484	-	276	76789429	dppF	CTA_0750	-	COG1123R	ABC transport ATPase
+794477..795442	-	321	76789430	dppD	CTA_0751	-	COG0444EP	ABC transport ATPase
+795603..796277	+	224	76789431	-	CTA_0752	-	COG1392P	hypothetical protein
+796280..797560	+	426	76789432	-	CTA_0753	-	COG0306P	low-affinity inorganic phosphate transporter
+797688..798899	+	403	76789433	pgk	CTA_0754	-	COG0126G	phosphoglycerate kinase
+799158..800129	+	323	76789434	-	CTA_0755	-	-	hypothetical protein
+800180..801376	+	398	76789435	-	CTA_0756	-	-	hypothetical protein
+801462..802640	+	392	76789436	-	CTA_0757	-	-	hypothetical protein
+802637..803272	-	211	76789437	nth	CTA_0758	-	COG0177L	endonuclease III
+803279..804613	-	444	76789438	trmE	CTA_0759	-	COG0486R	tRNA modification GTPase TrmE
+804880..805785	+	301	76789439	psdD	CTA_0760	-	COG0688I	phosphatidylserine decarboxylase
+805850..807175	+	441	76789440	-	CTA_0761	-	COG1729S	TPR repeat-containing protein
+807434..810343	+	969	76789441	secA	CTA_0762	-	COG0653U	preprotein translocase subunit SecA
+810437..810964	-	175	76789442	-	CTA_0763	-	-	hypothetical protein
+811041..812513	-	490	76789443	engA	CTA_0764	-	COG1160R	GTP-binding protein EngA
+812629..813861	-	410	76789444	pcnB_2	CTA_0765	-	COG0617J	polyA polymerase
+813876..815135	-	419	76789445	clpX	CTA_0766	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+815145..815756	-	203	76789446	clpP	CTA_0767	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+815923..817251	-	442	76789447	tig	CTA_0768	-	COG0544O	trigger factor
+817609..821100	+	1163	76789448	-	CTA_0770	-	COG0553KL	SWF/SNF family helicase
+821105..822205	+	366	76789449	mreB	CTA_0771	-	COG1077D	rod shape-determining protein MreB
+822202..824001	+	599	76789450	pckA	CTA_0772	-	COG1274C	phosphoenolpyruvate carboxykinase
+824113..826416	+	767	76789451	-	CTA_0773	-	-	hypothetical protein
+826443..827615	+	390	76789452	-	CTA_0774	-	-	hypothetical protein
+827641..828663	-	340	76789453	ompB	CTA_0775	-	-	outer membrane protein OmpB
+828796..829800	-	334	76789454	gpsA	CTA_0776	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+829797..831164	-	455	76789455	-	CTA_0777	-	COG4284G	UDP-N-acetylglucosamine pyrophosphorylase
+831176..831541	-	121	76789456	-	CTA_0778	-	-	hypothetical protein
+831534..832838	-	434	76789457	fliI	CTA_0779	-	COG1157NU	type III secretion system ATPase
+832912..833436	-	174	76789458	-	CTA_0780	-	-	hypothetical protein
+833441..834445	-	334	76789459	fliF	CTA_0781	-	COG1536N	type III secretion system protein
+834718..835500	-	260	76789460	-	CTA_0782	-	COG0822C	hypothetical protein
+835497..836651	-	384	76789461	yfhO_3	CTA_0783	-	COG1104E	NifS-related protein
+836606..837286	-	226	76789462	pgmA	CTA_0784	-	COG0588G	phosphoglyceromutase
+837582..838307	+	241	76789463	yjbC	CTA_0785	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+838426..838950	+	174	76789464	-	CTA_0786	-	-	hypothetical protein
+838977..839531	+	184	76789465	birA	CTA_0787	-	COG0340H	biotin--protein ligase
+839538..840677	-	379	76789466	rodA	CTA_0788	-	COG0772D	RodA
+840769..842748	-	659	76789467	zntA	CTA_0789	-	COG2217P	lead, cadmium, zinc and mercury transporting ATPase
+842772..843518	-	248	76789468	-	CTA_0790	-	COG1814S	hypothetical protein
+843555..844841	-	428	76789469	serS	CTA_0791	-	COG0172J	seryl-tRNA synthetase
+844883..846010	+	375	76789470	ribD	CTA_0792	-	COG1985H	5-amino-6-(5-phosphoribosylamino)uracil reductase
+846120..847394	+	424	76789471	ribA	CTA_0793	-	COG0108H	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+847363..847836	+	157	76789472	ribH	CTA_0794	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+847887..849233	-	448	76789473	-	CTA_0795	-	-	hypothetical protein
+849618..850283	+	221	76789474	-	CTA_0796	-	-	hypothetical protein
+850388..851755	+	455	76789475	dagA	CTA_0797	-	COG1115E	Na(+)-linked D-alanine glycine permease
+851813..852265	+	150	76789476	ybcL	CTA_0798	-	COG1881R	ATP/GTP binding protein
+852274..852933	-	219	76789477	-	CTA_0799	-	COG2940R	SET domain-containing protein
+852930..853718	-	262	76789478	yycJ	CTA_0800	-	COG1235R	Zn-dependent hydrolase
+853722..856121	-	799	76789479	ftsK	CTA_0801	-	COG1674D	hypothetical protein
+856463..856675	-	70	76789480	-	CTA_0803	-	-	hypothetical protein
+862361..863656	-	431	76789481	dmpP	CTA_0806	-	COG2871C	Na(+)-translocating NADH-quinone reductase subunit F
+863799..864143	-	114	76789482	yajC	CTA_0807	-	COG1862U	preprotein translocase subunit YajC
+864248..865438	-	396	76789483	ygcA	CTA_0808	-	COG2265J	rRNA methyltransferase
+865626..866003	-	125	76789484	hctA	CTA_0809	-	-	histone-like developmental protein
+866399..868867	+	822	76789485	-	CTA_0810	-	-	phosphoprotein
+868859..870133	-	424	76789486	hemG	CTA_0811	-	COG1232H	protoporphyrinogen oxidase
+870130..871503	-	457	76789487	hemN_2	CTA_0812	-	COG0635H	coproporphyrinogen III oxidase
+871476..872486	-	336	76789488	hemE	CTA_0813	-	COG0407H	uroporphyrinogen decarboxylase
+872499..875738	-	1079	76789489	mfd	CTA_0814	-	COG1197LK	transcription-repair coupling factor
+875714..878341	-	875	76789490	alaS	CTA_0815	-	COG0013J	alanyl-tRNA synthetase
+878491..878721	-	76	76789491	-	CTA_0816	-	-	hypothetical protein
+884168..886168	+	666	76789492	tktB	CTA_0819	-	COG0021G	transketolase
+886165..887034	-	289	76789493	amn	CTA_0820	-	COG0775F	AMP nucleosidase
+887254..887826	+	190	76789494	efp_2	CTA_0821	-	COG0231J	elongation factor P
+887842..888066	-	74	76789495	-	CTA_0822	-	-	hypothetical protein
+888113..888985	-	290	76789496	icc	CTA_0823	-	COG1409R	Icc family phosphohydrolase
+889066..890604	-	512	76789497	groEL_3	CTA_0824	-	COG0459O	molecular chaperone GroEL
+891052..892404	+	450	76789498	murF	CTA_0826	-	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+892550..893560	+	336	76789499	mraY	CTA_0827	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+893572..894822	+	416	76789500	murD	CTA_0828	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+894819..895556	+	245	76789501	nlpD	CTA_0829	-	COG1388M	muramidase
+895572..896729	+	385	76789502	ftsW	CTA_0830	-	COG0772D	hypothetical protein
+896638..897696	+	352	76789503	murG	CTA_0831	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+897701..900112	+	803	76789504	murC-ddlA	CTA_0832	-	COG0773M	bifunctional D-alanyl-alanine synthetase A/UDP-N-acetylmuramate--L-alanine ligase
+900149..900568	-	139	76789505	-	CTA_0833	-	COG1837R	hypothetical protein
+900726..901532	-	268	76789506	-	CTA_0834	-	-	hypothetical protein
+901686..902018	+	110	76789507	rbsV	CTA_0835	-	COG1366T	anti-sigma F factor antagonist
+902022..903041	+	339	76789508	miaA	CTA_0836	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+903046..904098	-	350	76789509	-	CTA_0837	-	COG1060HR	hypothetical protein
+904188..905876	+	562	76789510	-	CTA_0838	-	COG3096D	hypothetical protein
+906330..906689	+	119	76789511	ybeB	CTA_0839	-	COG0799S	iojap superfamily protein
+906700..907956	+	418	76789512	fabF	CTA_0840	-	COG0304IQ	3-oxoacyl-ACP synthase
+907953..908405	+	150	76789513	-	CTA_0841	-	COG0494LR	phosphohydrolase (MutT/nudix family protein)
+908486..909115	-	209	76789514	ppa	CTA_0842	-	COG0221C	inorganic pyrophosphatase
+909363..910403	+	346	76789515	ldh	CTA_0843	-	COG0334E	leucine dehydrogenase
+910369..911397	-	342	76789516	cysQ	CTA_0844	-	COG1218P	3'(2'),5'-bisphosphate nucleotidase
+911696..912457	+	253	76789517	-	CTA_0845	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+912465..914078	+	537	76789518	aas	CTA_0846	-	COG0318IQ	long chain fatty acid--ACP ligase
+914121..915254	+	377	76789519	bioF	CTA_0847	-	COG0156H	8-amino-7-oxononanoate synthase
+915173..917434	-	753	76789520	-	CTA_0848	-	COG1198L	primosome assembly protein PriA
+917389..918078	-	229	76789521	-	CTA_0849	-	-	hypothetical protein
+918234..918728	+	164	76789522	-	CTA_0850	-	COG2143O	protein disulfide isomerase
+918960..920540	+	526	76789523	lysS	CTA_0851	-	COG1190J	lysyl-tRNA synthetase
+920537..922030	-	497	76789524	cysS	CTA_0852	-	COG0215J	cysteinyl-tRNA synthetase
+922285..923334	+	349	76789525	-	CTA_0853	-	-	protein disulfide isomerase
+923412..923774	-	120	76789526	rnpA	CTA_0854	-	COG0594J	ribonuclease P
+923787..923924	-	45	76789527	rpmH	CTA_0855	-	-	50S ribosomal protein L34
+924401..924538	+	45	76789528	rpmJ	CTA_0856	-	-	50S ribosomal protein L36
+924562..924867	+	101	76789529	rpsN	CTA_0857	-	COG0199J	30S ribosomal protein S14
+924901..925401	-	166	76789530	-	CTA_0858	-	-	hypothetical protein
+925523..925774	-	83	76789531	-	CTA_0859	-	-	hypothetical protein
+926053..926547	+	164	76789532	-	CTA_0860	-	COG1302S	hypothetical protein
+926592..928388	-	598	76789533	uvrC	CTA_0861	-	COG0322L	excinuclease ABC subunit C
+928413..930875	-	820	76789534	mutS	CTA_0862	-	COG0249L	DNA mismatch repair protein MutS
+930938..931207	+	89	76789535	-	CTA_0863	-	-	hypothetical protein
+931209..932996	+	595	76789536	dnaG	CTA_0864	-	COG0358L	DNA primase
+933081..933368	+	95	76789537	-	CTA_0865	-	-	hypothetical protein
+933495..933986	+	163	76789538	-	CTA_0866	-	-	hypothetical protein
+934068..937079	-	1003	76789539	glyQ	CTA_0867	-	COG0751J	glycyl-tRNA synthetase
+937541..938149	+	202	76789540	pgsA_2	CTA_0868	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+938156..939580	-	474	76789541	glgA	CTA_0869	-	COG0297G	glycogen synthase
+940157..940714	+	185	76789542	rplY	CTA_0871	-	COG1825J	50S ribosomal protein L25
+940722..941261	+	179	76789543	pth	CTA_0872	-	COG0193J	peptidyl-tRNA hydrolase
+941399..941737	+	112	76789544	rpsF	CTA_0873	-	COG0360J	30S ribosomal protein S6
+941754..941999	+	81	76789545	rpsR	CTA_0874	-	COG0238J	30S ribosomal protein S18
+942020..942523	+	167	76789546	rplI	CTA_0875	-	COG0359J	50S ribosomal protein L9
+942587..943453	+	288	76789547	ispE	CTA_0876	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+943756..945108	-	450	76789548	-	CTA_0877	-	-	hypothetical protein
+945287..948157	-	956	76789549	ptr	CTA_0878	-	COG1025O	insulin-degrading enzyme
+948214..949209	-	331	76789550	plsB	CTA_0879	-	-	glycerol-3-phosphate acyltransferase
+949222..950760	-	512	76789551	cafE	CTA_0880	-	COG1530J	ribonuclease E
+951324..951635	+	103	76789552	-	CTA_0881	-	-	hypothetical protein
+951895..952074	+	59	76789553	rpmF	CTA_0882	-	COG0333J	50S ribosomal protein L32
+952097..953062	+	321	76789554	plsX	CTA_0883	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+953283..957878	+	1531	76789555	pmpD	CTA_0884	-	COG4625S	hypothetical protein
+958122..958916	+	264	76789556	-	CTA_0885	-	COG0172J	hypothetical protein
+959000..959353	-	117	76789557	-	CTA_0886	-	-	hypothetical protein
+959320..959682	-	120	76789558	-	CTA_0887	-	-	hypothetical protein
+959928..961304	+	458	76789559	glmM	CTA_0888	-	COG1109G	phosphoglucosamine mutase
+961315..963135	+	606	76789560	glmS	CTA_0889	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+963238..964434	+	398	76789561	tyrP_1	CTA_0890	-	COG0814E	tyrosine-specific transport protein
+964616..964873	+	85	76789562	tyrP_2.1	CTA_0891	-	COG0814E	tyrosine-specific transport protein
+964858..965799	+	313	76789563	typP_2.2	CTA_0892	-	COG0814E	tyrosine-specific transport protein
+965841..966557	+	238	76789564	yccA	CTA_0893	-	COG0670R	transporter
+966655..967509	-	284	76789565	ftsY	CTA_0894	-	COG0552U	hypothetical protein
+967579..968739	+	386	76789566	sucC	CTA_0895	-	COG0045C	succinyl-CoA synthetase subunit beta
+968754..969629	+	291	76789567	sucD	CTA_0896	-	COG0074C	succinyl-CoA synthetase subunit alpha
+969768..971261	+	497	76789568	htrA	CTA_0897	-	COG0265O	DO serine protease
+971459..974383	+	974	76789569	-	CTA_0898	-	COG1026R	insulinase metalloprotease
+974397..975680	-	427	76789570	-	CTA_0899	-	COG1322S	RmuC family protein
+975684..976475	-	263	76789571	pssA	CTA_0900	-	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase
+977111..980254	+	1047	76789572	nrdA	CTA_0901	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+980292..981332	+	346	76789573	nrdB	CTA_0902	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+981592..982266	+	224	162019862	trmB	CTA_0903	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+982382..982966	+	194	76789575	ygtB	CTA_0905	-	COG4123R	SAM-dependent methyltransferase
+982963..983838	-	291	76789576	murB	CTA_0906	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+983971..984477	-	168	76789577	nusB	CTA_0907	-	COG0781K	transcription antitermination protein NusB
+984909..985436	+	175	76789578	infC	CTA_0908	-	COG0290J	translation initiation factor IF-3
+985447..985641	+	64	76789579	rpmI	CTA_0909	-	COG0291J	50S ribosomal protein L35
+985660..986031	+	123	76789580	rplT	CTA_0910	-	COG0292J	50S ribosomal protein L20
+986038..987066	+	342	76789581	pheS	CTA_0911	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+987377..989353	+	658	76789582	-	CTA_0913	-	-	hypothetical protein
+989350..990450	-	366	76789583	-	CTA_0914	-	COG0795R	hypothetical protein
+990453..991517	-	354	76789584	-	CTA_0915	-	COG0795R	permease
+991615..992580	+	321	76789585	tilS	CTA_0916	-	COG0037D	TilS
+992741..995482	+	913	76789586	ftsH	CTA_0917	-	COG0465O	hypothetical protein
+995690..997777	-	695	76789587	pnp	CTA_0918	-	COG1185J	polynucleotide phosphorylase
+997806..998075	-	89	76789588	rpsO	CTA_0919	-	COG0184J	30S ribosomal protein S15
+998301..998792	+	163	76789589	yfhC	CTA_0920	-	COG0590FJ	tRNA-specific adenosine deaminase
+998824..999042	+	72	76789590	-	CTA_0921	-	-	hypothetical protein
+999014..999718	-	234	76789591	-	CTA_0922	-	-	hypothetical protein
+999853..1000371	-	172	76789592	-	CTA_0923	-	-	hypothetical protein
+1000387..1000893	-	168	76789593	-	CTA_0924	-	-	hypothetical protein
+1000921..1001400	-	159	76789594	-	CTA_0925	-	-	hypothetical protein
+1001719..1001907	+	62	76789595	-	CTA_0926	-	-	hypothetical protein
+1001926..1003143	+	405	76789596	-	CTA_0927	-	COG1196D	hypothetical protein
+1003100..1003975	-	291	76789597	map	CTA_0928	-	COG0024J	methionine aminopeptidase
+1004033..1004647	-	204	76789598	yghN	CTA_0929	-	COG2095U	hypothetical protein
+1004665..1005264	-	199	76789599	-	CTA_0930	-	COG2095U	hypothetical protein
+1005459..1007228	-	589	76789600	-	CTA_0931	-	COG0600P	ABC transporter permease
+1007281..1008672	+	463	76789601	fumC	CTA_0932	-	COG0114C	fumarate hydratase
+1008753..1010456	-	567	76789602	ychM	CTA_0933	-	COG0659P	sulfate transporter
+1010644..1010973	-	109	76789603	-	CTA_0934	-	-	hypothetical protein
+1011087..1012352	+	421	76789604	-	CTA_0935	-	COG1055P	Na+/H+ antiporter
+1012466..1014271	+	601	76789605	cpa	CTA_0936	-	COG0793M	periplasmic protease
+1014366..1015289	+	307	76789606	ispH	CTA_0937	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1015341..1016822	-	493	76789607	-	CTA_0938	-	-	hypothetical protein
+1016834..1018354	-	506	76789608	-	CTA_0939	-	COG2814G	hypothetical protein
+1018381..1018977	-	198	76789609	lcrH_2	CTA_0940	-	COG5010U	type III secretion chaperone
+1018899..1020347	-	482	76789610	-	CTA_0941	-	-	hypothetical protein
+1020906..1021211	+	101	76789611	-	CTA_0943	-	-	hypothetical protein
+1021208..1022110	-	300	76789612	xerD	CTA_0944	-	COG4974L	site-specific tyrosine recombinase XerD
+1022359..1023348	+	329	76789613	-	CTA_0945	-	-	hypothetical protein
+1023363..1025579	+	738	76789614	glgB	CTA_0946	-	COG0296G	glycogen branching enzyme
+1025590..1026609	-	339	76789615	-	CTA_0947	-	-	hypothetical protein
+1026820..1028076	-	418	76789616	-	CTA_0948	-	COG5160O	hypothetical protein
+1028254..1031142	-	962	76789617	pmpE	CTA_0949	-	-	hypothetical protein
+1031145..1034249	-	1034	76789618	pmpF	CTA_0950	-	-	hypothetical protein
+1034416..1037457	+	1013	76789619	pmpG	CTA_0951	-	-	hypothetical protein
+1037488..1040544	+	1018	76789620	pmpH	CTA_0952	-	-	hypothetical protein
+1040959..1041453	+	164	76789621	-	CTA_0953	-	-	hypothetical protein
+1041549..1044185	-	878	76789622	pmpI	CTA_0954	-	-	hypothetical protein

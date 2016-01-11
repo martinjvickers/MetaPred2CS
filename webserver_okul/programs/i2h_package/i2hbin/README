@@ -1,0 +1,87 @@
+
+                                  I2H & MIRRORTREE
+
+                                    F. Pazos 2001
+
+                                   v2.1 Linux c 3
+
+                                       -- O --
+
+
+
+The starting point for these programs are the multiple sequence alignments of the 
+individual proteins in PIR format.
+
+The names of the proteins in the PIR files should be in a swisprot-like format:
+>P1;xxxxx_<species-identifier>
+For example:
+>P1;PSBP_HOMO
+>P1;HBB_especies1
+>P1;hba_org2
+The species identifier should be the same in all the PIR files since it is used to match
+sequences from the same species.
+
+* Make a symbolic link of the "i2hbin_XXX" directory to the directory where you 
+are going to work with the name "i2hbin". XXX is the architecture (Sun, SGI, Linux, ...).
+For example:
+ln -s /programs/i2h/i2hbin_SGI ~/working/i2hbin
+   
+* There are two main scripts for running the system:
+
+1) i2hbin/alnpirs2corr.sh   prot1.pir  prot2.pir   min_matches  max_matches   (corr||rankorr)   matrix  results_file(append)
+This script runs the pair of proteins whose alignments are in  "prot1.pir" and "prot2.pir". 
+"min_matches" and "max_matches" are the minimum and maximum number of common species between the
+two proteins required to run that pair. In general, don´t use min_matches<11.
+The 5th argument specifies the type of correlation calculation used ("rankorr" is computationally
+more expensive).
+"matrix" is the residue homology matrix used for the calculations. There are two matrices included
+with the program: "i2hbin/Maxhom_McLachlan.metric" and "i2hbin/Maxhom_GCG.metric".
+Finally, the last argument is the name of the file where the final results will be stored. The
+results will be append to the file (it will not be overwritten).
+
+2) i2hbin/generatepairnames  file(list_of_pirfiles)  program_to_run_pair   (system|stdout)  [rest of arguments ...]
+This program is just a front-end to the previous one.
+It takes as second argument a file containing the list of PIR files (1 per line). Then, it generates 
+all possible pairs among these PIR files and build the command line described in "1)" for all 
+those pairs. Depending on the 3rd argument (system|stdout), these command lines generated can 
+be executed or printed to the screen (stdout). With this last option you can generate a script 
+file with the command lines for running all the pairs and then execute it latter, split it to 
+run in different machines, etc.
+The first argument "program_to_run_pair" is generally "i2hbin/alnpirs2corr.sh", described in "1)"
+The last arguments of the command line "[rest of arguments ...]" are the arguments passed to
+the program which runs the pairs (except "prot1.pir  prot2.pir"). That is 
+"min_matches  max_matches   (corr||rankorr)   matrix  results_file(append)"
+
+* The file with the results will contain the list of pairs and four values for each pair, the
+"interaction index" value from i2h, the "mirrortree" value, the sequence identity between the two 
+proteins (%/100) and the number of sequences of common species used to make the
+calculations.
+
+=========================================================================================================
+
+We are very interested to know of any result (good, bad, interesting) that you obtain with these
+programs. That would help us to improve them. We would appreciate if you can comment us on those 
+results. Send your comments, questions, problems with the program, etc. 
+to: pazos@gcnb.csic.es
+
+Please, cite the following articles when reporting any data obtained with these programs:
+
+I2H:
+Florencio Pazos & Alfonso Valencia (2002).
+In silico two-hybrid system for the selection of physically interacting protein pairs.
+Proteins. 47(2): 219-227.
+
+MirrorTree:
+Florencio Pazos & Alfonso Valencia (2001).
+Similarity of phylogenetic trees as indicator of protein-protein interaction.
+Protein Eng. 14(9):609-614. 
+
+General:
+Alfonso Valencia & Florencio Pazos (2002).
+Computational Methods for the Prediction of Protein Interactions.
+Curr Op Str Biol. 12(3):368-373.
+
+===========================================================================================================
+
+Florencio Pazos
+pazos@cnb.csic.es

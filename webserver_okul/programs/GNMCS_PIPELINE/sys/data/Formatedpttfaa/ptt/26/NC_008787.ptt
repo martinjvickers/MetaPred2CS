@@ -1,0 +1,1656 @@
+Campylobacter jejuni subsp. jejuni 81-176 chromosome, complete genome - 1..1616554
+1653 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1323	+	440	121612751	dnaA	CJJ81176_0027	-	COG0593L	chromosomal replication initiation protein
+1483..2550	+	355	121612492	dnaN	CJJ81176_0028	-	COG0592L	DNA polymerase III subunit beta
+2579..4888	+	769	121612557	gyrB	CJJ81176_0029	-	COG0187L	DNA gyrase subunit B
+4914..5255	-	113	121612266	-	CJJ81176_0030	-	-	hypothetical protein
+5258..6496	-	412	121613203	-	CJJ81176_0031	-	COG2041R	molybdopterin oxidoreductase family protein
+6707..8008	+	433	121612732	-	CJJ81176_0032	-	COG2056R	Na+/H+ antiporter family protein
+8142..12629	+	1495	121613706	gltB	CJJ81176_0033	-	COG0069E	glutamate synthase, large subunit
+12649..14370	+	573	121612537	-	CJJ81176_0034	-	-	hypothetical protein
+14381..15826	+	481	121613542	gltD	CJJ81176_0035	-	COG0493ER	glutamate synthase subunit beta
+15827..16402	-	191	121612583	rnhB	CJJ81176_0036	-	COG0164L	ribonuclease HII
+16435..16674	-	79	121613207	comEA	CJJ81176_0037	-	COG1555L	competence protein ComEA
+16739..17290	-	183	121612692	rbr	CJJ81176_0038	-	COG1592C	rubrerythrin
+17546..19222	+	558	121613697	ilvD	CJJ81176_0039	-	COG0129EG	dihydroxy-acid dehydratase
+19234..19383	-	49	121612806	-	CJJ81176_0040	-	COG3477S	inner membrane protein YagU
+19349..19630	-	93	121612314	-	CJJ81176_0041	-	COG3477S	membrane protein, putative, degenerate
+19722..20948	-	408	121613008	-	CJJ81176_0042	-	COG4940U	hypothetical protein
+21025..21699	+	224	121612477	-	CJJ81176_0043	-	COG0603R	exsB protein
+21720..23246	-	508	121613521	-	CJJ81176_0044	-	COG1495O	DsbB family disulfide bond formation protein
+23258..23425	-	55	121613284	-	CJJ81176_0045	-	-	hypothetical protein
+23531..25285	-	584	121612100	-	CJJ81176_0046	-	COG0840NT	methyl-accepting chemotaxis protein
+25299..26213	-	304	121612556	ccpA-1	CJJ81176_0047	-	COG1858P	cytochrome c551 peroxidase
+26277..27155	-	292	121612391	-	CJJ81176_0048	-	COG0179Q	fumarylacetoacetate hydrolase family protein
+27267..28169	-	300	121613293	-	CJJ81176_0049	-	COG0564J	RNA pseudouridine synthase family protein
+28247..29575	+	442	121612216	purB-1	CJJ81176_0050	-	COG0015F	adenylosuccinate lyase
+29591..31960	+	789	121613048	nrdA	CJJ81176_0051	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+31999..33384	-	461	121612756	-	CJJ81176_0052	-	COG1823R	sodium/dicarboxylate symporter
+33504..34127	-	207	121613393	thyX	CJJ81176_0053	-	COG1351F	FAD-dependent thymidylate synthase
+34247..35878	+	543	121612860	pyrG	CJJ81176_0054	-	COG0504F	CTP synthetase
+35865..37436	+	523	121612339	recJ	CJJ81176_0055	-	COG0608L	single-stranded-DNA-specific exonuclease RecJ
+37522..38568	+	348	121612621	ansA	CJJ81176_0056	-	COG0252EJ	L-asparaginase
+44542..44694	-	50	121613586	-	CJJ81176_0061	-	-	hypothetical protein
+45264..47234	+	656	121612652	-	CJJ81176_0063	-	-	hypothetical protein
+47275..49344	+	689	121612148	-	CJJ81176_0064	-	COG2864C	cytochrome c family protein
+49388..49972	+	194	121612852	-	CJJ81176_0065	-	COG2143O	hypothetical protein
+49965..52670	+	901	121612515	-	CJJ81176_0066	-	COG0755O	cytochrome c biogenesis protein
+52705..54375	-	556	121613257	ggt	CJJ81176_0067	-	COG0405E	gamma-glutamyltransferase
+54605..58339	+	1244	121612693	-	CJJ81176_0068	-	COG1002V	type II restriction-modification enzyme
+58339..59223	+	294	121613607	-	CJJ81176_0069	-	-	hypothetical protein
+59461..60903	+	480	121612434	-	CJJ81176_0070	-	COG0744M	transglycosylase domain-containing protein
+61018..62559	+	513	121613387	-	CJJ81176_0071	-	-	putative integral membrane protein
+62588..63289	-	233	121612271	-	CJJ81176_0072	-	COG2859S	hypothetical protein
+63276..64487	-	403	121613225	-	CJJ81176_0073	-	COG2814G	Bcr/CflA subfamily drug resistance transporter
+64590..65939	+	449	121612999	-	CJJ81176_0074	-	COG4487S	hypothetical protein
+65963..67006	-	347	121612292	-	CJJ81176_0075	-	COG3258C	cytochrome c family protein
+67184..67831	-	215	121613635	-	CJJ81176_0076	-	-	hypothetical protein
+67831..69639	-	602	121612682	typA	CJJ81176_0077	-	COG1217T	GTP-binding protein TypA
+69774..70097	+	107	121612574	-	CJJ81176_0078	-	-	hypothetical protein
+70117..71946	+	609	121612481	-	CJJ81176_0079	-	-	hypothetical protein
+72000..72884	+	294	121613172	flgD	CJJ81176_0080	-	COG1843N	flagellar basal body rod modification protein
+72888..74525	+	545	121612241	flgE-1	CJJ81176_0081	-	COG1749N	flagellar hook protein
+74529..76397	-	622	121612936	-	CJJ81176_0082	-	-	hypothetical protein
+76682..77116	-	144	121613643	-	CJJ81176_0083	-	COG2703P	hypothetical protein
+77645..77764	+	39	121612159	-	CJJ81176_0084	-	-	hypothetical protein
+77987..78322	+	111	121613331	-	CJJ81176_0085	-	COG0471P	anion transporter
+78274..78453	+	59	121612408	-	CJJ81176_0086	-	-	anion transporter
+78413..78604	+	63	121613497	-	CJJ81176_0087	-	-	2-oxoglutarate/malate translocator
+78615..78782	+	55	121612875	-	CJJ81176_0088	-	-	anion transporter
+78801..79151	+	116	121613645	-	CJJ81176_0089	-	COG0471P	2-oxoglutarate/malate translocator
+79179..80195	-	338	121613044	mnmA	CJJ81176_0090	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+80195..80800	-	201	121612195	-	CJJ81176_0091	-	COG1611R	lysine decarboxylase family protein
+80921..81709	-	262	121613153	-	CJJ81176_0092	-	-	hypothetical protein
+81723..82316	-	197	121612458	-	CJJ81176_0093	-	-	hypothetical protein
+82860..83504	+	214	121613168	-	CJJ81176_0094	-	-	HmcD domain-containing protein
+83489..83692	+	67	121612336	-	CJJ81176_0095	-	COG3271R	peptidase family protein
+83698..84087	+	129	121613047	-	CJJ81176_0096	-	COG3271R	peptidase family protein
+84136..84957	-	273	121612924	fliY	CJJ81176_0097	-	COG1776NT	flagellar motor switch protein FliY
+84975..86054	-	359	121613064	fliM	CJJ81176_0098	-	COG1868N	flagellar motor switch protein FliM
+86054..86746	-	230	121612660	fliA	CJJ81176_0099	-	COG1191K	flagellar biosynthesis sigma factor
+86727..87083	-	118	121613389	-	CJJ81176_0100	-	-	hypothetical protein
+87102..87968	-	288	121613262	-	CJJ81176_0101	-	COG0455D	ParaA family ATPase
+87961..89415	-	484	121613495	flhF	CJJ81176_0102	-	COG1419N	flagellar biosynthesis regulator FlhF
+89425..89898	-	157	121612539	folK	CJJ81176_0103	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+89901..90380	-	159	121612990	aroQ	CJJ81176_0104	-	COG0757E	3-dehydroquinate dehydratase
+90471..91700	+	409	121612374	-	CJJ81176_0105	-	COG0402FR	chlorohydrolase
+91688..92584	+	298	121613641	sppA	CJJ81176_0106	-	COG0616OU	signal peptide peptidase SppA, 36K type
+92663..93694	+	343	121612896	-	CJJ81176_0107	-	COG0189HJ	hypothetical protein
+93707..93829	+	40	121612413	-	CJJ81176_1709	-	-	hypothetical protein
+93936..94052	-	38	121613131	-	CJJ81176_0108	-	-	hemerythrin family non-heme iron protein
+94262..94558	-	98	121612681	-	CJJ81176_0109	-	COG2703P	hypothetical protein
+94731..95387	-	218	121613178	-	CJJ81176_0110	-	COG1556S	hypothetical protein
+95380..96819	-	479	121612415	-	CJJ81176_0111	-	COG1139C	iron-sulfur cluster binding protein
+96816..97556	-	246	121612704	-	CJJ81176_0112	-	COG0247C	hypothetical protein
+97679..99361	-	560	121612542	lctP	CJJ81176_0113	-	COG1620C	L-lactate permease
+99533..100102	-	189	121613490	cdtC	CJJ81176_0114	-	-	cytolethal distending toxin, subunit C
+100113..100910	-	265	121612768	cdtB	CJJ81176_0115	-	-	cytolethal distending toxin, subunit B
+100907..101713	-	268	121613564	cdtA	CJJ81176_0116	-	-	cytolethal distending toxin, subunit A
+101790..102059	+	89	121613710	-	CJJ81176_0117	-	-	hypothetical protein
+102060..103622	+	520	121612182	cydA	CJJ81176_0118	-	COG1271C	cytochrome d ubiquinol oxidase, subunit I
+103622..104746	+	374	121613219	cydB	CJJ81176_0119	-	COG1294C	cytochrome d ubiquinol oxidase, subunit II
+104940..105635	-	231	121612261	-	CJJ81176_0120	-	COG1794M	aspartate racemase, putative
+105755..106450	-	231	121612589	ung	CJJ81176_0121	-	COG0692L	uracil-DNA glycosylase
+106721..108127	+	468	121613732	aspA	CJJ81176_0122	-	COG1027E	aspartate ammonia-lyase
+108153..109481	+	442	121612684	dcuA	CJJ81176_0123	-	COG2704R	anaerobic C4-dicarboxylate transporter
+109589..110950	+	453	121613226	-	CJJ81176_0124	-	COG3014S	putative lipoprotein
+110960..111328	+	122	121613232	-	CJJ81176_0125	-	-	putative lipoprotein
+111352..111975	+	207	121613530	-	CJJ81176_0126	-	COG3417R	putative lipoprotein
+112057..113394	+	445	121613576	-	CJJ81176_0127	-	-	hypothetical protein
+113404..114606	+	400	121612858	-	CJJ81176_0128	-	COG1462M	hypothetical protein
+114765..115073	+	102	121612829	rplU	CJJ81176_0129	-	COG0261J	50S ribosomal protein L21
+115084..115338	+	84	121613378	rpmA	CJJ81176_0130	-	COG0211J	50S ribosomal protein L27
+115444..116514	+	356	121613578	obgE	CJJ81176_0131	-	COG0536R	GTPase ObgE
+116566..117357	+	263	121612918	proB	CJJ81176_0132	-	COG0263E	gamma-glutamyl kinase
+117431..118348	+	305	121612514	fmt	CJJ81176_0133	-	COG0223J	methionyl-tRNA formyltransferase
+118311..118964	+	217	121613004	-	CJJ81176_0134	-	COG0340H	biotin--protein ligase
+118961..119746	+	261	121613358	-	CJJ81176_0135	-	COG1192D	ParA family chromosome partitioning ATPase
+119752..120588	+	278	121612620	-	CJJ81176_0136	-	COG1475K	ParB family chromosome partitioning protein
+120649..121074	+	141	121612882	-	CJJ81176_0137	-	COG0711C	F0F1 ATP synthase subunit B'
+121085..121597	+	170	121613745	-	CJJ81176_0138	-	COG0711C	F0F1 ATP synthase subunit B
+121600..122121	+	173	121612819	atpH	CJJ81176_0139	-	COG0712C	F0F1 ATP synthase subunit delta
+122135..123640	+	501	121612946	atpA	CJJ81176_0140	-	COG0056C	F0F1 ATP synthase subunit alpha
+123649..124533	+	294	121612327	atpG	CJJ81176_0141	-	COG0224C	F0F1 ATP synthase subunit gamma
+124558..125955	+	465	121613266	atpD	CJJ81176_0142	-	COG0055C	F0F1 ATP synthase subunit beta
+125959..126348	+	129	121613437	atpC	CJJ81176_0143	-	COG0355C	F0F1 ATP synthase subunit epsilon
+126348..126902	+	184	121612706	-	CJJ81176_0144	-	COG0811U	MotA/TolQ/ExbB proton channel family protein
+126911..127300	+	129	121613398	-	CJJ81176_0145	-	COG0848U	TonB system transport protein ExbD, putative
+127303..128082	+	259	121612657	-	CJJ81176_0146	-	-	TonB domain-containing protein
+128092..129300	+	402	121613592	tolB	CJJ81176_0147	-	COG0823U	translocation protein TolB
+129377..129874	+	165	121612869	-	CJJ81176_0148	-	COG2885M	peptidoglycan-associated lipoprotein Omp18
+129878..130825	+	315	121613259	-	CJJ81176_0149	-	COG1729S	hypothetical protein
+130840..131415	+	191	121613510	slyD	CJJ81176_0150	-	COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+131415..132335	+	306	121612470	fabD	CJJ81176_0151	-	COG0331I	malonyl CoA-acyl carrier protein transacylase
+132335..133021	+	228	121613059	mtnA	CJJ81176_0152	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+133018..133773	+	251	121612303	-	CJJ81176_0153	-	COG0037D	PP-loop family protein
+133778..134299	+	173	121613052	-	CJJ81176_0154	-	COG1335Q	pyrazinamidase/nicotinamidase, putative
+134299..134913	+	204	121612920	-	CJJ81176_0155	-	-	putative recombination protein RecO
+134910..135314	+	134	121613427	-	CJJ81176_0156	-	COG0319R	putative metalloprotease
+135405..136658	+	417	121612405	-	CJJ81176_0157	-	-	hypothetical protein
+136655..137572	-	305	121612695	dusB	CJJ81176_0158	-	COG0042J	tRNA-dihydrouridine synthase B
+137569..138429	-	286	121613318	-	CJJ81176_0159	-	-	hypothetical protein
+138545..138907	-	120	121612516	-	CJJ81176_0160	-	COG1734T	dnaK suppressor protein, putative
+138919..139368	-	149	121613444	-	CJJ81176_0161	-	COG1576S	hypothetical protein
+139370..140212	-	280	121612636	accD	CJJ81176_0162	-	COG0777I	acetyl-CoA carboxylase subunit beta
+140221..140943	-	240	121613474	-	CJJ81176_0163	-	COG0483G	inositol monophosphatase family protein
+140943..143162	-	739	121612878	-	CJJ81176_0164	-	COG4775M	OMP85 family outer membrane protein
+143239..144066	+	275	121613622	tyrA	CJJ81176_0165	-	COG0287E	prephenate dehydrogenase
+144146..145519	+	457	121612903	-	CJJ81176_0166	-	COG0739M	M24/M37 family peptidase
+145519..146403	+	294	121612939	lpxC	CJJ81176_0167	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+146442..146843	+	133	121612260	-	CJJ81176_0168	-	COG1214O	hypothetical protein
+146852..147730	+	292	121613224	thrB	CJJ81176_0169	-	COG0083E	homoserine kinase
+147755..148012	+	85	121613401	-	CJJ81176_0170	-	COG2740K	hypothetical protein
+147999..150614	+	871	121613218	infB	CJJ81176_0171	-	COG0532J	translation initiation factor IF-2
+150611..150973	+	120	121612306	rbfA	CJJ81176_0172	-	COG0858J	ribosome-binding factor A
+150963..151385	+	140	121613126	-	CJJ81176_0173	-	COG0779S	hypothetical protein
+151590..153401	+	603	121612502	-	CJJ81176_0174	-	COG1401V	McrBC restriction endonuclease system, McrB subunit, putative
+153401..153880	+	159	121613733	-	CJJ81176_0175	-	COG4268V	hypothetical protein
+153871..154737	+	288	121613370	-	CJJ81176_0176	-	COG4268V	hypothetical protein
+154726..155529	-	267	121612280	-	CJJ81176_0177	-	COG1108P	cation ABC transporter, permease protein
+155522..156376	-	284	121612843	-	CJJ81176_0178	-	COG1121P	cation ABC transporter, ATP-binding protein
+156389..157279	-	296	121612478	-	CJJ81176_0179	-	COG0803P	cation ABC transporter, periplasmic cation-binding protein
+157478..159457	+	659	121613238	-	CJJ81176_0180	-	COG0840NT	methyl-accepting chemotaxis protein
+159592..161373	+	593	121612931	-	CJJ81176_0181	-	COG3211R	hypothetical protein
+161411..162349	-	312	121613636	trxB	CJJ81176_0182	-	COG0492O	thioredoxin-disulfide reductase
+162483..162797	-	104	121612861	trx	CJJ81176_0183	-	COG3118O	thioredoxin
+162854..163192	-	112	121612956	-	CJJ81176_0184	-	COG0792L	hypothetical protein
+163192..164439	-	415	121612210	hom	CJJ81176_0185	-	COG0460E	homoserine dehydrogenase
+164443..165645	-	400	121613169	-	CJJ81176_0186	-	COG0436E	aspartate aminotransferase
+165657..166463	-	268	121612426	-	CJJ81176_0187	-	-	hypothetical protein
+166457..167395	-	312	121612535	-	CJJ81176_0188	-	-	hypothetical protein
+167388..168071	-	227	121613667	-	CJJ81176_0189	-	COG0566J	RNA methyltransferase
+168085..168909	-	274	121612798	-	CJJ81176_0190	-	COG0313R	tetrapyrrole methylase family protein
+168912..169112	-	66	121612224	rpmE	CJJ81176_0191	-	COG0254J	50S ribosomal protein L31
+169191..169847	-	218	121613031	-	CJJ81176_0192	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+169849..170256	-	135	121612841	-	CJJ81176_0193	-	-	hypothetical protein
+170256..170681	-	141	121612824	-	CJJ81176_0194	-	COG2863C	cytochrome c family protein
+170681..171262	-	193	121612162	-	CJJ81176_0195	-	COG0720H	6-pyruvoyl tetrahydrobiopterin synthase-like protein
+171259..172002	-	247	121613080	-	CJJ81176_0196	-	COG0602O	radical SAM domain-containing protein
+172005..172967	-	320	121612497	moaA	CJJ81176_0197	-	COG2896H	molybdenum cofactor biosynthesis protein A
+172980..173495	-	171	121612438	-	CJJ81176_0198	-	-	hypothetical protein
+173492..173692	-	66	121613443	-	CJJ81176_0199	-	-	hypothetical protein
+173980..174864	-	294	121612687	ubiA	CJJ81176_0200	-	COG0382H	prenyltransferase
+174935..175804	+	289	121613065	miaA	CJJ81176_0201	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+175790..176353	-	187	121612473	-	CJJ81176_0202	-	COG1971S	hypothetical protein
+176711..176893	-	60	121612377	-	CJJ81176_0204	-	-	hypothetical protein
+177161..177823	+	220	121612707	sodB	CJJ81176_0205	-	COG0605P	superoxide dismutase, Fe
+177892..178110	+	72	121613451	-	CJJ81176_0206	-	-	hypothetical protein
+178220..178582	+	120	121613605	-	CJJ81176_0207	-	-	hypothetical protein
+178595..179800	-	401	121612631	-	CJJ81176_0208	-	COG1748E	saccharopine dehydrogenase
+179842..180750	-	302	121613129	-	CJJ81176_0209	-	COG3842E	iron ABC transporter, ATP binding subunit
+180734..182350	-	538	121612175	-	CJJ81176_0210	-	COG1178P	iron ABC transporter, permease protein
+182350..183354	-	334	121612406	-	CJJ81176_0211	-	COG1840P	iron ABC transporter, periplasmic iron-binding protein
+183365..183481	-	38	121612367	-	CJJ81176_0212	-	-	hypothetical protein
+183674..184873	+	399	121613512	-	CJJ81176_0213	-	COG1133I	putative transporter
+185044..186330	+	428	121612599	-	CJJ81176_0214	-	COG1253R	transporter, putative
+186343..187527	-	394	121613728	-	CJJ81176_0215	-	COG4639R	Ser/Thr protein phosphatase family protein
+187537..187746	-	69	121613234	-	CJJ81176_0216	-	COG2824P	PhnA domain-containing protein
+187739..188458	-	239	121613682	-	CJJ81176_0217	-	COG0861P	TerC family integral membrane protein
+188530..189096	-	188	121612961	purN	CJJ81176_0218	-	COG0299F	phosphoribosylglycinamide formyltransferase
+189087..190457	-	456	121612474	-	CJJ81176_0219	-	COG0063G	hypothetical protein
+190441..191139	-	232	121612716	-	CJJ81176_0220	-	COG1432S	hypothetical protein
+191141..192646	-	501	121612380	-	CJJ81176_0221	-	COG0606O	Mg chelatase-related protein
+192643..193170	-	175	121612384	def	CJJ81176_0222	-	COG0242J	peptide deformylase
+193206..193790	-	194	121612255	clpP	CJJ81176_0223	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+193790..195124	-	444	121612935	tig	CJJ81176_0224	-	COG0544O	trigger factor
+195268..195840	+	190	121612522	folE	CJJ81176_0225	-	COG0302H	GTP cyclohydrolase I
+195840..197225	+	461	121613240	fliI	CJJ81176_0226	-	COG1157NU	flagellum-specific ATP synthase
+197228..198565	-	445	121613314	purF	CJJ81176_0227	-	COG0034F	amidophosphoribosyltransferase
+198567..199295	-	242	121612567	dapB	CJJ81176_0228	-	COG0289E	dihydrodipicolinate reductase
+199358..200539	-	393	121613547	-	CJJ81176_0229	-	COG2256L	recombination factor protein RarA
+200539..201666	-	375	121612793	-	CJJ81176_0230	-	-	hypothetical protein
+201801..202148	-	115	121612608	-	CJJ81176_0231	-	-	hypothetical protein
+202247..202852	-	201	121613535	-	CJJ81176_0232	-	-	hypothetical protein
+202803..203030	-	75	121612580	-	CJJ81176_0233	-	-	hypothetical protein
+203008..203145	-	45	121613321	-	CJJ81176_0234	-	-	hypothetical protein
+203388..204734	+	448	121612409	-	CJJ81176_0235	-	COG2851C	citrate transporter, authentic frameshift
+204920..206914	+	664	121613125	-	CJJ81176_0236	-	COG1297S	OPT family oligopeptide transporter
+206988..207791	+	267	121612212	-	CJJ81176_0237	-	COG1968V	undecaprenol kinase, putative
+207922..209730	+	602	121612820	thrS	CJJ81176_0238	-	COG0441J	threonyl-tRNA synthetase
+209727..210245	+	172	121612832	infC	CJJ81176_0239	-	COG0290J	translation initiation factor IF-3
+210284..211375	+	363	121613412	-	CJJ81176_0240	-	COG3392L	D12 class N6 adenine-specific DNA methyltransferase
+211605..211730	+	41	121612618	-	CJJ81176_0241	-	-	hypothetical protein
+211850..212296	+	148	121612683	-	CJJ81176_0242	-	-	hypothetical protein
+212460..212690	+	76	121613385	-	CJJ81176_0243	-	-	hypothetical protein
+212753..213331	+	192	121612616	-	CJJ81176_0244	-	-	hypothetical protein
+213489..213752	+	87	121613660	-	CJJ81176_0245	-	-	hypothetical protein
+213727..213885	+	52	121612881	-	CJJ81176_0246	-	-	pathogenicity domain-containing protein
+214455..214622	+	55	121612985	-	CJJ81176_0247	-	-	hypothetical protein
+214736..214867	+	43	121612279	-	CJJ81176_0248	-	-	pathogenicity protein, putative, truncation
+214948..215976	+	342	121612610	argC	CJJ81176_0249	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+215985..216431	+	148	121612506	-	CJJ81176_0250	-	COG0456R	acetyltransferase
+216441..217280	+	279	121612848	argB	CJJ81176_0251	-	COG0548E	acetylglutamate kinase
+217290..218471	+	393	121613570	argD	CJJ81176_0252	-	COG4992E	acetylornithine aminotransferase
+218491..219120	-	209	121613075	pcm	CJJ81176_0253	-	COG2518O	protein-L-isoaspartate O-methyltransferase
+219209..219757	+	182	121612504	-	CJJ81176_0254	-	COG0663R	hexapaptide repeat-containing transferase
+219726..221096	-	456	121612146	-	CJJ81176_0255	-	COG1488H	nicotinate phosphoribosyltransferase
+221086..222108	-	340	121613260	nrdF	CJJ81176_0256	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+222122..222532	-	136	121612624	-	CJJ81176_0257	-	COG1714S	hypothetical protein
+222533..223141	-	202	121613361	pyrE	CJJ81176_0258	-	COG0461F	orotate phosphoribosyltransferase
+223144..223701	-	185	121612237	frr	CJJ81176_0259	-	COG0233J	ribosome recycling factor
+223717..224088	-	123	121613335	secG	CJJ81176_0260	-	COG1314U	preprotein translocase subunit SecG
+224192..224887	-	231	121612142	-	CJJ81176_0261	-	COG0670R	hypothetical protein
+225047..225682	+	211	121613517	cynT	CJJ81176_0262	-	COG0288P	carbonic anhydrase
+225679..227562	+	627	121613243	-	CJJ81176_0263	-	COG0668M	mechanosensitive ion channel family protein
+227587..228558	-	323	121613377	-	CJJ81176_0264	-	COG0822C	NifU family protein
+228568..229749	-	393	121612995	-	CJJ81176_0265	-	COG1104E	cysteine desulfurase, putative
+229927..230328	-	133	121612294	-	CJJ81176_0266	-	COG2703P	hypothetical protein
+230465..231631	-	388	121612787	-	CJJ81176_0267	-	-	hypothetical protein
+231702..231830	-	42	121613715	-	CJJ81176_0268	-	-	hypothetical protein
+231787..231978	+	63	121612551	rpmI	CJJ81176_0269	-	COG0291J	50S ribosomal protein L35
+232072..232425	+	117	121613523	rplT	CJJ81176_0270	-	COG0292J	50S ribosomal protein L20
+232477..232731	-	84	121613161	-	CJJ81176_0271	-	-	MCP-domain-containing signal transduction protein
+233117..233290	-	57	121613110	-	CJJ81176_0272	-	-	MCP-domain-containing signal transduction protein
+233407..233778	-	123	121612190	-	CJJ81176_0273	-	-	MCP-domain-containing signal transduction protein
+233783..234454	-	223	121612778	-	CJJ81176_0274	-	-	hypothetical protein
+234632..235489	+	285	121612647	-	CJJ81176_0275	-	COG1639T	hypothetical protein
+235520..235996	+	158	121612460	-	CJJ81176_0276	-	-	hypothetical protein
+235965..237275	-	436	121613388	-	CJJ81176_0277	-	COG2814G	major facilitator superfamily protein
+237278..237433	-	51	121613188	-	CJJ81176_0278	-	-	hypothetical protein
+237526..237999	+	157	121613195	moaC	CJJ81176_0279	-	COG0315H	molybdenum cofactor biosynthesis protein MoaC
+237977..238240	+	87	121612313	-	CJJ81176_0280	-	-	hypothetical protein
+238254..239390	+	378	121613015	-	CJJ81176_0281	-	-	hypothetical protein
+239410..240189	-	259	121613613	xth	CJJ81176_0282	-	COG0708L	exodeoxyribonuclease III
+240286..241824	+	512	121612927	-	CJJ81176_0283	-	COG2194R	sulfatase, putative
+241821..242177	+	118	121613560	dgkA	CJJ81176_0284	-	COG0818M	diacylglycerol kinase
+242174..242419	+	81	121612846	-	CJJ81176_0285	-	-	hypothetical protein
+242409..243416	+	335	121613442	pyrC	CJJ81176_0286	-	COG0418F	dihydroorotase
+243441..243662	-	73	121612628	-	CJJ81176_0287	-	-	hypothetical protein
+243718..244437	-	239	121612352	-	CJJ81176_0288	-	COG2226H	hypothetical protein
+244517..246514	-	665	121613277	-	CJJ81176_0289	-	COG0840NT	methyl-accepting chemotaxis protein
+246707..247582	+	291	121612422	-	CJJ81176_0290	-	COG0428P	zinc transporter ZupT
+247606..250122	-	838	121613119	-	CJJ81176_0291	-	COG0243C	biotin sulfoxide reductase
+250133..250708	-	191	121612740	-	CJJ81176_0292	-	COG3005C	putative cytochrome C-type haem-binding periplasmic protein
+251189..251698	-	169	121613656	-	CJJ81176_0293	-	-	hypothetical protein
+251698..252207	-	169	121612316	-	CJJ81176_0294	-	-	hypothetical protein
+252241..253329	-	362	121613302	-	CJJ81176_0295	-	COG0330O	SPFH domain-containing protein
+253342..254256	-	304	121613303	ilvE	CJJ81176_0296	-	COG0115EH	branched-chain amino acid aminotransferase
+254432..254638	+	68	121612329	-	CJJ81176_0297	-	COG1942R	4-oxalocrotonate tautomerase family protein
+254635..255090	+	151	121612655	-	CJJ81176_0298	-	COG1225O	anti-oxidant AhpCTSA family protein
+255090..256181	+	363	121613430	-	CJJ81176_0299	-	COG1636S	hypothetical protein
+256276..256716	+	146	121613704	fabZ	CJJ81176_0300	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+256716..257507	+	263	121612189	lpxA	CJJ81176_0301	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+257500..258723	+	407	121613694	clpX	CJJ81176_0302	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+258734..259774	+	346	121612694	mreB	CJJ81176_0303	-	COG1077D	rod shape-determining protein MreB
+259803..260513	+	236	121613456	-	CJJ81176_0304	-	COG1792M	rod shape-determining protein MreC
+260774..264043	+	1089	121612525	carB	CJJ81176_0305	-	COG0458EF	carbamoyl phosphate synthase large subunit
+264040..264462	+	140	121613686	-	CJJ81176_0306	-	COG0009J	hypothetical protein
+264463..265440	-	325	121612805	tal	CJJ81176_0307	-	COG0176G	transaldolase
+265440..266063	-	207	121613049	serB	CJJ81176_0308	-	COG0560E	phosphoserine phosphatase SerB
+266063..266584	-	173	121612156	cheW	CJJ81176_0309	-	COG0835NT	purine-binding chemotaxis protein CheW
+266589..268898	-	769	121613274	cheA	CJJ81176_0310	-	COG0643NT	chemotaxis protein CheA
+268902..269858	-	318	121612376	cheV	CJJ81176_0311	-	COG0835NT	chemotaxis protein CheV
+269851..270486	-	211	121613574	-	CJJ81176_0312	-	COG2908S	hypothetical protein
+270619..271104	-	161	121612714	greA	CJJ81176_0313	-	COG0782K	transcription elongation factor GreA
+271116..272210	-	364	121612105	lpxB	CJJ81176_0314	-	COG0763M	ipid-A-disaccharide synthase
+272307..273059	-	250	121613001	-	CJJ81176_0315	-	COG4588R	major antigenic peptide PEB3
+273323..274219	-	298	121612520	-	CJJ81176_0316	-	COG2271G	glycerol-3-phosphate transporter, authentic frameshift
+274474..275250	+	258	121613215	surE	CJJ81176_0317	-	COG0496R	stationary phase survival protein SurE
+275240..275893	+	217	121612635	-	CJJ81176_0318	-	COG1179H	thiF family protein
+275968..276348	-	126	121613391	panD	CJJ81176_0319	-	COG0853H	aspartate alpha-decarboxylase
+276345..277193	-	282	121612799	panC	CJJ81176_0320	-	COG0414H	pantoate--beta-alanine ligase
+277204..278028	-	274	121613376	panB	CJJ81176_0321	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+278185..279075	-	296	121613185	modC	CJJ81176_0322	-	COG1118P	molybdenum ABC transporter, ATP-binding protein
+279085..279753	-	222	121612180	modB	CJJ81176_0323	-	COG4149P	molybdenum ABC transporter, permease protein
+279746..280051	-	101	121612132	-	CJJ81176_0324	-	-	TOBE domain-containing protein
+280144..280893	-	249	121613272	modA	CJJ81176_0325	-	COG0725P	molybdenum ABC transporter, periplasmic molybdenum-binding protein
+280947..281633	-	228	121612742	-	CJJ81176_0326	-	COG4106R	biotin biosynthesis protein BioC
+281630..282241	-	203	121613050	-	CJJ81176_0327	-	COG2830S	hypothetical protein
+282238..283380	-	380	121613739	bioF	CJJ81176_0328	-	COG0156H	8-amino-7-oxononanoate synthase
+283447..284730	+	427	121613473	bioA	CJJ81176_0329	-	COG0161H	adenosylmethionine--8-amino-7-oxononanoate transaminase
+284717..285322	-	201	121612750	bioD	CJJ81176_0330	-	COG0132H	dethiobiotin synthetase
+285332..285646	-	104	121612529	-	CJJ81176_0331	-	COG2076P	SMR family multidrug efflux pump
+285650..285988	-	112	121613021	-	CJJ81176_0332	-	COG2076P	SMR family multidrug efflux pump
+286122..286658	+	178	121612154	rplY	CJJ81176_0333	-	COG1825J	50S ribosomal protein L25/general stress protein Ctc
+286655..287200	+	181	121613036	pth	CJJ81176_0334	-	COG0193J	peptidyl-tRNA hydrolase
+287202..288260	+	352	121612521	-	CJJ81176_0335	-	COG0795R	hypothetical protein
+288304..289512	+	402	121612594	lysA	CJJ81176_0336	-	COG0019E	diaminopimelate decarboxylase
+289514..290281	+	255	121613546	-	CJJ81176_0337	-	COG0647G	HAD family hydrolase
+290269..291342	+	357	121612831	pheA	CJJ81176_0338	-	COG0077E	chorismate mutase/prephenate dehydratase
+291332..292426	+	364	121613599	hisC	CJJ81176_0339	-	COG0079E	histidinol-phosphate aminotransferase
+292478..294160	+	560	121612614	fliF	CJJ81176_0340	-	COG1766NU	flagellar MS-ring protein
+294160..295188	+	342	121613519	fliG	CJJ81176_0341	-	COG1536N	flagellar motor switch protein G
+295196..296026	+	276	121613227	fliH	CJJ81176_0342	-	COG1317NU	flagellar assembly protein H
+296019..297866	+	615	121613549	dxs	CJJ81176_0343	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+297952..298362	+	136	121612833	-	CJJ81176_0344	-	COG0735P	FUR family transcriptional regulator
+298408..299604	+	398	121613735	-	CJJ81176_0345	-	-	hypothetical protein
+299607..300314	+	235	121612772	ubiE	CJJ81176_0346	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+300311..301474	+	387	121613063	xseA	CJJ81176_0347	-	COG1570L	exodeoxyribonuclease VII large subunit
+301484..302560	+	358	121612480	serC	CJJ81176_0348	-	COG1932HE	phosphoserine aminotransferase
+302557..302907	+	116	121613465	-	CJJ81176_0349	-	COG0251J	endoribonuclease L-PSP family protein
+302904..303878	-	324	121613165	fabH	CJJ81176_0350	-	COG0332I	3-oxoacyl-(acyl carrier protein) synthase III
+303871..304857	-	328	121612547	plsX	CJJ81176_0351	-	COG0416I	putative glycerol-3-phosphate acyltransferase PlsX
+304863..305009	-	48	121613299	rpmF	CJJ81176_0352	-	COG0333J	50S ribosomal protein L32
+305033..305386	-	117	121612324	-	CJJ81176_0353	-	-	hypothetical protein
+305387..305800	-	137	121613085	ndk	CJJ81176_0354	-	COG0105F	nucleoside diphosphate kinase
+305913..306197	-	94	121612302	-	CJJ81176_0355	-	COG1142C	ferredoxin, 4Fe-4S
+306403..306999	+	198	121613748	-	CJJ81176_0356	-	COG0450O	anti-oxidant AhpCTSA family protein
+307118..308224	+	368	121613536	flhB	CJJ81176_0357	-	COG1377NU	flagellar biosynthesis protein FlhB
+308211..308954	-	247	121612816	motB	CJJ81176_0358	-	COG1360N	flagellar motor protein MotB
+308957..309733	-	258	121612656	-	CJJ81176_0359	-	COG1291N	flagellar motor protein MotA
+309749..312388	-	879	121613724	polA	CJJ81176_0360	-	COG0749L	DNA polymerase I
+312552..312764	+	70	121612794	-	CJJ81176_0361	-	-	major facilitator family transporter
+312848..312964	+	38	121613375	-	CJJ81176_0362	-	-	inner membrane metabolite transport protein YdfJ
+313004..313912	+	302	121613278	-	CJJ81176_0363	-	COG2211G	inner membrane metabolite transport protein YdfJ
+313909..314916	+	335	121612749	-	CJJ81176_0364	-	COG1957F	inosine-uridine preferring nucleoside hydrolase family protein
+314872..315315	-	147	121613679	-	CJJ81176_0365	-	COG1238S	hypothetical protein
+315320..318145	-	941	121612998	uvrA	CJJ81176_0366	-	COG0178L	excinuclease ABC subunit A
+318218..319003	-	261	121612892	-	CJJ81176_0367	-	-	hypothetical protein
+319126..319251	+	41	121613263	-	CJJ81176_0368	-	-	hypothetical protein
+319416..320666	+	416	121612335	trpE	CJJ81176_0369	-	COG0147EH	anthranilate synthase component I
+320663..322264	+	533	121612640	trpD	CJJ81176_0370	-	COG0547E	anthranilate synthase component II
+322251..322850	+	199	121613403	trpF	CJJ81176_0371	-	COG0135E	N-(5'phosphoribosyl)anthranilate isomerase
+322847..324025	+	392	121612226	trpB	CJJ81176_0372	-	COG0133E	tryptophan synthase subunit beta
+324018..324767	+	249	121613100	trpA	CJJ81176_0373	-	COG0159E	tryptophan synthase subunit alpha
+324838..325260	+	140	121612741	-	CJJ81176_0374	-	-	hypothetical protein
+325260..325568	+	102	121613695	fliN	CJJ81176_0375	-	COG1886NU	flagellar motor switch protein
+325569..326366	+	265	121613484	-	CJJ81176_0376	-	-	hypothetical protein
+326363..327823	-	486	121613352	-	CJJ81176_0377	-	COG0248FP	Ppx/GppA family phosphatase
+327823..328068	-	81	121613118	-	CJJ81176_0378	-	COG1149C	ferredoxin, 4Fe-4S
+328181..328852	-	223	121612439	-	CJJ81176_0379	-	COG0745TK	DNA-binding response regulator
+328931..329248	-	105	121612949	-	CJJ81176_0380	-	COG1539H	FolB domain-containing protein
+329233..329841	-	202	121612889	-	CJJ81176_0381	-	COG0344S	putative glycerol-3-phosphate acyltransferase PlsY
+330036..331061	+	341	121612870	ccpA-2	CJJ81176_0382	-	COG1858P	cytochrome c551 peroxidase
+331137..332492	+	451	121613327	glmM	CJJ81176_0383	-	COG1109G	phosphoglucosamine mutase
+332485..332955	+	156	121612661	lspA	CJJ81176_0384	-	COG0597MU	lipoprotein signal peptidase
+332939..333391	+	150	121612167	-	CJJ81176_0385	-	COG1981S	hypothetical protein
+333388..334734	-	448	121613094	-	CJJ81176_0386	-	COG0635H	coproporphyrinogen III oxidase
+334863..335114	+	83	121613250	-	CJJ81176_0387	-	-	hypothetical protein
+335137..336615	-	492	121612467	cmeC	CJJ81176_0388	-	COG1538MU	RND efflux system, outer membrane lipoprotein CmeC
+336608..339730	-	1040	121612937	cmeB	CJJ81176_0389	-	COG0841V	RND efflux system, inner membrane transporter CmeB
+339730..340833	-	367	121612236	cmeA	CJJ81176_0390	-	COG0845M	RND efflux system, membrane fusion protein CmeA
+340928..341560	-	210	121612760	-	CJJ81176_0391	-	COG1309K	TetR family transcriptional regulator
+341547..342923	-	458	121613062	-	CJJ81176_0392	-	COG0348C	iron-sulfur cluster-binding domain-containing protein
+343082..343294	+	70	121612844	rpsU	CJJ81176_0393	-	COG0828J	30S ribosomal protein S21
+343291..343437	-	48	121613566	-	CJJ81176_0394	-	-	colicin E1 immunity protein
+343411..344016	+	201	121612622	-	CJJ81176_0395	-	-	hypothetical protein
+344026..345195	+	389	121613449	-	CJJ81176_0396	-	COG0754E	glutathionylspermidine synthase family protein
+345198..346133	+	311	121613285	-	CJJ81176_0397	-	COG1052CHR	2-hydroxyacid dehydrogenase
+346123..346614	+	163	121612347	-	CJJ81176_0398	-	COG1666S	putative nucleotide-binding protein
+346623..347099	+	158	121613055	-	CJJ81176_0399	-	-	putative lipoprotein
+347110..347934	+	274	121612130	-	CJJ81176_0400	-	-	hypothetical protein
+347934..349646	+	570	121613485	-	CJJ81176_0401	-	COG0464O	ATPase, AAA family protein
+349611..350183	-	190	121613477	-	CJJ81176_0402	-	COG2717S	hypothetical protein
+350183..351076	-	297	121612585	-	CJJ81176_0403	-	COG2041R	putative sulfite oxidase subunit YedY
+351131..351811	-	226	121613342	pyrF	CJJ81176_0404	-	COG0284F	orotidine 5'-phosphate decarboxylase
+351808..352206	-	132	121612229	nusB	CJJ81176_0405	-	COG0781K	transcription antitermination protein NusB
+352206..352670	-	154	121613020	ribH	CJJ81176_0406	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+352667..353482	-	271	121612393	kdsA	CJJ81176_0407	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+353479..354411	-	310	121612962	-	CJJ81176_0408	-	COG2510S	integral membrane protein
+354512..355894	+	460	121612239	engA	CJJ81176_0409	-	COG1160R	GTP-binding protein EngA
+355881..356378	+	165	121612763	aroK	CJJ81176_0410	-	COG0703E	shikimate kinase
+356375..357334	+	319	121613675	trpS	CJJ81176_0411	-	COG0180J	tryptophanyl-tRNA synthetase
+357345..358580	+	411	121613220	serS	CJJ81176_0412	-	COG0172J	seryl-tRNA synthetase
+358590..361052	+	820	121612269	-	CJJ81176_0413	-	-	TPR domain-containing protein
+361083..361718	-	211	121613003	-	CJJ81176_0414	-	-	hypothetical protein
+361816..363258	-	480	121612912	pyk	CJJ81176_0415	-	COG0469G	pyruvate kinase
+363307..364653	-	448	121613638	-	CJJ81176_0416	-	COG0579R	malate:quinone oxidoreductase, putative
+364772..365401	-	209	121612678	-	CJJ81176_0417	-	COG1521K	pantothenate kinase
+365388..365678	-	96	121613450	-	CJJ81176_0418	-	-	tram-like protein
+365675..366673	-	332	121612489	-	CJJ81176_0419	-	-	putative lipoprotein
+366670..367248	-	192	121613251	-	CJJ81176_0420	-	-	hypothetical protein
+367392..367676	+	94	121612234	gatC	CJJ81176_0421	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+367745..368308	+	187	121612184	-	CJJ81176_0422	-	COG1286R	cvpA family protein
+368310..368783	+	157	121613164	fur	CJJ81176_0423	-	COG0735P	ferric uptake regulation protein
+368784..370289	+	501	121612659	lysS	CJJ81176_0424	-	COG1190J	lysyl-tRNA synthetase
+370286..371530	+	414	121613405	glyA	CJJ81176_0425	-	COG0112E	serine hydroxymethyltransferase
+371527..372306	+	259	121612581	-	CJJ81176_0427	-	-	hypothetical protein
+372320..373156	+	278	121613408	-	CJJ81176_0428	-	-	hypothetical protein
+373153..373941	+	262	121613005	aroE	CJJ81176_0429	-	COG0169E	shikimate 5-dehydrogenase
+374015..374914	-	299	121613559	-	CJJ81176_0430	-	-	putative lipoprotein
+375004..375819	+	271	121613223	lgt	CJJ81176_0431	-	COG0682M	prolipoprotein diacylglyceryl transferase
+375889..376671	+	260	121612270	frdC	CJJ81176_0432	-	COG2009C	fumarate reductase cytochrome b-556 subunit
+376655..378646	+	663	121612275	frdA	CJJ81176_0433	-	COG1053C	fumarate reductase flavoprotein subunit
+378639..379364	+	241	121613625	frdB	CJJ81176_0434	-	COG0479C	fumarate reductase iron-sulfur subunit
+379392..381578	+	728	121612321	-	CJJ81176_0435	-	COG0486R	GTP-binding protein
+381688..383397	+	569	121613312	-	CJJ81176_0436	-	COG4988CO	GTP-binding protein
+383397..384101	+	234	121612488	-	CJJ81176_0437	-	COG0790R	hypothetical protein
+384237..384965	+	242	121613212	-	CJJ81176_0438	-	-	hypothetical protein
+384967..386688	+	573	121612363	-	CJJ81176_0439	-	COG2303E	oxidoreductase, putative
+386977..387168	+	63	121613297	-	CJJ81176_0440	-	-	hypothetical protein
+387247..387972	-	241	121613101	-	CJJ81176_0441	-	-	hypothetical protein
+388079..388441	+	120	121612369	-	CJJ81176_0442	-	COG0537FGR	HIT family protein
+388515..389087	+	190	121612795	-	CJJ81176_0443	-	COG2353S	hypothetical protein
+389091..390047	-	318	121612299	-	CJJ81176_0444	-	-	hypothetical protein
+390020..390169	+	49	121612605	-	CJJ81176_0445	-	-	hypothetical protein
+390215..391792	+	525	121613582	-	CJJ81176_0446	-	COG0488R	ABC transporter, ATP-binding protein
+391785..392117	+	110	121613189	-	CJJ81176_0447	-	-	hypothetical protein
+392193..392576	+	127	121612462	-	CJJ81176_0448	-	-	hypothetical protein
+392620..393204	-	194	121612973	-	CJJ81176_0449	-	COG1739S	hypothetical protein
+393331..394557	+	408	121612150	-	CJJ81176_0450	-	-	hypothetical protein
+394550..395287	+	245	121612131	-	CJJ81176_0451	-	-	hypothetical protein
+401151..401303	-	50	121612898	-	CJJ81176_0456	-	-	hypothetical protein
+401632..402840	-	402	121612791	murD	CJJ81176_0458	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+402840..403901	-	353	121613713	mraY	CJJ81176_0459	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+403981..405459	+	492	121612982	pgm	CJJ81176_0460	-	COG0696G	phosphoglyceromutase
+405531..406274	+	247	121612315	fabG	CJJ81176_0461	-	COG1028IQR	3-ketoacyl-(acyl-carrier-protein) reductase
+406284..406691	+	135	121612251	-	CJJ81176_0462	-	COG5015S	hypothetical protein
+407028..408863	+	611	121613173	sdhA	CJJ81176_0463	-	COG1053C	succinate dehydrogenase, flavoprotein subunit
+408860..409825	+	321	121612437	sdhB	CJJ81176_0464	-	COG0479C	succinate dehydrogenase, iron-sulfur protein subunit
+409829..410686	+	285	121613438	sdhC	CJJ81176_0465	-	COG2048C	succinate dehydrogenase, C subunit
+410710..411375	-	221	121612526	-	CJJ81176_0466	-	COG0819K	TenA/Thi-4 family protein
+411353..411469	+	38	121613287	-	CJJ81176_0467	-	-	hypothetical protein
+411488..411721	+	77	121612665	acpP	CJJ81176_0468	-	COG0236IQ	acyl carrier protein
+411747..412961	+	404	121613487	fabF	CJJ81176_0469	-	COG0304IQ	3-oxoacyl-(acyl carrier protein) synthase II
+412963..413901	+	312	121612933	accA	CJJ81176_0470	-	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+413993..416107	+	704	121612217	-	CJJ81176_0471	-	COG4771P	TonB-dependent receptor, putative, degenerate
+416190..416786	+	198	121612700	-	CJJ81176_0472	-	-	NUDIX domain-containing protein
+416818..417915	-	365	121613235	-	CJJ81176_0473	-	COG0840NT	methyl-accepting chemotaxis protein
+417925..418140	-	71	121612826	-	CJJ81176_0474	-	COG2841S	hypothetical protein
+418323..418517	-	64	121613410	rpmB	CJJ81176_0475	-	COG0227J	50S ribosomal protein L28
+418657..419304	+	215	121612304	rpe	CJJ81176_0476	-	COG0036G	ribulose-phosphate 3-epimerase
+419301..420062	+	253	121612917	-	CJJ81176_0477	-	COG2176L	DNA polymerase III subunit epsilon
+420245..421537	+	430	121613325	thiC	CJJ81176_0478	-	COG0422H	thiamine biosynthesis protein ThiC
+421529..422047	-	172	121613409	-	CJJ81176_0479	-	-	hypothetical protein
+422037..422564	-	175	121612456	-	CJJ81176_0480	-	-	hypothetical protein
+422561..423520	-	319	121612691	-	CJJ81176_0481	-	-	hypothetical protein
+423522..424172	-	216	121613056	-	CJJ81176_0482	-	COG2121S	hypothetical protein
+424135..425436	-	433	121613595	miaB	CJJ81176_0483	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+425433..425675	-	80	121613328	-	CJJ81176_0484	-	-	hypothetical protein
+425803..426891	+	362	121612185	nusA	CJJ81176_0485	-	COG0195K	transcription elongation factor NusA
+426907..428094	-	395	121613511	-	CJJ81176_0486	-	-	transporter, putative
+428168..429214	+	348	121612400	-	CJJ81176_0487	-	COG1060HR	hypothetical protein
+429214..430434	+	406	121613016	-	CJJ81176_0488	-	COG0612R	peptidase, putative
+430424..432247	+	607	121612291	recG	CJJ81176_0489	-	COG1200LK	ATP-dependent DNA helicase RecG
+432244..432627	-	127	121613002	-	CJJ81176_0490	-	COG2346R	hypothetical protein
+432713..433318	+	201	121613208	-	CJJ81176_0491	-	COG0664T	putative transcriptional regulator
+433335..434036	+	233	121612476	-	CJJ81176_0492	-	COG0765E	His/Glu/Gln/Arg/opine ABC transporter permease
+434029..434685	+	218	121612627	-	CJJ81176_0493	-	COG0765E	His/Glu/Gln/Arg/opine ABC transporter permease
+434687..435424	+	245	121613136	-	CJJ81176_0494	-	COG1126E	amino acid ABC transporter, ATP-binding protein
+436080..437279	+	399	121612430	tuf	CJJ81176_0499	-	COG0050J	elongation factor Tu
+437332..437490	+	52	121612954	rpmG	CJJ81176_0500	-	COG0267J	50S ribosomal protein L33
+437597..437776	+	59	121613109	secE	CJJ81176_0502	-	COG0690U	preprotein translocase subunit SecE
+437786..438319	+	177	121613601	nusG	CJJ81176_0503	-	COG0250K	transcription antitermination protein NusG
+438345..438770	+	141	121613479	rplK	CJJ81176_0505	-	COG0080J	50S ribosomal protein L11
+438825..439526	+	233	121612670	rplA	CJJ81176_0506	-	COG0081J	50S ribosomal protein L1
+439678..440157	+	159	121612441	rplJ	CJJ81176_0507	-	COG0244J	50S ribosomal protein L10
+440178..440555	+	125	121613176	rplL	CJJ81176_0508	-	COG0222J	50S ribosomal protein L7/L12
+440665..444801	+	1378	121613040	rpoB	CJJ81176_0509	-	COG0085K	DNA-directed RNA polymerase subunit beta
+444794..449347	+	1517	121612351	rpoC	CJJ81176_0510	-	COG0086K	DNA-directed RNA polymerase, beta' subunit
+449467..449853	+	128	121613664	rpsL	CJJ81176_0511	-	COG0048J	30S ribosomal protein S12
+449923..450393	+	156	121612104	rpsG	CJJ81176_0512	-	COG0049J	30S ribosomal protein S7
+450406..452481	+	691	121612720	fusA	CJJ81176_0513	-	COG0480J	elongation factor G
+452604..452753	+	49	121613500	-	CJJ81176_0515	-	-	hypothetical protein
+452759..453460	+	233	121612928	-	CJJ81176_0516	-	COG4123R	hypothetical protein
+453450..453824	+	124	121613669	-	CJJ81176_0517	-	COG0727R	hypothetical protein
+453836..455074	+	412	121613186	-	CJJ81176_0518	-	COG4783R	putative lipoprotein
+455071..455847	+	258	121612469	trpC	CJJ81176_0519	-	COG0134E	indole-3-glycerol-phosphate synthase
+455857..456342	+	161	121613453	-	CJJ81176_0520	-	COG0537FGR	Hit family protein
+456332..457336	+	334	121612708	ybbB	CJJ81176_0521	-	COG2603R	tRNA 2-selenouridine synthase
+457709..457825	-	38	121612259	-	CJJ81176_0522	-	-	hypothetical protein
+457960..458142	+	60	121612734	-	CJJ81176_0523	-	-	hypothetical protein
+458144..458299	+	51	121612498	-	CJJ81176_0524	-	-	putative periplasmic protein
+458296..458739	+	147	121612214	-	CJJ81176_0525	-	-	putative periplasmic protein
+458769..458885	+	38	121613112	-	CJJ81176_0526	-	-	putative periplasmic protein
+458930..459799	+	289	121612800	-	CJJ81176_0527	-	-	putative periplasmic protein
+460185..460313	+	42	121613750	-	CJJ81176_0528	-	-	hypothetical protein
+460410..462071	+	553	121612600	-	CJJ81176_0529	-	-	putative periplasmic protein
+462333..463988	+	551	121612311	-	CJJ81176_0530	-	COG2831U	putative outer-membrane protein
+463992..464921	-	309	121612813	hemH	CJJ81176_0531	-	COG0276H	ferrochelatase
+464918..465784	-	288	121612124	-	CJJ81176_0532	-	COG0673R	Gfo/Idh/MocA family oxidoreductase
+465789..466862	-	357	121613019	-	CJJ81176_0533	-	COG0399M	DegT/DnrJ/EryC1/StrS aminotransferase family protein
+466977..469505	+	842	121612666	alaS	CJJ81176_0534	-	COG0013J	alanyl-tRNA synthetase
+469505..470056	+	183	121613120	-	CJJ81176_0535	-	COG0424D	Maf-like protein
+470053..471984	+	643	121612837	pbpA	CJJ81176_0536	-	COG0744M	penicillin-binding protein 1A
+472012..474585	-	857	121613623	clpB	CJJ81176_0537	-	COG0542O	ATP-dependent chaperone protein ClpB
+474697..474987	-	96	121612705	-	CJJ81176_0538	-	COG1937S	hypothetical protein
+475105..476439	+	444	121613476	ctpA	CJJ81176_0539	-	COG0793M	carboxyl-terminal protease
+476441..477151	+	236	121612696	purC	CJJ81176_0540	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+477160..477405	+	81	121613644	purS	CJJ81176_0541	-	COG1828F	phosphoribosylformylglycinamidine synthase, purS protein
+477407..478054	+	215	121612879	purQ	CJJ81176_0542	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+478138..479247	+	369	121613028	-	CJJ81176_0543	-	-	hypothetical protein
+479228..479920	+	230	121612293	-	CJJ81176_0544	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase, putative
+479914..480282	+	122	121612809	-	CJJ81176_0545	-	COG0239D	crcB protein
+480354..482180	+	608	121612114	htpG	CJJ81176_0546	-	COG0326O	heat shock protein 90
+482177..482494	+	105	121613054	-	CJJ81176_0547	-	COG0607P	hypothetical protein
+482494..482928	+	144	121613503	-	CJJ81176_0548	-	-	hypothetical protein
+482932..484701	+	589	121612688	-	CJJ81176_0549	-	COG1283P	Na/Pi-cotransporter, putative
+484698..486506	-	602	121613241	-	CJJ81176_0550	-	COG0768M	penicillin-binding protein
+486513..486809	-	98	121613420	fliE	CJJ81176_0551	-	COG1677NU	flagellar hook-basal body protein FliE
+486816..487310	-	164	121612733	flgC	CJJ81176_0552	-	COG1558N	flagellar basal body rod protein FlgC
+487320..487751	-	143	121613256	flgB	CJJ81176_0553	-	COG1815N	flagellar basal body rod protein FlgB
+487831..488919	-	362	121613311	-	CJJ81176_0554	-	COG1559R	hypothetical protein
+488786..491317	+	843	121612196	-	CJJ81176_0555	-	-	hypothetical protein
+491335..493638	+	767	121612541	icd	CJJ81176_0556	-	COG2838C	isocitrate dehydrogenase, NADP-dependent
+493635..494537	+	300	121613659	mdh	CJJ81176_0557	-	COG0039C	malate dehydrogenase
+494538..495701	+	387	121612371	sucC	CJJ81176_0558	-	COG0045C	succinyl-CoA synthetase subunit beta
+495711..496580	+	289	121613423	sucD	CJJ81176_0559	-	COG0074C	succinyl-CoA synthase, alpha subunit
+496594..496905	+	103	121612357	oorD	CJJ81176_0560	-	COG1146C	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+496914..498038	+	374	121613267	oorA	CJJ81176_0561	-	COG0674C	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+498040..498885	+	281	121612137	oorB	CJJ81176_0562	-	COG1013C	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+498882..499439	+	185	121613037	oorC	CJJ81176_0563	-	COG1014C	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+499578..499841	+	87	121613466	-	CJJ81176_0564	-	-	hypothetical protein
+499844..500380	+	178	121613454	-	CJJ81176_0565	-	-	hypothetical protein
+500394..501287	+	297	121612193	-	CJJ81176_0566	-	COG0142H	polyprenyl synthetase family protein
+501287..502585	+	432	121612724	hemA	CJJ81176_0567	-	COG0373H	glutamyl-tRNA reductase
+502569..504278	+	569	121612398	proS	CJJ81176_0568	-	COG0442J	prolyl-tRNA synthetase
+504275..504664	+	129	121613347	-	CJJ81176_0569	-	-	hypothetical protein
+504661..505584	+	307	121612975	hemC	CJJ81176_0570	-	COG0181H	porphobilinogen deaminase
+505581..507383	+	600	121612503	-	CJJ81176_0571	-	COG0043H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase, putative
+507540..507905	+	121	121613608	flaG	CJJ81176_0572	-	COG1334N	flagellar protein FlaG
+507908..509836	+	642	121612277	fliD	CJJ81176_0573	-	COG1345N	flagellar capping protein
+509848..510234	+	128	121612919	fliS	CJJ81176_0574	-	COG1516NUO	flagellar protein FliS
+510299..510490	+	63	121613558	-	CJJ81176_0575	-	-	hypothetical protein
+510922..511491	+	189	121613609	efp	CJJ81176_0576	-	COG0231J	elongation factor P
+511650..512342	+	230	121613395	-	CJJ81176_0577	-	COG3819S	hypothetical protein
+512329..513282	+	317	121612453	-	CJJ81176_0578	-	COG3817S	hypothetical protein
+513292..514296	+	334	121613151	-	CJJ81176_0579	-	-	hypothetical protein
+514411..515697	+	428	121613524	-	CJJ81176_0580	-	COG0471P	hypothetical protein
+515708..516505	+	265	121613315	-	CJJ81176_0581	-	COG3618R	hypothetical protein
+516502..517587	-	361	121612381	-	CJJ81176_0582	-	COG1289S	hypothetical protein
+517584..518816	-	410	121612161	proA	CJJ81176_0583	-	COG0014E	gamma-glutamyl phosphate reductase
+518887..519822	+	311	121612116	-	CJJ81176_0584	-	COG0492O	pyridine nucleotide-disulphide oxidoreductase family protein
+520003..521331	+	442	121612390	-	CJJ81176_0585	-	COG0534V	MATE efflux family protein, authentic frameshift
+521379..522308	-	309	121612587	-	CJJ81176_0586	-	-	hypothetical protein
+522462..523838	+	458	121613691	dnaB	CJJ81176_0587	-	COG0305L	replicative DNA helicase
+523943..524503	+	186	121612607	-	CJJ81176_0588	-	-	hypothetical protein
+524494..524700	+	68	121613135	-	CJJ81176_0589	-	-	hypothetical protein
+524842..525519	+	225	121612361	-	CJJ81176_0590	-	-	hypothetical protein
+525591..526457	+	288	121612662	-	CJJ81176_0591	-	-	hypothetical protein
+526457..527239	+	260	121613417	-	CJJ81176_0592	-	-	hypothetical protein
+527243..527707	+	154	121612906	-	CJJ81176_0593	-	-	hypothetical protein
+527714..528019	+	101	121613637	-	CJJ81176_0594	-	-	hypothetical protein
+528028..528237	+	69	121612992	-	CJJ81176_0595	-	-	putative ATP
+528194..529096	+	300	121612495	-	CJJ81176_0596	-	-	hypothetical protein
+529241..529963	+	240	121612994	-	CJJ81176_0597	-	COG2378K	transcriptional regulator, putative
+530214..531281	+	355	121612493	ribB	CJJ81176_0600	-	COG0108H	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+531293..531736	+	147	121613236	-	CJJ81176_0601	-	COG1610S	GatB/Yqey family protein
+531754..533454	+	566	121612686	ilvB	CJJ81176_0602	-	COG0028EH	acetolactate synthase 3 catalytic subunit
+533451..533915	+	154	121613459	ilvH	CJJ81176_0603	-	COG0440E	acetolactate synthase 3 regulatory subunit
+533912..534877	+	321	121612208	lpxD	CJJ81176_0604	-	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+534866..535894	-	342	121612914	queA	CJJ81176_0605	-	COG0809J	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+535887..536624	-	245	121612929	tatC	CJJ81176_0606	-	COG0805U	Sec-independent protein translocase TatC
+536625..537032	-	135	121613026	tatB	CJJ81176_0607	-	COG1826U	sec-independent translocase
+537091..538158	-	355	121613561	-	CJJ81176_0608	-	COG0635H	coproporphyrinogen III oxidase
+538259..538729	+	156	121612395	nidH	CJJ81176_0609	-	COG0494LR	dinucleoside polyphosphate hydrolase
+538731..539933	+	400	121612667	-	CJJ81176_0610	-	COG0527E	aspartate kinase
+539934..540470	+	178	121612179	-	CJJ81176_0611	-	-	hypothetical protein
+540476..541075	+	199	121613355	-	CJJ81176_0612	-	COG0470L	DNA polymerase III subunit delta'
+541077..542219	+	380	121613043	folP	CJJ81176_0613	-	COG0294H	dihydropteroate synthase
+542220..544163	+	647	121612203	ligA	CJJ81176_0614	-	COG0272L	NAD-dependent DNA ligase LigA
+544201..545148	+	315	121613689	-	CJJ81176_0615	-	-	hypothetical protein
+545145..545906	+	253	121612817	tlyA	CJJ81176_0616	-	COG1189J	hemolysin A
+545872..546726	+	284	121613196	-	CJJ81176_0617	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+546716..547423	+	235	121613142	-	CJJ81176_0618	-	COG2226H	methyltransferase, putative
+547413..547628	-	71	121612436	-	CJJ81176_0619	-	-	putative lipoprotein
+547625..548065	-	146	121612412	-	CJJ81176_0620	-	-	hypothetical protein
+548123..548755	-	210	121612943	-	CJJ81176_0621	-	COG2860S	hypothetical protein
+548766..549416	-	216	121612258	-	CJJ81176_0622	-	COG1864F	DNA/RNA non-specific endonuclease
+549413..550039	-	208	121613661	nth	CJJ81176_0623	-	COG0177L	endonuclease III
+550120..550941	+	273	121612905	-	CJJ81176_0624	-	COG0760O	major antigenic peptide PEB4
+550941..552005	+	354	121613445	fbaA	CJJ81176_0625	-	COG0191G	fructose-bisphosphate aldolase
+552100..553542	+	480	121612532	-	CJJ81176_0626	-	COG0811U	hypothetical protein
+553539..554492	+	317	121613602	-	CJJ81176_0627	-	COG2885M	chemotaxis protein MotB, putative
+554479..555354	+	291	121613124	-	CJJ81176_0628	-	COG2515E	hypothetical protein
+555346..556689	-	447	121612598	-	CJJ81176_0629	-	COG0733R	sodium-dependent transporter, putative
+556740..557408	-	222	121612109	-	CJJ81176_0630	-	COG2258S	MOSC domain-containing protein
+557405..559108	-	567	121613317	dsbD	CJJ81176_0631	-	COG4232OC	thiol:disulfide interchange protein DsbD
+559203..559691	+	162	121612417	-	CJJ81176_0632	-	COG2326S	hypothetical protein
+559672..560085	+	137	121612632	-	CJJ81176_0633	-	COG2326S	polyphosphate kinase 2
+560094..561284	+	396	121613567	-	CJJ81176_0634	-	COG1473R	carboxypeptidase
+561363..562535	+	390	121612494	-	CJJ81176_0635	-	COG0845M	macrolide-specific efflux protein macA
+562535..564460	+	641	121613435	-	CJJ81176_0636	-	COG1136V	macrolide-specific efflux protein macB
+564462..565832	+	456	121612200	-	CJJ81176_0637	-	COG1538MU	outer membrane efflux protein
+565834..567012	-	392	121613122	-	CJJ81176_0638	-	COG2755E	hypothetical protein
+566999..568009	-	336	121612115	-	CJJ81176_0639	-	COG2845S	hypothetical protein
+568010..569386	-	458	121613091	algI	CJJ81176_0640	-	COG1696M	alginate O-acetyltransferase AlgI
+569429..569932	-	167	121612745	ftn	CJJ81176_0641	-	COG1528P	nonheme iron-containing ferritin
+570112..571107	+	331	121613740	-	CJJ81176_0642	-	COG0226P	phosphate ABC transporter, periplasmic phosphate-binding protein, putative
+571117..572031	+	304	121612553	-	CJJ81176_0643	-	COG0573P	phosphate ABC transporter, permease protein PstC, putative
+572028..573116	+	362	121612431	-	CJJ81176_0644	-	COG0581P	phosphate ABC transporter, permease protein PstA, putative
+573113..573853	+	246	121613221	pstB	CJJ81176_0645	-	COG1117P	phosphate ABC transporter ATP-binding protein
+573915..574526	+	203	121612284	-	CJJ81176_0646	-	-	hypothetical protein
+574496..575143	+	215	121612761	-	CJJ81176_0647	-	-	hypothetical protein
+575233..576549	+	438	121613102	-	CJJ81176_0648	-	COG0534V	MATE efflux family protein
+576525..577172	+	215	121613092	-	CJJ81176_0649	-	COG1451R	hypothetical protein
+577214..578734	+	506	121612177	-	CJJ81176_0650	-	-	hypothetical protein
+578715..580901	+	728	121613174	hypF	CJJ81176_0651	-	COG0068O	[NiFe] hydrogenase maturation protein HypF
+580974..581717	+	247	121613480	hypB	CJJ81176_0652	-	COG0378OK	hydrogenase accessory protein HypB
+581717..581998	+	93	121613492	hypC	CJJ81176_0653	-	COG0298O	hydrogenase assembly chaperone HypC/HupF
+581982..583073	+	363	121612566	hypD	CJJ81176_0654	-	COG0409O	hydrogenase expression/formation protein HypD
+583070..584044	+	324	121613323	hypE	CJJ81176_0655	-	COG0309O	hydrogenase expression/formation protein HypE
+584044..584388	+	114	121612187	hypA	CJJ81176_0656	-	COG0375R	hydrogenase nickel insertion protein HypA
+584630..585367	-	245	121613707	-	CJJ81176_0657	-	COG4748S	prophage Lp2 protein 6
+585430..586398	-	322	121612153	-	CJJ81176_0658	-	COG1466L	DNA polymerase III subunit delta
+586391..588325	-	644	121612615	-	CJJ81176_0659	-	COG0557K	RNB-like protein
+588444..589466	+	340	121613543	ilvC	CJJ81176_0660	-	COG0059EH	ketol-acid reductoisomerase
+589470..590552	+	360	121613073	-	CJJ81176_0661	-	COG2861S	hypothetical protein
+590542..591315	+	257	121612378	dprA	CJJ81176_0662	-	COG0758LU	DNA processing protein A
+591312..591695	+	127	121612111	-	CJJ81176_0663	-	COG0816L	Holliday junction resolvase-like protein
+591724..592563	+	279	121613038	-	CJJ81176_0664	-	COG0144J	NOL1/NOP2/sun family protein
+592739..593236	-	165	121612764	msrA	CJJ81176_0665	-	COG0225O	methionine sulfoxide reductase A
+593277..593795	-	172	121613702	ppa	CJJ81176_0666	-	COG0221C	inorganic pyrophosphatase
+593805..594383	-	192	121613132	adk	CJJ81176_0667	-	COG0563F	adenylate kinase
+594380..596131	-	583	121612173	aspS	CJJ81176_0668	-	COG0173J	aspartyl-tRNA synthetase
+596222..597082	+	286	121613722	pnk	CJJ81176_0669	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+597082..598605	+	507	121613072	recN	CJJ81176_0670	-	COG0497L	DNA repair protein RecN
+598708..599952	+	414	121613539	-	CJJ81176_0671	-	COG3706T	response regulator/GGDEF domain-containing protein
+599943..600758	+	271	121612578	-	CJJ81176_0672	-	COG0084L	TatD family hydrolase
+600758..601876	+	372	121612334	-	CJJ81176_0673	-	COG0741M	membrane-bound lytic murein transglycosylase D, putative
+601863..602663	+	266	121613481	rlpA	CJJ81176_0674	-	COG0797M	rare lipoprotein A
+602669..603157	+	162	121612209	-	CJJ81176_0675	-	COG1778R	YrbI family phosphatase
+603211..603663	+	150	121613289	-	CJJ81176_0676	-	-	hypothetical protein
+603645..604106	+	153	121613362	-	CJJ81176_0677	-	COG1934S	OstA family protein
+604103..604699	+	198	121612815	engB	CJJ81176_0678	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+604696..605190	+	164	121612792	-	CJJ81176_0679	-	-	hypothetical protein
+605191..606996	+	601	121613597	pbpC	CJJ81176_0680	-	COG0768M	penicillin-binding protein 2
+607117..608907	-	596	121613066	-	CJJ81176_0681	-	COG0006E	M24 family peptidase
+608923..610005	-	360	121612118	-	CJJ81176_0682	-	COG3104E	di-/tripeptide transporter
+609978..610475	-	165	121612101	-	CJJ81176_0683	-	COG3104E	di-/tripeptide transporter
+610646..610891	-	81	121613291	-	CJJ81176_0684	-	COG3104E	di-/tripeptide transporter
+611119..612174	-	351	121612355	-	CJJ81176_0685	-	COG3104E	di-/tripeptide transporter
+612301..612849	-	182	121613529	-	CJJ81176_0686	-	-	hypothetical protein
+612842..613897	-	351	121612452	-	CJJ81176_0687	-	-	hypothetical protein
+613935..614810	-	291	121613147	era	CJJ81176_0688	-	COG1159R	GTP-binding protein Era
+614807..616126	-	439	121612676	hslU	CJJ81176_0689	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+616123..616665	-	180	121613396	hslV	CJJ81176_0690	-	COG5405O	ATP-dependent protease peptidase subunit
+616665..617108	-	147	121612433	rplI	CJJ81176_0691	-	COG0359J	50S ribosomal protein L9
+617121..618341	-	406	121613552	argG	CJJ81176_0692	-	COG0137E	argininosuccinate synthase
+618496..618741	+	81	121612606	-	CJJ81176_0693	-	COG1188J	S4 domain-containing protein
+618738..619145	+	135	121613712	-	CJJ81176_0694	-	COG0802R	hypothetical protein
+619129..619866	+	245	121612754	-	CJJ81176_0695	-	COG1137R	ABC transporter, ATP-binding protein
+619866..621116	+	416	121612228	rpoN	CJJ81176_0696	-	COG1508K	RNA polymerase factor sigma-54
+621280..622704	+	474	121612823	dcuB	CJJ81176_0697	-	COG2704R	anaerobic C4-dicarboxylate transporter
+622846..622959	+	37	121612366	-	CJJ81176_0698	-	-	hypothetical protein
+623043..624734	+	563	121613301	-	CJJ81176_0699	-	COG2060P	potassium-transporting ATPase, A subunit, degenerate
+624744..626789	+	681	121612835	-	CJJ81176_0700	-	COG2216P	potassium-transporting ATPase subunit B
+626791..627399	+	202	121613457	-	CJJ81176_0701	-	COG2156P	potassium-transporting ATPase, C subunit, putative
+627402..629330	+	642	121613633	-	CJJ81176_0702	-	COG2205T	truncated KdpD protein
+629325..631298	-	657	121612747	uvrB	CJJ81176_0703	-	COG0556L	excinuclease ABC subunit B
+631452..631682	+	76	121612166	-	CJJ81176_0704	-	-	hypothetical protein
+631672..631914	+	80	121613105	-	CJJ81176_0705	-	-	hypothetical protein
+631911..632348	+	145	121612365	-	CJJ81176_0706	-	COG2165NU	hypothetical protein
+632330..634183	+	617	121613171	priA	CJJ81176_0707	-	COG1198L	primosome assembly protein PriA
+634193..635587	-	464	121612281	-	CJJ81176_0708	-	-	invasion phenotype protein
+635733..636806	+	357	121612967	ispG	CJJ81176_0709	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+636836..637534	-	232	121612803	flgH	CJJ81176_0710	-	COG2063N	flagellar basal body L-ring protein
+637594..639129	+	511	121613717	pta	CJJ81176_0711	-	COG0280C	phosphate acetyltransferase
+639143..640333	+	396	121612307	ackA	CJJ81176_0712	-	COG0282C	acetate kinase
+640361..644113	-	1250	121612979	-	CJJ81176_0713	-	COG1002V	hypothetical protein
+644263..644754	+	163	121613261	-	CJJ81176_0714	-	-	hypothetical protein
+644742..645680	-	312	121612518	-	CJJ81176_0715	-	-	hypothetical protein
+645680..646612	-	310	121613568	mraW	CJJ81176_0716	-	COG0275M	S-adenosyl-methyltransferase MraW
+646777..648267	+	496	121613493	-	CJJ81176_0717	-	COG0760O	peptidyl-prolyl cis-trans isomerase D,-like protein
+648270..649652	+	460	121612536	ftsA	CJJ81176_0718	-	COG0849D	cell division protein FtsA
+649668..650780	+	370	121613619	ftsZ	CJJ81176_0719	-	COG0206D	cell division protein FtsZ
+650936..651748	+	270	121612923	-	CJJ81176_0720	-	COG4786N	flagellar basal-body rod protein
+651777..652568	+	263	121613571	flgG	CJJ81176_0721	-	COG4786N	flagellar basal body rod protein FlgG
+652635..654065	-	476	121612317	glnA	CJJ81176_0722	-	COG0174E	glutamine synthetase, type I
+654268..654963	+	231	121613498	-	CJJ81176_0723	-	-	hypothetical protein
+654960..656213	+	417	121613198	-	CJJ81176_0724	-	COG0826O	U32 family peptidase
+656214..656708	+	164	121612475	purE	CJJ81176_0725	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+656718..657254	+	178	121613096	-	CJJ81176_0726	-	-	hypothetical protein
+657266..658129	+	287	121613687	glyQ	CJJ81176_0727	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+658116..658841	+	241	121613154	-	CJJ81176_0728	-	COG0327S	hypothetical protein
+658851..659567	+	238	121613455	-	CJJ81176_0729	-	COG1579R	hypothetical protein
+659564..660721	+	385	121613279	waaA	CJJ81176_0730	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+660702..661454	+	250	121612323	-	CJJ81176_0731	-	COG0564J	RNA pseudouridine synthase family protein
+661522..662859	+	445	121613116	ffh	CJJ81176_0732	-	COG0541U	signal recognition particle protein
+662924..663151	+	75	121612199	rpsP	CJJ81176_0733	-	COG0228J	30S ribosomal protein S16
+663154..663396	+	80	121613747	-	CJJ81176_0734	-	COG1837R	hypothetical protein
+663389..663928	+	179	121612604	rimM	CJJ81176_0735	-	COG0806J	16S rRNA processing protein RimM
+663925..664629	+	234	121613550	trmD	CJJ81176_0736	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+664640..664996	+	118	121612407	rplS	CJJ81176_0737	-	COG0335J	50S ribosomal protein L19
+665129..665542	+	137	121613557	-	CJJ81176_0738	-	COG2351R	transthyretin-like protein
+665566..666906	+	446	121612264	-	CJJ81176_0739	-	COG3200E	3-deoxy-7-phosphoheptulonate synthase
+666903..667232	+	109	121612619	-	CJJ81176_0740	-	COG1393P	hypothetical protein
+667680..671282	+	1200	121613428	dnaE	CJJ81176_0741	-	COG0587L	DNA polymerase III subunit alpha
+671295..671927	-	210	121613343	-	CJJ81176_0742	-	COG0325R	hypothetical protein
+671963..672712	-	249	121612344	flaC	CJJ81176_0743	-	COG1344N	flagellin subunit protein FlaC
+672751..673221	-	156	121612181	-	CJJ81176_0744	-	-	hypothetical protein
+673234..674049	-	271	121613646	-	CJJ81176_0745	-	COG2890J	HemK family modification methylase
+674046..675233	-	395	121612499	-	CJJ81176_0746	-	COG0501O	M48 family peptidase
+675361..675546	+	61	121612385	-	CJJ81176_0747	-	-	hypothetical protein
+675543..676085	-	180	121613022	mogA	CJJ81176_0748	-	COG0521H	molybdenum cofactor biosynthesis protein MogA
+676106..677089	-	327	121613097	corA	CJJ81176_0749	-	COG0598P	magnesium and cobalt transport protein CorA
+677206..678252	+	348	121613181	-	CJJ81176_0750	-	COG1840P	ABC transporter, periplasmic substrate-binding protein
+678263..679588	+	441	121612174	-	CJJ81176_0751	-	COG4222S	hypothetical protein
+679588..680394	+	268	121613313	-	CJJ81176_0752	-	COG1524R	hypothetical protein
+680391..681230	+	279	121612356	-	CJJ81176_0753	-	COG4132R	ABC transporter, permease protein
+681231..682010	+	259	121613458	-	CJJ81176_0754	-	COG1177E	ABC transporter, permease protein
+682014..683003	+	329	121612568	-	CJJ81176_0755	-	COG3842E	ABC transporter, ATP-binding protein
+683000..683638	+	212	121612942	-	CJJ81176_0756	-	COG0560E	HAD family hydrolase
+683662..684417	-	251	121612379	cjaC	CJJ81176_0757	-	COG0834ET	cjaC protein
+684738..685379	+	213	121613399	-	CJJ81176_0758	-	-	hypothetical protein
+685401..687329	+	642	121612895	-	CJJ81176_0759	-	-	hypothetical protein
+687341..687775	+	144	121613631	-	CJJ81176_0760	-	-	hemagglutination domain-containing protein
+688041..689189	+	382	121612966	-	CJJ81176_0761	-	-	hypothetical protein
+689255..689380	+	41	121612290	-	CJJ81176_0762	-	-	hypothetical protein
+689540..690619	+	359	121613083	-	CJJ81176_0763	-	-	hypothetical protein
+690715..692241	+	508	121613175	-	CJJ81176_0764	-	COG2831U	putative outer-membrane protein
+692260..692403	+	47	121612424	-	CJJ81176_0765	-	-	hypothetical protein
+698302..698454	-	50	121613364	-	CJJ81176_0770	-	-	hypothetical protein
+698848..700029	+	393	121613468	-	CJJ81176_0772	-	-	hypothetical protein
+700246..701037	+	263	121613134	hrcA	CJJ81176_0773	-	COG1420K	heat-inducible transcription repressor
+701034..701564	+	176	121612117	grpE	CJJ81176_0774	-	COG0576O	heat shock protein GrpE
+701587..703458	+	623	121613084	dnaK	CJJ81176_0775	-	COG0443O	molecular chaperone DnaK
+703597..705507	+	636	121612129	-	CJJ81176_0776	-	COG0286V	type I restriction-modification system, M subunit
+705504..706772	+	422	121613222	-	CJJ81176_0777	-	COG0732V	type I restriction modification DNA specificity domain-containing protein
+706872..707465	+	197	121613205	-	CJJ81176_0778	-	-	hypothetical protein
+707481..708470	+	329	121613538	-	CJJ81176_0779	-	-	hypothetical protein
+708487..711402	+	971	121612543	-	CJJ81176_0780	-	COG0610V	type I site-specific deoxyribonuclease chain R
+711498..712460	+	320	121613688	-	CJJ81176_0781	-	COG2220R	hypothetical protein
+712530..712871	+	113	121612645	-	CJJ81176_0782	-	COG1917S	hypothetical protein
+712921..714090	-	389	121613603	aspC	CJJ81176_0783	-	COG0436E	aspartate aminotransferase
+714262..714900	-	212	121612414	cysE	CJJ81176_0784	-	COG1045E	serine acetyltransferase
+714901..716733	-	610	121613374	speA	CJJ81176_0785	-	COG1166E	arginine decarboxylase
+716733..717959	-	408	121612446	hisS	CJJ81176_0786	-	COG0124J	histidyl-tRNA synthetase
+717956..718534	-	192	121612951	tmk	CJJ81176_0787	-	COG0125F	thymidylate kinase
+718525..719001	-	158	121612588	coaD	CJJ81176_0788	-	COG0669H	phosphopantetheine adenylyltransferase
+719041..719604	-	187	121613191	-	CJJ81176_0789	-	COG0163H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+719601..720263	-	220	121613741	flgA	CJJ81176_0790	-	COG1261NO	flagellar basal body P-ring biosynthesis protein FlgA
+720347..721123	-	258	121612528	-	CJJ81176_0791	-	COG1464P	NLPA family lipoprotein
+721133..721903	-	256	121612169	-	CJJ81176_0792	-	COG1464P	NLPA family lipoprotein
+721952..722725	-	257	121613296	-	CJJ81176_0793	-	COG1464P	NLPA family lipoprotein
+722917..723828	-	303	121612450	-	CJJ81176_0794	-	COG2011P	ABC transporter, permease protein
+723825..724835	-	336	121612538	-	CJJ81176_0795	-	COG1135P	ABC transporter, ATP-binding protein
+724840..727452	-	870	121613655	valS	CJJ81176_0796	-	COG0525J	valyl-tRNA synthetase
+727475..728494	-	339	121612758	-	CJJ81176_0797	-	-	hypothetical protein
+728623..730653	+	676	121613648	-	CJJ81176_0798	-	COG0210L	putative ATP-dependent DNA helicase
+730694..731434	+	246	121612113	-	CJJ81176_0799	-	COG4588R	major antigenic peptide PEB2
+731533..732060	+	175	121613237	tpx	CJJ81176_0800	-	COG2077O	thiol peroxidase
+732307..735078	+	923	121612508	napA	CJJ81176_0801	-	COG0243C	nitrate reductase catalytic subunit
+735096..735836	+	246	121613229	napG	CJJ81176_0802	-	COG0437C	quinol dehydrogenase periplasmic component
+735836..736615	+	259	121612888	napH	CJJ81176_0803	-	COG0348C	quinol dehydrogenase membrane component
+736615..737136	+	173	121613406	napB	CJJ81176_0804	-	COG3043C	periplasmic nitrate reductase, small subunit
+737141..738055	+	304	121612123	napL	CJJ81176_0805	-	-	napL protein
+738048..738386	+	112	121613698	napD	CJJ81176_0806	-	COG3062P	napD protein
+738396..738569	+	57	121612971	-	CJJ81176_0807	-	-	hypothetical protein
+738651..738896	+	81	121612225	-	CJJ81176_0808	-	-	hypothetical protein
+738893..739384	+	163	121613182	-	CJJ81176_0809	-	-	hypothetical protein
+739353..740471	+	372	121612457	-	CJJ81176_0810	-	COG0617J	polyA polymerase family protein
+740468..741292	+	274	121612577	purU	CJJ81176_0811	-	COG0788F	formyltetrahydrofolate deformylase
+741289..742557	-	422	121613123	-	CJJ81176_0812	-	COG0520E	aminotransferase, putative
+742599..743477	+	292	121613525	-	CJJ81176_0813	-	-	hypothetical protein
+743481..744500	+	339	121612725	-	CJJ81176_0814	-	COG0642T	sensor histidine kinase
+744619..745893	+	424	121612722	-	CJJ81176_0815	-	-	hypothetical protein
+745952..747379	-	475	121613032	-	CJJ81176_0816	-	COG0770M	Mur ligase family protein
+747380..748099	-	239	121612103	-	CJJ81176_0817	-	COG0596R	hypothetical protein
+748101..748316	-	71	121612991	-	CJJ81176_0818	-	-	prevent-host-death family protein
+748376..749416	-	346	121612276	ddl	CJJ81176_0819	-	COG1181M	D-alanyl-alanine synthetase A
+749426..749977	-	183	121613230	ruvA	CJJ81176_0820	-	COG0632L	Holliday junction DNA helicase RuvA
+749953..751812	-	619	121613381	-	CJJ81176_0821	-	-	hypothetical protein
+751916..753367	+	483	121612540	mviN	CJJ81176_0822	-	COG0728R	integral membrane protein MviN
+753367..754755	+	462	121612326	cysS	CJJ81176_0823	-	COG0215J	cysteinyl-tRNA synthetase
+754748..756490	+	580	121613275	-	CJJ81176_0824	-	COG1132V	ABC transporter, ATP-binding protein/permease MsbA, putative
+756522..757580	+	352	121612110	pyrD	CJJ81176_0825	-	COG0167F	dihydroorotate dehydrogenase 2
+757577..758827	+	416	121613273	-	CJJ81176_0826	-	COG0612R	M16 family peptidase
+758820..759716	+	298	121613216	dapA	CJJ81176_0827	-	COG0329EM	dihydrodipicolinate synthase
+759716..760495	+	259	121613526	-	CJJ81176_0828	-	COG1028IQR	7-alpha-hydroxysteroid dehydrogenase
+760536..760841	-	101	121612922	-	CJJ81176_0829	-	-	hypothetical protein
+760853..761449	-	198	121613616	-	CJJ81176_0830	-	COG0491R	metallo-beta-lactamase family protein
+761523..762263	+	246	121613744	nadE	CJJ81176_0831	-	COG0171H	NAD synthetase
+762267..763193	+	308	121612976	lpxK	CJJ81176_0832	-	COG1663M	tetraacyldisaccharide 4'-kinase
+763190..764602	+	470	121613411	thrC	CJJ81176_0833	-	COG0498E	threonine synthase
+764599..765318	+	239	121612623	kdsB	CJJ81176_0834	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+765409..766743	+	444	121612887	-	CJJ81176_0835	-	-	hypothetical protein
+766837..767607	+	256	121613400	-	CJJ81176_0836	-	COG0834ET	amino acid-binding protein
+767623..768357	-	244	121612246	fliP	CJJ81176_0837	-	COG1338NU	flagellar biosynthesis protein FliP
+768500..769789	+	429	121613630	glmU	CJJ81176_0838	-	COG1207M	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+769786..770940	+	384	121612856	coaBC	CJJ81176_0839	-	COG0452H	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+770943..771554	+	203	121613752	-	CJJ81176_0840	-	-	hypothetical protein
+771558..772226	+	222	121612397	uppS	CJJ81176_0841	-	COG0020I	undecaprenyl diphosphate synthase
+772223..772999	+	258	121613088	-	CJJ81176_0842	-	COG1989NOU	A24 family peptidase
+772999..774024	+	341	121613133	-	CJJ81176_0843	-	COG0795R	hypothetical protein
+774021..774746	+	241	121613330	truA	CJJ81176_0844	-	COG0101J	tRNA pseudouridine synthase A
+774743..775954	-	403	121613621	ilvA	CJJ81176_0845	-	COG1171E	threonine dehydratase
+775954..776367	-	137	121612172	-	CJJ81176_0846	-	COG1832R	CoA-binding domain-containing protein
+776486..776902	+	138	121612345	-	CJJ81176_0847	-	COG3399S	hypothetical protein
+776889..777962	-	357	121613439	trmA	CJJ81176_0848	-	COG2265J	tRNA (uracil-5-)-methyltransferase
+777959..779692	-	577	121613640	-	CJJ81176_0849	-	COG1757C	Na+/H+ antiporter family protein
+779689..780438	-	249	121612926	-	CJJ81176_0850	-	COG4221R	short chain dehydrogenase/reductase family oxidoreductase
+780435..781661	-	408	121612267	-	CJJ81176_0851	-	COG0666R	ankyrin repeat-containing protein
+781721..784267	-	848	121612675	acnB	CJJ81176_0852	-	COG1049C	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+784322..784774	+	150	121613265	ogt	CJJ81176_0853	-	COG0350L	methylated-DNA--protein-cysteine S-methyltransferase
+784766..785707	-	313	121612484	-	CJJ81176_0854	-	-	hypothetical protein
+785711..787597	-	628	121612346	metS	CJJ81176_0855	-	COG0143J	methionyl-tRNA synthetase
+787607..787771	-	54	121613051	-	CJJ81176_0856	-	-	hypothetical protein
+787797..788639	-	280	121612163	fbp	CJJ81176_0857	-	COG0158G	fructose-1,6-bisphosphatase
+788641..789132	-	163	121613662	mobB	CJJ81176_0858	-	COG1763H	molybdopterin-guanine dinucleotide biosynthesis protein MobB
+789610..791235	-	541	121612854	-	CJJ81176_0859	-	COG0741M	soluble lytic murein transglycosylase, putative
+791232..791513	-	93	121613590	-	CJJ81176_0860	-	-	YGGT family protein
+791516..792811	-	431	121612680	gltX-1	CJJ81176_0861	-	COG0008J	glutamylglutaminyl-tRNA synthetase
+792897..794021	+	374	121613350	-	CJJ81176_0862	-	COG1408R	Ser/Thr protein phosphatase family protein
+794018..794818	+	266	121612932	psd	CJJ81176_0863	-	COG0688I	phosphatidylserine decarboxylase
+794815..795096	-	93	121612445	-	CJJ81176_0864	-	COG2257S	FlhB domain-containing protein
+795093..797342	-	749	121613569	-	CJJ81176_0865	-	-	hypothetical protein
+797335..798522	-	395	121612847	-	CJJ81176_0866	-	-	major facilitator family protein
+798500..799003	-	167	121613394	-	CJJ81176_0867	-	-	hypothetical protein
+799003..799218	-	71	121612690	-	CJJ81176_0868	-	-	hypothetical protein
+799329..800603	-	424	121613210	hemL	CJJ81176_0869	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+800600..800947	-	115	121612482	-	CJJ81176_0870	-	-	hypothetical protein
+801027..801875	+	282	121613160	folD	CJJ81176_0871	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+801885..802733	+	282	121612845	lepB	CJJ81176_0872	-	COG0681U	signal peptidase I
+802755..803915	-	386	121612389	-	CJJ81176_0873	-	COG0303H	molybdopterin biosynthesis MoeA protein, putative
+803912..805168	-	418	121612784	murA	CJJ81176_0874	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+805234..805662	-	142	121613288	-	CJJ81176_0875	-	-	hypothetical protein
+805757..806629	+	290	121612941	-	CJJ81176_0876	-	-	integral membrane protein
+806616..807182	-	188	121612461	pabA	CJJ81176_0877	-	COG0512EH	para-aminobenzoate synthase glutamine amidotransferase, component II
+807179..808963	-	594	121612257	pabB	CJJ81176_0878	-	COG0147EH	para-aminobenzoate synthase glutamine amidotransferase, component I
+808953..810017	-	354	121612957	-	CJJ81176_0879	-	COG4974L	phage integrase family site specific recombinase
+810644..811306	+	220	121613617	dsbA	CJJ81176_0880	-	COG1651O	thiol:disulfide interchange protein DsbA
+811318..812112	+	264	121613190	dsbB	CJJ81176_0881	-	COG1495O	putative disulfide oxidoreductase
+812200..814062	+	620	121612884	-	CJJ81176_0882	-	-	arylsulfate sulfotransferase, degenerate
+814118..814789	+	223	121613081	-	CJJ81176_0883	-	COG1651O	thiol:disulfide interchange protein DsbA, putative
+814823..815200	-	125	121612102	-	CJJ81176_0884	-	COG3258C	cytochrome c family protein, degenerate
+815264..815809	-	181	121613336	-	CJJ81176_0885	-	COG3258C	cytochrome C
+816019..816159	+	46	121612699	-	CJJ81176_0886	-	-	hypothetical protein
+816147..816779	-	210	121612192	-	CJJ81176_0887	-	-	putative periplasmic protein
+816776..817018	-	80	121612411	-	CJJ81176_0888	-	-	hypothetical protein
+817002..818048	-	348	121612769	-	CJJ81176_0889	-	COG2404R	hypothetical protein
+818057..820192	-	711	121613700	flhA	CJJ81176_0890	-	COG1298NU	flagellar biosynthesis protein FlhA
+820218..820628	-	136	121612186	-	CJJ81176_0891	-	COG1959K	RrF2 family protein, putative
+820803..821075	+	90	121612863	rpsO	CJJ81176_0892	-	COG0184J	30S ribosomal protein S15
+821161..824001	-	946	121613467	-	CJJ81176_0893	-	COG1674D	cell division protein FtsK, putative
+824111..826363	-	750	121612548	-	CJJ81176_0894	-	COG1344N	lagellar hook-associated protein FlgL
+826745..828676	-	643	121613319	-	CJJ81176_0897	-	COG0488R	ABC transporter, ATP-binding protein
+828680..829969	-	429	121612396	-	CJJ81176_0898	-	COG0642T	sensor histidine kinase
+829963..830625	-	220	121613098	-	CJJ81176_0899	-	COG0745TK	DNA-binding response regulator
+830612..832195	-	527	121612205	serA	CJJ81176_0900	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+832192..832680	-	162	121612780	-	CJJ81176_0901	-	-	hypothetical protein
+832680..834350	-	556	121613103	rpsA	CJJ81176_0902	-	COG0539J	30S ribosomal protein S1
+834482..835315	-	277	121612663	ispH	CJJ81176_0903	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+835305..836576	-	423	121613725	aroA	CJJ81176_0904	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+836588..838909	-	773	121612808	pheT	CJJ81176_0905	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+838906..839898	-	330	121613504	pheS	CJJ81176_0906	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+840021..840386	+	121	121612658	-	CJJ81176_0907	-	COG0537FGR	HIT family protein
+840416..840985	-	189	121613365	thiJ	CJJ81176_0908	-	COG0693R	4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+840978..841157	-	59	121613286	-	CJJ81176_0909	-	-	hypothetical protein
+841241..841984	+	247	121612320	-	CJJ81176_0910	-	COG0765E	His/Glu/Gln/Arg/opine amino acid ABC transporter permease
+841977..842705	+	242	121612318	-	CJJ81176_0911	-	COG1126E	amino acid ABC transporter, ATP-binding protein
+842733..844199	-	488	121613140	-	CJJ81176_0912	-	COG1115E	amino acid carrier protein
+844303..844770	-	155	121612429	-	CJJ81176_0913	-	COG0219J	RNA methyltransferase
+844773..845759	-	328	121613298	alr	CJJ81176_0914	-	COG0787M	alanine racemase
+845760..846737	-	325	121612822	-	CJJ81176_0915	-	COG3034S	hypothetical protein
+846895..847365	+	156	121613012	-	CJJ81176_0916	-	-	hypothetical protein
+847451..847870	+	139	121613127	-	CJJ81176_0917	-	COG2847S	hypothetical protein
+847874..848326	+	150	121613628	-	CJJ81176_0918	-	-	hypothetical protein
+848323..848883	+	186	121613334	-	CJJ81176_0919	-	COG1999R	SCO1/SenC family protein
+848890..849651	-	253	121612155	cysK	CJJ81176_0920	-	COG0031E	cysteine synthase A
+849914..850210	-	98	121613433	hup	CJJ81176_1731	-	COG0776L	DNA-binding protein HU
+850312..852144	-	610	121612338	ciaB	CJJ81176_0921	-	-	invasion antigen B
+852206..852619	+	137	121613649	-	CJJ81176_0922	-	COG1607I	thioesterase family protein
+852659..852859	-	66	121612197	-	CJJ81176_0923	-	COG2879S	hypothetical protein
+852837..854948	-	703	121613419	cstA	CJJ81176_0924	-	COG1966T	carbon starvation protein A
+855115..856044	-	309	121612719	prsA	CJJ81176_0925	-	COG0462FE	ribose-phosphate pyrophosphokinase
+856152..856811	-	219	121613743	-	CJJ81176_0926	-	COG0765E	amino acid ABC transporter, permease protein PEB1
+856822..857574	-	250	121612211	-	CJJ81176_0927	-	COG0765E	amino acid ABC transporter, permease protein PEB1
+857576..858355	-	259	121613532	pebA	CJJ81176_0928	-	COG0834ET	bifunctional adhesin/ABC transporter aspartate/glutamate-binding protein
+858377..859105	-	242	121612723	pebC	CJJ81176_0929	-	COG1126E	amino acid ABC transporter, ATP-binding protein PEB1
+859241..860029	-	262	121612593	cheR	CJJ81176_0930	-	COG1352NT	chemotaxis protein methyltransferase CheR
+860045..860599	-	184	121613513	cheB	CJJ81176_0931	-	COG2201NT	protein-glutamate methylesterase CheB
+860765..861202	+	145	121613326	rpiB	CJJ81176_0932	-	COG0698G	ribose 5-phosphate isomerase B
+861202..861534	+	110	121612643	-	CJJ81176_1732	-	-	hypothetical protein
+861531..862079	+	182	121613579	apt	CJJ81176_0934	-	COG0503F	adenine phosphoribosyltransferase
+862098..862694	+	198	121612853	-	CJJ81176_0935	-	COG0586S	DedA family protein
+862691..864142	+	483	121612859	-	CJJ81176_0936	-	COG0260E	leucyl aminopeptidase
+864139..865242	+	367	121612151	-	CJJ81176_0937	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+865264..866646	-	460	121613058	argH	CJJ81176_0938	-	COG0165E	argininosuccinate lyase
+866656..868230	-	524	121612404	pckA	CJJ81176_0939	-	COG1866C	phosphoenolpyruvate carboxykinase
+868243..870042	-	599	121612122	-	CJJ81176_0940	-	COG5016C	oxaloacetate decarboxylase, alpha subunit, putative
+870075..871415	-	446	121613138	-	CJJ81176_0941	-	COG0733R	sodium transporter, putative
+871428..872762	-	444	121612501	-	CJJ81176_0942	-	COG0733R	sodium transporter, putative
+872996..873334	+	112	121613349	atpE	CJJ81176_0943	-	-	F0F1 ATP synthase subunit C
+874059..874214	+	51	121612394	-	CJJ81176_0945	-	-	hypothetical protein
+874531..874758	+	75	121613111	-	CJJ81176_0946	-	-	hypothetical protein
+874762..875121	+	119	121613014	-	CJJ81176_0947	-	COG1598S	hypothetical protein
+875453..875584	-	43	121612911	-	CJJ81176_0948	-	-	hypothetical protein
+875589..876473	-	294	121613652	-	CJJ81176_0949	-	-	hypothetical protein
+876487..877011	-	174	121612701	-	CJJ81176_0950	-	-	hypothetical protein
+877026..877148	-	40	121612988	-	CJJ81176_0951	-	-	hypothetical protein
+877197..878312	-	371	121612512	-	CJJ81176_0952	-	-	hypothetical protein
+878596..879048	-	150	121613244	-	CJJ81176_0953	-	-	hypothetical protein
+879618..880529	+	303	121613139	-	CJJ81176_0954	-	COG0679R	hypothetical protein
+880537..884049	-	1170	121612254	aas	CJJ81176_0955	-	COG0318IQ	2-acyl-glycerophospho-ethanolamine acyltransferase
+884094..884474	-	126	121613128	-	CJJ81176_0956	-	-	hypothetical protein
+885274..886059	-	261	121612505	-	CJJ81176_0964	-	COG0765E	His/Glu/Gln/Arg/opine ABC transporter permease
+886082..887287	-	401	121613149	-	CJJ81176_0965	-	COG4591M	permease, putative
+887284..889872	-	862	121612268	secA	CJJ81176_0966	-	COG0653U	preprotein translocase subunit SecA
+889987..890481	+	164	121612737	lolA	CJJ81176_0967	-	COG2834M	outer-membrane lipoprotein carrier protein
+890478..891212	-	244	121613340	-	CJJ81176_0968	-	-	hypothetical protein
+891222..892565	-	447	121612263	-	CJJ81176_0969	-	COG0507L	hypothetical protein
+892614..893960	+	448	121612546	-	CJJ81176_0970	-	COG0791M	putative lipoprotein
+893972..894844	-	290	121612447	-	CJJ81176_0971	-	COG0388R	carbon-nitrogen family hydrolase
+894841..895728	-	295	121612674	-	CJJ81176_0972	-	COG0053P	cation efflux family protein
+895725..896702	-	325	121612399	-	CJJ81176_0973	-	COG2957E	peptidyl-arginine deiminase family protein
+896801..897235	-	144	121612285	-	CJJ81176_0974	-	COG3187O	putative lipoprotein
+897245..898837	-	530	121612989	-	CJJ81176_0975	-	COG0840NT	membrane protein, putative, degenerate
+898936..900468	-	510	121613431	purH	CJJ81176_0976	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+900471..901109	-	212	121612916	-	CJJ81176_0977	-	COG1076O	DnaJ domain-containing protein
+901238..903424	-	728	121613184	purL	CJJ81176_0978	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+903435..904763	-	442	121612630	trmE	CJJ81176_0979	-	COG0486R	tRNA modification GTPase TrmE
+904756..905574	-	272	121612959	-	CJJ81176_0980	-	-	hypothetical protein
+905578..907164	-	528	121613009	-	CJJ81176_0981	-	COG0706U	putative inner membrane protein translocase component YidC
+907161..907502	-	113	121612282	-	CJJ81176_0982	-	COG0759S	hypothetical protein
+907499..907825	-	108	121613177	rnpA	CJJ81176_0983	-	COG0594J	ribonuclease P protein component
+907822..907956	-	44	121612388	rpmH	CJJ81176_0984	-	-	50S ribosomal protein L34
+908087..908566	+	159	121613489	-	CJJ81176_0985	-	COG0456R	acetyltransferase
+908593..909171	+	192	121612802	-	CJJ81176_0986	-	COG1573L	hypothetical protein
+909207..910358	+	383	121612773	-	CJJ81176_0987	-	-	hypothetical protein
+910350..910724	-	124	121613585	-	CJJ81176_0988	-	COG0824R	thioesterase family protein
+911259..911441	+	60	121613369	-	CJJ81176_0990	-	-	putative periplasmic protein
+911443..911598	+	51	121612986	-	CJJ81176_0991	-	-	putative periplasmic protein
+911595..912038	+	147	121612416	-	CJJ81176_0992	-	-	putative periplasmic protein
+912068..912184	+	38	121612554	-	CJJ81176_0993	-	-	putative periplasmic protein
+912229..913098	+	289	121613499	-	CJJ81176_1741	-	-	putative periplasmic protein
+913484..913612	+	42	121613527	-	CJJ81176_1742	-	-	hypothetical protein
+913709..915370	+	553	121612569	-	CJJ81176_1743	-	-	putative periplasmic protein
+915632..917287	+	551	121612465	-	CJJ81176_1744	-	COG2831U	hypothetical protein
+917398..918273	+	291	121613156	-	CJJ81176_0995	-	COG2227H	methyltransferase, putative
+918346..918924	+	192	121613158	-	CJJ81176_0996	-	COG2050Q	hypothetical protein
+918925..919098	-	57	121612459	-	CJJ81176_0997	-	-	putative lipoprotein
+919107..919634	-	175	121612563	-	CJJ81176_0998	-	COG1525L	thermonuclease family protein
+919702..920970	+	422	121612789	pepD	CJJ81176_0999	-	COG2195E	aminoacyl-histidine dipeptidase
+920953..922200	-	415	121612328	cjaB	CJJ81176_1000	-	COG2814G	CjaB protein
+922240..923079	-	279	121612178	cjaA	CJJ81176_1001	-	COG0834ET	CjaA protein
+923299..924417	+	372	121613448	jlpA	CJJ81176_1002	-	-	surface-exposed lipoprotein
+924509..925249	+	246	121612487	-	CJJ81176_1003	-	COG3022S	hypothetical protein
+925253..926404	-	383	121613231	hipO	CJJ81176_1004	-	COG1473R	hippurate hydrolase
+926406..926981	-	191	121612112	-	CJJ81176_1005	-	-	hypothetical protein
+927215..927625	-	136	121612134	-	CJJ81176_1006	-	COG2807P	hypothetical protein
+927859..928065	+	68	121612910	-	CJJ81176_1007	-	-	hypothetical protein
+928068..928829	-	253	121613647	-	CJJ81176_1008	-	-	hypothetical protein
+928826..930091	-	421	121612950	-	CJJ81176_1009	-	COG0247C	iron-sulfur cluster-binding domain-containing protein
+930093..931448	-	451	121612219	hemN	CJJ81176_1010	-	COG0635H	coproporphyrinogen III oxidase
+931435..931926	-	163	121612360	-	CJJ81176_1011	-	-	hypothetical protein
+931923..932843	-	306	121613304	argF	CJJ81176_1012	-	COG0078E	ornithine carbamoyltransferase
+932840..933823	-	327	121613545	hemB	CJJ81176_1013	-	COG0113H	delta-aminolevulinic acid dehydratase
+933881..934441	+	186	121612797	ribA	CJJ81176_1014	-	COG0807H	GTP cyclohydrolase II
+934442..935008	+	188	121612782	gidB	CJJ81176_1015	-	COG0357M	methyltransferase GidB
+935024..935596	-	190	121613736	-	CJJ81176_1016	-	-	hypothetical protein
+935691..936788	-	365	121612158	-	CJJ81176_1017	-	COG2855S	hypothetical protein
+936901..937782	+	293	121613078	-	CJJ81176_1018	-	COG0583K	LysR family transcriptional regulator
+937862..939730	+	622	121612947	rpoD	CJJ81176_1019	-	COG0568K	RNA polymerase sigma factor RpoD
+939745..940257	-	170	121612727	sixA	CJJ81176_1020	-	COG2062T	phosphohistidine phosphatase SixA
+940254..940772	-	172	121613089	-	CJJ81176_1021	-	COG0705R	rhomboid family protein
+940870..941286	+	138	121612215	-	CJJ81176_1022	-	-	hypothetical protein
+941294..942910	-	538	121612530	-	CJJ81176_1023	-	COG0465O	cell division protein FtsH, putative
+942914..944164	-	416	121612428	-	CJJ81176_1024	-	COG0621J	MiaB-like tRNA modifying enzyme
+944161..945732	-	523	121612739	-	CJJ81176_1025	-	COG0668M	mechanosensitive ion channel family protein
+945729..946784	-	351	121613531	aroB	CJJ81176_1026	-	COG0337E	3-dehydroquinate synthase
+946830..948230	-	466	121612157	-	CJJ81176_1027	-	COG3400S	TrkA domain-containing protein
+948260..949381	+	373	121613106	tgt	CJJ81176_1028	-	COG0343J	queuine tRNA-ribosyltransferase
+949383..950150	+	255	121613520	-	CJJ81176_1029	-	COG0598P	hypothetical protein
+950282..950746	-	154	121612801	-	CJJ81176_1031	-	-	hypothetical protein
+950747..953992	-	1081	121612570	-	CJJ81176_1032	-	COG0755O	CcmF/CcyK/CcsA family cytochrome c biogenesis protein
+954010..954708	-	232	121613528	livF	CJJ81176_1033	-	COG0410E	high affinity branched-chain amino acid ABC transporter, ATP-binding protein
+954692..955462	-	256	121613505	livG	CJJ81176_1034	-	COG0411E	high affinity branched-chain amino acid ABC transporter, ATP-binding protein
+955459..956511	-	350	121612562	livM	CJJ81176_1035	-	COG4177E	high affinity branched-chain amino acid ABC transporter, permease protein
+956511..957407	-	298	121613045	livH	CJJ81176_1036	-	COG0559E	high affinity branched-chain amino acid ABC transporter, permease protein
+957426..958535	-	369	121612325	-	CJJ81176_1037	-	COG0683E	high affinity branched-chain amino acid ABC transporter, periplasmic amino acid-binding protein
+958557..959672	-	371	121612759	-	CJJ81176_1038	-	COG0683E	high affinity branched-chain amino acid ABC transporter, periplasmic amino acid-binding protein
+959703..960137	-	144	121613676	-	CJJ81176_1039	-	COG2863C	cytochrome c family protein
+960146..960337	-	63	121612171	-	CJJ81176_1040	-	-	porin domain-containing protein
+960389..960895	-	168	121613086	-	CJJ81176_1041	-	COG2862S	hypothetical protein
+960904..961935	-	343	121612603	asd	CJJ81176_1042	-	COG0136E	aspartate-semialdehyde dehydrogenase
+961935..963236	-	433	121613540	-	CJJ81176_1043	-	COG2204T	sigma-54 dependent DNA-binding response regulator
+963293..963610	-	105	121612838	-	CJJ81176_1044	-	-	hypothetical protein
+963718..964233	-	171	121612133	-	CJJ81176_1045	-	COG3018S	putative lipoprotein
+964302..966890	-	862	121613117	gyrA	CJJ81176_1046	-	COG0188L	DNA gyrase subunit A
+966931..967506	-	191	121612312	ctsW	CJJ81176_1047	-	COG1040R	transformation system protein
+967503..968147	-	214	121613247	mapA	CJJ81176_1048	-	COG2834M	outer membrane liproprotein MapA
+968224..970020	-	598	121612549	lepA	CJJ81176_1049	-	COG0481M	GTP-binding protein LepA
+970146..971420	+	424	121612864	-	CJJ81176_1050	-	COG1538MU	hypothetical protein
+971417..972157	+	246	121613587	-	CJJ81176_1051	-	COG0845M	hypothetical protein
+972160..975177	+	1005	121613194	-	CJJ81176_1052	-	COG0841V	AcrB/AcrD/AcrF family protein
+975202..976008	-	268	121612561	-	CJJ81176_1053	-	COG0484O	adenylosuccinate lyase
+976009..976728	-	239	121613462	-	CJJ81176_1054	-	COG2935O	arginyl-tRNA-protein transferase
+976728..976979	-	83	121612736	-	CJJ81176_1055	-	-	hypothetical protein
+976983..978428	-	481	121613650	accC-1	CJJ81176_1056	-	COG4770I	acetyl-CoA carboxylase subunit A
+978568..979731	+	387	121612876	-	CJJ81176_1057	-	COG0772D	cell cycle protein FtsW
+979728..980756	+	342	121613146	murG	CJJ81176_1058	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+980727..981059	-	110	121612194	-	CJJ81176_1059	-	COG2807P	hypothetical protein
+981022..981351	-	109	121613013	-	CJJ81176_1060	-	COG2807P	putative transmembrane transport protein
+981329..981808	-	159	121612310	-	CJJ81176_1061	-	COG2807P	putative transmembrane transport protein
+981892..982743	-	283	121613726	-	CJJ81176_1062	-	-	hypothetical protein
+982806..983696	-	296	121612987	-	CJJ81176_1063	-	COG2207K	AraC family transcriptional regulator
+983693..984298	-	201	121613518	-	CJJ81176_1064	-	COG0352H	thiamine-phosphate pyrophosphorylase, putative
+984288..985433	-	381	121612673	thiH	CJJ81176_1065	-	COG1060HR	thiamine biosynthesis protein ThiH
+985436..986212	-	258	121613413	thiG	CJJ81176_1066	-	COG2022H	thiazole synthase
+986215..987018	-	267	121612454	thiF	CJJ81176_1067	-	COG1179H	thiamine biosynthesis protein ThiF
+987015..987206	-	63	121613665	thiS	CJJ81176_1068	-	COG2104H	thiamine biosynthesis protein ThiS
+987216..988313	-	365	121612679	dapE	CJJ81176_1069	-	COG0624E	succinyl-diaminopimelate desuccinylase
+988317..988916	-	199	121613345	-	CJJ81176_1070	-	COG1280E	amino acid transporter LysE
+988909..989610	-	233	121613447	-	CJJ81176_1071	-	COG0846K	NAD-dependent deacetylase
+989607..991814	-	735	121612653	mutS	CJJ81176_1072	-	COG1193L	recombination and DNA strand exchange inhibitor protein
+991807..992157	-	116	121613718	-	CJJ81176_1073	-	-	hypothetical protein
+992150..993445	-	431	121612221	murC	CJJ81176_1074	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+993512..995485	-	657	121613023	-	CJJ81176_1075	-	COG1368M	putative integral membrane protein
+995497..996273	-	258	121612517	-	CJJ81176_1076	-	COG0388R	carbon-nitrogen family hydrolase
+996266..996439	-	57	121613254	-	CJJ81176_1077	-	-	exodeoxyribonuclease VII, small subunit, putative
+996436..997893	-	485	121613583	guaB	CJJ81176_1078	-	COG0516F	inosine 5'-monophosphate dehydrogenase
+997903..999264	-	453	121612634	gatA	CJJ81176_1079	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+999365..1002118	-	917	121612940	ileS	CJJ81176_1080	-	COG0060J	isoleucyl-tRNA synthetase
+1002217..1003305	+	362	121612250	-	CJJ81176_1081	-	COG1546R	competence/damage-inducible domain-containing protein
+1003317..1003742	+	141	121612697	-	CJJ81176_1082	-	COG1246E	acetyltransferase
+1003806..1004426	+	206	121613422	-	CJJ81176_1083	-	COG0778C	nitroreducatase family protein, authentic frameshift
+1004426..1005031	+	201	121612908	-	CJJ81176_1084	-	COG0778C	nitroreductase family protein
+1005156..1005692	+	178	121613620	pgsA	CJJ81176_1085	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1005689..1006795	+	368	121612227	-	CJJ81176_1086	-	COG0750M	membrane-associated zinc metalloprotease, putative
+1006788..1007654	+	288	121613011	-	CJJ81176_1087	-	COG2990S	hypothetical protein
+1007741..1008118	+	125	121612432	rpsF	CJJ81176_1088	-	COG0360J	30S ribosomal protein S6
+1008127..1008675	+	182	121613258	ssb	CJJ81176_1089	-	COG0629L	single-stranded DNA-binding protein
+1008686..1008946	+	86	121613108	rpsR	CJJ81176_1090	-	COG0238J	30S ribosomal protein S18
+1009006..1011381	-	791	121612165	lon	CJJ81176_1091	-	COG0466O	ATP-dependent protease La
+1011398..1012045	-	215	121613300	-	CJJ81176_1092	-	COG4105R	putative lipoprotein
+1012206..1012595	+	129	121612373	-	CJJ81176_1093	-	COG1699S	flagellar assembly protein FliW
+1012595..1013326	+	243	121612664	proC	CJJ81176_1094	-	COG0345E	pyrroline-5-carboxylate reductase
+1013323..1013625	+	100	121613360	ctsT	CJJ81176_1095	-	-	transformation system protein
+1013622..1014284	+	220	121612857	-	CJJ81176_1096	-	-	hypothetical protein
+1014281..1014733	+	150	121612244	-	CJJ81176_1097	-	-	hypothetical protein
+1014730..1015359	-	209	121613591	hemD	CJJ81176_1098	-	COG1587H	uroporphyrinogen-III synthase
+1015337..1015969	-	210	121612993	thiE	CJJ81176_1099	-	COG0352H	thiamine-phosphate pyrophosphorylase
+1015959..1016771	-	270	121612839	thiD	CJJ81176_1100	-	COG0351H	phosphomethylpyrimidine kinase
+1016768..1017454	-	228	121612421	-	CJJ81176_1101	-	COG2231L	endonuclease III, putative
+1017451..1018212	-	253	121612637	-	CJJ81176_1102	-	COG2607R	hypothetical protein
+1018214..1021150	-	978	121613373	mfd	CJJ81176_1103	-	COG1197LK	transcription-repair coupling factor
+1021150..1021545	-	131	121612850	-	CJJ81176_1104	-	COG1664M	hypothetical protein
+1021482..1022384	-	300	121613614	-	CJJ81176_1105	-	COG0739M	M24/M37 family peptidase
+1022371..1023543	-	390	121612183	folC	CJJ81176_1106	-	COG0285H	folC bifunctional protein
+1023521..1024918	-	465	121613187	-	CJJ81176_1107	-	-	hypothetical protein
+1024902..1025246	-	114	121612654	-	CJJ81176_1108	-	-	putative lipoprotein
+1025411..1027840	-	809	121613441	leuS	CJJ81176_1109	-	COG0495J	leucyl-tRNA synthetase
+1027850..1028821	-	323	121613248	secF	CJJ81176_1110	-	COG0341U	preprotein translocase subunit SecF
+1028821..1030401	-	526	121613290	secD	CJJ81176_1111	-	COG0342U	preprotein translocase subunit SecD
+1030394..1030666	-	90	121612354	yajC	CJJ81176_1112	-	COG1862U	preprotein translocase subunit YajC
+1030639..1031964	+	441	121613544	cutE	CJJ81176_1113	-	COG0815M	apolipoprotein N-acyltransferase
+1032202..1033413	-	403	121612575	metK	CJJ81176_1114	-	COG0192H	S-adenosylmethionine synthetase
+1033538..1034761	+	407	121613737	-	CJJ81176_1115	-	COG3633E	serine/threonine transporter SstT
+1034771..1035658	+	295	121612807	pyrB	CJJ81176_1116	-	COG0540F	aspartate carbamoyltransferase catalytic subunit
+1035662..1037380	+	572	121612359	pepF	CJJ81176_1117	-	COG1164E	oligoendopeptidase F
+1037374..1037811	+	145	121613077	-	CJJ81176_1118	-	-	hypothetical protein
+1037808..1039883	+	691	121612511	-	CJJ81176_1119	-	COG0210L	ATP-dependent DNA helicase UvrD
+1039880..1040698	+	272	121612534	truB	CJJ81176_1120	-	COG0130J	tRNA pseudouridine synthase B
+1040692..1040919	+	75	121613351	csrA	CJJ81176_1121	-	COG1551T	carbon storage regulator
+1040916..1041683	+	255	121613239	ispE	CJJ81176_1122	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1041680..1042132	+	150	121612288	smpB	CJJ81176_1123	-	COG0691O	SsrA-binding protein
+1042143..1042745	+	200	121613029	-	CJJ81176_1124	-	COG0526OC	thioredoxin domain-containing protein
+1042745..1043035	+	96	121612672	-	CJJ81176_1125	-	COG2127S	hypothetical protein
+1043032..1045161	+	709	121613654	clpA	CJJ81176_1126	-	COG0542O	ATP-dependent Clp protease, ATP-binding subunit ClpA
+1045136..1045783	+	215	121612836	aat	CJJ81176_1127	-	COG2360O	leucyl/phenylalanyl-tRNA--protein transferase
+1045805..1047094	-	429	121612198	-	CJJ81176_1128	-	COG0840NT	methyl-accepting chemotaxis protein
+1047176..1047802	-	208	121612170	-	CJJ81176_1129	-	COG2095U	MarC family integral membrane protein
+1047817..1048176	-	119	121612353	msrB	CJJ81176_1130	-	COG0229O	methionine sulfoxide reductase B
+1048266..1049063	+	265	121613282	-	CJJ81176_1131	-	COG2833S	hypothetical protein
+1049054..1049782	-	242	121612712	pssA	CJJ81176_1132	-	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase
+1049792..1050409	-	205	121613426	-	CJJ81176_1133	-	COG0688I	phosphatidylserine decarboxylase-related protein
+1050406..1052343	-	645	121612703	ftsH	CJJ81176_1134	-	COG0465O	cell division protein FtsH
+1052347..1053192	-	281	121612283	prmA	CJJ81176_1135	-	COG2264J	ribosomal protein L11 methyltransferase
+1053215..1053607	-	130	121613202	cheY	CJJ81176_1136	-	COG3706T	chemotaxis protein CheY
+1053720..1054613	-	297	121613359	pglG	CJJ81176_1137	-	-	general glycosylation pathway protein
+1054613..1056385	-	590	121612711	pglF	CJJ81176_1138	-	COG1086MG	general glycosylation pathway protein
+1056387..1057547	-	386	121612710	pglE	CJJ81176_1139	-	COG0399M	general glycosylation pathway protein
+1057645..1058256	-	203	121613626	pglD	CJJ81176_1140	-	COG2171E	general glycosylation pathway protein
+1058222..1058824	-	200	121612358	pglC	CJJ81176_1141	-	COG2148M	general glycosylation pathway protein
+1058817..1059947	-	376	121613346	pglA	CJJ81176_1142	-	COG0438M	general glycosylation pathway protein
+1059957..1062098	-	713	121612188	pglB	CJJ81176_1143	-	COG1287R	general glycosylation pathway protein
+1062102..1063199	-	365	121613107	pglJ	CJJ81176_1144	-	COG0438M	general glycosylation pathway protein
+1063187..1064116	-	309	121612765	pglI	CJJ81176_1145	-	COG0463M	general glycosylation pathway protein
+1064109..1065188	-	359	121613657	pglH	CJJ81176_1146	-	COG0438M	general glycosylation pathway protein
+1065185..1066879	-	564	121613309	wlaB	CJJ81176_1147	-	COG1132V	ABC transporter, permease/ATP-binding protein
+1066873..1067859	-	328	121613372	galE	CJJ81176_1148	-	COG1087M	UDP-glucose 4-epimerase
+1067918..1068712	-	264	121613680	wlaX	CJJ81176_1149	-	COG3298L	polysaccharide biosynthesis protein
+1068778..1069806	+	342	121612880	waaC	CJJ81176_1150	-	COG0859M	lipopolysaccharide heptosyltransferase I
+1069796..1070683	+	295	121612821	waaM	CJJ81176_1151	-	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+1070680..1072227	+	515	121613734	-	CJJ81176_1152	-	COG1216R	lipooligosaccharide biosynthesis glycosyltransferase, putative
+1072218..1073399	+	393	121612981	-	CJJ81176_1153	-	COG0463M	galactosyltransferase
+1073704..1074489	+	261	121612423	-	CJJ81176_1154	-	-	beta-1,4-N-acetylgalactosaminyltransferase
+1074475..1074828	-	117	121612308	-	CJJ81176_1155	-	-	beta-1,3-galactosyltransferase
+1074836..1075381	-	181	121612965	-	CJJ81176_1156	-	COG0463M	beta-1,3-galactosyltransferase
+1075470..1076345	+	291	121612718	-	CJJ81176_1157	-	-	alpha-2,3-sialyltransferase
+1076346..1077386	+	346	121613163	-	CJJ81176_1158	-	COG2089M	sialic acid synthase
+1077383..1078507	+	374	121613651	-	CJJ81176_1159	-	COG0381M	UDP-N-acetylglucosamine 2-epimerase
+1078500..1079447	+	315	121613292	-	CJJ81176_1160	-	-	beta-1,4-N-acetylgalactosaminyltransferase
+1079444..1080109	+	221	121613508	-	CJJ81176_1161	-	COG1083M	CMP-Neu5Ac synthetase
+1080232..1080840	+	202	121612609	-	CJJ81176_1162	-	COG0110R	acetyltransferase
+1080921..1081748	-	275	121613674	waaV	CJJ81176_1163	-	COG0463M	lipooligosaccharide biosynthesis glycosyltransferase
+1081807..1082760	+	317	121612891	waaF	CJJ81176_1164	-	COG0859M	ADP-heptose--LPS heptosyltransferase II
+1082767..1083522	-	251	121613507	-	CJJ81176_1165	-	COG3306M	LPS glycosyltransferase subfamily protein
+1083522..1084082	-	186	121612579	gmhA-1	CJJ81176_1166	-	COG0279G	phosphoheptose isomerase
+1084079..1085464	-	461	121613684	hldE	CJJ81176_1167	-	COG2870M	D,D-heptose 1-phosphate adenosyltransferase/7-phosphate kinase
+1085457..1086410	-	317	121612783	waaD	CJJ81176_1168	-	COG0451MG	ADP-L-glycero-D-mannoheptose-6-epimerase
+1086411..1086971	-	186	121613070	-	CJJ81176_1169	-	COG0241E	hydrolase, putative
+1087053..1087355	+	100	121613690	cyf	CJJ81176_1170	-	COG2863C	cytochrome c553
+1087378..1087584	-	68	121612755	-	CJJ81176_1171	-	COG3197P	cytochrome oxidase maturation protein, cbb3-type, putative
+1087581..1089932	-	783	121613249	-	CJJ81176_1172	-	COG2217P	heavy metal translocating P-type ATPase
+1090047..1091345	+	432	121612934	rho	CJJ81176_1173	-	COG1158K	transcription termination factor Rho
+1091349..1092878	+	509	121613206	dnaX	CJJ81176_1174	-	COG2812L	DNA polymerase III subunits gamma and tau
+1092875..1093396	-	173	121612232	-	CJJ81176_1746	-	COG5472S	hypothetical protein
+1093468..1095567	-	699	121612387	-	CJJ81176_1176	-	COG2217P	copper-translocating P-type ATPase
+1095567..1095731	-	54	121613424	-	CJJ81176_1177	-	-	hypothetical protein
+1095751..1096701	-	316	121612677	-	CJJ81176_1178	-	COG1230P	cation efflux family protein
+1096776..1097039	-	87	121613606	-	CJJ81176_1179	-	COG3809S	hypothetical protein
+1097109..1097603	-	164	121613193	-	CJJ81176_1180	-	COG3610S	hypothetical protein
+1097600..1098376	-	258	121613402	-	CJJ81176_1181	-	COG2966S	hypothetical protein
+1098444..1099370	+	308	121612218	ldh	CJJ81176_1182	-	COG0039C	L-lactate dehydrogenase
+1099367..1099969	-	200	121613253	-	CJJ81176_1183	-	COG0586S	DedA family protein
+1100049..1100276	-	75	121612953	-	CJJ81176_1184	-	-	hypothetical protein
+1100287..1101687	-	466	121612867	-	CJJ81176_1185	-	-	hypothetical protein
+1101851..1102333	-	160	121613502	ppiB	CJJ81176_1186	-	COG0652O	peptidyl-prolyl cis-trans isomerase B
+1102343..1103050	-	235	121612584	-	CJJ81176_1187	-	COG0217S	hypothetical protein
+1103159..1103500	+	113	121613514	-	CJJ81176_1188	-	COG2076P	SMR family multidrug efflux pump
+1103500..1103808	+	102	121612560	-	CJJ81176_1189	-	COG2076P	SMR family multidrug efflux pump
+1103826..1105418	-	530	121613183	argS	CJJ81176_1190	-	COG0018J	arginyl-tRNA synthetase
+1105430..1105669	-	79	121612202	-	CJJ81176_1191	-	COG1826U	twin arginine-targeting protein translocase
+1105671..1106294	-	207	121612644	gmk	CJJ81176_1192	-	COG0194F	guanylate kinase
+1106291..1107919	-	542	121613577	-	CJJ81176_1193	-	-	hypothetical protein
+1107976..1108743	-	255	121612403	fliR	CJJ81176_1194	-	COG1684NU	flagellar biosynthesis protein FliR
+1108730..1109365	-	211	121613354	-	CJJ81176_1195	-	COG1136V	ABC transporter, ATP-binding protein
+1109378..1110451	-	357	121612368	tsf	CJJ81176_1196	-	COG0264J	elongation factor Ts
+1110451..1111242	-	263	121613320	rpsB	CJJ81176_1197	-	COG0052J	30S ribosomal protein S2
+1111358..1112521	-	387	121612108	-	CJJ81176_1198	-	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase, putative
+1112649..1113773	-	374	121613025	petC	CJJ81176_1199	-	COG2857C	ubiquinol--cytochrome c reductase, cytochrome c1 subunit
+1113770..1115020	-	416	121612753	petB	CJJ81176_1200	-	COG1290C	ubiquinol--cytochrome c reductase, cytochrome b subunit
+1115022..1115525	-	167	121613053	petA	CJJ81176_1201	-	COG0723C	ubiquinol--cytochrome c reductase, iron-sulfur subunit
+1115616..1116902	-	428	121612510	arsB	CJJ81176_1202	-	COG1055P	arsenical pump membrane protein
+1116903..1118762	-	619	121613192	gidA	CJJ81176_1203	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+1118850..1119347	-	165	121613242	-	CJJ81176_1204	-	COG2202T	methyl-accepting chemotaxis protein
+1119365..1120744	-	459	121613515	-	CJJ81176_1205	-	COG0840NT	methyl-accepting chemotaxis protein
+1120865..1121359	-	164	121612596	-	CJJ81176_1206	-	COG2202T	methyl-accepting chemotaxis protein
+1121628..1123004	+	458	121613384	dctA	CJJ81176_1207	-	COG1301C	C4-dicarboxylate transport protein
+1123001..1123807	-	268	121613678	-	CJJ81176_1208	-	-	hypothetical protein
+1123949..1125475	+	508	121612921	-	CJJ81176_1209	-	COG0306P	phosphate transporter family protein
+1125483..1126661	-	392	121612810	-	CJJ81176_1210	-	COG0044F	dihydroorotase
+1126671..1127564	-	297	121612958	gpsA	CJJ81176_1211	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1127564..1128982	-	472	121612788	gatB	CJJ81176_1212	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1129097..1129591	+	164	121613162	luxS	CJJ81176_1213	-	COG1854T	S-ribosylhomocysteinase
+1129903..1130895	+	330	121612168	-	CJJ81176_1214	-	COG3491R	2OG-Fe(II) oxygenase family oxidoreductase
+1130888..1131676	+	262	121612613	-	CJJ81176_1215	-	COG1464P	NLPA family lipoprotein
+1131688..1133952	+	754	121613501	metE	CJJ81176_1216	-	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+1133962..1134810	+	282	121612730	metF	CJJ81176_1217	-	COG0685E	5,10-methylenetetrahydrofolate reductase
+1134832..1134978	-	48	121613723	-	CJJ81176_1218	-	-	hypothetical protein
+1135020..1135700	-	226	121612748	atpB	CJJ81176_1219	-	COG0356C	F0F1 ATP synthase subunit A
+1135769..1137109	-	446	121612483	radA	CJJ81176_1220	-	COG1066O	DNA repair protein RadA
+1137109..1137975	-	288	121613201	ftsY	CJJ81176_1221	-	COG0552U	signal recognition particle-docking protein FtsY
+1137975..1138532	-	185	121612300	-	CJJ81176_1222	-	COG0526OC	putative lipoprotein
+1138557..1138682	-	41	121613332	-	CJJ81176_1747	-	-	hypothetical protein
+1139162..1140715	+	517	121612206	-	CJJ81176_1223	-	COG1418R	phosphodiesterase
+1140724..1141281	+	185	121613115	-	CJJ81176_1224	-	COG0586S	DedA family protein
+1142484..1143290	-	268	121613677	yihY	CJJ81176_1225	-	COG1295S	YihY family protein
+1143294..1144676	-	460	121612904	glcD	CJJ81176_1226	-	COG0277C	glycolate oxidase, subunit GlcD
+1144679..1145389	-	236	121613471	-	CJJ81176_1227	-	-	hypothetical protein
+1145526..1146686	+	386	121613663	-	CJJ81176_1228	-	COG0739M	M24/M37 family peptidase
+1146683..1146886	-	67	121612350	-	CJJ81176_1229	-	-	hypothetical protein
+1146888..1147568	-	226	121612717	-	CJJ81176_1230	-	COG1496S	hypothetical protein
+1147532..1148143	-	203	121613594	ribE	CJJ81176_1231	-	COG0307H	riboflavin synthase subunit alpha
+1148152..1150692	-	846	121612825	-	CJJ81176_1232	-	-	hypothetical protein
+1150854..1151114	+	86	121612930	groES	CJJ81176_1233	-	COG0234O	co-chaperonin GroES
+1151136..1152773	+	545	121612249	groEL	CJJ81176_1234	-	COG0459O	chaperonin GroEL
+1152816..1153877	-	353	121613339	-	CJJ81176_1235	-	COG0642T	sensor histidine kinase
+1153999..1154664	-	221	121613383	-	CJJ81176_1236	-	COG0745TK	DNA-binding response regulator
+1154812..1155411	+	199	121612625	-	CJJ81176_1237	-	COG2703P	hemerythrin family non-heme iron protein
+1155422..1155670	+	82	121613386	-	CJJ81176_1238	-	COG4710R	hypothetical protein
+1155928..1157100	-	390	121613204	-	CJJ81176_1240	-	COG0642T	sensor histidine kinase
+1157172..1157846	-	224	121612729	-	CJJ81176_1241	-	COG0745TK	DNA-binding response regulator
+1157922..1159340	-	472	121613042	htrA	CJJ81176_1242	-	COG0265O	protease DO
+1159541..1160434	+	297	121612573	dnaJ-1	CJJ81176_1243	-	COG0484O	co-chaperone protein DnaJ
+1160450..1160824	+	124	121613731	-	CJJ81176_1244	-	COG0789K	MerR family transcriptional regulator
+1160831..1162456	+	541	121613270	-	CJJ81176_1245	-	COG0475P	sodium/hydrogen exchanger family protein
+1162466..1162798	+	110	121613541	-	CJJ81176_1246	-	-	hypothetical protein
+1162795..1163415	+	206	121613211	-	CJJ81176_1247	-	COG0546R	HAD-superfamily hydrolase, subfamily IA, variant 1 family protein
+1163471..1165465	+	664	121612141	glyS	CJJ81176_1248	-	COG0751J	glycyl-tRNA synthetase subunit beta
+1165549..1166283	+	244	121613380	-	CJJ81176_1249	-	COG0739M	M24/M37 family peptidase
+1166280..1167230	+	316	121612945	-	CJJ81176_1250	-	COG1565S	hypothetical protein
+1167227..1168201	-	324	121612781	-	CJJ81176_1251	-	COG0248FP	Ppx/GppA family phosphatase
+1168257..1169045	+	262	121613705	pdxJ	CJJ81176_1252	-	COG0854H	pyridoxine 5'-phosphate synthase
+1169026..1170120	+	364	121612245	pdxA	CJJ81176_1253	-	COG1995H	4-hydroxythreonine-4-phosphate dehydrogenase
+1170098..1170421	-	107	121613148	-	CJJ81176_1254	-	-	hypothetical protein
+1170482..1170679	-	65	121612840	-	CJJ81176_1255	-	-	putative periplasmic protein
+1170823..1172022	+	399	121613589	-	CJJ81176_1256	-	COG2814G	transporter, putative
+1172078..1172398	+	106	121612420	-	CJJ81176_1257	-	-	hypothetical protein
+1172578..1173600	+	340	121613555	hemE	CJJ81176_1258	-	COG0407H	uroporphyrinogen decarboxylase
+1173597..1174499	+	300	121613061	-	CJJ81176_1259	-	COG0731C	radical SAM domain-containing protein
+1174496..1175692	-	398	121612128	-	CJJ81176_1260	-	-	hypothetical protein
+1175694..1177496	-	600	121613588	uvrC	CJJ81176_1261	-	COG0322L	excinuclease ABC subunit C
+1177489..1177983	-	164	121612866	-	CJJ81176_1262	-	-	hypothetical protein
+1177987..1178118	+	43	121612779	-	CJJ81176_1263	-	-	hypothetical protein
+1178122..1179657	+	511	121613709	guaA	CJJ81176_1264	-	COG0519F	GMP synthase
+1179743..1181203	+	486	121612207	-	CJJ81176_1265	-	COG1196D	hypothetical protein
+1181443..1182693	+	416	121613087	purD	CJJ81176_1266	-	COG0151F	phosphoribosylamine--glycine ligase
+1182690..1183142	+	150	121613341	-	CJJ81176_1267	-	COG1714S	hypothetical protein
+1183153..1185180	+	675	121612176	-	CJJ81176_1268	-	COG1452M	organic solvent tolerance protein, putative
+1185250..1187409	+	719	121612552	pnp	CJJ81176_1269	-	COG1185J	polynucleotide phosphorylase/polyadenylase
+1187406..1187888	+	160	121613018	-	CJJ81176_1270	-	COG3663L	hypothetical protein
+1187946..1188155	+	69	121612874	-	CJJ81176_1271	-	COG1942R	hypothetical protein
+1188152..1188814	-	220	121612955	-	CJJ81176_1272	-	-	hypothetical protein
+1188832..1190016	-	394	121613452	-	CJJ81176_1273	-	COG2814G	multidrug resistance efflux transporter, authentic frameshift
+1190070..1190525	+	151	121612713	-	CJJ81176_1274	-	COG0394T	low molecular weight phosphotyrosine protein phosphatase family protein
+1190777..1192051	+	424	121612668	porA	CJJ81176_1275	-	-	major outer membrane protein
+1192166..1193290	-	374	121612392	dnaJ-2	CJJ81176_1276	-	COG0484O	chaperone protein DnaJ
+1193447..1194118	+	223	121613322	racR	CJJ81176_1277	-	COG0745TK	DNA-binding response regulator
+1194175..1195350	+	391	121612247	racS	CJJ81176_1278	-	COG0642T	sensor histidine kinase
+1195350..1195922	+	190	121613624	recR	CJJ81176_1279	-	COG0353L	recombination protein RecR
+1195919..1196455	-	178	121612253	hydD	CJJ81176_1280	-	COG0680C	hydrogenase maturation protease HydD
+1196452..1197168	-	238	121612897	hydC	CJJ81176_1281	-	COG1969C	quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+1197155..1198870	-	571	121612830	hydB	CJJ81176_1282	-	COG0374C	quinone-reactive Ni/Fe-hydrogenase, large subunit
+1198873..1199955	-	360	121613368	hydA	CJJ81176_1283	-	COG1740C	quinone-reactive Ni/Fe-hydrogenase, small subunit
+1200132..1201973	-	613	121612617	mnmC	CJJ81176_1284	-	COG4121S	5-methylaminomethyl-2-thiouridine methyltransferase
+1201970..1203949	-	659	121612331	-	CJJ81176_1285	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+1203949..1205040	-	363	121612402	-	CJJ81176_1286	-	COG2070R	2-nitropropane dioxygenase family oxidoreductase
+1205037..1206242	-	401	121613329	tyrS	CJJ81176_1287	-	COG0162J	tyrosyl-tRNA synthetase
+1206254..1208425	-	723	121612152	-	CJJ81176_1288	-	COG0317TK	RelA/SpoT family protein
+1208433..1208657	-	74	121613074	rpoZ	CJJ81176_1289	-	COG1758K	DNA-directed RNA polymerase subunit omega
+1208668..1209387	-	239	121613114	pyrH	CJJ81176_1290	-	COG0528F	uridylate kinase
+1209439..1210632	-	397	121612204	-	CJJ81176_1291	-	COG0739M	M24/M37 family peptidase
+1210629..1211387	-	252	121612564	-	CJJ81176_1292	-	-	cell division protein FtsX, putative
+1211422..1212087	-	221	121612464	lolD	CJJ81176_1293	-	COG1136V	lipoprotein releasing system ATP-binding protein LolD
+1212157..1213335	-	392	121612811	trmB	CJJ81176_1294	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+1213335..1214567	-	410	121613534	-	CJJ81176_1295	-	COG3401R	fibronectin type III domain-containing protein
+1214515..1215483	-	322	121612140	-	CJJ81176_1296	-	COG0564J	ribosomal large subunit pseudouridine synthase A
+1215561..1216661	+	366	121613696	-	CJJ81176_1297	-	COG0772D	rod shape-determining protein RodA, putative
+1217115..1218458	+	447	121612523	-	CJJ81176_1300	-	COG0168P	TrkH family potassium uptake protein
+1218469..1219119	+	216	121613516	-	CJJ81176_1301	-	COG0569P	potassium uptake protein TrkA, putative
+1219116..1219787	-	223	121612591	-	CJJ81176_1302	-	COG1427R	hypothetical protein
+1219793..1220419	-	208	121612877	upp	CJJ81176_1303	-	COG0035F	uracil phosphoribosyltransferase
+1220416..1221651	-	411	121613742	-	CJJ81176_1304	-	COG0281C	NADP-dependent malic enzyme, truncation
+1221653..1223044	-	463	121612812	gltX	CJJ81176_1305	-	COG0008J	glutamyl-tRNA synthetase
+1223109..1223924	+	271	121612944	-	CJJ81176_1306	-	-	hypothetical protein
+1223962..1225293	-	443	121612451	accC-2	CJJ81176_1307	-	COG0439I	biotin carboxylase
+1225295..1225750	-	151	121613228	accB	CJJ81176_1308	-	COG0511I	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+1225898..1226458	+	186	121612496	dcd	CJJ81176_1309	-	COG0717F	deoxycytidine triphosphate deaminase
+1226507..1227511	+	334	121612602	flmA	CJJ81176_1310	-	COG1086MG	polysaccharide biosynthesis protein
+1227512..1228642	+	376	121613537	-	CJJ81176_1311	-	COG0399M	aminotransferase
+1228635..1229393	+	252	121613729	-	CJJ81176_1312	-	COG4310R	hypothetical protein
+1229404..1229943	+	179	121613269	-	CJJ81176_1313	-	COG4310R	hypothetical protein
+1229938..1230834	-	298	121613397	-	CJJ81176_1314	-	COG2226H	hypothetical protein
+1230977..1231696	+	239	121612330	-	CJJ81176_1315	-	COG2746V	hypothetical protein
+1231701..1231928	+	75	121613095	-	CJJ81176_1316	-	-	hypothetical protein
+1231921..1233279	+	452	121613057	-	CJJ81176_1317	-	COG1028IQR	hypothetical protein
+1233276..1234838	+	520	121612901	-	CJJ81176_1318	-	COG3882Q	HAD family phosphatase
+1234828..1235889	+	353	121613632	-	CJJ81176_1319	-	COG0332I	3-oxoacyl-(acyl carrier protein) synthase III
+1235889..1236110	+	73	121612726	-	CJJ81176_1320	-	-	acyl carrier protein, putative
+1236124..1236702	-	192	121612586	-	CJJ81176_1321	-	-	hypothetical protein
+1237399..1238910	+	503	121613460	-	CJJ81176_1322	-	COG1020Q	amino acid adenylation domain-containing protein
+1239050..1239622	+	190	121613730	-	CJJ81176_1323	-	COG0456R	acetyltransferase
+1239639..1239812	-	57	121612565	-	CJJ81176_1324	-	-	hypothetical protein
+1239899..1240309	+	136	121613121	-	CJJ81176_1325	-	COG0223J	formyl transferase domain-containing protein
+1240312..1240536	+	74	121612298	-	CJJ81176_1326	-	-	acyl carrier protein, putative
+1240529..1241740	-	403	121612770	-	CJJ81176_1327	-	-	hypothetical protein
+1241832..1242530	+	232	121613035	neuA	CJJ81176_1328	-	COG1083M	acylneuraminate cytidylyltransferase
+1242514..1243338	+	274	121612383	-	CJJ81176_1329	-	COG3980M	flagellar protein, putative
+1243335..1243808	+	157	121612735	-	CJJ81176_1330	-	COG1670J	acetyltransferase
+1243773..1244519	-	248	121613310	hisF-1	CJJ81176_1331	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+1244520..1245125	-	201	121612873	hisH	CJJ81176_1332	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+1245122..1246258	-	378	121613681	-	CJJ81176_1333	-	COG0037D	flagellin modification protein, PseA
+1246516..1247547	+	343	121612572	neuB	CJJ81176_1334	-	COG2089M	N-acetylneuraminic acid synthetase
+1247580..1249394	+	604	121613039	-	CJJ81176_1335	-	COG2604S	motility accessory factor
+1249415..1251379	+	654	121612818	-	CJJ81176_1336	-	COG2604S	PseD
+1251366..1253264	+	632	121613280	-	CJJ81176_1337	-	COG2604S	PseE
+1253296..1255026	-	576	121612455	-	CJJ81176_1338	-	COG1344N	flagellin
+1255200..1256930	-	576	121612545	-	CJJ81176_1339	-	COG1344N	flagellin
+1257013..1258839	-	608	121613496	-	CJJ81176_1340	-	COG2604S	motility accessory factor
+1258851..1260101	-	416	121612531	-	CJJ81176_1341	-	-	hypothetical protein
+1260101..1260616	-	171	121613180	ctsG	CJJ81176_1342	-	COG2165NU	transformation system protein
+1260617..1261624	-	335	121612827	gcp	CJJ81176_1343	-	COG0533O	putative DNA-binding/iron metalloprotein/AP endonuclease
+1261621..1263015	-	464	121613581	-	CJJ81176_1344	-	COG3608R	hypothetical protein
+1263017..1264087	-	356	121612425	dxr	CJJ81176_1345	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1264084..1264809	-	241	121612968	cdsA	CJJ81176_1346	-	COG0575I	phosphatidate cytidylyltransferase
+1264818..1265156	-	112	121612256	-	CJJ81176_1347	-	-	hypothetical protein
+1265158..1266465	-	435	121612790	-	CJJ81176_1348	-	COG1293K	fibronectin/fibrinogen binding protein, putative
+1266527..1267102	+	191	121613425	-	CJJ81176_1349	-	COG0746H	putative molybdopterin-guanine dinucleotide biosynthesis protein
+1267099..1268088	+	329	121612571	pldA	CJJ81176_1350	-	COG2829M	phospholipase A
+1268177..1269145	+	322	121613598	ceuB	CJJ81176_1351	-	COG4606P	enterochelin ABC transporter, permease protein
+1269138..1270076	+	312	121612419	ceuC	CJJ81176_1352	-	COG4605P	enterochelin ABC transporter, permease protein
+1270073..1270828	+	251	121613041	ceuD	CJJ81176_1353	-	COG4604P	enterochelin ABC transporter, ATP-binding protein
+1270841..1271833	+	330	121612138	-	CJJ81176_1354	-	COG4607P	enterochelin ABC transporter, periplasmic enterochelin-binding protein, authentic frameshift
+1271987..1272208	+	73	121613199	-	CJJ81176_1355	-	-	hypothetical protein
+1272209..1272490	+	93	121612337	-	CJJ81176_1356	-	COG3668R	RelE/ParE family plasmid stabilization system protein
+1272850..1273404	-	184	121613600	-	CJJ81176_1358	-	-	hypothetical protein
+1273540..1275372	-	610	121612669	nrfA	CJJ81176_1359	-	COG3303P	cytochrome c552
+1275387..1275902	-	171	121612120	nrfH	CJJ81176_1360	-	COG3005C	cytochrome c-type protein nrfH
+1276090..1278174	+	694	121612893	ppk	CJJ81176_1361	-	COG0855P	polyphosphate kinase
+1278618..1279070	-	150	121612322	-	CJJ81176_1363	-	-	hypothetical protein
+1279119..1280126	+	335	121612638	ruvB	CJJ81176_1364	-	COG2255L	Holliday junction DNA helicase RuvB
+1280130..1281173	+	347	121612486	-	CJJ81176_1365	-	COG0628R	hypothetical protein
+1281203..1282594	-	463	121613034	fumC	CJJ81176_1366	-	COG0114C	fumarate hydratase
+1282650..1285775	-	1041	121613392	-	CJJ81176_1367	-	COG1404O	serine protease
+1285778..1287574	-	598	121613200	glmS	CJJ81176_1368	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+1287579..1289927	-	782	121612909	-	CJJ81176_1369	-	COG2844O	GlnD family protein
+1290071..1291135	+	354	121613371	-	CJJ81176_1370	-	COG1060HR	hypothetical protein
+1291197..1294562	+	1121	121612287	-	CJJ81176_1371	-	COG1404O	serine protease
+1294609..1295928	+	439	121613573	-	CJJ81176_1372	-	COG2252R	xanthine/uracil permease family protein
+1295942..1296385	+	147	121613357	-	CJJ81176_1373	-	COG2236R	putative nucleotide phosphoribosyltransferase
+1296430..1297128	+	232	121612775	-	CJJ81176_1374	-	COG2853M	VacJ family lipoprotein
+1297138..1297707	+	189	121613470	-	CJJ81176_1375	-	COG2854Q	toluene tolerance protein, putative
+1297707..1300178	+	823	121612555	-	CJJ81176_1376	-	COG1033R	hypothetical protein
+1300209..1300811	-	200	121613483	-	CJJ81176_1377	-	COG0127F	putative deoxyribonucleotide triphosphate pyrophosphatase
+1300978..1302279	+	433	121612900	-	CJJ81176_1378	-	COG2814G	multidrug resistance efflux transporter, putative
+1302282..1303955	-	557	121612915	-	CJJ81176_1379	-	COG1149C	iron-sulfur cluster-binding domain-containing protein
+1304033..1305355	+	440	121612972	selA	CJJ81176_1380	-	COG1921E	selenocysteine synthase
+1305352..1307157	+	601	121612252	selB	CJJ81176_1381	-	COG3276J	selenocysteine-specific elongation factor
+1307206..1307916	+	236	121613150	-	CJJ81176_1382	-	COG1651O	hypothetical protein
+1307922..1308473	+	183	121613157	-	CJJ81176_1383	-	-	putative lipoprotein
+1308496..1308987	-	163	121612349	fldA	CJJ81176_1384	-	COG0716C	flavodoxin FldA
+1308987..1309682	-	231	121613639	-	CJJ81176_1385	-	-	hypothetical protein
+1309685..1309999	-	104	121612297	-	CJJ81176_1386	-	COG4378S	hypothetical protein
+1310170..1311594	+	474	121612952	katA	CJJ81176_1387	-	COG0753P	catalase
+1311651..1312121	+	156	121612500	-	CJJ81176_1388	-	COG0666R	ankyrin repeat-containing protein
+1312122..1312778	-	218	121612490	-	CJJ81176_1389	-	COG2964S	hypothetical protein
+1312946..1313308	+	120	121613179	-	CJJ81176_1390	-	COG0251J	endoribonuclease L-PSP, putative
+1313312..1314751	+	479	121613618	-	CJJ81176_1391	-	COG3069C	cryptic C4-dicarboxylate transporter DcuD, authentic frameshift
+1314764..1315927	+	387	121612883	metC	CJJ81176_1392	-	COG0626E	cystathionine beta-lyase
+1315937..1317304	+	455	121612871	purB-2	CJJ81176_1393	-	COG0015F	adenylosuccinate lyase
+1317313..1318653	+	446	121613670	-	CJJ81176_1394	-	COG2079R	MmgE/PrpD family protein
+1318846..1318959	+	37	121613152	-	CJJ81176_1395	-	-	feoA family protein
+1318956..1319714	+	252	121613472	-	CJJ81176_1396	-	COG0370P	ferrous iron transport protein B, authentic frameshift
+1319689..1320798	+	369	121613642	feoB	CJJ81176_1397	-	COG0370P	ferrous iron transport protein B
+1320795..1322288	-	497	121612559	-	CJJ81176_1398	-	COG1740C	hydrogenase, (NiFe)/(NiFeSe) small subunit family
+1322292..1323116	-	274	121613563	fabI	CJJ81176_1399	-	COG0623I	enoyl-(acyl carrier protein) reductase
+1323120..1323791	-	223	121612231	tpiA	CJJ81176_1400	-	COG0149G	triosephosphate isomerase
+1323788..1324990	-	400	121613033	pgk	CJJ81176_1401	-	COG0126G	phosphoglycerate kinase
+1324993..1325991	-	332	121612463	gapA	CJJ81176_1402	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase A
+1326051..1326596	+	181	121613461	nadD	CJJ81176_1403	-	COG1057H	nicotinate (nicotinamide) nucleotide adenylyltransferase
+1326624..1326950	+	108	121612776	-	CJJ81176_1404	-	COG0799S	hypothetical protein
+1326983..1327360	-	125	121613469	-	CJJ81176_1405	-	-	hypothetical protein
+1327407..1328777	-	456	121612913	algC	CJJ81176_1406	-	COG1109G	phosphomannomutase/phosphoglucomutase
+1328899..1329435	+	178	121613276	fliL	CJJ81176_1407	-	COG1580N	flagellar basal body-associated protein FliL
+1329435..1329782	+	115	121612343	acpS	CJJ81176_1408	-	COG0736I	4'-phosphopantetheinyl transferase
+1329783..1330202	-	139	121613572	-	CJJ81176_1409	-	-	hypothetical protein
+1330199..1331560	-	453	121612828	-	CJJ81176_1410	-	COG2124Q	cytochrome P450 family protein
+1331557..1332678	-	373	121612145	-	CJJ81176_1411	-	-	hypothetical protein
+1332750..1333934	-	394	121613000	kpsS	CJJ81176_1412	-	COG3562M	capsule polysaccharide export protein KpsS
+1333931..1336000	-	689	121612738	kpsC	CJJ81176_1413	-	COG3563M	capsule polysaccharide export protein KpsC
+1335997..1336509	-	170	121612544	-	CJJ81176_1414	-	COG0529P	adenylylsulfate kinase
+1336499..1337260	-	253	121612342	-	CJJ81176_1415	-	COG1213M	putative sugar-1-phosphate nucleotidyltransferase
+1337262..1337864	-	200	121613268	-	CJJ81176_1416	-	COG2071R	class I glutamine amidotransferase, putative
+1337855..1340194	-	779	121613703	-	CJJ81176_1417	-	COG0574G	hypothetical protein
+1340209..1340988	-	259	121613113	-	CJJ81176_1418	-	COG2226H	putative methyltransferase
+1341022..1341795	-	257	121613209	-	CJJ81176_1419	-	COG2226H	putative methyltransferase
+1341847..1343541	-	564	121612443	-	CJJ81176_1420	-	-	putative sugar transferase
+1343513..1343626	-	37	121612978	-	CJJ81176_1421	-	-	putative glycosyltransferase
+1343639..1344313	-	224	121612248	-	CJJ81176_1422	-	COG1208MJ	capsular biosynthesis nucleotidyltransferase, putative
+1344301..1344906	-	201	121612743	gmhA-2	CJJ81176_1423	-	COG0279G	phosphoheptose isomerase
+1344894..1345913	-	339	121613167	-	CJJ81176_1424	-	COG2605R	capsular biosynthesis sugar kinase, putative
+1345988..1346926	-	312	121612642	-	CJJ81176_1425	-	COG0451MG	HrEpiB
+1346950..1347984	-	344	121613306	wcbK	CJJ81176_1426	-	COG1089M	GDP-mannose 4,6-dehydratase
+1347993..1349051	-	352	121612894	fcl	CJJ81176_1427	-	COG0451MG	GDP-fucose synthetase
+1349061..1349681	-	206	121613653	-	CJJ81176_1428	-	-	hypothetical protein
+1349668..1349985	-	105	121613060	-	CJJ81176_1429	-	-	hypothetical protein
+1349988..1350533	-	181	121612136	-	CJJ81176_1430	-	COG1898M	putative nucleotide-sugar epimerase-dehydratase
+1350533..1352233	-	566	121613464	-	CJJ81176_1431	-	-	putative sugar transferase
+1352230..1353939	-	569	121612513	-	CJJ81176_1432	-	COG0463M	galactosyltransferase
+1353945..1355426	-	493	121613701	-	CJJ81176_1433	-	COG0463M	putative sugar transferase
+1355432..1356637	-	401	121612235	-	CJJ81176_1434	-	COG1442M	putative sugar transferase
+1356648..1358459	-	603	121612834	-	CJJ81176_1435	-	-	putative sugar transferase
+1358452..1360632	-	726	121612127	-	CJJ81176_1436	-	COG4092M	putative glycosyl transferase
+1360629..1361576	-	315	121612774	kpsF	CJJ81176_1437	-	COG0794M	arabinose-5-phosphate isomerase
+1361586..1363244	-	552	121613488	kpsD	CJJ81176_1438	-	COG1596M	capsular polysaccharide ABC transporter, periplasmic polysaccharide-binding protein
+1363246..1364364	-	372	121613353	kpsE	CJJ81176_1439	-	COG3524M	capsular polysaccharide ABC transporter
+1364364..1365026	-	220	121612633	kpsT	CJJ81176_1440	-	COG1134GM	capsular polysaccharide ABC transporter, ATP-binding protein
+1365023..1365805	-	260	121613575	kpsM	CJJ81176_1441	-	COG1682GM	capsular polysaccharide ABC transporter, permease protein
+1365877..1366284	-	135	121612868	-	CJJ81176_1442	-	COG3787S	hypothetical protein
+1366359..1366922	+	187	121612144	-	CJJ81176_1443	-	-	hypothetical protein
+1366958..1367647	+	229	121612582	-	CJJ81176_1444	-	-	deoxyuridine triphosphatase domain-containing protein
+1367649..1368362	+	237	121612728	-	CJJ81176_1445	-	-	hypothetical protein
+1368345..1369310	-	321	121613548	tilS	CJJ81176_1446	-	COG0037D	tRNA(Ile)-lysidine synthetase
+1369300..1370619	-	439	121613708	yliG	CJJ81176_1447	-	COG0621J	putative tRNA modifying protein
+1370693..1371790	+	365	121612135	prfB	CJJ81176_1448	-	COG1186J	peptide chain release factor 2
+1371947..1372126	-	59	121613197	-	CJJ81176_1449	-	-	hypothetical protein
+1372383..1373501	-	372	121612519	truD	CJJ81176_1450	-	COG0585S	tRNA pseudouridine synthase D
+1373470..1374291	-	273	121613141	-	CJJ81176_1451	-	COG0611H	thiamine monophosphate kinase
+1374378..1375451	+	357	121612601	-	CJJ81176_1452	-	-	hypothetical protein
+1375448..1375831	+	127	121613721	-	CJJ81176_1453	-	-	hypothetical protein
+1375821..1376507	+	228	121612964	-	CJJ81176_1454	-	COG0742L	site-specific DNA methyltransferase, putative
+1376566..1377612	+	348	121613533	flgI	CJJ81176_1455	-	COG1706N	flagellar basal body P-ring protein
+1377612..1377953	+	113	121612435	-	CJJ81176_1456	-	-	hypothetical protein
+1378016..1378213	+	65	121613714	-	CJJ81176_1457	-	-	hypothetical protein
+1378256..1378690	+	144	121612595	-	CJJ81176_1458	-	-	hypothetical protein
+1378700..1380526	+	608	121612872	flgK	CJJ81176_1459	-	COG1256N	flagellar hook-associated protein FlgK
+1380543..1381076	+	177	121613668	-	CJJ81176_1460	-	-	hypothetical protein
+1381066..1381299	+	77	121612980	-	CJJ81176_1461	-	-	hypothetical protein
+1381310..1382074	+	254	121612274	-	CJJ81176_1462	-	COG0730R	hypothetical protein
+1382071..1383249	-	392	121612272	ctsF	CJJ81176_1463	-	COG1459NU	general secretory pathway protein F
+1383246..1384805	-	519	121612612	ctsE	CJJ81176_1464	-	COG2804NU	general secretory pathway protein E
+1384795..1385382	-	195	121612126	ctsX	CJJ81176_1465	-	-	transformation system protein
+1385386..1385994	-	202	121613067	ctsP	CJJ81176_1466	-	COG2805NU	transformation system protein
+1385987..1387399	-	470	121613593	ctsD	CJJ81176_1467	-	COG1450NU	general secretory pathway protein D
+1387377..1387688	-	103	121612849	ctsR	CJJ81176_1468	-	-	transformation system protein
+1387712..1391272	-	1186	121613446	-	CJJ81176_1469	-	COG0674C	pyruvate ferredoxin/flavodoxin oxidoreductase
+1391365..1392006	-	213	121612771	-	CJJ81176_1470	-	COG0546R	HAD-superfamily hydrolase, subfamily IA, variant 1 family protein
+1392006..1392965	-	319	121612147	cadF	CJJ81176_1471	-	COG2885M	fibronectin-binding protein
+1393091..1393480	-	129	121613604	rpsI	CJJ81176_1472	-	COG0103J	30S ribosomal protein S9
+1393483..1393926	-	147	121612364	rplM	CJJ81176_1473	-	COG0102J	50S ribosomal protein L13
+1393992..1396757	-	921	121612796	-	CJJ81176_1474	-	COG1074L	putative recombination protein RecB
+1396754..1399120	-	788	121613506	-	CJJ81176_1475	-	COG3893L	hypothetical protein
+1399117..1399638	-	173	121613305	-	CJJ81176_1476	-	-	putative lipoprotein
+1399625..1400227	-	200	121612319	-	CJJ81176_1477	-	-	hypothetical protein
+1400322..1400540	-	72	121612348	-	CJJ81176_1478	-	-	hypothetical protein
+1400540..1401403	-	287	121613252	ccoP	CJJ81176_1479	-	COG2010C	cytochrome c oxidase, cbb3-type, subunit III
+1401403..1401669	-	88	121612902	ccoQ	CJJ81176_1480	-	COG4736O	cytochrome c oxidase, cbb3-type, subunit IV
+1401671..1402336	-	221	121613685	ccoO	CJJ81176_1481	-	COG2993C	cbb3-type cytochrome c oxidase subunit II
+1402349..1403815	-	488	121612472	ccoN	CJJ81176_1482	-	COG3278O	cbb3-type cytochrome c oxidase subunit I
+1403941..1404621	-	226	121612550	-	CJJ81176_1483	-	COG0745TK	DNA-binding response regulator
+1404624..1405835	-	403	121612611	-	CJJ81176_1484	-	COG0642T	sensory box sensor histidine kinase, putative
+1405832..1406491	-	219	121613738	-	CJJ81176_1485	-	COG2836S	hypothetical protein
+1406488..1407606	-	372	121612786	carA	CJJ81176_1486	-	COG0505EF	carbamoyl phosphate synthase small subunit
+1407606..1408157	-	183	121612238	-	CJJ81176_1487	-	COG2952S	hypothetical protein
+1408250..1408768	-	172	121613093	-	CJJ81176_1488	-	COG3334S	hypothetical protein
+1408761..1409042	-	93	121613610	-	CJJ81176_1489	-	-	hypothetical protein
+1409186..1410436	-	416	121612533	purA	CJJ81176_1490	-	COG0104F	adenylosuccinate synthetase
+1410701..1411909	+	402	121613475	-	CJJ81176_1492	-	COG2391R	putative inner membrane protein
+1411913..1412140	+	75	121612372	-	CJJ81176_1493	-	COG0425O	hypothetical protein
+1412156..1413625	-	489	121613068	putP	CJJ81176_1494	-	COG0591ER	sodium/proline permease
+1413643..1417131	-	1162	121612333	-	CJJ81176_1495	-	COG1012C	bifunctional putA protein, putative
+1417262..1418188	-	308	121612650	selD	CJJ81176_1496	-	COG0709E	selenide, water dikinase
+1418294..1418866	-	190	121612107	-	CJJ81176_1497	-	COG0425O	hypothetical protein
+1418977..1421079	-	700	121613017	-	CJJ81176_1498	-	COG0840NT	methyl-accepting chemotaxis protein
+1421192..1421893	-	233	121612427	-	CJJ81176_1499	-	COG2005R	molybdate transport repressor
+1421922..1422704	-	260	121613024	fdhD	CJJ81176_1500	-	COG1526C	formate dehydrogenase accessory protein
+1422871..1423803	-	310	121612220	fdhC	CJJ81176_1501	-	COG2864C	formate dehydrogenase, cytochrome b subunit
+1423800..1424441	-	213	121613584	fdhB	CJJ81176_1502	-	COG0437C	formate dehydrogenase, iron-sulfur subunit
+1424438..1426678	-	746	121612865	fdhA	CJJ81176_1503	-	COG0243C	formate dehydrogenase, alpha subunit, selenocysteine-containing
+1426700..1427242	-	180	121613367	-	CJJ81176_1504	-	COG0243C	formate dehydrogenase
+1427242..1427433	-	63	121612401	-	CJJ81176_1505	-	-	Tat pathway signal sequence domain-containing protein
+1427408..1428109	-	233	121613482	-	CJJ81176_1506	-	COG3381R	hypothetical protein
+1428425..1429573	-	382	121612689	nspC	CJJ81176_1507	-	COG0019E	carboxynorspermidine decarboxylase
+1429697..1431238	+	513	121613217	-	CJJ81176_1508	-	COG2132Q	oxidoreductase, putative
+1431240..1431461	+	73	121612418	-	CJJ81176_1509	-	COG1977H	thiS family protein
+1431462..1431908	+	148	121613551	-	CJJ81176_1510	-	COG0314H	molybdopterin converting factor, subunit 2
+1431912..1433102	+	396	121612119	-	CJJ81176_1511	-	COG0303H	molybdopterin biosynthesis MoeA protein, putative
+1433615..1434463	-	282	121613283	-	CJJ81176_1512	-	-	hypothetical protein
+1434456..1435790	-	444	121613562	-	CJJ81176_1513	-	COG3950R	hypothetical protein
+1436239..1437228	-	329	121613071	purM	CJJ81176_1514	-	COG0150F	phosphoribosylaminoimidazole synthetase
+1437289..1437894	+	201	121613316	coaE	CJJ81176_1515	-	COG0237H	dephospho-CoA kinase
+1437891..1438640	+	249	121612449	dapF	CJJ81176_1516	-	COG0253E	diaminopimelate epimerase
+1438615..1439346	+	243	121612382	-	CJJ81176_1517	-	COG2992R	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase domain-containing protein
+1439343..1440380	-	345	121612970	-	CJJ81176_1518	-	COG1373R	hypothetical protein
+1440445..1440894	-	149	121613494	-	CJJ81176_1519	-	COG0783P	bacterioferritin, putative
+1441024..1442244	-	406	121612886	pgi	CJJ81176_1520	-	COG0166G	glucose-6-phosphate isomerase
+1442238..1443062	-	274	121613414	galU	CJJ81176_1521	-	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+1443144..1445117	-	657	121613338	acs	CJJ81176_1522	-	COG0365I	acetyl-CoA synthetase
+1445255..1446250	-	331	121612410	-	CJJ81176_1523	-	COG3839G	tungsten ABC transporter, ATP-binding protein, putative
+1446252..1446938	-	228	121613333	-	CJJ81176_1524	-	COG4662H	tungstate ABC transporter, permease protein, putative
+1447017..1447826	+	269	121612305	-	CJJ81176_1525	-	COG2998H	tungstate ABC transporter, periplasmic tungstate-binding protein, putative
+1447968..1448735	+	255	121613379	-	CJJ81176_1526	-	COG1540R	LamB/YcsF family protein
+1448745..1449485	+	246	121612842	-	CJJ81176_1527	-	COG2049E	hypothetical protein
+1449466..1450431	+	321	121613308	-	CJJ81176_1528	-	COG1984E	hypothetical protein
+1450428..1451324	-	298	121613554	-	CJJ81176_1529	-	-	integral membrane protein
+1451357..1451935	-	192	121612448	-	CJJ81176_1530	-	COG2249R	flavodoxin-like fold domain-containing protein
+1452035..1452382	+	115	121613166	-	CJJ81176_1531	-	COG1733K	transcriptional regulator, putative
+1452370..1452819	+	149	121612649	-	CJJ81176_1532	-	COG3040M	putative homolog of BLC protein
+1452821..1453897	-	358	121613553	-	CJJ81176_1533	-	COG1064R	zinc-binding dehydrogenase family oxidoreductase
+1454125..1457220	-	1031	121612641	-	CJJ81176_1534	-	COG0610V	type I restriction-modification enzyme, R subunit
+1457223..1458989	-	588	121613027	-	CJJ81176_1535	-	COG1123R	RloH
+1459000..1460142	-	380	121612440	-	CJJ81176_1536	-	COG0732V	hypothetical protein
+1460154..1460315	+	53	121613143	-	CJJ81176_1537	-	-	hypothetical protein
+1460361..1461812	-	483	121613486	-	CJJ81176_1538	-	COG2865K	MloB
+1461824..1463326	-	500	121612527	-	CJJ81176_1539	-	COG0286V	type I restriction-modification system, M subunit
+1463390..1463503	+	37	121613693	-	CJJ81176_1540	-	-	hypothetical protein
+1463696..1464331	-	211	121612766	-	CJJ81176_1541	-	COG2910R	hypothetical protein
+1464524..1464856	+	110	121612960	-	CJJ81176_1542	-	COG1733K	transcriptional regulator
+1464941..1465063	+	40	121612375	-	CJJ81176_1543	-	-	permease, putative
+1465247..1465888	+	213	121613295	-	CJJ81176_1544	-	COG0701R	hypothetical protein
+1465898..1466077	+	59	121613407	arsR	CJJ81176_1545	-	COG0640K	arsenical resistance operon repressor
+1466068..1466220	+	50	121612639	-	CJJ81176_1546	-	-	arsenical resistance operon repressor
+1466228..1466659	-	143	121613246	-	CJJ81176_1547	-	COG0789K	MerR family transcriptional regulator
+1466772..1467653	+	293	121612444	-	CJJ81176_1548	-	-	methyl-accepting chemotaxis protein
+1468028..1468738	+	236	121612938	-	CJJ81176_1549	-	COG0840NT	methyl-accepting chemotaxis protein
+1468781..1471147	-	788	121612223	pflA	CJJ81176_1550	-	-	paralyzed flagella protein PflA
+1471169..1472557	-	462	121613344	nuoN	CJJ81176_1551	-	COG1007C	NADH-quinone oxidoreductase, N subunit
+1472547..1474034	-	495	121612466	nuoM	CJJ81176_1552	-	COG1008C	NADH-quinone oxidoreductase, M subunit
+1474036..1475826	-	596	121612984	nuoL	CJJ81176_1553	-	COG1009CP	NADH dehydrogenase subunit L
+1475828..1476124	-	98	121612273	nuoK	CJJ81176_1554	-	COG0713C	NADH-quinone oxidoreductase, K subunit
+1476121..1476639	-	172	121613130	nuoJ	CJJ81176_1555	-	COG0839C	NADH dehydrogenase subunit J
+1476636..1477277	-	213	121612213	nuoI	CJJ81176_1556	-	COG1143C	NADH dehydrogenase subunit I
+1477287..1478285	-	332	121613672	nuoH	CJJ81176_1557	-	COG1005C	NADH dehydrogenase subunit H
+1478278..1480740	-	820	121612814	nuoG	CJJ81176_1558	-	COG1034C	NADH dehydrogenase subunit G
+1480737..1481429	-	230	121612301	-	CJJ81176_1559	-	-	hypothetical protein
+1481426..1481566	-	46	121613294	-	CJJ81176_1560	-	-	hypothetical protein
+1481650..1482876	-	408	121612143	nuoD	CJJ81176_1561	-	COG0649C	NADH dehydrogenase subunit D
+1482878..1483669	-	263	121613082	nuoC	CJJ81176_1562	-	COG0852C	NADH dehydrogenase subunit C
+1483669..1484172	-	167	121613264	nuoB	CJJ81176_1563	-	COG0377C	NADH dehydrogenase subunit B
+1484154..1484543	-	129	121612125	nuoA	CJJ81176_1564	-	COG0838C	NADH dehydrogenase subunit A
+1484756..1485421	-	221	121612479	-	CJJ81176_1565	-	COG1123R	peptide ABC transporter, ATP-binding protein
+1485414..1486124	-	236	121613337	-	CJJ81176_1566	-	COG0444EP	peptide ABC transporter, ATP-binding protein
+1486121..1486909	-	262	121612240	-	CJJ81176_1567	-	COG1173EP	peptide ABC transporter, permease protein
+1486902..1487846	-	314	121613720	-	CJJ81176_1568	-	COG0601EP	peptide ABC transporter, permease protein
+1487846..1489381	-	511	121612471	-	CJJ81176_1569	-	COG0747E	peptide ABC transporter, periplasmic peptide-binding protein
+1489716..1492040	+	774	121613348	-	CJJ81176_1570	-	COG0243C	anaerobic dimethyl sulfoxide reductase chain A
+1492051..1492707	+	218	121613356	dmsB	CJJ81176_1571	-	COG0437C	dimethylsulfoxide reductase, chain B
+1492694..1493560	+	288	121613418	-	CJJ81176_1572	-	COG3302R	hypothetical protein
+1493560..1494117	+	185	121612698	-	CJJ81176_1573	-	COG3381R	hypothetical protein
+1494184..1494606	+	140	121613692	-	CJJ81176_1574	-	COG1017C	flavohemoprotein, truncation
+1494626..1496257	-	543	121613099	-	CJJ81176_1575	-	COG4615QP	multidrug transporter membrane component/ATP-binding component
+1496307..1497602	-	431	121613612	-	CJJ81176_1576	-	-	proline/betaine transporter, putative, authentic frameshift
+1497690..1498487	+	265	121612855	-	CJJ81176_1577	-	COG0491R	hypothetical protein
+1498575..1498793	+	72	121613429	infA	CJJ81176_1578	-	COG0361J	translation initiation factor IF-1
+1498965..1499078	+	37	121612597	rpmJ	CJJ81176_1754	-	-	50S ribosomal protein L36
+1499081..1499446	+	121	121613746	rpsM	CJJ81176_1579	-	COG0099J	30S ribosomal protein S13
+1499456..1499848	+	130	121612731	rpsK	CJJ81176_1580	-	COG0100J	30S ribosomal protein S11
+1499876..1500502	+	208	121612243	rpsD	CJJ81176_1581	-	COG0522J	30S ribosomal protein S4
+1500515..1501528	+	337	121612721	rpoA	CJJ81176_1582	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+1501532..1501885	+	117	121613440	rplQ	CJJ81176_1583	-	COG0203J	50S ribosomal protein L17
+1502058..1502957	+	299	121612715	hisG	CJJ81176_1584	-	COG0040E	ATP phosphoribosyltransferase
+1502965..1504251	+	428	121613366	hisD	CJJ81176_1585	-	COG0141E	histidinol dehydrogenase
+1504248..1505306	+	352	121613404	hisB	CJJ81176_1586	-	COG0131E	imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+1505303..1505890	+	195	121612590	hisH	CJJ81176_1587	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+1505887..1506618	+	243	121613076	hisA	CJJ81176_1588	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1506603..1507505	+	300	121612370	-	CJJ81176_1589	-	COG2958S	HrgA protein
+1507506..1508273	+	255	121613611	hisF-2	CJJ81176_1590	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+1508275..1508898	+	207	121612524	hisI	CJJ81176_1591	-	COG0139E	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+1508922..1510082	-	386	121613727	-	CJJ81176_1592	-	COG2171E	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase, putative
+1510108..1511214	-	368	121612767	mrp	CJJ81176_1593	-	COG0489D	ATP/GTP-binding protein
+1511337..1512452	+	371	121612233	ispDF	CJJ81176_1594	-	COG0245I	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase protein
+1512449..1513336	+	295	121613170	-	CJJ81176_1595	-	COG0745TK	DNA-binding response regulator, putative
+1513314..1514474	+	386	121612386	-	CJJ81176_1596	-	COG2046P	ATP-sulfurylase family protein
+1514479..1514979	+	166	121613104	pgpA	CJJ81176_1597	-	COG1267I	phosphatidylglycerophosphatase A
+1515058..1515321	+	87	121612762	rpsT	CJJ81176_1598	-	COG0268J	30S ribosomal protein S20
+1515340..1516407	+	355	121613478	prfA	CJJ81176_1599	-	COG0216J	peptide chain release factor 1
+1516421..1517176	-	251	121612296	-	CJJ81176_1600	-	COG0748P	hypothetical protein
+1517370..1519478	+	702	121613006	chuA	CJJ81176_1601	-	COG1629P	TonB-dependent heme receptor
+1519453..1520439	+	328	121612507	-	CJJ81176_1602	-	COG0609P	hemin ABC transporter, permease protein, putative
+1520439..1521215	+	258	121613145	-	CJJ81176_1603	-	COG1120PH	hemin ABC transporter, ATP-binding protein, putative
+1521212..1522018	+	268	121612646	-	CJJ81176_1604	-	COG0614P	hemin ABC transporter, periplasmic hemin-binding protein, putative
+1522015..1522932	-	305	121613522	-	CJJ81176_1605	-	-	hypothetical protein
+1523038..1524297	+	419	121612309	kgtP	CJJ81176_1606	-	COG2814G	alpha-ketoglutarate permease
+1524283..1525302	-	339	121613658	mutY	CJJ81176_1607	-	COG1194L	A/G-specific adenine glycosylase
+1525375..1526127	+	250	121612997	-	CJJ81176_1608	-	-	hypothetical protein
+1526775..1527785	+	336	121612362	ribD	CJJ81176_1613	-	COG0117H	riboflavin biosynthesis protein RibD
+1527775..1528287	+	170	121612671	-	CJJ81176_1614	-	-	hypothetical protein
+1528295..1529659	-	454	121613416	sdaA	CJJ81176_1615	-	COG1760E	L-serine ammonia-lyase
+1529674..1530924	-	416	121612885	sdaC	CJJ81176_1616	-	COG0814E	serine transporter
+1531185..1531601	-	138	121613556	-	CJJ81176_1617	-	-	hypothetical protein
+1531666..1532409	-	247	121612295	-	CJJ81176_1618	-	-	hypothetical protein
+1532555..1532992	+	145	121613271	exbB-2	CJJ81176_1619	-	COG0811U	TonB system transport protein ExbB
+1532964..1533374	+	136	121613363	exbD	CJJ81176_1620	-	COG0848U	biopolymer transport exbD protein
+1533371..1534054	+	227	121612629	-	CJJ81176_1621	-	COG0810M	TonB-dependent receptor, putative, authentic frameshift
+1534074..1534943	-	289	121613634	-	CJJ81176_1622	-	-	hypothetical protein
+1534947..1535108	-	53	121612925	-	CJJ81176_1623	-	-	putative periplasmic protein
+1535203..1536186	+	327	121613255	-	CJJ81176_1624	-	COG0482J	hypothetical protein
+1536273..1537361	-	362	121612121	aroC	CJJ81176_1625	-	COG0082E	chorismate synthase
+1537361..1538038	-	225	121613213	rnc	CJJ81176_1626	-	COG0571K	ribonuclease III
+1538022..1538462	-	146	121612242	rnhA	CJJ81176_1627	-	COG0328L	ribonuclease H
+1538449..1539435	-	328	121613390	-	CJJ81176_1628	-	COG2956G	hypothetical protein
+1539478..1541322	+	614	121612785	dnaG	CJJ81176_1629	-	COG0358L	DNA primase
+1541404..1541676	+	90	121612278	-	CJJ81176_1630	-	COG0694O	NifU family protein
+1541663..1542214	+	183	121612977	-	CJJ81176_1631	-	-	hypothetical protein
+1542198..1543481	+	427	121612468	murE	CJJ81176_1632	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1543485..1543796	+	103	121613159	-	CJJ81176_1633	-	COG0718S	hypothetical protein
+1543817..1544887	+	356	121612648	-	CJJ81176_1634	-	COG0265O	PDZ domain-containing protein
+1544884..1545729	+	281	121613596	ispA	CJJ81176_1635	-	COG0142H	geranyltranstransferase
+1545739..1547637	+	632	121613007	tkt	CJJ81176_1636	-	COG0021G	transketolase
+1547639..1548748	+	369	121613751	-	CJJ81176_1637	-	COG0767Q	ABC transporter, permease protein, putative
+1548749..1549471	+	240	121613749	-	CJJ81176_1638	-	COG1127Q	ABC transporter, ATP-binding protein
+1549474..1550364	+	296	121612777	-	CJJ81176_1639	-	COG1463Q	ABC transporter, periplasmic substrate-binding protein, putative
+1550364..1550963	+	199	121613719	-	CJJ81176_1640	-	COG3218R	putative lipoprotein
+1551019..1551519	+	166	121612752	-	CJJ81176_1641	-	-	hypothetical protein
+1551891..1552649	-	252	121612289	map	CJJ81176_1642	-	COG0024J	methionine aminopeptidase
+1552659..1553402	-	247	121612969	murI	CJJ81176_1643	-	COG0796M	glutamate racemase
+1553404..1553865	-	153	121612509	nlpC	CJJ81176_1644	-	COG0791M	lipoprotein NlpC
+1553874..1555043	-	389	121613421	nhaA	CJJ81176_1645	-	COG3004P	pH-dependent sodium/proton antiporter
+1555040..1556188	-	382	121612709	nhaA-2	CJJ81176_1646	-	COG3004P	Na+/H+ antiporter NhaA
+1556330..1556512	-	60	121613615	-	CJJ81176_1647	-	-	hypothetical protein
+1556873..1557085	+	70	121613155	-	CJJ81176_1648	-	-	hypothetical protein
+1557435..1559525	+	696	121612201	-	CJJ81176_1649	-	COG0672P	FTR1 family iron permease
+1559522..1560061	+	179	121612626	-	CJJ81176_1650	-	COG3470P	hypothetical protein
+1560144..1561547	+	467	121613436	-	CJJ81176_1651	-	COG4393S	hypothetical protein
+1561537..1562826	+	429	121612862	-	CJJ81176_1652	-	COG4591M	ABC transporter, permease protein
+1562816..1563934	+	372	121613580	-	CJJ81176_1653	-	COG4591M	ABC transporter, permease protein
+1563934..1564584	+	216	121612230	-	CJJ81176_1654	-	COG1136V	ABC transporter, ATP-binding protein
+1564581..1565069	+	162	121613144	-	CJJ81176_1655	-	COG0526OC	thiredoxin,-like protein
+1565264..1565533	+	89	121613699	-	CJJ81176_1656	-	-	thioredoxin family protein
+1565543..1565980	-	145	121612948	-	CJJ81176_1657	-	COG3019R	hypothetical protein
+1566071..1566214	-	47	121613324	-	CJJ81176_1658	-	-	hypothetical protein
+1566448..1566585	-	45	121612341	-	CJJ81176_1659	-	-	hypothetical protein
+1567354..1568202	-	282	121612332	-	CJJ81176_1665	-	COG1793L	DNA ligase
+1568202..1568864	-	220	121613030	-	CJJ81176_1666	-	-	hypothetical protein
+1568854..1569057	-	67	121613711	-	CJJ81176_1667	-	-	hypothetical protein
+1569123..1570367	-	414	121612983	eno	CJJ81176_1668	-	COG0148G	phosphopyruvate hydratase
+1570367..1571398	-	343	121612592	recA	CJJ81176_1669	-	COG0468L	recombinase A
+1571505..1572365	+	286	121613509	-	CJJ81176_1670	-	COG2107R	hypothetical protein
+1572377..1572646	+	89	121612222	fliQ	CJJ81176_1671	-	COG1987NU	flagellar biosynthesis protein FliQ
+1572643..1573419	+	258	121613137	murB	CJJ81176_1672	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+1573442..1574206	-	254	121612757	-	CJJ81176_1673	-	-	hypothetical protein
+1574252..1575016	-	254	121613046	cysQ	CJJ81176_1674	-	COG1218P	cysQ protein
+1575097..1576365	-	422	121613079	gltA	CJJ81176_1675	-	COG0372C	citrate synthase
+1576480..1577655	-	391	121612160	-	CJJ81176_1676	-	COG0475P	sodium/hydrogen exchanger family protein
+1577636..1578472	-	278	121612907	bioB	CJJ81176_1677	-	COG0502H	biotin synthase
+1578474..1580576	-	700	121613434	topA	CJJ81176_1678	-	COG0550L	DNA topoisomerase I
+1580771..1582042	+	423	121612491	-	CJJ81176_1679	-	COG2814G	major facilitator superfamily protein
+1582110..1584122	-	670	121613245	-	CJJ81176_1680	-	COG2936R	dipeptidyl-peptidase
+1584119..1584430	-	103	121612106	-	CJJ81176_1681	-	-	hypothetical protein
+1584418..1584789	-	123	121613683	-	CJJ81176_1682	-	COG2814G	hypothetical protein
+1584804..1585052	-	82	121613069	-	CJJ81176_1683	-	-	hypothetical protein
+1585049..1585321	-	90	121612164	-	CJJ81176_1684	-	-	hypothetical protein
+1585547..1586812	-	421	121612558	secY	CJJ81176_1685	-	COG0201U	preprotein translocase subunit SecY
+1586812..1587204	-	130	121613463	rplO	CJJ81176_1686	-	COG0200J	50S ribosomal protein L15
+1587209..1587652	-	147	121612804	rpsE	CJJ81176_1687	-	COG0098J	30S ribosomal protein S5
+1587664..1588020	-	118	121613716	rplR	CJJ81176_1688	-	COG0256J	50S ribosomal protein L18
+1588030..1588566	-	178	121612149	rplF	CJJ81176_1689	-	COG0097J	50S ribosomal protein L6
+1588645..1589040	-	131	121612996	rpsH	CJJ81176_1690	-	COG0096J	30S ribosomal protein S8
+1589050..1589235	-	61	121612286	rpsN	CJJ81176_1691	-	COG0199J	30S ribosomal protein S14
+1589237..1589782	-	181	121613307	rplE	CJJ81176_1692	-	COG0094J	50S ribosomal protein L5
+1589786..1590019	-	77	121613673	rplX	CJJ81176_1693	-	COG0198J	50S ribosomal protein L24
+1590019..1590387	-	122	121612746	rplN	CJJ81176_1694	-	COG0093J	50S ribosomal protein L14
+1590387..1590638	-	83	121612262	rpsQ	CJJ81176_1695	-	COG0186J	30S ribosomal protein S17
+1590648..1590833	-	61	121612974	rpmC	CJJ81176_1696	-	COG0255J	50S ribosomal protein L29
+1590820..1591245	-	141	121613671	rplP	CJJ81176_1697	-	COG0197J	50S ribosomal protein L16
+1591248..1591949	-	233	121612744	rpsC	CJJ81176_1698	-	COG0092J	30S ribosomal protein S3
+1591949..1592392	-	147	121612702	rplV	CJJ81176_1699	-	COG0091J	50S ribosomal protein L22
+1592403..1592684	-	93	121613627	rpsS	CJJ81176_1700	-	COG0185J	30S ribosomal protein S19
+1592686..1593516	-	276	121612340	rplB	CJJ81176_1701	-	COG0090J	50S ribosomal protein L2
+1593518..1593799	-	93	121613281	rplW	CJJ81176_1702	-	COG0089J	50S ribosomal protein L23
+1593802..1594416	-	204	121612191	rplD	CJJ81176_1703	-	COG0088J	50S ribosomal protein L4
+1594413..1594988	-	191	121613090	rplC	CJJ81176_0001	-	COG0087J	50S ribosomal protein L3
+1594998..1595309	-	103	121613565	rpsJ	CJJ81176_0002	-	COG0051J	30S ribosomal protein S10
+1595507..1596268	-	253	121612851	-	CJJ81176_0003	-	COG1187J	RNA pseudouridine synthase family protein
+1596303..1598291	-	662	121613382	-	CJJ81176_0004	-	COG0595R	metallo-beta-lactamase family protein
+1598266..1599066	-	266	121612576	ksgA	CJJ81176_0005	-	COG0030J	dimethyladenosine transferase
+1599146..1599682	+	178	121612899	-	CJJ81176_0006	-	COG0775F	hypothetical protein
+1599705..1600775	+	356	121612139	-	CJJ81176_0007	-	COG0820R	ribosomal RNA large subunit methyltransferase N
+1601640..1602251	+	203	121612685	-	CJJ81176_0010	-	-	lipopolysaccharide core biosynthesis protien, putative
+1602572..1603102	+	176	121613415	-	CJJ81176_0013	-	COG0456R	acetyltransferase
+1603082..1603684	-	200	121613666	leuD	CJJ81176_0014	-	COG0066E	isopropylmalate isomerase small subunit
+1603686..1605092	-	468	121612890	leuC	CJJ81176_0015	-	COG0065E	isopropylmalate isomerase large subunit
+1605085..1606161	-	358	121613629	leuB	CJJ81176_0016	-	COG0473CE	3-isopropylmalate dehydrogenase
+1606158..1607693	-	511	121612265	leuA	CJJ81176_0017	-	COG0119E	2-isopropylmalate synthase
+1608013..1608642	+	209	121612963	-	CJJ81176_0018	-	-	hypothetical protein
+1608678..1609322	-	214	121612442	-	CJJ81176_0019	-	-	hypothetical protein
+1609460..1609843	-	127	121613010	-	CJJ81176_0020	-	COG0780R	7-cyano-7-deazaguanine reductase
+1610003..1610602	+	199	121612485	-	CJJ81176_0021	-	COG0492O	hypothetical protein
+1610607..1611488	-	293	121613233	metA	CJJ81176_0022	-	COG1897E	homoserine O-succinyltransferase
+1611571..1612842	-	423	121613491	metX	CJJ81176_0023	-	COG2873E	homoserine O-acetyltransferase
+1613087..1613242	-	51	121613432	-	CJJ81176_0024	-	-	hypothetical protein
+1613268..1615784	-	838	121613214	flgE	CJJ81176_0025	-	COG1749N	flagellar hook protein FlgE
+1615977..1616459	-	160	121612651	ruvC	CJJ81176_0026	-	COG0817L	Holliday junction resolvase

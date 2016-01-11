@@ -1,0 +1,1030 @@
+Treponema pallidum subsp. pallidum SS14, complete genome - 1..1139457
+1027 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+4..1398	+	464	189025237	dnaA	TPASS_0001	-	COG0593L	chromosomal replication initiation protein
+1641..2756	+	371	189025238	dnaN	TPASS_0002	-	COG0592L	DNA-directed DNA polymerase beta subunit
+2623..3834	+	403	189025239	recF	TPASS_0003	-	COG1195L	recombination protein RecF
+3827..4264	+	145	189025240	-	TPASS_0004	-	-	hypothetical protein
+4391..6832	+	813	189025241	gyrA	TPASS_0005	-	COG0188L	DNA topoisomerase (ATP-hydrolyzing) subunit A
+7014..7967	+	317	189025242	-	TPASS_0006	-	-	protein Tp75
+7991..8260	+	89	189025243	-	TPASS_0008	-	-	hypothetical protein
+10237..10362	+	41	189025244	-	TPASS_0010	-	-	hypothetical protein
+10396..12378	+	660	189025245	tprB	TPASS_0011	-	-	protein TprB
+12372..12545	+	57	189025246	-	TPASS_0012	-	-	hypothetical protein
+12542..13207	+	221	189025247	-	TPASS_0013	-	-	hypothetical protein
+13164..13772	+	202	189025248	-	TPASS_0014	-	-	hypothetical protein
+13963..15777	+	604	189025249	pheT	TPASS_0015	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+15740..18313	+	857	189025250	lon1	TPASS_0016	-	COG1067O	ATP-dependent protease LA
+18401..19348	+	315	189025251	-	TPASS_0017	-	-	hypothetical protein
+19415..21388	+	657	189025252	-	TPASS_0018	-	COG1747S	transcription elongation factor
+21555..22043	+	162	189025253	greA	TPASS_0019	-	COG0782K	transcription elongation factor GreA
+22043..24166	+	707	189025254	-	TPASS_0020	-	-	protein 76K
+25104..25370	+	88	189025255	-	TPASS_0021	-	-	hypothetical protein
+25325..27493	+	722	189025256	-	TPASS_0022	-	-	hypothetical protein
+27554..28885	+	443	189025257	-	TPASS_0023	-	COG0733R	sodium- and chloride- dependent transporter
+29065..29775	+	236	189025258	-	TPASS_0024	-	COG0569P	hypothetical protein
+29854..32925	-	1023	189025259	-	TPASS_0025	-	COG1026R	hypothetical protein
+32954..33976	-	340	189025260	fliG1	TPASS_0026	-	COG1536N	flagellar motor switch protein
+34202..35425	+	407	189025261	-	TPASS_0027	-	COG1253R	hemolysin
+35439..36800	+	453	189025262	-	TPASS_0028	-	COG1253R	hemolysin
+36908..38185	+	425	189025263	murA	TPASS_0029	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+38304..39938	+	544	189025264	groEL	TPASS_0030	-	COG0459O	chaperonin GroEL
+40002..40280	+	92	189025265	-	TPASS_0031	-	-	hypothetical protein
+40277..41077	-	266	189025266	-	TPASS_0032	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+41074..41685	-	203	189025267	-	TPASS_0033	-	COG4330S	hypothetical protein
+41786..42736	-	316	189025268	-	TPASS_0034	-	COG0803P	ABC transporter, periplasmic binding protein
+42934..43650	+	238	189025269	-	TPASS_0035	-	COG1121P	ABC transporter, ATP-binding protein
+43650..44450	+	266	189025270	-	TPASS_0036	-	COG1108P	ABC transporter, permease protein
+44559..45554	-	331	189025271	-	TPASS_0037	-	COG1052CHR	D-specific D-2-hydroxyacid dehydrogenase
+45651..46703	-	350	189025272	pfoS/R	TPASS_0038	-	COG3641R	regulatory protein PfoS/R
+46752..46910	+	52	189025273	-	TPASS_0039	-	-	hypothetical protein
+47588..49381	+	597	189025274	mcp1	TPASS_0040	-	COG0840NT	methyl-accepting chemotaxis protein
+49383..49505	+	40	189025275	-	TPASS_0041	-	-	hypothetical protein
+49502..50434	+	310	189025276	-	TPASS_0042	-	COG1652S	hypothetical protein
+50415..52547	+	710	189025277	-	TPASS_0043	-	COG0741M	soluble lytic transglycosylase
+52587..54479	+	630	189025278	gidA	TPASS_0044	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+54535..55434	-	299	189025279	-	TPASS_0045	-	COG1816F	adenosine deaminase
+55796..56497	-	233	189025280	-	TPASS_0046	-	COG1774S	hypothetical protein
+56515..57036	-	173	189025281	-	TPASS_0047	-	COG1728S	hypothetical protein
+57042..57473	-	143	189025282	-	TPASS_0048	-	COG1664M	hypothetical protein
+57495..58523	-	342	189025283	-	TPASS_0049	-	COG0739M	hypothetical protein
+58816..59424	-	202	189025284	-	TPASS_0050	-	COG2236R	hypothetical protein
+59575..60630	+	351	189025285	prfA	TPASS_0051	-	COG0216J	peptide chain release factor 1
+60600..61646	+	348	189025286	hemK	TPASS_0052	-	COG2890J	protoporphyrinogen oxidase
+61735..62790	-	351	189025287	nrdF	TPASS_0053	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+62961..63920	+	319	189025288	-	TPASS_0054	-	COG0566J	hypothetical protein
+64127..64363	+	78	189025289	-	TPASS_0055	-	COG3630C	hypothetical protein
+64360..66141	+	593	189025290	oadA	TPASS_0056	-	COG5016C	pyruvate carboxylase subunit B
+66153..67562	+	469	189025291	oadB	TPASS_0057	-	COG1883C	oxaloacetate decarboxylase, subunit beta
+67637..68953	-	438	189025292	dnaB	TPASS_0058	-	COG0305L	replicative DNA helicase DnaB
+68937..69164	-	75	189025293	-	TPASS_0059	-	-	hypothetical protein
+69170..69640	-	156	189025294	rplI	TPASS_0060	-	COG0359J	50S ribosomal protein L9
+69746..70045	-	99	189025295	rpsR	TPASS_0061	-	COG0238J	30S ribosomal protein S18
+70162..70692	-	176	189025296	ssb	TPASS_0062	-	COG0629L	single-strand DNA binding protein Ssb
+70701..70982	-	93	189025297	rpsF	TPASS_0063	-	COG0360J	30S ribosomal protein S6
+71124..71699	+	191	189025298	-	TPASS_0064	-	-	hypothetical protein
+71773..72360	+	195	189025299	-	TPASS_0065	-	COG0742L	hypothetical protein
+72344..72658	+	104	189025300	-	TPASS_0066	-	-	hypothetical protein
+72646..73827	+	393	189025301	-	TPASS_0067	-	COG3063NU	hypothetical protein
+74008..75030	+	340	189025302	-	TPASS_0068	-	COG0820R	hypothetical protein
+75086..75616	-	176	189025303	-	TPASS_0069	-	-	hypothetical protein
+75466..75852	-	128	189025304	-	TPASS_0070	-	-	hypothetical protein
+75903..78539	-	878	189025305	clpB	TPASS_0071	-	COG0542O	ATP-dependent Clp protease, subunit B
+78743..79015	+	90	189025306	-	TPASS_0072	-	COG4545O	hypothetical protein
+79085..80626	-	513	189025307	-	TPASS_0073	-	COG1639T	hypothetical protein
+80931..82340	+	469	189025308	y4oP	TPASS_0074	-	COG1653G	sugar ABC transporter, periplasmic binding protein
+82459..83349	+	296	189025309	y4oQ	TPASS_0075	-	COG1175G	sugar ABC transporter, permease protein
+83389..84210	+	273	189025310	y4oR	TPASS_0076	-	COG0395G	sugar ABC transporter, permease protein
+84251..85867	+	538	189025311	cap	TPASS_0077	-	COG1086MG	capsular polysaccharide biosynthesis protein
+85872..87110	+	412	189025312	spsC	TPASS_0078	-	COG0399M	spore coat polysaccharide biosynthesis protein
+87038..89260	+	740	189025313	-	TPASS_0079	-	COG1529C	hypothetical protein
+89257..89724	+	155	189025314	-	TPASS_0080	-	COG2080C	quinoline 2-oxidoreductase
+89731..90579	+	282	189025315	-	TPASS_0081	-	COG1319C	hypothetical protein
+90626..92428	-	600	189025316	fhlA	TPASS_0082	-	COG3604KT	formate hydrogenlyase transcriptional activator FhlA
+93174..94454	+	426	189025317	-	TPASS_0083	-	COG1306S	hypothetical protein
+94434..94667	-	77	189025318	-	TPASS_0084	-	-	hypothetical protein
+94781..95227	-	148	189025319	ptsN1	TPASS_0085	-	COG1762GT	PTS system, nitrogen regulatory IIA component
+95308..96252	+	314	189025320	-	TPASS_0086	-	-	hypothetical protein
+96255..96794	-	179	189025321	-	TPASS_0087	-	COG1430S	hypothetical protein
+96778..97392	-	204	189025322	-	TPASS_0088	-	-	hypothetical protein
+97422..98657	-	411	189025323	-	TPASS_0089	-	COG0664T	cyclic nucleotide binding protein
+98740..99804	-	354	189025324	murB	TPASS_0090	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+99986..101548	+	520	189025325	cysS	TPASS_0091	-	COG0215J	cysteinyl-tRNA synthetase
+101619..102107	+	162	189025326	rpoE	TPASS_0092	-	COG1595K	RNA polymerase sigma-24 factor
+102091..102738	+	215	189025327	-	TPASS_0093	-	COG5662K	hypothetical protein
+102876..103886	+	336	189025328	pta	TPASS_0094	-	COG0280C	phosphate acetyltransferase
+103886..105832	+	648	189025329	-	TPASS_0095	-	COG4783R	hypothetical protein
+105906..106268	-	120	189025330	-	TPASS_0096	-	COG1734T	dnaK suppressor
+106438..106656	+	72	189025331	infA	TPASS_0097	-	COG0361J	translation initiation factor IF-1
+106716..107366	-	216	189025332	-	TPASS_0098	-	COG0484O	heat-shock protein
+107370..108125	-	251	189025333	pyrH	TPASS_0099	-	COG0528F	uridylate kinase
+108320..108922	+	200	189025334	-	TPASS_0100	-	COG0526OC	thioredoxin
+108915..109709	+	264	189025335	ccdA	TPASS_0101	-	COG0785O	cytochrome c biogenesis protein
+109747..111720	-	657	189025336	rep	TPASS_0102	-	COG0210L	Rep helicase, single-stranded DNA-dependent ATPase
+111785..113608	+	607	189025337	-	TPASS_0103	-	COG0514L	ATP-dependent DNA helicase
+113855..115636	+	593	189025338	ushA	TPASS_0104	-	COG0737F	5'-nucleotidase
+115803..118796	+	997	189025339	polA	TPASS_0105	-	COG0749L	DNA polymerase I
+118828..120360	-	510	189025340	-	TPASS_0106	-	COG1292M	carnitine transporter
+120341..121918	-	525	189025341	licC	TPASS_0107	-	COG4750M	protein LicC
+122272..123657	-	461	189025342	pfk	TPASS_0108	-	COG0205G	diphosphate--fructose-6-phosphate 1-phosphotransferase
+123759..124637	-	292	189025343	-	TPASS_0109	-	COG0566J	rRNA methylase
+125178..126911	+	577	189025344	-	TPASS_0110	-	-	hypothetical protein
+126971..128398	+	475	189025345	rpoN	TPASS_0111	-	COG1508K	RNA polymerase sigma-54 factor
+128395..129747	-	450	189025346	pepC	TPASS_0112	-	COG3579E	aminopeptidase C
+129889..130875	+	328	189025347	hflK	TPASS_0113	-	COG0330O	Lambda CII stability-governing protein
+130880..131875	+	331	189025348	hflC	TPASS_0114	-	COG0330O	Lambda CII stability-governing protein
+131900..132709	-	269	189025349	thiD	TPASS_0115	-	COG0351H	phosphomethypyrimidine kinase
+132860..134866	+	668	189025350	uvrB	TPASS_0116	-	COG0556L	excinuclease ABC subunit B
+134898..136694	-	598	189025351	tprC	TPASS_0117	-	-	protein TprC
+136774..138039	-	421	189025352	-	TPASS_0118	-	-	hypothetical protein
+138137..138796	-	219	189025353	yaeE	TPASS_0119	-	COG2011P	amino acid ABC transporter, permease protein
+138796..139605	-	269	189025354	-	TPASS_0120	-	COG1135P	amino acid ABC transporter, ATP-binding protein
+139735..140802	+	355	189025355	-	TPASS_0121	-	COG1509E	hypothetical protein
+141022..142878	-	618	189025356	pckA	TPASS_0122	-	COG1274C	phosphoenolpyruvate carboxykinase
+142984..145554	+	856	189025357	-	TPASS_0123	-	-	hypothetical protein
+145568..146674	+	368	189025358	-	TPASS_0124	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+146751..147545	+	264	189025359	exoA	TPASS_0125	-	COG0708L	exodeoxyribonuclease
+147609..148484	-	291	189025360	-	TPASS_0126	-	-	hypothetical protein
+149847..150227	+	126	189025361	-	TPASS_0127	-	-	hypothetical protein
+150729..151076	+	115	189025362	-	TPASS_0128	-	-	hypothetical protein
+151061..151537	+	158	189025363	-	TPASS_0129	-	-	hypothetical protein
+151866..152285	-	139	189025364	-	TPASS_0130	-	-	hypothetical protein
+152357..154153	-	598	189025365	tprD	TPASS_0131	-	-	protein TprD
+154331..154408	-	25	189025366	-	TPASS_0132	-	-	hypothetical protein
+154393..155625	-	410	189025367	-	TPASS_0133	-	-	hypothetical protein
+155622..156752	-	376	189025368	-	TPASS_0134	-	-	hypothetical protein
+156704..157645	-	313	189025369	-	TPASS_0135	-	-	hypothetical protein
+157985..159463	+	492	189025370	-	TPASS_0136	-	-	hypothetical protein
+159442..159579	+	45	189025371	-	TPASS_0137	-	-	hypothetical protein
+159716..160453	-	245	189025372	-	TPASS_0138	-	-	hypothetical protein
+160461..161153	-	230	189025373	-	TPASS_0139	-	COG0569P	hypothetical protein
+161193..162920	-	575	189025374	ntpJ	TPASS_0140	-	COG0168P	K+ transport protein
+163092..163625	+	177	189025375	dat	TPASS_0141	-	COG0350L	methylated-DNA-protein-cysteine S-methyltransferase
+163576..164238	-	220	189025376	-	TPASS_0142	-	COG3842E	thiamine ABC transporter ATP-binding protein
+164231..166012	-	593	189025377	-	TPASS_0143	-	COG1178P	thiamine ABC transporter permease
+165970..166977	-	335	189025378	-	TPASS_0144	-	COG4143H	thiamine ABC transporter, thiamine-binding periplasmic protein
+167087..169057	+	656	189025379	-	TPASS_0145	-	COG1022I	long-chain-fatty-acid--CoA ligase
+170462..172321	-	619	189025380	-	TPASS_0147	-	COG1449G	alpha-amylase 1
+172318..172896	-	192	189025381	-	TPASS_0148	-	-	hypothetical protein
+172890..173483	-	197	189025382	-	TPASS_0149	-	-	hypothetical protein
+173476..173943	-	155	189025383	-	TPASS_0150	-	-	hypothetical protein
+173927..174946	-	339	189025384	-	TPASS_0151	-	COG4658C	hypothetical protein
+174933..176477	-	514	189025385	rnfC	TPASS_0152	-	COG4656C	nitrogen fixation protein
+176553..177044	-	163	189025386	-	TPASS_0153	-	COG1963S	hypothetical protein
+177269..178306	+	345	189025387	-	TPASS_0154	-	COG0564J	hypothetical protein
+178312..179427	+	371	189025388	-	TPASS_0155	-	COG0739M	fibronectin binding protein
+179468..179872	-	134	189025389	-	TPASS_0156	-	COG0824R	hypothetical protein
+179869..180771	-	300	189025390	-	TPASS_0157	-	-	hypothetical protein
+180768..181454	-	228	189025391	-	TPASS_0158	-	COG1011R	hypothetical protein
+181458..182486	-	342	189025392	-	TPASS_0159	-	-	hypothetical protein
+182602..184455	-	617	189025393	proS	TPASS_0160	-	COG0442J	prolyl-tRNA synthetase
+184458..184550	-	30	189025394	-	TPASS_0161	-	-	hypothetical protein
+184567..185619	-	350	189025395	ruvB	TPASS_0162	-	COG2255L	Holliday junction DNA helicase RuvB
+185794..186720	+	308	189025396	troA	TPASS_0163	-	COG0803P	ABC transporter, periplasmic binding protein
+186868..187668	+	266	189025397	troB	TPASS_0164	-	COG1121P	ABC transporter, ATP-binding protein
+187640..188536	+	298	189025398	troC	TPASS_0165	-	COG1108P	ABC transporter, permease protein
+188540..189643	+	367	189025399	troD	TPASS_0166	-	COG1108P	ABC transporter, permease protein
+189653..190114	+	153	189025400	troR	TPASS_0167	-	COG1321K	cation-activated repressor protein
+190194..190949	+	251	189025401	gpmA	TPASS_0168	-	COG0588G	phosphoglyceromutase
+191173..191271	+	32	189025402	-	TPASS_0169	-	-	hypothetical protein
+191268..192077	+	269	189025403	pfs	TPASS_0170	-	COG0775F	protein Pfs
+192177..192605	+	142	189025404	tpp15	TPASS_0171	-	COG4939S	lipoprotein, 15 kDa
+192753..193280	-	175	189025405	-	TPASS_0172	-	-	hypothetical protein
+193315..193998	-	227	189025406	-	TPASS_0173	-	-	hypothetical protein
+193967..194809	-	280	189025407	-	TPASS_0174	-	COG2604S	hypothetical protein
+194559..195191	-	210	189025408	-	TPASS_0175	-	COG2604S	hypothetical protein
+195222..195488	-	88	189025409	-	TPASS_0176	-	-	hypothetical protein
+195485..196795	-	436	189025410	-	TPASS_0177	-	-	hypothetical protein
+196889..197815	-	308	189025411	-	TPASS_0178	-	-	hypothetical protein
+197815..199698	-	627	189025412	-	TPASS_0179	-	-	hypothetical protein
+199640..199798	-	52	189025413	-	TPASS_0180	-	-	hypothetical protein
+199791..200234	+	147	189025414	-	TPASS_0181	-	COG2919D	hypothetical protein
+200074..200853	+	259	189025415	-	TPASS_0182	-	COG0009J	hypothetical protein
+200856..201701	-	281	189025416	-	TPASS_0183	-	-	hypothetical protein
+201706..202170	-	154	189025417	smpB	TPASS_0184	-	COG0691O	SsrA-binding protein
+202258..202965	+	235	189025418	sip	TPASS_0185	-	COG0681U	signal peptidase I
+203020..204201	+	393	189025419	-	TPASS_0186	-	COG0635H	oxygen-independent coproporphyrinogen III oxidase
+204265..205752	+	495	189025420	tuf	TPASS_0187	-	COG0050J	elongation factor Tu
+205824..206132	+	102	189025421	rpsJ	TPASS_0188	-	COG0051J	30S ribosomal protein S10
+206179..206805	+	208	189025422	rplC	TPASS_0189	-	COG0087J	50S ribosomal protein L3
+206819..207469	+	216	189025423	rplD	TPASS_0190	-	COG0088J	50S ribosomal protein L4
+207456..207740	+	94	189025424	rplW	TPASS_0191	-	COG0089J	50S ribosomal protein L23
+207796..208617	+	273	189025425	rplB	TPASS_0192	-	COG0090J	50S ribosomal protein L2
+208627..208914	+	95	189025426	rpsS	TPASS_0193	-	COG0185J	30S ribosomal protein S19
+208923..209297	+	124	189025427	rplV	TPASS_0194	-	COG0091J	50S ribosomal protein L22
+209281..210024	+	247	189025428	rpsC	TPASS_0195	-	COG0092J	30S ribosomal protein S3
+210028..210447	+	139	189025429	rplP	TPASS_0196	-	COG0197J	50S ribosomal protein L16
+210462..210680	+	72	189025430	rpmC	TPASS_0197	-	COG0255J	50S ribosomal protein L29
+210695..210949	+	84	189025431	rpsQ	TPASS_0198	-	COG0186J	30S ribosomal protein S17
+210962..211330	+	122	189025432	rplN	TPASS_0199	-	COG0093J	50S ribosomal protein L14
+211342..211653	+	103	189025433	rplX	TPASS_0200	-	COG0198J	50S ribosomal protein L24
+211650..212207	+	185	189025434	rplE	TPASS_0201	-	COG0094J	50S ribosomal protein L5
+212219..212404	+	61	189025435	rpsN	TPASS_0202	-	COG0199J	30S ribosomal protein S14
+212420..212818	+	132	189025436	rpsH	TPASS_0203	-	COG0096J	30S ribosomal protein S8
+212828..213367	+	179	189025437	rplF	TPASS_0204	-	COG0097J	50S ribosomal protein L6
+213376..213738	+	120	189025438	rplR	TPASS_0205	-	COG0256J	50S ribosomal protein L18
+213747..214265	+	172	189025439	rpsE	TPASS_0206a	-	COG0098J	30S ribosomal protein S5
+214268..214453	+	61	189025440	rpmD	TPASS_0206b	-	COG1841J	50S ribosomal protein L30
+214453..214914	+	153	189025441	rplO	TPASS_0207	-	COG0200J	50S ribosomal protein L15
+214922..216274	+	450	189025442	secY	TPASS_0208	-	COG0201U	preprotein translocase subunit SecY
+216279..216392	+	37	189025443	rpmJ	TPASS_0209	-	COG0257J	50S ribosomal protein L36
+216408..216773	+	121	189025444	rpsM	TPASS_0210	-	COG0099J	30S ribosomal protein S13
+216791..217171	+	126	189025445	rpsK	TPASS_0211	-	COG0100J	30S ribosomal protein S11
+217186..218241	+	351	189025446	rpoA	TPASS_0212	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+218231..218725	+	164	189025447	rplQ	TPASS_0213	-	COG0203J	50S ribosomal protein L17
+218749..218946	+	65	189025448	-	TPASS_0214	-	-	hypothetical protein
+219152..219814	+	220	189025449	grpE	TPASS_0215	-	COG0576O	chaperone protein GrpE
+219930..221837	+	635	189025450	dnaK	TPASS_0216	-	COG0443O	molecular chaperone DnaK
+223384..224853	+	489	189025451	-	TPASS_0218	-	COG2208TK	sigma factor SigB regulation protein
+224857..227004	+	715	189025452	-	TPASS_0219	-	COG2208TK	sigma factor SigB regulation protein
+227033..227359	+	108	189025453	spoIIAA1	TPASS_0220	-	COG1366T	anti-sigma F factor antagonist
+227360..228142	+	260	189025454	-	TPASS_0221	-	COG1876M	D,D-carboxypeptidase
+228152..228598	+	148	189025455	-	TPASS_0222	-	-	hypothetical protein
+228866..230173	+	435	189025456	-	TPASS_0223	-	COG0436E	hypothetical protein
+230210..230314	+	34	189025457	-	TPASS_0224	-	-	hypothetical protein
+230360..231100	+	246	189025458	-	TPASS_0225	-	-	leucine-rich repeat protein TpLRR
+236252..236938	-	228	189025459	-	TPASS_0226	-	COG0619P	hypothetical protein
+236991..237758	-	255	189025460	-	TPASS_0227	-	COG1122P	cobalt ABC transporter, ATP-binding protein
+237825..238640	-	271	189025461	-	TPASS_0228	-	COG1268R	biotin synthase
+238584..239417	+	277	189025462	-	TPASS_0229	-	COG1573L	DNA polymerase, bacteriophage-type
+239422..241395	+	657	189025463	priA	TPASS_0230	-	COG1198L	primosomal protein N
+241496..242146	+	216	189025464	-	TPASS_0231	-	COG0564J	hypothetical protein
+242246..242362	+	38	189025465	-	TPASS_0232	-	-	hypothetical protein
+242393..242938	+	181	189025466	-	TPASS_0233	-	COG1366T	anti-sigma F factor antagonist
+243173..243343	+	56	189025467	rpmG	TPASS_0234	-	COG0267J	50S ribosomal protein L33
+243493..243672	+	59	189025468	secE	TPASS_0235	-	-	preprotein translocase subunit SecE
+243682..244239	+	185	189025469	nusG	TPASS_0236	-	COG0250K	transcription antitermination protein
+244346..244786	+	146	189025470	rplK	TPASS_0237	-	COG0080J	50S ribosomal protein L11
+244783..245463	+	226	189025471	rplA	TPASS_0238	-	COG0081J	50S ribosomal protein L1
+245465..246007	+	180	189025472	rplJ	TPASS_0239	-	COG0244J	50S ribosomal protein L10
+246116..246505	+	129	189025473	rplL	TPASS_0240	-	COG0222J	50S ribosomal protein L7/L12
+246768..250304	+	1178	189025474	rpoB	TPASS_0241	-	COG0085K	DNA-directed RNA polymerase subunit beta
+250317..254567	+	1416	189025475	rpoC	TPASS_0242	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+254670..255044	+	124	189025476	rpsL	TPASS_0243	-	COG0048J	30S ribosomal protein S12
+255066..255536	+	156	189025477	rpsG	TPASS_0244	-	COG0049J	30S ribosomal protein S7
+255560..259015	+	1151	189025478	-	TPASS_0245	-	COG0714R	hypothetical protein
+259161..260954	+	597	189025479	-	TPASS_0246	-	-	hypothetical protein
+261005..262078	+	357	189025480	amiA	TPASS_0247	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+262145..262549	+	134	189025481	-	TPASS_0248	-	-	hypothetical protein
+262628..263680	+	350	189025482	flaA1	TPASS_0249	-	-	flagellar filament outer layer protein
+263731..263958	+	75	189025483	-	TPASS_0250a	-	-	hypothetical protein
+263793..264080	+	95	189025484	rpsT	TPASS_0250b	-	COG0268J	30S ribosomal protein S20
+264112..264429	+	105	189025485	-	TPASS_0251	-	COG0776L	DNA-binding protein II
+264419..266059	+	546	189025486	-	TPASS_0252	-	COG0815M	apolipoprotein N-acyltransferase
+266050..266463	+	137	189025487	-	TPASS_0253	-	COG1664M	hypothetical protein
+266700..268259	+	519	189025488	rho	TPASS_0254	-	COG1158K	transcription termination factor Rho
+268378..268581	+	67	189025489	rpmE	TPASS_0255	-	COG0254J	50S ribosomal protein L31
+268626..269276	+	216	189025490	pgsA	TPASS_0256	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+269373..270443	+	356	189025491	glpQ	TPASS_0257	-	COG0584C	glycerophosphodiester phosphodiesterase
+270509..271219	-	236	189025492	-	TPASS_0258	-	-	hypothetical protein
+271298..271909	+	203	189025493	-	TPASS_0259	-	COG1652S	hypothetical protein
+272040..273386	-	448	189025494	-	TPASS_0260	-	-	hypothetical protein
+273501..274544	+	347	189025495	-	TPASS_0261	-	COG0664T	catabolite gene activator
+274522..275196	+	224	189025496	crp	TPASS_0262	-	COG0664T	catabolite gene activator
+275211..276995	+	594	189025497	-	TPASS_0263	-	-	hypothetical protein
+277000..277656	+	218	189025498	deoC	TPASS_0264	-	COG0274F	deoxyribose-phosphate aldolase
+278088..279455	-	455	189025499	braC	TPASS_0265	-	COG1114E	amino acid ABC transporter, permease protein
+279506..279631	+	41	189025500	-	TPASS_0266	-	-	hypothetical protein
+284740..285105	+	121	189025501	-	TPASS_0267	-	COG1664M	hypothetical protein
+285102..285755	+	217	189025502	-	TPASS_0268	-	COG5010U	hypothetical protein
+285765..287213	+	482	189025503	-	TPASS_0269	-	COG0621J	hypothetical protein
+287287..288723	+	478	189025504	pcnA	TPASS_0270	-	COG0617J	polynucleotide adenylyltransferase
+288720..289694	-	324	189025505	parB	TPASS_0271	-	COG1475K	chromosome partitioning protein
+289681..290442	-	253	189025506	parA	TPASS_0272	-	COG1192D	chromosome partitioning protein
+290575..291366	+	263	189025507	-	TPASS_0273	-	-	hypothetical protein
+291404..291904	-	166	189025508	-	TPASS_0274	-	COG2131F	deoxycytidylate deaminase
+291993..292742	-	249	189025509	-	TPASS_0275	-	COG1922M	UDP-N-acetyl-D-mannosamine transferase
+292721..293605	-	294	189025510	-	TPASS_0276	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+293778..295124	-	448	189025511	ctp	TPASS_0277	-	COG0793M	carboxyl-terminal protease
+295252..295380	+	42	189025512	-	TPASS_0278	-	-	hypothetical protein
+295426..298017	+	863	189025513	rpsA	TPASS_0279	-	COG0539J	bifunctional cytidylate kinase/ribosomal protein S1
+298014..298142	+	42	189025514	-	TPASS_0280	-	-	hypothetical protein
+298159..298287	+	42	189025515	-	TPASS_0281	-	-	hypothetical protein
+298280..298999	+	239	189025516	-	TPASS_0282	-	-	hypothetical protein
+299177..299656	+	159	189025517	kdtB	TPASS_0283	-	COG0669H	lipopolysaccharide core biosynthesis protein
+299761..300420	+	219	189025518	-	TPASS_0284	-	-	hypothetical protein
+300360..301439	+	359	189025519	-	TPASS_0285	-	COG0535R	hypothetical protein
+301411..301776	+	121	189025520	-	TPASS_0286	-	-	hypothetical protein
+301743..302366	+	207	189025521	-	TPASS_0287	-	-	hypothetical protein
+302366..303313	+	315	189025522	spsF	TPASS_0288	-	COG1861M	spore coat polysaccharide biosynthesis protein F
+303336..304940	+	534	189025523	-	TPASS_0289	-	COG2227H	hypothetical protein
+304995..305828	+	277	189025524	-	TPASS_0290	-	COG0561R	hypothetical protein
+305865..306746	+	293	189025525	-	TPASS_0291	-	COG1304C	hypothetical protein
+306737..307990	+	417	189025526	tpn50	TPASS_0292	-	COG2885M	outer membrane protein TpN50
+308002..308178	+	58	189025527	-	TPASS_0293	-	-	hypothetical protein
+308156..309421	+	421	189025528	prs	TPASS_0294	-	COG0462FE	phosphoribosylpyrophosphate synthetase
+309440..310684	+	414	189025529	xylB	TPASS_0295	-	COG1070G	carhohydrate kinase
+310770..311405	+	211	189025530	-	TPASS_0296	-	COG0237H	hypothetical protein
+311369..312181	+	270	189025531	-	TPASS_0297	-	COG3087D	hypothetical protein
+312314..313345	+	343	189025532	tpn38b	TPASS_0298	-	COG1744R	exported protein TpN38b
+313342..313566	+	74	189025533	-	TPASS_0299	-	-	hypothetical protein
+313551..315101	+	516	189025534	rbsA1	TPASS_0300	-	COG3845R	ribose/galactose ABC transporter, ATP-binding protein
+315098..316231	+	377	189025535	-	TPASS_0301	-	COG4603R	hypothetical protein
+316222..317163	+	313	189025536	-	TPASS_0302	-	COG1079R	hypothetical protein
+317150..319096	-	648	189025537	mutL	TPASS_0303	-	COG0323L	DNA mismatch repair protein MutL
+319109..322225	-	1038	189025538	-	TPASS_0304	-	-	hypothetical protein
+322152..323885	+	577	189025539	pyrG	TPASS_0305	-	COG0504F	CTP synthetase
+324050..324664	+	204	189025540	rpsD	TPASS_0306	-	COG0522J	30S ribosomal protein S4
+324751..325779	+	342	189025541	-	TPASS_0307	-	COG2815S	hypothetical protein
+325754..326719	+	321	189025542	hisJ	TPASS_0308	-	COG0834ET	amino acid ABC transporter, periplasmic binding protein
+326785..327603	+	272	189025543	-	TPASS_0309	-	COG0834ET	amino acid ABC transporter, periplasmic binding protein
+327572..327955	+	127	189025544	-	TPASS_0310	-	COG0629L	hypothetical protein
+327934..328077	-	47	189025545	-	TPASS_0311	-	-	hypothetical protein
+328061..329074	+	337	189025546	-	TPASS_0312	-	COG2035S	hypothetical protein
+329165..331453	+	762	189025547	tprE	TPASS_0313	-	-	protein TprE
+331510..331656	-	48	189025548	-	TPASS_0314	-	-	hypothetical protein
+331679..332326	-	215	189025549	-	TPASS_0315	-	-	hypothetical protein
+333573..335843	-	756	189025550	tprG	TPASS_0317	-	-	protein TprG
+335795..335974	-	59	189025551	-	TPASS_0318	-	-	hypothetical protein
+336003..337064	+	353	189025552	tmpC	TPASS_0319	-	COG1744R	membrane lipoprotein TmpC
+337074..337229	+	51	189025553	-	TPASS_0320	-	-	hypothetical protein
+337305..338906	+	533	189025554	rbsA2	TPASS_0321	-	COG3845R	ribose/galactose ABC transporter, ATP-binding protein
+338816..340018	+	400	189025555	rbsC1	TPASS_0322	-	COG4603R	ribose/galactose ABC transporter, permease protein
+340015..340965	+	316	189025556	rbsC2	TPASS_0323	-	COG1079R	ribose/galactose ABC transporter, permease protein
+341069..342526	+	485	189025557	-	TPASS_0324	-	-	hypothetical protein
+342508..345474	+	988	189025558	-	TPASS_0325	-	-	hypothetical protein
+345456..348017	+	853	189025559	-	TPASS_0326	-	COG4775M	outer membrane protein
+348074..348592	+	172	189025560	ompH	TPASS_0327	-	COG2825M	cationic outer membrane protein
+348648..351350	+	900	189025561	mutS	TPASS_0328	-	COG0249L	DNA mismatch repair protein MutS
+351468..353192	+	574	189025562	glyA	TPASS_0329	-	COG0112E	serine hydroxymethyltransferase
+353166..354962	-	598	189025563	-	TPASS_0330	-	COG0465O	cell division protein
+355192..356658	-	488	189025564	gnd	TPASS_0331	-	COG0362G	6-phosphogluconate dehydrogenase
+356674..356799	+	41	189025565	-	TPASS_0332	-	-	hypothetical protein
+356837..357529	+	230	189025566	-	TPASS_0333	-	COG2834M	hypothetical protein
+357554..358771	+	405	189025567	-	TPASS_0334	-	COG1426S	hypothetical protein
+358768..359310	-	180	189025568	-	TPASS_0335	-	-	hypothetical protein
+359153..360853	+	566	189025569	-	TPASS_0336	-	COG0658R	protein ComE
+360834..361691	+	285	189025570	ksgA	TPASS_0337	-	COG0030J	dimethyladenosine transferase
+361709..362197	+	162	189025571	-	TPASS_0338	-	-	hypothetical protein
+362209..363204	+	331	189025572	-	TPASS_0339	-	COG0564J	hypothetical protein
+363190..364662	-	490	189025573	folC	TPASS_0340	-	COG0285H	folylpolyglutamate synthetase
+364681..366126	+	481	189025574	murC	TPASS_0341	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+366247..366807	+	186	189025575	cmk	TPASS_0342	-	COG1102F	cytidylate kinase
+366801..367634	+	277	189025576	-	TPASS_0343	-	COG1194L	A/G-specific adenine glycosylase
+367639..371061	-	1140	189025577	trcF	TPASS_0344	-	COG1197LK	transcription-repair coupling factor
+371214..372305	+	363	189025578	mraY	TPASS_0345	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+372462..373163	+	233	189025579	-	TPASS_0346	-	-	hypothetical protein
+373132..373962	+	276	189025580	-	TPASS_0347	-	-	hypothetical protein
+373696..375105	-	469	189025581	-	TPASS_0348	-	COG4769S	hypothetical protein
+375075..375605	-	176	189025582	slyD	TPASS_0349	-	COG1047O	peptidyl-prolyl cis-trans isomerase, FKBP-type
+375819..377105	+	428	189025583	proA	TPASS_0350	-	COG0014E	gamma-glutamyl phosphate reductase
+377102..377992	+	296	189025584	proB	TPASS_0351	-	COG0263E	gamma-glutamyl kinase
+378124..378381	+	85	189025585	-	TPASS_0352	-	COG4443S	hypothetical protein
+378378..378887	-	169	189025586	rnhA	TPASS_0353	-	COG0328L	ribonuclease H
+379150..379776	+	208	189025587	tmk	TPASS_0354	-	COG0125F	thymidylate kinase
+379743..380126	-	127	189025588	-	TPASS_0355	-	-	hypothetical protein
+380331..380648	+	105	189025589	-	TPASS_0356	-	COG0724R	RNA-binding protein
+380750..381490	+	246	189025590	birA	TPASS_0357	-	COG0340H	biotin--acetyl-CoA-carboxylase ligase
+381495..383075	-	526	189025591	-	TPASS_0358	-	COG1543S	hypothetical protein
+383087..383722	-	211	189025592	-	TPASS_0359	-	-	hypothetical protein
+383933..384109	+	58	189025593	-	TPASS_0360	-	-	hypothetical protein
+384106..384954	-	282	189025594	-	TPASS_0361	-	COG0204I	lysophosphatidic acid acyltransferase
+385030..385266	+	78	189025595	rpmB	TPASS_0362	-	COG0227J	50S ribosomal protein L28
+385758..388196	+	812	189025596	cheA	TPASS_0363	-	COG0643NT	chemotaxis histidine kinase
+388190..389557	+	455	189025597	cheW1	TPASS_0364	-	COG1352NT	purine-binding chemotaxis protein
+389579..390043	+	154	189025598	cheX	TPASS_0365	-	COG1406N	chemotaxis protein
+390056..390490	+	144	189025599	cheY	TPASS_0366	-	COG4753T	chemotaxis response regulator
+390794..393619	+	941	189025600	-	TPASS_0367	-	COG1196D	chromosome segregation protein
+393619..393954	+	111	189025601	-	TPASS_0368	-	-	hypothetical protein
+393951..395501	+	516	189025602	-	TPASS_0369	-	COG4105R	hypothetical protein
+395569..395985	-	138	189025603	-	TPASS_0370	-	-	hypothetical protein
+395959..396834	+	291	189025604	-	TPASS_0371	-	COG1947I	hypothetical protein
+396956..397546	+	196	189025605	ctc	TPASS_0372	-	COG1825J	50S ribosomal protein L25/general stress protein Ctc
+397606..399039	+	477	189025606	-	TPASS_0373	-	COG0037D	hypothetical protein
+398975..401350	+	791	189025607	-	TPASS_0374	-	-	hypothetical protein
+401508..401717	+	69	189025608	-	TPASS_0375	-	-	hypothetical protein
+402033..402938	-	301	189025609	-	TPASS_0376	-	-	hypothetical protein
+403007..403132	+	41	189025610	-	TPASS_0377	-	-	hypothetical protein
+403129..403509	+	126	189025611	-	TPASS_0378	-	COG1580N	flagellar protein
+403584..406334	-	916	189025612	secA	TPASS_0379	-	COG0653U	preprotein translocase subunit SecA
+406441..408261	-	606	189025613	-	TPASS_0380	-	COG1061KL	DNA repair helicase
+408399..409115	-	238	189025614	-	TPASS_0381	-	COG5522S	hypothetical protein
+409199..409321	+	40	189025615	-	TPASS_0382	-	-	hypothetical protein
+409349..409798	+	149	189025616	-	TPASS_0383	-	COG2001S	cell division protein MraZ
+409795..410934	+	379	189025617	-	TPASS_0384	-	COG0275M	hypothetical protein
+410947..411321	+	124	189025618	-	TPASS_0385	-	-	hypothetical protein
+411305..412684	+	459	189025619	murF	TPASS_0386	-	COG0770M	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine
+412681..413835	+	384	189025620	ftsW	TPASS_0387	-	COG0772D	cell division protein
+413813..414628	+	271	189025621	ftsQ	TPASS_0388	-	COG1589M	cell division protein
+414641..415885	+	414	189025622	ftsA	TPASS_0389	-	COG0849D	cell division protein
+415931..417187	+	418	189025623	ftsZ	TPASS_0390	-	COG0206D	cell division protein FtsZ
+417184..418104	+	306	189025624	codV	TPASS_0391	-	COG4974L	integrase/recombinase
+417887..418846	+	319	189025625	-	TPASS_0392	-	-	hypothetical protein
+418843..419751	+	302	189025626	smf	TPASS_0393	-	COG0758LU	protein Smf
+419784..421979	+	731	189025627	topA	TPASS_0394	-	COG0550L	DNA topoisomerase I
+421972..422865	+	297	189025628	xprB	TPASS_0395	-	COG4974L	integrase/recombinase
+423013..423423	+	136	189025629	flgB	TPASS_0396	-	COG1815N	flagellar basal-body rod protein
+423508..423897	+	129	189025630	flgC	TPASS_0397	-	COG1558N	flagellar basal body rod protein FlgC
+423953..424327	+	124	189025631	fliE	TPASS_0398	-	COG1677NU	flagellar hook-basal body protein FliE
+424444..426147	+	567	189025632	fliF	TPASS_0399	-	COG1766NU	flagellar MS-ring protein
+426152..427210	+	352	189025633	fliG	TPASS_0400	-	COG1536N	flagellar motor switch protein G
+427258..428187	+	309	189025634	fliH	TPASS_0401	-	COG1317NU	flagellar assembly protein H
+428215..429558	+	447	189025635	fliI	TPASS_0402	-	COG1157NU	flagellum-specific ATP synthase
+429587..430039	+	150	189025636	-	TPASS_0403	-	COG2882NUO	flagellar protein
+430036..430569	-	177	189025637	-	TPASS_0404	-	-	hypothetical protein
+430566..431015	-	149	189025638	-	TPASS_0405	-	COG1357S	protein McbG
+431206..432012	+	268	189025639	murI	TPASS_0406	-	COG0796M	glutamate racemase
+432140..432814	+	224	189025640	gph1	TPASS_0407	-	COG1011R	phosphoglycolate phosphatase
+432893..436147	+	1084	189025641	-	TPASS_0408	-	COG1196D	hypothetical protein
+436187..436372	+	61	189025642	-	TPASS_0409	-	-	hypothetical protein
+436637..438388	+	583	189025643	secD	TPASS_0410	-	COG0342U	preprotein translocase subunit SecD
+438385..439647	+	420	189025644	secF	TPASS_0411	-	COG0341U	preprotein translocase subunit SecF
+439723..440028	-	101	189025645	-	TPASS_0412	-	-	hypothetical protein
+440047..441945	-	632	189025646	-	TPASS_0413	-	COG1109G	phosphoglucomutase
+442048..443403	+	451	189025647	dagA	TPASS_0414	-	COG1115E	D-alanine glycine permease
+443384..443917	+	177	189025648	-	TPASS_0415	-	-	hypothetical protein
+443864..445222	-	452	189025649	ffh	TPASS_0416	-	COG0541U	signal recognition particle protein
+445215..446894	-	559	189025650	lnt	TPASS_0417	-	COG0815M	apolipoprotein N-acyltransferase
+446921..448114	+	397	189025651	-	TPASS_0418	-	COG0153G	galactokinase
+448111..448674	+	187	189025652	-	TPASS_0419	-	COG0496R	survival protein
+448655..448882	+	75	189025653	-	TPASS_0420	-	-	hypothetical protein
+449016..451067	+	683	189025654	-	TPASS_0421	-	COG3391S	hypothetical protein
+451051..452076	+	341	189025655	-	TPASS_0422	-	-	hypothetical protein
+452101..452907	+	268	189025656	-	TPASS_0423	-	COG1123R	hypothetical protein
+453110..453808	+	232	189025657	-	TPASS_0424	-	-	V-type ATP synthase subunit E
+453786..454046	+	86	189025658	-	TPASS_0425	-	-	hypothetical protein
+454188..455957	+	589	189025659	atpA1	TPASS_0426	-	COG1155C	V-type ATP synthase subunit A
+455961..457253	+	430	189025660	atpB1	TPASS_0427	-	COG1156C	V-type ATP synthase subunit B
+457265..457885	+	206	189025661	atpD1	TPASS_0428	-	COG1394C	V-type ATP synthase subunit D
+457882..459750	+	622	189025662	atpI1	TPASS_0429	-	COG1269C	V-type ATP synthase subunit I
+459787..460209	+	140	189025663	atpK1	TPASS_0430	-	-	V-type ATP synthase subunit K
+460243..461064	+	273	189025664	-	TPASS_0431	-	COG1521K	hypothetical protein
+461107..461658	+	183	189025665	-	TPASS_0432	-	-	hypothetical protein
+461713..463527	+	604	189025666	arp	TPASS_0433	-	-	acidic repeat protein
+463624..464094	-	156	189025667	tpp17	TPASS_0435	-	COG3015MP	lipoprotein, 17 kDa
+464225..465307	-	360	189025668	-	TPASS_0436	-	COG0618R	hypothetical protein
+465273..465803	-	176	189025669	-	TPASS_0437	-	-	hypothetical protein
+465833..466642	+	269	189025670	-	TPASS_0438	-	COG0127F	hypothetical protein
+466729..467241	+	170	189025671	cheW2	TPASS_0439	-	COG0835NT	purine-binding chemotaxis protein
+467331..468482	+	383	189025672	-	TPASS_0440	-	COG0399M	spore coat polysaccharide biosynthesis protein
+468479..469396	+	305	189025673	-	TPASS_0441	-	COG0061G	hypothetical protein
+469389..471110	+	573	189025674	recN	TPASS_0442	-	COG0497L	DNA repair protein
+471052..471906	+	284	189025675	-	TPASS_0443	-	-	hypothetical protein
+471912..472940	+	342	189025676	-	TPASS_0444	-	COG4942D	hypothetical protein
+473076..473705	+	209	189025677	thiJ	TPASS_0445	-	COG0693R	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+473747..474961	+	404	189025678	gcpE	TPASS_0446	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+474958..476082	+	374	189025679	-	TPASS_0447	-	-	hypothetical protein
+476140..477222	+	360	189025680	-	TPASS_0448	-	COG0035F	uracil phosphoribosyltransferase
+477226..477816	+	196	189025681	-	TPASS_0449	-	-	hypothetical protein
+477953..480004	+	683	189025682	fusA1	TPASS_0450	-	COG0480J	elongation factor G
+479993..480175	-	60	189025683	-	TPASS_0451	-	-	hypothetical protein
+480454..483729	+	1091	189025684	ileS	TPASS_0452	-	COG0060J	isoleucyl-tRNA synthetase
+483716..484579	+	287	189025685	-	TPASS_0453	-	-	hypothetical protein
+484929..485618	-	229	189025686	-	TPASS_0454	-	-	hypothetical protein
+485615..486619	-	334	189025687	-	TPASS_0455	-	-	hypothetical protein
+486676..487992	-	438	189025688	-	TPASS_0456	-	-	hypothetical protein
+488060..489841	+	593	189025689	-	TPASS_0457	-	-	hypothetical protein
+489932..490510	+	192	189025690	-	TPASS_0458	-	COG1386K	hypothetical protein
+490539..491324	+	261	189025691	-	TPASS_0459	-	COG1187J	hypothetical protein
+491367..492074	+	235	189025692	-	TPASS_0460	-	COG3063NU	hypothetical protein
+492075..492434	+	119	189025693	-	TPASS_0461	-	-	hypothetical protein
+492639..493481	+	280	189025694	-	TPASS_0462	-	-	hypothetical protein
+493486..493818	+	110	189025695	-	TPASS_0463	-	-	hypothetical protein
+493877..494629	-	250	189025696	-	TPASS_0464	-	COG0220R	hypothetical protein
+494626..495498	-	290	189025697	-	TPASS_0465	-	-	hypothetical protein
+495431..496600	-	389	189025698	-	TPASS_0466	-	-	hypothetical protein
+496591..496839	+	82	189025699	-	TPASS_0467	-	-	hypothetical protein
+496809..498761	-	650	189025700	-	TPASS_0468	-	COG5010U	hypothetical protein
+498754..499695	-	313	189025701	-	TPASS_0470	-	-	hypothetical protein
+499687..501096	+	469	189025702	-	TPASS_0471	-	COG4783R	hypothetical protein
+501109..503184	-	691	189025703	uvrC	TPASS_0472	-	COG0322L	excinuclease ABC subunit C
+503259..503903	-	214	189025704	-	TPASS_0473	-	-	hypothetical protein
+503968..504705	-	245	189025705	-	TPASS_0474	-	COG0217S	hypothetical protein
+504846..506453	-	535	189025706	pgi	TPASS_0475	-	COG0166G	glucose-6-phosphate isomerase
+506517..507863	-	448	189025707	ack	TPASS_0476	-	COG0282C	acetate kinase
+507930..508655	-	241	189025708	-	TPASS_0477	-	COG0363G	glucose-6-phosphate 1-dehydrogenase
+508716..510263	-	515	189025709	zwf	TPASS_0478	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+510336..511010	-	224	189025710	-	TPASS_0479	-	-	hypothetical protein
+511122..511610	+	162	189025711	-	TPASS_0480	-	-	hypothetical protein
+511642..513075	+	477	189025712	-	TPASS_0481	-	-	hypothetical protein
+513042..513890	+	282	189025713	-	TPASS_0482	-	-	hypothetical protein
+513956..515080	-	374	189025714	-	TPASS_0483	-	-	fibronectin-binding protein
+515067..517082	-	671	189025715	-	TPASS_0484	-	-	hypothetical protein
+516976..518820	-	614	189025716	-	TPASS_0485	-	COG2114T	adenylate cyclase
+518817..520412	-	531	189025717	-	TPASS_0486	-	-	antigen, p83/100
+520501..522078	-	525	189025718	-	TPASS_0487	-	-	hypothetical protein
+522306..524843	+	845	189025719	mcp2	TPASS_0488	-	COG0840NT	methyl-accepting chemotaxis protein
+525291..526259	+	322	189025720	-	TPASS_0489	-	COG1235R	hypothetical protein
+526256..526444	+	62	189025721	-	TPASS_0490	-	-	hypothetical protein
+526451..527485	+	344	189025722	-	TPASS_0491	-	COG1559R	hypothetical protein
+527509..529326	+	605	189025723	dnaG	TPASS_0492	-	COG0358L	DNA primase
+529323..531158	+	611	189025724	rpoD	TPASS_0493	-	COG0568K	RNA polymerase sigma factor RpoD
+531168..531989	+	273	189025725	-	TPASS_0494	-	COG1579R	hypothetical protein
+532319..533308	+	329	189025726	-	TPASS_0496	-	-	hypothetical protein
+533321..534355	+	344	189025727	mreB	TPASS_0497	-	COG1077D	rod shape-determining protein MreB
+534360..535223	+	287	189025728	mreC	TPASS_0498	-	COG1792M	rod shape-determining protein MreC
+535220..535726	+	168	189025729	mreD	TPASS_0499	-	COG2891M	rod shape-determining protein
+535727..537601	+	624	189025730	pbp1	TPASS_0500	-	COG0768M	penicillin-binding protein
+537598..538899	+	433	189025731	rodA	TPASS_0501	-	COG0772D	rod shape-determining protein
+538925..539821	+	298	189025732	-	TPASS_0502	-	COG0666R	hypothetical protein
+539800..540363	+	187	189025733	-	TPASS_0503	-	-	hypothetical protein
+540345..540485	+	46	189025734	-	TPASS_0504	-	-	hypothetical protein
+540494..541828	-	444	189025735	hxk	TPASS_0505	-	COG5026G	hexokinase
+542563..543891	+	442	189025736	tig	TPASS_0506	-	COG0544O	trigger factor
+543884..544495	+	203	189025737	clpP	TPASS_0507	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+544482..545729	+	415	189025738	clpX	TPASS_0508	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+545826..546392	+	188	189025739	ahpC	TPASS_0509	-	COG0450O	alkyl hydroperoxide reductase
+546573..548390	-	605	189025740	lepA	TPASS_0510	-	COG0481M	GTP-binding protein LepA
+548433..549059	+	208	189025741	carD	TPASS_0511	-	COG1329K	transcription factor
+549056..550303	+	415	189025742	-	TPASS_0512	-	COG1211I	hypothetical protein
+550377..551777	+	466	189025743	trkA	TPASS_0513	-	COG0569P	potassium transporter peripheral membrane component
+551891..554773	+	960	189025744	uvrA	TPASS_0514	-	COG0178L	excinuclease ABC subunit A
+554770..557745	+	991	189025745	-	TPASS_0515	-	COG1452M	hypothetical protein
+557759..559339	-	526	189025746	mviN	TPASS_0516	-	COG0728R	virulence factor
+559336..559926	-	196	189025747	ruvC	TPASS_0517	-	COG0817L	Holliday junction nuclease, subunit C
+559908..560600	-	230	189025748	-	TPASS_0518	-	COG1564H	hypothetical protein
+560597..561973	-	458	189025749	atoC	TPASS_0519	-	COG2204T	response regulatory protein
+563168..564439	-	423	189025750	-	TPASS_0521	-	COG2812L	DNA polymerase III, gamma and tau subunits
+564450..564929	-	159	189025751	-	TPASS_0522	-	COG1286R	hypothetical protein
+564926..566080	-	384	189025752	murG	TPASS_0523	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+566084..568729	-	881	189025753	lon2	TPASS_0524	-	COG0466O	ATP-dependent protease LA
+568865..569428	+	187	189025754	efp	TPASS_0525	-	COG0231J	translation elongation factor P
+569576..571582	+	668	189025755	hrpA	TPASS_0526	-	COG1643L	ATP-dependent helicase
+571630..572259	-	209	189025756	atpD2	TPASS_0527	-	COG1394C	V-type ATPase, subunit D
+572354..573796	-	480	189025757	atpB2	TPASS_0528	-	COG1156C	V-type ATP synthase subunit B
+573793..575610	-	605	189025758	atpA2	TPASS_0529	-	COG1155C	V-type ATP synthase subunit A
+575607..576233	-	208	189025759	-	TPASS_0530	-	-	V-type ATPase, subunit E
+576239..576577	-	112	189025760	-	TPASS_0531	-	COG1436C	V-type ATPase, subunit F
+577197..578561	-	454	189025761	atpI2	TPASS_0533	-	COG1269C	V-type ATPase, subunit I
+578554..579579	-	341	189025762	-	TPASS_0534	-	COG1527C	hypothetical protein
+579583..579795	-	70	189025763	-	TPASS_0535	-	-	hypothetical protein
+579936..580337	-	133	189025764	secG	TPASS_0536	-	-	preprotein translocase subunit SecG
+580487..581236	-	249	189025765	tpiA	TPASS_0537	-	COG0149G	triosephosphate isomerase
+581387..582646	-	419	189025766	pgk	TPASS_0538	-	COG0126G	phosphoglycerate kinase
+582618..582839	+	73	189025767	-	TPASS_0539	-	-	hypothetical protein
+583120..583491	+	123	189025768	spoIIAA2	TPASS_0540	-	COG1366T	anti-sigma F factor antagonist
+583621..584580	+	319	189025769	era	TPASS_0541	-	COG1159R	GTP-binding protein Era
+584577..586298	-	573	189025770	-	TPASS_0542	-	COG0205G	diphosphate--fructose-6-phosphate 1-phosphotransferase
+586358..587041	-	227	189025771	ruvA	TPASS_0543	-	COG0632L	Holliday junction DNA helicase, subunit A
+587083..588957	-	624	189025772	-	TPASS_0544	-	COG2374R	hypothetical protein
+588982..590046	-	354	189025773	mglB1	TPASS_0545	-	COG1879G	methylgalactoside ABC transporter, periplasmic galactose-binding protein
+590131..592131	-	666	189025774	-	TPASS_0546	-	COG0265O	periplasmic serine protease
+591843..592973	-	376	189025775	lytB	TPASS_0547	-	COG0761IM	penicillin tolerance protein
+593117..594433	+	438	189025776	-	TPASS_0548	-	-	hypothetical protein
+594531..596975	+	814	189025777	clpC	TPASS_0549	-	COG0542O	ATP-dependent Clp protease, subunit C
+597016..598503	-	495	189025778	trmE	TPASS_0550	-	COG0486R	tRNA modification GTPase TrmE
+598507..599595	-	362	189025779	-	TPASS_0551	-	COG0671I	phosphatase
+599608..600141	-	177	189025780	-	TPASS_0552	-	-	hypothetical protein
+600385..601596	+	403	189025781	-	TPASS_0553	-	COG0628R	hypothetical protein
+601631..602299	+	222	189025782	gph2	TPASS_0554	-	COG0546R	phosphoglycolate phosphatase
+602363..603553	-	396	189025783	-	TPASS_0555	-	COG1301C	glutamate/aspartate transporter
+603776..604768	-	330	189025784	asnA	TPASS_0556	-	COG2502E	asparagine synthetase AsnA
+604873..605586	+	237	189025785	-	TPASS_0557	-	COG3683R	hypothetical protein
+605616..606524	+	302	189025786	-	TPASS_0558	-	COG2215R	hypothetical protein
+606586..607791	+	401	189025787	-	TPASS_0559	-	COG0301H	thiamine biosynthesis protein ThiI
+607844..609829	-	661	189025788	tktA	TPASS_0560	-	COG0021G	transketolase A
+609940..610791	-	283	189025789	-	TPASS_0561	-	COG1512R	hypothetical protein
+610962..612098	+	378	189025790	spsE	TPASS_0562	-	COG2089M	spore coat polysaccharide biosynthesis protein
+612089..612502	+	137	189025791	-	TPASS_0563	-	-	hypothetical protein
+612499..614535	+	678	189025792	-	TPASS_0564	-	-	hypothetical protein
+614417..615637	-	406	189025793	-	TPASS_0565	-	COG2845S	hypothetical protein
+615648..617135	-	495	189025794	algI	TPASS_0566	-	COG1696M	alginate O-acetylation protein
+617167..617787	-	206	189025795	-	TPASS_0567	-	COG3334S	hypothetical protein
+617866..618498	-	210	189025796	eda	TPASS_0568	-	COG0800G	4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxyphosphogluconate aldolase
+618620..620944	-	774	189025797	-	TPASS_0569	-	COG0006E	aminopeptidase P
+620969..621814	-	281	189025798	-	TPASS_0570	-	COG3762S	hypothetical protein
+621841..622506	-	221	189025799	-	TPASS_0571	-	COG1704S	protein Tp70
+622524..623606	-	360	189025800	-	TPASS_0572	-	COG3976S	hypothetical protein
+623597..623689	+	30	189025801	-	TPASS_0573	-	-	hypothetical protein
+623716..625020	-	434	189025802	-	TPASS_0574	-	-	carboxypeptidase, 47 kDa
+627252..628358	+	368	189025803	prfB	TPASS_0576	-	COG1186J	peptide chain release factor 2
+628250..630094	+	614	189025804	-	TPASS_0577	-	-	hypothetical protein
+630101..630988	+	295	189025805	ftsY	TPASS_0578	-	COG0552U	cell division protein
+630985..631761	+	258	189025806	-	TPASS_0579	-	-	hypothetical protein
+631754..633043	+	429	189025807	-	TPASS_0580	-	COG4591M	hypothetical protein
+633036..633716	+	226	189025808	-	TPASS_0581	-	COG1136V	ABC transporter, ATP-binding protein
+633713..635200	+	495	189025809	-	TPASS_0582	-	COG4591M	hypothetical protein
+635184..635309	-	41	189025810	-	TPASS_0583	-	-	hypothetical protein
+635296..636705	+	469	189025811	-	TPASS_0584	-	-	hypothetical protein
+636698..638341	+	547	189025812	oppA	TPASS_0585	-	COG4166E	oligopeptide ABC transporter, periplasmic binding protein
+638430..641066	+	878	189025813	leuS	TPASS_0586	-	COG0495J	leucyl-tRNA synthetase
+641046..641276	-	76	189025814	-	TPASS_0587	-	-	hypothetical protein
+641303..642067	-	254	189025815	-	TPASS_0588	-	COG1466L	hypothetical protein
+642155..642421	-	88	189025816	ptsH	TPASS_0589	-	COG1925G	phosphocarrier protein HPr
+642393..642509	-	38	189025817	-	TPASS_0590	-	-	hypothetical protein
+642466..643425	-	319	189025818	ptsK	TPASS_0591	-	COG1493T	HPr kinase/phosphorylase
+644188..645690	+	500	189025819	-	TPASS_0592	-	-	hypothetical protein
+645627..647660	+	677	189025820	-	TPASS_0593	-	-	hypothetical protein
+647747..648355	-	202	189025821	-	TPASS_0594	-	COG4731S	hypothetical protein
+648383..649018	-	211	189025822	adk	TPASS_0595	-	COG0563F	adenylate kinase
+649042..650154	-	370	189025823	pcnB	TPASS_0596	-	COG0617J	polynucleotide adenylyltransferase
+650262..652325	-	687	189025824	-	TPASS_0598	-	-	hypothetical protein
+652362..653018	-	218	189025825	-	TPASS_0599	-	-	hypothetical protein
+653025..654377	-	450	189025826	-	TPASS_0600	-	COG0750M	zinc protease
+654374..655525	-	383	189025827	dxr	TPASS_0601	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+655501..656364	-	287	189025828	cdsA	TPASS_0602	-	COG0575I	phosphatidate cytidylyltransferase
+656361..657047	-	228	189025829	-	TPASS_0603	-	COG0020I	undecaprenyl pyrophosphate synthase
+657053..657604	-	183	189025830	frr	TPASS_0604	-	COG0233J	ribosome recycling factor
+657708..658580	-	290	189025831	tsf	TPASS_0605	-	COG0264J	elongation factor Ts
+658671..659546	-	291	189025832	rpsB	TPASS_0606	-	COG0052J	30S ribosomal protein S2
+659515..659661	-	48	189025833	-	TPASS_0607	-	-	hypothetical protein
+659911..660801	-	296	189025834	-	TPASS_0608	-	-	hypothetical protein
+661119..662690	+	523	189025835	asnC	TPASS_0609	-	COG0017J	asparaginyl-tRNA synthetase
+662700..664781	+	693	189025836	tprH	TPASS_0610	-	-	protein TprH
+664923..665702	+	259	189025837	-	TPASS_0611	-	COG0396O	ABC transporter, ATP-binding protein
+665783..667222	+	479	189025838	-	TPASS_0612	-	COG0719O	hypothetical protein
+667249..668397	+	382	189025839	-	TPASS_0613	-	COG0719O	hypothetical protein
+668394..669608	+	404	189025840	nifS1	TPASS_0614	-	COG0520E	nitrogen fixation protein
+669659..670102	+	147	189025841	nifU	TPASS_0615	-	COG0822C	nitrogen fixation protein
+670123..670887	+	254	189025842	rpiA	TPASS_0616	-	COG0120G	ribose-5-phosphate isomerase A
+670914..671192	-	92	189025843	-	TPASS_0617	-	-	hypothetical protein
+671288..671647	-	119	189025844	-	TPASS_0618	-	-	hypothetical protein
+671703..672515	-	270	189025845	-	TPASS_0619	-	-	hypothetical protein
+672512..674341	-	609	189025846	tprI	TPASS_0620	-	-	protein TprI
+674399..676675	-	758	189025847	tprJ	TPASS_0621	-	-	protein TprJ
+676735..678516	-	593	189025848	-	TPASS_0622	-	COG2956G	hypothetical protein
+677933..680272	+	779	189025849	dniR	TPASS_0623	-	COG1388M	membrane-bound lytic murein transglycosylase D
+680276..681706	+	476	189025850	-	TPASS_0624	-	COG2885M	hypothetical protein
+681706..682458	+	250	189025851	-	TPASS_0625	-	-	hypothetical protein
+682455..683630	+	391	189025852	-	TPASS_0626	-	COG0420L	exonuclease
+683627..686770	+	1047	189025853	sbcC	TPASS_0627	-	COG0419L	exonuclease
+686767..688248	+	493	189025854	-	TPASS_0628	-	COG1488H	nicotinate phosphoribosyltransferase
+688419..689243	+	274	189025855	-	TPASS_0629	-	-	hypothetical protein
+689413..690324	+	303	189025856	cheR	TPASS_0630	-	COG1352NT	chemotaxis protein methyltransferase
+690371..691582	+	403	189025857	cheB	TPASS_0631	-	COG2201NT	protein-glutamate methylesterase
+691687..692700	+	337	189025858	trpS	TPASS_0632	-	COG0180J	tryptophanyl-tRNA synthetase
+692841..693716	+	291	189025859	msrA	TPASS_0633	-	COG0225O	bifunctional methionine sulfoxide reductase B/A protein
+693835..696306	+	823	189025860	lig	TPASS_0634	-	COG0272L	DNA ligase
+696341..697111	-	256	189025861	-	TPASS_0636	-	COG1381L	hypothetical protein
+697149..698099	-	316	189025862	miaA	TPASS_0637	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+698323..698757	-	144	189025863	-	TPASS_0638	-	-	hypothetical protein
+699177..701141	+	654	189025864	mcp3	TPASS_0639	-	COG0840NT	methyl-accepting chemotaxis protein
+701165..703009	+	614	189025865	mcp4	TPASS_0640	-	COG0840NT	methyl-accepting chemotaxis protein
+703027..704355	-	442	189025866	hisS	TPASS_0641	-	COG0124J	histidyl-tRNA synthetase
+704496..706256	+	586	189025867	manB	TPASS_0642	-	COG1109G	phosphomannomutase
+706253..706900	+	215	189025868	dnaQ	TPASS_0643	-	COG0847L	DNA polymerase III, subunit epsilon
+706897..708483	-	528	189025869	lysK	TPASS_0644	-	COG1384J	lysyl-tRNA synthetase
+708514..708690	-	58	189025870	-	TPASS_0645	-	-	hypothetical protein
+708749..710071	-	440	189025871	-	TPASS_0646	-	-	hypothetical protein
+709983..711263	-	426	189025872	serS	TPASS_0647	-	COG0172J	seryl-tRNA synthetase
+711313..713361	-	682	189025873	-	TPASS_0648	-	COG3063NU	hypothetical protein
+713306..714103	-	265	189025874	tlyC	TPASS_0649	-	COG1253R	hemolysin
+714091..714573	-	160	189025875	-	TPASS_0650	-	COG0319R	metalloprotease
+714579..716990	-	803	189025876	-	TPASS_0651	-	COG1480R	hypothetical protein
+717166..718305	+	379	189025877	potA	TPASS_0652	-	COG3842E	spermidine/putrescine ABC transporter, ATP-binding protein
+718302..719201	+	299	189025878	potB	TPASS_0653	-	COG1176E	spermidine/putrescine ABC transporter, permease protein
+719194..720012	+	272	189025879	potC	TPASS_0654	-	COG1177E	spermidine/putrescine ABC transporter, permease protein
+720048..721094	+	348	189025880	potD	TPASS_0655	-	COG0687E	spermidine/putrescine ABC transporter, periplasmic binding protein
+721063..721164	+	33	189025881	-	TPASS_0656	-	-	hypothetical protein
+721149..721370	-	73	189025882	csrA	TPASS_0657	-	COG1551T	carbon storage regulator
+721364..721816	-	150	189025883	-	TPASS_0658	-	COG1699S	flagellar assembly protein FliW
+721835..723085	-	416	189025884	flgL	TPASS_0659	-	COG1344N	flagellar hook-associated protein FlgL
+723119..724996	-	625	189025885	flgK	TPASS_0660	-	COG1256N	flagellar hook-associated protein FlgK
+725102..725614	-	170	189025886	-	TPASS_0661	-	-	hypothetical protein
+725737..726735	-	332	189025887	cbbA	TPASS_0662	-	COG0191G	fructose-bisphosphate aldolase
+727002..727730	+	242	189025888	-	TPASS_0663	-	-	outer membrane protein
+727727..728452	+	241	189025889	flaA2	TPASS_0664	-	-	flagellar filament outer layer protein
+728470..729225	-	251	189025890	-	TPASS_0665	-	-	hypothetical protein
+729222..729515	-	97	189025891	-	TPASS_0666	-	-	hypothetical protein
+729559..731226	-	555	189025892	udk	TPASS_0667	-	COG0572F	uridine kinase
+731457..732059	-	200	189025893	-	TPASS_0668	-	-	hypothetical protein
+732056..735568	-	1170	189025894	dnaE	TPASS_0669	-	COG0587L	DNA polymerase III subunit alpha
+735722..736912	-	396	189025895	ddl	TPASS_0670	-	COG1181M	D-alanyl-alanine synthetase A
+736914..737948	-	344	189025896	-	TPASS_0671	-	COG5050I	sn-1,2-diacylglycerol cholinephosphotransferase
+737979..739367	-	462	189025897	glyS	TPASS_0672	-	COG0423J	glycyl-tRNA synthetase
+739502..741115	-	537	189025898	gltX	TPASS_0673	-	COG0008J	glutamyl-tRNA synthetase
+741293..741901	+	202	189025899	-	TPASS_0674	-	COG2840S	hypothetical protein
+741907..742905	+	332	189025900	-	TPASS_0675	-	COG3735S	hypothetical protein
+742917..743195	-	92	189025901	-	TPASS_0676	-	-	hypothetical protein
+743217..743825	-	202	189025902	-	TPASS_0677	-	-	hypothetical protein
+744079..745002	+	307	189025903	-	TPASS_0678	-	-	hypothetical protein
+744999..745316	+	105	189025904	-	TPASS_0679	-	-	hypothetical protein
+745357..746415	-	352	189025905	gcp	TPASS_0680	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+746466..747599	-	377	189025906	alr	TPASS_0681	-	COG0787M	alanine racemase
+747628..748230	-	200	189025907	ftsJ	TPASS_0682	-	COG0293J	cell division protein
+748323..749417	+	364	189025908	-	TPASS_0683	-	COG0142H	octaprenyl-diphosphate synthase
+749710..750921	+	403	189025909	mglB2	TPASS_0684	-	COG1879G	methylgalactoside ABC transporter, periplasmic galactose-binding protein
+751041..752531	+	496	189025910	mglA	TPASS_0685	-	COG1129G	methylgalactoside ABC transporter, ATP binding protein
+752546..754141	+	531	189025911	mglC	TPASS_0686	-	COG4211G	methylgalactoside ABC transporter, permease protein
+754269..756329	-	686	189025912	recG	TPASS_0687	-	COG1200LK	ATP-dependent DNA helicase RecG
+756385..757398	-	337	189025913	mccF	TPASS_0688	-	COG1619V	immunity protein
+757399..758781	-	460	189025914	engA	TPASS_0689	-	COG1160R	GTP-binding protein EngA
+758817..759398	-	193	189025915	-	TPASS_0690	-	-	hypothetical protein
+759391..760149	-	252	189025916	-	TPASS_0691	-	COG1354S	hypothetical protein
+760177..761400	-	407	189025917	recA	TPASS_0692	-	COG0468L	recombinase A
+761661..762983	-	440	189025918	-	TPASS_0693	-	-	hypothetical protein
+763143..763820	+	225	189025919	-	TPASS_0694	-	COG0212H	5,10-methenyltetrahydrofolate synthetase
+763908..765701	+	597	189025920	-	TPASS_0695	-	COG0439I	phosphoribosylglycinamide formyltransferase
+765689..766525	-	278	189025921	-	TPASS_0696	-	COG1335Q	nicotinamidase
+766587..767195	-	202	189025922	-	TPASS_0697	-	-	hypothetical protein
+767226..767771	-	181	189025923	-	TPASS_0698	-	-	hypothetical protein
+767768..767878	-	36	189025924	-	TPASS_0699	-	-	hypothetical protein
+767884..768276	-	130	189025925	-	TPASS_0700	-	-	hypothetical protein
+768414..768617	-	67	189025926	-	TPASS_0701	-	COG1758K	DNA-directed RNA polymerase
+768787..769323	-	178	189025927	-	TPASS_0702	-	COG0739M	hypothetical protein
+769338..770018	-	226	189025928	-	TPASS_0703	-	-	hypothetical protein
+770018..772138	-	706	189025929	recJ	TPASS_0704	-	COG0608L	single-stranded-DNA-specific exonuclease
+772281..774935	-	884	189025930	pbp2	TPASS_0705	-	COG5009M	penicillin-binding protein
+775232..776158	-	308	189025931	-	TPASS_0706	-	COG0739M	hypothetical protein
+776220..776699	-	159	189025932	-	TPASS_0707	-	-	hypothetical protein
+776765..777280	+	171	189025933	-	TPASS_0708	-	-	hypothetical protein
+777336..778124	+	262	189025934	-	TPASS_0709	-	COG1191K	RNA polymerase sigma factor WhiG
+778133..780103	+	656	189025935	-	TPASS_0710	-	COG1315L	hypothetical protein
+780140..780712	+	190	189025936	-	TPASS_0711	-	-	hypothetical protein
+780727..781641	-	304	189025937	ylxH1	TPASS_0712	-	COG0455D	ATP-binding protein
+781613..782926	-	437	189025938	flhF	TPASS_0713	-	COG1419N	flagellar-associated GTP-binding protein
+782961..785084	-	707	189025939	flhA	TPASS_0714	-	COG1298NU	flagellar biosynthesis protein FlhA
+785093..786223	-	376	189025940	flhB	TPASS_0715	-	COG1377NU	flagellar biosynthesis protein FlhB
+786220..787017	-	265	189025941	fliR	TPASS_0716	-	COG1684NU	flagellar biosynthetic protein
+787030..787314	-	94	189025942	fliQ	TPASS_0717	-	COG1987NU	flagellar biosynthetic protein
+787333..788148	-	271	189025943	fliP	TPASS_0718	-	COG1338NU	flagellar biosynthesis protein FliP
+788145..788933	-	262	189025944	-	TPASS_0719	-	COG3190N	hypothetical protein
+788869..789915	-	348	189025945	fliY	TPASS_0720	-	COG1776NT	flagellar motor switch protein
+789908..790942	-	344	189025946	fliM	TPASS_0721	-	COG1868N	flagellar motor switch protein FliM
+790964..791512	-	182	189025947	fliL	TPASS_0722	-	COG1580N	flagellar basal body-associated protein FliL
+791491..791625	-	44	189025948	-	TPASS_0723	-	-	hypothetical protein
+791622..792338	-	238	189025949	motB	TPASS_0724	-	COG1360N	flagellar motor protein MotB
+792344..793123	-	259	189025950	motA	TPASS_0725	-	COG1291N	flagellar motor rotation protein
+793139..793336	-	65	189025951	flbD	TPASS_0726	-	COG1582N	flagellar protein
+793394..794785	-	463	189025952	flgE	TPASS_0727	-	COG1749N	flagellar hook protein FlgE
+794856..795317	-	153	189025953	flgD	TPASS_0728	-	COG1843N	flagellar basal body rod modification protein
+795393..797036	-	547	189025954	tap1	TPASS_0729	-	-	treponemal aqueous protein
+797005..798102	+	365	189025955	-	TPASS_0730	-	COG0558I	hypothetical protein
+798122..798832	+	236	189025956	-	TPASS_0731	-	COG1051F	hypothetical protein
+798797..799744	-	315	189025957	folD	TPASS_0732	-	COG0190H	methylenetetrahydrofolate dehydrogenase
+799840..800499	+	219	189025958	-	TPASS_0733	-	-	hypothetical protein
+800532..801233	-	233	189025959	deoD	TPASS_0734	-	COG0813F	purine nucleoside phosphorylase
+801315..802871	-	518	189025960	gltA	TPASS_0735	-	COG0493ER	oxidoreductase
+802874..803716	-	280	189025961	hydG	TPASS_0736	-	COG0543HC	ferredoxin-NADP(+) reductase subunit alpha
+803950..805260	+	436	189025962	msmE	TPASS_0737	-	COG1653G	sugar ABC transporter, periplasmic binding protein
+805306..805641	-	111	189025963	-	TPASS_0738	-	COG0799S	hypothetical protein
+805638..806834	-	398	189025964	-	TPASS_0739	-	COG1316K	hypothetical protein
+806908..807474	-	188	189025965	-	TPASS_0740	-	COG1713H	hypothetical protein
+807602..808216	-	204	189025966	-	TPASS_0741	-	COG1057H	hypothetical protein
+808213..809343	-	376	189025967	obgE	TPASS_0742	-	COG0536R	GTPase ObgE
+809461..809724	-	87	189025968	rpmA	TPASS_0743	-	COG0211J	50S ribosomal protein L27
+809755..810081	-	108	189025969	-	TPASS_0744	-	COG2868J	hypothetical protein
+810094..810411	-	105	189025970	rplU	TPASS_0745	-	COG0261J	50S ribosomal protein L21
+810518..813223	-	901	189025971	-	TPASS_0746	-	COG0574G	pyruvate phosphate dikinase
+813233..814267	-	344	189025972	-	TPASS_0747	-	-	hypothetical protein
+814356..816392	-	678	189025973	cfpA	TPASS_0748	-	-	cytoplasmic filament protein A
+816370..816591	-	73	189025974	-	TPASS_0749	-	-	hypothetical protein
+816561..817232	+	223	189025975	-	TPASS_0750	-	COG1240H	hypothetical protein
+817269..817982	+	237	189025976	-	TPASS_0751	-	-	laminin-binding protein
+818120..819262	-	380	189025977	-	TPASS_0752	-	-	hypothetical protein
+819343..819627	-	94	189025978	-	TPASS_0753	-	-	hypothetical protein
+819624..820994	-	456	189025979	-	TPASS_0754	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+821036..821578	-	180	189025980	ptsN2	TPASS_0755	-	COG1762GT	PTS system, nitrogen regulatory IIA component
+821778..822737	-	319	189025981	fmt	TPASS_0756	-	COG0223J	methionyl-tRNA formyltransferase
+822741..823229	-	162	189025982	def	TPASS_0757	-	COG0242J	polypeptide deformylase
+823270..823479	-	69	189025983	rpsU	TPASS_0758	-	COG0828J	30S ribosomal protein S21
+823598..823717	+	39	189025984	-	TPASS_0759	-	-	hypothetical protein
+823674..825632	+	652	189025985	pbp3	TPASS_0760	-	COG0768M	penicillin-binding protein
+825613..826491	+	292	189025986	-	TPASS_0761	-	COG2604S	hypothetical protein
+826520..827701	+	393	189025987	-	TPASS_0762	-	COG2604S	hypothetical protein
+827763..828704	-	313	189025988	-	TPASS_0763	-	-	hypothetical protein
+828663..829838	+	391	189025989	-	TPASS_0764	-	COG2206T	hypothetical protein
+829820..831649	-	609	189025990	ftsH	TPASS_0765	-	COG0465O	cell division protein
+832052..832933	+	293	189025991	-	TPASS_0766	-	-	hypothetical protein
+833144..835231	+	695	189025992	fusA2	TPASS_0767	-	COG0480J	elongation factor G
+835370..836407	+	345	189025993	tmpA	TPASS_0768	-	-	membrane protein
+836404..837381	+	325	189025994	tmpB	TPASS_0769	-	COG1652S	outer membrane protein
+837426..839375	+	649	189025995	-	TPASS_0770	-	COG0513LKJ	ATP-dependent RNA helicase
+839396..841177	-	593	189025996	-	TPASS_0771	-	COG1283P	hypothetical protein
+841181..842005	+	274	189025997	-	TPASS_0772	-	-	hypothetical protein
+842045..843241	-	398	189025998	htrA1	TPASS_0773	-	COG0265O	periplasmic serine protease DO
+843586..844260	+	224	189025999	mgtC	TPASS_0774	-	COG1285S	Mg2+ transport protein
+844340..844975	+	211	189026000	nth	TPASS_0775	-	COG0177L	endonuclease III
+845052..845828	-	258	189026001	-	TPASS_0776	-	COG1040R	hypothetical protein
+845881..846105	-	74	189026002	-	TPASS_0777	-	COG1656S	hypothetical protein
+846174..847085	-	303	189026003	mazG	TPASS_0778	-	COG3956R	protein MazG
+847082..847726	-	214	189026004	dedA	TPASS_0779	-	COG0586S	protein DedA
+847773..849812	-	679	189026005	nadE	TPASS_0780	-	COG0171H	NAD synthetase
+849849..850310	-	153	189026006	-	TPASS_0781	-	-	hypothetical protein
+850356..850799	-	147	189026007	-	TPASS_0782	-	COG0739M	hypothetical protein
+850828..851961	-	377	189026008	-	TPASS_0783	-	-	hypothetical protein
+852127..852726	+	199	189026009	-	TPASS_0784	-	-	hypothetical protein
+852723..853409	+	228	189026010	-	TPASS_0785	-	COG1934S	hypothetical protein
+853541..854254	+	237	189026011	-	TPASS_0786	-	COG1137R	ABC transporter, ATP-binding protein
+854301..854720	-	139	189026012	-	TPASS_0787	-	-	hypothetical protein
+854802..855692	+	296	189026013	-	TPASS_0788	-	-	hypothetical protein
+855705..856481	-	258	189026014	-	TPASS_0789	-	-	hypothetical protein
+856500..859166	-	888	189026015	-	TPASS_0790	-	COG1033R	antibiotic transport protein
+859309..859554	-	81	189026016	-	TPASS_0791	-	-	hypothetical protein
+859540..860400	+	286	189026017	flaB2	TPASS_0792	-	COG1344N	flagellar filament 33 kDa core protein
+860479..862098	+	539	189026018	-	TPASS_0793	-	-	hypothetical protein
+862135..863325	-	396	189026019	metK	TPASS_0794	-	COG0192H	S-adenosylmethionine synthetase
+863379..863537	+	52	189026020	-	TPASS_0795	-	-	hypothetical protein
+863526..864614	-	362	189026021	-	TPASS_0796	-	COG1477H	hypothetical protein
+864674..865465	-	263	189026022	proC	TPASS_0797	-	COG0345E	1-pyrroline-5-carboxylate reductase
+865516..867951	-	811	189026023	metG	TPASS_0798	-	COG0143J	methionyl-tRNA synthetase
+867984..868136	+	50	189026024	-	TPASS_0799	-	-	hypothetical protein
+868279..869751	+	490	189026025	dacC	TPASS_0800	-	COG1686M	serine-type D-Ala-D-Ala carboxypeptidase
+869812..872241	-	809	189026026	clpA	TPASS_0801	-	COG0542O	ATP-dependent Clp protease, subunit A
+872287..872616	+	109	189026027	-	TPASS_0802	-	-	hypothetical protein
+872630..873838	+	402	189026028	-	TPASS_0803	-	COG0618R	hypothetical protein
+873916..875079	+	387	189026029	ugpC	TPASS_0804	-	COG3839G	sugar ABC transporter, ATP-binding protein
+874930..877209	-	759	189026030	rnb	TPASS_0805	-	COG0557K	exoribonuclease II
+877206..878702	-	498	189026031	-	TPASS_0806	-	COG2348V	protein FemA
+878831..879019	+	62	189026032	rpmF	TPASS_0807	-	COG0333J	50S ribosomal protein L32
+879080..879316	+	78	189026033	acpP	TPASS_0808	-	COG0236IQ	acyl carrier protein
+879313..880077	+	254	189026034	rnc	TPASS_0809	-	COG0571K	ribonuclease III
+880108..881019	+	303	189026035	dam	TPASS_0810	-	COG0338L	DNA adenine methyltransferase
+881090..881215	-	41	189026036	-	TPASS_0811	-	-	hypothetical protein
+882626..883912	-	428	189026037	-	TPASS_0813	-	-	hypothetical protein
+884135..885058	+	307	189026038	trxB	TPASS_0814	-	COG0492O	thioredoxin reductase
+885180..886163	+	327	189026039	-	TPASS_0815	-	COG3393R	hypothetical protein
+886235..886900	-	221	189026040	-	TPASS_0816	-	-	hypothetical protein
+887038..888336	-	432	189026041	eno	TPASS_0817	-	COG0148G	phosphopyruvate hydratase
+888333..888485	-	50	189026042	-	TPASS_0818	-	-	hypothetical protein
+888512..889444	-	310	189026043	-	TPASS_0819	-	COG1234R	ribonuclease Z
+889472..890242	-	256	189026044	-	TPASS_0820	-	-	hypothetical protein
+890338..891144	-	268	189026045	tpn32	TPASS_0821	-	COG1464P	lipoprotein Tpn32
+891225..892130	-	301	189026046	-	TPASS_0822	-	COG0668M	hypothetical protein
+892218..892604	-	128	189026047	rbo	TPASS_0823	-	COG2033C	desulfoferrodoxin
+893001..894893	+	630	189026048	dxs	TPASS_0824	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+894890..895075	+	61	189026049	-	TPASS_0825	-	-	hypothetical protein
+895062..895883	+	273	189026050	-	TPASS_0826	-	COG1624S	hypothetical protein
+895546..896823	+	425	189026051	-	TPASS_0827	-	COG4856S	hypothetical protein
+896820..897197	+	125	189026052	acpS	TPASS_0828	-	COG0736I	4'-phosphopantetheinyl transferase
+897194..898078	+	294	189026053	-	TPASS_0829	-	COG1655S	hypothetical protein
+898075..898917	+	280	189026054	truA	TPASS_0830	-	COG0101J	tRNA pseudouridine synthase A
+898927..900696	-	589	189026055	argS	TPASS_0831	-	COG0018J	arginyl-tRNA synthetase
+900719..901534	-	271	189026056	-	TPASS_0832	-	COG5401R	hypothetical protein
+901601..902323	+	240	189026057	-	TPASS_0833	-	-	hypothetical protein
+902380..903630	-	416	189026058	tyrS	TPASS_0834	-	COG0162J	tyrosyl-tRNA synthetase
+903717..906521	-	934	189026059	-	TPASS_0835	-	COG0666R	ankyrin
+906662..907486	-	274	189026060	-	TPASS_0836	-	-	hypothetical protein
+907634..909412	+	592	189026061	thrS	TPASS_0837	-	COG0441J	threonyl-tRNA synthetase
+909461..911125	-	554	189026062	-	TPASS_0838	-	COG0488R	ABC transporter, ATP-binding protein
+911200..912207	-	335	189026063	-	TPASS_0839	-	-	hypothetical protein
+912312..914561	+	749	189026064	-	TPASS_0840	-	COG1413C	hypothetical protein
+914623..916080	-	485	189026065	htrA2	TPASS_0841	-	COG0265O	periplasmic serine protease DO
+916392..917159	-	255	189026066	map	TPASS_0842	-	COG0024J	methionine aminopeptidase
+917283..918107	-	274	189026067	-	TPASS_0843	-	COG0484O	heat shock protein
+918200..919252	+	350	189026068	gap	TPASS_0844	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+919307..919897	-	196	189026069	-	TPASS_0845	-	COG1671S	hypothetical protein
+919878..920204	-	108	189026070	-	TPASS_0846	-	-	hypothetical protein
+920204..920539	-	111	189026071	-	TPASS_0847	-	-	hypothetical protein
+920533..920901	-	122	189026072	rplT	TPASS_0848	-	COG0292J	50S ribosomal protein L20
+920934..921134	-	66	189026073	rpmI	TPASS_0849	-	-	50S ribosomal protein L35
+921187..921726	-	179	189026074	infC	TPASS_0850	-	COG0290J	translation initiation factor IF-3
+921889..924063	+	724	189026075	-	TPASS_0851	-	COG1208MJ	hypothetical protein
+924092..925090	-	332	189026076	lgt	TPASS_0852	-	COG0682M	prolipoprotein diacylglyceryl transferase
+925241..926377	-	378	189026077	ylxH2	TPASS_0853	-	COG0455D	ATP-binding protein
+926432..931033	-	1533	189026078	-	TPASS_0854	-	COG2208TK	hypothetical protein
+931030..934413	-	1127	189026079	-	TPASS_0855	-	-	hypothetical protein
+934569..935546	+	325	189026080	-	TPASS_0856	-	-	hypothetical protein
+935549..935869	-	106	189026081	-	TPASS_0857	-	-	hypothetical protein
+935854..937080	+	408	189026082	-	TPASS_0858	-	-	hypothetical protein
+937162..937860	+	232	189026083	-	TPASS_0859	-	-	hypothetical protein
+937925..938647	+	240	189026084	-	TPASS_0860	-	-	hypothetical protein
+938722..940629	-	635	189026085	glmS	TPASS_0861	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+940866..941660	-	264	189026086	fklB	TPASS_0862	-	COG0545O	peptidyl-prolyl cis-trans isomerase, FKBP-type, 22 kDa
+941795..943078	+	427	189026087	nifS2	TPASS_0863	-	COG1104E	nitrogen fixation protein
+943137..944777	-	546	189026088	-	TPASS_0864	-	COG0739M	hypothetical protein
+944811..946253	-	480	189026089	-	TPASS_0865	-	-	hypothetical protein
+948246..948431	-	61	189026090	-	TPASS_0867	-	-	hypothetical protein
+948600..948956	+	118	189026091	flaB1	TPASS_0868	-	COG1344N	flagellar filament 34.5 kDa core protein
+949468..949704	+	78	189026092	-	TPASS_0869	-	-	hypothetical protein
+949732..950589	+	285	189026093	flaB3	TPASS_0870	-	COG1344N	flagellar filament 31 kDa core protein
+950650..950811	-	53	189026094	-	TPASS_0871	-	-	hypothetical protein
+950887..953055	+	722	189026095	fliD	TPASS_0872	-	COG1345N	flagellar hook-associated protein FliD
+953067..953669	+	200	189026096	-	TPASS_0873	-	-	hypothetical protein
+953666..953941	+	91	189026097	-	TPASS_0874	-	-	hypothetical protein
+953981..954388	+	135	189026098	-	TPASS_0875	-	COG0802R	hypothetical protein
+954435..955100	+	221	189026099	-	TPASS_0876	-	COG1214O	hypothetical protein
+955105..956202	+	365	189026100	-	TPASS_0877	-	COG2206T	hypothetical protein
+956215..957165	-	316	189026101	-	TPASS_0878	-	-	hypothetical protein
+957171..958652	-	493	189026102	-	TPASS_0879	-	COG3225N	hypothetical protein
+958649..959374	-	241	189026103	-	TPASS_0880	-	COG1277R	membrane spanning protein
+959364..960170	-	268	189026104	natA	TPASS_0881	-	COG4555CP	ABC transporter, ATP-binding protein
+960249..961751	-	500	189026105	-	TPASS_0882	-	COG1413C	hypothetical protein
+961717..962814	-	365	189026106	-	TPASS_0883	-	COG0795R	hypothetical protein
+962832..963920	-	362	189026107	-	TPASS_0884	-	COG0795R	hypothetical protein
+963950..964390	-	146	189026108	dut	TPASS_0885	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+964387..966495	-	702	189026109	pnp	TPASS_0886	-	COG1185J	polynucleotide phosphorylase/polyadenylase
+966643..966912	-	89	189026110	rpsO	TPASS_0887	-	COG0184J	30S ribosomal protein S15
+966928..967755	-	275	189026111	ribF	TPASS_0888	-	COG0196H	riboflavin kinase/FMN adenylyltransferase
+967759..968859	-	366	189026112	truB	TPASS_0889	-	COG0130J	tRNA pseudouridine 55 synthase
+968837..969217	-	126	189026113	rbfA	TPASS_0890	-	COG0858J	ribosome-binding factor A
+969214..971742	-	842	189026114	infB	TPASS_0891	-	COG0532J	translation initiation factor IF-2
+971918..973375	-	485	189026115	nusA	TPASS_0892	-	COG0195K	transcription elongation factor NusA
+973425..973895	-	156	189026116	-	TPASS_0893	-	COG0779S	hypothetical protein
+974070..975092	-	340	189026117	-	TPASS_0894	-	COG1432S	hypothetical protein
+975099..975605	-	168	189026118	-	TPASS_0895	-	COG3439S	hypothetical protein
+975627..975779	-	50	189026119	-	TPASS_0896	-	-	hypothetical protein
+977275..980994	-	1239	189026121	-	TPASS_0898	-	COG1074L	ATP-dependent nuclease, subunit A
+980991..981578	-	195	189026122	-	TPASS_0899	-	COG2887L	hypothetical protein
+981557..983950	-	797	189026123	-	TPASS_0900	-	COG3857L	hypothetical protein
+983989..985401	-	470	189026124	-	TPASS_0901	-	COG0534V	hypothetical protein
+985442..986323	-	293	189026125	est	TPASS_0902	-	COG1647R	carboxylesterase
+986325..987923	+	532	189026126	murD	TPASS_0903	-	COG0771M	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+987916..988167	+	83	189026127	-	TPASS_0904	-	-	hypothetical protein
+988130..988501	+	123	189026128	rpsP	TPASS_0905	-	COG0228J	ribosomal protein S16
+988510..988752	+	80	189026129	-	TPASS_0906	-	COG1837R	hypothetical protein
+988815..989339	+	174	189026130	-	TPASS_0907	-	COG0806J	hypothetical protein
+989336..990088	+	250	189026131	trmD	TPASS_0908	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+990060..990431	+	123	189026132	rplS	TPASS_0909	-	COG0335J	50S ribosomal protein L19
+990428..991348	+	306	189026133	-	TPASS_0910	-	-	hypothetical protein
+991370..991621	+	83	189026134	-	TPASS_0911	-	COG2257S	hypothetical protein
+991634..992956	+	440	189026135	-	TPASS_0912	-	COG2206T	hypothetical protein
+992940..993320	+	126	189026136	-	TPASS_0913	-	COG0792L	hypothetical protein
+993492..993878	+	128	189026137	-	TPASS_0914	-	-	hypothetical protein
+993952..995286	+	444	189026138	-	TPASS_0915	-	COG2956G	hypothetical protein
+995343..995471	+	42	189026139	-	TPASS_0916	-	-	hypothetical protein
+995455..996804	+	449	189026140	mgtE	TPASS_0917	-	COG2239P	Mg2+ transport protein
+996819..997592	+	257	189026141	-	TPASS_0918	-	COG0170I	hypothetical protein
+997618..997935	-	105	189026142	trx	TPASS_0919	-	COG3118O	thioredoxin
+998158..1000587	+	809	189026143	-	TPASS_0920	-	COG4783R	hypothetical protein
+1000695..1002032	+	445	189026144	-	TPASS_0921	-	COG0446R	NADH oxidase
+1002166..1003059	-	297	189026145	-	TPASS_0922	-	-	hypothetical protein
+1003098..1004117	-	339	189026146	-	TPASS_0923	-	-	hypothetical protein
+1004441..1006027	+	528	189026147	tex	TPASS_0924	-	COG2183K	protein Tex
+1007144..1007584	+	146	189026148	-	TPASS_0925	-	COG0716C	flavodoxin
+1007735..1009273	-	512	189026149	-	TPASS_0926	-	COG0681U	signal peptidase I
+1009365..1009955	+	196	189026150	-	TPASS_0927	-	-	hypothetical protein
+1010050..1010790	+	246	189026151	-	TPASS_0928	-	-	hypothetical protein
+1010802..1011572	+	256	189026152	-	TPASS_0929	-	-	hypothetical protein
+1011596..1013317	+	573	189026153	-	TPASS_0930	-	COG2604S	hypothetical protein
+1013401..1014831	-	476	189026154	-	TPASS_0931	-	COG1626G	hypothetical protein
+1014841..1014933	-	30	189026155	-	TPASS_0932	-	-	hypothetical protein
+1014943..1016565	-	540	189026156	murE	TPASS_0933	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1016701..1017924	+	407	189026157	-	TPASS_0934	-	COG1301C	glutamate transporter
+1017917..1018855	-	312	189026158	-	TPASS_0935	-	COG0657I	N-acetylphosphinothricin-tripetide-deacetylase
+1019049..1020122	-	357	189026159	-	TPASS_0936	-	COG1253R	hemolysin
+1020294..1020929	-	211	189026160	-	TPASS_0937	-	COG0622R	hypothetical protein
+1020926..1021756	-	276	189026161	-	TPASS_0938	-	-	hypothetical protein
+1021821..1025375	-	1184	189026162	-	TPASS_0939	-	COG0674C	pyruvate oxidoreductase
+1025391..1025531	-	46	189026163	-	TPASS_0940	-	-	hypothetical protein
+1025570..1026088	-	172	189026164	-	TPASS_0941	-	-	hypothetical protein
+1026165..1026629	-	154	189026165	-	TPASS_0942	-	-	hypothetical protein
+1026635..1027081	-	148	189026166	fliS	TPASS_0943	-	COG1516NUO	flagellar protein
+1027130..1028302	-	390	189026167	-	TPASS_0944	-	-	hypothetical protein
+1028473..1029129	-	218	189026168	cfxE	TPASS_0945	-	COG0036G	ribulose-phosphate 3-epimerase
+1029281..1029949	+	222	189026169	gidB	TPASS_0946	-	COG0357M	glucose-inhibited division protein B
+1029994..1030641	-	215	189026170	cyp	TPASS_0947	-	COG0652O	peptidyl-prolyl cis-trans isomerase, cyclophilin-binding
+1030638..1031333	-	231	189026171	jag	TPASS_0948	-	COG1847R	spoIIIJ-associated protein
+1031349..1033346	-	665	189026172	-	TPASS_0949	-	COG0706U	inner membrane protein translocase component YidC
+1033622..1033906	-	94	189026173	-	TPASS_0950	-	-	hypothetical protein
+1033910..1034065	-	51	189026174	rpmH	TPASS_0951	-	-	50S ribosomal protein L34
+1034185..1035222	-	345	189026175	-	TPASS_0952	-	COG0412Q	lipase
+1035304..1036494	-	396	189026176	traB	TPASS_0953	-	COG1916S	pheromone shutdown protein
+1036581..1038017	-	478	189026177	-	TPASS_0954	-	COG4235O	hypothetical protein
+1038089..1038361	-	90	189026178	-	TPASS_0955	-	-	hypothetical protein
+1038457..1039428	+	323	189026179	-	TPASS_0956	-	COG5660S	hypothetical protein
+1039519..1040547	+	342	189026180	tp33	TPASS_0957	-	COG1638G	protein Tp33
+1040579..1042477	+	632	189026181	dctM	TPASS_0958	-	COG1593G	dicarboxylate transporter
+1042546..1042935	-	129	189026182	-	TPASS_0959	-	COG3951MNO	hypothetical protein
+1042947..1043741	-	264	189026183	flgG	TPASS_0960	-	COG4786N	flagellar basal body rod protein FlgG
+1043817..1044632	-	271	189026184	flgG2	TPASS_0961	-	COG4786N	flagellar basal-body rod protein
+1044718..1045950	-	410	189026185	-	TPASS_0962	-	COG0577V	hypothetical protein
+1046061..1047290	-	409	189026186	-	TPASS_0963	-	COG0577V	hypothetical protein
+1047280..1047987	-	235	189026187	-	TPASS_0964	-	COG1136V	ABC transporter, ATP-binding protein
+1047987..1048949	-	320	189026188	-	TPASS_0965	-	COG0845M	membrane fusion protein
+1048974..1050608	-	544	189026189	-	TPASS_0966	-	-	hypothetical protein
+1050655..1052208	-	517	189026190	-	TPASS_0967	-	-	hypothetical protein
+1052205..1053827	-	540	189026191	-	TPASS_0968	-	-	hypothetical protein
+1053824..1055443	-	539	189026192	-	TPASS_0969	-	-	hypothetical protein
+1055440..1055556	-	38	189026193	-	TPASS_0970	-	-	hypothetical protein
+1055578..1056192	-	204	189026194	tpd	TPASS_0971	-	COG3470P	membrane antigen, pathogen-specific
+1056348..1057694	-	448	189026195	-	TPASS_0972	-	COG0672P	hypothetical protein
+1057782..1059443	+	553	189026196	pheS	TPASS_0973	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+1059495..1059776	-	93	189026197	-	TPASS_0974	-	-	hypothetical protein
+1059828..1060652	-	274	189026198	-	TPASS_0975	-	COG0313R	hypothetical protein
+1060700..1062079	+	459	189026199	-	TPASS_0976	-	-	hypothetical protein
+1062066..1062926	+	286	189026200	-	TPASS_0977	-	COG0327S	hypothetical protein
+1062923..1063516	+	197	189026201	lspA	TPASS_0978	-	COG0597MU	signal peptidase II
+1063686..1064459	+	257	189026202	-	TPASS_0979	-	COG0084L	hypothetical protein
+1064467..1065489	+	340	189026203	ntrB	TPASS_0980	-	COG0042J	histidine phosphokinase/phophatase
+1065549..1066712	+	387	189026204	-	TPASS_0981	-	COG3706T	sensory transduction histidine kinase
+1066728..1067354	+	208	189026205	-	TPASS_0982	-	COG0705R	protein GlpG
+1067344..1068060	+	238	189026206	-	TPASS_0983	-	-	hypothetical protein
+1068084..1070003	-	639	189026207	htpG	TPASS_0984	-	COG0326O	heat shock protein 90
+1070147..1071955	+	602	189026208	aspS	TPASS_0985	-	COG0173J	aspartyl-tRNA synthetase
+1072011..1072895	+	294	189026209	-	TPASS_0986	-	COG0697GER	hypothetical protein
+1072941..1073111	-	56	189026210	-	TPASS_0987	-	-	hypothetical protein
+1073178..1074014	+	278	189026211	-	TPASS_0988	-	COG2095U	hypothetical protein
+1074050..1074922	-	290	189026212	-	TPASS_0989	-	-	protein P26
+1074969..1078070	+	1033	189026213	-	TPASS_0990	-	COG1729S	hypothetical protein
+1078134..1078292	+	52	189026214	-	TPASS_0991	-	COG1773C	rubredoxin
+1078325..1078612	+	95	189026215	-	TPASS_0992	-	-	hypothetical protein
+1078749..1079705	-	318	189026216	-	TPASS_0993	-	COG0797M	rare lipoprotein A
+1080061..1080870	+	269	189026217	-	TPASS_0994	-	COG0084L	hypothetical protein
+1080946..1082232	+	428	189026218	-	TPASS_0995	-	COG0664T	cyclic nucleotide binding protein
+1082315..1083931	-	538	189026219	-	TPASS_0996	-	-	hypothetical protein
+1084088..1085884	-	598	189026220	sppA	TPASS_0997	-	COG0616OU	protease IV
+1085918..1087420	-	500	189026221	-	TPASS_0998	-	COG1115E	sodium/proton-dependent alanine transporter
+1087492..1089891	+	799	189026222	-	TPASS_0999	-	COG1674D	cell division protein
+1090069..1090740	+	223	189026223	-	TPASS_1000	-	-	hypothetical protein
+1090880..1092061	-	393	189026224	-	TPASS_1001	-	-	hypothetical protein
+1092075..1092743	-	222	189026225	-	TPASS_1002	-	COG5497S	hypothetical protein
+1092938..1093975	+	345	189026226	-	TPASS_1003	-	-	hypothetical protein
+1093998..1094603	-	201	189026227	recR	TPASS_1004	-	COG0353L	recombination protein RecR
+1094677..1096395	-	572	189026228	dnaZX	TPASS_1005	-	COG2812L	DNA polymerase III subunits gamma and tau
+1096454..1098367	-	637	189026229	gyrB	TPASS_1006	-	COG0187L	DNA gyrase, subunit B
+1098476..1099393	-	305	189026230	thyX	TPASS_1007	-	COG1351F	FAD-dependent thymidylate synthase
+1099436..1101973	-	845	189026231	nrdA	TPASS_1008	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+1102100..1103170	-	356	189026232	gpsA	TPASS_1009	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1103267..1103716	-	149	189026233	ndk	TPASS_1010	-	COG0105F	nucleoside-diphosphate kinase
+1103842..1104450	-	202	189026234	pth	TPASS_1011	-	COG0193J	peptidyl-tRNA hydrolase
+1104485..1105420	-	311	189026235	sigA	TPASS_1012	-	COG0568K	RNA polymerase sigma-43 factor
+1105625..1105891	+	88	189026236	groES	TPASS_1013	-	COG0234O	co-chaperonin GroES
+1105902..1107836	-	644	189026237	-	TPASS_1014	-	-	hypothetical protein
+1107802..1108227	-	141	189026238	nusB	TPASS_1015	-	COG0781K	transcription antitermination protein NusB
+1108224..1109309	-	361	189026239	tpn39b	TPASS_1016	-	-	basic membrane protein
+1109382..1111199	-	605	189026240	alaS	TPASS_1017	-	COG0013J	alanyl-tRNA synthetase
+1111371..1112885	+	504	189026241	-	TPASS_1018	-	COG1418R	hypothetical protein
+1112907..1113350	+	147	189026242	gatC	TPASS_1019	-	COG0721J	glu-tRNA amidotransferase, subunit C
+1113351..1114871	+	506	189026243	gatA	TPASS_1020	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1114864..1116393	+	509	189026244	gatB	TPASS_1021	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1116489..1117856	-	455	189026245	sms	TPASS_1022	-	COG1066O	DNA repair protein RadA
+1117903..1118397	-	164	189026246	recX	TPASS_1023	-	COG2137R	recombination regulator RecX
+1118525..1118914	-	129	189026247	rpsI	TPASS_1024	-	COG0103J	30S ribosomal protein S9
+1118930..1119358	-	142	189026248	rplM	TPASS_1025	-	COG0102J	50S ribosomal protein L13
+1119791..1121560	+	589	189026249	-	TPASS_1026	-	COG1164E	oligoendopeptidase F
+1121682..1122458	+	258	189026250	udp	TPASS_1027	-	COG2820F	uridine phosphorylase
+1122474..1124486	-	670	189026251	uvrD	TPASS_1028	-	COG0210L	DNA helicase II
+1124569..1125255	-	228	189026252	-	TPASS_1029	-	-	hypothetical protein
+1125413..1125772	-	119	189026253	-	TPASS_1030	-	-	hypothetical protein
+1125800..1127344	+	514	189026254	tprL	TPASS_1031	-	-	protein TprL
+1127412..1127846	-	144	189026255	-	TPASS_1032	-	COG5341S	hypothetical protein
+1127858..1128793	-	311	189026256	-	TPASS_1033	-	COG1752R	hypothetical protein
+1128867..1129892	+	341	189026257	-	TPASS_1034	-	COG0530P	hypothetical protein
+1129889..1132759	-	956	189026258	valS	TPASS_1035	-	COG0525J	valyl-tRNA synthetase
+1132912..1135290	+	792	189026259	-	TPASS_1036	-	COG2217P	cation-transporting ATPase, P-type
+1135380..1136096	-	238	189026260	hlyIII	TPASS_1037	-	COG1272R	hemolysin III
+1136255..1136788	-	177	189026261	tpF1	TPASS_1038	-	COG0783P	bacterioferrin TpF1
+1137015..1137587	+	190	189026262	apt	TPASS_1039	-	COG0503F	adenine phosphoribosyltransferase
+1137610..1138665	-	351	189026263	lysS2	TPASS_1040	-	COG2269J	lysyl-tRNA synthetase
+1138665..1139378	-	237	189026264	clpP	TPASS_1041	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit

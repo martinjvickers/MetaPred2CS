@@ -1,0 +1,2123 @@
+Psychrobacter arcticus 273-4 chromosome, complete genome - 1..2650701
+2120 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+520..1965	+	481	71064582	dnaA	Psyc_0001	-	COG0593L	chromosome replication initiator DnaA
+2125..3300	+	391	71064583	dnaN	Psyc_0002	-	COG0592L	DNA polymerase III subunit beta
+3463..4677	+	404	71064584	recF	Psyc_0003	-	COG1195L	DNA replication and repair protein RecF
+5179..7794	+	871	71064585	gyrB	Psyc_0004	-	COG0187L	DNA gyrase subunit B
+7907..8500	+	197	71064586	-	Psyc_0005	-	COG1971S	hypothetical protein
+8586..9371	-	261	71064587	-	Psyc_0006	-	COG2801L	IS3 family transposase
+9413..9931	-	172	71064588	-	Psyc_0007	-	COG2963L	IS3/IS911 family transposase orfA
+10178..11215	-	345	71064589	-	Psyc_0008	-	COG3129R	SAM-dependent methyltransferase
+11806..13416	+	536	71064590	guaA	Psyc_0009	-	COG0519F	GMP synthase
+13573..14865	+	430	71064591	-	Psyc_0010	-	-	hypothetical protein
+14993..15997	-	334	71064592	-	Psyc_0011	-	COG0604CR	Zinc-containing alcohol dehydrogenase
+16221..17198	-	325	71064593	-	Psyc_0012	-	COG0604CR	nuclear receptor-binding factor-like protein
+17341..17595	-	84	71064594	-	Psyc_0013	-	-	hypothetical protein
+18119..19162	-	347	71064595	-	Psyc_0014	-	COG2070R	2-nitropropane dioxygenase
+19335..20621	-	428	71064596	-	Psyc_0015	-	COG1196D	hypothetical protein
+20634..20930	+	98	71064597	-	Psyc_0016	-	COG2963L	IS3/IS911 family transposase OrfA
+20981..21799	+	272	71064598	-	Psyc_0017	-	COG2801L	IS30 family transposase
+21800..22450	-	216	71064599	-	Psyc_0018	-	COG0497L	hypothetical protein
+22443..22952	-	169	71064600	-	Psyc_0019	-	-	hypothetical protein
+22945..23997	-	350	71064601	-	Psyc_0020	-	-	hypothetical protein
+24177..24554	-	125	71064602	-	Psyc_0021	-	COG2044R	hypothetical protein
+24825..25877	-	350	71064603	-	Psyc_0022	-	COG0429R	hypothetical protein
+26178..26774	-	198	71064604	-	Psyc_0023	-	COG1739S	hypothetical protein
+26978..27697	+	239	71064605	-	Psyc_0024	-	COG1187J	ribosomal small subunit pseudouridine synthase A
+28179..29264	+	361	71064606	-	Psyc_0025	-	COG1651O	hypothetical protein
+29409..30059	-	216	71064607	-	Psyc_0026	-	-	hypothetical protein
+30543..31667	+	374	71064608	-	Psyc_0027	-	COG0484O	molecular chaperone DnaJ
+31996..32832	+	278	71064609	dapB	Psyc_0028	-	COG0289E	dihydrodipicolinate reductase
+32915..34090	-	391	71064610	-	Psyc_0029	-	COG0019E	ornithine decarboxylase
+34198..34752	-	184	71064611	def	Psyc_0030	-	COG0242J	peptide deformylase
+35124..35378	-	84	71064612	-	Psyc_0031	-	COG2261S	hypothetical protein
+35713..37230	-	505	71064613	mpl	Psyc_0032	-	COG0773M	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+37523..38146	-	207	71064614	-	Psyc_0033	-	-	hypothetical protein
+38341..38871	-	176	71064615	dsbB	Psyc_0034	-	COG1495O	disulfide bond formation protein
+38926..40509	-	527	71064616	gshA	Psyc_0035	-	COG2918H	glutamate-cysteine ligase
+40901..41281	-	126	71064617	-	Psyc_0036	-	COG0316S	iron-sulfur cluster insertion protein ErpA
+41787..43805	+	672	71064618	-	Psyc_0037	-	COG0488R	ABC transporter ATPase
+43911..44279	-	122	71064619	rlpA	Psyc_0038	-	COG0797M	lipoprotein A
+44824..45822	+	332	71064620	-	Psyc_0039	-	COG0484O	molecular chaperone DnaJ
+45908..46231	+	107	71064621	-	Psyc_0040	-	-	hypothetical protein
+46320..47522	-	400	71064622	sstT	Psyc_0041	-	COG3633E	serine/threonine transporter SstT
+47861..48319	-	152	71064623	holC	Psyc_0042	-	COG2927L	DNA polymerase III subunit chi
+48355..50013	-	552	71064624	pepA	Psyc_0043	-	COG0260E	PepA aminopeptidase
+50261..50866	-	201	71064625	-	Psyc_0044	-	COG1335Q	isochorismatase hydrolase
+51384..52634	+	416	71064626	-	Psyc_0045	-	COG0795R	hypothetical protein
+52634..53842	+	402	71064627	-	Psyc_0046	-	COG0795R	hypothetical protein
+53920..54528	-	202	71064628	-	Psyc_0047	-	COG2813J	hypothetical protein
+55288..55752	-	154	71064629	-	Psyc_0048	-	COG3238S	hypothetical protein
+55758..56192	-	144	71064630	-	Psyc_0049	-	COG3238S	hypothetical protein
+56291..57226	+	311	71064631	-	Psyc_0050	-	COG0583K	LysR family transcriptional regulator
+57548..59107	+	519	71064632	-	Psyc_0051	-	COG3177S	hypothetical protein
+59255..60193	-	312	71064633	xerD	Psyc_0052	-	COG4974L	phage integrase
+60448..61662	-	404	71064634	-	Psyc_0053	-	COG2890J	hypothetical protein
+61869..62129	-	86	71064635	-	Psyc_0054	-	COG0425O	hypothetical protein
+62205..62717	-	170	71064636	-	Psyc_0055	-	-	hypothetical protein
+62796..63329	-	177	71064637	-	Psyc_0056	-	COG0816L	hypothetical protein
+63380..63943	-	187	71064638	algH	Psyc_0057	-	COG1678K	transcriptional regulator
+64062..65741	-	559	71064639	recN	Psyc_0058	-	COG0497L	DNA repair protein
+66427..66762	+	111	71064640	-	Psyc_0059	-	COG3123S	hypothetical protein
+66968..67738	+	256	71064641	-	Psyc_0060	-	COG0566J	RNA methyltransferase
+67701..68393	-	230	71064642	coaE	Psyc_0061	-	COG0237H	dephospho-CoA kinase
+68477..69376	-	299	71064643	pilD	Psyc_0062	-	COG1989NOU	type 4 prepilin peptidase 1
+69402..70625	-	407	71064644	pilC	Psyc_0063	-	COG1459NU	pilin secretion/fimbrial assembly system protein, PilC
+70862..72637	-	591	71064645	pilB	Psyc_0064	-	COG2804NU	pilin secretion/fimbrial assembly system protein, PilB
+73127..73936	+	269	71064646	tpiA	Psyc_0065	-	COG0149G	triosephosphate isomerase
+74165..74473	+	102	71064647	secG	Psyc_0066	-	COG1314U	preprotein translocase subunit SecG
+75377..75877	+	166	71064648	-	Psyc_0067	-	COG0779S	hypothetical protein
+76010..77494	+	494	71064649	nusA	Psyc_0068	-	COG0195K	transcription elongation factor NusA
+77646..80372	+	908	71064650	infB	Psyc_0069	-	COG0532J	translation initiation factor IF-2
+80587..80991	+	134	71064651	rbfA	Psyc_0070	-	COG0858J	ribosome-binding factor A
+81008..82150	+	380	71064652	truB	Psyc_0071	-	COG0130J	tRNA pseudouridine synthase B
+82492..82677	+	61	71064653	-	Psyc_0072	-	-	hypothetical protein
+83015..83281	+	88	71064654	rpsO	Psyc_0073	-	COG0184J	30S ribosomal protein S15
+83907..86009	+	700	71064655	pnp	Psyc_0074	-	COG1185J	polynucleotide phosphorylase
+86116..86397	-	93	71064656	-	Psyc_0075	-	-	hypothetical protein
+86461..87066	-	201	71064657	-	Psyc_0076	-	-	hypothetical protein
+87218..87472	-	84	71064658	-	Psyc_0077	-	COG3529R	hypothetical protein
+87473..89698	-	741	71064659	prlC	Psyc_0078	-	COG0339E	oligopeptidase A
+90323..91435	+	370	71064660	-	Psyc_0079	-	-	hypothetical protein
+91496..92404	+	302	71064661	-	Psyc_0080	-	COG3568R	hypothetical protein
+92464..93462	+	332	71064662	-	Psyc_0081	-	COG0604CR	hypothetical protein
+93498..94115	-	205	71064663	alkB	Psyc_0082	-	COG3145L	DNA-N1-methyladenine dioxygenase
+94165..96078	-	637	71064664	-	Psyc_0083	-	COG1132V	eflux ABC transporter inner membrane protein
+96361..97209	+	282	71064665	-	Psyc_0084	-	-	hypothetical protein
+97383..98273	+	296	71064666	-	Psyc_0085	-	COG3588G	fructose-1,6-bisphosphate aldolase
+98385..100460	-	691	71064667	thiC	Psyc_0086	-	COG0422H	thiamine biosynthesis protein ThiC
+100903..101193	-	96	71064668	-	Psyc_0087	-	COG2924CO	hypothetical protein
+101502..102875	-	457	71064669	argH	Psyc_0088	-	COG0165E	argininosuccinate lyase
+103385..104422	+	345	71064670	hemC	Psyc_0089	-	COG0181H	hydroxymethylbilane synthase
+104539..105522	+	327	71064671	hemD	Psyc_0090	-	COG1587H	uroporphyrinogen-III synthase
+105653..106612	+	319	71064672	-	Psyc_0091	-	-	hypothetical protein
+106671..107156	+	161	71064673	-	Psyc_0092	-	COG0824R	hypothetical protein
+107401..108513	-	370	71064674	ribB	Psyc_0093	-	COG0108H	GTP cyclohydrolase II
+108765..110054	-	429	71064675	-	Psyc_0094	-	COG2256L	recombination factor protein RarA
+110387..110878	+	163	71064676	-	Psyc_0095	-	-	hypothetical protein
+110986..111837	+	283	71064677	-	Psyc_0096	-	-	hypothetical protein
+111902..113182	-	426	71064678	gltA	Psyc_0097	-	COG0372C	citrate synthase
+114223..114609	+	128	71064679	sdhC	Psyc_0098	-	COG2009C	succinate dehydrogenase subunit C
+114609..115013	+	134	71064680	sdhD	Psyc_0099	-	COG2142C	succinate dehydrogenase subunit D
+115192..117042	+	616	71064681	sdhA	Psyc_0100	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+117251..117961	+	236	71064682	sdhB	Psyc_0101	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+119047..121932	+	961	71064683	sucA	Psyc_0102	-	COG0567C	2-oxoglutarate dehydrogenase E1
+122097..123329	+	410	71064684	sucB	Psyc_0103	-	COG0508C	2-oxoglutarate dehydrogenase E2
+123590..125041	+	483	71064685	lpdG	Psyc_0104	-	COG1249C	dihydrolipoamide dehydrogenase
+125228..126394	+	388	71064686	sucC	Psyc_0105	-	COG0045C	succinyl-CoA synthetase subunit beta
+126500..127375	+	291	71064687	-	Psyc_0106	-	COG0074C	succinyl-CoA synthetase subunit alpha
+127483..128514	+	343	71064688	galE	Psyc_0107	-	COG1087M	UDP-galactose 4-epimerase
+128569..129453	+	294	71064689	galU	Psyc_0108	-	COG1210M	UDP-glucose pyrophosphorylase
+129457..131124	+	555	71064690	pgi	Psyc_0109	-	COG0166G	glucose-6-phosphate isomerase
+131165..132595	+	476	71064691	-	Psyc_0110	-	COG1004M	hypothetical protein
+132855..134336	-	493	71064692	cpsG	Psyc_0111	-	COG1109G	phosphomannomutase
+134490..135356	+	288	71064693	mazG	Psyc_0112	-	COG3956R	nucleoside triphosphate pyrophosphohydrolase
+135367..135714	+	115	71064694	comEA	Psyc_0113	-	COG1555L	competence DNA binding protein ComEA
+135879..138116	+	745	71064695	-	Psyc_0114	-	COG0617J	hypothetical protein
+138151..138732	+	193	71064696	folK	Psyc_0115	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+138792..139592	+	266	71064697	panB	Psyc_0116	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+139644..140510	+	288	71064698	panC	Psyc_0117	-	COG0414H	pantoate--beta-alanine ligase
+140567..141529	+	320	71064699	-	Psyc_0118	-	COG1660R	hypothetical protein
+141597..142109	+	170	71064700	-	Psyc_0119	-	COG3028S	hypothetical protein
+142426..143046	-	206	71064701	-	Psyc_0120	-	COG1651O	hypothetical protein
+143562..144392	+	276	71064702	ubiG	Psyc_0121	-	COG2227H	3-demethylubiquinone-9 3-methyltransferase
+144428..145138	+	236	71064703	-	Psyc_0122	-	COG0546R	haloacid dehalogenase
+145243..146130	+	295	71064704	-	Psyc_0123	-	COG1028IQR	short chain dehydrogenase
+146254..146520	+	88	71064705	-	Psyc_0124	-	COG1734T	hypothetical protein
+146719..147828	-	369	71064706	-	Psyc_0125	-	COG0523R	hypothetical protein
+147959..148723	-	254	71064707	ompR	Psyc_0126	-	COG0745TK	osmolarity response regulator
+149143..151665	+	840	71064708	-	Psyc_0127	-	COG2183K	hypothetical protein
+151802..152296	-	164	71064709	-	Psyc_0128	-	-	hypothetical protein
+152743..154041	-	432	71064710	-	Psyc_0129	-	COG3268S	hypothetical protein
+154478..154633	+	51	71064711	-	Psyc_0130	-	-	hypothetical protein
+154919..155212	-	97	71064712	phhB	Psyc_0131	-	COG2154H	pterin-4-alpha-carbinolamine dehydratase
+155523..155816	-	97	71064713	-	Psyc_0132	-	COG2388R	hypothetical protein
+156306..157967	+	553	71064714	-	Psyc_0133	-	COG0488R	ABC transporter ATP-binding protein
+158102..160894	-	930	71064715	-	Psyc_0134	-	COG2937I	glycerol-3-phosphate acyltransferase
+161278..161766	+	162	71064716	-	Psyc_0135	-	COG2606S	hypothetical protein
+161842..162216	+	124	71064717	-	Psyc_0136	-	COG3232E	hypothetical protein
+162300..164120	-	606	71064718	-	Psyc_0137	-	COG1960I	acyl-CoA dehydrogenase
+164664..165791	+	375	71064719	-	Psyc_0138	-	COG1289S	hypothetical protein
+165855..166721	-	288	71064720	aroE	Psyc_0139	-	COG0169E	shikimate dehydrogenase
+167146..167811	+	221	71064721	-	Psyc_0140	-	-	hypothetical protein
+167815..168774	+	319	71064722	-	Psyc_0141	-	COG0115EH	aminodeoxychorismate lyase
+168785..168985	-	66	71064723	-	Psyc_0142	-	-	hypothetical protein
+169265..170029	-	254	71064724	dpnC	Psyc_0143	-	-	type II restriction endonuclease DpnI
+170201..171484	+	427	71064725	-	Psyc_0144	-	COG1559R	hypothetical protein
+171585..172262	+	225	71064726	tmk	Psyc_0145	-	COG0125F	thymidylate kinase
+172382..174673	-	763	71064727	-	Psyc_0146	-	COG0025P	CPA1 family Na(+)/H(+) antiporter
+175485..176942	+	485	71064728	mucD	Psyc_0147	-	COG0265O	serine protease
+177480..178385	+	301	71064729	dapA	Psyc_0148	-	COG0329EM	dihydrodipicolinate synthase
+178400..178735	+	111	71064730	-	Psyc_0149	-	COG3317M	hypothetical protein
+178866..179579	+	237	71064731	purC	Psyc_0150	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+179656..179997	-	113	71064732	-	Psyc_0151	-	-	hypothetical protein
+180603..180914	+	103	71064733	-	Psyc_0153	-	COG3323S	hypothetical protein
+180969..181190	-	73	71064734	-	Psyc_0154	-	-	hypothetical protein
+181490..181732	-	80	71064735	-	Psyc_0155	-	-	hypothetical protein
+181933..182136	-	67	71064736	-	Psyc_0156	-	COG3237S	hypothetical protein
+182604..182855	+	83	71064737	-	Psyc_0157	-	-	hypothetical protein
+182842..184173	-	443	71064738	dadA	Psyc_0158	-	COG0665E	D-amino acid dehydrogenase subunit
+184228..184995	-	255	71064739	-	Psyc_0159	-	COG0354R	hypothetical protein
+185292..185645	+	117	71064740	phnA	Psyc_0160	-	COG2824P	PhnA protein
+185744..187045	+	433	71064741	hemL	Psyc_0161	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+187480..189006	+	508	71064742	-	Psyc_0162	-	COG0248FP	exopolyphosphatase
+189235..190038	+	267	71064743	-	Psyc_0163	-	COG0825I	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+190316..191893	+	525	71064744	-	Psyc_0164	-	COG0037D	hypothetical protein
+192082..192915	+	277	71064745	proC	Psyc_0165	-	COG0345E	pyrroline-5-carboxylate reductase
+193038..193607	+	189	71064746	-	Psyc_0166	-	COG0762S	hypothetical protein
+193860..194654	-	264	71064747	thiD	Psyc_0167	-	COG0351H	phosphomethylpyrimidine kinase
+195455..196129	+	224	71064748	-	Psyc_0168	-	COG1714S	hypothetical protein
+196376..196756	-	126	71064749	panD	Psyc_0169	-	COG0853H	aspartate alpha-decarboxylase
+196856..197437	-	193	71064750	pth	Psyc_0170	-	COG0193J	peptidyl-tRNA hydrolase
+197634..198308	-	224	71064751	-	Psyc_0171	-	COG1825J	50S ribosomal protein L25
+198705..199652	-	315	71064752	prsA	Psyc_0172	-	COG0462FE	ribose-phosphate pyrophosphokinase
+200407..201375	-	322	71064753	ipk	Psyc_0173	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+201438..202076	-	212	71064754	-	Psyc_0174	-	COG3017M	hypothetical protein
+202218..203882	-	554	71064755	-	Psyc_0175	-	-	hypothetical protein
+204616..205995	+	459	71064756	hemA	Psyc_0176	-	COG0373H	glutamyl-tRNA reductase
+206442..207578	+	378	71064757	agxT	Psyc_0177	-	COG0075E	serine-pyruvate aminotransferase
+207814..208251	+	145	71064758	-	Psyc_0178	-	COG2391R	hypothetical protein
+208344..208766	+	140	71064759	-	Psyc_0179	-	COG2391R	hypothetical protein
+208866..210530	-	554	71064760	-	Psyc_0180	-	COG0318IQ	AMP-dependent synthetase/ligase
+210870..213005	+	711	71064761	fadH2	Psyc_0181	-	COG1902C	2,4-dienoyl-CoA reductase
+213389..214492	+	367	71064762	nemA	Psyc_0182	-	COG1902C	N-ethylmaleimide reductase
+214749..216065	-	438	71064763	-	Psyc_0183	-	COG2081R	hypothetical protein
+216448..218409	+	653	71064764	acs	Psyc_0184	-	COG0365I	acetyl-CoA synthetase
+219109..219789	+	226	71064765	pgsA	Psyc_0185	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+220074..220568	-	164	71064766	-	Psyc_0186	-	COG3871R	hypothetical protein
+220986..225014	+	1342	71064767	purL	Psyc_0187	-	COG0046F	phosphoribosylformylglycinamidine synthase
+225212..225685	+	157	71064768	-	Psyc_0188	-	COG3428S	hypothetical protein
+225740..227497	-	585	71064769	-	Psyc_0189	-	COG1403V	hypothetical protein
+227710..227889	+	59	71064770	-	Psyc_0190	-	-	hypothetical protein
+228171..228800	+	209	71064771	-	Psyc_0191	-	COG0586S	alkaline phosphatase
+229127..229267	-	46	71064772	-	Psyc_0192	-	COG3328L	transposase and inactivated derivatives
+229310..230866	-	518	71064773	-	Psyc_0193	-	COG0861P	TerC family transport protein
+231329..231742	-	137	71064774	-	Psyc_0194	-	COG0799S	hypothetical protein
+231882..232766	-	294	71064775	nadD	Psyc_0195	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+233099..235255	-	718	71064776	-	Psyc_0196	-	COG0280C	phosphate acetyltransferase
+235349..236581	-	410	71064777	-	Psyc_0197	-	COG0282C	acetate kinase
+237088..237513	+	141	71064778	-	Psyc_0198	-	-	hypothetical protein
+237623..238954	+	443	71064779	lysA	Psyc_0199	-	COG0019E	diaminopimelate decarboxylase
+239291..240178	+	295	71064780	dapF	Psyc_0200	-	COG0253E	diaminopimelate epimerase
+240236..241273	+	345	71064781	xerC	Psyc_0201	-	COG4973L	tyrosine recombinase XerC
+241487..242383	-	298	71064782	-	Psyc_0202	-	COG0388R	carbon-nitrogen hydrolase
+242863..244572	+	569	71064783	rpoN	Psyc_0203	-	COG1508K	RNA polymerase sigma-54 factor family protein
+244975..245355	+	126	71064784	yfiA	Psyc_0204	-	COG1544J	30S ribosomal protein S30
+245787..245987	-	66	71064785	thiS	Psyc_0205	-	COG2104H	thiamine biosynthesis sulfur transfer protein
+246097..246471	-	124	71064786	-	Psyc_0206	-	COG2363S	hypothetical protein
+246530..247555	-	341	71064787	rpoH	Psyc_0207	-	COG0568K	RNA polymerase factor sigma-32
+247635..248102	-	155	71064788	-	Psyc_0208	-	COG0425O	hypothetical protein
+248494..250179	+	561	71064789	-	Psyc_0209	-	COG4783R	hypothetical protein
+250391..250840	-	149	71064790	-	Psyc_0210	-	COG1610S	hypothetical protein
+251039..251254	-	71	71064791	rpsU	Psyc_0211	-	COG0828J	30S ribosomal protein S21
+251670..252038	+	122	71064792	-	Psyc_0212	-	-	hypothetical protein
+252105..252626	+	173	71064793	-	Psyc_0213	-	COG3245C	hypothetical protein
+252902..253951	+	349	71064794	ygjD	Psyc_0214	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+254011..254382	+	123	71064795	-	Psyc_0215	-	COG0239D	camphor resistance protein CrcB
+254413..255303	-	296	71064796	metR	Psyc_0216	-	COG0583K	LysR family transcriptional regulator
+255969..256607	+	212	71064797	-	Psyc_0217	-	COG0288P	carbonic anhydrase
+256690..257259	+	189	71064798	gloA	Psyc_0218	-	COG0346E	lactoylglutathione lyase
+257347..258357	-	336	71064799	hemF	Psyc_0219	-	COG0408H	coproporphyrinogen III oxidase
+258376..259068	-	230	71064800	ribA	Psyc_0220	-	COG0807H	GTP cyclohydrolase II
+259652..261694	+	680	71064801	dxs	Psyc_0221	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+262183..263010	+	275	71064802	suhB	Psyc_0222	-	COG0483G	inositol monophosphatase
+263057..264484	-	475	71064803	-	Psyc_0223	-	-	diacylglycerol O-acyltransferase
+264531..265355	-	274	71064804	thiG	Psyc_0224	-	COG2022H	thiazole synthase
+265553..266287	-	244	71064805	-	Psyc_0225	-	COG2050Q	hypothetical protein
+266672..268168	+	498	71064806	-	Psyc_0226	-	COG1401V	endonuclease
+268184..269728	+	514	71064807	-	Psyc_0227	-	COG4268V	hypothetical protein
+270938..272026	+	362	71064808	-	Psyc_0228	-	-	hypothetical protein
+276220..277656	+	478	71064809	pldA	Psyc_0231	-	COG2829M	outer membrane phospholipase A
+277687..278529	+	280	71064810	comF	Psyc_0232	-	COG1040R	competence protein F
+278992..279450	+	152	71064811	fimT	Psyc_0233	-	COG4970NU	type IV pilin protein
+279450..280100	+	216	71064812	pilV	Psyc_0234	-	COG4967NU	type IV fimbrial biogenesis protein PilV
+280100..281011	+	303	71064813	-	Psyc_0235	-	COG4966NU	pilus assembly protein PilW
+281023..281841	+	272	71064814	-	Psyc_0236	-	COG4726NU	pilus assembly protein PilX
+281921..285676	+	1251	71064815	-	Psyc_0237	-	COG3419NU	pilus assembly protein tip-associated adhesin PilY1
+285723..286310	+	195	71064816	-	Psyc_0238	-	COG4968NU	pilus assembly protein PilE
+286310..286747	+	145	71064817	pilE	Psyc_0239	-	COG4968NU	pilus assembly protein PilE
+287088..287507	+	139	71064818	-	Psyc_0240	-	COG4969NU	pilus assembly protein major pilin PilA
+287641..288054	+	137	71064819	-	Psyc_0241	-	COG4969NU	pilus assembly protein major pilin PilA
+288187..289947	+	586	71064820	-	Psyc_0242	-	COG3307M	hypothetical protein
+290109..290645	-	178	71064821	-	Psyc_0243	-	COG1943L	hypothetical protein
+290940..291641	-	233	71064822	-	Psyc_0245	-	-	hypothetical protein
+291832..292155	-	107	71064823	-	Psyc_0246	-	COG1146C	ferredoxin
+292249..295425	-	1058	71064824	mutS	Psyc_0247	-	COG0249L	DNA mismatch repair protein MutS
+295988..298777	+	929	71064825	secA	Psyc_0248	-	COG0653U	preprotein translocase subunit SecA
+299100..299612	+	170	71064826	-	Psyc_0249	-	-	hypothetical protein
+299711..300379	-	222	71064827	-	Psyc_0250	-	COG3861S	hypothetical protein
+300687..301541	-	284	71064828	-	Psyc_0251	-	COG3861S	hypothetical protein
+302075..303256	-	393	71064829	-	Psyc_0252	-	COG0183I	acetyl-CoA acyltransferase
+303315..304661	-	448	71064830	hom	Psyc_0253	-	COG0460E	homoserine dehydrogenase
+304875..305732	-	285	71064831	dsbC	Psyc_0254	-	COG1651O	thiol:disulfide interchange protein
+306144..307067	+	307	71064832	-	Psyc_0255	-	COG2354S	hypothetical protein
+307312..311529	-	1405	71064833	-	Psyc_0256	-	COG1530J	RNAse E
+312743..313759	+	338	71064834	rlu	Psyc_0257	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+313900..314607	+	235	71064835	-	Psyc_0258	-	COG0546R	phosphoglycolate phosphatase
+314697..315605	-	302	71064836	engB	Psyc_0259	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+315892..316227	+	111	71064837	scyA	Psyc_0260	-	COG3245C	cytochrome c, class I
+316570..317238	+	222	71064838	cc4	Psyc_0261	-	COG2863C	cytochrome C, c4
+317468..318610	+	380	71064839	-	Psyc_0262	-	COG0733R	hypothetical protein
+318598..319002	+	134	71064840	-	Psyc_0263	-	COG2914S	hypothetical protein
+319028..319444	-	138	71064841	omlA	Psyc_0264	-	COG2913J	outer membrane lipoprotein OmlA
+319768..320202	+	144	71064842	fur	Psyc_0265	-	COG0735P	ferric-uptake regulator family
+320393..321514	-	373	71064843	pilU	Psyc_0266	-	COG5008NU	twitching motility protein PilU
+321690..322742	-	350	71064844	pilT	Psyc_0267	-	COG2805NU	pilus retraction protein PilT
+323058..323813	+	251	71064845	-	Psyc_0268	-	COG0325R	hypothetical protein
+324062..325336	-	424	71064846	-	Psyc_0269	-	COG1253R	hypothetical protein
+325581..327284	-	567	71064847	nadE	Psyc_0270	-	COG0171H	NH3-dependent (glutamine-hydrolyzing) NAD(+) synthetase
+328065..329204	+	379	71064848	-	Psyc_0271	-	COG0628R	hypothetical protein
+329289..330443	+	384	71064849	-	Psyc_0272	-	COG0111HE	erythronate-4-phosphate dehydrogenase
+330504..331532	+	342	71064850	lysS/U	Psyc_0273	-	COG2269J	lysyl-tRNA synthetase, class II
+331821..332270	-	149	71064851	-	Psyc_0274	-	COG1671S	hypothetical protein
+332270..333625	-	451	71064852	purK	Psyc_0275	-	COG0026F	phosphoribosylaminoimidazole carboxylase
+333860..334420	-	186	71064853	purE	Psyc_0276	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+334660..335631	-	323	71064854	-	Psyc_0277	-	-	hypothetical protein
+335859..336467	-	202	71064855	-	Psyc_0278	-	COG0705R	rhomboid family protein
+336924..338426	+	500	71064856	-	Psyc_0279	-	-	hypothetical protein
+338964..340565	+	533	71064857	-	Psyc_0280	-	COG2885M	OmpA family outer membrane protein
+340828..341910	-	360	71064858	-	Psyc_0281	-	COG1472G	beta-hexosaminidase
+342390..344603	+	737	71064859	prc	Psyc_0282	-	COG0793M	peptidase
+345101..345586	-	161	71064860	slyD	Psyc_0283	-	COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase
+346048..348033	+	661	71064861	-	Psyc_0284	-	COG3975R	protease
+348127..348966	-	279	71064862	-	Psyc_0285	-	COG3544S	hypothetical protein
+349170..349796	-	208	71064863	rsu	Psyc_0286	-	COG1187J	ribosomal large subunit pseudouridine synthase E
+350508..352727	-	739	71064864	icd2	Psyc_0287	-	COG2838C	isocitrate dehydrogenase
+353534..354886	+	450	71064865	-	Psyc_0288	-	COG3146S	hypothetical protein
+354939..355445	+	168	71064866	ubiC	Psyc_0289	-	COG3161H	chorismate lyase
+355846..357102	+	418	71064867	glyA	Psyc_0290	-	COG0112E	serine hydroxymethyltransferase
+357352..357726	-	124	71064868	-	Psyc_0291	-	COG2732K	hypothetical protein
+357728..358471	-	247	71064869	-	Psyc_0292	-	COG4290F	guanine-specific ribonuclease
+358637..359938	-	433	71064870	proA	Psyc_0293	-	COG0014E	gamma-glutamyl phosphate reductase
+360599..361396	+	265	71064871	-	Psyc_0294	-	COG4598E	basic amino acid ABC transporter ATPase subunit
+361873..362673	+	266	71064872	-	Psyc_0295	-	COG0834ET	basic amino acid ABC transporter periplasmic binding protein
+362760..363689	+	309	71064873	-	Psyc_0296	-	COG0834ET	basic amino acid ABC transporter periplasmic binding protein
+364285..365019	+	244	71064874	-	Psyc_0297	-	COG4215E	basic amino acid ABC transporter inner membrane protein
+365033..365758	+	241	71064875	-	Psyc_0298	-	COG4160E	basic amino acid ABC transporter inner membrane protein
+365857..366573	+	238	71064876	-	Psyc_0299	-	COG0179Q	fumarylacetoacetate (FAA) hydrolase
+366970..369171	+	733	71064877	-	Psyc_0300	-	COG3211R	phosphatase
+369539..371005	+	488	71064878	-	Psyc_0301	-	COG1075R	hypothetical protein
+371127..372107	-	326	71064879	-	Psyc_0302	-	COG1281O	heat shock protein, Hsp33
+372590..373549	+	319	71064880	gltI	Psyc_0303	-	COG0834ET	glutamate/aspartate ABC transporter periplasmic binding protein GltI
+373659..374405	+	248	71064881	gltJ	Psyc_0304	-	COG0765E	glutamate/aspartate ABC transporter inner membrane protein GltJ
+374402..375073	+	223	71064882	gltK	Psyc_0305	-	COG0765E	glutamate/aspartate ABC transporter inner membrane protein GltK
+375161..375979	+	272	71064883	gltL	Psyc_0306	-	COG1126E	glutamate/aspartate ABC transporter inner membrane protein GltL
+376375..377634	+	419	71064884	-	Psyc_0307	-	COG1251C	pyridine nucleotide-disulfide oxidoreductase
+377883..379637	+	584	71064885	-	Psyc_0308	-	COG0318IQ	AMP-binding protein
+379861..381471	+	536	71064886	-	Psyc_0309	-	COG4799I	acyl-CoA carboxylase subunit beta
+381521..382327	+	268	71064887	-	Psyc_0310	-	COG1024I	enoyl-CoA hydratase
+382457..384577	+	706	71064888	-	Psyc_0311	-	COG4770I	3-methylcrotonoyl-CoA carboxylase subunit alpha
+384592..385512	+	306	71064889	mvaB	Psyc_0312	-	COG0119E	hydroxymethylglutaryl-CoA lyase
+385592..386779	+	395	71064890	acd	Psyc_0313	-	COG1960I	isovaleryl-CoA dehydrogenase
+386881..387609	-	242	71064891	-	Psyc_0314	-	COG1521K	pantothenate kinase
+387647..388621	-	324	71064892	birA	Psyc_0315	-	COG0340H	biotin-(acetyl CoA carboxylase) holoenzyme synthetase
+389517..390452	+	311	71064893	-	Psyc_0317	-	-	hypothetical protein
+390525..394448	+	1307	71064894	smc	Psyc_0318	-	COG1196D	condensin subunit Smc
+394653..395678	+	341	71064895	zipA	Psyc_0319	-	COG3115D	cell division protein
+396012..398087	+	691	71064896	lig	Psyc_0320	-	COG0272L	NAD dependent DNA ligase
+398321..399016	-	231	71064897	-	Psyc_0321	-	-	hypothetical protein
+399055..399876	-	273	71064898	-	Psyc_0322	-	-	hypothetical protein
+400165..400695	-	176	71064899	-	Psyc_0323	-	-	hypothetical protein
+401246..403693	-	815	71064900	-	Psyc_0324	-	COG1032C	hypothetical protein
+404366..404842	-	158	71064901	smpB	Psyc_0325	-	COG0691O	SsrA-binding protein
+405107..405619	+	170	71064902	coaD	Psyc_0326	-	COG0669H	phosphopantetheine adenylyltransferase
+405692..405940	+	82	71064903	-	Psyc_0327	-	COG2878C	4Fe-4S ferredoxin
+405944..407254	+	436	71064904	bioA	Psyc_0328	-	COG0161H	aminotransferase
+407266..407985	+	239	71064905	bioD	Psyc_0329	-	COG0132H	dithiobiotin synthetase
+409080..410876	+	598	71064906	lepA	Psyc_0330	-	COG0481M	GTP-binding protein LepA
+410955..411857	+	300	71064907	lepB	Psyc_0331	-	COG0681U	signal peptidase I
+412018..412413	+	131	71064908	-	Psyc_0332	-	-	hypothetical protein
+412567..413364	+	265	71064909	rnc	Psyc_0333	-	COG0571K	ribonuclease III
+413679..414671	+	330	71064910	era	Psyc_0334	-	COG1159R	GTP-binding protein Era
+414720..415484	+	254	71064911	recO	Psyc_0335	-	COG1381L	DNA replication and repair protein RecO
+415584..416378	+	264	71064912	pdxJ	Psyc_0336	-	COG0854H	pyridoxine 5'-phosphate synthase
+416416..417003	-	195	71064913	-	Psyc_0337	-	COG4970NU	hypothetical protein
+417594..418778	+	394	71064914	oprF	Psyc_0338	-	COG2885M	hypothetical protein
+419133..420980	+	615	71064915	-	Psyc_0339	-	COG1217T	regulatory protein TypA or elongation factor Tu
+421373..421810	+	145	71064916	mscL	Psyc_0340	-	COG1970M	large-conductance mechanosensitive channel
+421913..422365	-	150	71064917	-	Psyc_0341	-	-	hypothetical protein
+422692..423621	-	309	71064918	fpg	Psyc_0342	-	COG0266L	formamidopyrimidine-DNA glycosylase
+423686..426226	-	846	71064919	relA	Psyc_0343	-	COG0317TK	RelA/SpoT family protein
+426591..428129	-	512	71064920	rumA	Psyc_0344	-	COG2265J	23S rRNA 5-methyluridine methyltransferase
+428425..429240	-	271	71064921	-	Psyc_0345	-	COG0417L	hypothetical protein
+429328..430284	-	318	71064922	cysM	Psyc_0346	-	COG0031E	cysteine synthase B
+430705..434112	+	1135	71064923	-	Psyc_0347	-	COG0642T	signal transduction histidine kinase sensor
+434240..435052	+	270	71064924	-	Psyc_0348	-	COG1024I	enoyl-CoA hydratase
+435269..436528	+	419	71064925	-	Psyc_0349	-	COG2814G	major facilitator superfamily multi-drug efflux pump
+436838..437632	+	264	71064926	rpsB	Psyc_0350	-	COG0052J	30S ribosomal protein S2
+437862..438746	+	294	71064927	tsf	Psyc_0351	-	COG0264J	elongation factor Ts
+438893..439714	-	273	71064928	-	Psyc_0352	-	COG0741M	lytic transglycosylase
+440145..440834	-	229	71064929	-	Psyc_0353	-	COG1346M	hypothetical protein
+440866..441294	-	142	71064930	-	Psyc_0354	-	COG1380R	hypothetical protein
+441586..443055	-	489	71064931	hflX	Psyc_0355	-	COG2262R	GTP - binding protein, phage lambda cII repressor
+443633..444433	+	266	71064932	plsC	Psyc_0356	-	COG0204I	lyso-ornithine lipid acyltransferase
+444568..445608	-	346	71064933	-	Psyc_0357	-	COG0667C	oxidoreductase, aldo/keto reductase
+445651..446148	-	165	71064934	-	Psyc_0358	-	COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase
+446465..447346	+	293	71064935	-	Psyc_0359	-	-	IS4 family transposase
+448233..449150	+	305	71064936	-	Psyc_0360	-	COG0790R	hypothetical protein
+449214..449426	-	70	71064937	-	Psyc_0361	-	-	hypothetical protein
+449893..450381	+	162	71064938	-	Psyc_0362	-	-	hypothetical protein
+450659..451174	-	171	71064939	lspA	Psyc_0363	-	COG0597MU	lipoprotein signal peptidase
+451302..454127	-	941	71064940	ileS	Psyc_0364	-	COG0060J	isoleucyl-tRNA synthetase
+454611..455174	-	187	71064941	-	Psyc_0365	-	COG3118O	thioredoxin protein
+455427..457064	-	545	71064942	-	Psyc_0366	-	COG0388R	amidohydrolase
+457612..458244	+	210	71064943	-	Psyc_0367	-	-	hypothetical protein
+458394..459836	-	480	71064944	-	Psyc_0368	-	COG0277C	oxidoreductase, FAD binding
+460224..461450	+	408	71064945	serA	Psyc_0369	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+461573..462631	-	352	71064946	-	Psyc_0370	-	COG1054R	hypothetical protein
+462797..463804	-	335	71064947	-	Psyc_0371	-	-	hypothetical protein
+463898..464140	-	80	71064948	-	Psyc_0372	-	-	hypothetical protein
+464315..464896	-	193	71064949	-	Psyc_0373	-	COG0790R	hypothetical protein
+465299..465916	-	205	71064950	-	Psyc_0374	-	COG2226H	hypothetical protein
+465913..467250	-	445	71064951	metX	Psyc_0375	-	COG2021E	homoserine O-acetyltransferase
+467731..468750	+	339	71064952	hemH	Psyc_0376	-	COG0276H	ferrochelatase
+468847..469221	-	124	71064953	-	Psyc_0377	-	-	hypothetical protein
+469527..472397	-	956	71064954	polA	Psyc_0378	-	COG0749L	DNA polymerase I
+472843..473256	-	137	71064955	ohrA	Psyc_0379	-	COG1764O	organic hydroperoxide resistance protein
+474234..475829	+	531	71064956	prfC	Psyc_0380	-	COG4108J	peptide chain release factor 3
+476897..477853	+	318	71064957	-	Psyc_0382	-	COG1716T	hypothetical protein
+479294..480484	+	396	71064958	tufBa	Psyc_0383	-	COG0050J	elongation factor Tu
+480663..481214	-	183	71064959	-	Psyc_0384	-	-	hypothetical protein
+481437..481907	+	156	71064960	rimI	Psyc_0385	-	COG0456R	ribosomal-protein-alanine acetyltransferase
+481988..482422	-	144	71064961	-	Psyc_0386	-	COG0789K	MerR family transcriptional regulator
+482733..483539	-	268	71064962	aat	Psyc_0387	-	COG2360O	leucyl/phenylalanyl-tRNA--protein transferase
+483610..484632	-	340	71064963	trxB	Psyc_0388	-	COG0492O	thioredoxin reductase
+485598..488804	+	1068	71064964	ftsK	Psyc_0389	-	COG1674D	DNA translocase FtsK
+489143..489631	-	162	71064965	-	Psyc_0390	-	COG1576S	rRNA large subunit methyltransferase
+489872..490483	-	203	71064966	dnaQ	Psyc_0391	-	COG0847L	DNA polymerase III subunit epsilon
+490541..492499	-	652	71064967	-	Psyc_0392	-	COG2905T	nucleotidyltransferase
+492825..494051	-	408	71064968	-	Psyc_0393	-	COG0436E	succinyldiaminopimelate transaminase
+494365..495033	+	222	71064969	-	Psyc_0394	-	-	hypothetical protein
+495044..497791	-	915	71064970	glnD	Psyc_0395	-	COG2844O	protein-P-II uridylyltransferase
+497967..498761	-	264	71064971	map	Psyc_0396	-	COG0024J	methionine aminopeptidase
+499186..499533	+	115	71064972	-	Psyc_0397	-	COG1884I	hypothetical protein
+500233..500403	+	56	71064973	-	Psyc_0399	-	COG4338S	hypothetical protein
+500449..500598	+	49	71064974	-	Psyc_0400	-	COG4338S	hypothetical protein
+500671..502233	-	520	71064975	dcm	Psyc_0401	-	COG0270L	C-5 cytosine-specific DNA methylase
+502506..503840	+	444	71064976	-	Psyc_0402	-	-	hypothetical protein
+503979..507794	-	1271	71064977	metH	Psyc_0403	-	COG1410E	B12-dependent methionine synthase
+508533..509117	+	194	71064978	-	Psyc_0404	-	COG2335M	hypothetical protein
+509429..510031	+	200	71064979	-	Psyc_0405	-	COG2335M	hypothetical protein
+511927..512808	+	293	71064980	-	Psyc_0407	-	-	IS4 family transposase
+513935..514567	+	210	71064981	-	Psyc_0409	-	COG1704S	LemA family protein
+514839..515999	+	386	71064982	-	Psyc_0410	-	COG1512R	hypothetical protein
+516094..516618	+	174	71064983	-	Psyc_0411	-	COG3762S	hypothetical protein
+516806..517165	+	119	71064984	-	Psyc_0412	-	-	hypothetical protein
+517955..518836	+	293	71064985	-	Psyc_0414	-	-	IS4 family transposase
+520957..522330	+	457	71064986	-	Psyc_0416	-	COG0732V	type I restriction-modification system subunit S
+522539..522829	-	96	71064987	-	Psyc_0417	-	-	hypothetical protein
+523115..523795	+	226	71064988	gst	Psyc_0418	-	COG0625O	glutathione S-transferase
+524327..525019	+	230	71064989	-	Psyc_0419	-	COG2227H	hypothetical protein
+524974..526065	+	363	71064990	-	Psyc_0420	-	COG0644C	hypothetical protein
+526062..527150	-	362	71064991	-	Psyc_0421	-	COG3424Q	chalcone synthase
+527278..527538	-	86	71064992	-	Psyc_0422	-	-	hypothetical protein
+527666..528094	-	142	71064993	-	Psyc_0423	-	COG3293L	transposase ISSod6
+528255..531563	+	1102	71064994	-	Psyc_0424	-	COG0610V	type I restriction enzyme, R subunit
+531987..532658	+	223	71064995	-	Psyc_0425	-	COG3245C	cytochrome C, class I
+532980..533927	+	315	71064996	-	Psyc_0426	-	COG1131V	ABC transporter ATPase
+534080..534853	+	257	71064997	-	Psyc_0427	-	COG1682GM	ABC transporter inner membrane subunit
+535094..535951	+	285	71064998	queF	Psyc_0428	-	COG2904S	7-cyano-7-deazaguanine reductase
+536241..537959	-	572	71064999	proS	Psyc_0429	-	COG0442J	prolyl-tRNA synthetase
+538822..540447	-	541	71065000	phrB	Psyc_0430	-	COG0415L	deoxyribodipyrimidine photo-lyase type I
+540585..541268	+	227	71065001	-	Psyc_0431	-	COG0135E	phosphoribosylanthranilate isomerase
+541376..542650	+	424	71065002	trpB	Psyc_0432	-	COG0133E	tryptophan synthase subunit beta
+542793..543629	+	278	71065003	trpA	Psyc_0433	-	COG0159E	tryptophan synthase subunit alpha
+543896..544849	+	317	71065004	accD	Psyc_0434	-	COG0777I	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+545092..546459	+	455	71065005	folC	Psyc_0435	-	COG0285H	bifunctional folylpolyglutamate synthase/dihydrofolate synthase FolC
+546690..547805	+	371	71065006	lysM	Psyc_0436	-	COG0739M	peptidoglycan-binding LysM
+548132..548662	+	176	71065007	-	Psyc_0437	-	-	hypothetical protein
+548678..549640	-	320	71065008	-	Psyc_0438	-	COG3782S	hypothetical protein
+550211..550699	-	162	71065009	-	Psyc_0439	-	-	hypothetical protein
+550716..551261	-	181	71065010	-	Psyc_0440	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+551327..551650	-	107	71065011	-	Psyc_0441	-	-	hypothetical protein
+551715..552266	-	183	71065012	-	Psyc_0442	-	-	hypothetical protein
+552271..555444	-	1057	71065013	-	Psyc_0443	-	COG4733S	prophage LambdaSo, host specificity protein J
+555447..556010	-	187	71065014	-	Psyc_0444	-	COG4723S	phage protein tail protein
+556066..556815	-	249	71065015	-	Psyc_0445	-	COG1310R	prophage LambdaSo, tail assembly protein K
+556815..557633	-	272	71065016	-	Psyc_0446	-	COG4672S	phage minor tail protein
+557921..559009	-	362	71065017	-	Psyc_0447	-	COG3344L	RNA-directed DNA polymerase
+559269..559652	-	127	71065018	-	Psyc_0448	-	-	hypothetical protein
+559678..561144	-	488	71065019	-	Psyc_0449	-	-	hypothetical protein
+561153..561491	-	112	71065020	-	Psyc_0450	-	COG4718S	LambdaSo, minor tail protein M
+561553..561825	-	90	71065021	-	Psyc_0451	-	-	hypothetical protein
+562011..565082	-	1023	71065022	-	Psyc_0452	-	COG3264M	pore-forming tail tip protein
+565254..565784	-	176	71065023	-	Psyc_0453	-	COG1110L	hypothetical protein
+565850..566074	-	74	71065024	-	Psyc_0454	-	-	hypothetical protein
+566176..566541	-	121	71065025	-	Psyc_0455	-	-	hypothetical protein
+566615..567037	-	140	71065026	-	Psyc_0456	-	-	hypothetical protein
+567059..567418	-	119	71065027	-	Psyc_0457	-	-	hypothetical protein
+567436..567903	-	155	71065028	-	Psyc_0458	-	-	hypothetical protein
+567896..568228	-	110	71065029	-	Psyc_0459	-	COG5614R	phage head-tail adaptor protein
+568230..568538	-	102	71065030	-	Psyc_0460	-	-	hypothetical protein
+568652..569905	-	417	71065031	-	Psyc_0461	-	-	major phage capsid subunit
+569983..570729	-	248	71065032	-	Psyc_0462	-	COG3740R	prohead peptidase
+570722..571957	-	411	71065033	-	Psyc_0463	-	COG4695S	phage portal protein
+571959..573704	-	581	71065034	-	Psyc_0464	-	COG4626R	phage terminase, large subunit
+573711..574184	-	157	71065035	-	Psyc_0465	-	COG3747L	phage terminase small subunit
+574289..574735	-	148	71065036	-	Psyc_0466	-	COG1403V	phage holin protein
+574862..575263	-	133	71065037	-	Psyc_0467	-	-	hypothetical protein
+575616..577316	-	566	71065038	-	Psyc_0468	-	COG3378R	hypothetical protein
+577513..578529	-	338	71065039	-	Psyc_0469	-	COG4643S	bacteriophage DNA primase
+578519..579022	-	167	71065040	-	Psyc_0470	-	-	hypothetical protein
+579064..579318	-	84	71065041	-	Psyc_0471	-	COG4197S	hypothetical protein
+579446..580120	+	224	71065042	-	Psyc_0472	-	COG2932K	Cro/CI family transcriptional regulator
+580383..580658	+	91	71065043	-	Psyc_0473	-	-	hypothetical protein
+580655..581611	+	318	71065044	-	Psyc_0474	-	-	hypothetical protein
+581604..581957	+	117	71065045	-	Psyc_0475	-	-	hypothetical protein
+581957..582475	+	172	71065046	-	Psyc_0476	-	-	hypothetical protein
+582890..583405	+	171	71065047	-	Psyc_0477	-	-	hypothetical protein
+583405..583605	+	66	71065048	-	Psyc_0478	-	COG1734T	phage TraR/DksA family protein
+584020..585093	+	357	71065049	-	Psyc_0479	-	COG4974L	phage integrase
+585580..587109	-	509	71065050	gatB	Psyc_0480	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+587109..588605	-	498	71065051	gatA	Psyc_0481	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+588671..588985	-	104	71065052	gatC	Psyc_0482	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+589699..590727	+	342	71065053	mreB	Psyc_0483	-	COG1077D	rod shape-determining protein MreB
+590985..591845	+	286	71065054	mreC	Psyc_0484	-	COG1792M	rod shape-determining protein MreC
+591993..592478	+	161	71065055	mreD	Psyc_0485	-	COG2891M	rod shape-determining protein MreD
+592618..593313	+	231	71065056	maf	Psyc_0486	-	COG0424D	maf protein implicated in inhibition of septum formation
+593525..595111	+	528	71065057	-	Psyc_0487	-	COG1530J	RNAse G
+595612..595923	+	103	71065058	rpsJ	Psyc_0488	-	COG0051J	30S ribosomal protein S10
+595972..596610	+	212	71065059	rplC	Psyc_0489	-	COG0087J	50S ribosomal protein L3
+596625..597227	+	200	71065060	rplD	Psyc_0490	-	COG0088J	50S ribosomal protein L4
+597224..597574	+	116	71065061	rplW	Psyc_0491	-	COG0089J	50S ribosomal protein L23
+597586..598413	+	275	71065062	rplB	Psyc_0492	-	COG0090J	50S ribosomal protein L2
+598426..598701	+	91	71065063	rpsS	Psyc_0493	-	COG0185J	30S ribosomal protein S19
+598712..599041	+	109	71065064	rplV	Psyc_0494	-	COG0091J	50S ribosomal protein L22
+599045..599773	+	242	71065065	rpsC	Psyc_0495	-	COG0092J	30S ribosomal protein S3
+599777..600190	+	137	71065066	rplP	Psyc_0496	-	COG0197J	50S ribosomal protein L16
+600190..600387	+	65	71065067	rpmC	Psyc_0497	-	COG0255J	50S ribosomal protein L29
+600384..600659	+	91	71065068	rpsQ	Psyc_0498	-	COG0186J	30S ribosomal protein S17
+600841..601209	+	122	71065069	rplN	Psyc_0499	-	COG0093J	50S ribosomal protein L14
+601218..601535	+	105	71065070	rplX	Psyc_0500	-	COG0198J	50S ribosomal protein L24
+601557..602093	+	178	71065071	rplE	Psyc_0501	-	COG0094J	50S ribosomal protein L5
+602106..602411	+	101	71065072	rpsN	Psyc_0502	-	COG0199J	30S ribosomal protein S14
+602423..602821	+	132	71065073	rpsH	Psyc_0503	-	COG0096J	30S ribosomal protein S8
+602997..603530	+	177	71065074	rplF	Psyc_0504	-	COG0097J	50S ribosomal protein L6
+603542..603892	+	116	71065075	rplR	Psyc_0505	-	COG0256J	50S ribosomal protein L18
+603895..604410	+	171	71065076	rpsE	Psyc_0506	-	COG0098J	30S ribosomal protein S5
+604431..604610	+	59	71065077	rpmD	Psyc_0507	-	COG1841J	50S ribosomal protein L30
+604610..605050	+	146	71065078	rplO	Psyc_0508	-	COG0200J	50S ribosomal protein L15
+605070..606401	+	443	71065079	secY	Psyc_0509	-	COG0201U	preprotein translocase subunit SecY
+606433..606549	+	38	71065080	rpmJ	Psyc_0510	-	COG0257J	50S ribosomal protein L36
+606807..607163	+	118	71065081	rpsM	Psyc_0511	-	COG0099J	30S ribosomal protein S13
+607184..607573	+	129	71065082	rpsK	Psyc_0512	-	COG0100J	30S ribosomal protein S11
+607622..608263	+	213	71065083	rpsD	Psyc_0513	-	COG0522J	30S ribosomal protein S4
+608345..609352	+	335	71065084	rpoA	Psyc_0514	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+609372..609731	+	119	71065085	rplQ	Psyc_0515	-	COG0203J	50S ribosomal protein L17
+609944..610567	-	207	71065086	-	Psyc_0516	-	COG0009J	translation factor SUA5
+610764..611561	-	265	71065087	-	Psyc_0517	-	COG3101S	hypothetical protein
+611740..612333	+	197	71065088	-	Psyc_0518	-	COG1399R	hypothetical protein
+612666..612848	+	60	71065089	rpmF	Psyc_0519	-	COG0333J	50S ribosomal protein L32
+613341..614309	+	322	71065090	fabD	Psyc_0520	-	COG0331I	ACP S-malonyltransferase
+614306..615034	+	242	71065091	fabG	Psyc_0521	-	COG1028IQR	3-oxoacyl-ACP reductase
+615347..615583	+	78	71065092	acpP	Psyc_0522	-	COG0236IQ	acyl carrier protein
+615874..616380	+	168	71065093	-	Psyc_0523	-	COG1652S	LysM domain/BON superfamily protein
+616486..617703	-	405	71065094	-	Psyc_0524	-	COG1600C	4Fe-4S ferredoxin
+617916..619688	+	590	71065095	-	Psyc_0525	-	COG0063G	hypothetical protein
+619858..620346	-	162	71065096	-	Psyc_0526	-	-	hypothetical protein
+621124..622950	+	608	71065097	ilvB	Psyc_0527	-	COG0028EH	acetolactate synthase 3 catalytic subunit
+622950..623447	+	165	71065098	ilvH	Psyc_0528	-	COG0440E	acetolactate synthase 3 regulatory subunit
+623594..624610	+	338	71065099	ilvC	Psyc_0529	-	COG0059EH	ketol-acid reductoisomerase
+625016..625441	+	141	71065100	-	Psyc_0530	-	-	hypothetical protein
+625818..626030	+	70	71065101	cspA	Psyc_0531	-	COG1278K	cold-shock DNA-binding protein family protein
+626619..627368	+	249	71065102	-	Psyc_0532	-	COG2086C	electron transport flavoprotein beta-subunit
+627500..628432	+	310	71065103	etfA	Psyc_0533	-	COG2025C	electron transportr flavoprotein subunit alpha
+628566..629774	-	402	71065104	-	Psyc_0534	-	COG3328L	transposase mutator family protein
+630959..631270	+	103	71065105	-	Psyc_0536	-	COG2963L	IS1329/IS3/IS911 transposase
+631333..632142	+	269	71065106	-	Psyc_0537	-	COG2801L	transposase orfAB
+632473..632748	+	91	71065107	-	Psyc_0539	-	COG2963L	IS3/IS911 family transposase OrfA
+632966..633772	-	268	71065108	-	Psyc_0540	-	COG0566J	tRNA/rRNA methyltransferase
+633876..634859	-	327	71065109	fbp	Psyc_0541	-	COG0158G	fructose-1,6-bisphosphatase
+635285..636358	+	357	71065110	pyrB	Psyc_0542	-	COG0540F	aspartate carbamoyltransferase
+636419..637630	+	403	71065111	pyrC	Psyc_0543	-	COG0044F	dihydroorotase
+637563..638186	+	207	71065112	-	Psyc_0544	-	COG3305S	hypothetical protein
+638292..639173	+	293	71065113	-	Psyc_0545	-	-	IS4 family transposase
+639265..640539	-	424	71065114	-	Psyc_0546	-	COG0025P	CPA1 family Na(+)/H(+) antiporter
+640580..642259	-	559	71065115	-	Psyc_0547	-	COG4325S	hypothetical protein
+642397..643974	-	525	71065116	-	Psyc_0548	-	COG1295S	tRNA-processing RNAse BN
+644302..644919	+	205	71065117	trpR	Psyc_0549	-	COG0655R	Trp repressor binding protein
+644991..645470	+	159	71065118	-	Psyc_0550	-	-	hypothetical protein
+645590..646360	-	256	71065119	-	Psyc_0551	-	-	hypothetical protein
+646903..647193	+	96	71065120	groES	Psyc_0552	-	COG0234O	co-chaperonin GroES
+647289..648929	+	546	71065121	groEL	Psyc_0553	-	COG0459O	molecular chaperone GroEL
+649273..650085	-	270	71065122	-	Psyc_0554	-	COG3022S	hypothetical protein
+650559..651716	+	385	71065123	-	Psyc_0555	-	COG3288C	pyridine nucleotide transhydrogenase
+651783..652160	+	125	71065124	pntA	Psyc_0556	-	COG3288C	NAD(P) transhydrogenase subunit alpha
+652157..653557	+	466	71065125	pntB	Psyc_0557	-	COG1282C	NAD(P) transhydrogenase subunit beta
+653710..654264	+	184	71065126	-	Psyc_0558	-	COG0824R	hypothetical protein
+654380..654589	+	69	71065127	-	Psyc_0559	-	COG2975S	hypothetical protein
+654673..655206	+	177	71065128	-	Psyc_0560	-	COG3708S	hypothetical protein
+655515..656738	-	407	71065129	dapE	Psyc_0561	-	COG0624E	succinyl-diaminopimelate desuccinylase
+656824..657582	-	252	71065130	-	Psyc_0562	-	COG3751O	oxygenase
+657712..658587	+	291	71065131	-	Psyc_0563	-	COG2961R	hypothetical protein
+658598..659545	+	315	71065132	pssA	Psyc_0564	-	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase
+665969..667639	+	556	71065133	-	Psyc_0565	-	COG3593L	hypothetical protein
+667795..668205	+	136	71065134	-	Psyc_0566	-	COG1765O	hypothetical protein
+668274..668738	+	154	71065135	-	Psyc_0567	-	COG0655R	hypothetical protein
+668799..669449	+	216	71065136	-	Psyc_0568	-	-	hypothetical protein
+669690..670493	-	267	71065137	-	Psyc_0569	-	COG0412Q	dienelactone hydrolase
+670925..673012	+	695	71065138	katE	Psyc_0570	-	COG0753P	catalase
+673444..674226	+	260	71065139	-	Psyc_0571	-	COG0491R	Zn-dependent hydrolase
+675124..677121	-	665	71065140	macB	Psyc_0572	-	COG1136V	macrolide ABC transporter ATPase/inner membrane protein
+677216..678583	-	455	71065141	macA	Psyc_0573	-	COG1566V	macrolide secretion protein MacA
+678929..680005	-	358	71065142	holA	Psyc_0574	-	COG1466L	DNA polymerase III subunit delta
+680078..680737	-	219	71065143	-	Psyc_0575	-	COG2980M	hypothetical protein
+680862..683627	-	921	71065144	leuS	Psyc_0576	-	COG0495J	leucyl-tRNA synthetase
+683738..686623	+	961	71065145	-	Psyc_0577	-	COG1357S	hypothetical protein
+686620..686991	+	123	71065146	-	Psyc_0578	-	COG1393P	hypothetical protein
+687068..687979	-	303	71065147	argB	Psyc_0579	-	COG0548E	acetylglutamate kinase
+690109..690573	-	154	71065148	dut	Psyc_0581	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+690708..692111	-	467	71065149	mgtE	Psyc_0582	-	COG2239P	Mg/Co/Ni transporter MgtE
+692360..694393	-	677	71065150	uvrD	Psyc_0583	-	COG0210L	ATP-dependent DNA helicase Rep
+695360..695983	+	207	71065151	nuoA	Psyc_0584	-	COG0838C	NADH dehydrogenase I subunit A
+696173..696841	+	222	71065152	nuoB	Psyc_0585	-	COG0377C	NADH dehydrogenase subunit B
+696972..698747	+	591	71065153	nuoD	Psyc_0586	-	COG0649C	bifunctional NADH:ubiquinone oxidoreductase subunit C/D
+698901..699410	+	169	71065154	nuoE	Psyc_0587	-	COG1905C	NADH dehydrogenase subunit E
+699407..700831	+	474	71065155	nuoF	Psyc_0588	-	COG1894C	NADH dehydrogenase I subunit F
+700842..703934	+	1030	71065156	nuoG	Psyc_0589	-	COG1034C	NADH dehydrogenase subunit G
+703936..704979	+	347	71065157	nuoH	Psyc_0590	-	COG1005C	NADH dehydrogenase subunit H
+705035..705583	+	182	71065158	nuoI	Psyc_0591	-	COG1143C	NADH dehydrogenase subunit I
+705580..706299	+	239	71065159	nuoJ	Psyc_0592	-	COG0839C	NADH dehydrogenase I subunit J
+706299..706706	+	135	71065160	nouK	Psyc_0593	-	COG0713C	NADH dehydrogenase I subunit K
+706711..708585	+	624	71065161	nuoL	Psyc_0594	-	COG1009CP	NADH dehydrogenase subunit L
+708587..710212	+	541	71065162	nuoM	Psyc_0595	-	COG1008C	NADH dehydrogenase subunit M
+710216..711694	+	492	71065163	nuoN	Psyc_0596	-	COG1007C	NADH dehydrogenase I subunit N
+712013..712843	+	276	71065164	-	Psyc_0597	-	COG1018C	ferredoxin-NADP reductase
+712969..713775	-	268	71065165	-	Psyc_0598	-	-	hypothetical protein
+714070..714948	+	292	71065166	-	Psyc_0599	-	COG2801L	IS30 family transposase
+714998..715168	+	56	71065167	-	Psyc_0600	-	COG0848U	hypothetical protein
+715517..716998	+	493	71065168	-	Psyc_0601	-	COG2223P	MFS nitrate/nitrite transporter
+717103..717762	-	219	71065169	narL	Psyc_0602	-	COG2197TK	nitrate/nitrite response regulator
+717864..719987	-	707	71065170	narX	Psyc_0603	-	COG3850T	signal transduction histidine kinase sensor
+720320..721699	+	459	71065171	narK	Psyc_0604	-	COG2223P	MFS nitrate/nitrite transporter NarK
+722205..725963	+	1252	71065172	narG	Psyc_0605	-	COG5013C	respiratory nitrate reductase subunit alpha apoprotein
+726003..727541	+	512	71065173	narH	Psyc_0606	-	COG1140C	respiratory nitrate reductase subunit beta
+727543..728412	+	289	71065174	narJ	Psyc_0607	-	COG2180C	respiratory nitrate reductase chaperone NarJ
+728427..729152	+	241	71065175	narI	Psyc_0608	-	COG2181C	respiratory nitrate reductase subunit gamma
+729309..730340	+	343	71065176	-	Psyc_0609	-	COG0760O	peptidyl-prolyl cis-trans isomerase
+730531..731826	+	431	71065177	moeA	Psyc_0610	-	COG0303H	molybdopterin molybdochelatase
+732013..733122	+	369	71065178	moaA	Psyc_0611	-	COG2896H	molybdenum cofactor biosynthesis protein A
+733243..733773	+	176	71065179	moaB2	Psyc_0612	-	COG0521H	molybdenum cofactor biosynthesis protein
+733766..734563	+	265	71065180	-	Psyc_0613	-	COG0746H	molybdenum cofactor guanylyltransferase
+734553..735140	+	195	71065181	moaC	Psyc_0614	-	COG0315H	GTP cyclohydrolase subunit MoaC
+735201..735464	+	87	71065182	moaD	Psyc_0615	-	COG1977H	molybdopterin converting factor, small subunit
+735578..736132	+	184	71065183	moaE	Psyc_0616	-	COG0314H	molybdopterin synthase subunit MoaE
+736294..737184	+	296	71065184	modA	Psyc_0617	-	COG0725P	molybdenum ABC transporter periplasmic binding protein ModA
+737356..738057	+	233	71065185	modB	Psyc_0618	-	COG4149P	molybdenum ABC transporter inner membrane protein ModB
+738182..738691	-	169	71065186	-	Psyc_0619	-	-	hypothetical protein
+738723..739163	+	146	71065187	-	Psyc_0620	-	COG1276P	hypothetical protein
+739307..739723	+	138	71065188	-	Psyc_0621	-	COG4125S	hypothetical protein
+739853..740506	-	217	71065189	-	Psyc_0622	-	COG2761Q	DSBA oxidoreductase
+741705..742676	+	323	71065190	-	Psyc_0624	-	COG0810M	hypothetical protein
+742743..743618	+	291	71065191	-	Psyc_0625	-	COG0668M	small-conductance mechanosensitive ion channel
+743615..744235	-	206	71065192	-	Psyc_0626	-	COG0319R	hypothetical protein
+744336..745421	-	361	71065193	-	Psyc_0627	-	COG1702T	PhoH-like protein, ATPase
+746234..747538	+	434	71065194	ubiH	Psyc_0628	-	COG0654HC	2-octaprenyl-6-methoxyphenol hydroxylase
+747795..749096	+	433	71065195	-	Psyc_0629	-	COG0654HC	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+749101..750012	-	303	71065196	-	Psyc_0630	-	COG2431S	hypothetical protein
+750054..751943	-	629	71065197	nadB	Psyc_0631	-	COG0029H	L-aspartate oxidase
+751945..753084	-	379	71065198	nadA	Psyc_0632	-	COG0379H	quinolinate synthetase
+753357..754451	+	364	71065199	-	Psyc_0633	-	COG4111R	hypothetical protein
+754628..755488	+	286	71065200	nadC	Psyc_0634	-	COG0157H	nicotinate-nucleotide pyrophosphorylase
+755911..756516	+	201	71065201	-	Psyc_0635	-	COG2095U	multiple antibiotic resistance (MarC)-like proteins
+756847..757113	+	88	71065202	-	Psyc_0636	-	-	IS3 family transposase
+757185..757934	+	249	71065203	-	Psyc_0637	-	COG2801L	transposase OrfB
+758105..760048	-	647	71065204	-	Psyc_0638	-	COG1835I	acyltransferase
+760140..760406	+	88	71065205	-	Psyc_0639	-	-	IS3 family transposase
+760478..761227	+	249	71065206	-	Psyc_0640	-	COG2801L	transposase OrfB
+761434..761790	+	118	71065207	-	Psyc_0641	-	COG2246S	bactoprenol-linked glucose translocase (flippase)
+761794..762708	+	304	71065208	yfdH	Psyc_0642	-	COG0463M	glycosyl transferase family protein
+762710..764374	+	554	71065209	-	Psyc_0643	-	-	hypothetical protein
+764656..764955	+	99	71065210	-	Psyc_0644	-	COG2963L	IS3/IS911 family transposase OrfA
+765000..765902	+	300	71065211	-	Psyc_0645	-	COG2801L	IS30 family transposase
+766279..767226	-	315	71065212	-	Psyc_0646	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+767827..768903	+	358	71065213	wza	Psyc_0647	-	COG1596M	polysaccharide export system, outer membrane component
+768923..769354	+	143	71065214	epsP	Psyc_0648	-	COG0394T	protein tyrosine phosphatase
+769434..771695	+	753	71065215	-	Psyc_0649	-	COG3206M	lipopolysaccharide biosynthesis tyrosine kinase
+771887..773164	+	425	71065216	-	Psyc_0650	-	COG0677M	UDP-glucose/GDP-mannose dehydrogenase
+773340..774374	+	344	71065217	-	Psyc_0651	-	COG0451MG	NAD-dependent epimerase
+774394..776193	+	599	71065218	-	Psyc_0652	-	COG2274V	ABC transporter ATP-binding protein
+776379..777377	+	332	71065219	capD	Psyc_0653	-	COG1086MG	polysaccharide biosynthesis protein CapD
+777378..778535	+	385	71065220	-	Psyc_0654	-	COG0399M	DegT/DnrJ/EryC1/StrS aminotransferase
+778547..779587	+	346	71065221	-	Psyc_0655	-	COG0463M	glycosyl transferase family protein
+779584..780270	+	228	71065222	neuA2	Psyc_0656	-	COG1083M	acylneuraminate cytidylyltransferase
+780321..781370	+	349	71065223	-	Psyc_0657	-	COG3980M	polysaccharide biosynthesis protein
+781351..781863	+	170	71065224	-	Psyc_0658	-	COG1670J	hypothetical protein
+781860..782537	+	225	71065225	-	Psyc_0659	-	COG0223J	methionyl-tRNA formyltransferase
+782538..783587	+	349	71065226	-	Psyc_0660	-	COG2089M	N-acetylneuraminate synthase
+783580..784248	+	222	71065227	-	Psyc_0661	-	COG2120S	LmbE-like protein
+784248..784832	+	194	71065228	-	Psyc_0662	-	COG2089M	N-acetylneuraminate synthase
+784968..785879	+	303	71065229	-	Psyc_0663	-	-	alpha-2,3-sialyltransferase
+786060..787145	+	361	71065230	-	Psyc_0664	-	COG0438M	group 1 glycosyl transferase
+787145..789016	+	623	71065231	asnB	Psyc_0665	-	COG0367E	asparagine synthase
+789071..790270	+	399	71065232	-	Psyc_0666	-	COG0438M	hypothetical protein
+790409..791491	+	360	71065233	-	Psyc_0667	-	COG0438M	group 1 glycosyl transferase
+791494..793449	+	651	71065234	wbpS	Psyc_0668	-	COG0367E	asparagine synthase
+793474..794670	+	398	71065235	-	Psyc_0669	-	COG1086MG	hypothetical protein
+794672..795787	+	371	71065236	-	Psyc_0670	-	COG0438M	group 1 glycosyl transferase
+796077..797324	+	415	71065237	rfbP1	Psyc_0671	-	COG2148M	sugar transferase
+797379..798857	+	492	71065238	-	Psyc_0672	-	-	hypothetical protein
+799533..800420	+	295	71065239	folD	Psyc_0673	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+800634..801848	-	404	71065240	corA	Psyc_0674	-	COG0598P	magnesium and cobalt transport protein CorA
+801929..802318	-	129	71065241	-	Psyc_0675	-	COG3651S	hypothetical protein
+802862..804166	+	434	71065242	-	Psyc_0676	-	COG3705E	ATP phosphoribosyltransferase
+804274..805563	+	429	71065243	purA	Psyc_0677	-	COG0104F	adenylosuccinate synthetase
+805877..806308	+	143	71065244	ndk	Psyc_0678	-	COG0105F	nucleoside diphosphate kinase
+806786..808015	+	409	71065245	-	Psyc_0679	-	COG0820R	hypothetical protein
+808500..809447	+	315	71065246	pilF	Psyc_0680	-	COG3063NU	type 4 fimbrial biogenesis protein
+809438..810259	+	273	71065247	-	Psyc_0681	-	COG1426S	hypothetical protein
+810359..811474	+	371	71065248	ispG	Psyc_0682	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+811539..812867	+	442	71065249	hisS	Psyc_0683	-	COG0124J	histidyl-tRNA synthetase
+812919..813713	+	264	71065250	-	Psyc_0684	-	COG2976S	hypothetical protein
+813968..815131	+	387	71065251	-	Psyc_0685	-	COG1520S	hypothetical protein
+815568..816989	+	473	71065252	engA	Psyc_0686	-	COG1160R	GTP-binding protein EngA
+817287..818453	-	388	71065253	dacC	Psyc_0687	-	COG1686M	penicillin-binding protein 6
+818950..819387	-	145	71065254	-	Psyc_0688	-	-	hypothetical protein
+819884..820171	+	95	71065255	-	Psyc_0689	-	COG0496R	hypothetical protein
+820256..821074	+	272	71065256	-	Psyc_0690	-	COG0739M	hypothetical protein
+821152..822456	+	434	71065257	-	Psyc_0691	-	COG2951M	membrane-bound lytic murein transglycosylase
+822617..823477	-	286	71065258	-	Psyc_0692	-	COG2908S	UDP-2,3-diacylglucosamine hydrolase
+823547..824062	-	171	71065259	ppiB	Psyc_0693	-	COG0652O	cyclophilin type peptidyl-prolyl cis-trans isomerase
+824421..826160	+	579	71065260	glnS	Psyc_0694	-	COG0008J	glutaminyl-tRNA synthetase
+826438..827184	+	248	71065261	-	Psyc_0695	-	COG1502I	hypothetical protein
+827474..828112	+	212	71065262	-	Psyc_0696	-	COG0450O	1-Cys peroxiredoxin
+828401..829063	+	220	71065263	-	Psyc_0697	-	COG0625O	glutathione S-transferase
+829537..830436	+	299	71065264	-	Psyc_0698	-	COG3187O	hypothetical protein
+830680..831264	-	194	71065265	ruvC	Psyc_0699	-	COG0817L	Holliday junction resolvase
+831417..832034	+	205	71065266	yjeG	Psyc_0700	-	COG3030R	inner membrane protein FxsA
+832603..834261	+	552	71065267	pgm	Psyc_0701	-	COG0696G	phosphoglyceromutase
+834959..836263	+	434	71065268	-	Psyc_0702	-	COG0793M	hypothetical protein
+836624..837259	-	211	71065269	-	Psyc_0703	-	COG2197TK	LuxR family transcriptional regulator
+837666..838757	+	363	71065270	-	Psyc_0704	-	COG1686M	murein-DD-endopeptidase
+838875..839585	+	236	71065271	thiE	Psyc_0705	-	COG0352H	thiamine monophosphate synthase
+839849..841051	+	400	71065272	pgk	Psyc_0706	-	COG0126G	phosphoglycerate kinase
+841312..841611	+	99	71065273	-	Psyc_0707	-	-	hypothetical protein
+842052..843089	+	345	71065274	fba	Psyc_0708	-	COG0191G	fructose-1,6-bisphosphate aldolase
+843168..843791	+	207	71065275	ruvA	Psyc_0709	-	COG0632L	Holliday junction DNA helicase RuvA
+843964..844959	+	331	71065276	ruvB	Psyc_0710	-	COG2255L	Holliday junction DNA helicase RuvB
+845085..846746	-	553	71065277	-	Psyc_0711	-	COG0661R	2-octaprenylphenol hydroxylase
+846804..847499	-	231	71065278	-	Psyc_0712	-	COG3165S	hypothetical protein
+847749..848873	-	374	71065279	ubiE	Psyc_0713	-	COG2226H	2-octaprenyl-6-methoxy-1,4-benzoquinone methylase
+848955..849665	-	236	71065280	-	Psyc_0714	-	-	hypothetical protein
+849949..851604	+	551	71065281	-	Psyc_0715	-	COG2326S	polyphosphate:AMP phosphotransferase
+851996..853603	+	535	71065282	-	Psyc_0716	-	COG0306P	inorganic phosphate transporter
+853728..855368	-	546	71065283	-	Psyc_0717	-	COG0436E	bifunctional HTH-domain containing protein/aminotransferase
+855959..856384	+	141	71065284	-	Psyc_0718	-	COG0229O	hypothetical protein
+857655..860012	+	785	71065285	-	Psyc_0719	-	COG4191T	Signal transduction histidine kinase sensor
+860046..860984	+	312	71065286	-	Psyc_0720	-	COG2204T	Fis family transcriptional regulator
+861448..861783	+	111	71065287	-	Psyc_0721	-	-	hypothetical protein
+865068..867113	-	681	71065288	-	Psyc_0727	-	COG1292M	BCCT family choline/carnitine/betaine transporter
+867331..869031	-	566	71065289	betA	Psyc_0728	-	COG2303E	choline dehydrogenase
+869114..870616	-	500	71065290	betB	Psyc_0729	-	COG1012C	betaine aldehyde dehydrogenase
+870804..871367	-	187	71065291	-	Psyc_0730	-	COG1309K	TetR family transcriptional regulator
+871371..871715	-	114	71065292	-	Psyc_0731	-	COG2076P	small multidrug efflux pump
+873083..873598	-	171	71065293	-	Psyc_0732	-	-	hypothetical protein
+873984..875810	+	608	71065294	recJ	Psyc_0733	-	COG0608L	exonuclease RecJ
+875841..876503	-	220	71065295	-	Psyc_0734	-	COG2860S	hypothetical protein
+876785..877876	-	363	71065296	-	Psyc_0735	-	-	hypothetical protein
+878072..878806	-	244	71065297	-	Psyc_0736	-	COG0602O	radical activating enzyme
+879028..879849	-	273	71065298	dapD	Psyc_0737	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+879961..880893	-	310	71065299	-	Psyc_0738	-	COG2267I	lysophospholipase
+881704..883416	+	570	71065300	-	Psyc_0739	-	COG2907R	hypothetical protein
+883454..884491	+	345	71065301	-	Psyc_0740	-	COG3496S	hypothetical protein
+884571..885935	+	454	71065302	cfa	Psyc_0741	-	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+885973..886383	+	136	71065303	-	Psyc_0742	-	COG4852S	hypothetical protein
+886489..887052	+	187	71065304	-	Psyc_0743	-	COG1607I	acyl-CoA thioester hydrolase
+887460..889571	+	703	71065305	uvrB	Psyc_0744	-	COG0556L	excinuclease ABC subunit B
+889885..890271	-	128	71065306	-	Psyc_0745	-	-	hypothetical protein
+891023..892057	+	344	71065307	-	Psyc_0746	-	COG2358R	TRAP-T family transporter periplasmic substrate binding subunit
+892128..892595	+	155	71065308	-	Psyc_0747	-	COG4729S	hypothetical protein
+892567..894651	+	694	71065309	-	Psyc_0748	-	COG4666R	TRAP-T family transporter fused inner membrane subunits
+894786..895829	-	347	71065310	lipA	Psyc_0749	-	COG0320H	lipoyl synthase
+895992..896441	-	149	71065311	-	Psyc_0750	-	COG0599S	carboxymuconolactone decarboxylase
+897067..899670	+	867	71065312	acnB	Psyc_0751	-	COG1049C	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+900837..901634	-	265	71065313	-	Psyc_0753	-	COG1024I	enoyl-CoA hydratase
+901683..901910	+	75	71065314	-	Psyc_0754	-	-	hypothetical protein
+901935..903077	-	380	71065315	-	Psyc_0755	-	COG2301G	hypothetical protein
+903074..904267	-	397	71065316	-	Psyc_0756	-	-	hypothetical protein
+904330..905139	-	269	71065317	-	Psyc_0757	-	COG0561R	hypothetical protein
+905500..906771	-	423	71065318	-	Psyc_0758	-	-	hypothetical protein
+906907..908082	-	391	71065319	-	Psyc_0759	-	COG0151F	hypothetical protein
+908547..909806	+	419	71065320	terA	Psyc_0760	-	COG4110R	tellurium resistance protein
+910065..910673	-	202	71065321	-	Psyc_0761	-	COG2310T	tellurium resitance protein TerZ
+910708..911460	-	250	71065322	-	Psyc_0762	-	COG2013S	hypothetical protein
+911675..912250	-	191	71065323	-	Psyc_0763	-	COG2310T	tellurium resistance TerD
+912863..913930	-	355	71065324	-	Psyc_0764	-	COG2899S	hypothetical protein
+914192..914767	-	191	71065325	-	Psyc_0765	-	COG2310T	tellurium resistance protein
+915171..917477	-	768	71065326	rlmL	Psyc_0766	-	COG0116L	23S rRNA m(2)G2445 methyltransferase
+917799..919004	-	401	71065327	-	Psyc_0767	-	COG0668M	small-conductance mechanosensitive ion channel
+919073..920608	-	511	71065328	-	Psyc_0768	-	COG1249C	dihydrolipoamide dehydrogenase
+920662..921162	-	166	71065329	-	Psyc_0769	-	COG1225O	peroxiredoxin
+921321..921650	-	109	71065330	-	Psyc_0770	-	-	hypothetical protein
+921923..922780	-	285	71065331	exsB	Psyc_0771	-	COG0603R	exoenzyme S synthesis protein B
+923085..924230	+	381	71065332	-	Psyc_0772	-	COG0037D	C32 tRNA thiolase
+924331..924912	-	193	71065333	-	Psyc_0773	-	COG3198S	hypothetical protein
+925059..926468	-	469	71065334	-	Psyc_0774	-	COG0348C	hypothetical protein
+927020..928144	-	374	71065335	-	Psyc_0775	-	COG2010C	cytochrome c oxidase cbb3-type subunit III
+928144..928323	-	59	71065336	-	Psyc_0776	-	COG4736O	cytochrome C, oxidase component
+928323..928961	-	212	71065337	-	Psyc_0777	-	COG2993C	cbb3-type cytochrome c oxidase subunit II
+928971..930452	-	493	71065338	-	Psyc_0778	-	COG3278O	cbb3-type cytochrome c oxidase subunit I
+931329..931718	+	129	71065339	-	Psyc_0779	-	-	hypothetical protein
+931838..932806	-	322	71065340	-	Psyc_0780	-	-	hypothetical protein
+933257..934492	+	411	71065341	lolE	Psyc_0781	-	COG4591M	lipoprotein ABC transporter inner membrane protein LolE
+934537..935217	+	226	71065342	lolD	Psyc_0782	-	COG1136V	lipoprotein ABC transporter ATPase LolD
+935277..935585	+	102	71065343	-	Psyc_0783	-	-	hypothetical protein
+935595..936188	-	197	71065344	-	Psyc_0784	-	COG3216S	hypothetical protein
+936587..939547	+	986	71065345	-	Psyc_0785	-	COG0658R	competence protein, ComEC
+939936..940991	+	351	71065346	sppA	Psyc_0786	-	COG0616OU	signal peptide peptidase
+941117..942007	+	296	71065347	-	Psyc_0787	-	COG0596R	hydrolase
+942107..942904	+	265	71065348	-	Psyc_0788	-	-	hypothetical protein
+942973..943944	-	323	71065349	-	Psyc_0789	-	COG0042J	tRNA-dihydrouridine synthase A
+944232..945533	-	433	71065350	-	Psyc_0790	-	COG2814G	major facilitator transporter
+945739..947451	-	570	71065351	-	Psyc_0791	-	COG1502I	phospholipase D
+947894..949168	+	424	71065352	metZ	Psyc_0792	-	COG0626E	cystathionine gamma-synthase
+949252..949581	+	109	71065353	-	Psyc_0793	-	COG0718S	hypothetical protein
+949693..950286	+	197	71065354	recR	Psyc_0794	-	COG0353L	recombination protein RecR
+950427..951725	+	432	71065355	rnd	Psyc_0795	-	COG0349J	ribonuclease D
+952044..954941	-	965	71065356	gcvP	Psyc_0796	-	COG1003E	glycine dehydrogenase
+955005..955817	-	270	71065357	-	Psyc_0797	-	COG0778C	nitroreductase family protein
+956080..956460	-	126	71065358	gcvH	Psyc_0798	-	COG0509E	glycine cleavage system protein H
+956527..957699	-	390	71065359	gcvT	Psyc_0799	-	COG0404E	glycine cleavage system aminomethyltransferase T
+958574..958897	+	107	71065360	-	Psyc_0800	-	COG3100S	hypothetical protein
+959112..959699	+	195	71065361	-	Psyc_0801	-	-	hypothetical protein
+960079..960933	+	284	71065362	-	Psyc_0802	-	COG0714R	ATPase AAA
+961011..962234	+	407	71065363	-	Psyc_0803	-	COG3825S	hypothetical protein
+962616..963443	-	275	71065364	-	Psyc_0804	-	COG1414K	IclR family transcriptional regulator
+963619..964803	+	394	71065365	gcdH	Psyc_0805	-	COG1960I	glutaryl-CoA dehydrogenase
+965018..966289	+	423	71065366	-	Psyc_0806	-	COG1804C	L-carnitine dehydratase
+966522..967280	-	252	71065367	-	Psyc_0807	-	COG1414K	IclR family transcriptional regulator
+967710..969176	+	488	71065368	-	Psyc_0808	-	COG1012C	succinate semialdehyde dehydrogenase
+969323..970582	+	419	71065369	gabT	Psyc_0809	-	COG0160E	4-aminobutyrate aminotransferase
+970850..972292	+	480	71065370	-	Psyc_0810	-	COG0531E	amino acid transporter
+972553..973782	-	409	71065371	-	Psyc_0811	-	COG0438M	glycosyl transferase family protein
+974138..975106	-	322	71065372	-	Psyc_0812	-	-	hypothetical protein
+975447..975923	-	158	71065373	greA	Psyc_0813	-	COG0782K	transcription elongation factor GreA
+976262..979516	-	1084	71065374	carB	Psyc_0814	-	COG0458EF	carbamoyl-phosphate synthase large subunit
+979715..980947	-	410	71065375	carA	Psyc_0815	-	COG0505EF	carbamoyl phosphate synthase small subunit
+981334..981903	-	189	71065376	-	Psyc_0816	-	COG0671I	membrane-associated phospholipid phosphatase
+982318..982854	+	178	71065377	-	Psyc_0817	-	COG0663R	transferase
+982916..983632	+	238	71065378	-	Psyc_0818	-	COG0560E	hypothetical protein
+983773..984822	+	349	71065379	prfB	Psyc_0819	-	COG1186J	peptide chain release factor 2
+984892..985176	+	94	71065380	-	Psyc_0820	-	COG3123S	hypothetical protein
+985662..987371	+	569	71065381	-	Psyc_0821	-	COG0365I	acetyl-CoA synthetase
+987439..988218	+	259	71065382	-	Psyc_0822	-	COG1028IQR	3-hydroxyacyl-CoA dehydrogenase
+988604..991201	+	865	71065383	clpB	Psyc_0823	-	COG0542O	chaperonin clpA/B
+991514..991642	+	42	71065384	-	Psyc_0824	-	-	hypothetical protein
+991614..991931	+	105	71065385	-	Psyc_0825	-	COG2133G	hypothetical protein
+992104..993756	+	550	71065386	-	Psyc_0826	-	COG1292M	BCCT family choline/carnitine/betaine transporter
+993913..994269	-	118	71065387	-	Psyc_0827	-	-	hypothetical protein
+994366..995532	-	388	71065388	metK	Psyc_0828	-	COG0192H	S-adenosylmethionine synthetase
+996160..996855	-	231	71065389	nth	Psyc_0829	-	COG0177L	DNA-(apurinic or apyrimidinic site) lyase / endonuclease III
+996897..997739	-	280	71065390	-	Psyc_0830	-	COG2878C	RnfABCDGE type electron transport complex subunit B
+997970..999046	-	358	71065391	-	Psyc_0831	-	COG2816L	NUDIX hydrolase
+999127..1000824	-	565	71065392	-	Psyc_0832	-	-	hypothetical protein
+1000960..1002543	-	527	71065393	-	Psyc_0833	-	COG0328L	bifunctional ribonuclease HI/DNA polymerase III, epsilon subunit
+1002958..1003515	+	185	71065394	-	Psyc_0834	-	-	hypothetical protein
+1003620..1003925	+	101	71065395	-	Psyc_0835	-	-	hypothetical protein
+1004072..1004575	-	167	71065396	-	Psyc_0836	-	COG3339S	hypothetical protein
+1004691..1005935	+	414	71065397	-	Psyc_0837	-	COG1619V	hypothetical protein
+1006137..1006550	+	137	71065398	-	Psyc_0838	-	COG1186J	class I peptide chain release factor
+1006765..1007964	-	399	71065399	sotB	Psyc_0839	-	COG2814G	sugar efflux transporter
+1008223..1008915	+	230	71065400	chrR	Psyc_0840	-	COG3806T	anti-sigma factor, ChrR
+1008905..1010041	+	378	71065401	-	Psyc_0841	-	COG1231E	monoamine oxidase
+1010532..1011188	+	218	71065402	-	Psyc_0842	-	COG0625O	glutathione S-transferase
+1011764..1012444	+	226	71065403	-	Psyc_0843	-	-	hypothetical protein
+1012723..1013457	+	244	71065404	-	Psyc_0844	-	-	hypothetical protein
+1013745..1014755	+	336	71065405	-	Psyc_0845	-	-	hypothetical protein
+1014823..1015860	+	345	71065406	metE	Psyc_0846	-	COG0620E	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1016059..1016574	+	171	71065407	-	Psyc_0847	-	COG1853R	flavin reductase
+1016772..1017596	+	274	71065408	-	Psyc_0848	-	COG0730R	transmembrane protein
+1017662..1018411	-	249	71065409	-	Psyc_0849	-	COG2801L	transposase OrfB
+1018483..1018749	-	88	71065410	-	Psyc_0850	-	-	IS3 family transposase
+1018864..1019277	-	137	71065411	-	Psyc_0851	-	COG2050Q	thioesterase
+1019438..1020337	-	299	71065412	-	Psyc_0852	-	COG3386G	gluconolactonase
+1020389..1021552	-	387	71065413	-	Psyc_0853	-	COG1454C	iron-containing alcohol dehydrogenase
+1021941..1022993	+	350	71065414	-	Psyc_0854	-	COG1638G	TRAP family periplasmic substrate binding subunit
+1023566..1024564	+	332	71065415	-	Psyc_0855	-	COG1187J	23S rRNA pseudouridine synthase F
+1024632..1024847	-	71	71065416	-	Psyc_0856	-	-	hypothetical protein
+1024993..1025271	+	92	71065417	-	Psyc_0857	-	COG0760O	peptidyl-prolyl isomerase
+1025921..1027591	+	556	71065418	pdc	Psyc_0858	-	COG3961GHR	pyruvate decarboxylase
+1028108..1028854	-	248	71065419	-	Psyc_0859	-	-	hypothetical protein
+1029827..1030516	+	229	71065420	-	Psyc_0860	-	-	hypothetical protein
+1030628..1030963	+	111	71065421	-	Psyc_0861	-	-	hypothetical protein
+1031025..1031432	+	135	71065422	-	Psyc_0862	-	-	hypothetical protein
+1031429..1032238	-	269	71065423	-	Psyc_0863	-	COG2801L	transposase orfAB
+1032301..1032612	-	103	71065424	-	Psyc_0864	-	COG2963L	IS1329/IS3/IS911 transposase
+1032690..1033049	+	119	71065425	-	Psyc_0865	-	-	hypothetical protein
+1033154..1034278	+	374	71065426	-	Psyc_0866	-	COG5377L	hypothetical protein
+1034413..1035324	+	303	71065427	-	Psyc_0867	-	-	hypothetical protein
+1035457..1035738	+	93	71065428	alpA	Psyc_0868	-	COG3311K	prophage regulatory protein AlpA
+1036105..1037163	+	352	71065429	-	Psyc_0869	-	COG0464O	ATPase AAA
+1037208..1038503	+	431	71065430	-	Psyc_0870	-	-	hypothetical protein
+1038503..1040275	+	590	71065431	-	Psyc_0871	-	-	hypothetical protein
+1040288..1040923	+	211	71065432	motB	Psyc_0872	-	COG1360N	OmpA/MotB protein
+1040928..1041116	+	62	71065433	-	Psyc_0873	-	-	hypothetical protein
+1041266..1041745	+	159	71065434	-	Psyc_0874	-	-	hypothetical protein
+1041746..1042309	+	187	71065435	-	Psyc_0875	-	-	hypothetical protein
+1042466..1043458	-	330	71065436	-	Psyc_0876	-	-	hypothetical protein
+1044227..1045816	+	529	71065437	hsdM-1	Psyc_0877	-	COG0286V	type I restriction-modification system, M subunit
+1045806..1047080	+	424	71065438	-	Psyc_0878	-	COG0732V	type I restriction modification system methylase
+1047081..1048073	+	330	71065439	-	Psyc_0879	-	COG3943R	death-on-curing family protein
+1048137..1048988	+	283	71065440	-	Psyc_0880	-	-	hypothetical protein
+1049066..1052248	+	1060	71065441	-	Psyc_0881	-	COG0610V	type I site specific deoxyribonuclease HsdR
+1052899..1054404	+	501	71065442	yihD	Psyc_0882	-	-	hypothetical protein
+1054428..1056491	+	687	71065443	-	Psyc_0883	-	-	hypothetical protein
+1056504..1057196	+	230	71065444	-	Psyc_0884	-	-	hypothetical protein
+1057616..1058830	-	404	71065445	-	Psyc_0885	-	COG3328L	transposase mutator family protein
+1058936..1060300	-	454	71065446	-	Psyc_0886	-	COG0582L	phage integrase
+1060690..1061463	-	257	71065447	-	Psyc_0887	-	COG1018C	NAD(P)/FAD ferrodoxin
+1061879..1062721	+	280	71065448	-	Psyc_0888	-	COG1720S	hypothetical protein
+1062776..1064563	+	595	71065449	-	Psyc_0889	-	COG2804NU	type II secretion system protein
+1064656..1065465	+	269	71065450	tatD	Psyc_0890	-	COG0084L	TatD family Mg-dependent DNase
+1065699..1066382	+	227	71065451	-	Psyc_0891	-	COG1309K	TetR family transcriptional regulator
+1066746..1067426	-	226	71065452	-	Psyc_0892	-	COG1309K	hypothetical protein
+1067519..1068952	-	477	71065453	dgt	Psyc_0893	-	COG0232F	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+1069235..1070326	-	363	71065454	-	Psyc_0894	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+1070715..1071461	-	248	71065455	-	Psyc_0895	-	-	hypothetical protein
+1071572..1071994	-	140	71065456	-	Psyc_0896	-	-	hypothetical protein
+1072587..1073732	+	381	71065457	-	Psyc_0897	-	COG2814G	MFS drug efflux pump
+1073986..1075656	+	556	71065458	-	Psyc_0898	-	COG0318IQ	AMP-dependent synthetase and ligase family protein
+1075851..1077896	+	681	71065459	prpE	Psyc_0899	-	COG0365I	propionyl-CoA synthetase
+1078181..1079665	+	494	71065460	mmsA	Psyc_0900	-	COG1012C	methylmalonate-semialdehyde dehydrogenase
+1079865..1081025	+	386	71065461	-	Psyc_0901	-	COG1960I	acyl-CoA dehydrogenase
+1081071..1081853	+	260	71065462	-	Psyc_0902	-	COG1024I	enoyl-CoA hydratase
+1081935..1083176	+	413	71065463	-	Psyc_0903	-	COG1024I	enoyl-CoA hydratase
+1083288..1084253	+	321	71065464	mmsB	Psyc_0904	-	COG2084I	3-hydroxyisobutyrate dehydrogenase
+1084339..1085097	-	252	71065465	-	Psyc_0905	-	COG1414K	IclR family transcriptional regulator
+1085743..1086567	+	274	71065466	-	Psyc_0906	-	-	hypothetical protein
+1086696..1087400	-	234	71065467	-	Psyc_0907	-	COG2091H	phosphopantethiene-protein transferase domain-contain protein
+1087658..1088176	-	172	71065468	-	Psyc_0908	-	COG2885M	OmpA/MotB family outer membrane protein
+1088686..1091334	+	882	71065469	pepN	Psyc_0909	-	COG0308E	aminopeptidase
+1091446..1092528	-	360	71065470	aroF	Psyc_0910	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+1092893..1094194	+	433	71065471	lpxB	Psyc_0911	-	COG0763M	lipid-A-disaccharide synthase
+1094240..1095103	+	287	71065472	-	Psyc_0912	-	COG0164L	ribonuclease HII
+1095255..1096508	+	417	71065473	-	Psyc_0913	-	COG0019E	pyridoxal-dependent decarboxylase
+1096786..1098060	+	424	71065474	-	Psyc_0914	-	COG1748E	saccharopine dehydrogenase family protein
+1098181..1098993	+	270	71065475	-	Psyc_0915	-	COG0384R	PhzF family phenazine biosynthesis protein
+1098997..1099329	+	110	71065476	-	Psyc_0916	-	COG1742S	hypothetical protein
+1099786..1100391	+	201	71065477	-	Psyc_0917	-	COG0720H	hypothetical protein
+1100391..1100918	+	175	71065478	-	Psyc_0918	-	COG0802R	hypothetical protein
+1100965..1102716	+	583	71065479	mutL	Psyc_0919	-	COG0323L	DNA mismatch repair protein MutL
+1102782..1104041	+	419	71065480	miaA	Psyc_0920	-	COG0324J	tRNA delta-2-isopentenylpyrophosphate transferase
+1104622..1105173	+	183	71065481	-	Psyc_0921	-	COG1923R	RNA-binding protein Hfq
+1105463..1106455	+	330	71065482	kpsF	Psyc_0922	-	COG0794M	sugar isomerase
+1106495..1107061	+	188	71065483	-	Psyc_0923	-	COG1778R	phosphatase
+1107058..1107642	+	194	71065484	-	Psyc_0924	-	COG3117S	hypothetical protein
+1107718..1108287	+	189	71065485	-	Psyc_0925	-	COG1934S	OstA-like protein
+1108392..1109189	+	265	71065486	-	Psyc_0926	-	COG1137R	ABC transporter ATPase
+1109596..1111044	+	482	71065487	radA	Psyc_0927	-	COG1066O	DNA repair protein RadA
+1111229..1111849	-	206	71065488	-	Psyc_0928	-	COG0797M	lipoprotein
+1112910..1114052	-	380	71065489	rodA	Psyc_0929	-	COG0772D	rod shape determining protein
+1114315..1115244	+	309	71065490	-	Psyc_0930	-	COG3108S	hypothetical protein
+1115468..1117054	-	528	71065491	-	Psyc_0931	-	COG0612R	insulinase-like peptidase
+1117258..1118727	-	489	71065492	-	Psyc_0932	-	COG0612R	insulinase-like peptidase
+1119138..1120019	+	293	71065493	-	Psyc_0933	-	-	IS4 family transposase
+1120374..1121810	+	478	71065494	ftsY	Psyc_0934	-	COG0552U	signal recognition particle-docking protein FtsY
+1121876..1122448	+	190	71065495	-	Psyc_0935	-	COG0350L	methylated-DNA--protein-cysteine methyltransferase
+1122572..1122952	+	126	71065496	-	Psyc_0936	-	-	transposase orfA
+1123087..1123791	+	234	71065497	-	Psyc_0937	-	COG2801L	transposase OrfB
+1123872..1124621	-	249	71065498	-	Psyc_0938	-	COG0217S	hypothetical protein
+1124978..1125808	+	276	71065499	-	Psyc_0939	-	COG1226P	VIC family potassium channel protein
+1125868..1127169	-	433	71065500	-	Psyc_0940	-	COG0661R	hypothetical protein
+1127348..1127884	-	178	71065501	aroQ	Psyc_0941	-	COG0757E	3-dehydroquinate dehydratase
+1128371..1128586	+	71	71065502	capB	Psyc_0942	-	COG1278K	cold-shock DNA-binding protein family protein
+1128808..1129998	+	396	71065503	rhlB	Psyc_0943	-	COG0513LKJ	ATP-dependent RNA helicase
+1130049..1130930	-	293	71065504	-	Psyc_0944	-	-	IS4 family transposase
+1131278..1132096	-	272	71065505	-	Psyc_0945	-	COG2836S	hypothetical protein
+1132194..1132496	-	100	71065506	-	Psyc_0946	-	COG3197P	hypothetical protein
+1132623..1133420	-	265	71065507	-	Psyc_0947	-	COG1434S	hypothetical protein
+1133386..1134507	-	373	71065508	murB	Psyc_0948	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+1134613..1135107	-	164	71065509	-	Psyc_0949	-	COG0394T	low molecular weight phosphotyrosine protein phosphatase
+1135339..1135779	-	146	71065510	-	Psyc_0950	-	COG1188J	heat shock RNA-binding protein
+1136091..1137644	-	517	71065511	ilvA	Psyc_0951	-	COG1171E	threonine dehydratase
+1137936..1138310	+	124	71065512	-	Psyc_0952	-	COG0640K	ArsR family transcriptional regulator
+1138370..1138780	+	136	71065513	-	Psyc_0953	-	COG1393P	arsenate reductase
+1138764..1139555	+	263	71065514	arsH	Psyc_0954	-	COG0431R	NADPH-dependent FMN reductase
+1139785..1141089	+	434	71065515	arsB	Psyc_0955	-	COG1055P	arsenite-antimonite efflux pump ArsB
+1141236..1141895	+	219	71065516	rpiA	Psyc_0956	-	COG0120G	ribose-5-phosphate isomerase A
+1142154..1143077	-	307	71065517	argF	Psyc_0957	-	COG0078E	ornithine carbamoyltransferase
+1143289..1144395	-	368	71065518	alr	Psyc_0958	-	COG0787M	alanine racemase
+1144536..1145939	-	467	71065519	dnaB	Psyc_0959	-	COG0305L	primary replicative DNA helicase
+1146400..1147497	+	365	71065520	pdxA	Psyc_0960	-	COG1995H	pyridoxal phosphate biosynthetic protein
+1147667..1148530	+	287	71065521	ksgA	Psyc_0961	-	COG0030J	dimethyladenosine transferase
+1148674..1149516	+	280	71065522	apaH	Psyc_0962	-	-	diadenosine tetraphosphatase
+1149562..1152042	-	826	71065523	-	Psyc_0963	-	COG4389L	site-specific recombinase
+1152380..1154164	-	594	71065524	-	Psyc_0964	-	COG1960I	acyl-CoA dehydrogenase
+1154635..1156428	-	597	71065525	-	Psyc_0965	-	COG1960I	acyl-CoA dehydrogenase
+1157154..1158038	-	294	71065526	-	Psyc_0966	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+1158310..1159155	-	281	71065527	metF	Psyc_0967	-	COG0685E	methylenetetrahydrofolate reductase
+1159169..1160593	-	474	71065528	ahcY	Psyc_0968	-	COG0499H	S-adenosyl-L-homocysteine hydrolase
+1160914..1162851	-	645	71065529	btuB	Psyc_0969	-	COG4206H	outer membrane receptor for transport of vitamin B
+1163157..1165109	+	650	71065530	-	Psyc_0970	-	COG0668M	small-conductance mechanosensitive ion channel
+1165307..1166038	-	243	71065531	-	Psyc_0971	-	COG2840S	hypothetical protein
+1166151..1167038	-	295	71065532	trpC	Psyc_0972	-	COG0134E	indole-3-glycerol phosphate synthase
+1167326..1168465	-	379	71065533	trpD	Psyc_0973	-	COG0547E	anthranilate phosphoribosyltransferase
+1168511..1169134	-	207	71065534	trpG	Psyc_0974	-	COG0512EH	anthranilate synthase component II
+1169917..1171326	+	469	71065535	glnA	Psyc_0975	-	COG0174E	L-glutamine synthetase
+1171657..1172475	+	272	71065536	-	Psyc_0976	-	-	hypothetical protein
+1172655..1173371	-	238	71065537	-	Psyc_0977	-	COG3471S	hypothetical protein
+1174208..1174477	-	89	71065538	-	Psyc_0978	-	-	hypothetical protein
+1174464..1175015	-	183	71065539	-	Psyc_0979	-	-	hypothetical protein
+1175124..1176590	-	488	71065540	-	Psyc_0980	-	COG0270L	C-5 cytosine-specific DNA methylase
+1176639..1177685	-	348	71065541	-	Psyc_0981	-	-	hypothetical protein
+1177957..1178973	-	338	71065542	-	Psyc_0982	-	COG5377L	hypothetical protein
+1178976..1179266	-	96	71065543	-	Psyc_0983	-	-	hypothetical protein
+1179272..1179640	-	122	71065544	-	Psyc_0984	-	-	hypothetical protein
+1180570..1180917	+	115	71065545	-	Psyc_0985	-	COG3620K	DNA binding protein
+1180939..1181484	+	181	71065546	-	Psyc_0986	-	COG2856E	neutral zinc metallopeptidase
+1181960..1182868	-	302	71065547	-	Psyc_0987	-	-	hypothetical protein
+1182865..1183734	-	289	71065548	-	Psyc_0988	-	-	hypothetical protein
+1184381..1185100	-	239	71065549	-	Psyc_0989	-	COG1974KT	S24 family peptidase
+1185207..1185449	+	80	71065550	-	Psyc_0990	-	-	hypothetical protein
+1185452..1185841	+	129	71065551	-	Psyc_0991	-	-	hypothetical protein
+1186219..1187163	+	314	71065552	-	Psyc_0992	-	-	hypothetical protein
+1187192..1187710	+	172	71065553	-	Psyc_0993	-	-	hypothetical protein
+1187937..1188281	+	114	71065554	-	Psyc_0994	-	-	hypothetical protein
+1188334..1188903	+	189	71065555	-	Psyc_0995	-	-	hypothetical protein
+1188974..1189789	+	271	71065556	-	Psyc_0996	-	COG4783R	hypothetical protein
+1189792..1190223	+	143	71065557	-	Psyc_0997	-	-	hypothetical protein
+1191327..1191887	-	186	71065558	-	Psyc_0998	-	-	hypothetical protein
+1191891..1192469	+	192	71065559	-	Psyc_0999	-	-	transposase
+1192502..1192975	+	157	71065560	-	Psyc_1000	-	COG5556S	phage protein
+1192956..1194221	+	421	71065561	-	Psyc_1001	-	COG1783R	PBSX family phage terminase large subunit
+1194218..1195735	+	505	71065562	-	Psyc_1002	-	COG4383S	Mu-like prophage protein
+1195738..1196535	+	265	71065563	-	Psyc_1003	-	COG2369S	phagehead morphogenesis protein, SPP1 gp7
+1197089..1198297	+	402	71065564	-	Psyc_1004	-	COG0616OU	serine peptidase
+1198297..1198674	+	125	71065565	-	Psyc_1005	-	-	hypothetical protein
+1198686..1199780	+	364	71065566	-	Psyc_1006	-	-	hypothetical protein
+1199836..1200120	+	94	71065567	-	Psyc_1007	-	-	hypothetical protein
+1200124..1200561	+	145	71065568	-	Psyc_1008	-	COG4387S	prophage protein gp36
+1200578..1200994	+	138	71065569	-	Psyc_1009	-	COG5005R	bacteriophage ( tail completion) protein
+1200991..1201416	+	141	71065570	-	Psyc_1010	-	-	hypothetical protein
+1201429..1202175	+	248	71065571	-	Psyc_1011	-	-	hypothetical protein
+1202316..1202651	+	111	71065572	-	Psyc_1012	-	-	hypothetical protein
+1202648..1203022	+	124	71065573	-	Psyc_1013	-	-	hypothetical protein
+1203019..1204227	+	402	71065574	-	Psyc_1014	-	-	hypothetical protein
+1204229..1204480	+	83	71065575	-	Psyc_1015	-	-	hypothetical protein
+1204483..1204875	+	130	71065576	-	Psyc_1016	-	-	hypothetical protein
+1204939..1205370	+	143	71065577	-	Psyc_1017	-	-	hypothetical protein
+1206017..1209571	+	1184	71065578	-	Psyc_1018	-	-	hypothetical protein
+1209575..1210843	+	422	71065579	-	Psyc_1019	-	-	hypothetical protein
+1210848..1211219	+	123	71065580	-	Psyc_1020	-	-	hypothetical protein
+1211216..1211560	+	114	71065581	-	Psyc_1021	-	-	hypothetical protein
+1211570..1213483	+	637	71065582	-	Psyc_1022	-	-	hypothetical protein
+1213486..1213716	+	76	71065583	-	Psyc_1023	-	-	hypothetical protein
+1213713..1214147	+	144	71065584	-	Psyc_1024	-	-	hypothetical protein
+1214150..1214284	+	44	71065585	-	Psyc_1025	-	-	hypothetical protein
+1214344..1214946	+	200	71065586	-	Psyc_1026	-	-	hypothetical protein
+1215071..1215439	-	122	71065587	-	Psyc_1027	-	-	hypothetical protein
+1215620..1216393	+	257	71065588	-	Psyc_1028	-	-	hypothetical protein
+1216469..1216780	+	103	71065589	-	Psyc_1029	-	-	hypothetical protein
+1216850..1220698	+	1282	71065590	-	Psyc_1030	-	COG5281S	bacteriophage tail tape meausure protein
+1220746..1221138	+	130	71065591	-	Psyc_1031	-	-	hypothetical protein
+1221190..1221807	+	205	71065592	-	Psyc_1032	-	COG3772R	bacteriophage lysozyme
+1221804..1222274	+	156	71065593	-	Psyc_1033	-	-	hypothetical protein
+1222376..1223710	-	444	71065594	-	Psyc_1034	-	COG0582L	phage integrase
+1224328..1225233	+	301	71065595	-	Psyc_1035	-	-	hypothetical protein
+1225386..1226507	+	373	71065596	serC	Psyc_1036	-	COG1932HE	phosphoserine aminotransferase
+1226757..1228589	+	610	71065597	-	Psyc_1037	-	COG4166E	peptide ABC transporter periplasmic solute-binding protein
+1228674..1229453	+	259	71065598	-	Psyc_1038	-	COG0491R	hydroxyacylglutathione hydrolase
+1229532..1230599	+	355	71065599	-	Psyc_1039	-	COG4174R	peptide ABC transporter inner membrane protein
+1230599..1231681	+	360	71065600	-	Psyc_1040	-	COG4239R	peptide ABC transporter inner membrane protein
+1231683..1233380	+	565	71065601	-	Psyc_1041	-	COG4172R	peptide ABC transporter ATPase
+1233479..1234804	+	441	71065602	-	Psyc_1042	-	COG1454C	iron-containing alcohol dehydrogenase
+1234922..1236172	+	416	71065603	-	Psyc_1043	-	COG0225O	bifunctional methionine sulfoxide reductase A/B
+1236323..1236934	-	203	71065604	folE2	Psyc_1044	-	COG0302H	GTP cyclohydrolase
+1237282..1238088	+	268	71065605	fabI	Psyc_1045	-	COG0623I	enoyl-ACP reductase
+1238200..1238895	+	231	71065606	-	Psyc_1046	-	COG3619S	transmembrane protein
+1238984..1239145	-	53	71065607	-	Psyc_1047	-	-	hypothetical protein
+1239514..1240935	+	473	71065608	-	Psyc_1048	-	COG0471P	DASS family divalent anion:Na(+) symporter
+1241380..1245651	+	1423	71065609	hrpA	Psyc_1049	-	COG1643L	ATP dependent DNA/RNA helicase
+1246757..1247521	-	254	71065610	-	Psyc_1051	-	COG2510S	DMT superfamily efflux pump
+1248096..1249241	+	381	71065611	-	Psyc_1052	-	COG0332I	3-oxoacyl-ACP synthase
+1249626..1250714	+	362	71065612	prfA	Psyc_1053	-	COG0216J	peptide chain release factor 1
+1250966..1252510	+	514	71065613	lysS	Psyc_1054	-	COG1190J	lysyl-tRNA synthetase
+1252737..1254632	+	631	71065614	dnaX	Psyc_1055	-	COG2812L	DNA polymerase III, gamma subunit / DNA polymerase III, tau subunit
+1254867..1255766	+	299	71065615	-	Psyc_1056	-	COG0583K	LysR family transcriptional regulator
+1255921..1257102	-	393	71065616	argD	Psyc_1057	-	COG4992E	acetylornithine aminotransferase
+1257166..1257363	-	65	71065617	-	Psyc_1058	-	COG3024S	hypothetical protein
+1257567..1258232	+	221	71065618	-	Psyc_1059	-	COG0220R	methyltransferase
+1258396..1259883	-	495	71065619	-	Psyc_1060	-	COG0661R	ABC transporter
+1260297..1261625	-	442	71065620	purD	Psyc_1061	-	COG0151F	phosphoribosylamine--glycine ligase
+1262062..1266921	+	1619	71065621	gdhA2	Psyc_1062	-	COG2902E	glutamate dehydrogenase
+1267100..1271023	-	1307	71065622	sbcC	Psyc_1063	-	COG0419L	exonuclease SbcD
+1271096..1272682	-	528	71065623	sbcD	Psyc_1064	-	COG0420L	exodeoxyribonuclease I
+1272786..1274450	-	554	71065624	cysG	Psyc_1065	-	COG0007H	uroporphyrinogen-III C-methyltransferase
+1274676..1275314	-	212	71065625	-	Psyc_1066	-	COG0175EH	phosphoadenylylsulfate reductase
+1275365..1275961	-	198	71065626	-	Psyc_1067	-	COG3749S	hypothetical protein
+1275954..1277639	-	561	71065627	cysI	Psyc_1068	-	COG0155P	sulfite reductase subunit beta
+1278111..1279370	+	419	71065628	sat	Psyc_1069	-	COG2046P	sulfate adenylyltransferase
+1279739..1280923	+	394	71065629	-	Psyc_1070	-	COG1613P	ABC sulfate/thiosulfate transporter periplasmic solute-binding protein
+1281205..1282302	+	365	71065630	-	Psyc_1071	-	COG1613P	ABC sulfate/thiosulfate transporter periplasmic solute-binding protein
+1282559..1283443	+	294	71065631	cysT	Psyc_1072	-	COG0555O	ABC sulfate/thiosulfate transporter inner membrane protein CysT
+1283443..1284375	+	310	71065632	cysW	Psyc_1073	-	COG4208P	ABC sulfate/thiosulfate transporter inner membrane protein CysW
+1284382..1285191	+	269	71065633	cysA	Psyc_1074	-	COG3842E	ABC sulfate/thiosulfate transporter ATPase subunit CysA
+1285357..1285680	-	107	71065634	arsR	Psyc_1075	-	COG0640K	ArsR family transcriptional regulator
+1285905..1286159	+	84	71065635	-	Psyc_1076	-	COG2906P	bacterioferritin-associated ferredoxin
+1286244..1286732	+	162	71065636	bfrA	Psyc_1077	-	COG2193P	ferritin
+1286804..1287277	+	157	71065637	bfr	Psyc_1078	-	COG2193P	ferritin
+1287431..1288807	-	458	71065638	-	Psyc_1079	-	COG2814G	major facilitator superfamily multi-drug efflux pump
+1289068..1289910	+	280	71065639	-	Psyc_1080	-	COG0625O	glutathione S-transferase
+1290288..1291502	+	404	71065640	-	Psyc_1081	-	-	hypothetical protein
+1292149..1293852	+	567	71065641	-	Psyc_1082	-	COG0513LKJ	ATP-dependent DEAD/DEAH box RNA-helicase
+1294131..1295375	+	414	71065642	-	Psyc_1083	-	COG5505S	hypothetical protein
+1295387..1296799	-	470	71065643	-	Psyc_1084	-	COG1167KE	GntR family transcriptional regulator
+1297085..1298023	+	312	71065644	-	Psyc_1085	-	-	DMT superfamliy efflux pump
+1299098..1299523	+	141	71065645	-	Psyc_1087	-	COG3943R	DNA-binding protein
+1299592..1299813	+	73	71065646	-	Psyc_1088	-	COG3654R	hypothetical protein
+1299911..1300666	+	251	71065647	-	Psyc_1089	-	COG3228S	hypothetical protein
+1300792..1301466	-	224	71065648	-	Psyc_1090	-	-	hypothetical protein
+1301699..1302172	+	157	71065649	-	Psyc_1091	-	-	hypothetical protein
+1302357..1303616	-	419	71065650	-	Psyc_1092	-	COG3174S	hypothetical protein
+1304081..1305208	-	375	71065651	-	Psyc_1093	-	COG1902C	NADH-dependent flavin oxidoreductase
+1305370..1306284	+	304	71065652	-	Psyc_1094	-	COG0583K	LysR family transcriptional regulator
+1306680..1307804	+	374	71065653	-	Psyc_1095	-	COG3177S	Fic family protein
+1308064..1308486	-	140	71065654	-	Psyc_1096	-	COG0511I	biotin carboxyl carrier protein
+1308510..1309697	-	395	71065655	-	Psyc_1097	-	COG1914P	metal Ion (Mn2+/Fe2+) transporter NRAMP family
+1309721..1310482	-	253	71065656	-	Psyc_1098	-	COG1540R	LamB/YcsF family protein
+1310472..1311395	-	307	71065657	-	Psyc_1099	-	COG1984E	allophanate hydrolase subunit 2
+1311448..1312101	-	217	71065658	-	Psyc_1100	-	COG2049E	allophanate hydrolase subunit 1
+1312190..1313536	-	448	71065659	-	Psyc_1101	-	COG4770I	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha / biotin carboxylase
+1313595..1314107	-	170	71065660	-	Psyc_1102	-	COG0511I	biotin carboxyl carrier protein
+1314354..1315145	-	263	71065661	-	Psyc_1103	-	COG4336S	hypothetical protein
+1315404..1315766	+	120	71065662	-	Psyc_1104	-	-	hypothetical protein
+1316126..1317088	+	320	71065663	-	Psyc_1105	-	COG0204I	acyltransferase
+1317250..1317633	+	127	71065664	-	Psyc_1106	-	-	hypothetical protein
+1317636..1318601	-	321	71065665	-	Psyc_1107	-	-	hypothetical protein
+1318828..1319841	+	337	71065666	-	Psyc_1108	-	COG0583K	LysR family transcriptional regulator
+1320129..1321415	+	428	71065667	-	Psyc_1109	-	COG1914P	metal Ion (Mn2+/Fe2+) transporter NRAMP family
+1321787..1322677	+	296	71065668	prpB	Psyc_1110	-	COG2513G	2-methylisocitrate lyase
+1322815..1323954	+	379	71065669	prpC	Psyc_1111	-	COG0372C	methylcitrate synthase
+1324169..1326826	+	885	71065670	-	Psyc_1112	-	COG1048C	aconitate hydratase
+1326940..1327233	-	97	71065671	-	Psyc_1113	-	-	hypothetical protein
+1327234..1327467	-	77	71065672	-	Psyc_1114	-	-	hypothetical protein
+1327556..1328797	+	413	71065673	-	Psyc_1115	-	COG2828S	methylitaconate delta2-delta3-isomerase
+1329123..1329713	+	196	71065674	-	Psyc_1116	-	COG2153R	acetyltransferase
+1329848..1331350	+	500	71065675	prpD	Psyc_1117	-	COG2079R	2-methylcitrate dehydratase
+1331402..1332181	-	259	71065676	-	Psyc_1118	-	COG1028IQR	C factor cell-cell signaling protein
+1332597..1334006	+	469	71065677	-	Psyc_1119	-	-	hypothetical protein
+1334137..1335711	+	524	71065678	-	Psyc_1120	-	COG0486R	hypothetical protein
+1335751..1336770	-	339	71065679	arsA	Psyc_1121	-	COG0003P	arsenical pump-driving ATPase ArsA
+1336805..1337098	-	97	71065680	-	Psyc_1122	-	-	hypothetical protein
+1337222..1338901	-	559	71065681	cstA	Psyc_1123	-	COG1966T	carbon starvation protein A
+1339113..1339781	+	222	71065682	-	Psyc_1124	-	-	hypothetical protein
+1339891..1340454	+	187	71065683	hpt	Psyc_1125	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+1340502..1342706	-	734	71065684	recD	Psyc_1126	-	COG0507L	exonuclease V subunit alpha
+1342783..1347270	-	1495	71065685	recB	Psyc_1127	-	COG1074L	DNA helicase/exodeoxyribonuclease V subunit beta
+1347343..1351881	-	1512	71065686	recC	Psyc_1128	-	COG1330L	exoribodeoxynuclease V, gamma subunit
+1352397..1352939	+	180	71065687	-	Psyc_1129	-	-	hypothetical protein
+1353012..1353830	+	272	71065688	-	Psyc_1130	-	-	hypothetical protein
+1354449..1354733	+	94	71065689	-	Psyc_1131	-	-	hypothetical protein
+1354889..1355800	-	303	71065690	-	Psyc_1132	-	COG0583K	LysR family transcriptional regulator
+1355987..1356439	+	150	71065691	-	Psyc_1133	-	COG2259S	hypothetical protein
+1356670..1357488	+	272	71065692	-	Psyc_1134	-	COG3384S	hypothetical protein
+1357728..1359344	-	538	71065693	-	Psyc_1135	-	COG2509R	FAD-dependent dehydrogenase
+1360421..1360726	+	101	71065694	-	Psyc_1136	-	COG1813K	DNA-binding protein
+1360745..1362001	+	418	71065695	-	Psyc_1137	-	COG3550R	hypothetical protein
+1362462..1365242	-	926	71065696	ppc	Psyc_1138	-	COG2352C	phosphoenolpyruvate carboxylase
+1365902..1366708	-	268	71065697	-	Psyc_1139	-	COG0730R	hypothetical protein
+1366734..1367654	-	306	71065698	mdcG	Psyc_1140	-	COG0331I	malonyl CoA-ACP transacylase
+1367632..1368519	-	295	71065699	mdc	Psyc_1141	-	COG1767H	ATP:dephospho-CoA triphosphoribosyl transferase
+1368470..1369174	-	234	71065700	mdcE	Psyc_1142	-	-	malonate decarboxylase, subunit E
+1369372..1370088	-	238	71065701	mdcC	Psyc_1143	-	COG0825I	malonate decarboxylase subunit gamma
+1370093..1370980	-	295	71065702	mdcB	Psyc_1144	-	COG0777I	malonate decarboxylase subunit beta
+1370973..1371290	-	105	71065703	mdcD	Psyc_1145	-	-	malonate decarboxylase subunit delta
+1371312..1372967	-	551	71065704	mdcA	Psyc_1146	-	COG4670I	malonate decarboxylase subunit alpha
+1372989..1373747	-	252	71065705	madM	Psyc_1147	-	-	malonate/sodium symporter, MadM subunit
+1373823..1374227	-	134	71065706	madL	Psyc_1148	-	-	malonate/sodium symporter, MadL subunit
+1374461..1375132	+	223	71065707	mdcY	Psyc_1149	-	COG1802K	GntR family transcriptional regulator
+1375422..1376042	+	206	71065708	-	Psyc_1150	-	COG2353S	hypothetical protein
+1376133..1377488	+	451	71065709	-	Psyc_1151	-	COG2010C	cytochrome c alcohol dehydrogenase subunit
+1377566..1379167	+	533	71065710	-	Psyc_1152	-	COG1231E	flavin monoamine oxidase related protein
+1379247..1379903	+	218	71065711	-	Psyc_1153	-	COG2010C	cytochrome c family protein
+1380420..1381280	-	286	71065712	-	Psyc_1154	-	COG0589T	hypothetical protein
+1382083..1382976	+	297	71065713	deoD	Psyc_1155	-	COG0005F	methylthioadenosine phosphorylase
+1383108..1384175	-	355	71065714	-	Psyc_1156	-	COG2226H	methyltransferase
+1384271..1384894	-	207	71065715	-	Psyc_1157	-	COG3222S	hypothetical protein
+1384982..1385722	-	246	71065716	-	Psyc_1158	-	COG0463M	glycosyl transferase family protein
+1385740..1386549	-	269	71065717	-	Psyc_1159	-	-	hypothetical protein
+1386643..1387611	-	322	71065718	-	Psyc_1160	-	COG0535R	hypothetical protein
+1387860..1389590	+	576	71065719	-	Psyc_1161	-	COG2194R	phosphatidylethanolamine:Kdo2-lipid A phosphoethanolamine transferase
+1389665..1390366	+	233	71065720	-	Psyc_1162	-	COG0745TK	two component system regulatory protein
+1390467..1391780	+	437	71065721	-	Psyc_1163	-	COG0642T	Signal transduction histidine kinase sensor
+1392132..1392575	+	147	71065722	dgkA	Psyc_1164	-	COG0818M	diacylglycerol kinase
+1392623..1393342	+	239	71065723	-	Psyc_1165	-	COG3907R	hypothetical protein
+1393683..1394714	-	343	71065724	-	Psyc_1166	-	-	hypothetical protein
+1394831..1395301	-	156	71065725	-	Psyc_1167	-	COG0824R	acyl-CoA thioesterase
+1395400..1397094	-	564	71065726	-	Psyc_1168	-	COG0318IQ	medium chain acyl-CoA ligase
+1397160..1398362	-	400	71065727	-	Psyc_1169	-	COG0183I	acetyl-CoA acetyltransferase
+1398446..1400014	-	522	71065728	paaH	Psyc_1170	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+1400092..1400868	-	258	71065729	-	Psyc_1171	-	COG1024I	enoyl-CoA hydratase
+1401195..1402349	+	384	71065730	-	Psyc_1172	-	COG1960I	acyl-CoA dehydrogenase
+1402458..1403723	+	421	71065731	dcaK	Psyc_1173	-	COG2814G	MFS short chain dicaboxylate:H+ symporter DcaK
+1404421..1405266	+	281	71065732	-	Psyc_1174	-	COG1414K	IclR family transcriptional regulator
+1405611..1407143	-	510	71065733	-	Psyc_1175	-	COG0427C	acetyl-CoA hydrolase/transferase family protein
+1407717..1409654	+	645	71065734	ggt	Psyc_1176	-	COG0405E	gamma-glutamyltransferase 1
+1410102..1413845	+	1247	71065735	dnaE	Psyc_1177	-	COG0587L	DNA polymerase III subunit alpha
+1413893..1414789	+	298	71065736	-	Psyc_1178	-	COG0565J	rRNA methyltransferase SpoU family protein
+1414995..1415438	+	147	71065737	-	Psyc_1179	-	-	hypothetical protein
+1415628..1416539	+	303	71065738	cysE	Psyc_1180	-	COG1045E	serine O-acetyltransferase
+1416597..1417130	-	177	71065739	-	Psyc_1181	-	COG0801H	hypothetical protein
+1417120..1417542	-	140	71065740	folB	Psyc_1182	-	COG1539H	dihydroneopterin aldolase
+1417607..1418566	-	319	71065741	rarD	Psyc_1183	-	COG2962R	DMT superfamily efflux pump, RarD
+1418677..1421013	-	778	71065742	-	Psyc_1184	-	COG0128E	bifunctional cyclohexadienyl dehydrogenase/ 3-phosphoshikimate 1-carboxyvinyltransferase
+1421132..1422274	-	380	71065743	hisC	Psyc_1185	-	COG0079E	histidinol-phosphate aminotransferase
+1422416..1423597	-	393	71065744	pheA	Psyc_1186	-	COG0077E	prephenate dehydratase
+1424045..1424986	+	313	71065745	tal	Psyc_1187	-	COG0176G	transaldolase B
+1425173..1425625	+	150	71065746	-	Psyc_1188	-	-	hypothetical protein
+1425845..1426414	-	189	71065747	apt	Psyc_1189	-	COG0503F	adenine phosphoribosyltransferase
+1426890..1427054	+	54	71065748	rubA	Psyc_1190	-	COG1773C	rubredoxin protein
+1427083..1428120	+	345	71065749	-	Psyc_1191	-	COG0596R	alpha/beta hydrolase
+1428228..1429406	-	392	71065750	-	Psyc_1192	-	-	hypothetical protein
+1429877..1430809	+	310	71065751	-	Psyc_1193	-	COG0697GER	DMT superfamily efflux pump
+1430942..1434148	-	1068	71065752	-	Psyc_1194	-	COG4625S	autotransporter domain-containing protein
+1434426..1435859	-	477	71065753	-	Psyc_1195	-	COG2233F	xanthine/uracil symporter
+1436252..1437685	+	477	71065754	sdaA	Psyc_1196	-	COG1760E	L-serine ammonia-lyase
+1437943..1438341	-	132	71065755	-	Psyc_1197	-	-	hypothetical protein
+1438652..1439875	-	407	71065756	argJ	Psyc_1198	-	COG1364E	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+1439948..1440772	-	274	71065757	xthA	Psyc_1199	-	COG0708L	exonuclease III
+1441088..1441654	+	188	71065758	-	Psyc_1200	-	COG0824R	thioesterase
+1441922..1442791	-	289	71065759	-	Psyc_1201	-	COG0300R	short chain dehydrogenase
+1443136..1444110	-	324	71065760	sohB	Psyc_1202	-	COG0616OU	periplasmic protease
+1444480..1446306	+	608	71065761	aspS	Psyc_1203	-	COG0173J	aspartyl-tRNA synthetase
+1446374..1447351	+	325	71065762	-	Psyc_1204	-	COG1560M	lipid A biosynthesis acyltransferase
+1447464..1448264	+	266	71065763	-	Psyc_1205	-	-	hypothetical protein
+1448669..1450234	+	521	71065764	-	Psyc_1206	-	COG0463M	glycosyl transferase family protein
+1450235..1451002	+	255	71065765	-	Psyc_1207	-	COG3306M	glycosyl transferase family protein
+1451054..1451275	+	73	71065766	-	Psyc_1208	-	-	hypothetical protein
+1451660..1452685	+	341	71065767	-	Psyc_1209	-	-	hypothetical protein
+1453290..1454408	-	372	71065768	-	Psyc_1210	-	-	hypothetical protein
+1455014..1456096	+	360	71065769	rffG	Psyc_1212	-	COG1088M	dTDP-glucose 4,6-dehydratase
+1456132..1457037	+	301	71065770	rfbD	Psyc_1213	-	COG1091M	dTDP-4-dehydrorhamnose reductase
+1457034..1457924	+	296	71065771	rfbA	Psyc_1214	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+1457952..1458524	+	190	71065772	rfbC	Psyc_1215	-	COG1898M	dTDP-4-dehydrorhamnose 3,5-epimerase
+1458754..1459683	-	309	71065773	ilvE	Psyc_1216	-	COG0115EH	branched-chain amino acid aminotransferase
+1459973..1462822	-	949	71065774	glnE	Psyc_1217	-	COG1391OT	bifunctional glutamine-synthetase adenylyltransferase/deadenyltransferase
+1463113..1463544	+	143	71065775	-	Psyc_1218	-	COG1553P	DsrE-like protein
+1463650..1463973	+	107	71065776	-	Psyc_1219	-	-	hypothetical protein
+1464072..1464410	+	112	71065777	-	Psyc_1220	-	-	hypothetical protein
+1464407..1464763	+	118	71065778	-	Psyc_1221	-	COG2920P	DsrC-like protein
+1464855..1465415	-	186	71065779	spoU	Psyc_1222	-	COG0219J	tRNA/rRNA methyltransferase
+1465676..1465816	+	46	71065780	-	Psyc_1223	-	COG5510S	entericidin A
+1465912..1467237	-	441	71065781	hemN_rel	Psyc_1224	-	COG0635H	coproporphyrinogen III oxidase, anaerobic
+1467794..1469161	+	455	71065782	norM	Psyc_1225	-	COG0534V	multidrug efflux pump, NorM, MATE family
+1469423..1469851	+	142	71065783	accB	Psyc_1226	-	COG0511I	biotin carboxyl carrier protein
+1470083..1471444	+	453	71065784	accC	Psyc_1227	-	COG0439I	acetyl-CoA carboxylase, biotin carboxylase
+1471585..1472199	-	204	71065785	-	Psyc_1228	-	-	hypothetical protein
+1472613..1474397	-	594	71065786	leuA	Psyc_1229	-	COG0119E	2-isopropylmalate synthase
+1474615..1475103	+	162	71065787	-	Psyc_1230	-	COG1522K	AsnC family transcriptional regulator
+1475123..1476409	-	428	71065788	-	Psyc_1231	-	COG2814G	major facilitator superfamily transporter
+1476659..1478014	-	451	71065789	-	Psyc_1232	-	COG0661R	protein kinase
+1478087..1478896	-	269	71065790	moeB	Psyc_1233	-	COG0476H	molybdopterin biosynthesis protein
+1478906..1479823	-	305	71065791	-	Psyc_1234	-	COG2890J	HemK family modification methylase
+1479871..1481523	-	550	71065792	ampG	Psyc_1235	-	COG2814G	muropeptide MFS uptake transporter AmpG
+1482020..1482949	+	309	71065793	-	Psyc_1236	-	COG0583K	transcriptional regulator CysB-like protein
+1483154..1485688	+	844	71065794	-	Psyc_1237	-	COG4993G	quinoprotein glucose dehydrogenase
+1485977..1486996	+	339	71065795	-	Psyc_1238	-	COG2141C	luciferase
+1487124..1488011	-	295	71065796	-	Psyc_1239	-	COG0679R	AEC family transporter
+1488420..1490318	-	632	71065797	gidA	Psyc_1240	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1490582..1491112	-	176	71065798	-	Psyc_1241	-	-	hypothetical protein
+1491351..1491701	-	116	71065799	-	Psyc_1242	-	COG0278O	glutaredoxin-like protein
+1491851..1492357	-	168	71065800	ispF	Psyc_1243	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1492614..1493840	+	408	71065801	mnmA	Psyc_1244	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+1493956..1495347	+	463	71065802	purB	Psyc_1245	-	COG0015F	adenylosuccinate lyase
+1495442..1495651	-	69	71065803	-	Psyc_1246	-	-	hypothetical protein
+1495781..1496953	+	390	71065804	-	Psyc_1247	-	COG2850S	hypothetical protein
+1497225..1497914	-	229	71065805	-	Psyc_1248	-	COG4230C	hypothetical protein
+1497926..1501168	-	1080	71065806	-	Psyc_1249	-	COG4230C	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+1501890..1502621	+	243	71065807	-	Psyc_1250	-	COG0811U	TolQ proton channel
+1502618..1503076	+	152	71065808	tolR	Psyc_1251	-	COG0848U	biopolymer transport protein TolR
+1503201..1504208	+	335	71065809	-	Psyc_1252	-	COG3064M	hypothetical protein
+1504345..1505637	+	430	71065810	tolB	Psyc_1253	-	COG0823U	TolB periplasmic receptor
+1506372..1506974	-	200	71065811	-	Psyc_1254	-	COG0655R	TRP repressor binding protein
+1507444..1508700	+	418	71065812	yeeE	Psyc_1255	-	COG2391R	TolB periplamsic protein
+1509113..1510048	-	311	71065813	-	Psyc_1256	-	COG1496S	hypothetical protein
+1510078..1511280	-	400	71065814	rluD	Psyc_1257	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+1512103..1513182	+	359	71065815	-	Psyc_1258	-	COG4105R	lipoprotein
+1513396..1515558	+	720	71065816	dnaG	Psyc_1259	-	COG0358L	DNA primase
+1516085..1518028	+	647	71065817	rpoD	Psyc_1260	-	COG0568K	sigma-70 factor (RpoD)
+1518409..1519335	+	308	71065818	-	Psyc_1261	-	COG3781S	hypothetical protein
+1519603..1519995	+	130	71065819	-	Psyc_1262	-	COG2921S	hypothetical protein
+1520712..1522988	+	758	71065820	nrdA	Psyc_1263	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+1523098..1523886	+	262	71065821	-	Psyc_1264	-	-	hypothetical protein
+1524362..1524613	+	83	71065822	-	Psyc_1265	-	COG2161D	StbD-like prevent host death protein
+1524603..1524890	+	95	71065823	-	Psyc_1266	-	COG2026JD	hypothetical protein
+1524958..1525323	+	121	71065824	-	Psyc_1267	-	-	hypothetical protein
+1525414..1526547	+	377	71065825	nrdB	Psyc_1268	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+1526770..1527030	+	86	71065826	-	Psyc_1269	-	COG0633C	ferrodoxin
+1527217..1528545	-	442	71065827	algW	Psyc_1270	-	COG0265O	serine protease
+1528949..1529785	+	278	71065828	-	Psyc_1271	-	COG0327S	hypothetical protein
+1530723..1531931	+	402	71065829	-	Psyc_1272	-	COG4623M	lytic transglycosylase
+1532054..1535059	-	1001	71065830	-	Psyc_1273	-	COG3858R	membrane-bound lytic murein transglycosylase D
+1535240..1535734	-	164	71065831	-	Psyc_1274	-	-	hypothetical protein
+1536166..1537587	-	473	71065832	-	Psyc_1275	-	COG1253R	hypothetical protein
+1537959..1538285	+	108	71065833	yajC	Psyc_1276	-	COG1862U	protein translocase subunit yajC
+1538715..1540592	+	625	71065834	secD	Psyc_1277	-	COG0342U	preprotein translocase subunit SecD
+1540602..1541846	+	414	71065835	secF	Psyc_1278	-	COG0341U	preprotein translocase subunit SecF
+1542058..1543476	+	472	71065836	dinF	Psyc_1279	-	COG0534V	DNA-damage-inducible protein F
+1543571..1544302	+	243	71065837	-	Psyc_1280	-	COG1296E	branched chain amino acid efflux pump, LivE family, large subunit
+1544292..1544651	+	119	71065838	-	Psyc_1281	-	COG4392S	hypothetical protein
+1544760..1546295	-	511	71065839	purF	Psyc_1282	-	COG0034F	amidophosphoribosyltransferase
+1546537..1547034	-	165	71065840	cvpA	Psyc_1283	-	COG1286R	colicin V production protein
+1547131..1548165	-	344	71065841	pyrD	Psyc_1284	-	COG0167F	dihydroorotate dehydrogenase 2
+1548495..1548953	-	152	71065842	-	Psyc_1285	-	COG2062T	phospho-histidine phosphatase
+1549143..1550261	-	372	161611072	gpsA	Psyc_1286	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1550774..1551433	-	219	71065844	-	Psyc_1287	-	COG0778C	aldehyde dehydrogenase
+1551499..1552620	-	373	71065845	-	Psyc_1288	-	COG1485R	AFG1-like ATPase
+1552994..1553653	-	219	71065846	-	Psyc_1289	-	COG2945R	hypothetical protein
+1554069..1554437	+	122	71065847	-	Psyc_1290	-	-	hypothetical protein
+1554649..1556199	+	516	71065848	xseA	Psyc_1291	-	COG1570L	exodeoxyribonuclease VII large subunit
+1556388..1556633	+	81	71065849	-	Psyc_1292	-	-	hypothetical protein
+1556643..1557884	-	413	71065850	pncB	Psyc_1293	-	COG1488H	nicotinate phosphoribosyltransferase
+1558422..1559957	-	511	71065851	-	Psyc_1294	-	COG1012C	aldehyde dehydrogenase
+1560481..1561341	+	286	71065852	lipB	Psyc_1295	-	COG0321H	protein ligase
+1561538..1562068	+	176	71065853	ppa	Psyc_1296	-	COG0221C	inorganic pyrophosphatase
+1562205..1562669	+	154	71065854	-	Psyc_1297	-	-	hypothetical protein
+1562781..1563176	+	131	71065855	-	Psyc_1298	-	-	hypothetical protein
+1564044..1564931	-	295	71065856	-	Psyc_1299	-	COG0300R	fatty acyl-CoA reductase
+1565152..1566183	-	343	71065857	-	Psyc_1300	-	COG0042J	NifR3 family TIM-barrel protein
+1566327..1568375	-	682	71065858	-	Psyc_1301	-	COG1292M	BCCT family betaine/choline/carnitine/glycine transporter
+1568597..1569037	-	146	71065859	-	Psyc_1302	-	COG0537FGR	histidine triad (HIT) protein
+1569234..1570049	+	271	71065860	-	Psyc_1303	-	-	hypothetical protein
+1570230..1572116	+	628	71065861	ilvD	Psyc_1304	-	COG0129EG	dihydroxy-acid dehydratase
+1572464..1573711	+	415	71065862	-	Psyc_1305	-	COG0025P	CPA1 family Na(+)/H(+) antiporter
+1573908..1575380	-	490	71065863	-	Psyc_1306	-	COG1680V	beta-lactamase
+1575490..1576110	-	206	71065864	-	Psyc_1307	-	COG3453S	hypothetical protein
+1576097..1577014	-	305	71065865	-	Psyc_1308	-	COG2030I	hypothetical protein
+1577205..1578605	-	466	71065866	fabG	Psyc_1309	-	COG1028IQR	3-ketoacyl-ACP reductase
+1579271..1580851	+	526	71065867	-	Psyc_1310	-	COG0183I	acetyl-CoA acetyltransferase
+1581007..1582086	+	359	71065868	-	Psyc_1311	-	COG2326S	hypothetical protein
+1582271..1582618	-	115	71065869	pilZ	Psyc_1312	-	COG3215NU	type IV fimbriae assembly protein
+1582757..1583857	-	366	71065870	holB	Psyc_1313	-	COG0470L	DNA polymerase III, delta prime subunit
+1584020..1584826	-	268	71065871	kdsB	Psyc_1314	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+1584870..1586027	-	385	71065872	lpxK	Psyc_1315	-	COG1663M	tetraacyldisaccharide 4'-kinase
+1586037..1587824	-	595	71065873	msbA	Psyc_1316	-	COG1132V	lipid/multidrug ABC transporter MsbA ATPase and inner membrane domains
+1587960..1588391	-	143	71065874	-	Psyc_1317	-	COG0848U	biopolymer transport protein ExbD/TolR
+1588570..1589214	-	214	71065875	-	Psyc_1318	-	COG0811U	MotA/TolQ/ExbB proton channel
+1589303..1590430	-	375	71065876	parB	Psyc_1319	-	COG1475K	chromosome segregation DNA-binding protein
+1590578..1591357	-	259	71065877	-	Psyc_1320	-	COG1192D	chromosome segregation ATPase
+1591491..1592207	-	238	71065878	gidB	Psyc_1321	-	COG0357M	16S rRNA methyltransferase GidB
+1592572..1595427	+	951	71065879	-	Psyc_1322	-	COG1067O	hypothetical protein
+1595533..1596684	+	383	71065880	-	Psyc_1323	-	COG2378K	hypothetical protein
+1596754..1597422	+	222	71065881	-	Psyc_1324	-	COG2310T	hypothetical protein
+1597688..1598665	-	325	71065882	-	Psyc_1325	-	COG1226P	VIC family potassium channel protein
+1599243..1599872	+	209	71065883	ompW	Psyc_1326	-	COG3047M	OmpW family outer membrane protein
+1600173..1601909	-	578	71065884	aceF	Psyc_1327	-	COG0508C	dihydrolipoyllysine acetyltransferase component of pyruvate dehydrogenase complex
+1601935..1604748	-	937	71065885	aceE	Psyc_1328	-	COG2609C	pyruvate dehydrogenase subunit E1
+1605538..1606278	-	246	71065886	-	Psyc_1329	-	COG1309K	TetR family transcriptional regulator
+1606444..1607469	-	341	71065887	-	Psyc_1330	-	COG2374R	hypothetical protein
+1607955..1608632	-	225	71065888	-	Psyc_1331	-	COG3133M	hypothetical protein
+1608917..1610533	-	538	71065889	-	Psyc_1332	-	COG0554C	glycerol kinase
+1611045..1612688	-	547	71065890	sthA	Psyc_1333	-	COG1249C	soluble pyridine nucleotide transhydrogenase
+1612885..1613781	-	298	71065891	-	Psyc_1334	-	COG1806S	hypothetical protein
+1614150..1616534	+	794	71065892	ppsA	Psyc_1335	-	COG0574G	phosphoenolpyruvate synthase
+1616706..1617689	+	327	71065893	-	Psyc_1336	-	COG1714S	hypothetical protein
+1617980..1618378	+	132	71065894	rpsF	Psyc_1337	-	COG0360J	30S ribosomal protein S6
+1618395..1618625	+	76	71065895	rpsR	Psyc_1338	-	COG0238J	30S ribosomal protein S18
+1618646..1619146	+	166	71065896	rplI	Psyc_1339	-	COG0359J	50S ribosomal protein L9
+1619295..1619537	+	80	71065897	-	Psyc_1340	-	-	hypothetical protein
+1620372..1621508	+	378	71065898	-	Psyc_1342	-	COG1929G	glycerate kinase
+1621982..1622404	-	140	71065899	-	Psyc_1344	-	-	hypothetical protein
+1622551..1622889	-	112	71065900	-	Psyc_1345	-	COG0251J	endoribonuclease
+1622932..1624179	-	415	71065901	-	Psyc_1346	-	COG0665E	D-amino acid oxidase
+1624474..1624938	-	154	71065902	-	Psyc_1347	-	COG0210L	rep helicase, single-stranded DNA-dependent ATPase protein
+1625133..1626386	-	417	71065903	-	Psyc_1348	-	COG3213P	hypothetical protein
+1626571..1626810	+	79	71065904	-	Psyc_1349	-	-	hypothetical protein
+1626894..1628384	-	496	71065905	-	Psyc_1350	-	COG1012C	aldehyde dehydrogenase
+1628662..1629300	+	212	71065906	-	Psyc_1351	-	COG1309K	TetR family transcriptional regulator
+1629640..1630872	+	410	71065907	-	Psyc_1352	-	COG1979C	iron-containing alcohol dehydrogenase
+1630971..1631648	+	225	71065908	nonF	Psyc_1353	-	COG0693R	ThiJ/PfpI family protein
+1631785..1631988	+	67	71065909	-	Psyc_1354	-	-	hypothetical protein
+1632150..1632401	-	83	71065910	-	Psyc_1355	-	-	hypothetical protein
+1632604..1634220	+	538	71065911	-	Psyc_1356	-	-	MFS drug efflux transporter RmrB
+1634322..1635725	+	467	71065912	-	Psyc_1357	-	COG1566V	multidrug efflux pump (emrA)
+1635916..1636566	-	216	71065913	pdxH	Psyc_1358	-	COG0259H	pyridoxamine 5'-phosphate oxidase
+1636605..1637972	-	455	71065914	glmM	Psyc_1359	-	COG1109G	phosphoglucosamine mutase
+1638223..1639695	-	490	71065915	guaB	Psyc_1360	-	COG0516F	inosine-5'-monophosphate dehydrogenase
+1640108..1641574	-	488	71065916	cysS	Psyc_1361	-	COG0215J	cysteinyl-tRNA synthetase
+1641936..1642580	+	214	71065917	btuR	Psyc_1362	-	COG2096S	ATP:cob(I)alamin adenosyltransferase
+1642683..1643576	-	297	71065918	-	Psyc_1363	-	-	hypothetical protein
+1643973..1644701	+	242	71065919	-	Psyc_1364	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+1644926..1646329	+	467	71065920	-	Psyc_1365	-	COG1398I	Delta-9 acyl-phospholipid desaturase
+1646735..1648207	+	490	71065921	-	Psyc_1366	-	COG0397S	hypothetical protein
+1648650..1650989	+	779	71065922	maeB	Psyc_1367	-	COG0281C	malic enzyme
+1651145..1652332	+	395	71065923	cca	Psyc_1368	-	COG0617J	tRNA nucleotidyltransferase
+1652394..1653197	+	267	71065924	-	Psyc_1369	-	COG1028IQR	pteridine reductase
+1653540..1654811	+	423	71065925	-	Psyc_1370	-	COG4974L	phage integrase
+1655016..1655477	-	153	71065926	-	Psyc_1371	-	-	hypothetical protein
+1655467..1657236	-	589	71065927	-	Psyc_1372	-	COG0476H	hypothetical protein
+1657236..1658540	-	434	71065928	-	Psyc_1373	-	-	hypothetical protein
+1658537..1659637	-	366	71065929	-	Psyc_1374	-	COG3621R	patatin-related protein
+1659795..1660544	-	249	71065930	-	Psyc_1375	-	COG3293L	transposase, ISSod6
+1660634..1662676	-	680	71065931	-	Psyc_1376	-	COG1479S	hypothetical protein
+1662694..1664190	-	498	71065932	-	Psyc_1377	-	COG1479S	hypothetical protein
+1664331..1664957	-	208	71065933	-	Psyc_1378	-	-	hypothetical protein
+1665053..1665493	-	146	71065934	-	Psyc_1379	-	COG5579S	hypothetical protein
+1665583..1666260	-	225	71065935	-	Psyc_1380	-	-	hypothetical protein
+1666288..1667379	-	363	71065936	-	Psyc_1381	-	COG2378K	transcription factor
+1667432..1668289	-	285	71065937	-	Psyc_1382	-	COG0631T	serine/threonine phosphatase
+1668805..1672740	+	1311	71065938	-	Psyc_1383	-	COG1196D	hypothetical protein
+1672737..1673360	+	207	71065939	-	Psyc_1384	-	-	hypothetical protein
+1673357..1674685	+	442	71065940	-	Psyc_1385	-	-	hypothetical protein
+1674658..1675569	+	303	71065941	-	Psyc_1386	-	-	hypothetical protein
+1675747..1677429	-	560	71065942	-	Psyc_1387	-	COG0281C	malate dehydrogenase
+1678189..1679364	+	391	71065943	sgaA	Psyc_1388	-	COG0075E	serine-glyoxylate aminotransferase
+1679444..1680424	+	326	71065944	tdcB	Psyc_1389	-	COG1171E	threonine dehydratase
+1680540..1681691	+	383	71065945	dhaa	Psyc_1390	-	COG3616E	D-3-hydroxyaspartate aldolase
+1681816..1682817	+	333	71065946	ocd	Psyc_1391	-	COG2423E	ornithine cyclodeaminase
+1683261..1685429	+	722	71065947	-	Psyc_1392	-	COG1249C	pyridine nucleotide-disulfide oxidoreductase
+1685585..1686403	+	272	71065948	-	Psyc_1393	-	COG3000I	sterol desaturase
+1686635..1687189	+	184	71065949	-	Psyc_1394	-	COG2128S	hypothetical protein
+1687382..1687990	-	202	71065950	-	Psyc_1395	-	COG1309K	TetR family transcriptional regulator
+1688186..1688881	+	231	71065951	-	Psyc_1396	-	COG1011R	haloacid dehalogenase
+1689070..1689603	+	177	71065952	yaiL	Psyc_1397	-	COG3122S	hypothetical protein
+1690487..1691695	+	402	71065953	fadA4	Psyc_1398	-	COG0183I	acetyl-CoA acetyltransferase
+1691898..1694069	+	723	71065954	-	Psyc_1399	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+1694062..1695123	+	353	71065955	-	Psyc_1400	-	COG1804C	CoA-transferase family III protein
+1695780..1696502	+	240	71065956	-	Psyc_1401	-	COG3619S	permease transmembrane protein
+1696785..1697495	+	236	71065957	-	Psyc_1402	-	COG1741R	pirin
+1697731..1698927	+	398	71065958	tyrB	Psyc_1403	-	COG1448E	aromatic amino acid aminotransferase
+1699158..1700369	+	403	71065959	queA	Psyc_1404	-	COG0809J	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1700490..1702304	+	604	71065960	-	Psyc_1405	-	COG3170NU	hypothetical protein
+1702355..1703950	+	531	71065961	-	Psyc_1406	-	COG3170NU	hypothetical protein
+1704113..1705198	+	361	71065962	ansA	Psyc_1407	-	COG0252EJ	type I L-asparaginase
+1705244..1706074	+	276	71065963	truA	Psyc_1408	-	COG0101J	tRNA pseudouridine synthase A
+1706187..1706420	+	77	71065964	infA	Psyc_1409	-	COG0361J	translation initiation factor IF-1
+1706719..1707822	-	367	71065965	leuB	Psyc_1410	-	COG0473CE	3-isopropylmalate dehydrogenase
+1707907..1708644	-	245	71065966	-	Psyc_1411	-	-	hypothetical protein
+1708818..1709468	-	216	71065967	leuD	Psyc_1412	-	COG0066E	isopropylmalate isomerase small subunit
+1709516..1710934	-	472	71065968	leuC	Psyc_1413	-	COG0065E	isopropylmalate isomerase large subunit
+1711249..1712121	+	290	71065969	lysR	Psyc_1414	-	COG0583K	LysR family transcriptional regulator
+1712659..1714158	+	499	71065970	-	Psyc_1415	-	COG0591ER	SSS family Na(+)/proline symporter
+1714247..1715461	-	404	71065971	-	Psyc_1416	-	COG2067I	outer membrane protein
+1715842..1717002	-	386	71065972	-	Psyc_1417	-	COG2067I	FadL family outer membrane protein
+1717224..1717505	-	93	71065973	-	Psyc_1418	-	COG2900S	hypothetical protein
+1717701..1719647	+	648	71065974	-	Psyc_1419	-	COG0488R	ABC transporter:AAA ATPase
+1720079..1720663	+	194	71065975	-	Psyc_1420	-	COG0723C	ubiquinol-cytochrome c reductase, iron-sulfur subunit
+1720686..1721891	+	401	71065976	-	Psyc_1421	-	COG1290C	cytochrome b, b6 subunit
+1721891..1722604	+	237	71065977	-	Psyc_1422	-	COG2857C	ubiquinol cytochrome c1 reductase
+1722800..1723414	+	204	71065978	sspA	Psyc_1423	-	COG0625O	stringent starvation protein A
+1723564..1724004	+	146	71065979	sspB	Psyc_1424	-	COG2969R	ClpXP protease specificity-enhancing factor
+1724093..1724668	-	191	71065980	dcd	Psyc_1425	-	COG0717F	deoxycytidine triphosphate deaminase
+1725154..1726380	-	408	71065981	-	Psyc_1426	-	COG0489D	ATP-binding protein
+1726784..1727665	+	293	71065982	-	Psyc_1427	-	-	IS4 family transposase
+1727710..1728510	-	266	71065983	-	Psyc_1428	-	COG1028IQR	3-hydroxybutyrate dehydrogenase
+1728589..1729218	-	209	71065984	-	Psyc_1429	-	COG2057I	butyryl-CoA:acetate CoA transferase
+1729295..1730008	-	237	71065985	lpsI	Psyc_1430	-	COG1788I	coenzyme A transferase
+1730274..1731689	+	471	71065986	-	Psyc_1431	-	COG2610GE	GntP family transporter
+1731996..1734098	+	700	71065987	metG	Psyc_1432	-	COG0143J	methionyl-tRNA synthetase
+1734213..1734650	-	145	71065988	-	Psyc_1433	-	-	hypothetical protein
+1735049..1736098	+	349	71065989	-	Psyc_1434	-	COG2984R	ABC transporter substrate-binding protein
+1736273..1737298	+	341	71065990	-	Psyc_1435	-	COG2984R	ABC transporter substrate-binding protein
+1737634..1738533	+	299	71065991	-	Psyc_1436	-	COG4120R	ABC transporter inner membrane subunit
+1738565..1739359	+	264	71065992	-	Psyc_1437	-	COG1101R	ABC transporter ATPase
+1739370..1739984	-	204	71065993	-	Psyc_1438	-	COG4566T	LuxR family transcriptional regulator
+1739988..1742129	-	713	71065994	ttrS	Psyc_1439	-	COG4191T	Signal transduction histidine kinase sensor
+1742344..1743744	+	466	71065995	-	Psyc_1440	-	COG2010C	cytochrome c, class I
+1743744..1744679	+	311	71065996	-	Psyc_1441	-	COG3258C	cytochrome c
+1744865..1747258	+	797	71065997	-	Psyc_1442	-	COG0243C	formate dehydrogenase
+1747369..1748379	+	336	71065998	fdhD	Psyc_1443	-	COG1526C	formate dehydrogenase accessory protein FdhD
+1748905..1749231	+	108	71065999	-	Psyc_1444	-	COG3677L	transposase
+1750440..1750943	+	167	71066000	-	Psyc_1445	-	-	hypothetical protein
+1751547..1754312	+	921	71066001	malT	Psyc_1446	-	COG2909K	LuxR family transcriptional regulator
+1754457..1755248	-	263	71066002	-	Psyc_1447	-	-	hypothetical protein
+1755408..1757714	-	768	71066003	-	Psyc_1448	-	COG0146EQ	acetone carboxylase subunit alpha
+1757762..1759900	-	712	71066004	-	Psyc_1449	-	COG0145EQ	acetone carboxylase subunit beta
+1759914..1760375	-	153	71066005	acxC	Psyc_1450	-	COG4647Q	acetone carboxylase subunit gamma
+1760421..1762340	-	639	71066006	-	Psyc_1451	-	COG0145EQ	hydantoinase/oxoprolinase family protein
+1762694..1763005	+	103	71066007	-	Psyc_1452	-	COG2963L	IS1329/IS3/IS911 transposase
+1763068..1763877	+	269	71066008	-	Psyc_1453	-	COG2801L	transposase orfAB
+1764700..1765371	-	223	71066009	-	Psyc_1454	-	COG0400R	phospholipase/carboxylesterase family protein
+1765574..1766677	-	367	71066010	aroC	Psyc_1455	-	COG0082E	chorismate synthase
+1766870..1768045	-	391	71066011	hemK	Psyc_1456	-	COG2890J	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+1768415..1769836	+	473	71066012	-	Psyc_1457	-	COG1376S	ErfK/YbiS/YcfS/YnhG protein family protein
+1769984..1770502	+	172	71066013	-	Psyc_1458	-	COG2963L	IS3/IS911 family transposase orfA
+1770544..1771329	+	261	71066014	-	Psyc_1459	-	COG2801L	IS3 family transposase
+1772104..1774776	+	890	71066015	alaS	Psyc_1460	-	COG0013J	alanyl-tRNA synthetase
+1775245..1776531	+	428	71066016	lysC	Psyc_1461	-	COG0527E	aspartate kinase
+1776935..1777180	+	81	71066017	csrA	Psyc_1462	-	COG1551T	carbon storage regulator
+1777266..1777640	+	124	71066018	-	Psyc_1463	-	-	hypothetical protein
+1777760..1778071	-	103	71066019	-	Psyc_1464	-	COG3139S	hypothetical protein
+1778127..1779146	-	339	71066020	ppnK	Psyc_1465	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+1779392..1780114	+	240	71066021	-	Psyc_1466	-	COG4760S	hypothetical protein
+1780205..1783057	-	950	71066022	-	Psyc_1467	-	COG2217P	heavy metal efflux P-type ATPase
+1783417..1785900	+	827	71066023	mrcB	Psyc_1468	-	COG0744M	penicillin-binding protein transpeptidase domain-containing protein
+1786000..1786875	+	291	71066024	-	Psyc_1469	-	COG4235O	hypothetical protein
+1786992..1787918	+	308	71066025	prmA	Psyc_1470	-	COG2264J	50S ribosomal protein L11 methyltransferase
+1788227..1788586	+	119	71066026	fis	Psyc_1471	-	COG2901KL	Fis family transcriptional regulator
+1788784..1790364	+	526	71066027	purH	Psyc_1472	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1790558..1792432	-	624	71066028	-	Psyc_1473	-	COG0760O	PpiC-type peptidyl-prolyl cis-trans isomerase
+1792826..1793098	-	90	71066029	hupB	Psyc_1474	-	COG0776L	DNA-binding protein HU-beta
+1793745..1794392	+	215	71066030	-	Psyc_1475	-	-	hypothetical protein
+1794791..1795303	+	170	71066031	-	Psyc_1476	-	COG1959K	BadM/Rrf2 family transcriptional regulator
+1795300..1796526	+	408	71066032	-	Psyc_1477	-	COG1104E	cysteine desulfurase
+1796739..1797125	+	128	71066033	nifU	Psyc_1478	-	COG0822C	scaffold protein
+1797344..1797664	+	106	71066034	-	Psyc_1479	-	COG0316S	HesB/YadR/YfhF family protein
+1797725..1798306	+	193	71066035	hscB	Psyc_1480	-	COG1076O	co-chaperone Hsc20 heat shock proteins related
+1798560..1800437	+	625	71066036	hscA	Psyc_1481	-	COG0443O	chaperone protein HscA
+1800535..1800873	+	112	71066037	-	Psyc_1482	-	COG0633C	ferredoxin, 2Fe-2S type
+1801251..1801682	-	143	71066038	-	Psyc_1483	-	COG0537FGR	histidine triad (HIT) family protein
+1801921..1805652	-	1243	71066039	mfd	Psyc_1484	-	COG1197LK	transcription-repair coupling factor
+1805883..1806416	-	177	71066040	menG	Psyc_1485	-	COG0684H	ribonuclease activity regulator protein RraA
+1806524..1807225	-	233	71066041	-	Psyc_1486	-	COG0702MG	oxidoreductase
+1807754..1808020	+	88	71066042	rpsT	Psyc_1487	-	COG0268J	30S ribosomal protein S20
+1808149..1808985	-	278	71066043	-	Psyc_1488	-	COG0406G	hypothetical protein
+1809306..1810118	-	270	71066044	-	Psyc_1489	-	COG1409R	metallo-phosphoesterase
+1810294..1811175	+	293	71066045	-	Psyc_1490	-	-	IS4 family transposase
+1811238..1811936	-	232	71066046	pyrF	Psyc_1491	-	COG0284F	orotidine 5'-phosphate decarboxylase
+1812012..1812440	-	142	71066047	-	Psyc_1492	-	COG5416S	hypothetical protein
+1812600..1812848	-	82	71066048	-	Psyc_1493	-	COG0776L	histone-like DNA-binding protein
+1813226..1814917	-	563	71066049	rpsA	Psyc_1494	-	COG0539J	30S ribosomal protein S1
+1815228..1815983	-	251	71066050	cmkA	Psyc_1495	-	COG0283F	cytidylate kinase
+1816145..1816732	-	195	71066051	cumB	Psyc_1496	-	COG0590FJ	tRNA-adenosine deaminase
+1816733..1817476	-	247	71066052	ung	Psyc_1497	-	COG0692L	uracil-DNA glycosylase
+1817787..1820336	-	849	71066053	clpA	Psyc_1498	-	COG0542O	ATP-dependent Clp protease ATP-binding subunit ClpA
+1821004..1821420	-	138	71066054	clpS	Psyc_1499	-	COG2127S	ATP-dependent Clp protease adapter protein
+1821538..1822422	-	294	71066055	-	Psyc_1500	-	-	hypothetical protein
+1822526..1823593	-	355	71066056	argC	Psyc_1501	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+1823686..1824822	-	378	71066057	hemE	Psyc_1502	-	COG0407H	uroporphyrinogen decarboxylase
+1824943..1826115	-	390	71066058	proB	Psyc_1503	-	COG0263E	gamma-glutamyl kinase
+1826188..1827405	-	405	71066059	obgE	Psyc_1504	-	COG0536R	GTPase ObgE
+1827673..1829118	-	481	71066060	gapA	Psyc_1505	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+1829741..1830478	-	245	71066061	-	Psyc_1506	-	COG3040M	hypothetical protein
+1830988..1832070	-	360	71066062	-	Psyc_1507	-	COG0494LR	NUDIX hydrolase
+1832207..1832458	+	83	71066063	-	Psyc_1508	-	COG4256P	hypothetical protein
+1832731..1837725	-	1664	71066064	-	Psyc_1509	-	COG2911S	hypothetical protein
+1837804..1840941	-	1045	71066065	-	Psyc_1510	-	COG0729M	hypothetical protein
+1841434..1842774	+	446	71066066	-	Psyc_1511	-	COG2814G	major facilitator transporter
+1842969..1843613	+	214	71066067	-	Psyc_1512	-	COG2941H	ubiquinone biosyntheis protein COQ7
+1843839..1844978	+	379	71066068	-	Psyc_1513	-	COG0460E	hypothetical protein
+1845245..1847851	+	868	71066069	-	Psyc_1514	-	COG1075R	hypothetical protein
+1848473..1849996	+	507	71066070	cydA	Psyc_1515	-	COG1271C	cytochrome bd ubiquinol oxidase, subunit I
+1849996..1851012	+	338	71066071	cydB	Psyc_1516	-	COG1294C	cytochrome bd ubiquinol oxidase subunit II
+1851432..1852172	-	246	71066072	-	Psyc_1517	-	COG1208MJ	nucleotidyl transferase
+1852227..1853366	-	379	71066073	-	Psyc_1518	-	COG3178R	hypothetical protein
+1853684..1856422	+	912	71066074	ostA	Psyc_1519	-	COG1452M	organic solvent tolerance protein
+1856615..1858012	+	465	71066075	-	Psyc_1520	-	COG0760O	peptidyl-prolyl isomerase
+1858467..1859558	+	363	71066076	-	Psyc_1521	-	COG1902C	NADH-dependent flavin oxidoreductase
+1860238..1861356	-	372	71066077	-	Psyc_1522	-	COG3021S	hypothetical protein
+1861826..1862959	+	377	71066078	asd	Psyc_1523	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1863438..1864589	+	383	71066079	tgt	Psyc_1524	-	COG0343J	queuine tRNA-ribosyltransferase
+1864709..1866061	-	450	71066080	-	Psyc_1525	-	COG0733R	sodium-dependent transporter
+1866370..1867149	-	259	71066081	lpxA	Psyc_1526	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+1867326..1867835	-	169	71066082	fabZ	Psyc_1527	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+1867949..1868986	-	345	71066083	lpxD	Psyc_1528	-	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1869116..1871527	-	803	71066084	-	Psyc_1529	-	COG4775M	surface antigen (D15)
+1871791..1873164	-	457	71066085	-	Psyc_1530	-	COG0750M	peptidase RseP
+1873245..1874453	-	402	71066086	dxr	Psyc_1531	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1874705..1875514	-	269	71066087	cdsA	Psyc_1532	-	COG0575I	phosphatidate cytidylyltransferase
+1875645..1876403	-	252	71066088	uppS	Psyc_1533	-	COG0020I	undecaprenyl pyrophosphate synthetase
+1876646..1877200	-	184	71066089	frr	Psyc_1534	-	COG0233J	ribosome recycling factor
+1877328..1878053	-	241	71066090	pyrH	Psyc_1535	-	COG0528F	uridylate kinase
+1878243..1879820	-	525	71066091	rimO	Psyc_1536	-	COG0621J	ribosomal protein S12 methylthiotransferase
+1880091..1881479	+	462	71066092	ntrB	Psyc_1537	-	COG3852T	Signal transduction histidine kinase sensor
+1881521..1883260	+	579	71066093	ntrC	Psyc_1538	-	COG2204T	response regulator receiver protein
+1883793..1884785	-	330	71066094	ppkA	Psyc_1539	-	COG0515RTKL	protein kinase:Serine/threonine protein kinase
+1884847..1885833	+	328	71066095	-	Psyc_1540	-	COG2607R	hypothetical protein
+1885892..1886176	-	94	71066096	-	Psyc_1541	-	-	hypothetical protein
+1886263..1886931	-	222	71066097	-	Psyc_1542	-	COG0625O	glutathione S-transferase
+1887387..1890179	-	930	71066098	gyrA	Psyc_1543	-	COG0188L	DNA gyrase subunit A
+1890707..1891594	+	295	71066099	-	Psyc_1544	-	COG2227H	methyltransferase
+1891773..1893020	-	415	71066100	-	Psyc_1545	-	COG3842E	iron ABC transporter ATPase subunit
+1893427..1895121	-	564	71066101	-	Psyc_1546	-	COG1178P	iron ABC transporter inner membrane protein
+1895175..1896299	-	374	71066102	-	Psyc_1547	-	COG1840P	iron ABC transporter periplasmic binding protein
+1896555..1897298	-	247	71066103	-	Psyc_1548	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+1897307..1898875	-	522	71066104	kdtA	Psyc_1549	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+1898998..1900293	-	431	71066105	-	Psyc_1550	-	COG0790R	hypothetical protein
+1900396..1902039	-	547	71066106	cls	Psyc_1551	-	COG1502I	cardiolipin synthetase
+1902885..1903472	-	195	71066107	orn	Psyc_1552	-	COG1949A	oligoribonuclease
+1903694..1904797	+	367	71066108	-	Psyc_1553	-	COG1162R	sigma-54 interacting protein
+1904946..1905401	+	151	71066109	-	Psyc_1554	-	COG0607P	rhodanese-like sulfurtransferase
+1905668..1905931	+	87	71066110	-	Psyc_1555	-	COG0695O	glutaredoxin
+1906127..1906573	+	148	71066111	secB	Psyc_1556	-	COG1952U	preprotein translocase subunit SecB
+1906919..1907575	-	218	71066112	adk	Psyc_1557	-	COG0563F	adenylate kinase
+1907795..1909075	-	426	71066113	cycH	Psyc_1558	-	COG4235O	cytochrome c-type biogenesis protein
+1909072..1909650	-	192	71066114	ccmH	Psyc_1559	-	COG3088O	cytochrome C-type biogenesis protein
+1909647..1910297	-	216	71066115	dsbE	Psyc_1560	-	COG0526OC	periplasmic protein thiol:disulfide oxidoreductase DsbE
+1910299..1912344	-	681	71066116	ccmF	Psyc_1561	-	COG1138O	cytochrome c-type biogenesis protein
+1912583..1913917	-	444	71066117	-	Psyc_1562	-	COG4399S	hypothetical protein
+1914699..1916693	+	664	71066118	pb	Psyc_1563	-	COG0768M	peptidoglycan glycosyltransferase
+1916727..1917416	+	229	71066119	-	Psyc_1564	-	COG0742L	methyltransferase
+1917628..1918056	+	142	71066120	rplM	Psyc_1565	-	COG0102J	50S ribosomal protein L13
+1918067..1918453	+	128	71066121	rpsI	Psyc_1566	-	COG0103J	30S ribosomal protein S9
+1918735..1919826	+	363	71066122	-	Psyc_1567	-	COG1560M	lipid A biosynthesis acyltransferase
+1919952..1921040	+	362	71066123	trpS	Psyc_1568	-	COG0180J	tryptophanyl-tRNA synthetase
+1921138..1922004	+	288	71066124	-	Psyc_1569	-	COG1354S	condensin subunit ScpA
+1922067..1922618	+	183	71066125	-	Psyc_1570	-	COG1386K	condensin subunit ScpB
+1922898..1923599	-	233	71066126	lolA	Psyc_1571	-	COG2834M	outer membrane lipoprotein carrier
+1923962..1924219	-	85	71066127	rpmA	Psyc_1572	-	COG0211J	50S ribosomal protein L27
+1924311..1924622	-	103	71066128	rplU	Psyc_1573	-	COG0261J	50S ribosomal protein L21
+1925313..1926362	+	349	71066129	ispB	Psyc_1574	-	COG0142H	octaprenyl-diphosphate synthase
+1927044..1928390	+	448	71066130	-	Psyc_1575	-	COG1566V	RND membrane fusion protein AcrA
+1928426..1931653	+	1075	71066131	acrB	Psyc_1576	-	COG0841V	RND superfmily multidrug/dye/detergent efflux pump AcrB
+1931653..1933473	+	606	71066132	oprM	Psyc_1577	-	COG1538MU	outer membrane efflux protein, OprM
+1933859..1934866	+	335	71066133	hemB	Psyc_1578	-	COG0113H	delta-aminolevulinic acid dehydratase
+1935136..1936098	-	320	71066134	-	Psyc_1579	-	COG0435O	IMP dehydrogenase
+1936841..1937182	+	113	71066135	-	Psyc_1580	-	-	hypothetical protein
+1937293..1937652	+	119	71066136	-	Psyc_1581	-	-	hypothetical protein
+1937839..1939161	-	440	71066137	-	Psyc_1582	-	COG2814G	MFS Ni2+ efflux pump NreB
+1939192..1939383	-	63	71066138	-	Psyc_1583	-	COG1937S	NreA protein
+1939623..1940021	-	132	71066139	-	Psyc_1584	-	-	hypothetical protein
+1940158..1940640	+	160	71066140	-	Psyc_1585	-	-	hypothetical protein
+1940880..1941149	-	89	71066141	tatA	Psyc_1586	-	COG1826U	twin-arginine translocation protein TatA
+1941230..1943674	-	814	71066142	-	Psyc_1587	-	COG2217P	copper/silver efflux P-type ATPase
+1944334..1945083	-	249	71066143	-	Psyc_1588	-	COG0491R	Beta-lactamase-like superfamily protein
+1945157..1945642	-	161	71066144	-	Psyc_1589	-	COG3544S	hypothetical protein
+1945671..1946690	-	339	71066145	copB	Psyc_1590	-	COG3667P	copper-resistance protein CopB
+1946722..1948428	-	568	71066146	copA	Psyc_1591	-	COG2132Q	copper-resistance protein CopA
+1948535..1949188	-	217	71066147	-	Psyc_1592	-	COG3019R	hypothetical protein
+1949517..1950155	-	212	71066148	-	Psyc_1593	-	COG2010C	cytochrome c heme-binding site
+1950234..1950536	-	100	71066149	-	Psyc_1594	-	-	hypothetical protein
+1950730..1951059	-	109	71066150	-	Psyc_1595	-	-	hypothetical protein
+1951340..1952056	+	238	71066151	-	Psyc_1596	-	COG0745TK	two component heavy metal response transcriptional regulator
+1952058..1953545	+	495	71066152	-	Psyc_1597	-	COG0642T	signal transduction histidine kinase
+1953960..1955129	-	389	71066153	-	Psyc_1598	-	COG1566V	hlyD family secretion protein
+1955141..1957396	-	751	71066154	-	Psyc_1599	-	COG2274V	drug efflux ABC transporter ATPase/inner membrane protein
+1957402..1958946	-	514	71066155	-	Psyc_1600	-	COG1538MU	OMF family outer membrane efflux protein
+1959325..1979472	-	6715	71066156	-	Psyc_1601	-	-	hypothetical protein
+1979536..1980258	-	240	71066157	-	Psyc_1602	-	COG2885M	outer membrane protein OprF
+1981057..1981335	+	92	71066158	-	Psyc_1603	-	-	hypothetical protein
+1981427..1982449	+	340	71066159	-	Psyc_1604	-	COG2515E	D-cysteine desulfhydrase
+1982738..1983283	-	181	71066160	-	Psyc_1605	-	-	hypothetical protein
+1983299..1984000	-	233	71066161	ktrA	Psyc_1606	-	COG0569P	K+ uptake transporter KtrA subunit
+1984051..1985811	-	586	71066162	ktrB	Psyc_1607	-	COG0168P	K+ uptake transporter KtrB subunit
+1986060..1986548	-	162	71066163	-	Psyc_1608	-	COG1451R	hypothetical protein
+1987131..1987460	+	109	71066164	-	Psyc_1609	-	-	hypothetical protein
+1988124..1989236	-	370	71066165	gpdh	Psyc_1610	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase family protein
+1989456..1991417	-	653	71066166	-	Psyc_1611	-	COG0507L	DNA helicase: AAA ATPase
+1991704..1993230	+	508	71066167	-	Psyc_1612	-	COG1012C	aldehyde dehydrogenase
+1993486..1993812	+	108	71066168	-	Psyc_1613	-	COG3564S	hypothetical protein
+1994034..1995677	+	547	71066169	-	Psyc_1614	-	COG2303E	glucose-methanol-choline oxidoreductase
+1995727..1996716	-	329	71066170	-	Psyc_1615	-	COG0551L	hypothetical protein
+1996738..1997616	-	292	71066171	-	Psyc_1616	-	-	hypothetical protein
+1997966..1999963	-	665	71066172	tktA	Psyc_1617	-	COG0021G	transketolase
+2000255..2001538	-	427	71066173	serS	Psyc_1618	-	COG0172J	seryl-tRNA synthetase
+2001991..2002653	+	220	71066174	-	Psyc_1619	-	-	hypothetical protein
+2002892..2003377	+	161	71066175	-	Psyc_1620	-	COG0783P	DNA-binding protein, Dps
+2003488..2004189	-	233	71066176	-	Psyc_1621	-	COG3110S	hypothetical protein
+2004244..2005056	-	270	71066177	-	Psyc_1622	-	COG0593L	regulatory inactivation of DnaA Hda protein
+2005468..2006571	-	367	71066178	-	Psyc_1623	-	COG0628R	PerM family permease
+2006924..2007973	+	349	71066179	purM	Psyc_1624	-	COG0150F	phosphoribosylaminoimidazole synthetase
+2007973..2008695	+	240	71066180	purN	Psyc_1625	-	COG0299F	phosphoribosylglycinamide formyltransferase
+2008784..2009773	-	329	71066181	-	Psyc_1626	-	COG0583K	LysR family transcriptional regulator
+2010478..2012064	+	528	71066182	aceA	Psyc_1627	-	COG2224C	isocitrate lyase
+2012323..2013879	+	518	71066183	-	Psyc_1628	-	COG3025S	adenylate cyclase
+2014149..2014670	-	173	71066184	-	Psyc_1629	-	COG1376S	hypothetical protein
+2014805..2016067	+	420	71066185	-	Psyc_1630	-	-	hypothetical protein
+2016207..2017445	-	412	71066186	argG	Psyc_1631	-	COG0137E	argininosuccinate synthase
+2017795..2018871	+	358	71066187	pyrC	Psyc_1632	-	COG0418F	dihydroorotase
+2019038..2019757	+	239	71066188	-	Psyc_1633	-	COG0847L	ribonuclease T
+2020398..2021243	-	281	71066189	-	Psyc_1634	-	COG1211I	nucleotidylyl transferase, pyrophosphorylase
+2021356..2021664	-	102	71066190	ftsB	Psyc_1635	-	COG2919D	cell division protein FtsB
+2021756..2023072	-	438	71066191	eno	Psyc_1636	-	COG0148G	phosphopyruvate hydratase
+2023393..2025753	-	786	71066192	-	Psyc_1637	-	COG2217P	copper(heavy metal)-transporting P-type ATPase
+2026105..2026329	-	74	71066193	merP	Psyc_1638	-	COG2608P	MerP, periplasmic heavy metal binding/chaperone protein
+2026614..2026868	-	84	71066194	-	Psyc_1639	-	COG2608P	hypothetical protein
+2026896..2027771	-	291	71066195	kdsA	Psyc_1640	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+2028125..2029759	-	544	71066196	pyrG	Psyc_1641	-	COG0504F	CTP synthetase
+2030108..2031205	-	365	71066197	ompN	Psyc_1642	-	COG3203M	porin
+2031762..2033966	-	734	71066198	-	Psyc_1643	-	COG2225C	malate synthase G
+2034613..2035398	+	261	71066199	-	Psyc_1644	-	COG4445FJ	tRNA-(ms(2)io(6)a)-hydroxylase
+2035502..2036011	-	169	71066200	-	Psyc_1645	-	-	hypothetical protein
+2036135..2036449	-	104	71066201	-	Psyc_1646	-	-	hypothetical protein
+2036722..2039019	-	765	71066202	ppk	Psyc_1647	-	COG0855P	polyphosphate kinase
+2039183..2039869	-	228	71066203	-	Psyc_1648	-	COG0744M	monofunctional biosynthetic peptidoglycan transglycosylase
+2040143..2040451	+	102	71066204	-	Psyc_1649	-	-	hypothetical protein
+2040689..2042167	+	492	71066205	glcD	Psyc_1650	-	COG0277C	glycolate oxidase subunit D
+2042164..2043222	+	352	71066206	glcE	Psyc_1651	-	COG0277C	glycolate oxidase FAD binding subunit
+2043249..2044457	+	402	71066207	glcF	Psyc_1652	-	COG0247C	glycolate oxidase iron-sulfur subunit
+2044699..2046456	+	585	71066208	glcA	Psyc_1653	-	COG1620C	glycolate/L-lactate:H+ symporter
+2046659..2047867	+	402	71066209	lldA	Psyc_1654	-	COG1304C	L-lactate dehydrogenase (cytochrome)
+2047966..2049096	+	376	71066210	-	Psyc_1655	-	COG0705R	rhomboid family protein
+2049196..2050008	+	270	71066211	-	Psyc_1656	-	COG3713M	outer membrane protein/scaffolding protein MipA
+2050202..2051605	-	467	71066212	fumC	Psyc_1657	-	COG0114C	fumarate hydratase
+2051749..2052441	+	230	71066213	-	Psyc_1658	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+2052973..2055600	+	875	71066214	lon	Psyc_1659	-	COG0466O	Lon-A peptidase
+2055885..2058563	-	892	71066215	topA	Psyc_1660	-	COG0550L	DNA topoisomerase I
+2058843..2059439	-	198	71066216	-	Psyc_1661	-	-	hypothetical protein
+2059781..2060182	-	133	71066217	exbD	Psyc_1662	-	COG0848U	iopolymer transport protein ExbD/TolR
+2060190..2060771	-	193	71066218	exbB	Psyc_1663	-	COG0811U	MotA/TolQ/ExbB proton channel
+2060877..2061890	-	337	71066219	tonB	Psyc_1664	-	COG0810M	TonB/TolA energy transducing protein
+2062387..2063052	-	221	71066220	-	Psyc_1665	-	COG1309K	TetR family transcriptional regulator
+2063570..2063845	+	91	71066221	-	Psyc_1666	-	COG2973K	Trp operon repressor
+2063912..2065330	+	472	71066222	trpE	Psyc_1667	-	COG0147EH	anthranilate synthase, component I
+2065363..2066010	+	215	71066223	-	Psyc_1668	-	COG0512EH	anthranilate synthase, component II
+2066093..2066374	+	93	71066224	-	Psyc_1669	-	-	hypothetical protein
+2066483..2067829	-	448	71066225	dhe4	Psyc_1670	-	COG0334E	glutamate dehydrogenase
+2068135..2069265	-	376	71066226	adhC	Psyc_1671	-	COG1062C	Zn-dependent alcohol dehydrogenase class III
+2069380..2070246	+	288	71066227	-	Psyc_1672	-	COG0583K	LysR family transcriptional regulator
+2070339..2070857	+	172	71066228	-	Psyc_1673	-	COG3439S	hypothetical protein
+2070948..2073251	-	767	71066229	-	Psyc_1674	-	COG1305E	transglutaminase-like superfamily protein
+2073248..2074309	-	353	71066230	-	Psyc_1675	-	COG1721R	hypothetical protein
+2074392..2075399	-	335	71066231	moxR	Psyc_1676	-	COG0714R	methanol dehydrogenase regulatory protein
+2075468..2075923	-	151	71066232	-	Psyc_1677	-	COG3474C	cytochrome C2
+2076067..2078160	-	697	71066233	-	Psyc_1678	-	COG2200T	diguanylate cyclase/phosphodiesterase
+2078442..2079449	-	335	71066234	kamA	Psyc_1679	-	COG1509E	L-lysine 2,3-aminomutase
+2079644..2080216	+	190	71066235	efp	Psyc_1680	-	COG0231J	elongation factor P
+2080446..2081336	-	296	71066236	-	Psyc_1681	-	COG1179H	HesA/MoeB/ThiF family protein
+2081409..2082416	-	335	71066237	-	Psyc_1682	-	COG0084L	TatD family Mg-dependent DNase
+2082784..2083425	-	213	71066238	ssb	Psyc_1683	-	COG0629L	single-strand binding protein
+2083535..2084899	-	454	71066239	-	Psyc_1684	-	COG2814G	sugar efflux MFS family transporter
+2085665..2088571	+	968	71066240	uvrA	Psyc_1685	-	COG0178L	excinuclease ABC subunit A
+2088732..2089664	-	310	71066241	-	Psyc_1686	-	-	hypothetical protein
+2089744..2090562	-	272	71066242	-	Psyc_1687	-	COG2801L	IS30 family transposase
+2090613..2090909	-	98	71066243	-	Psyc_1688	-	COG2963L	IS3/IS911 family transposase OrfA
+2091040..2092329	+	429	71066244	-	Psyc_1689	-	-	hypothetical protein
+2092556..2092837	-	93	71066245	-	Psyc_1690	-	COG1550S	hypothetical protein
+2093001..2093804	+	267	71066246	-	Psyc_1691	-	COG2966S	ThrE family exporter large subunit
+2093806..2094258	+	150	71066247	-	Psyc_1692	-	COG3610S	ThrE family exporter small subunit
+2094602..2095957	+	451	71066248	gor	Psyc_1693	-	COG1249C	glutathione reductase
+2096067..2096495	+	142	71066249	-	Psyc_1694	-	-	hypothetical protein
+2096525..2097148	-	207	71066250	-	Psyc_1695	-	COG0456R	acetyltransferase
+2097506..2098717	+	403	71066251	-	Psyc_1696	-	COG0585S	hypothetical protein
+2099061..2099942	-	293	71066252	-	Psyc_1697	-	COG0613R	PHP family metal-dependent phosphoesterase
+2100097..2100648	+	183	71066253	ispZ	Psyc_1698	-	COG2917D	intracellular septation protein A
+2100813..2101142	+	109	71066254	-	Psyc_1699	-	COG2350S	hypothetical protein
+2101139..2101624	+	161	71066255	-	Psyc_1700	-	-	hypothetical protein
+2101722..2103812	+	696	71066256	-	Psyc_1701	-	COG4121S	hypothetical protein
+2104087..2105010	-	307	71066257	ubiA	Psyc_1702	-	COG0382H	4-hydroxybenzoate polyprenyltransferase
+2105251..2105490	-	79	71066258	-	Psyc_1703	-	-	hypothetical protein
+2105531..2106421	-	296	71066259	-	Psyc_1704	-	COG0742L	hypothetical protein
+2106487..2107329	-	280	71066260	bacA	Psyc_1705	-	COG1968V	undecaprenyl pyrophosphate phosphatase
+2107461..2108144	-	227	71066261	-	Psyc_1706	-	COG1214O	metal (zinc) dependent glycoprotease
+2108357..2109892	-	511	71066262	ffh	Psyc_1707	-	COG0541U	signal recognition particle subunit FFH/SRP54 (srp54)
+2110147..2110953	+	268	71066263	-	Psyc_1708	-	COG4137R	hypothetical protein
+2111001..2111369	-	122	71066264	-	Psyc_1709	-	-	transposase
+2112006..2112242	+	78	71066265	rpmB	Psyc_1710	-	COG0227J	50S ribosomal protein L28
+2112408..2112563	+	51	71066266	rpmG	Psyc_1711	-	COG0267J	50S ribosomal protein L33
+2112789..2113100	-	103	71066267	-	Psyc_1712	-	-	hypothetical protein
+2113302..2113610	-	102	71066268	-	Psyc_1713	-	-	hypothetical protein
+2113756..2114091	-	111	71066269	-	Psyc_1714	-	-	hypothetical protein
+2114190..2114879	-	229	71066270	rpe	Psyc_1715	-	COG0036G	ribulose-5-phosphate 3-epimerase
+2115058..2115537	-	159	71066271	-	Psyc_1716	-	-	hypothetical protein
+2115595..2116485	-	296	71066272	-	Psyc_1717	-	COG0627R	S-formylglutathione hydrolase
+2116576..2117976	-	466	71066273	-	Psyc_1718	-	COG1835I	hypothetical protein
+2118369..2120339	-	656	71066274	htpG	Psyc_1719	-	COG0326O	heat shock protein 90
+2120771..2121586	-	271	71066275	-	Psyc_1720	-	-	hypothetical protein
+2121751..2121996	-	81	71066276	-	Psyc_1721	-	-	hypothetical protein
+2122039..2122995	-	318	71066277	ispH	Psyc_1722	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+2123321..2123947	+	208	71066278	gmk	Psyc_1723	-	COG0194F	guanylate kinase
+2124134..2124394	+	86	71066279	rpoZ	Psyc_1724	-	COG1758K	DNA-directed RNA polymerase subunit omega
+2124740..2126926	+	728	71066280	spoT	Psyc_1725	-	COG0317TK	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+2127083..2127463	+	126	71066281	-	Psyc_1726	-	COG0251J	endoribonuclease L-PSP
+2127527..2129896	+	789	71066282	priA	Psyc_1727	-	COG1198L	replication restart DNA helicase PriA
+2130197..2130901	+	234	71066283	-	Psyc_1728	-	-	hypothetical protein
+2130976..2132862	+	628	71066284	-	Psyc_1729	-	COG0475P	glutathione-regulated K+ efflux antiporter
+2133052..2133981	-	309	71066285	-	Psyc_1730	-	-	hypothetical protein
+2134203..2135024	+	273	71066286	-	Psyc_1731	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+2136062..2137120	+	352	71066287	recA	Psyc_1732	-	COG0468L	recombinase A
+2137298..2138419	+	373	71066288	recX	Psyc_1733	-	COG2137R	inhibitor/regulator of recA, recX
+2138488..2139036	-	182	71066289	-	Psyc_1734	-	COG3753S	hypothetical protein
+2139259..2139717	-	152	71066290	-	Psyc_1735	-	-	hypothetical protein
+2139806..2140087	-	93	71066291	-	Psyc_1736	-	COG2938S	hypothetical protein
+2140246..2141142	-	298	71066292	folP	Psyc_1737	-	COG0294H	dihydropteroate synthase
+2141297..2143183	-	628	71066293	ftsH	Psyc_1738	-	COG0465O	membrane protease FtsH catalytic subunit
+2143595..2144227	-	210	71066294	ftsJ	Psyc_1739	-	COG0293J	23S rRNA methylase, heat shock protein
+2144589..2144897	+	102	71066295	-	Psyc_1740	-	COG1534J	hypothetical protein
+2145112..2145873	+	253	71066296	-	Psyc_1741	-	-	hypothetical protein
+2145972..2146700	-	242	71066297	-	Psyc_1742	-	-	hypothetical protein
+2146968..2147483	+	171	71066298	-	Psyc_1743	-	-	hypothetical protein
+2147782..2148744	-	320	71066299	lpxC	Psyc_1744	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+2149177..2150373	-	398	71066300	ftsZ	Psyc_1745	-	COG0206D	cell division protein FtsZ
+2150619..2151959	-	446	71066301	ftsA	Psyc_1746	-	COG0849D	cell division protein FtsA
+2152064..2152891	-	275	71066302	ftsQ	Psyc_1747	-	COG1589M	cell division protein FtsQ
+2153610..2154491	+	293	71066303	-	Psyc_1748	-	-	IS4 family transposase
+2154516..2155616	-	366	71066304	ddl	Psyc_1749	-	COG1181M	D-alanine--D-alanine ligase
+2155660..2157099	-	479	71066305	murC	Psyc_1750	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+2157169..2158254	-	361	71066306	murG	Psyc_1751	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+2158594..2159577	-	327	71066307	gshB	Psyc_1752	-	COG0189HJ	glutathione synthetase
+2159685..2160389	-	234	71066308	pyrE	Psyc_1753	-	COG0461F	orotate phosphoribosyltransferase
+2160460..2161476	-	338	71066309	-	Psyc_1754	-	-	hypothetical protein
+2161706..2162545	-	279	71066310	-	Psyc_1755	-	COG0451MG	nucleoside-diphosphate-sugar epimerase
+2162607..2164769	-	720	71066311	-	Psyc_1756	-	-	hypothetical protein
+2164935..2165525	+	196	71066312	-	Psyc_1757	-	COG3023V	N-acetyl-anhydromuranmyl-L-alanine amidase
+2165674..2167224	+	516	71066313	mviN	Psyc_1758	-	COG0728R	MviN family virulence factor
+2167347..2167967	+	206	71066314	-	Psyc_1759	-	-	hypothetical protein
+2167992..2168642	-	216	71066315	-	Psyc_1760	-	COG1247M	phosphinothricin acetyltransferase
+2168899..2169942	+	347	71066316	ribF	Psyc_1761	-	COG0196H	riboflavin kinase/FMN adenylyltransferase
+2170027..2170260	-	77	71066317	-	Psyc_1762	-	-	hypothetical protein
+2170547..2171536	-	329	71066318	mdh	Psyc_1763	-	COG0039C	malate dehydrogenase
+2171938..2172564	-	208	71066319	-	Psyc_1764	-	COG3719J	hypothetical protein
+2173190..2175409	-	739	71066320	-	Psyc_1765	-	COG0741M	soluble lytic murein transglycosylase
+2175888..2177378	+	496	71066321	miaB	Psyc_1766	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+2177620..2178369	-	249	71066322	-	Psyc_1767	-	COG1280E	homoserine/homoserine lactone efflux pump
+2178476..2179714	-	412	71066323	argE	Psyc_1768	-	COG0624E	acetylornithine deacetylase
+2179986..2180639	-	217	71066324	-	Psyc_1769	-	COG3079S	hypothetical protein
+2180879..2181322	+	147	71066325	-	Psyc_1770	-	COG4372S	hypothetical protein
+2181430..2181876	+	148	71066326	-	Psyc_1771	-	COG3027S	cell division protein ZapA
+2182115..2182372	-	85	71066327	-	Psyc_1772	-	-	hypothetical protein
+2182547..2184640	-	697	71066328	glyS	Psyc_1773	-	COG0751J	glycyl-tRNA synthetase subunit beta
+2184650..2185639	-	329	71066329	glyQ	Psyc_1774	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+2186075..2186287	-	70	71066330	-	Psyc_1775	-	COG1983KT	stress-responsive transcriptional regulator, PspC
+2186824..2187276	+	150	71066331	-	Psyc_1776	-	COG4539S	hypothetical protein
+2187429..2188037	-	202	71066332	-	Psyc_1777	-	COG3560R	hypothetical protein
+2188547..2189413	-	288	71066333	-	Psyc_1778	-	COG2801L	transposase OrfB
+2189355..2189621	-	88	71066334	-	Psyc_1779	-	-	IS3 family transposase
+2189763..2190659	-	298	71066335	-	Psyc_1780	-	-	hypothetical protein
+2190788..2193100	-	770	71066336	-	Psyc_1781	-	COG3210U	heme-hemopexin-binding/utilization protein
+2193166..2194830	-	554	71066337	-	Psyc_1782	-	COG2831U	heme-hemopexin utilization protein B
+2196414..2197226	+	270	71066338	-	Psyc_1783	-	COG4783R	zinc metallopeptidase
+2197435..2197779	+	114	71066339	bolA	Psyc_1784	-	COG0271T	transcriptional regulator BolA
+2197852..2198211	+	119	71066340	-	Psyc_1785	-	COG3094S	hypothetical protein
+2198362..2198751	+	129	71066341	-	Psyc_1786	-	-	hypothetical protein
+2198848..2199366	+	172	71066342	-	Psyc_1787	-	COG2963L	IS3/IS911 family transposase orfA
+2199408..2200193	+	261	71066343	-	Psyc_1788	-	COG2801L	IS3 family transposase
+2200298..2200732	-	144	71066344	-	Psyc_1789	-	COG3118O	thioredoxin
+2200907..2201779	-	290	71066345	-	Psyc_1790	-	COG0491R	metallo-beta-lactamase superfamily protein
+2202140..2202430	+	96	71066346	-	Psyc_1791	-	COG0640K	ArsR family transcriptional regulator
+2202501..2204213	+	570	71066347	-	Psyc_1792	-	COG0659P	SulP family sulfate permease
+2204392..2204718	+	108	71066348	-	Psyc_1793	-	COG3453S	hypothetical protein
+2204856..2205188	+	110	71066349	-	Psyc_1794	-	COG3453S	hypothetical protein
+2205524..2207101	-	525	71066350	ahpF	Psyc_1795	-	COG3634O	alkyl hydroperoxide reductase
+2207771..2208019	+	82	71066351	-	Psyc_1796	-	COG2841S	hypothetical protein
+2208259..2208825	-	188	71066352	ahpC	Psyc_1797	-	COG0450O	alkyl hydroperoxide reductase
+2209091..2209999	+	302	71066353	-	Psyc_1798	-	COG0583K	LysR family transcriptional regulator
+2210189..2210794	-	201	71066354	-	Psyc_1799	-	COG2226H	hypothetical protein
+2210929..2211597	-	222	71066355	-	Psyc_1800	-	COG1451R	hypothetical protein
+2211599..2213191	-	530	71066356	-	Psyc_1801	-	COG3490S	hypothetical protein
+2213195..2214364	-	389	71066357	-	Psyc_1802	-	COG3489R	hypothetical protein
+2214478..2216166	-	562	71066358	-	Psyc_1803	-	COG3488C	hypothetical protein
+2216566..2218008	-	480	71066359	-	Psyc_1804	-	COG3487P	imelysin
+2218442..2219095	-	217	71066360	-	Psyc_1805	-	COG2885M	OmpA/OmpF family outer membrane protein
+2219610..2219813	+	67	71066361	-	Psyc_1806	-	-	hypothetical protein
+2219995..2221110	+	371	71066362	-	Psyc_1807	-	-	hypothetical protein
+2221188..2222066	+	292	71066363	minC	Psyc_1808	-	COG0850D	septum site-determining protein MinC
+2222688..2223500	+	270	71066364	minD	Psyc_1809	-	COG2894D	septum site-determining protein MinD
+2223503..2223793	+	96	71066365	minE	Psyc_1810	-	COG0851D	cell division topological specificity factor MinE
+2224089..2224616	-	175	71066366	hybC	Psyc_1811	-	COG3038C	nickel-dependent hydrogenase b561-type cytochrome subunit
+2224820..2225317	-	165	71066367	-	Psyc_1812	-	-	hypothetical protein
+2225363..2232217	-	2284	71066368	-	Psyc_1813	-	COG0643NT	hybrid two-component sensor and regulatory protein
+2232248..2233150	-	300	71066369	pilK	Psyc_1814	-	COG1352NT	chemotaxis protein CheR
+2233360..2234787	-	475	71066370	pilJ	Psyc_1815	-	COG0840NT	chemotaxis sensory transducer protein
+2234982..2235512	-	176	71066371	pilI	Psyc_1816	-	COG0835NT	type IV pili signal transducer
+2235516..2235878	-	120	71066372	pilH	Psyc_1817	-	COG3706T	two-component response regulator
+2236056..2236433	-	125	71066373	pilG	Psyc_1818	-	COG0745TK	two component reponse regulator
+2237312..2238430	+	372	71066374	-	Psyc_1819	-	COG0845M	hypothetical protein
+2238714..2239436	+	240	71066375	-	Psyc_1820	-	COG0745TK	two component transcriptional regulator
+2239574..2241685	+	703	71066376	-	Psyc_1821	-	COG0642T	signal transduction histidine kinase sensor
+2242000..2242770	+	256	71066377	metN	Psyc_1822	-	COG1135P	methionine ABC transporter ATPase subunit MetN
+2242790..2243476	+	228	71066378	metI	Psyc_1823	-	COG2011P	methionine ABC transporter ATPase subunit MetI
+2243744..2244697	+	317	71066379	metQ	Psyc_1824	-	COG1464P	methionine ABC transporter periplasmic solute binding protein metQ
+2244850..2245350	-	166	71066380	ccmE	Psyc_1825	-	COG2332O	cytochrome c-type biogenesis protein CcmE
+2245590..2245814	-	74	71066381	ccmD	Psyc_1826	-	COG3114U	cytochrome c biogenesis protein, CcmD
+2245847..2246635	-	262	71066382	ccmC	Psyc_1827	-	COG0755O	heme exporter, subunit CcmC
+2246866..2247603	-	245	71066383	ccmB	Psyc_1828	-	COG2386O	ABC transporter inner membrane protein CcmB
+2247671..2248300	-	209	71066384	ccmA	Psyc_1829	-	COG4133O	ABC transporter ATPase subunit CcmA
+2248417..2249469	+	350	71066385	-	Psyc_1830	-	-	hypothetical protein
+2249651..2250052	+	133	71066386	-	Psyc_1831	-	COG0123BQ	hypothetical protein
+2249987..2250760	-	257	71066387	-	Psyc_1832	-	COG0730R	hypothetical protein
+2251041..2252426	-	461	71066388	dfp	Psyc_1833	-	COG0452H	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+2252545..2253228	+	227	71066389	radC	Psyc_1834	-	COG2003L	DNA repair protein RadC
+2253553..2256537	+	994	71066390	fadE	Psyc_1835	-	COG1960I	acyl-CoA dehydrogenase
+2256923..2258296	+	457	71066391	gltP	Psyc_1836	-	COG1301C	sodium/proton:dicarboxylate (glutamate) symporter
+2258449..2259204	-	251	71066392	-	Psyc_1837	-	COG0730R	hypothetical protein
+2259774..2260976	+	400	71066393	nhaA	Psyc_1838	-	COG3004P	pH-dependent sodium/proton antiporter
+2261314..2262678	+	454	71066394	-	Psyc_1839	-	-	hypothetical protein
+2262931..2263668	-	245	71066395	-	Psyc_1840	-	-	MutT/nudix family protein
+2264325..2264888	+	187	71066396	-	Psyc_1841	-	COG1051F	hypothetical protein
+2265219..2268293	-	1024	71066397	-	Psyc_1842	-	COG1026R	peptidase M16 family
+2268611..2269072	+	153	71066398	-	Psyc_1843	-	COG0589T	universal stress protein
+2269252..2270187	-	311	71066399	-	Psyc_1844	-	COG0583K	LysR family transcriptional regulator
+2270430..2271512	+	360	71066400	-	Psyc_1845	-	COG2855S	hypothetical protein
+2271782..2271991	-	69	71066401	-	Psyc_1846	-	COG1278K	cold-shock DNA-binding protein family protein
+2272237..2272659	-	140	71066402	-	Psyc_1847	-	COG2832S	hypothetical protein
+2272826..2273185	-	119	71066403	-	Psyc_1848	-	-	hypothetical protein
+2273303..2275093	-	596	71066404	-	Psyc_1849	-	-	hypothetical protein
+2275303..2278257	-	984	71066405	valS	Psyc_1850	-	COG0525J	valyl-tRNA synthetase
+2278623..2279663	+	346	71066406	-	Psyc_1851	-	COG2116P	formate/nitrate transporter
+2279660..2280139	-	159	71066407	-	Psyc_1852	-	COG0393S	hypothetical protein
+2280191..2280667	-	158	71066408	-	Psyc_1853	-	COG0393S	hypothetical protein
+2280830..2281387	-	185	71066409	-	Psyc_1854	-	-	hypothetical protein
+2281755..2281991	-	78	71066410	-	Psyc_1855	-	-	hypothetical protein
+2282186..2283727	-	513	71066411	-	Psyc_1856	-	-	hypothetical protein
+2284175..2285377	+	400	71066412	serB	Psyc_1857	-	COG0560E	phosphoserine phosphatase
+2285686..2286711	+	341	71066413	-	Psyc_1858	-	COG2035S	hypothetical protein
+2287102..2287491	+	129	71066414	-	Psyc_1859	-	-	hypothetical protein
+2287667..2288173	+	168	71066415	-	Psyc_1860	-	-	hypothetical protein
+2288383..2289519	+	378	71066416	bioB	Psyc_1861	-	COG0502H	biotin synthase
+2289611..2290045	+	144	71066417	-	Psyc_1862	-	COG1981S	hypothetical protein
+2290156..2290980	-	274	71066418	-	Psyc_1863	-	-	hypothetical protein
+2291162..2291653	-	163	71066419	-	Psyc_1864	-	-	hypothetical protein
+2291836..2292552	-	238	71066420	rph	Psyc_1865	-	COG0689J	ribonuclease PH
+2292913..2294697	-	594	71066421	-	Psyc_1866	-	COG0318IQ	long-chain fatty acid CoA ligase (AMP-binding)
+2295403..2297130	-	575	71066422	fadD	Psyc_1867	-	COG0318IQ	long-chain fatty acid CoA ligase (AMP-binding)
+2297852..2300170	+	772	71066423	parC	Psyc_1868	-	COG0188L	DNA topoisomerase IV subunit A
+2300167..2301174	+	335	71066424	-	Psyc_1869	-	COG1432S	hypothetical protein
+2301288..2302085	+	265	71066425	cof	Psyc_1870	-	COG0561R	class II-B haloacid dehalogenase
+2302590..2303381	-	263	71066426	-	Psyc_1871	-	COG1028IQR	3-oxoacyl-ACP reductase
+2303677..2304912	-	411	71066427	-	Psyc_1872	-	COG1289S	hypothetical protein
+2305213..2306634	-	473	71066428	gltD	Psyc_1873	-	COG0493ER	glutamate synthase subunit beta
+2306818..2311281	-	1487	71066429	gltB	Psyc_1874	-	COG0069E	glutamate synthase subunit alpha
+2312055..2312345	-	96	71066430	-	Psyc_1875	-	-	hypothetical protein
+2312335..2313291	-	318	71066431	-	Psyc_1876	-	-	hypothetical protein
+2313403..2314569	-	388	71066432	aroB	Psyc_1877	-	COG0337E	3-dehydroquinate synthase
+2314791..2315351	-	186	71066433	aroK	Psyc_1878	-	COG0703E	shikimate kinase
+2315518..2317788	-	756	71066434	pilQ	Psyc_1879	-	COG4796U	fimbrial assembly protein PilQ
+2317816..2318355	-	179	71066435	pilP	Psyc_1880	-	COG3168NU	type IV pilus assembly
+2318355..2319083	-	242	71066436	pilO	Psyc_1881	-	COG3167NU	type IV pilus biogenesis
+2319080..2319745	-	221	71066437	pilN	Psyc_1882	-	COG3166NU	type IV pilus biogenesis fimbrial assembly
+2319745..2320800	-	351	71066438	pilM	Psyc_1883	-	COG4972NU	type IV pilus assembly protein
+2320996..2323602	+	868	71066439	mrcA	Psyc_1884	-	COG5009M	penicillin-binding protein 1A
+2323944..2324483	-	179	71066440	-	Psyc_1885	-	-	hypothetical protein
+2324839..2329059	-	1406	71066441	rpoC	Psyc_1886	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+2329248..2333366	-	1372	71066442	rpoB	Psyc_1887	-	COG0085K	DNA-directed RNA polymerase subunit beta
+2334121..2334492	-	123	71066443	rplL	Psyc_1888	-	COG0222J	50S ribosomal protein L7/L12
+2334619..2335146	-	175	71066444	rplJ	Psyc_1889	-	COG0244J	50S ribosomal protein L10
+2335584..2336285	-	233	71066445	rplA	Psyc_1890	-	COG0081J	50S ribosomal protein L1
+2336285..2336716	-	143	71066446	rplK	Psyc_1891	-	COG0080J	50S ribosomal protein L11
+2336805..2337335	-	176	71066447	nusG	Psyc_1892	-	COG0250K	transcription antitermination protein nusG
+2337407..2337895	-	162	71066448	secE	Psyc_1893	-	COG0690U	preprotein translocase subunit SecE
+2338442..2339632	-	396	71066449	tufBb	Psyc_1894	-	COG0050J	elongation factor Tu
+2339853..2341979	-	708	71066450	fusA1	Psyc_1895	-	COG0480J	elongation factor G
+2342366..2342839	-	157	71066451	rpsG	Psyc_1896	-	COG0049J	30S ribosomal protein S7
+2343048..2343422	-	124	71066452	rpsL	Psyc_1897	-	COG0048J	30S ribosomal protein S12
+2343962..2344990	-	342	71066453	-	Psyc_1898	-	-	hypothetical protein
+2345649..2346884	+	411	71066454	fabB	Psyc_1899	-	COG0304IQ	3-oxoacyl-ACP synthase
+2346888..2348597	+	569	71066455	pabB	Psyc_1900	-	COG0147EH	p-aminobenzoate synthase, component I
+2348849..2349982	-	377	71066456	-	Psyc_1901	-	COG0079E	histidinol-phosphate aminotransferase
+2350045..2351340	-	431	71066457	hisD	Psyc_1902	-	COG0141E	histidinol dehydrogenase
+2351587..2352282	-	231	71066458	hisG	Psyc_1903	-	COG0040E	ATP phosphoribosyltransferase
+2352430..2353698	-	422	71066459	murA	Psyc_1904	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+2353814..2354065	-	83	71066460	-	Psyc_1905	-	COG5007K	hypothetical protein
+2354227..2355177	-	316	71066461	-	Psyc_1906	-	COG0657I	hypothetical protein
+2355421..2356101	-	226	71066462	-	Psyc_1907	-	COG2823R	hypothetical protein
+2356328..2356849	-	173	71066463	-	Psyc_1908	-	COG0792L	hypothetical protein
+2357009..2357968	+	319	71066464	-	Psyc_1909	-	COG0313R	uroporphyrin-III C/tetrapyrrole methyltransferase
+2358027..2359046	+	339	71066465	pfkB	Psyc_1910	-	COG0524G	carbohydrate kinase
+2359205..2359888	-	227	71066466	-	Psyc_1911	-	COG0316S	hypothetical protein
+2360398..2360745	+	115	71066467	-	Psyc_1912	-	COG0599S	carboxymuconolactone decarboxylase family protein
+2361125..2362192	+	355	71066468	nadR	Psyc_1913	-	COG1051F	bifunctional nicotinamide mononucleotide adenylyltransferase/ADP-ribose pyrophosphatase
+2362309..2363706	+	465	71066469	-	Psyc_1914	-	COG1488H	nicotinate phosphoribosyltransferase
+2363700..2364542	+	280	71066470	-	Psyc_1915	-	COG2755E	hypothetical protein
+2364663..2364944	-	93	161611071	rpmE2	Psyc_1916	-	COG0254J	50S ribosomal protein L31
+2365381..2366004	+	207	71066472	-	Psyc_1917	-	COG2353S	hypothetical protein
+2366158..2366592	-	144	71066473	-	Psyc_1918	-	COG4315S	hypothetical protein
+2367112..2368686	+	524	71066474	-	Psyc_1919	-	COG0644C	hypothetical protein
+2368788..2369465	-	225	71066475	-	Psyc_1920	-	COG1611R	hypothetical protein
+2369784..2370374	+	196	71066476	-	Psyc_1921	-	COG0739M	metallopeptidase peptidase
+2370387..2371478	-	363	71066477	phoR	Psyc_1922	-	COG5002T	signal transduction histidine kinase sensor
+2371567..2372271	-	234	71066478	phoB	Psyc_1923	-	COG0745TK	two component transcriptional regulator
+2372433..2372888	-	151	71066479	-	Psyc_1924	-	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+2373065..2373898	+	277	71066480	psd	Psyc_1925	-	COG0688I	phosphatidylserine decarboxylase
+2374233..2375387	+	384	71066481	pstS	Psyc_1926	-	COG0226P	phosphate ABC transporter periplasmic solute binding subunit PstS
+2375595..2376545	+	316	71066482	pstC	Psyc_1927	-	COG0573P	phosphate ABC transporter inner membrane protein PstC
+2376628..2377542	+	304	71066483	pstA	Psyc_1928	-	COG0581P	phosphate ABC transporter inner membrane protein PstA
+2377642..2378559	+	305	71066484	pstB	Psyc_1929	-	COG1117P	phosphate transporter ATP-binding protein
+2378645..2379376	+	243	71066485	phoU	Psyc_1930	-	COG0704P	phosphate uptake regulator PhoU
+2379467..2380111	-	214	71066486	-	Psyc_1931	-	COG1896R	metal dependent phosphohydrolase
+2380283..2380858	-	191	71066487	-	Psyc_1932	-	COG1335Q	hypothetical protein
+2381258..2382430	-	390	71066488	fadA	Psyc_1933	-	COG0183I	3-ketoacyl-CoA thiolase
+2382574..2384733	-	719	71066489	fadB	Psyc_1934	-	COG1250I	multifunctional fatty acid oxidation complex subunit alpha
+2385466..2386473	+	335	71066490	ispA	Psyc_1935	-	COG0142H	farnesyl-diphosphate synthase
+2386514..2387332	+	272	71066491	-	Psyc_1936	-	COG1801S	hypothetical protein
+2387413..2388357	+	314	71066492	-	Psyc_1937	-	-	hypothetical protein
+2388452..2389081	-	209	71066493	sodB	Psyc_1938	-	COG0605P	superoxide dismutase
+2389621..2390274	+	217	71066494	-	Psyc_1939	-	COG0127F	HAM1 protein
+2390857..2392200	+	447	71066495	tig	Psyc_1940	-	COG0544O	trigger factor
+2392628..2393305	+	225	71066496	clpP	Psyc_1941	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+2393438..2394712	+	424	71066497	clpX	Psyc_1942	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+2395326..2396309	+	327	71066498	-	Psyc_1943	-	COG3258C	cytochrome C
+2396574..2397668	-	364	71066499	pfoR	Psyc_1944	-	COG3641R	toxin regulator pfoR
+2397818..2398597	-	259	71066500	-	Psyc_1945	-	COG3087D	hypothetical protein
+2398666..2400495	-	609	71066501	argS	Psyc_1946	-	COG0018J	arginyl-tRNA synthetase
+2400924..2401142	+	72	71066502	-	Psyc_1947	-	-	hypothetical protein
+2401172..2402224	-	350	71066503	-	Psyc_1948	-	COG2227H	hypothetical protein
+2402286..2403074	-	262	71066504	-	Psyc_1949	-	COG4106R	methyltransferase
+2403309..2403830	+	173	71066505	-	Psyc_1950	-	COG0225O	peptide methionine sulfoxide reductase
+2404108..2404290	+	60	71066506	-	Psyc_1951	-	COG4446S	hypothetical protein
+2404530..2406005	+	491	71066507	-	Psyc_1952	-	COG2951M	transglycosylase
+2406301..2406600	-	99	71066508	-	Psyc_1953	-	-	hypothetical protein
+2407053..2408045	-	330	71066509	-	Psyc_1954	-	COG0796M	glutamate racemase
+2408217..2408978	-	253	71066510	-	Psyc_1955	-	COG3816S	hypothetical protein
+2409522..2411354	+	610	71066511	-	Psyc_1956	-	COG0644C	electron transfer flavoprotein-ubiquinone oxidoreductase
+2411722..2411862	-	46	71066512	-	Psyc_1958	-	COG3328L	transposase
+2412963..2413247	+	94	71066513	-	Psyc_1959	-	COG4327S	hypothetical protein
+2413252..2415120	+	622	71066514	-	Psyc_1960	-	COG4147R	SSS family Na(+)/solute symporter
+2415401..2415946	+	181	71066515	-	Psyc_1961	-	-	hypothetical protein
+2416294..2416770	-	158	71066516	-	Psyc_1962	-	-	hypothetical protein
+2417214..2418503	-	429	71066517	-	Psyc_1963	-	COG1593G	TRAP-T family transporter large inner membrane subunit
+2418500..2419027	-	175	71066518	-	Psyc_1964	-	COG3090G	TRAP-T family transporter small inner membrane subunit
+2419048..2420109	-	353	71066519	-	Psyc_1965	-	COG1638G	TRAP-T family transporter periplasmic substrate binding subunit
+2426328..2427047	-	239	71066520	-	Psyc_1966	-	COG3663L	hypothetical protein
+2427332..2427979	+	215	71066521	upp	Psyc_1967	-	COG0035F	uracil phosphoribosyltransferase
+2428060..2428812	+	250	71066522	ydfG	Psyc_1968	-	COG4221R	glucose/ribitol dehydrogenase
+2428983..2429210	-	75	71066523	-	Psyc_1969	-	COG4728S	hypothetical protein
+2429332..2430543	-	403	71066524	tyrS	Psyc_1970	-	COG0162J	tyrosyl-tRNA synthetase
+2430663..2432063	+	466	71066525	anmK	Psyc_1971	-	COG2377O	anhydro-N-acetylmuramic acid kinase
+2432160..2433575	+	471	71066526	fabF	Psyc_1972	-	COG0304IQ	3-oxoacyl-ACP synthase
+2433691..2434554	+	287	71066527	-	Psyc_1973	-	COG3064M	hypothetical protein
+2434777..2436594	-	605	71066528	-	Psyc_1974	-	COG0006E	metallopeptidase
+2437018..2437428	-	136	71066529	-	Psyc_1975	-	-	hypothetical protein
+2437575..2439149	-	524	71066530	-	Psyc_1976	-	COG0815M	apolipoprotein N-acyltransferase
+2439445..2440344	-	299	71066531	corC	Psyc_1977	-	COG4535P	magnesium and cobalt efflux protein, CorC
+2440617..2441951	+	444	71066532	-	Psyc_1978	-	COG3029C	hypothetical protein
+2441984..2442547	-	187	71066533	-	Psyc_1979	-	COG2983S	hypothetical protein
+2442708..2443445	+	245	71066534	-	Psyc_1980	-	COG0412Q	dienelactone hydrolase
+2443675..2443917	+	80	71066535	-	Psyc_1981	-	-	hypothetical protein
+2444303..2445259	+	318	71066536	rbgA	Psyc_1982	-	COG1161R	ribosomal biogenesis GTPase
+2445353..2446567	+	404	71066537	-	Psyc_1983	-	COG3328L	transposase mutator family protein
+2446700..2448061	+	453	71066538	mutY	Psyc_1984	-	COG1194L	A/G-specific adenine glycosylase
+2448309..2449211	-	300	71066539	tesB	Psyc_1985	-	COG1946I	acyl-CoA thioesterase
+2449487..2452435	-	982	71066540	hepA	Psyc_1986	-	COG0553KL	ATP-dependent helicase HepA
+2453224..2454183	+	319	71066541	-	Psyc_1987	-	COG1052CHR	D-isomer specific 2-hydroxyacid dehydrogenase
+2454208..2454921	-	237	71066542	rluA	Psyc_1988	-	COG0564J	ribosomal large subunit pseudouridine synthase A
+2455356..2455682	+	108	71066543	trxA	Psyc_1989	-	COG3118O	thioredoxin
+2456173..2457480	+	435	71066544	rho	Psyc_1990	-	COG1158K	transcription termination factor Rho
+2457828..2458067	+	79	71066545	-	Psyc_1991	-	-	hypothetical protein
+2458371..2459255	-	294	71066546	-	Psyc_1992	-	COG2321R	neutral zinc metallopeptidase
+2459800..2460138	+	112	71066547	-	Psyc_1993	-	-	hypothetical protein
+2460454..2460753	-	99	71066548	ihfA	Psyc_1994	-	COG0776L	integration host factor subunit alpha
+2461001..2463406	-	801	71066549	pheT	Psyc_1995	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+2463466..2464521	-	351	71066550	pheS	Psyc_1996	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+2464845..2465201	-	118	71066551	rplT	Psyc_1997	-	COG0292J	50S ribosomal protein L20
+2465337..2465534	-	65	71066552	rpmI	Psyc_1998	-	COG0291J	50S ribosomal protein L35
+2466006..2466854	+	282	71066553	hisI	Psyc_1999	-	COG0139E	phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphatase
+2467043..2467306	+	87	71066554	tatA	Psyc_2000	-	COG1826U	twin-arginine translocation protein TatA
+2467342..2468031	+	229	71066555	tatB	Psyc_2001	-	COG1826U	Sec-independent protein translocase TatB
+2468031..2468867	+	278	71066556	tatC	Psyc_2002	-	COG0805U	Sec-independent protein translocase TatC
+2469003..2470502	+	499	71066557	-	Psyc_2003	-	COG0210L	DNA helicase
+2470575..2471627	+	350	71066558	dus	Psyc_2004	-	COG0042J	tRNA-dihydrouridine synthase
+2471677..2472102	-	141	71066559	-	Psyc_2005	-	COG3686S	hypothetical protein
+2472117..2472530	-	137	71066560	-	Psyc_2006	-	COG1765O	hypothetical protein
+2473141..2473662	+	173	71066561	mutT	Psyc_2007	-	COG0494LR	dinucleoside polyphosphate hydrolase
+2473759..2474853	-	364	71066562	adh	Psyc_2008	-	COG1063ER	alcohol dehydrogenase
+2475073..2475957	-	294	71066563	-	Psyc_2009	-	COG3332S	hypothetical protein
+2476423..2477307	+	294	71066564	-	Psyc_2010	-	COG0682M	prolipoprotein diacylglyceryl transferase
+2477380..2478282	+	300	71066565	thyA	Psyc_2011	-	COG0207F	thymidylate synthase
+2478326..2478892	+	188	71066566	folA	Psyc_2012	-	COG0262H	dihydrofolate reductase
+2479357..2481201	-	614	71066567	uvrC	Psyc_2013	-	COG0322L	excinuclease ABC subunit C
+2481361..2482881	-	506	71066568	-	Psyc_2014	-	-	hypothetical protein
+2483367..2483924	+	185	71066569	-	Psyc_2015	-	COG2050Q	hypothetical protein
+2484193..2484585	-	130	71066570	rplS	Psyc_2016	-	COG0335J	50S ribosomal protein L19
+2484774..2485538	-	254	71066571	trmD	Psyc_2017	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+2485641..2486174	-	177	71066572	rimM	Psyc_2018	-	COG0806J	16S rRNA-processing protein RimM
+2486372..2486641	-	89	71066573	rpsP	Psyc_2019	-	COG0228J	30S ribosomal protein S16
+2486863..2488431	+	522	71066574	envZ	Psyc_2020	-	COG0642T	signal transduction histidine kinase sensor
+2488581..2490266	-	561	71066575	-	Psyc_2021	-	COG0642T	signal transduction histidine kinase sensor
+2490519..2491235	-	238	71066576	-	Psyc_2022	-	COG0745TK	two component transcriptional regulator
+2491765..2492181	-	138	71066577	atpC	Psyc_2023	-	COG0355C	ATP synthase F0F1 subunit epsilon
+2492286..2493719	-	477	71066578	atpD	Psyc_2024	-	COG0055C	ATP synthase F0F1 subunit beta
+2493770..2494651	-	293	71066579	atpG	Psyc_2025	-	COG0224C	ATP synthase F0F1 subunit gamma
+2494913..2496457	-	514	71066580	atpA	Psyc_2026	-	COG0056C	ATP synthase F0F1 subunit alpha
+2496550..2497173	-	207	71066581	atpH	Psyc_2027	-	COG0712C	ATP synthase F0F1 subunit delta
+2497187..2497657	-	156	71066582	atpF	Psyc_2028	-	COG0711C	ATP synthase F0F1 subunit B
+2497775..2498023	-	82	71066583	atpE	Psyc_2029	-	COG0636C	ATP synthase F0F1 subunit C
+2498057..2498923	-	288	71066584	-	Psyc_2030	-	COG0356C	ATP synthase F0F1 subunit A
+2499637..2500059	-	140	71066585	atpI	Psyc_2031	-	COG3312C	ATP synthase subunit I
+2500460..2501395	-	311	71066586	znuA	Psyc_2032	-	COG4531P	ABC zinc transporter periplasmic solute binding protein ZnuA
+2501643..2502158	+	171	71066587	-	Psyc_2033	-	COG0735P	FUR family transcriptional regulator
+2502283..2503014	+	243	71066588	znuC	Psyc_2034	-	COG1121P	ABC zinc transporter ATPase subunit ZnuC
+2503090..2503923	+	277	71066589	znuB	Psyc_2035	-	COG1108P	ABC zinc transporter inner membrane protein ZnuB
+2504046..2504885	+	279	71066590	-	Psyc_2036	-	COG1409R	cyclic AMP phosphodiesterase
+2505409..2505849	+	146	71066591	dksA	Psyc_2037	-	COG1734T	regulator RpoS
+2506072..2507079	+	335	71066592	-	Psyc_2038	-	COG0008J	tRNA synthetase domain-containing protein
+2507257..2508453	-	398	71066593	ftsW	Psyc_2039	-	COG0772D	cell division protein FtsW
+2508808..2510238	-	476	71066594	murD	Psyc_2040	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+2510748..2512247	+	499	71066595	-	Psyc_2041	-	COG0659P	SulP family sulfate permease
+2512394..2513248	+	284	71066596	-	Psyc_2042	-	COG0589T	hypothetical protein
+2513688..2514026	+	112	71066597	glnK	Psyc_2043	-	COG0347E	nitrogen regulatory protein P-II
+2514104..2515366	+	420	71066598	amtB	Psyc_2044	-	COG0004P	ammonium transporter
+2515519..2515902	-	127	71066599	-	Psyc_2045	-	COG4731S	hypothetical protein
+2516174..2516437	-	87	71066600	-	Psyc_2046	-	-	hypothetical protein
+2516655..2517563	-	302	71066601	-	Psyc_2047	-	COG1864F	DNA/RNA non-specific endonuclease (Mg-dependent)
+2518261..2519055	+	264	71066602	-	Psyc_2048	-	COG1434S	hypothetical protein
+2519139..2520578	+	479	71066603	cls	Psyc_2049	-	COG1502I	cardiolipin synthetase 2
+2520768..2521709	-	313	71066604	rrmA	Psyc_2050	-	COG2226H	rRNA (guanine-N1-)-methyltransferase
+2521871..2522989	-	372	71066605	mraY	Psyc_2051	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+2522993..2524450	-	485	71066606	murF	Psyc_2052	-	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+2524541..2526295	-	584	71066607	murE	Psyc_2053	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+2526367..2528454	-	695	71066608	ftsI	Psyc_2054	-	COG0768M	peptidoglycan synthetase FtsI
+2528451..2528930	-	159	71066609	-	Psyc_2055	-	COG3116D	hypothetical protein
+2529143..2530297	-	384	71066610	mraW	Psyc_2056	-	COG0275M	S-adenosyl-methyltransferase MraW
+2530575..2532104	+	509	71066611	gltX	Psyc_2057	-	COG0008J	glutamyl-tRNA synthetase
+2532272..2532637	+	121	71066612	-	Psyc_2058	-	-	hypothetical protein
+2533304..2533957	+	217	71066613	-	Psyc_2059	-	COG1280E	LysE family amino acid efflux protein
+2533990..2534448	+	152	71066614	-	Psyc_2060	-	-	hypothetical protein
+2534578..2537397	-	939	71066615	acnA	Psyc_2061	-	COG1048C	aconitate hydratase
+2537779..2538792	-	337	71066616	-	Psyc_2062	-	-	hypothetical protein
+2538908..2539624	+	238	71066617	-	Psyc_2063	-	-	hypothetical protein
+2539668..2540219	+	183	71066618	-	Psyc_2064	-	COG3012S	hypothetical protein
+2540243..2541166	-	307	71066619	-	Psyc_2065	-	COG0121R	glutamine amidotransferase, class-II protein
+2541167..2541427	-	86	71066620	-	Psyc_2066	-	-	hypothetical protein
+2541481..2542656	-	391	71066621	thrB	Psyc_2067	-	COG2334R	homoserine kinase
+2542986..2543768	+	260	71066622	hisF	Psyc_2068	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+2543959..2544480	+	173	71066623	ribH	Psyc_2069	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+2544836..2545963	+	375	71066624	nusB	Psyc_2070	-	COG0781K	NusB antitermination factor
+2545966..2546997	+	343	71066625	thiL	Psyc_2071	-	COG0611H	thiamine-monophosphate kinase
+2547001..2547579	+	192	71066626	pgpA	Psyc_2072	-	COG1267I	phosphatidylglycerophosphatase
+2547763..2549139	+	458	71066627	glmU	Psyc_2073	-	COG1207M	UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltransferase
+2549306..2551150	+	614	71066628	glmS	Psyc_2074	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+2551648..2552256	+	202	71066629	-	Psyc_2075	-	COG3658C	nickel-dependent hydrogenase cytochrome b-type subunit
+2552276..2552950	+	224	71066630	-	Psyc_2076	-	COG0745TK	OmpR family two-component transcriptional regulator
+2553009..2554472	+	487	71066631	-	Psyc_2077	-	COG0642T	signal transduction histidine kinase sensor
+2554572..2555138	+	188	71066632	-	Psyc_2078	-	-	hypothetical protein
+2555131..2555445	+	104	71066633	-	Psyc_2079	-	-	hypothetical protein
+2555501..2556613	+	370	71066634	-	Psyc_2080	-	COG1477H	ApbE family lipoprotein
+2556785..2557468	+	227	71066635	-	Psyc_2081	-	COG4097P	hypothetical protein
+2557555..2558256	+	233	71066636	-	Psyc_2082	-	COG1814S	hypothetical protein
+2558347..2561457	-	1036	71066637	-	Psyc_2083	-	COG0841V	RND superfamily multidrug efflux system protein
+2561454..2562737	-	427	71066638	-	Psyc_2084	-	COG1566V	RND efflux membrane fusion protein
+2563238..2565664	-	808	71066639	-	Psyc_2085	-	COG1200LK	ATP-dependent DNA helicase RecG
+2565835..2566716	+	293	71066640	-	Psyc_2086	-	-	IS4 family transposase
+2566972..2567976	+	334	71066641	-	Psyc_2087	-	COG1752R	hypothetical protein
+2568252..2568839	-	195	71066642	-	Psyc_2088	-	COG4719S	hypothetical protein
+2569228..2570550	+	440	71066643	argA	Psyc_2089	-	COG0548E	N-acetylglutamate synthase
+2570676..2571407	-	243	71066644	-	Psyc_2090	-	COG0545O	peptidyl-prolyl isomerase
+2571836..2573584	+	582	71066645	-	Psyc_2091	-	-	hypothetical protein
+2574267..2575064	+	265	71066646	-	Psyc_2092	-	COG1028IQR	short-chain dehydrogenase
+2575345..2576079	-	244	71066647	-	Psyc_2093	-	COG0204I	hypothetical protein
+2576187..2578073	-	628	71066648	parE	Psyc_2094	-	COG0187L	DNA topoisomerase IV subunit B
+2578213..2578869	-	218	71066649	-	Psyc_2095	-	COG3150R	hypothetical protein
+2579057..2579317	+	86	71066650	-	Psyc_2096	-	COG3313R	hypothetical protein
+2579400..2579708	+	102	71066651	-	Psyc_2097	-	-	hypothetical protein
+2592265..2594199	+	644	71066652	thrS	Psyc_2098	-	COG0441J	threonyl-tRNA synthetase
+2594223..2594726	+	167	71066653	infC	Psyc_2099	-	COG0290J	translation initiation factor 3
+2595088..2596332	+	414	71066654	-	Psyc_2100	-	COG3853P	hypothetical protein
+2596480..2598795	+	771	71066655	vacB	Psyc_2101	-	COG0557K	RNAse R
+2599029..2599349	-	106	71066656	-	Psyc_2102	-	COG3415L	transposase and inactivated derivatives
+2599577..2600317	-	246	71066657	hisA	Psyc_2103	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+2601248..2602600	+	450	71066658	-	Psyc_2104	-	COG1726C	Na(+)-translocating NADH-quinone reductase subunit A
+2602606..2603841	+	411	71066659	nqrB	Psyc_2105	-	COG1805C	Na(+)-translocating NADH-quinone reductase subunit B
+2603822..2604754	+	310	71066660	nqrC	Psyc_2106	-	COG2869C	Na(+)-translocating NADH-quinone reductase subunit C
+2604756..2605427	+	223	71066661	nqrD	Psyc_2107	-	COG1347C	Na(+)-translocating NADH-quinone reductase subunit D
+2605427..2606035	+	202	71066662	nqrE	Psyc_2108	-	COG2209C	Na(+)-translocating NADH-quinone reductase subunit E
+2606159..2607394	+	411	71066663	nqrF	Psyc_2109	-	COG2871C	Na(+)-translocating NADH-quinone reductase subunit F
+2607790..2608938	+	382	71066664	apbE	Psyc_2110	-	COG1477H	thiamine biosynthesis lipoprotein
+2609102..2609347	+	81	71066665	-	Psyc_2111	-	COG2991S	hypothetical protein
+2609631..2610941	+	436	71066666	cynX	Psyc_2112	-	COG2807P	MFS cyanate efflux pump, CynX
+2611032..2611844	+	270	71066667	-	Psyc_2113	-	COG2755E	lipolytic protein
+2611841..2612530	+	229	71066668	-	Psyc_2114	-	COG1136V	efflux ABC transporter ATPase subunit
+2612530..2615178	+	882	71066669	-	Psyc_2115	-	COG3127Q	efflux ABC transporter inner membrane protein
+2615205..2615720	-	171	71066670	-	Psyc_2116	-	-	hypothetical protein
+2615721..2616572	-	283	71066671	-	Psyc_2117	-	COG3063NU	hypothetical protein
+2617101..2618432	+	443	71066672	avtA	Psyc_2118	-	COG3977E	valine--pyruvate transaminase
+2618497..2618871	-	124	71066673	-	Psyc_2119	-	-	hypothetical protein
+2619050..2619694	-	214	71066674	hisH	Psyc_2120	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+2619695..2620360	-	221	71066675	hisB	Psyc_2121	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+2620668..2621090	+	140	71066676	-	Psyc_2122	-	-	hypothetical protein
+2621469..2621969	+	166	71066677	-	Psyc_2123	-	-	hypothetical protein
+2622067..2622759	+	230	71066678	gph	Psyc_2124	-	COG0546R	phosphoglycolate phosphatase
+2622772..2624322	-	516	71066679	-	Psyc_2125	-	COG0606O	magnesium chelatase-related protein
+2624627..2626171	+	514	71066680	hemN	Psyc_2126	-	COG0635H	coproporphyrinogen III oxidase
+2626452..2627312	-	286	71066681	-	Psyc_2127	-	COG0330O	hypothetical protein
+2627328..2627825	-	165	71066682	-	Psyc_2128	-	COG1585OU	hypothetical protein
+2628250..2628891	-	213	71066683	-	Psyc_2129	-	COG3637M	OmpA family protein
+2629098..2630330	+	410	71066684	bioF	Psyc_2130	-	COG0156H	8-amino-7-oxononanoate synthase
+2630408..2631232	+	274	71066685	bioC	Psyc_2131	-	COG0500QR	biotin synthesis protein
+2631349..2633292	-	647	71066686	dnaK	Psyc_2132	-	COG0443O	molecular chaperone DnaK
+2633587..2634186	-	199	71066687	-	Psyc_2133	-	COG0576O	HSP70 family protein GrpE
+2634846..2635490	-	214	71066688	-	Psyc_2134	-	COG0009J	hypothetical protein
+2635812..2637029	-	405	71066689	dprA	Psyc_2135	-	COG0758LU	DNA processing protein
+2637087..2638220	-	377	71066690	-	Psyc_2136	-	COG1652S	hypothetical protein
+2638533..2639954	-	473	71066691	thrC	Psyc_2137	-	COG0498E	threonine synthase
+2640011..2641585	-	524	71066692	-	Psyc_2138	-	COG0144J	hypothetical protein
+2641656..2642741	-	361	71066693	fmt	Psyc_2139	-	COG0223J	methionyl-tRNA formyltransferase
+2642977..2643648	-	223	71066694	ribE	Psyc_2140	-	COG0307H	riboflavin synthase subunit alpha
+2644038..2645093	-	351	71066695	ribD	Psyc_2141	-	COG0117H	diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase
+2645192..2645650	-	152	71066696	nrdR	Psyc_2142	-	COG1327K	transcriptional regulator NrdR
+2645739..2647175	-	478	71066697	trmE	Psyc_2143	-	COG0486R	tRNA modification GTPase TrmE
+2647569..2649266	-	565	71066698	-	Psyc_2144	-	COG0706U	inner membrane protein translocase component YidC
+2649484..2649858	-	124	71066699	-	Psyc_2145	-	COG0759S	hypothetical protein
+2649860..2650231	-	123	71066700	rnpA	Psyc_2146	-	COG0594J	ribonuclease P protein component
+2650418..2650552	-	44	71066701	rpmH	Psyc_2147	-	-	50S ribosomal protein L34

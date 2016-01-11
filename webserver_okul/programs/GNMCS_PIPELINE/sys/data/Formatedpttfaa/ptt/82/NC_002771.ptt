@@ -1,0 +1,785 @@
+Mycoplasma pulmonis UAB CTIP, complete genome - 1..963879
+782 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+222..1607	+	461	15828472	dnaA	MYPU_0010	-	COG0593L	chromosome replication initiator DnaA
+1741..2862	+	373	15828473	-	MYPU_0020	-	COG0592L	DNA polymerase III, beta chain
+2864..3085	+	73	15828474	-	MYPU_0030	-	COG2501S	hypothetical protein
+3088..3771	+	227	15828475	-	MYPU_0040	-	COG0510M	hypothetical protein
+3778..4422	-	214	15828476	-	MYPU_0050	-	-	hypothetical protein
+4603..6759	+	718	15828477	-	MYPU_0060	-	-	hypothetical protein
+6759..8189	+	476	15828478	-	MYPU_0070	-	-	lipoprotein
+8190..8540	+	116	15828479	-	MYPU_0080	-	COG0537FGR	HIT-like protein (cell cycle regulation)
+8703..9296	+	197	161723295	rplK	MYPU_0090	-	COG0080J	50S ribosomal protein L14
+9296..9985	+	229	15828481	rplA	MYPU_0100	-	COG0081J	50S ribosomal protein L1
+10940..12316	-	458	15828482	-	MYPU_0110	-	-	hypothetical protein
+12519..13205	-	228	15828483	-	MYPU_0120	-	COG4095S	hypothetical protein
+13293..14621	+	442	15828484	trmE	MYPU_0130	-	COG0486R	tRNA modification GTPase TrmE
+14667..15425	+	252	15828485	-	MYPU_0140	-	COG0084L	hypothetical protein
+15426..16184	+	252	15828486	-	MYPU_0150	-	COG0030J	dimethyladenosine transferase
+16188..16547	+	119	15828487	-	MYPU_0160	-	COG4633S	hypothetical protein
+16711..19086	+	791	15828488	-	MYPU_0170	-	COG2190G	PTS system, glucose-specific IIABC component (EIIABC-glc) (glucose-permease IIABC component) (phosphotransferase enzyme II, ABC component)(EII-glc/EIII-glc)
+19400..20608	+	402	15828489	-	MYPU_0180	-	COG2801L	IS1138 transposase
+21109..23409	+	766	15828490	-	MYPU_0190	-	-	lipoprotein
+24591..24950	+	119	15828491	-	MYPU_0200	-	-	hypothetical protein
+25127..26494	+	455	15828492	-	MYPU_0210	-	COG1249C	dihydrolipoamide dehydrogenase
+26515..27489	+	324	15828493	-	MYPU_0220	-	COG0618R	hypothetical protein
+27742..29178	+	478	15828494	-	MYPU_0230	-	COG0446R	NADH oxidase
+29335..31866	+	843	15828495	-	MYPU_0240	-	-	lipoprotein
+31869..32639	+	256	15828496	-	MYPU_0250	-	COG1525L	lipoprotein
+32643..34445	+	600	15828497	-	MYPU_0260	-	COG3839G	ABC transporter ATP-binding protein
+34385..35449	+	354	15828498	-	MYPU_0270	-	COG1175G	ABC transporter permease
+35409..36392	+	327	229270470	-	MYPU_0280	-	COG0395G	ABC transporter permease
+36397..36582	+	61	15828500	-	MYPU_0290	-	-	hypothetical protein
+36626..37114	+	162	15828501	-	MYPU_0300	-	-	hypothetical protein
+37419..37742	+	107	15828502	-	MYPU_0310	-	-	hypothetical protein
+37708..38745	+	345	15828503	-	MYPU_0320	-	COG0095H	lipoate-protein ligase A
+38663..39535	+	290	15828504	-	MYPU_0330	-	COG0596R	esterase
+39561..40826	+	421	15828505	-	MYPU_0340	-	COG0172J	seryl-tRNA synthetase
+40826..41632	+	268	15828506	-	MYPU_0350	-	COG0596R	esterase
+41636..42457	+	273	15828507	-	MYPU_0360	-	COG0596R	esterase
+42461..43282	+	273	15828508	-	MYPU_0370	-	COG0596R	esterase
+43306..44109	+	267	15828509	-	MYPU_0380	-	COG0596R	esterase
+44365..45990	+	541	15828510	-	MYPU_0390	-	COG1132V	ABC transporter ATP-binding protein
+45965..46684	+	239	15828511	-	MYPU_0400	-	COG4987CO	ABC transporter permease
+46741..47580	+	279	15828512	-	MYPU_0410	-	COG2274V	ABC transporter ATP-binding protein
+47605..48831	-	408	15828513	-	MYPU_0420	-	-	hypothetical protein
+48813..49703	-	296	15828514	-	MYPU_0430	-	COG0270L	CpG DNA methylase
+49651..50031	-	126	15828515	-	MYPU_0440	-	COG0270L	CpG DNA methylase
+50136..51005	+	289	15828516	-	MYPU_0450	-	COG0223J	methionyl-tRNA formyltransferase
+51034..52083	+	349	15828517	-	MYPU_0460	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+52127..52393	-	88	15828518	-	MYPU_0470	-	-	hypothetical protein
+52206..53144	+	312	15828519	-	MYPU_0480	-	COG5522S	hypothetical protein
+53235..55745	+	836	15828520	-	MYPU_0490	-	COG2812L	DNA polymerase III subunits gamma and tau
+55738..56040	+	100	15828521	-	MYPU_0500	-	COG0718S	hypothetical protein
+56053..56628	+	191	15828522	recR	MYPU_0510	-	COG0353L	recombination protein RecR
+56612..57316	+	234	15828523	-	MYPU_0520	-	COG0125F	thymidylate kinase
+57333..58226	+	297	15828524	-	MYPU_0530	-	COG0470L	DNA polymerase III subunit delta'
+58219..58887	+	222	15828525	-	MYPU_0540	-	COG0313R	hypothetical protein
+59090..60787	-	565	15828526	-	MYPU_0550	-	COG0737F	5'-nucleotidase
+60793..61215	-	140	15828527	-	MYPU_0560	-	-	lipoprotein
+61414..62598	+	394	15828528	-	MYPU_0570	-	-	lipoprotein
+63374..64582	+	402	15828529	-	MYPU_0580	-	-	hypothetical protein
+64840..65739	+	299	15828530	-	MYPU_0590	-	-	hypothetical protein
+65724..66644	+	306	15828531	-	MYPU_0600	-	-	hypothetical protein
+67316..67741	+	141	15828532	-	MYPU_0610	-	-	hypothetical protein
+67762..68730	+	322	15828533	-	MYPU_0620	-	-	hypothetical protein
+68967..69518	+	183	15828534	-	MYPU_0630	-	-	hypothetical protein
+69521..70018	+	165	15828535	-	MYPU_0640	-	COG1136V	ABC transporter ATP-binding protein
+70034..71458	+	474	15828536	-	MYPU_0650	-	COG4591M	ABC transporter permease
+71473..73752	+	759	15828537	-	MYPU_0660	-	COG1136V	ABC transporter ATP-binding protein
+74114..74914	+	266	15828538	-	MYPU_0670	-	-	lipoprotein
+75081..76010	-	309	15828539	-	MYPU_0680	-	COG0330O	hypothetical protein
+76135..77577	+	480	15828540	-	MYPU_0690	-	COG0513LKJ	ATP-dependent RNA helicase
+78401..78607	-	68	15828541	-	MYPU_0700	-	-	hypothetical protein
+79639..79824	+	61	15828542	-	MYPU_0710	-	-	hypothetical protein
+79960..80127	+	55	15828543	-	MYPU_0720	-	-	hypothetical protein
+80311..81006	-	231	15828544	-	MYPU_0730	-	COG4271K	hypothetical protein
+81360..81602	-	80	15828545	-	MYPU_0740	-	-	hypothetical protein
+81640..81792	+	50	15828546	-	MYPU_0750	-	-	hypothetical protein
+82641..82829	+	62	15828547	-	MYPU_0760	-	-	hypothetical protein
+82741..83655	+	304	15828548	-	MYPU_0770	-	COG0610V	restriction-modification enzyme subunit R3 (fragment)
+83710..84849	+	379	15828549	-	MYPU_0780	-	COG0610V	restriction-modification enzyme subunit R3 (fragment)
+85156..85482	-	108	15828550	-	MYPU_0790	-	-	hypothetical protein
+85553..85828	+	91	15828551	-	MYPU_0800	-	-	hypothetical protein
+85856..86239	+	127	15828552	-	MYPU_0810	-	COG0286V	restriction-modification enzyme subunit M3 (fragment)
+86433..87431	+	332	15828553	-	MYPU_0820	-	COG0286V	restriction-modification enzyme subunit M3 (fragment)
+87468..88547	+	359	15828554	-	MYPU_0830	-	COG0732V	restriction-modification enzyme subunit S3A
+88549..89595	-	348	15828555	-	MYPU_0840	-	COG0732V	restriction-modification enzyme subunit S3B
+89890..90381	-	163	15828556	-	MYPU_0850	-	COG1585OU	hypothetical protein
+90469..90942	+	157	15828557	recU	MYPU_0860	-	COG3331R	Holliday junction-specific endonuclease
+90932..91312	-	126	15828558	-	MYPU_0870	-	COG0776L	DNA-binding protein HU
+91276..92583	-	435	15828559	engA	MYPU_0880	-	COG1160R	GTP-binding protein EngA
+92561..93232	-	223	15828560	-	MYPU_0890	-	COG0283F	cytidylate kinase
+93239..93670	-	143	15828561	-	MYPU_0900	-	-	hypothetical protein
+93745..93864	-	39	15828562	-	MYPU_0910	-	-	hypothetical protein
+93935..95749	+	604	15828563	-	MYPU_0920	-	COG0810M	lipoprotein
+95918..98341	-	807	15828564	leuS	MYPU_0930	-	COG0495J	leucyl-tRNA synthetase
+98487..99620	+	377	15828565	-	MYPU_0940	-	COG1619V	hypothetical protein
+99647..100783	+	378	15828566	-	MYPU_0950	-	COG0122L	methylated-DNA--protein-cysteine methyltransferase
+100778..102751	-	657	15828567	-	MYPU_0960	-	COG0556L	excinuclease ABC subunit B
+102808..103257	+	149	15828568	coaD	MYPU_0970	-	COG0669H	phosphopantetheine adenylyltransferase
+103276..104730	-	484	15828569	-	MYPU_0980	-	COG1653G	sugar ABC transporter
+104711..106471	-	586	15828570	-	MYPU_0990	-	COG3839G	sugar ABC transporter ATP-binding protein
+106472..107338	-	288	15828571	-	MYPU_1000	-	COG0395G	sugar ABC transporter permease
+107338..108189	-	283	15828572	-	MYPU_1010	-	COG1175G	sugar ABC transporter permease
+108035..108208	+	57	15828573	-	MYPU_1020	-	-	hypothetical protein
+108191..109825	-	544	15828574	-	MYPU_1030	-	COG0366G	oligo-1,6-glucosidase
+110535..113138	-	867	15828575	secA	MYPU_1040	-	COG0653U	preprotein translocase subunit SecA
+113289..114368	+	359	15828576	prfA	MYPU_1050	-	COG0216J	peptide chain release factor 1
+114368..115060	+	230	15828577	-	MYPU_1060	-	COG2890J	protoporphirogen oxidase HEMK
+115139..115792	+	217	15828578	-	MYPU_1070	-	COG3638P	ABC transporter ATP-binding protein
+115795..117501	+	568	15828579	-	MYPU_1080	-	COG3639P	ABC transporter permease
+117538..118638	+	366	15828580	-	MYPU_1090	-	COG1284S	ABC transporter permease
+118832..119692	-	286	15828581	-	MYPU_1100	-	COG0191G	fructose-bisphosphate aldolase
+119779..120486	+	235	15828582	-	MYPU_1110	-	-	hypothetical protein
+120522..121436	+	304	15828583	-	MYPU_1120	-	-	hypothetical protein
+121494..121820	+	108	15828584	-	MYPU_1130	-	COG0736I	holo-ACP synthase
+121805..122572	+	255	15828585	-	MYPU_1140	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+122572..123321	+	249	15828586	scpA	MYPU_1150	-	COG1354S	segregation and condensation protein A
+123278..123901	+	207	15828587	scpB	MYPU_1160	-	COG1386K	segregation and condensation protein B
+123902..124750	+	282	15828588	-	MYPU_1170	-	COG0564J	pseudouridylate synthase
+124755..125663	-	302	15828589	-	MYPU_1180	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+125657..126199	-	180	15828590	-	MYPU_1190	-	COG1214O	hypothetical protein
+126193..126585	-	130	15828591	-	MYPU_1200	-	COG0802R	hypothetical protein
+126668..127405	+	245	15828592	-	MYPU_1210	-	-	hypothetical protein
+127394..130477	-	1027	15828593	-	MYPU_1220	-	COG1112L	ATP-binding protein
+130454..130861	+	135	15828594	-	MYPU_1230	-	-	hypothetical protein
+130919..131890	-	323	15828595	-	MYPU_1240	-	COG0240C	glycerol-3-phosphate dehydrogenase
+131900..133543	-	547	15828596	-	MYPU_1250	-	COG2176L	hypothetical protein
+133641..134294	+	217	15828597	-	MYPU_1260	-	-	hypothetical protein
+134388..135353	+	321	15828598	-	MYPU_1270	-	COG0462FE	ribose-phosphate pyrophosphokinase
+135362..136045	+	227	15828599	gidB	MYPU_1280	-	COG0357M	16S rRNA methyltransferase GidB
+136184..138280	+	698	15828600	-	MYPU_1290	-	COG1299G	PTS system, fructose-specific IIABC component (EIIABC-fru) (fructose-permease IIABC component)(phosphotransferase enzyme II, ABC component) (EII-fru/EIII-fru)
+138517..138852	+	111	15828601	-	MYPU_1300	-	COG0539J	30S ribosomal protein S1
+138840..140123	+	427	15828602	pgi	MYPU_1310	-	COG0166G	glucose-6-phosphate isomerase
+140124..141275	-	383	15828603	-	MYPU_1320	-	COG2865K	hypothetical protein
+141347..143086	-	579	15828604	-	MYPU_1330	-	-	hypothetical protein
+143984..144133	+	49	15828605	-	MYPU_1340	-	-	hypothetical protein
+145185..145574	+	129	15828606	-	MYPU_1350	-	-	hypothetical protein
+145565..146011	+	148	15828607	-	MYPU_1360	-	-	hypothetical protein
+146064..146777	-	237	15828608	-	MYPU_1370	-	COG0569P	potassium uptake protein KTRA
+146940..147743	+	267	15828609	-	MYPU_1380	-	COG0561R	hypothetical protein
+148199..148771	+	190	15828610	-	MYPU_1390	-	COG1525L	nuclease, lipoprotein
+148881..149090	+	69	15828611	-	MYPU_1400	-	COG0254J	50S ribosomal protein L31
+149111..149737	+	208	15828612	-	MYPU_1410	-	-	hypothetical protein
+149781..150824	+	347	15828613	hrcA	MYPU_1420	-	COG1420K	heat-inducible transcription repressor
+150772..151668	+	298	15828614	-	MYPU_1430	-	COG0576O	heat shock protein GrpE
+151889..153460	-	523	15828615	-	MYPU_1440	-	COG0168P	potassium uptake protein KTRB
+153539..154111	-	190	15828616	-	MYPU_1450	-	COG1435F	thymidine kinase
+154324..154551	+	75	15828617	-	MYPU_1460	-	COG3763S	hypothetical protein
+154669..157332	+	887	15828618	-	MYPU_1470	-	COG0188L	DNA gyrase subunit A
+157622..158605	+	327	15828619	-	MYPU_1480	-	-	hypothetical protein
+158608..160002	+	464	15828620	-	MYPU_1490	-	-	hypothetical protein
+159992..160432	+	146	15828621	-	MYPU_1500	-	COG2274V	hypothetical protein
+160490..160726	+	78	15828622	-	MYPU_1510	-	-	truncated IS1138 transposase
+161053..162879	-	608	15828623	-	MYPU_1520	-	COG0706U	inner membrane protein translocase component YidC
+162863..163198	-	111	15828624	-	MYPU_1530	-	COG0594J	ribonuclease P protein component (protein C5) (RNase P)
+163226..163372	-	48	15828625	rpmH	MYPU_1540	-	COG0230J	50S ribosomal protein L34
+163592..166381	-	929	15828626	-	MYPU_1550	-	COG0474P	cation-transporting P-type ATPase
+166445..168136	-	563	15828627	-	MYPU_1560	-	COG0322L	excinuclease ABC subunit C
+168172..168588	-	138	15828628	-	MYPU_1570	-	COG0783P	neutrophil-activating protein A (NAP A) (bacterioferritin)
+168751..170730	+	659	15828629	-	MYPU_1580	-	-	lipoprotein
+170734..171420	+	228	15828630	-	MYPU_1590	-	COG1381L	hypothetical protein
+171389..171748	+	119	15828631	-	MYPU_1600	-	-	hypothetical protein
+171735..173372	+	545	15828632	-	MYPU_1610	-	COG1461R	hypothetical protein
+173375..174352	+	325	15828633	-	MYPU_1620	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+174352..175077	+	241	15828634	-	MYPU_1630	-	COG0571K	ribonuclease III (RNase III)
+175074..175232	-	52	15828635	-	MYPU_1640	-	-	hypothetical protein
+175287..176396	-	369	15828636	-	MYPU_1650	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+176405..177016	-	203	15828637	trmB	MYPU_1660	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+177117..177632	+	171	15828638	-	MYPU_1670	-	-	hypothetical protein
+177598..178215	+	205	15828639	-	MYPU_1680	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase
+178224..178706	+	160	15828640	-	MYPU_1690	-	COG0781K	hypothetical protein
+178669..179124	+	151	15828641	-	MYPU_1700	-	-	hypothetical protein
+179125..179841	+	238	15828642	-	MYPU_1710	-	COG1189J	hemolysin A
+179810..180991	+	393	15828643	-	MYPU_1720	-	COG0520E	nitrogen fixation protein NifS
+181083..182246	+	387	15828644	-	MYPU_1730	-	COG0520E	nitrogen fixation protein NifS
+182323..182757	+	144	15828645	-	MYPU_1740	-	COG0822C	nitrogen fixation protein NIFU
+182835..183050	-	71	15828646	-	MYPU_1750	-	-	hypothetical protein
+183224..185101	+	625	15828647	-	MYPU_1760	-	-	hypothetical protein
+185128..186918	+	596	15828648	-	MYPU_1770	-	COG0215J	cysteinyl-tRNA synthetase
+186977..187666	+	229	15828649	-	MYPU_1780	-	COG0566J	tRNA/rRNA methyltransferase
+187617..188240	+	207	15828650	-	MYPU_1790	-	-	hypothetical protein
+188281..188421	+	46	15828651	rpmG	MYPU_1800	-	COG0267J	50S ribosomal protein L33
+188385..188654	+	89	15828652	secE	MYPU_1810	-	COG0690U	preprotein translocase subunit SecE
+188654..189244	+	196	15828653	nusG	MYPU_1820	-	COG0250K	transcription antitermination protein NusG
+189494..190999	+	501	15828654	-	MYPU_1830	-	COG0442J	prolyl-tRNA synthetase
+191149..191526	+	125	15828655	-	MYPU_1840	-	COG3118O	thioredoxin
+191656..191904	+	82	15828656	-	MYPU_1850	-	-	CpG DNA methylase (cytosine-specific methyltransferase SSSI)
+192158..192952	+	264	15828657	-	MYPU_1860	-	COG0270L	CpG DNA methylase (cytosine-specific methyltransferase SSSI)
+192921..195812	+	963	15828658	-	MYPU_1870	-	-	hypothetical protein
+195900..197177	+	425	15828659	-	MYPU_1880	-	COG0389L	DNA-damage repair protein MucB
+197185..197574	-	129	15828660	-	MYPU_1890	-	-	hypothetical protein
+197201..197590	+	129	15828661	-	MYPU_1900	-	-	hypothetical protein
+197567..198037	-	156	15828662	-	MYPU_1910	-	-	hypothetical protein
+198037..198540	-	167	15828663	-	MYPU_1920	-	-	hypothetical protein
+198755..199726	-	323	15828664	-	MYPU_1930	-	-	lipoprotein
+199719..200561	-	280	15828665	-	MYPU_1940	-	-	lipoprotein
+200548..201510	-	320	15828666	-	MYPU_1950	-	-	lipoprotein
+201485..202192	-	235	15828667	-	MYPU_1960	-	COG1131V	ABC transporter ATP-binding protein
+202192..204012	-	606	15828668	-	MYPU_1970	-	COG1277R	hypothetical protein
+204437..206392	+	651	15828669	ulaA	MYPU_1980	-	COG3037S	PTS system ascorbate-specific transporter subunits IICB
+206594..206899	+	101	15828670	-	MYPU_1990	-	COG0721J	hypothetical protein
+206868..208214	+	448	15828671	-	MYPU_2000	-	COG0154J	amidase
+208144..209628	+	494	15828672	gatB	MYPU_2010	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+209628..210686	+	352	15828673	-	MYPU_2020	-	COG1295S	hypothetical protein
+210850..212502	+	550	15828674	nusA	MYPU_2030	-	COG0195K	transcription elongation factor NusA
+212477..212788	+	103	15828675	-	MYPU_2040	-	COG2740K	hypothetical protein
+212761..214572	+	603	15828676	infB	MYPU_2050	-	COG0532J	translation initiation factor IF-2
+214692..217013	-	773	15828677	-	MYPU_2060	-	COG0810M	lipoprotein
+217170..218873	-	567	15828678	-	MYPU_2070	-	-	lipoprotein
+219224..219376	-	50	15828679	-	MYPU_2080	-	-	hypothetical protein
+219705..221084	+	459	15828680	tig	MYPU_2090	-	COG0544O	trigger factor
+221077..221241	+	54	15828681	-	MYPU_2100	-	-	hypothetical protein
+221649..231299	+	3216	15828682	-	MYPU_2110	-	-	hypothetical protein
+231322..235455	+	1377	15828683	-	MYPU_2120	-	-	hypothetical protein
+235289..240175	+	1628	15828684	-	MYPU_2130	-	-	hypothetical protein
+240662..244471	+	1269	15828685	-	MYPU_2140	-	-	hypothetical protein
+244537..244704	-	55	15828686	-	MYPU_2150	-	-	hypothetical protein
+245143..248529	+	1128	15828687	-	MYPU_2160	-	-	hypothetical protein
+248532..249638	+	368	15828688	-	MYPU_2170	-	COG0206D	hypothetical protein
+249791..251536	+	581	15828689	-	MYPU_2180	-	COG3639P	P69-like ABC transporter permease
+251751..252314	-	187	15828690	frr	MYPU_2190	-	COG0233J	ribosome recycling factor
+252314..253045	-	243	15828691	pyrH	MYPU_2200	-	COG0528F	uridylate kinase
+253360..254883	+	507	15828692	glpK	MYPU_2210	-	COG0554C	glycerol kinase
+254883..255626	+	247	15828693	-	MYPU_2220	-	COG0580G	glycerol uptake facilitator protein
+255963..257762	+	599	15828694	dnaK	MYPU_2230	-	COG0443O	molecular chaperone DnaK
+257911..258651	-	246	15828695	-	MYPU_2240	-	COG3638P	ABC transporter ATP-binding protein
+258657..259895	-	412	15828696	-	MYPU_2250	-	-	lipoprotein ABC transporter substrate -binding protein
+260649..261512	+	287	15828697	-	MYPU_2260	-	COG1481S	hypothetical protein
+261545..262282	+	245	15828698	-	MYPU_2270	-	COG0670R	hypothetical protein
+262416..263279	+	287	15828699	-	-	-	COG1940KG	glucokinase
+263593..265116	+	507	15828700	-	MYPU_2290	-	-	hypothetical protein
+265140..266078	+	312	15828701	-	MYPU_2300	-	-	hypothetical protein
+266130..267278	+	382	15828702	-	MYPU_2310	-	-	hypothetical protein
+267278..267835	+	185	15828703	-	MYPU_2320	-	-	hypothetical protein
+267848..270238	+	796	15828704	-	MYPU_2330	-	COG2176L	hypothetical protein
+270406..271170	+	254	15828705	-	MYPU_2340	-	-	hypothetical protein
+271185..272774	+	529	15828706	-	MYPU_2350	-	COG0056C	ATP synthase subunit alpha
+273322..274857	+	511	161723294	-	MYPU_2360	-	COG0055C	ATP synthase F0F1 subunit beta
+274992..275948	+	318	15828708	eutD	MYPU_2370	-	COG0280C	phosphotransacetylase
+275949..277130	+	393	15828709	-	MYPU_2380	-	COG0282C	acetate kinase
+277132..277692	+	186	15828710	engB	MYPU_2390	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+277974..279401	+	475	15828711	-	MYPU_2400	-	COG0469G	pyruvate kinase
+279451..280335	-	294	15828712	-	MYPU_2410	-	-	hypothetical protein
+280402..281136	-	244	15828713	-	MYPU_2420	-	COG4478S	hypothetical protein
+281254..282858	+	534	15828714	-	MYPU_2430	-	COG0018J	arginyl-tRNA synthetase
+282939..283751	-	270	15828715	-	MYPU_2440	-	COG0561R	hypothetical protein
+284185..286941	+	918	15828716	-	MYPU_2450	-	-	lipoprotein
+287574..289889	-	771	15828717	-	MYPU_2460	-	COG0126G	phosphoglycerate kinase
+290030..291865	-	611	15828718	-	MYPU_2470	-	COG0481M	GTP-binding protein LepA
+291943..292095	+	50	15828719	-	MYPU_2480	-	-	hypothetical protein
+292113..292277	+	54	15828720	-	MYPU_2490	-	-	hypothetical protein
+292280..293650	-	456	15828721	-	MYPU_2500	-	-	hypothetical protein
+293970..295115	-	381	15828722	-	MYPU_2510	-	-	hypothetical protein
+295763..296782	+	339	15828723	recA	MYPU_2520	-	COG0468L	recombinase A
+296872..298707	+	611	15828724	-	MYPU_2530	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+298676..299134	+	152	15828725	-	MYPU_2540	-	COG1576S	hypothetical protein
+299173..300147	+	324	15828726	-	MYPU_2550	-	COG4684S	hypothetical protein
+300170..302533	+	787	15828727	-	MYPU_2560	-	COG4608E	hypothetical protein
+302600..305083	+	827	15828728	valS	MYPU_2570	-	COG0525J	valyl-tRNA synthetase
+305061..305879	+	272	15828729	-	MYPU_2580	-	COG0190H	methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+305953..306663	+	236	15828730	infC	MYPU_2590	-	COG0290J	translation initiation factor IF-3
+306644..306838	+	64	15828731	rpmI	MYPU_2600	-	COG0291J	50S ribosomal protein L35
+306855..307205	+	116	15828732	rplT	MYPU_2610	-	COG0292J	50S ribosomal protein L20
+307649..309052	+	467	15828733	-	MYPU_2620	-	COG2211G	hypothetical protein
+309045..309767	+	240	15828734	-	MYPU_2630	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+309869..311023	+	384	15828735	-	MYPU_2640	-	COG0579R	glycerol-3-phosphate dehydrogenase
+311172..311597	-	141	15828736	-	MYPU_2650	-	COG0355C	ATP synthase subunit epsilon
+311566..312993	-	475	15828737	-	MYPU_2660	-	COG0055C	ATP synthase F0F1 subunit beta
+313005..313844	-	279	15828738	-	MYPU_2670	-	COG0224C	ATP synthase F0F1 subunit gamma
+313844..315430	-	528	15828739	-	MYPU_2680	-	COG0056C	ATP synthase F0F1 subunit alpha
+315433..315972	-	179	15828740	-	MYPU_2690	-	COG0712C	ATP synthase subunit delta
+315985..316527	-	180	15828741	-	MYPU_2700	-	COG0711C	ATP synthase subunit B
+316527..316805	-	92	15828742	-	MYPU_2710	-	COG0636C	ATP synthase subunit C
+316856..317668	-	270	15828743	-	MYPU_2720	-	COG0356C	ATP synthase F0F1 subunit A
+317652..318131	-	159	15828744	-	MYPU_2730	-	-	hypothetical protein
+318239..319099	-	286	15828745	-	MYPU_2740	-	COG0427C	hypothetical protein
+319304..319591	+	95	15828746	-	MYPU_2750	-	-	hypothetical protein
+319665..320027	-	120	15828747	-	MYPU_2760	-	COG1739S	proline dipeptidase PepQ
+320041..321228	-	395	15828748	-	MYPU_2770	-	COG1015G	phosphopentomutase
+321239..321703	-	154	15828749	-	-	-	COG2131F	deoxycytidylate deaminase
+322108..325407	+	1099	15828750	-	MYPU_2790	-	COG1196D	hypothetical protein
+325501..325914	-	137	15828751	-	MYPU_2800	-	-	hypothetical protein
+325932..327440	-	502	15828752	-	MYPU_2810	-	COG2252R	hypothetical protein
+327933..330563	+	876	15828753	-	MYPU_2820	-	-	lipoprotein
+330563..331621	+	352	15828754	-	MYPU_2830	-	COG0601EP	oligopeptide ABC transporter permease
+331608..332762	+	384	15828755	-	MYPU_2840	-	COG1173EP	oligopeptide ABC transporter permease
+332764..333867	+	367	15828756	-	MYPU_2850	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein
+333860..336205	+	781	15828757	-	MYPU_2860	-	COG4608E	oligopeptide ABC transporter ATP-binding protein
+336289..336780	-	163	15828758	-	MYPU_2870	-	-	hypothetical protein
+336789..339146	-	785	15828759	-	MYPU_2880	-	-	lipoprotein
+339291..339659	-	122	15828760	rplL	MYPU_2890	-	COG0222J	50S ribosomal protein L7/L12
+339705..340265	-	186	15828761	rplJ	MYPU_2900	-	COG0244J	50S ribosomal protein L10
+340358..340915	-	185	15828762	-	MYPU_2910	-	-	lipoprotein
+340928..341920	-	330	15828763	-	MYPU_2920	-	COG0428P	hypothetical protein
+342021..343580	-	519	15828764	-	MYPU_2930	-	COG0534V	hypothetical protein
+343672..343827	+	51	15828765	-	MYPU_2940	-	-	hypothetical protein
+344034..344708	-	224	15828766	-	MYPU_2950	-	COG0344S	hypothetical protein
+344746..345675	-	309	15828767	-	MYPU_2960	-	-	hypothetical protein
+345726..347291	-	521	15828768	-	MYPU_2970	-	COG0531E	amino acid permease
+347371..348261	-	296	15828769	-	MYPU_2980	-	COG0564J	pseudouridylate synthase
+348466..349389	+	307	15828770	-	MYPU_2990	-	-	hypothetical protein
+349429..350160	-	243	15828771	-	MYPU_3000	-	COG1039L	ribonuclease HII (RNase HII)
+350150..351073	-	307	15828772	-	MYPU_3010	-	COG0561R	hypothetical protein
+351140..351628	-	162	15828773	-	MYPU_3020	-	COG0622R	hypothetical protein
+351702..352226	+	174	15828774	-	MYPU_3030	-	COG0219J	tRNA/rRNA methyltransferase
+352219..352971	+	250	15828775	-	MYPU_3040	-	COG0566J	tRNA/rRNA methyltransferase
+352940..353233	+	97	15828776	-	MYPU_3050	-	COG3599D	hypothetical protein
+353211..354086	+	291	15828777	rbgA	MYPU_3060	-	COG1161R	ribosomal biogenesis GTPase
+354076..354945	+	289	15828778	-	MYPU_3070	-	COG1281O	hypothetical protein
+355056..358109	+	1017	15828779	-	MYPU_3080	-	-	hypothetical protein
+358106..359002	-	298	15828780	-	MYPU_3090	-	COG1323R	hypothetical protein
+359109..359945	+	278	15828781	-	MYPU_3100	-	COG0266L	formamidopyrimidine-DNA glycosylase
+359983..360348	+	121	15828782	-	MYPU_3110	-	-	hypothetical protein
+360427..361023	+	198	15828783	acpD	MYPU_3120	-	COG1182I	azoreductase
+361181..369640	+	2819	15828784	-	MYPU_3130	-	COG2755E	hypothetical protein
+369845..370534	+	229	15828785	-	MYPU_3140	-	COG0274F	deoxyribose-phosphate aldolase
+370535..371161	+	208	15828786	upp	MYPU_3150	-	COG0035F	uracil phosphoribosyltransferase
+371276..373171	-	631	15828787	-	MYPU_3160	-	-	lipoprotein
+373143..373298	-	51	15828788	-	MYPU_3170	-	-	hypothetical protein
+373349..375256	-	635	15828789	-	MYPU_3180	-	-	lipoprotein
+375574..377502	-	642	15828790	-	MYPU_3190	-	-	lipoprotein
+377687..379540	-	617	15828791	-	MYPU_3200	-	-	lipoprotein
+379654..381495	-	613	15828792	-	MYPU_3210	-	COG1164E	oligoendopeptidase F
+381498..382010	-	170	15828793	-	MYPU_3220	-	COG0503F	adenine phosphoribosyltransferase
+382038..383933	-	631	15828794	-	MYPU_3230	-	-	lipoprotein
+384281..384466	+	61	15828795	rpmF	MYPU_3240	-	COG0333J	50S ribosomal protein L32
+384541..385287	+	248	15828796	-	MYPU_3250	-	-	hypothetical protein
+385403..385936	+	177	15828797	-	MYPU_3260	-	COG1451R	hypothetical protein
+385956..386357	-	133	15828798	-	MYPU_3270	-	COG1546R	competence-damage protein
+386426..386692	-	88	15828799	rpsO	MYPU_3280	-	COG0184J	30S ribosomal protein S15
+386762..387019	-	85	15828800	rpmA	MYPU_3290	-	COG0211J	50S ribosomal protein L27
+387031..387330	-	99	161723293	rplU	MYPU_3300	-	COG0261J	50S ribosomal protein L21
+387562..387834	-	90	15828802	-	MYPU_3310	-	-	hypothetical protein
+387912..389648	-	578	15828803	-	MYPU_3320	-	COG0173J	aspartyl-tRNA synthetase
+389608..390870	-	420	15828804	hisS	MYPU_3330	-	COG0124J	histidyl-tRNA synthetase
+390955..391785	-	276	15828805	-	MYPU_3340	-	COG2274V	hypothetical protein
+391893..392993	+	366	15828806	nadD	MYPU_3350	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+392971..393654	+	227	15828807	-	MYPU_3360	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+393656..394354	+	232	15828808	-	MYPU_3370	-	COG1187J	pseudouridylate synthase
+394856..396706	-	616	15828809	-	MYPU_3380	-	-	lipoprotein
+396759..398000	-	413	15828810	glyA	MYPU_3390	-	COG0112E	serine hydroxymethyltransferase
+398352..398501	+	49	15828811	-	MYPU_3400	-	-	hypothetical protein
+398572..400281	-	569	15828812	-	MYPU_3410	-	COG1283P	hypothetical protein
+400363..401712	+	449	15828813	-	MYPU_3420	-	COG0541U	signal recognition particle protein
+401976..403358	+	460	15828814	-	MYPU_3430	-	COG4213G	lipoprotein
+403445..405025	+	526	15828815	-	MYPU_3440	-	COG1129G	xylose ABC transporter ATP-binding protein
+404976..406892	+	638	15828816	-	MYPU_3450	-	COG4214G	xylose ABC transporter permease
+407185..408570	-	461	15828817	-	MYPU_3460	-	COG1744R	ABC transporter
+408717..410873	-	718	15828818	pheT	MYPU_3470	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+410882..411826	-	314	15828819	pheS	MYPU_3480	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+411854..412567	-	237	15828820	-	MYPU_3490	-	-	hypothetical protein
+412741..413013	-	90	15828821	-	MYPU_3500	-	-	hypothetical protein
+413074..415251	+	725	15828822	-	MYPU_3510	-	COG0557K	ribonuclease II
+415226..415663	+	145	15828823	smpB	MYPU_3520	-	COG0691O	SsrA-binding protein
+415696..416952	+	418	15828824	obgE	MYPU_3530	-	COG0536R	GTPase ObgE
+417024..417149	+	41	15828825	-	MYPU_3540	-	-	hypothetical protein
+418035..418388	+	117	15828826	-	MYPU_3550	-	-	hypothetical protein
+418381..419514	+	377	15828827	-	MYPU_3560	-	-	hypothetical protein
+419498..419938	+	146	15828828	-	MYPU_3570	-	-	hypothetical protein
+419958..420179	+	73	15828829	-	MYPU_3580	-	COG0236IQ	acyl carrier protein
+420239..421105	-	288	15828830	-	MYPU_3590	-	COG1307S	hypothetical protein
+421905..422747	-	280	15828831	-	MYPU_3600	-	COG0191G	fructose-bisphosphate aldolase
+422859..424436	-	525	15828832	-	MYPU_3610	-	COG1263G	PTS system, N-acetylglucosamine-specific IIABC component (EIIABC-NAG)(N-acetylglucosamine-permease IIABC component) (phosphotransferase enzyme II, ABC component) (EII-NAG)
+424440..425210	-	256	15828833	nagB	MYPU_3620	-	COG0363G	glucosamine-6-phosphate deaminase
+425220..425906	-	228	15828834	-	MYPU_3630	-	COG3010G	N-acetylmannosamine-6-phosphate 2-epimerase
+425913..427721	-	602	15828835	-	MYPU_3640	-	COG1263G	PTS system, glucose-specific IIABC component (EIIABC-glc) (glucose-permease IIABC component) (phosphotransferase enzyme II, ABC component) (EII-glc/EIII-glc)
+428019..428171	+	50	15828836	-	MYPU_3650	-	-	hypothetical protein
+428353..428697	+	114	15828837	-	MYPU_3660	-	COG1737K	hypothetical protein
+428764..429174	+	136	15828838	-	MYPU_3670	-	COG1737K	hypothetical protein
+429122..429532	+	136	15828839	-	MYPU_3680	-	COG1820G	hypothetical protein
+429581..430342	+	253	15828840	-	MYPU_3690	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+431077..431955	+	292	15828841	-	MYPU_3700	-	-	hypothetical protein
+432580..433686	-	368	15828842	-	MYPU_3710	-	-	lipoprotein
+433906..435834	+	642	15828843	-	MYPU_3720	-	COG0187L	topoisomerase IV subunit B
+435827..438646	+	939	15828844	-	MYPU_3730	-	COG0188L	DNA topoisomerase IV subunit A
+438649..440097	+	482	15828845	-	MYPU_3740	-	-	lipoprotein
+440169..441548	+	459	15828846	-	MYPU_3750	-	COG0260E	aminopeptidase
+441686..443728	+	680	15828847	-	MYPU_3760	-	COG2274V	ABC transporter permease/ATP-binding protein
+443706..444092	+	128	15828848	-	MYPU_3770	-	-	hypothetical protein
+444130..444579	+	149	15828849	-	MYPU_3780	-	COG0319R	hypothetical protein
+444619..444957	+	112	15828850	-	MYPU_3790	-	COG0295F	cytidine deaminase
+445030..445911	+	293	15828851	era	MYPU_3800	-	COG1159R	GTP-binding protein Era
+446020..446430	-	136	15828852	-	MYPU_3810	-	-	hypothetical protein
+446443..449994	-	1183	15828853	-	MYPU_3820	-	-	hypothetical protein
+449966..452527	-	853	15828854	-	MYPU_3830	-	COG3451U	TRSE-like protein
+452527..453639	-	370	15828855	-	MYPU_3840	-	-	hypothetical protein
+453620..453937	-	105	15828856	-	MYPU_3850	-	-	hypothetical protein
+454104..454901	+	265	15828857	cbiO	MYPU_3860	-	COG1122P	cobalt transporter ATP-binding subunit
+454892..455806	+	304	15828858	-	MYPU_3870	-	COG1122P	cobalt transporter ATP-binding subunit
+455838..456728	+	296	15828859	-	MYPU_3880	-	COG0619P	ABC transporter permease
+456736..458775	+	679	15828860	-	MYPU_3890	-	COG0272L	DNA ligase (polydeoxyribonucleotide synthase [NAD+])
+458768..460300	+	510	15828861	lysS	MYPU_3900	-	COG1190J	lysyl-tRNA synthetase
+460638..461078	-	146	15828862	-	MYPU_3910	-	COG2826L	truncated IS1138 transposase
+461088..461648	-	186	15828863	-	MYPU_3920	-	COG2826L	truncated IS1138 transposase
+461761..464034	-	757	15828864	-	MYPU_3930	-	COG0810M	hypothetical protein
+464060..465268	+	402	15828865	-	MYPU_3940	-	COG2801L	IS1138 transposase
+465695..468388	-	897	15828866	-	MYPU_3950	-	COG3421S	type III restriction-modification system: methylase
+468565..470286	-	573	15828867	-	MYPU_3960	-	COG2189L	type III restriction-modification system: methylase
+470561..472258	-	565	15828868	-	MYPU_3970	-	COG2189L	type III restriction-modification system: methylase
+472298..474256	-	652	15828869	-	MYPU_3980	-	COG2189L	type III restriction-modification system: methylase
+474683..475123	-	146	15828870	-	MYPU_3990	-	COG2826L	truncated IS1138 transposase
+475133..475693	-	186	15828871	-	MYPU_4000	-	COG2826L	truncated IS1138 transposase
+475986..477089	+	367	15828872	-	MYPU_4010	-	COG0272L	DNA ligase (polydeoxyribonucleotide synthase [NAD+]) (fragment)
+477186..478661	+	491	15828873	lysS	MYPU_4020	-	COG1190J	lysyl-tRNA synthetase
+479011..479151	-	46	15828874	-	MYPU_4030	-	-	hypothetical protein
+479338..480123	-	261	15828875	-	MYPU_4040	-	COG3654R	hypothetical protein
+480230..481420	-	396	15828876	tuf	MYPU_4050	-	COG0050J	elongation factor Tu
+481771..483108	+	445	15828877	-	MYPU_4060	-	COG2268S	hypothetical protein
+483223..483849	+	208	15828878	-	MYPU_4070	-	COG1624S	hypothetical protein
+483851..485308	+	485	15828879	-	MYPU_4080	-	COG2239P	Mg2+ transporter
+485524..485691	+	55	15828880	-	MYPU_4090	-	-	hypothetical protein
+485792..486898	+	368	15828881	-	MYPU_4100	-	COG0601EP	oligopeptide ABC transporter system permease OPPB
+486898..487860	+	320	15828882	-	MYPU_4110	-	COG1173EP	oligopeptide ABC transporter system permease OPPC
+487863..489326	+	487	15828883	-	MYPU_4120	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein OppD
+489301..490623	+	440	15828884	-	MYPU_4130	-	COG1124EP	oligopeptide ABC transporter ATP-binding protein OppF
+490641..497375	+	2244	15828885	-	MYPU_4140	-	-	hypothetical protein
+497382..500096	+	904	15828886	-	MYPU_4150	-	COG4166E	lipoprotein
+500508..501926	+	472	15828887	-	MYPU_4160	-	-	hypothetical protein
+501938..502915	+	325	15828888	-	MYPU_4170	-	-	hypothetical protein
+503241..504260	+	339	15828889	-	MYPU_4180	-	-	hypothetical protein
+504664..504969	+	101	15828890	-	MYPU_4190	-	-	lipoprotein
+505069..506805	+	578	15828891	-	MYPU_4200	-	COG0810M	hypothetical protein
+507153..508187	-	344	15828892	-	MYPU_4210	-	COG3356S	potassium channel protein
+508259..509977	-	572	15828893	-	MYPU_4220	-	COG0687E	hypothetical protein
+509967..510860	-	297	15828894	-	MYPU_4230	-	COG1177E	spermidine/putrescine ABC transporter permease
+510853..511692	-	279	15828895	-	MYPU_4240	-	COG1176E	spermidine/putrescine ABC transporter permease
+511682..513058	-	458	15828896	-	MYPU_4250	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+513181..513363	-	60	15828897	-	MYPU_4260	-	-	hypothetical protein
+513418..514332	-	304	15828898	-	MYPU_4270	-	-	hypothetical protein
+514569..516656	-	695	15828899	-	MYPU_4280	-	COG0480J	elongation factor G
+516650..517120	-	156	15828900	-	MYPU_4290	-	COG0049J	30S ribosomal protein S7
+517177..517590	-	137	15828901	rpsL	MYPU_4300	-	COG0048J	30S ribosomal protein S12
+517786..518973	+	395	15828902	-	MYPU_4310	-	COG0732V	restriction modification enzyme subunit S2A
+518966..521926	+	986	15828903	-	MYPU_4320	-	COG0610V	restriction modification enzyme subunit R2
+521930..523492	+	520	15828904	-	MYPU_4330	-	COG0286V	restriction modification enzyme subunit M2
+523537..524547	-	336	15828905	-	MYPU_4340	-	COG0732V	restriction modification enzyme subunit S2B
+524831..525637	-	268	15828906	-	MYPU_4350	-	-	hypothetical protein
+526174..526716	+	180	15828907	-	MYPU_4360	-	-	lipoprotein
+526727..529102	+	791	15828908	-	MYPU_4370	-	-	hypothetical protein
+529275..531653	+	792	15828909	-	MYPU_4380	-	COG0810M	hypothetical protein
+531684..533684	-	666	15828910	-	MYPU_4390	-	COG2176L	hypothetical protein
+533748..534791	+	347	15828911	-	MYPU_4400	-	COG2141C	oxygenase
+534748..535083	+	111	15828912	-	MYPU_4410	-	COG0509E	glycine cleavage system H protein
+535086..535934	+	282	15828913	-	MYPU_4420	-	COG0846K	hypothetical protein
+535953..536987	+	344	15828914	-	MYPU_4430	-	COG0095H	lipoate-protein ligase A
+537095..538621	+	508	15828915	-	MYPU_4440	-	COG2194R	hypothetical protein
+538572..539093	+	173	15828916	-	MYPU_4450	-	-	hypothetical protein
+539080..539904	+	274	15828917	-	MYPU_4460	-	COG0224C	hypothetical protein
+539919..540539	+	206	15828918	-	MYPU_4470	-	-	hypothetical protein
+540523..543261	+	912	15828919	-	MYPU_4480	-	-	hypothetical protein
+543263..544804	+	513	15828920	-	MYPU_4490	-	COG0056C	ATP synthase F0F1 subunit alpha
+544792..546198	+	468	15828921	-	MYPU_4500	-	COG0055C	ATP synthase F0F1 subunit beta
+546220..547581	+	453	15828922	-	MYPU_4510	-	COG0423J	glycyl-tRNA synthetase
+547565..547768	-	67	15828923	-	MYPU_4520	-	-	hypothetical protein
+547581..549389	+	602	15828924	-	MYPU_4530	-	COG0358L	DNA primase
+549328..550713	+	461	15828925	-	MYPU_4540	-	COG0568K	RNA polymerase sigma factor
+550896..551480	+	194	15828926	-	MYPU_4550	-	-	lipoprotein
+551711..552466	+	251	15828927	-	MYPU_4560	-	COG0327S	hypothetical protein
+552479..552967	+	162	15828928	-	MYPU_4570	-	COG4508S	hypothetical protein
+553094..553840	+	248	15828929	tpiA	MYPU_4580	-	COG0149G	triosephosphate isomerase
+553843..555360	+	505	15828930	-	MYPU_4590	-	COG0696G	phosphoglyceromutase
+555480..556022	+	180	15828931	-	MYPU_4600	-	-	hypothetical protein
+555947..557218	+	423	15828932	-	MYPU_4610	-	COG0658R	hypothetical protein
+557260..558204	+	314	15828933	-	MYPU_4620	-	COG1466L	hypothetical protein
+558209..559795	+	528	15828934	-	MYPU_4630	-	COG0366G	glucan 1,6-alpha-glucosidase
+559990..561342	+	450	15828935	-	MYPU_4640	-	COG1322S	hypothetical protein
+561804..563672	+	622	15828936	-	MYPU_4650	-	COG2176L	lipoprotein
+563924..565411	+	495	15828937	-	MYPU_4660	-	-	hypothetical protein
+565891..566244	-	117	15828938	rplS	MYPU_4670	-	COG0335J	50S ribosomal protein L19
+566234..566911	-	225	15828939	trmD	MYPU_4680	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+566911..567177	-	88	15828940	rpsP	MYPU_4690	-	COG0228J	30S ribosomal protein S16
+567345..567896	+	183	15828941	-	MYPU_4700	-	COG0221C	inorganic pyrophosphatase
+567948..569825	+	625	15828942	-	MYPU_4710	-	COG0550L	DNA topoisomerase I
+569882..570685	-	267	15828943	-	MYPU_4720	-	COG4123R	DNA methylase
+570749..571423	-	224	15828944	-	MYPU_4730	-	COG1521K	hypothetical protein
+571534..572505	+	323	15828945	-	MYPU_4740	-	COG0575I	phosphatidate cytidylyltransferase
+572569..573129	+	186	15828946	-	MYPU_4750	-	COG0693R	hypothetical protein
+573267..574949	-	560	15828947	-	MYPU_4760	-	-	hypothetical protein
+575089..575940	-	283	15828948	-	MYPU_4770	-	-	hypothetical protein
+576057..578309	-	750	15828949	-	MYPU_4780	-	-	lipoprotein
+578566..580980	-	804	15828950	-	MYPU_4790	-	COG1061KL	hypothetical protein
+580982..582745	-	587	15828951	-	MYPU_4800	-	COG2189L	type III restriction-modification system: methylase
+582966..583874	-	302	15828952	-	MYPU_4810	-	-	transporter
+583874..586147	-	757	15828953	-	MYPU_4820	-	-	lipoprotein
+586416..587420	+	334	15828954	-	MYPU_4830	-	COG1488H	nicotinate phosphoribosyltransferase
+587696..590431	-	911	15828955	-	MYPU_4840	-	COG0392S	hypothetical protein
+590450..591694	-	414	15828956	-	MYPU_4850	-	COG0162J	tyrosyl-tRNA synthetase
+591694..592284	-	196	15828957	-	MYPU_4860	-	COG0073R	phenylalanyl-tRNA synthetase subunit beta
+593025..594482	+	485	15828958	-	MYPU_4870	-	COG5028	lipoprotein
+594541..595587	-	348	15828959	-	MYPU_4880	-	COG0006E	XAA-Pro aminopeptidase
+595639..595791	-	50	15828960	rpmG	MYPU_4890	-	COG0267J	50S ribosomal protein L33
+595890..597419	-	509	15828961	metG	MYPU_4900	-	COG0143J	methionyl-tRNA synthetase
+597583..598755	-	390	15828962	-	MYPU_4910	-	COG0206D	cell division protein FtsZ
+598792..600024	-	410	15828963	-	MYPU_4920	-	-	hypothetical protein
+600039..600938	-	299	15828964	-	MYPU_4930	-	COG0275M	methyltransferase
+600938..601402	-	154	15828965	-	MYPU_4940	-	COG2001S	cell division protein MraZ
+601696..602130	+	144	15828966	rplM	MYPU_4950	-	COG0102J	50S ribosomal protein L13
+602130..602540	+	136	15828967	rpsI	MYPU_4960	-	COG0103J	30S ribosomal protein S9
+602768..604303	+	511	15828968	-	MYPU_4970	-	COG3839G	ABC transporter ATP-binding protein
+604260..605270	+	336	15828969	-	MYPU_4980	-	COG1175G	ABC transporter permease
+605263..606096	+	277	15828970	-	MYPU_4990	-	COG0395G	ABC transporter permease
+606491..608701	-	736	15828971	-	MYPU_5000	-	-	hypothetical protein
+608685..609158	-	157	15828972	-	MYPU_5010	-	-	hypothetical protein
+609161..610141	-	326	15828973	-	MYPU_5020	-	-	hypothetical protein
+610095..611573	-	492	15828974	-	MYPU_5030	-	COG0474P	hypothetical protein
+611590..613995	-	801	15828975	-	MYPU_5040	-	COG3883S	lipoprotein
+614032..616533	-	833	15828976	-	MYPU_5050	-	COG0810M	hypothetical protein
+616931..617368	+	145	15828977	-	MYPU_5060	-	COG0229O	methionine sulfoxide reductase B
+617527..618960	-	477	15828978	-	MYPU_5070	-	-	hypothetical protein
+619485..621527	-	680	15828979	-	MYPU_5080	-	COG5271R	lipoprotein
+621670..623532	-	620	15828980	-	MYPU_5090	-	-	lipoprotein
+623713..623952	-	79	15828981	-	MYPU_5100	-	-	hypothetical protein
+624200..626047	-	615	15828982	-	MYPU_5110	-	COG0021G	transketolase
+626049..626345	-	98	15828983	-	MYPU_5120	-	-	hypothetical protein
+626345..626908	-	187	15828984	-	MYPU_5130	-	COG0231J	elongation factor P
+627035..628324	-	429	15828985	-	MYPU_5140	-	COG1253R	hemolysin C
+628335..629702	-	455	15828986	-	MYPU_5150	-	COG0305L	replicative DNA helicase
+629686..630156	-	156	15828987	rplI	MYPU_5160	-	COG0359J	50S ribosomal protein L9
+630119..632101	-	660	15828988	-	MYPU_5170	-	COG3887T	hypothetical protein
+632292..633662	+	456	15828989	eno	MYPU_5180	-	COG0148G	phosphopyruvate hydratase
+633790..636318	-	842	15828990	-	MYPU_5190	-	COG0466O	heat shock ATP-dependent protease
+636795..637793	+	332	15828991	-	MYPU_5200	-	-	lipoprotein D
+638031..639440	-	469	15828992	-	MYPU_5210	-	-	hypothetical protein
+639404..640114	-	236	15828993	-	MYPU_5220	-	-	lipoprotein B
+640365..641210	+	281	15828994	-	MYPU_5230	-	COG5243	lipoprotein VSAA (fragment)
+641512..642636	+	374	15828995	-	MYPU_5240	-	-	lipoprotein VSAF (fragment)
+643145..645646	+	833	15828996	-	MYPU_5250	-	COG5422	lipoprotein VSAC (fragment)
+645834..646778	-	314	15828997	-	MYPU_5260	-	COG1196D	lipoprotein VSAE (fragment)
+647323..648615	-	430	15828998	-	MYPU_5270	-	-	lipoprotein VSAG (fragment)
+649088..651607	+	839	15828999	-	MYPU_5280	-	-	lipoprotein VSAI
+652745..652873	-	42	15829000	-	MYPU_5290	-	-	lipoprotein VSAH (fragment)
+653131..654867	+	578	15829001	-	MYPU_5300	-	COG5271R	lipoprotein
+656086..656910	-	274	15829002	-	MYPU_5310	-	COG4974L	integrase/recombinase
+656947..657831	-	294	15829003	tsf	MYPU_5320	-	COG0264J	elongation factor Ts
+657834..658826	-	330	15829004	rpsB	MYPU_5330	-	COG0052J	30S ribosomal protein S2
+659041..659532	+	163	15829005	-	MYPU_5340	-	-	hypothetical protein
+659525..660424	+	299	15829006	-	MYPU_5350	-	-	hypothetical protein
+660555..661862	-	435	15829007	-	MYPU_5360	-	COG0084L	hypothetical protein
+661953..662492	-	179	15829008	-	MYPU_5370	-	COG0262H	dihydrofolate reductase
+662446..663306	-	286	15829009	thyA	MYPU_5380	-	COG0207F	thymidylate synthase
+663546..664571	+	341	15829010	nrdF	MYPU_5390	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+664575..665030	+	151	15829011	nrdI	MYPU_5400	-	COG1780F	ribonucleotide reductase stimulatory protein
+665064..667199	+	711	15829012	-	MYPU_5410	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+667230..667901	+	223	15829013	-	MYPU_5420	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+667943..668746	+	267	15829014	-	MYPU_5430	-	-	hypothetical protein
+668819..669676	-	285	15829015	-	MYPU_5440	-	COG0561R	hypothetical protein
+669816..674096	-	1426	15829016	-	MYPU_5450	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+674099..677749	-	1216	15829017	rpoB	MYPU_5460	-	COG0085K	DNA-directed RNA polymerase subunit beta
+677946..678680	-	244	15829018	-	MYPU_5470	-	COG0758LU	DNA processing protein SMF
+678756..679595	-	279	15829019	-	MYPU_5480	-	COG0196H	hypothetical protein
+679679..680506	-	275	15829020	-	MYPU_5490	-	COG0561R	hypothetical protein
+680490..681338	-	282	15829021	truB	MYPU_5500	-	COG0130J	tRNA pseudouridine synthase B
+681949..682530	-	193	15829022	-	MYPU_5510	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+682599..683249	-	216	15829023	-	MYPU_5520	-	COG1428F	deoxyguanosine kinase
+683261..683755	-	164	15829024	-	MYPU_5530	-	COG0782K	transcription elongation factor GreA
+683820..684500	-	226	15829025	-	MYPU_5540	-	-	hypothetical protein
+684502..684840	-	112	15829026	-	MYPU_5550	-	-	hypothetical protein
+684840..685280	-	146	15829027	-	MYPU_5560	-	COG0816L	hypothetical protein
+685273..687894	-	873	15829028	alaS	MYPU_5570	-	COG0013J	alanyl-tRNA synthetase
+687931..689046	-	371	15829029	mnmA	MYPU_5580	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+689109..692795	-	1228	15829030	-	MYPU_5590	-	-	hypothetical protein
+693042..693404	-	120	15829031	rplQ	MYPU_5600	-	COG0203J	50S ribosomal protein L17
+693404..694405	-	333	15829032	-	MYPU_5610	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+694410..694820	-	136	15829033	-	MYPU_5620	-	COG0100J	30S ribosomal protein S11
+694824..695222	-	132	15829034	rpsM	MYPU_5630	-	COG0099J	30S ribosomal protein S13
+695229..695342	-	37	15829035	-	MYPU_5640	-	COG0257J	ribosomal protein L36
+695425..695643	-	72	15829036	-	MYPU_5650	-	COG0361J	translation initiation factor IF-1
+695643..696392	-	249	15829037	-	MYPU_5660	-	COG0024J	methionine aminopeptidase
+696392..697036	-	214	15829038	-	MYPU_5670	-	COG0563F	adenylate kinase
+697030..698454	-	474	15829039	secY	MYPU_5680	-	COG0201U	preprotein translocase subunit SecY
+698457..698894	-	145	15829040	rplO	MYPU_5690	-	COG0200J	50S ribosomal protein L15
+698908..699597	-	229	15829041	rpsE	MYPU_5700	-	COG0098J	30S ribosomal protein S5
+699597..699953	-	118	15829042	rplR	MYPU_5710	-	COG0256J	50S ribosomal protein L18
+699966..700505	-	179	15829043	rplF	MYPU_5720	-	COG0097J	50S ribosomal protein L6
+700509..700907	-	132	15829044	rpsH	MYPU_5730	-	COG0096J	30S ribosomal protein S8
+700911..701096	-	61	15829045	rpsN	MYPU_5740	-	COG0199J	30S ribosomal protein S14
+701106..701651	-	181	15829046	rplE	MYPU_5750	-	COG0094J	50S ribosomal protein L5
+701654..701980	-	108	15829047	rplX	MYPU_5760	-	COG0198J	50S ribosomal protein L24
+701991..702359	-	122	161723292	rplN	MYPU_5770	-	COG0093J	50S ribosomal protein L14
+702361..702627	-	88	15829049	rpsQ	MYPU_5780	-	COG0186J	30S ribosomal protein S17
+702627..702824	-	65	15829050	-	MYPU_5790	-	COG0255J	50S ribosomal protein L29
+702826..703254	-	142	15829051	rplP	MYPU_5800	-	COG0197J	50S ribosomal protein L16
+703254..703907	-	217	15829052	rpsC	MYPU_5810	-	COG0092J	30S ribosomal protein S3
+703891..704043	+	50	15829053	-	MYPU_5820	-	-	hypothetical protein
+703917..704249	-	110	15829054	rplV	MYPU_5830	-	COG0091J	50S ribosomal protein L22
+704249..704524	-	91	15829055	rpsS	MYPU_5840	-	COG0185J	30S ribosomal protein S19
+704524..705369	-	281	15829056	rplB	MYPU_5850	-	COG0090J	50S ribosomal protein L2
+705441..705905	-	154	15829057	rplW	MYPU_5860	-	COG0089J	50S ribosomal protein L23
+705905..706783	-	292	15829058	rplD	MYPU_5870	-	COG0088J	50S ribosomal protein L4
+706505..707455	+	316	15829059	-	MYPU_5880	-	-	hypothetical protein
+706786..707586	-	266	15829060	rplC	MYPU_5890	-	COG0087J	50S ribosomal protein L3
+707705..708016	-	103	15829061	-	MYPU_5900	-	COG0051J	30S ribosomal protein S10
+708370..709257	-	295	15829062	-	MYPU_5910	-	-	hypothetical protein
+710142..710339	-	65	15829063	-	MYPU_5920	-	-	hypothetical protein
+710358..711413	+	351	15829064	-	MYPU_5930	-	COG1735R	hypothetical protein
+711460..713244	+	594	15829065	ulaA	MYPU_5940	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+713287..713577	+	96	15829066	-	MYPU_5950	-	COG3414G	pentitol phosphotransferase enzyme II, B component
+713577..714056	+	159	15829067	-	MYPU_5960	-	COG1762GT	pentitol phosphotransferase enzyme II, A component
+714070..714729	+	219	161723291	ulaD	MYPU_5970	-	COG0269G	3-keto-L-gulonate-6-phosphate decarboxylase
+714665..715582	+	305	15829069	-	MYPU_5980	-	COG3623G	L-xylulose 5-phosphate 3-epimerase
+715575..716306	+	243	15829070	araD	MYPU_5990	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+716853..717254	-	133	15829071	-	MYPU_6000	-	COG1869G	high affinity ribose transport protein RBSD
+717305..718285	-	326	15829072	pfkA	MYPU_6010	-	COG0205G	6-phosphofructokinase
+718305..720014	-	569	15829073	-	MYPU_6020	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase (phosphotransferase system, enzyme I)
+720083..720346	-	87	15829074	-	MYPU_6030	-	COG1925G	phosphocarrier protein HPr (histidine-containing protein)
+720450..721931	-	493	15829075	-	MYPU_6040	-	-	lipoprotein
+722010..722513	-	167	15829076	-	MYPU_6050	-	-	lipoprotein
+722494..724416	-	640	15829077	-	MYPU_6060	-	-	lipoprotein
+724455..726824	-	789	15829078	-	MYPU_6070	-	-	lipoprotein
+726817..727926	-	369	15829079	-	MYPU_6080	-	COG1173EP	hypothetical protein
+728041..728358	-	105	15829080	rpsR	MYPU_6090	-	COG0238J	30S ribosomal protein S18
+728372..728917	-	181	15829081	-	MYPU_6100	-	COG0629L	single-strand binding protein (SSB) (helix-destabilizing protein)
+728927..729379	-	150	15829082	rpsF	MYPU_6110	-	COG0360J	30S ribosomal protein S6
+729513..729980	-	155	15829083	-	MYPU_6120	-	COG0698G	ribose-5-phosphate isomerase B
+730009..730473	-	154	15829084	-	MYPU_6130	-	COG0009J	hypothetical protein
+730536..730826	+	96	15829085	-	MYPU_6140	-	COG2840S	hypothetical protein
+730819..731484	+	221	15829086	-	MYPU_6150	-	COG0692L	uracil-DNA glycosylase
+731618..732124	-	168	15829087	-	MYPU_6160	-	-	hypothetical protein
+732443..733381	-	312	15829088	-	MYPU_6170	-	COG1079R	sugar ABC transporter permease
+733381..735177	-	598	15829089	-	MYPU_6180	-	COG4603R	sugar ABC transporter permease
+735170..736729	-	519	15829090	-	MYPU_6190	-	COG3845R	sugar ABC transporter ATP-binding protein MGLA
+736820..737779	-	319	15829091	-	MYPU_6200	-	COG0601EP	hypothetical protein
+737792..738625	-	277	15829092	-	MYPU_6210	-	COG0648L	endonuclease IV
+738629..739576	-	315	15829093	-	MYPU_6220	-	COG1609K	hypothetical protein
+739697..740470	+	257	15829094	-	MYPU_6230	-	COG0171H	NH(3)-dependent NAD(+) synthetase
+740474..741199	+	241	15829095	-	MYPU_6240	-	COG0217S	hypothetical protein
+742065..744317	-	750	15829096	-	MYPU_6250	-	COG1136V	ABC transporter permease/ATP-binding protein
+744326..746248	-	640	15829097	-	MYPU_6260	-	COG1136V	ABC transporter permease/ATP-binding protein
+746229..747269	-	346	15829098	-	MYPU_6270	-	-	hypothetical protein
+747278..747991	-	237	15829099	-	MYPU_6280	-	-	hypothetical protein
+747982..748125	-	47	15829100	-	MYPU_6290	-	-	hypothetical protein
+748816..749271	-	151	15829101	-	MYPU_6300	-	COG0681U	Signal peptidase I (SPase I) (leader peptidase I)
+749385..749540	-	51	15829102	-	MYPU_6310	-	-	hypothetical protein
+749674..751497	-	607	15829103	-	MYPU_6320	-	COG0366G	1,4-alpha-D-glucan glucanohydrolase
+752092..753726	+	544	15829104	-	MYPU_6330	-	COG0366G	oligo-1,6-glucosidase
+753730..756063	+	777	15829105	-	MYPU_6340	-	COG1554G	hypothetical protein
+756038..756715	+	225	15829106	-	MYPU_6350	-	COG0637R	BETA-phosphoglucomutase (BETA-PGM)
+756916..757317	+	133	15829107	-	MYPU_6360	-	-	hypothetical protein
+757326..759656	+	776	15829108	-	MYPU_6370	-	-	lipoprotein
+759665..760129	+	154	15829109	-	MYPU_6380	-	-	hypothetical protein
+760147..763251	+	1034	15829110	-	MYPU_6390	-	COG1175G	maltodextrin ABC transporter permease
+763251..764195	+	314	15829111	-	MYPU_6400	-	COG3833G	maltodextrin ABC transporter permease
+764197..765375	+	392	15829112	-	MYPU_6410	-	COG3839G	maltodextrin ABC transporter ATP-binding protein
+765375..765929	+	184	15829113	-	MYPU_6420	-	-	hypothetical protein
+766244..766813	-	189	15829114	-	MYPU_6430	-	COG2188K	hypothetical protein
+767057..769132	-	691	15829115	-	MYPU_6440	-	COG1523G	alpha-dextrin endo-1,6-alpha-glucosidase
+769444..770142	+	232	15829116	-	MYPU_6450	-	COG0813F	purine nucleoside phosphorylase
+770151..771443	+	430	15829117	-	MYPU_6460	-	COG0213F	thymidine phosphorylase
+771590..774220	+	876	15829118	-	MYPU_6470	-	-	hypothetical protein
+774327..775178	+	283	15829119	-	MYPU_6480	-	-	hypothetical protein
+775472..775939	+	155	15829120	-	MYPU_6490	-	-	hypothetical protein
+776884..780552	+	1222	15829121	-	MYPU_6500	-	-	hypothetical protein
+780922..784740	+	1272	15829122	-	MYPU_6510	-	COG0810M	hypothetical protein
+784939..785568	-	209	15829123	-	MYPU_6520	-	-	lipoprotein
+785579..785968	-	129	15829124	-	MYPU_6530	-	-	hypothetical protein
+786464..787096	-	210	15829125	-	MYPU_6540	-	-	lipoprotein
+787107..788768	-	553	15829126	-	MYPU_6550	-	COG1404O	subtilisin: serine protease
+788923..789192	-	89	161723290	rpsT	MYPU_6560	-	COG0268J	30S ribosomal protein S20
+789431..790024	+	197	15829128	ruvA	MYPU_6570	-	COG0632L	Holliday junction DNA helicase RuvA
+790002..790949	+	315	15829129	ruvB	MYPU_6580	-	COG2255L	Holliday junction DNA helicase RuvB
+790985..793606	-	873	15829130	-	MYPU_6590	-	COG0342U	bifunctional preprotein translocase subunit SecD/SecF
+793723..794184	-	153	15829131	-	MYPU_6600	-	COG2731G	hypothetical protein
+794294..795820	-	508	15829132	-	MYPU_6610	-	COG0531E	amino acid permease
+795971..796675	+	234	15829133	-	MYPU_6620	-	COG1387ER	hypothetical protein
+796700..798367	+	555	15829134	-	MYPU_6630	-	COG1121P	hypothetical protein
+798354..798653	+	99	15829135	-	MYPU_6640	-	-	hypothetical protein
+798844..800349	+	501	15829136	-	MYPU_6650	-	COG1502I	cardiolipin synthetase
+800910..802529	+	539	15829137	pyrG	MYPU_6660	-	COG0504F	CTP synthetase
+802541..805207	+	888	15829138	ileS	MYPU_6670	-	COG0060J	isoleucyl-tRNA synthetase
+805123..805953	+	276	15829139	-	MYPU_6680	-	COG0597MU	lipoprotein signal peptidase
+806039..808021	-	660	15829140	-	MYPU_6690	-	-	hypothetical protein
+808164..810107	-	647	15829141	-	MYPU_6700	-	-	hypothetical protein
+815483..816295	-	270	15829142	-	MYPU_6710	-	COG1692S	hypothetical protein
+816334..816672	-	112	15829143	-	MYPU_6720	-	COG0858J	ribosome-binding factor A
+816747..816986	-	79	15829144	-	MYPU_6730	-	COG2739S	hypothetical protein
+816964..818085	-	373	15829145	-	MYPU_6740	-	COG0552U	cell division protein FTSY
+818449..822756	+	1435	15829146	polC	MYPU_6750	-	COG2176L	DNA polymerase III PolC
+822805..823911	+	368	15829147	-	MYPU_6760	-	COG0732V	restriction modification enzyme subunit S1A
+823904..826864	+	986	15829148	-	MYPU_6770	-	COG0610V	restriction-modification enzyme subunit R1
+826868..828430	+	520	15829149	-	MYPU_6780	-	COG0286V	restriction-modification enzyme subunit M1
+828475..829584	-	369	15829150	-	MYPU_6790	-	COG0732V	restriction-modification enzyme subunit S1B
+830019..830171	+	50	15829151	-	MYPU_6800	-	-	hypothetical protein
+830846..831226	-	126	15829152	-	MYPU_6810	-	-	glutamyl-tRNA synthetase
+831217..832623	-	468	15829153	gltX	MYPU_6820	-	COG0008J	glutamyl-tRNA synthetase
+832656..833303	-	215	15829154	-	MYPU_6830	-	COG0036G	ribulose-phosphate 3-epimerase
+833303..834121	-	272	15829155	-	MYPU_6840	-	COG1162R	hypothetical protein
+834125..835087	-	320	15829156	-	MYPU_6850	-	COG0515RTKL	serine/threonine-protein kinase PKNB
+835109..835846	-	245	15829157	-	MYPU_6860	-	COG0631T	protein phosphatase
+835858..836448	-	196	15829158	gmk	MYPU_6870	-	COG0194F	guanylate kinase
+836497..837045	-	182	15829159	-	MYPU_6880	-	COG0742L	DNA methylase
+837104..837700	+	198	15829160	-	MYPU_6890	-	COG0242J	polypeptide deformylase
+837803..839416	-	537	15829161	-	MYPU_6900	-	COG0488R	ABC transporter ATP-binding protein
+839520..840563	-	347	15829162	-	MYPU_6910	-	-	hypothetical protein
+840623..841597	-	324	15829163	-	MYPU_6920	-	COG0618R	hypothetical protein
+841653..845030	-	1125	15829164	-	MYPU_6930	-	COG5271R	membrane nuclease, lipoprotein
+845083..846267	-	394	15829165	-	MYPU_6940	-	COG2374R	membrane nuclease
+846769..847587	+	272	15829166	-	MYPU_6950	-	COG1075R	esterase
+847620..847811	-	63	15829167	rpmB	MYPU_6960	-	COG0227J	50S ribosomal protein L28
+848279..848440	-	53	15829168	-	MYPU_6970	-	-	hypothetical protein
+848476..850680	-	734	15829169	-	MYPU_6980	-	COG0210L	ATP-dependent helicase PcrA
+850778..852184	-	468	15829170	-	MYPU_6990	-	COG0055C	ATP synthase F0F1 subunit beta
+852186..853715	-	509	15829171	-	MYPU_7000	-	COG0056C	ATP synthase F0F1 subunit alpha
+853737..854381	-	214	15829172	-	MYPU_7010	-	-	hypothetical protein
+854671..855801	+	376	15829173	-	MYPU_7020	-	COG0192H	S-adenosylmethionine synthetase
+855865..858123	-	752	15829174	-	MYPU_7030	-	-	hypothetical protein
+858252..860147	-	631	15829175	-	MYPU_7040	-	COG0595R	hypothetical protein
+860431..862071	+	546	15829176	-	MYPU_7050	-	COG0595R	hypothetical protein
+862074..863111	+	345	15829177	-	MYPU_7060	-	COG0628R	hypothetical protein
+863111..863440	+	109	15829178	-	MYPU_7070	-	COG0526OC	thioredoxin
+863641..864138	-	165	15829179	-	MYPU_7080	-	COG2077O	thiol peroxidase
+864141..865676	-	511	15829180	-	MYPU_7090	-	COG1109G	hypothetical protein
+865940..868774	+	944	15829181	uvrA	MYPU_7100	-	COG0178L	excinuclease ABC subunit A
+868774..869703	+	309	15829182	-	MYPU_7110	-	COG1493T	HPr kinase/phosphorylase
+869693..870661	+	322	15829183	-	MYPU_7120	-	COG0682M	prolipoprotein diacylglyceryl transferase
+870648..871571	+	307	15829184	-	MYPU_7130	-	COG0492O	thioredoxin reductase
+871674..874613	+	979	15829185	-	MYPU_7140	-	COG1196D	ABC transporter ATP-binding protein
+874597..874824	-	75	15829186	-	MYPU_7150	-	-	hypothetical protein
+874802..875401	-	199	15829187	rpsD	MYPU_7160	-	COG0522J	30S ribosomal protein S4
+875626..877290	+	554	15829188	-	MYPU_7170	-	-	hypothetical protein
+877293..878432	+	379	15829189	-	MYPU_7180	-	COG0301H	thiamine biosynthesis protein ThiI
+878445..881390	+	981	15829190	dnaE	MYPU_7190	-	COG0587L	DNA polymerase III DnaE
+881383..882276	+	297	15829191	-	MYPU_7200	-	COG0258L	DNA polymerase I (POL I)
+882270..882788	+	172	15829192	-	MYPU_7210	-	COG0237H	hypothetical protein
+882869..883813	+	314	15829193	-	MYPU_7220	-	COG3611L	hypothetical protein
+883823..884677	+	284	15829194	-	MYPU_7230	-	-	hypothetical protein
+884683..886008	-	441	15829195	-	MYPU_7240	-	-	hypothetical protein
+886015..886926	-	303	15829196	-	MYPU_7250	-	COG1482G	mannose-6-phosphate isomerase
+887461..888825	-	454	15829197	-	MYPU_7260	-	COG0260E	aminopeptidase
+889065..889724	-	219	15829198	-	MYPU_7270	-	COG2059P	chromate transporter
+889724..890329	-	201	15829199	-	MYPU_7280	-	COG2059P	chromate transporter
+890366..891073	+	235	15829200	-	MYPU_7290	-	COG1015G	hypothetical protein
+891060..892163	+	367	15829201	-	MYPU_7300	-	COG1363G	aminopeptidase
+892296..893381	+	361	15829202	-	MYPU_7310	-	-	hypothetical protein
+893749..894414	+	221	15829203	-	MYPU_7320	-	-	hypothetical protein
+894456..895607	+	383	15829204	-	MYPU_7330	-	COG0484O	molecular chaperone DnaJ
+895721..897769	-	682	15829205	-	MYPU_7340	-	COG5271R	lipoprotein
+898013..902653	-	1546	15829206	-	MYPU_7350	-	COG5160O	lipoprotein
+902950..903168	-	72	15829207	-	MYPU_7360	-	-	hypothetical protein
+903141..906116	-	991	15829208	-	MYPU_7370	-	-	hypothetical protein
+906180..907676	-	498	15829209	-	MYPU_7380	-	COG0534V	hypothetical protein
+907738..909672	-	644	15829210	-	MYPU_7390	-	COG0187L	DNA gyrase subunit B
+909730..910530	+	266	15829211	-	MYPU_7400	-	COG0510M	PTS system, lichenan-specific IIA component
+910767..912395	+	542	15829212	-	MYPU_7410	-	COG1132V	ABC transporter permease/ATP-binding protein
+912373..913989	+	538	15829213	-	MYPU_7420	-	COG1132V	ABC transporter permease/ATP-binding protein
+914036..915517	-	493	15829214	-	MYPU_7430	-	-	hypothetical protein
+915369..915548	+	59	15829215	-	MYPU_7440	-	-	hypothetical protein
+915593..916591	+	332	15829216	-	MYPU_7450	-	COG0180J	tryptophanyl-tRNA synthetase
+916591..918360	+	589	15829217	thrS	MYPU_7460	-	COG0441J	threonyl-tRNA synthetase
+918364..918768	+	134	15829218	-	MYPU_7470	-	-	hypothetical protein
+919068..920495	+	475	15829219	-	MYPU_7480	-	-	hexosephosphate transport protein
+920817..921062	+	81	15829220	-	MYPU_7490	-	-	hypothetical protein
+921356..922438	-	360	15829221	-	MYPU_7500	-	COG0246G	mannitol-1-phosphate 5-dehydrogenase
+922425..923453	-	342	15829222	-	MYPU_7510	-	COG2213G	PTS system, mannitol-specific IIABC component (EIIABC-MTL) (mannitol-permease IIABC component) (phosphotransferase enzyme II, BC component) (EII-MTL)
+923490..923876	-	128	15829223	-	MYPU_7520	-	COG2213G	PTS system, mannitol-specific IIABC component (EIIABC-MTL) (phosphotransferase enzyme II, ABC component) (EII-MTL)
+924132..924665	+	177	15829224	-	MYPU_7530	-	COG1737K	hypothetical protein
+925082..925813	-	243	15829225	-	MYPU_7540	-	-	hypothetical protein
+925840..926592	-	250	15829226	-	MYPU_7550	-	-	hypothetical protein
+926547..927755	-	402	15829227	-	MYPU_7560	-	COG2801L	IS1138 transposase
+927806..928102	-	98	15829228	-	MYPU_7570	-	-	hypothetical protein
+928272..928946	-	224	15829229	-	MYPU_7580	-	COG1704S	hypothetical protein
+929141..930088	-	315	15829230	-	MYPU_7590	-	COG0039C	L-lactate dehydrogenase
+930126..930275	+	49	15829231	-	MYPU_7600	-	-	hypothetical protein
+930281..932164	-	627	15829232	-	MYPU_7610	-	COG1249C	dihydrolipoamide dehydrogenase (E3 component of pyruvate complex)
+932167..933114	-	315	15829233	-	MYPU_7620	-	COG0508C	dihydrolipoamide acetyltransferase
+933299..934297	-	332	15829234	-	MYPU_7630	-	COG0022C	pyruvate dehydrogenase E1 component, beta subunit
+934297..935403	-	368	15829235	-	MYPU_7640	-	COG1071C	pyruvate dehydrogenase E1 component, alpha subunit
+935546..935704	+	52	15829236	-	MYPU_7650	-	-	hypothetical protein
+935682..936530	-	282	15829237	-	MYPU_7660	-	COG1307S	hypothetical protein
+936582..938180	-	532	15829238	-	MYPU_7670	-	-	hypothetical protein
+938203..940428	-	741	15829239	-	MYPU_7680	-	COG0210L	ATP-dependent helicase PcrA
+940388..941017	-	209	15829240	-	MYPU_7690	-	-	hypothetical protein
+941019..942029	-	336	15829241	-	MYPU_7700	-	-	glycosyltransferase
+942032..943384	-	450	15829242	asnC	MYPU_7710	-	COG0017J	asparaginyl-tRNA synthetase
+943476..944672	-	398	15829243	-	MYPU_7720	-	COG1902C	NADH-dependent flavin oxidoreductase
+944941..945846	-	301	15829244	-	MYPU_7730	-	COG1136V	ABC transporter ATP-binding protein
+945846..953645	-	2599	15829245	-	MYPU_7740	-	COG4591M	ABC transporter permease
+953789..955594	-	601	15829246	-	MYPU_7750	-	-	carnitine O-acetyltransferase
+955616..957229	-	537	15829247	-	MYPU_7760	-	-	hypothetical protein
+955908..956135	+	75	15829248	-	MYPU_7770	-	-	hypothetical protein
+957274..957807	-	177	15829249	-	MYPU_7780	-	COG0225O	methionine sulfoxide reductase A
+958010..960187	-	725	15829250	-	MYPU_7790	-	COG0465O	cell division protein FTSH
+960347..961207	-	286	15829251	-	MYPU_7800	-	COG0037D	hypothetical protein
+961211..961771	-	186	15829252	-	MYPU_7810	-	COG0193J	peptidyl-tRNA hydrolase
+961795..963879	-	694	15829253	-	MYPU_7820	-	COG0507L	exodeoxyribonuclease V subunit alpha

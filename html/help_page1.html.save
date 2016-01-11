@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title id='title'>MetaPred2cs at bioinsilico \dot\ org</title>
+<link rel="stylesheet" type="text/css" href="/MetaPred2cs/CSS/response.css" />
+</head>
+<body>
+<div class="body_div" >
+<div class="header_div" ><div class="title_div" >MetaPred2cs<i> Webserver</i></div>
+<div class="subtitle_div" ><a href="http://www.bioinsilico.org" >@ bioinsilico \dot\ org</a></div></div><div class="response_div" >
+<div style="position:relative;" class="can_pathway">
+</span></div>
+
+<div style="text-align:justify;">
+
+<h3_main>
+
+<H3> General Information</H3>
+MetaPred2cs is a meta-predictor specifically designed to predict interactions in prokaryotic two-component system, 
+i.e the pairing between histidine kinases and response regulators. 
+
+MetaPred2cs is a meta-predictor which created based on <a href="http://www.ncbi.nlm.nih.gov/pubmed/17160063">Support Vector Machine (SVM)</a>
+by combining 6 individual sequence based protein-protein interaction prediction
+methods to be able to predict <b> prokaryotic two-component system </b> protein-protein interactions (PPIs).
+In the most general way, employed sequence based prediction methods can be classified
+as co-evolutionary and genomic context methods. As co-evolutionary methods, <a href="http://www.ncbi.nlm.nih.gov/pubmed/11933068">in-silico
+two hybrid (i2h)</a> and <a href="http://www.ncbi.nlm.nih.gov/pubmed/11707606">mirror tree (MT)</a> methods used and genomics context
+methods are: <a href="http://www.ncbi.nlm.nih.gov/pubmed/15947018">phylogenetic profiling (PP)</a>, 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/10573422">gene fusion (GF)</a>,
+<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030043">gene neighbourhood (GN)</a> 
+and <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030043">gene operon methods (GO)</a>.
+<br><br>
+
+<ul>
+<h4>Fasta Files</h4>
+Sequences of query proteins should be uploaded in fasta format as separate files and
+the header of fasta files should be as it shown below.<br>
+Example Header:<br>
+>gi|16128384|ref|NP_414933.1| response regulator in two-component regulatory system
+with PhoR (or CreC) [Escherichia coli str. K-12 substr. MG1655]<br>
+Fasta files in required format can be downloaded from <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/">here</a>.<br>
+</ul>
+<p align="center"><img src="/MetaPred2cs/images/5.png" width="75%"/></p>
+
+<H3> Result Table</H3>
+
+At result table of server, users will see 3 columns which are ID of query proteins
+(that will be composed by the locul tags of query proteins), class of result and the MetaPred2cs score.
+Here in class section only 2 different variables can be seen and these variables are -1 or +1.
+-1 is representing that the query proteins are not positively interacting so user will see prediction score as 0 for that query.
+However if the query classified as +1 then user will be able to see a prediction score. Scoring range of MetaPred2cs is 0-1.<br>
+<br>Based on prediction score, predictions can be classified as <b>high confidence</b>, <b>medium confidence</b> or <b>low confidence</b>.
+Score ranges of these classes are defined as <b>0.999-0.700</b>, <b>0.699-0.400</b> and <b>0.399-0.000</b>, respectively.<br><br>
+Example result table can be seen below.
+
+<p align="center"><img src="/MetaPred2cs/images/6.png" width="75%"/></p>
+
+<H3>Important Point</H3>
+
+<b>=></b> MetaPred2cs is trained on <b> single domain </b> two-component system protein-protein interactions.
+For this reason, to be able to perform predictions for <b>hybrid</b> two-component system proteins,
+users need to work at domain level. In other words, protein sequences of domains of hybrid proteins should be given
+separately instead of complete protein sequence.<br><br>
+
+<div class="footer_div" >
+<hr/><h5 >Finding it useful? Please cite the server.</h5>
+</div>
+</div>
+
+</body>
+</html>
+
+

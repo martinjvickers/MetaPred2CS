@@ -1,0 +1,961 @@
+Ehrlichia ruminantium str. Welgevonden, complete genome - 1..1512977
+958 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+16..849	-	277	58578665	nadC	ERWE_CDS_00010	-	COG0157H	nicotinate-nucleotide pyrophosphorylase
+957..1544	+	195	58578666	-	ERWE_CDS_00020	-	COG0344S	hypothetical protein
+1552..2034	-	160	58578667	ruvC	ERWE_CDS_00030	-	COG0817L	crossover junction endodeoxyribonuclease RuvC
+2223..3047	-	274	58578668	coxC	ERWE_CDS_00040	-	COG1845C	cytochrome c oxidase polypeptide III
+3142..4149	-	335	58578669	hemE	ERWE_CDS_00050	-	COG0407H	uroporphyrinogen decarboxylase
+4566..5438	+	290	58578670	-	ERWE_CDS_00060	-	COG1253R	hypothetical protein
+5435..5971	-	178	58578671	-	ERWE_CDS_00070	-	COG3740R	hypothetical protein
+6363..7547	-	394	161598458	-	ERWE_CDS_00080	-	COG4695S	hypothetical protein
+7828..8577	+	249	58578673	-	ERWE_CDS_00090	-	COG2226H	hypothetical protein
+8592..9539	+	315	58578674	nadA	ERWE_CDS_00100	-	COG0379H	quinolinate synthetase
+9699..10076	-	125	58578675	fdxA	ERWE_CDS_00110	-	COG1146C	ferredoxin
+10287..11462	+	391	58578676	-	ERWE_CDS_00120	-	-	hypothetical protein
+12114..14519	-	801	58578677	virD4	ERWE_CDS_00130	-	COG3505U	type IV secretion system component VirD4
+14560..15558	-	332	58578678	virB11	ERWE_CDS_00140	-	COG0630NU	type IV secretion system ATPase VirB11
+15582..16928	-	448	58578679	virB10	ERWE_CDS_00150	-	COG2948U	VirB10 protein
+16949..17752	-	267	58578680	trbG	ERWE_CDS_00160	-	COG3504U	conjugal transfer protein trbG precursor
+17736..18434	-	232	58578681	-	ERWE_CDS_00170	-	COG3736U	hypothetical protein
+18590..19705	-	371	58578682	ribA	ERWE_CDS_00180	-	COG0807H	GTP cyclohydrolase II
+21492..22556	-	354	58578683	-	ERWE_CDS_00190	-	COG4976	hypothetical protein
+22632..23111	-	159	58578684	-	ERWE_CDS_00200	-	-	hypothetical protein
+23201..24046	-	281	58578685	dapF	ERWE_CDS_00210	-	COG0253E	diaminopimelate epimerase
+24229..24660	-	143	58578686	-	ERWE_CDS_00220	-	-	hypothetical protein
+25737..26924	+	395	58578687	pgk	ERWE_CDS_00230	-	COG0126G	phosphoglycerate kinase
+28508..29674	-	388	58578688	xseA	ERWE_CDS_00240	-	COG1570L	exodeoxyribonuclease VII large subunit
+29671..29877	-	68	58578689	-	ERWE_CDS_00250	-	COG1570L	hypothetical protein
+29874..30080	-	68	58578690	xseA	ERWE_CDS_00260	-	COG1570L	hypothetical protein
+30077..30754	-	225	58578691	-	ERWE_CDS_00270	-	-	hypothetical protein
+31022..31876	+	284	161598457	dapD	ERWE_CDS_00280	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+32340..33659	+	439	58578693	trmE	ERWE_CDS_00290	-	COG0486R	tRNA modification GTPase TrmE
+35803..36354	-	183	58578694	dfp	ERWE_CDS_00300	-	COG0452H	phosphopantothenoylcysteine decarboxylase
+36444..38477	+	677	58578695	recG	ERWE_CDS_00310	-	COG1200LK	ATP-dependent DNA helicase RecG
+39809..40033	-	74	58578696	-	ERWE_CDS_00320	-	-	hypothetical protein
+40841..41803	+	320	58578697	-	ERWE_CDS_00330	-	COG0702MG	hypothetical protein
+43669..44124	-	151	58578698	dksA	ERWE_CDS_00340	-	COG1734T	DNAK suppressor protein
+44237..44899	+	220	58578699	ccmb	ERWE_CDS_00350	-	COG2386O	Heme exporter protein B
+45034..45966	+	310	58578700	zitB	ERWE_CDS_00360	-	COG1230P	Zinc transporter zitB
+46429..47058	+	209	58578701	-	ERWE_CDS_00370	-	COG2854Q	hypothetical protein
+47697..47984	-	95	58578702	rpsT	ERWE_CDS_00380	-	COG0268J	30S ribosomal protein S20
+49732..52329	-	865	58578703	polA	ERWE_CDS_00390	-	COG0749L	DNA polymerase I
+53530..53838	+	102	58578704	-	ERWE_CDS_00400	-	-	hypothetical protein
+54169..55086	+	305	58578705	argF	ERWE_CDS_00410	-	COG0078E	ornithine carbamoyltransferase
+55818..56000	+	60	58578706	-	ERWE_CDS_00420	-	-	hypothetical protein
+56001..57119	+	372	58578707	recF	ERWE_CDS_00430	-	COG1195L	recombination protein F
+57688..58479	-	263	58578708	-	ERWE_CDS_00440	-	COG1573L	hypothetical protein
+58507..59052	-	181	58578709	def	ERWE_CDS_00450	-	COG0242J	peptide deformylase
+59135..59860	+	241	58578710	plsC	ERWE_CDS_00460	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+60688..61335	+	215	58578711	rpe	ERWE_CDS_00470	-	COG0036G	ribulose-phosphate 3-epimerase
+62874..63671	+	265	58578712	-	ERWE_CDS_00480	-	COG0767Q	hypothetical protein
+63681..64400	+	239	58578713	mkl	ERWE_CDS_00490	-	COG1127Q	ribonucleotide ABC transporter ATP-binding protein
+64925..66766	+	613	58578714	-	ERWE_CDS_00500	-	-	hypothetical protein
+67368..68345	-	325	58578715	ispB	ERWE_CDS_00510	-	COG0142H	octaprenyl-diphosphate synthase
+68781..70193	-	470	58578716	glnA	ERWE_CDS_00520	-	COG0174E	glutamine synthetase I
+70562..71818	+	418	58578717	tyrS	ERWE_CDS_00530	-	COG0162J	tyrosyl-tRNA synthetase
+71840..73054	+	404	58578718	hemA	ERWE_CDS_00540	-	COG0156H	5-aminolevulinate synthase
+73223..73423	+	66	58578719	-	ERWE_CDS_00550	-	-	hypothetical protein
+73401..73769	-	122	58578720	-	ERWE_CDS_00560	-	COG0792L	hypothetical protein
+74577..75446	+	289	58578721	secF	ERWE_CDS_00570	-	COG0341U	preprotein translocase subunit SecF
+76035..76244	+	69	58578722	-	ERWE_CDS_00580	-	-	hypothetical protein
+76917..77819	-	300	58578723	fbaB	ERWE_CDS_00590	-	COG1830G	fructose-bisphosphate aldolase
+78231..88907	+	3558	58578724	-	ERWE_CDS_00600	-	-	hypothetical protein
+89467..90687	+	406	58578725	pdhC	ERWE_CDS_00610	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+92826..94448	+	540	58578726	-	ERWE_CDS_00620	-	-	hypothetical protein
+95638..97050	+	470	58578727	-	ERWE_CDS_00630	-	-	hypothetical protein
+98564..100207	+	547	58578728	-	ERWE_CDS_00640	-	-	hypothetical protein
+100197..100568	+	123	58578729	-	ERWE_CDS_00650	-	-	hypothetical protein
+100899..103703	+	934	58578730	-	ERWE_CDS_00660	-	-	hypothetical protein
+103958..104239	-	93	58578731	-	ERWE_CDS_00670	-	-	hypothetical protein
+105291..106877	+	528	58578732	guaA	ERWE_CDS_00680	-	COG0519F	GMP synthase
+108614..109861	+	415	58578733	gltA	ERWE_CDS_00690	-	COG0372C	citrate synthase
+112237..113436	+	399	58578734	-	ERWE_CDS_00700	-	-	hypothetical protein
+115866..118304	+	812	58578735	valS	ERWE_CDS_00710	-	COG0525J	valyl-tRNA synthetase
+118353..118640	+	95	58578736	-	ERWE_CDS_00720	-	COG0525J	hypothetical protein
+118689..118976	+	95	58578737	-	ERWE_CDS_00730	-	COG0525J	hypothetical protein
+120809..121255	-	148	58578738	smpB	ERWE_CDS_00740	-	COG0691O	SsrA-binding protein
+121279..121914	-	211	58578739	ribB	ERWE_CDS_00750	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+121934..122434	-	166	58578740	greA	ERWE_CDS_00760	-	COG0782K	transcription elongation factor greA
+122467..123990	-	507	58578741	atpA	ERWE_CDS_00770	-	COG0056C	ATP synthase F0F1 subunit alpha
+123993..124562	-	189	58578742	atpH	ERWE_CDS_00780	-	COG0712C	ATP synthase subunit delta
+125483..125752	-	89	58578743	-	ERWE_CDS_00790	-	COG5454	hypothetical protein
+125743..126984	-	413	58578744	-	ERWE_CDS_00800	-	COG3898	hypothetical protein
+126981..127757	-	258	58578745	-	ERWE_CDS_00810	-	-	hypothetical protein
+127766..129001	-	411	58578746	lolC	ERWE_CDS_00820	-	COG4591M	lipoprotein releasing system transmembrane protein lolC
+130560..131579	+	339	58578747	-	ERWE_CDS_00830	-	COG1466L	hypothetical protein
+132873..134789	+	638	58578748	cycK	ERWE_CDS_00840	-	COG1138O	cytochrome c-type biogenesis protein CycK
+134964..135806	+	280	58578749	-	ERWE_CDS_00850	-	COG0354R	hypothetical protein
+138037..139437	-	466	58578750	purF	ERWE_CDS_00860	-	COG0034F	amidophosphoribosyltransferase
+139627..139818	+	63	58578751	-	ERWE_CDS_00870	-	-	hypothetical protein
+140018..140665	-	215	58578752	pth	ERWE_CDS_00880	-	COG0193J	peptidyl-tRNA hydrolase
+140625..141284	-	219	58578753	rplY	ERWE_CDS_00890	-	COG1825J	50S ribosomal protein L25
+143422..144114	-	230	58578754	comF	ERWE_CDS_00900	-	COG1040R	competence protein F (DNA transformation protein comF)
+144115..145266	-	383	58578755	dapE	ERWE_CDS_00910	-	COG0624E	succinyl-diaminopimelate desuccinylase
+147197..148906	-	569	58578756	kefB	ERWE_CDS_00920	-	COG0475P	glutathione-regulated potassium-efflux system protein kefB
+148920..149543	-	207	58578757	-	ERWE_CDS_00930	-	COG1225O	hypothetical protein
+149592..150146	-	184	58578758	-	ERWE_CDS_00940	-	COG1981S	hypothetical protein
+151895..152893	-	332	58578759	pdhB	ERWE_CDS_00950	-	COG0022C	pyruvate dehydrogenase subunit beta
+154201..156024	-	607	58578760	-	ERWE_CDS_00960	-	-	hypothetical protein
+156212..157639	+	475	58578761	tldD	ERWE_CDS_00970	-	COG0312R	TldD protein
+158184..159275	-	363	58578762	-	ERWE_CDS_00980	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+160222..160776	-	184	58578763	ispF	ERWE_CDS_00990	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+161900..162628	-	242	58578764	ispD	ERWE_CDS_01000	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+162898..166395	+	1165	58578765	-	ERWE_CDS_01010	-	-	hypothetical protein
+166475..167839	+	454	58578766	-	ERWE_CDS_01020	-	-	hypothetical protein
+168473..168985	-	170	58578767	purE	ERWE_CDS_01030	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+168975..169517	-	180	58578768	-	ERWE_CDS_01040	-	-	hypothetical protein
+169935..170234	+	99	58578769	ihfA	ERWE_CDS_01050	-	COG0776L	integration host factor alpha-subunit
+170244..170615	+	123	58578770	-	ERWE_CDS_01060	-	COG0789K	hypothetical protein
+171715..172200	+	161	58578771	-	ERWE_CDS_01070	-	-	hypothetical protein
+172314..174191	+	625	58578772	-	ERWE_CDS_01080	-	COG3391S	hypothetical protein
+175769..176788	-	339	58578773	trpS	ERWE_CDS_01090	-	COG0180J	tryptophanyl-tRNA synthetase
+176961..177569	-	202	58578774	grpE	ERWE_CDS_01100	-	COG0576O	HSP-70 cofactor
+177665..178777	+	370	58578775	ribD	ERWE_CDS_01110	-	COG0117H	riboflavin biosynthesis protein ribD
+181069..181608	+	179	58578776	-	ERWE_CDS_01120	-	-	hypothetical protein
+182895..184517	-	540	58578777	pyrG	ERWE_CDS_01130	-	COG0504F	CTP synthetase
+184524..184856	-	110	58578778	secG	ERWE_CDS_01140	-	COG1314U	preprotein translocase subunit SecG
+186192..187130	+	312	58578779	xerD	ERWE_CDS_01150	-	COG4974L	tyrosine recombinase xerD
+188221..188970	-	249	58578780	lolD	ERWE_CDS_01160	-	COG1136V	lipoprotein releasing system (ABC transporter) ATP-binding protein lolD
+189861..192128	+	755	58578781	tme	ERWE_CDS_01170	-	COG0281C	malic enzyme
+192341..194977	+	878	58578782	-	ERWE_CDS_01180	-	COG2982M	hypothetical protein
+196352..197872	-	506	58578783	lnt	ERWE_CDS_01190	-	COG0815M	apolipoprotein N-acyltransferase
+200331..201809	+	492	58578784	nuoN	ERWE_CDS_01200	-	COG0651CP	monovalent cation/H+ antiporter subunit D
+202038..202337	-	99	58578785	-	ERWE_CDS_01210	-	-	hypothetical protein
+202936..203385	-	149	58578786	-	ERWE_CDS_01220	-	COG1463Q	ABC transporter substrate binding protein
+203413..203694	-	93	58578787	-	ERWE_CDS_01230	-	COG3761C	hypothetical protein
+203833..204294	+	153	58578788	nrdR	ERWE_CDS_01240	-	COG1327K	transcriptional regulator NrdR
+205684..207378	-	564	58578789	-	ERWE_CDS_01250	-	-	hypothetical protein
+207558..211562	+	1334	58578790	-	ERWE_CDS_01260	-	-	hypothetical protein
+212492..213589	+	365	58578791	fpb	ERWE_CDS_01270	-	COG1840P	major ferric iron binding protein precursor
+214354..214617	-	87	58578792	rpsP	ERWE_CDS_01280	-	COG0228J	30S ribosomal protein S16
+214877..216145	+	422	58578793	proP	ERWE_CDS_01290	-	COG2814G	proline/betaine transporter
+217220..217387	-	55	58578794	-	ERWE_CDS_01300	-	COG2835S	hypothetical protein
+218073..218768	-	231	58578795	ptr1	ERWE_CDS_01310	-	COG1028IQR	pteridine reductase 1
+218770..219804	-	344	58578796	pheS	ERWE_CDS_01320	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+219794..220165	-	123	58578797	rplT	ERWE_CDS_01330	-	COG0292J	50S ribosomal protein L20
+220190..220390	-	66	58578798	rpmI	ERWE_CDS_01340	-	COG0291J	50S ribosomal protein L35
+220685..221350	+	221	58578799	-	ERWE_CDS_01350	-	COG3820S	hypothetical protein
+221774..223210	+	478	58578800	rho	ERWE_CDS_01360	-	COG1158K	transcription termination factor Rho
+224569..224811	-	80	58578801	-	ERWE_CDS_01370	-	COG0484O	hypothetical protein
+224941..226416	-	491	58578802	lpd	ERWE_CDS_01380	-	COG1249C	dihydrolipoamide dehydrogenase
+226523..229378	+	951	58578803	-	ERWE_CDS_01390	-	-	hypothetical protein
+229539..230987	+	482	58578804	-	ERWE_CDS_01400	-	-	hypothetical protein
+230992..231618	+	208	58578805	-	ERWE_CDS_01410	-	-	hypothetical protein
+231605..232147	+	180	58578806	-	ERWE_CDS_01420	-	-	hypothetical protein
+232997..233785	+	262	58578807	phnP	ERWE_CDS_01430	-	COG1235R	PhnP protein
+235598..236404	-	268	58578808	-	ERWE_CDS_01440	-	COG0174E	glutamine synthetase
+236410..237534	-	374	58578809	-	ERWE_CDS_01450	-	COG0573P	ABC transporter permease
+237697..240360	+	887	58578810	alaS	ERWE_CDS_01460	-	COG0013J	alanyl-tRNA synthetase
+242471..243358	-	295	58578811	sucD	ERWE_CDS_01470	-	COG0074C	succinyl-CoA synthetase alpha chain
+243366..244526	-	386	58578812	sucC	ERWE_CDS_01480	-	COG0045C	succinyl-CoA synthetase subunit beta
+244608..244895	-	95	161598456	rpsU	ERWE_CDS_01490	-	-	30S ribosomal protein S21
+245024..246052	-	342	58578814	sphX	ERWE_CDS_01500	-	COG0226P	protein sphX precursor
+246121..246750	-	209	58578815	sco2	ERWE_CDS_01510	-	COG1999R	SCO2 like-protein
+247885..248922	-	345	58578816	-	ERWE_CDS_01520	-	COG2070R	hypothetical protein
+248935..249456	-	173	58578817	-	ERWE_CDS_01530	-	COG3038C	cytochrome b561
+250435..252045	+	536	58578818	-	ERWE_CDS_01540	-	COG1178P	Iron(III)-transport system permease protein fbpB 2
+252952..254496	-	514	58578819	aprE	ERWE_CDS_01550	-	COG1566V	alkaline protease secretion protein AprE
+254760..255374	-	204	58578820	-	ERWE_CDS_01560	-	COG5590S	hypothetical protein
+256228..257856	-	542	58578821	-	ERWE_CDS_01570	-	COG0595R	hypothetical protein
+258183..258776	+	197	58578822	-	ERWE_CDS_01580	-	-	hypothetical protein
+259415..259639	+	74	58578823	-	ERWE_CDS_01590	-	-	hypothetical protein
+260353..260724	+	123	58578824	rpsL	ERWE_CDS_01600	-	COG0048J	30S ribosomal protein S12
+260741..261223	+	160	58578825	rpsG	ERWE_CDS_01610	-	COG0049J	30S ribosomal protein S7
+261247..263316	+	689	58578826	fusA	ERWE_CDS_01620	-	COG0480J	elongation factor G
+263334..264020	+	228	58578827	tuf	ERWE_CDS_01630	-	COG0050J	elongation factor Tu (EF-Tu)
+264119..264523	+	134	58578828	tuf	ERWE_CDS_01640	-	COG0050J	elongation factor Tu (EF-Tu)
+264646..264855	+	69	58578829	secE	ERWE_CDS_01650	-	-	preprotein translocase subunit SecE
+264845..265384	+	179	58578830	nusG	ERWE_CDS_01660	-	COG0250K	transcription antitermination protein NUSG
+265388..265831	+	147	58578831	rplK	ERWE_CDS_01670	-	COG0080J	50S ribosomal protein L11
+265839..266510	+	223	58578832	rplA	ERWE_CDS_01680	-	COG0081J	50S ribosomal protein L1
+266528..267010	+	160	58578833	rplJ	ERWE_CDS_01690	-	COG0244J	50S ribosomal protein L10
+267031..267441	+	136	58578834	rplL	ERWE_CDS_01700	-	COG0222J	50S ribosomal protein L7/L12
+267489..271631	+	1380	58578835	rpoB	ERWE_CDS_01710	-	COG0085K	DNA-directed RNA polymerase subunit beta
+271651..275886	+	1411	58578836	rpoC	ERWE_CDS_01720	-	COG0086K	DNA-directed RNA polymerase beta' chain
+276866..277969	+	367	58578837	bioF	ERWE_CDS_01730	-	COG0156H	8-amino-7-oxononanoate synthase
+278422..278850	+	142	58578838	-	ERWE_CDS_01740	-	COG1238S	hypothetical protein
+280074..280736	-	220	58578839	rnhB	ERWE_CDS_01750	-	COG0164L	ribonuclease HII
+281817..286406	+	1529	58578840	-	ERWE_CDS_01760	-	COG1315L	hypothetical protein
+286793..287311	-	172	58578841	-	ERWE_CDS_01770	-	COG1863P	hypothetical protein
+287456..288073	+	205	58578842	-	ERWE_CDS_01780	-	COG3334S	hypothetical protein
+288687..289460	-	257	58578843	-	ERWE_CDS_01790	-	COG1521K	pantothenate kinase
+289472..290512	-	346	58578844	dhoD	ERWE_CDS_01800	-	COG0167F	dihydroorotate dehydrogenase 2
+290688..291272	+	194	58578845	def	ERWE_CDS_01810	-	COG0242J	peptide deformylase
+292958..294346	-	462	58578846	argH	ERWE_CDS_01820	-	COG0165E	argininosuccinate lyase
+295577..296521	+	314	58578847	-	ERWE_CDS_01830	-	COG3621R	hypothetical protein
+296714..297298	+	194	58578848	pdxH	ERWE_CDS_01840	-	COG0259H	pyridoxamine 5'-phosphate oxidase
+298165..298455	-	96	58578849	-	ERWE_CDS_01850	-	COG0271T	hypothetical protein
+298702..299514	+	270	58578850	-	ERWE_CDS_01860	-	-	hypothetical protein
+301487..304855	+	1122	58578851	dnaE	ERWE_CDS_01870	-	COG0587L	DNA polymerase III alpha subunit
+305412..306695	+	427	58578852	aroA	ERWE_CDS_01880	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+308566..308997	+	143	58578853	sdhC	ERWE_CDS_01890	-	COG2009C	succinate dehydrogenase cytochrome B-556 subunit
+309007..309357	+	116	58578854	sdhD	ERWE_CDS_01900	-	COG2142C	succinate dehydrogenase hydrophobic membrane anchor protein
+309559..310812	+	417	58578855	-	ERWE_CDS_01910	-	-	hypothetical protein
+311063..311863	-	266	58578856	thiD	ERWE_CDS_01920	-	COG0351H	phosphomethylpyrimidine kinase
+311820..312512	-	230	58578857	-	ERWE_CDS_01930	-	COG0593L	hypothetical protein
+312634..312837	-	67	58578858	-	ERWE_CDS_01940	-	-	hypothetical protein
+313147..314268	-	373	58578859	-	ERWE_CDS_01950	-	COG0628R	hypothetical protein
+314638..315246	-	202	58578860	rpsD	ERWE_CDS_01960	-	COG0522J	30S ribosomal protein S4
+317934..318143	+	69	58578861	-	ERWE_CDS_01970	-	COG2975S	hypothetical protein
+318218..319369	-	383	58578862	-	ERWE_CDS_01980	-	-	hypothetical protein
+319404..320192	-	262	58578863	-	ERWE_CDS_01990	-	COG0456R	hypothetical protein
+320193..320699	-	168	58578864	pgpA	ERWE_CDS_02000	-	COG1267I	phosphatidylglycerophosphatase A
+321664..323004	+	446	58578865	tig	ERWE_CDS_02010	-	COG0544O	trigger factor
+323067..323663	+	198	58578866	clpP	ERWE_CDS_02020	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+323683..324903	+	406	58578867	clpX	ERWE_CDS_02030	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+324913..327315	+	800	58578868	lon	ERWE_CDS_02040	-	COG0466O	ATP-dependent protease La
+329856..330767	+	303	58578869	fmt	ERWE_CDS_02050	-	COG0223J	methionyl-tRNA formyltransferase
+331125..331967	+	280	58578870	-	ERWE_CDS_02060	-	COG1054R	hypothetical protein
+332396..333253	+	285	58578871	-	ERWE_CDS_02070	-	COG1806S	hypothetical protein
+333636..334688	+	350	58578872	thiE	ERWE_CDS_02080	-	COG0352H	thiamine-phosphate pyrophosphorylase
+335572..336867	-	431	58578873	-	ERWE_CDS_02090	-	COG4536P	hypothetical protein
+337007..337291	+	94	58578874	-	ERWE_CDS_02100	-	-	hypothetical protein
+337304..339736	+	810	58578875	ftsK	ERWE_CDS_02110	-	COG1674D	DNA translocase FtsK
+340406..341329	-	307	58578876	-	ERWE_CDS_02120	-	-	hypothetical protein
+341412..342587	-	391	58578877	argD	ERWE_CDS_02130	-	COG4992E	acetylornithine transaminase protein
+342728..344161	+	477	58578878	-	ERWE_CDS_02140	-	COG0642T	sensor protein
+345072..347141	+	689	58578879	mutL	ERWE_CDS_02150	-	COG0323L	DNA mismatch repair protein
+348351..349478	-	375	58578880	smf	ERWE_CDS_02160	-	COG0758LU	Smf protein (DNA processing chain A)
+349611..350882	-	423	58578881	fabF	ERWE_CDS_02170	-	COG0304IQ	3-oxoacyl-ACP synthase
+350895..351173	-	92	58578882	acpP	ERWE_CDS_02180	-	COG0236IQ	Acyl carrier protein
+352021..355242	-	1073	58578883	-	ERWE_CDS_02190	-	COG5422	hypothetical protein
+355938..358568	+	876	58578884	-	ERWE_CDS_02200	-	COG0666R	hypothetical protein
+358561..358731	-	56	161598455	rpmG	ERWE_CDS_02210	-	COG0267J	50S ribosomal protein L33
+358975..359682	+	235	58578886	pgpA	ERWE_CDS_02220	-	-	phosphatidylglycerophosphatase A
+359684..360166	+	160	58578887	-	ERWE_CDS_02230	-	COG1495O	hypothetical protein
+360150..360662	+	170	58578888	coq7	ERWE_CDS_02240	-	COG2941H	hypothetical protein
+361343..362455	-	370	58578889	mnmA	ERWE_CDS_02250	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+363324..364433	-	369	58578890	-	ERWE_CDS_02260	-	-	hypothetical protein
+366141..367184	-	347	58578891	-	ERWE_CDS_02270	-	-	hypothetical protein
+368200..369141	-	313	58578892	-	ERWE_CDS_02280	-	-	hypothetical protein
+370014..371168	-	384	58578893	-	ERWE_CDS_02290	-	-	hypothetical protein
+372976..374001	-	341	58578894	-	ERWE_CDS_02300	-	-	hypothetical protein
+374290..375318	-	342	58578895	-	ERWE_CDS_02310	-	-	hypothetical protein
+375764..376876	-	370	58578896	-	ERWE_CDS_02320	-	-	hypothetical protein
+377416..378369	+	317	58578897	-	ERWE_CDS_02330	-	-	hypothetical protein
+378824..379747	+	307	58578898	-	ERWE_CDS_02340	-	-	hypothetical protein
+380163..381083	+	306	58578899	-	ERWE_CDS_02350	-	-	hypothetical protein
+381507..382487	+	326	58578900	-	ERWE_CDS_02360	-	-	hypothetical protein
+383074..383601	+	175	58578901	-	ERWE_CDS_02370	-	-	hypothetical protein
+383605..383970	+	121	58578902	-	ERWE_CDS_02380	-	-	hypothetical protein
+385131..385337	-	68	58578903	-	ERWE_CDS_02390	-	-	hypothetical protein
+385714..386967	-	417	58578904	-	ERWE_CDS_02400	-	-	hypothetical protein
+387009..388007	-	332	58578905	-	ERWE_CDS_02410	-	-	hypothetical protein
+388359..390278	-	639	58578906	uvrD	ERWE_CDS_02420	-	COG0210L	DNA helicase II
+390254..390493	-	79	58578907	-	ERWE_CDS_02430	-	-	hypothetical protein
+390834..392009	-	391	58578908	-	ERWE_CDS_02440	-	-	hypothetical protein
+392347..393327	-	326	58578909	-	ERWE_CDS_02450	-	-	hypothetical protein
+395214..397910	+	898	58578910	gyrA	ERWE_CDS_02460	-	COG0188L	DNA gyrase subunit A
+397927..398562	+	211	58578911	nth	ERWE_CDS_02470	-	COG0177L	endonuclease III
+398829..399491	+	220	58578912	-	ERWE_CDS_02480	-	COG4649	hypothetical protein
+399564..401477	+	637	58578913	htpG	ERWE_CDS_02490	-	COG0326O	heat shock protein 90
+402025..403323	-	432	58578914	purB	ERWE_CDS_02500	-	COG0015F	adenylosuccinate lyase
+405639..406715	+	358	58578915	-	ERWE_CDS_02510	-	-	hypothetical protein
+407992..409110	+	372	58578916	-	ERWE_CDS_02520	-	-	hypothetical protein
+409810..412305	-	831	58578917	-	ERWE_CDS_02530	-	-	hypothetical protein
+412870..413787	-	305	58578918	-	ERWE_CDS_02540	-	-	hypothetical protein
+414366..416789	-	807	58578919	-	ERWE_CDS_02550	-	COG0711C	hypothetical protein
+417245..418003	-	252	58578920	birA	ERWE_CDS_02560	-	COG0340H	biotin-protein ligase
+418411..419136	-	241	58578921	-	ERWE_CDS_02570	-	COG0625O	glutathione S-transferase
+420124..420651	-	175	58578922	-	ERWE_CDS_02580	-	COG4233OC	hypothetical protein
+421095..422117	+	340	58578923	potA	ERWE_CDS_02590	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+422545..423132	+	195	58578924	recR	ERWE_CDS_02600	-	COG0353L	recombination protein RecR
+424255..425118	-	287	58578925	znuA	ERWE_CDS_02610	-	COG4531P	high-affinity zinc uptake system protein znuA
+425110..425838	+	242	58578926	znuC	ERWE_CDS_02620	-	COG1121P	high-affinity zinc uptake system ATP-binding protein znuC
+425831..427273	+	480	58578927	ubiB	ERWE_CDS_02630	-	COG0661R	ubiquinone biosynthesis protein
+427498..428703	+	401	58578928	-	ERWE_CDS_02640	-	COG2807P	hypothetical protein
+429319..430671	-	450	58578929	-	ERWE_CDS_02650	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+430847..431056	+	69	58578930	-	ERWE_CDS_02660	-	-	hypothetical protein
+432609..436217	-	1202	58578931	-	ERWE_CDS_02670	-	-	hypothetical protein
+437465..438289	-	274	58578932	-	ERWE_CDS_02680	-	COG5449S	hypothetical protein
+439022..441763	+	913	58578933	sucA	ERWE_CDS_02690	-	COG0567C	2-oxoglutarate dehydrogenase E1
+443098..444333	-	411	58578934	-	ERWE_CDS_02700	-	COG4653R	hypothetical protein
+444523..445440	-	305	58578935	dapA	ERWE_CDS_02710	-	COG0329EM	dihydrodipicolinate synthase
+445772..446113	-	113	58578936	pkcI	ERWE_CDS_02720	-	COG0537FGR	protein kinase C inhibitor 1
+446125..447183	-	352	58578937	-	ERWE_CDS_02730	-	-	hypothetical protein
+447374..449788	+	804	58578938	mutS	ERWE_CDS_02740	-	COG0249L	DNA mismatch repair protein MutS
+450406..450615	-	69	58578939	-	ERWE_CDS_02750	-	-	hypothetical protein
+451118..452659	-	513	58578940	nadE	ERWE_CDS_02760	-	COG0171H	glutamine-dependent NAD(+) synthetase
+453925..454914	-	329	58578941	hemB	ERWE_CDS_02770	-	COG0113H	delta-aminolevulinic acid dehydratase
+456763..459501	+	912	58578942	-	ERWE_CDS_02780	-	COG3893L	hypothetical protein
+459622..460902	+	426	58578943	proP	ERWE_CDS_02790	-	-	proline/betaine transporter
+461342..461572	+	76	58578944	-	ERWE_CDS_02800	-	-	hypothetical protein
+462280..463863	-	527	58578945	-	ERWE_CDS_02810	-	-	hypothetical protein
+464771..466330	-	519	58578946	-	ERWE_CDS_02820	-	COG2095U	hypothetical protein
+466479..468059	-	526	58578947	-	ERWE_CDS_02830	-	-	hypothetical protein
+468301..469887	-	528	58578948	-	ERWE_CDS_02840	-	-	hypothetical protein
+470053..472014	-	653	58578949	-	ERWE_CDS_02850	-	-	hypothetical protein
+472552..474114	-	520	58578950	-	ERWE_CDS_02860	-	-	hypothetical protein
+475290..476543	+	417	58578951	proP	ERWE_CDS_02870	-	-	proline/betaine transporter
+478390..479637	+	415	58578952	proP	ERWE_CDS_02880	-	-	proline/betaine transporter
+481351..481884	-	177	58578953	ssb	ERWE_CDS_02890	-	COG0629L	single-strand binding protein
+481966..483351	+	461	58578954	-	ERWE_CDS_02900	-	-	hypothetical protein
+483389..484834	+	481	58578955	gatB	ERWE_CDS_02910	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+485332..486153	+	273	58578956	fabI	ERWE_CDS_02920	-	COG0623I	enoyl-ACP reductase
+486450..487844	+	464	58578957	dnaA	ERWE_CDS_02930	-	COG0593L	chromosome replication initiator DnaA
+487912..488343	+	143	58578958	-	ERWE_CDS_02940	-	-	hypothetical protein
+488789..489007	+	72	58578959	-	ERWE_CDS_02950	-	-	hypothetical protein
+489100..490095	-	331	58578960	-	ERWE_CDS_02960	-	-	hypothetical protein
+490392..490976	+	194	58578961	nadD	ERWE_CDS_02970	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+491430..492146	+	238	58578962	pdxJ	ERWE_CDS_02980	-	COG0854H	pyridoxine 5'-phosphate synthase
+492133..492417	-	94	58578963	hupB	ERWE_CDS_02990	-	COG0776L	DNA-binding protein HU
+492730..493620	-	296	58578964	dnaX	ERWE_CDS_03000	-	COG0470L	DNA polymerase III subunit gamma
+494632..495231	-	199	58578965	-	ERWE_CDS_03010	-	COG0009J	hypothetical protein
+496525..497130	+	201	58578966	coaE	ERWE_CDS_03020	-	COG0237H	dephospho-CoA kinase
+499027..500694	-	555	58578967	thiC	ERWE_CDS_03030	-	COG0422H	thiamine biosynthesis protein ThiC
+501044..501604	-	186	58578968	-	ERWE_CDS_03040	-	COG2840S	hypothetical protein
+501750..502148	-	132	58578969	rpoZ	ERWE_CDS_03050	-	COG1758K	DNA-directed RNA polymerase omega chain
+502237..502608	-	123	58578970	-	ERWE_CDS_03060	-	COG5606S	hypothetical protein
+503013..505505	+	830	58578971	leuS	ERWE_CDS_03070	-	COG0495J	leucyl-tRNA synthetase
+507145..507930	+	261	58578972	-	ERWE_CDS_03080	-	COG0084L	hypothetical protein
+509146..509841	+	231	58578973	pyrF	ERWE_CDS_03090	-	COG0284F	orotidine 5'-phosphate decarboxylase
+510914..511690	+	258	58578974	surE	ERWE_CDS_03100	-	COG0496R	acid phosphatase surE
+511821..512225	+	134	58578975	cycJ	ERWE_CDS_03110	-	COG2332O	cytochrome c-type biogenesis protein CcmE
+513141..513716	-	191	58578976	nuoC	ERWE_CDS_03120	-	COG0852C	NADH-quinone oxidoreductase chain C
+514016..514318	+	100	58578977	nuoC	ERWE_CDS_03130	-	COG0852C	NADH-quinone oxidoreductase chain C
+515214..515732	-	172	58578978	nuoB	ERWE_CDS_03140	-	COG0377C	NADH dehydrogenase subunit B
+515739..516164	-	141	58578979	nuoA	ERWE_CDS_03150	-	COG0838C	NADH-quinone oxidoreductase chain A
+516739..519618	-	959	58578980	uvrA	ERWE_CDS_03160	-	COG0178L	UvrABC system protein A (UvrA protein)
+519828..520352	-	174	58578981	nusB	ERWE_CDS_03170	-	COG0781K	N utilization substance protein B-like protein
+520357..520806	-	149	58578982	ribH	ERWE_CDS_03180	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+520826..522553	-	575	58578983	yidC	ERWE_CDS_03190	-	COG0706U	inner membrane protein translocase component YidC
+523618..525003	-	461	58578984	-	ERWE_CDS_03200	-	COG1115E	hypothetical protein
+525028..525810	-	260	58578985	pssA	ERWE_CDS_03210	-	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase
+525813..526496	-	227	58578986	psd	ERWE_CDS_03220	-	COG0688I	phosphatidylserine decarboxylase
+529002..532406	-	1134	58578987	-	ERWE_CDS_03230	-	COG0493ER	hypothetical protein
+532966..533535	+	189	58578988	efp	ERWE_CDS_03240	-	COG0231J	elongation factor P (EF-P)
+533697..534467	+	256	58578989	suhB	ERWE_CDS_03250	-	COG0483G	inositol monophosphatase
+534775..534984	-	69	58578990	-	ERWE_CDS_03260	-	-	hypothetical protein
+535470..536387	+	305	58578991	rluC	ERWE_CDS_03270	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+536766..538151	-	461	58578992	pleD	ERWE_CDS_03280	-	COG3706T	response regulator PleD
+538148..538429	-	93	58578993	-	ERWE_CDS_03290	-	COG1826U	hypothetical protein
+538441..543210	-	1589	58578994	-	ERWE_CDS_03300	-	COG2902E	hypothetical protein
+543811..544443	+	210	58578995	-	ERWE_CDS_03310	-	COG3932R	hypothetical protein
+544440..545813	+	457	58578996	cysS	ERWE_CDS_03320	-	COG0215J	cysteinyl-tRNA synthetase
+546781..548727	-	648	58578997	-	ERWE_CDS_03330	-	-	hypothetical protein
+549029..550018	+	329	58578998	nrdF	ERWE_CDS_03340	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+552042..552326	-	94	58578999	-	ERWE_CDS_03350	-	-	hypothetical protein
+552332..552925	-	197	58579000	-	ERWE_CDS_03360	-	-	hypothetical protein
+552903..554006	+	367	58579001	-	ERWE_CDS_03370	-	COG1565S	hypothetical protein
+555112..556890	+	592	58579002	dnaG	ERWE_CDS_03380	-	COG0358L	DNA primase
+558351..560219	-	622	58579003	rpoD	ERWE_CDS_03390	-	COG0568K	RNA polymerase sigma factor rpoD
+560872..561825	-	317	58579004	nifR3	ERWE_CDS_03400	-	COG0042J	nitrogen regulation protein nifR3
+562765..563610	+	281	58579005	ispE	ERWE_CDS_03410	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+563810..564163	-	117	58579006	cutA	ERWE_CDS_03420	-	COG1324P	periplasmic divalent cation tolerance protein
+564254..566740	-	828	58579007	virA	ERWE_CDS_03430	-	COG4191T	histidine kinase sensor protein
+566852..567508	-	218	58579008	-	ERWE_CDS_03440	-	COG4122R	O-methyltransferase
+567743..568036	+	97	58579009	-	ERWE_CDS_03450	-	-	hypothetical protein
+568139..569542	+	467	58579010	-	ERWE_CDS_03460	-	COG0063G	hypothetical protein
+570688..573147	+	819	58579011	topA	ERWE_CDS_03470	-	COG0550L	DNA topoisomerase I
+573486..573845	-	119	58579012	-	ERWE_CDS_03480	-	-	hypothetical protein
+574098..574559	-	153	58579013	-	ERWE_CDS_03490	-	COG3814S	hypothetical protein
+576370..576741	-	123	58579014	acpS	ERWE_CDS_03500	-	COG0736I	4'-phosphopantetheinyl transferase
+576743..578023	-	426	58579015	proS	ERWE_CDS_03510	-	COG0442J	prolyl-tRNA synthetase
+578611..579606	-	331	58579016	-	ERWE_CDS_03520	-	COG2071R	hypothetical protein
+579870..580376	+	168	58579017	coaD	ERWE_CDS_03530	-	COG0669H	phosphopantetheine adenylyltransferase
+582393..583349	-	318	58579018	trxB	ERWE_CDS_03540	-	COG0492O	thioredoxin reductase
+583350..583967	-	205	58579019	tsaA	ERWE_CDS_03550	-	COG0450O	peroxiredoxin (26 kDa antigen)
+584353..585552	+	399	58579020	aatA	ERWE_CDS_03560	-	COG0436E	aspartate aminotransferase
+587162..589054	-	630	58579021	ppiD	ERWE_CDS_03570	-	-	peptidyl-prolyl cis-trans isomerase D
+589395..589976	-	193	58579022	-	ERWE_CDS_03580	-	COG1214O	hypothetical protein
+592225..593115	+	296	58579023	truB	ERWE_CDS_03590	-	COG0130J	tRNA pseudouridine synthase B
+593134..593415	+	93	58579024	rpsO	ERWE_CDS_03600	-	COG0184J	30S ribosomal protein S15
+593448..595817	+	789	58579025	pnp	ERWE_CDS_03610	-	COG1185J	polynucleotide phosphorylase
+595847..596644	+	265	58579026	-	ERWE_CDS_03620	-	COG2226H	hypothetical protein
+596676..598472	+	598	58579027	lepA	ERWE_CDS_03630	-	COG0481M	GTP-binding protein LepA
+599001..600131	+	376	58579028	-	ERWE_CDS_03640	-	COG0385R	hypothetical protein
+600705..601271	+	188	58579029	-	ERWE_CDS_03650	-	-	hypothetical protein
+601678..601965	+	95	58579030	-	ERWE_CDS_03660	-	-	hypothetical protein
+601949..602848	+	299	58579031	-	ERWE_CDS_03670	-	COG3667P	hypothetical protein
+604131..605888	+	585	58579032	-	ERWE_CDS_03680	-	COG0810M	hypothetical protein
+606300..606506	-	68	58579033	-	ERWE_CDS_03690	-	-	hypothetical protein
+606922..607191	+	89	58579034	gatA	ERWE_CDS_03700	-	COG0154J	fragment of glutamyl-tRNA(Gln) amidotransferase subunit A (duplication)
+607825..609342	-	505	58579035	-	ERWE_CDS_03710	-	-	hypothetical protein
+609670..609870	+	66	58579036	-	ERWE_CDS_03720	-	-	hypothetical protein
+610446..612059	-	537	58579037	-	ERWE_CDS_03730	-	-	hypothetical protein
+613135..614694	-	519	58579038	-	ERWE_CDS_03740	-	-	hypothetical protein
+615936..616271	+	111	58579039	-	ERWE_CDS_03750	-	COG5389	hypothetical protein
+618055..618810	-	251	58579040	prfB	ERWE_CDS_03760	-	COG1186J	peptide chain release factor 2
+619958..620707	-	249	58579041	-	ERWE_CDS_03770	-	COG0217S	hypothetical protein
+620721..622223	-	500	58579042	gatA	ERWE_CDS_03780	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+622997..624292	+	431	58579043	folC	ERWE_CDS_03790	-	COG0285H	folylpolyglutamate synthase
+625437..626336	+	299	58579044	hemC	ERWE_CDS_03800	-	COG0181H	porphobilinogen deaminase
+627057..628958	+	633	58579045	typA	ERWE_CDS_03810	-	COG1217T	GTP-binding protein TypA
+630201..630521	+	106	58579046	-	ERWE_CDS_03820	-	-	hypothetical protein
+631280..631786	-	168	58579047	nuoI	ERWE_CDS_03830	-	COG1143C	NADH dehydrogenase subunit I
+631795..632511	-	238	58579048	lepB	ERWE_CDS_03840	-	COG0681U	Signal peptidase I
+632526..632987	-	153	58579049	-	ERWE_CDS_03850	-	COG0316S	hypothetical protein
+633041..634252	+	403	58579050	-	ERWE_CDS_03860	-	COG0232F	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+634513..639537	+	1674	58579051	-	ERWE_CDS_03870	-	COG0666R	hypothetical protein
+640914..641870	+	318	58579052	-	ERWE_CDS_03880	-	-	hypothetical protein
+642259..643443	-	394	58579053	argG	ERWE_CDS_03890	-	COG0137E	argininosuccinate synthase
+643612..644283	+	223	58579054	-	ERWE_CDS_03900	-	-	hypothetical protein
+644868..645575	+	235	58579055	-	ERWE_CDS_03910	-	-	hypothetical protein
+647265..648524	+	419	58579056	argJ	ERWE_CDS_03920	-	COG1364E	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein
+648534..649370	+	278	58579057	xthA	ERWE_CDS_03930	-	COG0708L	exodeoxyribonuclease III
+650887..651669	-	260	58579058	-	ERWE_CDS_03940	-	-	hypothetical protein
+652876..653706	-	276	58579059	-	ERWE_CDS_03950	-	COG0474P	hypothetical protein
+653717..654454	-	245	58579060	fabG	ERWE_CDS_03960	-	COG1028IQR	3-oxoacyl-ACP reductase
+655199..658330	+	1043	58579061	putA	ERWE_CDS_03970	-	COG4230C	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+658850..659365	-	171	58579062	-	ERWE_CDS_03980	-	-	hypothetical protein
+660673..662040	-	455	58579063	bioA	ERWE_CDS_03990	-	COG0161H	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+662318..662686	-	122	58579064	-	ERWE_CDS_04000	-	-	hypothetical protein
+663658..665073	-	471	58579065	-	ERWE_CDS_04010	-	COG5410S	hypothetical protein
+665809..666189	-	126	58579066	-	ERWE_CDS_04020	-	-	hypothetical protein
+666334..666903	-	189	58579067	-	ERWE_CDS_04030	-	-	hypothetical protein
+666961..667350	-	129	58579068	-	ERWE_CDS_04040	-	COG5437S	hypothetical protein
+667328..667738	-	136	58579069	-	ERWE_CDS_04050	-	-	hypothetical protein
+667735..668301	-	188	58579070	-	ERWE_CDS_04060	-	-	hypothetical protein
+668339..668686	-	115	58579071	-	ERWE_CDS_04070	-	-	hypothetical protein
+669004..669177	+	57	58579072	rpmJ	ERWE_CDS_04080	-	COG0257J	50S ribosomal protein L36
+670354..671316	-	320	58579073	rpoH	ERWE_CDS_04090	-	COG0568K	RNA polymerase sigma-32 factor
+671363..671959	+	198	58579074	-	ERWE_CDS_04100	-	COG1544J	sigma(54) modulation protein
+672136..681075	+	2979	58579075	-	ERWE_CDS_04110	-	COG5281S	hypothetical protein
+681224..682075	+	283	58579076	atpG	ERWE_CDS_04120	-	COG0224C	ATP synthase F0F1 subunit gamma
+682084..682656	+	190	58579077	folE	ERWE_CDS_04130	-	COG0302H	GTP cyclohydrolase I
+682631..683998	+	455	58579078	pmbA	ERWE_CDS_04140	-	COG0312R	PmbA protein
+684499..685512	+	337	58579079	trxB2	ERWE_CDS_04150	-	COG0492O	thioredoxin reductase
+686085..686873	-	262	58579080	ksgA	ERWE_CDS_04160	-	COG0030J	dimethyladenosine transferase
+687112..687834	+	240	58579081	tpiA	ERWE_CDS_04170	-	COG0149G	triosephosphate isomerase
+687834..688814	+	326	58579082	-	ERWE_CDS_04180	-	COG2358R	hypothetical protein
+688821..689867	+	348	58579083	gcp	ERWE_CDS_04190	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+689925..690158	+	77	58579084	-	ERWE_CDS_04200	-	-	hypothetical protein
+690568..690789	+	73	58579085	-	ERWE_CDS_04210	-	-	hypothetical protein
+691738..692319	-	193	58579086	-	ERWE_CDS_04220	-	COG1714S	hypothetical protein
+692526..692873	+	115	58579087	-	ERWE_CDS_04230	-	COG1539H	hypothetical protein
+692944..693897	+	317	58579088	mdh	ERWE_CDS_04240	-	COG0039C	malate dehydrogenase
+695677..695922	-	81	58579089	-	ERWE_CDS_04250	-	-	hypothetical protein
+696055..696501	+	148	58579090	rpiB	ERWE_CDS_04260	-	COG0698G	ribose-5-phosphate isomerase
+696498..697223	+	241	58579091	ubiG	ERWE_CDS_04270	-	COG2227H	3-demethylubiquinone-9 3-methyltransferase
+697975..698457	-	160	58579092	-	ERWE_CDS_04280	-	COG1959K	hypothetical protein
+698802..699524	-	240	58579093	-	ERWE_CDS_04290	-	COG2945R	hypothetical protein
+699835..701415	+	526	58579094	iscS	ERWE_CDS_04300	-	COG1104E	cysteine desulfurase
+701487..702728	+	413	58579095	iscS	ERWE_CDS_04310	-	COG1104E	cysteine desulfurase
+702763..703176	+	137	58579096	nifU	ERWE_CDS_04320	-	COG0822C	scaffold protein
+703189..703638	+	149	58579097	-	ERWE_CDS_04330	-	COG0316S	hypothetical protein
+703577..704068	+	163	58579098	hscB	ERWE_CDS_04340	-	COG1076O	Co-chaperone protein hscB (Hsc20)
+704068..705918	+	616	58579099	hscA	ERWE_CDS_04350	-	COG0443O	chaperone protein hscA-like protein
+705947..706315	+	122	58579100	fdxB	ERWE_CDS_04360	-	COG0633C	(2Fe-2S) ferredoxin
+706312..707382	+	356	58579101	-	ERWE_CDS_04370	-	COG4093	hypothetical protein
+707366..707785	+	139	58579102	-	ERWE_CDS_04380	-	COG3088O	cytochrome c-type biogenesis protein cycL
+708662..710200	+	512	58579103	lysK	ERWE_CDS_04390	-	COG1384J	lysyl-tRNA synthetase
+711053..711460	+	135	58579104	-	ERWE_CDS_04400	-	COG2913J	hypothetical protein
+712742..713482	-	246	58579105	truA	ERWE_CDS_04410	-	COG0101J	tRNA pseudouridine synthase A
+714011..714931	-	306	58579106	pyrB	ERWE_CDS_04420	-	COG0540F	aspartate carbamoyltransferase
+715294..717690	+	798	58579107	gyrB	ERWE_CDS_04430	-	COG0187L	DNA gyrase subunit B
+717820..718074	+	84	58579108	-	ERWE_CDS_04440	-	-	hypothetical protein
+718084..720138	+	684	58579109	nuoG	ERWE_CDS_04450	-	COG1034C	NADH dehydrogenase subunit G
+720145..721248	+	367	58579110	nuoH	ERWE_CDS_04460	-	COG1005C	NADH dehydrogenase subunit H
+721391..721642	-	83	58579111	nuoH	ERWE_CDS_04470	-	COG1005C	NADH-quinone oxidoreductase chain H
+721812..722102	-	96	58579112	nuoH	ERWE_CDS_04480	-	COG1005C	NADH-quinone oxidoreductase chain H
+722353..723765	-	470	58579113	gltX	ERWE_CDS_04490	-	COG0008J	glutamyl-tRNA synthetase
+723790..723984	-	64	58579114	-	ERWE_CDS_04500	-	-	hypothetical protein
+724061..725338	-	425	58579115	-	ERWE_CDS_04510	-	-	hypothetical protein
+725761..726570	+	269	58579116	mutM	ERWE_CDS_04520	-	COG0266L	formamidopyrimidine-DNA glycosidase
+726632..727810	+	392	58579117	-	ERWE_CDS_04530	-	-	hypothetical protein
+727878..729107	-	409	58579118	fadB	ERWE_CDS_04540	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+729175..729648	-	157	58579119	-	ERWE_CDS_04550	-	-	hypothetical protein
+729763..730665	+	300	58579120	miaA	ERWE_CDS_04560	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+731131..731331	-	66	58579121	-	ERWE_CDS_04570	-	COG0039C	hypothetical protein
+732498..733220	-	240	58579122	-	ERWE_CDS_04580	-	-	hypothetical protein
+733724..734596	+	290	58579123	-	ERWE_CDS_04590	-	-	hypothetical protein
+734970..736709	+	579	58579124	-	ERWE_CDS_04600	-	-	hypothetical protein
+737049..737747	+	232	58579125	virB8	ERWE_CDS_04610	-	COG3736U	VirB8 protein
+739450..740631	+	393	58579126	nuoD	ERWE_CDS_04620	-	COG0649C	NADH dehydrogenase subunit D
+740635..741186	+	183	58579127	nuoE	ERWE_CDS_04630	-	COG1905C	NADH dehydrogenase subunit E
+741918..742145	+	75	58579128	-	ERWE_CDS_04640	-	COG0187L	hypothetical protein
+742795..743388	+	197	58579129	-	ERWE_CDS_04650	-	-	hypothetical protein
+744180..745022	+	280	58579130	-	ERWE_CDS_04660	-	-	hypothetical protein
+745844..747376	+	510	58579131	pccB	ERWE_CDS_04670	-	COG4799I	human propionyl-CoA carboxylase beta chain, mitochondrial precursor
+748546..749703	-	385	58579132	-	ERWE_CDS_04680	-	-	hypothetical protein
+751075..751272	-	65	58579133	pccB	ERWE_CDS_04690	-	COG4799I	propionyl-CoA carboxylase subunit beta
+751276..752244	-	322	58579134	argB	ERWE_CDS_04700	-	COG0548E	acetylglutamate kinase
+752216..752818	-	200	58579135	engB	ERWE_CDS_04710	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+752979..754058	+	359	58579136	prfA	ERWE_CDS_04720	-	COG0216J	peptide chain release factor 1
+755078..756286	+	402	58579137	gltP	ERWE_CDS_04730	-	COG1301C	proton/sodium-glutamate symport protein
+757131..758441	-	436	58579138	rmuC	ERWE_CDS_04740	-	COG1322S	DNA recombination protein rmuC-like protein
+758653..759252	+	199	58579139	-	ERWE_CDS_04750	-	-	hypothetical protein
+759470..760753	+	427	58579140	serS	ERWE_CDS_04760	-	COG0172J	seryl-tRNA synthetase
+762887..763753	-	288	58579141	hemF	ERWE_CDS_04770	-	COG0408H	coproporphyrinogen III oxidase
+764020..764307	-	95	58579142	-	ERWE_CDS_04780	-	COG3750S	hypothetical protein
+764614..765276	-	220	58579143	tal	ERWE_CDS_04790	-	COG0176G	translaldolase
+765260..765664	-	134	58579144	atpC	ERWE_CDS_04800	-	COG0355C	ATP synthase epsilon chain 2
+765667..767214	-	515	58579145	atpD	ERWE_CDS_04810	-	COG0055C	ATP synthase F0F1 subunit beta
+767623..768993	+	456	58579146	mgtE	ERWE_CDS_04820	-	COG2239P	magnesium transporter
+770081..770455	+	124	58579147	-	ERWE_CDS_04830	-	-	hypothetical protein
+771032..771442	+	136	58579148	-	ERWE_CDS_04840	-	-	hypothetical protein
+772034..772417	+	127	58579149	-	ERWE_CDS_04850	-	-	hypothetical protein
+772788..773264	+	158	58579150	-	ERWE_CDS_04860	-	-	hypothetical protein
+773639..775954	-	771	58579151	-	ERWE_CDS_04870	-	-	hypothetical protein
+776286..778580	-	764	58579152	clpA	ERWE_CDS_04880	-	COG0542O	ATP-dependent Clp protease ATP-binding subunit ClpA
+778747..779454	+	235	58579153	-	ERWE_CDS_04890	-	COG0861P	hypothetical protein
+780622..780969	-	115	58579154	rbfA	ERWE_CDS_04900	-	COG0858J	ribosome-binding factor A
+780966..783536	-	856	58579155	infB	ERWE_CDS_04910	-	COG0532J	translation initiation factor IF-2
+783560..785113	-	517	58579156	nusA	ERWE_CDS_04920	-	COG0195K	transcription elongation factor NusA
+785251..788370	-	1039	58579157	-	ERWE_CDS_04930	-	COG0841V	aminoglycoside efflux pump (acriflavine resistance protein D)
+788469..789221	-	250	58579158	tatC	ERWE_CDS_04940	-	COG0805U	SEC-independent protein translocase protein TatC
+789249..790517	-	422	58579159	ispG	ERWE_CDS_04950	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+791387..793306	-	639	58579160	-	ERWE_CDS_04960	-	COG5271R	hypothetical protein
+793566..794729	-	387	58579161	dxr	ERWE_CDS_04970	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+794780..796204	-	474	58579162	nuoN	ERWE_CDS_04980	-	COG1007C	NADH-ubiquinone oxidoreductase chain N
+796212..797603	-	463	58579163	nuoM	ERWE_CDS_04990	-	COG1008C	NADH-quinone oxidoreductase chain M
+797701..799626	-	641	58579164	nuoL	ERWE_CDS_05000	-	COG1009CP	NADH-quinone oxidoreductase chain L
+799643..799969	-	108	58579165	nuoK	ERWE_CDS_05010	-	COG0713C	NADH-quinone oxidoreductase chain K
+799953..800555	-	200	58579166	nuoJ	ERWE_CDS_05020	-	COG0839C	NADH-quinone oxidoreductase chain J
+801549..802826	-	425	58579167	nuoF	ERWE_CDS_05030	-	COG1894C	NADH dehydrogenase I subunit F
+803067..803333	-	88	58579168	rpmA	ERWE_CDS_05040	-	COG0211J	50S ribosomal protein L27
+803339..803647	-	102	58579169	rplU	ERWE_CDS_05050	-	COG0261J	50S ribosomal protein L21
+803813..805078	+	421	58579170	eno	ERWE_CDS_05060	-	COG0148G	phosphopyruvate hydratase
+805075..806097	+	340	58579171	obgE	ERWE_CDS_05070	-	COG0536R	GTPase ObgE
+807891..808796	-	301	58579172	mraW	ERWE_CDS_05080	-	COG0275M	S-adenosyl-methyltransferase MraW
+810490..813804	-	1104	161598454	ileS	ERWE_CDS_05090	-	COG0060J	isoleucyl-tRNA synthetase
+813942..814385	+	147	58579174	bcp	ERWE_CDS_05100	-	COG1225O	bacterioferritin comigratory protein
+814396..815115	+	239	58579175	-	ERWE_CDS_05110	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+815118..815639	+	173	58579176	-	ERWE_CDS_05120	-	COG0212H	hypothetical protein
+815757..817487	-	576	58579177	argS	ERWE_CDS_05130	-	COG0018J	arginyl-tRNA synthetase
+817765..818499	+	244	58579178	recO	ERWE_CDS_05140	-	COG1381L	DNA repair protein RecO
+819419..819979	+	186	58579179	-	ERWE_CDS_05150	-	-	hypothetical protein
+821661..822050	+	129	58579180	rrmJ	ERWE_CDS_05160	-	COG0293J	ribosomal RNA large subunit methyltransferase J
+822134..822262	-	42	58579181	lpd	ERWE_CDS_05170	-	COG1249C	dihydrolipoamide dehydrogenase
+822429..823907	+	492	58579182	-	ERWE_CDS_05180	-	COG0606O	hypothetical protein
+823995..824384	+	129	58579183	-	ERWE_CDS_05190	-	-	hypothetical protein
+825718..826551	-	277	58579184	-	ERWE_CDS_05200	-	COG1295S	hypothetical protein
+826724..827674	+	316	58579185	thiL	ERWE_CDS_05210	-	COG0611H	thiamine-monophosphate kinase
+828548..829276	-	242	58579186	dnaQ	ERWE_CDS_05220	-	COG0847L	DNA polymerase III, epsilon chain
+829825..831309	-	494	58579187	-	ERWE_CDS_05230	-	-	hypothetical protein
+831800..833494	-	564	58579188	-	ERWE_CDS_05240	-	-	hypothetical protein
+834147..834455	-	102	58579189	-	ERWE_CDS_05250	-	COG2857C	cytochrome c1
+834449..834907	-	152	58579190	-	ERWE_CDS_05260	-	COG2857C	cytochrome c1
+834907..836136	-	409	58579191	petB	ERWE_CDS_05270	-	COG1290C	cytochrome B
+836157..836720	-	187	58579192	petA	ERWE_CDS_05280	-	COG0723C	ubiquinol-cytochrome C reductase iron-sulfur subunit
+837218..838090	-	290	58579193	-	ERWE_CDS_05290	-	-	hypothetical protein
+838165..838362	-	65	58579194	-	ERWE_CDS_05300	-	-	hypothetical protein
+838511..839311	-	266	58579195	znuB	ERWE_CDS_05310	-	COG1108P	high-affinity zinc uptake system membrane protein znuB
+839318..839680	-	120	58579196	-	ERWE_CDS_05320	-	COG3737S	hypothetical protein
+840086..840952	-	288	58579197	tsf	ERWE_CDS_05330	-	COG0264J	elongation factor Ts
+840942..841802	-	286	58579198	rpsB	ERWE_CDS_05340	-	COG0052J	30S ribosomal protein S2
+843419..843997	-	192	58579199	maf	ERWE_CDS_05350	-	COG0424D	Maf-like protein
+843990..844238	-	82	58579200	infA	ERWE_CDS_05360	-	COG0361J	translation initiation factor IF-1
+844572..845663	-	363	58579201	-	ERWE_CDS_05370	-	COG0845M	hypothetical protein
+845691..847115	-	474	58579202	lpd	ERWE_CDS_05380	-	COG1249C	dihydrolipoamide dehydrogenase
+847099..848268	-	389	58579203	-	ERWE_CDS_05390	-	COG1520S	hypothetical protein
+849118..850623	+	501	58579204	gmpI	ERWE_CDS_05400	-	COG0696G	phosphoglyceromutase
+851980..853299	-	439	58579205	engA	ERWE_CDS_05410	-	COG1160R	GTP-binding protein EngA
+853958..855037	+	359	58579206	carA	ERWE_CDS_05420	-	COG0505EF	carbamoyl phosphate synthase small subunit
+855829..856827	+	332	58579207	ispH	ERWE_CDS_05430	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+858043..858417	+	124	58579208	dut	ERWE_CDS_05440	-	COG0756F	deoxyuridine 5-triphosphate nucleotidohydrolase
+859350..859961	+	203	58579209	-	ERWE_CDS_05450	-	COG5448S	hypothetical protein
+860977..863337	-	786	58579210	-	ERWE_CDS_05460	-	COG5271R	hypothetical protein
+863430..867902	-	1490	58579211	-	ERWE_CDS_05470	-	COG3704U	hypothetical protein
+867920..872629	-	1569	58579212	-	ERWE_CDS_05480	-	COG3704U	hypothetical protein
+872511..875246	-	911	58579213	-	ERWE_CDS_05490	-	COG3704U	hypothetical protein
+875384..877855	-	823	58579214	-	ERWE_CDS_05500	-	COG3704U	hypothetical protein
+877888..880293	-	801	58579215	virB4	ERWE_CDS_05510	-	COG3451U	type IV secretion system ATPase VirB4
+880290..880589	-	99	58579216	-	ERWE_CDS_05520	-	COG3702U	type IV secretion system protein VirB3
+880972..881616	-	214	58579217	sodB	ERWE_CDS_05530	-	COG0605P	superoxide dismutase
+881869..883131	+	420	58579218	pstA	ERWE_CDS_05540	-	COG0581P	phosphate ABC transporter permease
+885593..886471	-	292	58579219	lipA	ERWE_CDS_05550	-	COG0320H	lipoyl synthase
+887586..888980	-	464	58579220	-	ERWE_CDS_05560	-	-	hypothetical protein
+889043..893221	-	1392	58579221	-	ERWE_CDS_05570	-	-	hypothetical protein
+893434..895416	-	660	58579222	pccA	ERWE_CDS_05580	-	COG4770I	propionyl-CoA carboxylase subunit alpha
+895564..896538	+	324	58579223	sfhB	ERWE_CDS_05590	-	COG0564J	SfhB protein homolog (peudouridylate synthase)
+898383..899657	+	424	58579224	lysA	ERWE_CDS_05600	-	COG0019E	diaminopimelate decarboxylase
+902381..902683	+	100	58579225	rpmB	ERWE_CDS_05610	-	COG0227J	50S ribosomal protein L28
+903204..905198	-	664	58579226	priA	ERWE_CDS_05620	-	COG1198L	primosomal protein N'
+906580..907557	-	325	58579227	-	ERWE_CDS_05630	-	COG2071R	hypothetical protein
+907801..908529	+	242	58579228	-	ERWE_CDS_05640	-	COG1587H	hypothetical protein
+909610..911355	-	581	58579229	-	ERWE_CDS_05650	-	COG0006E	hypothetical protein
+913500..914045	-	181	58579230	-	ERWE_CDS_05660	-	COG3577R	hypothetical protein
+914104..914931	-	275	58579231	-	ERWE_CDS_05670	-	COG0417L	hypothetical protein
+914921..915811	-	296	58579232	era	ERWE_CDS_05680	-	COG1159R	GTP-binding protein Era
+917036..918388	-	450	58579233	ffh	ERWE_CDS_05690	-	COG0541U	Signal recognition particle protein
+918373..919959	-	528	58579234	nuoM	ERWE_CDS_05700	-	COG0651CP	monovalent cation/H+ antiporter subunit D
+921354..922172	+	272	58579235	-	ERWE_CDS_05710	-	-	hypothetical protein
+922620..923396	+	258	58579236	-	ERWE_CDS_05720	-	-	hypothetical protein
+923845..924045	+	66	58579237	-	ERWE_CDS_05730	-	-	hypothetical protein
+924006..924185	+	59	58579238	-	ERWE_CDS_05740	-	-	hypothetical protein
+925029..925505	+	158	58579239	-	ERWE_CDS_05750	-	-	hypothetical protein
+926144..926605	-	153	58579240	-	ERWE_CDS_05760	-	COG2867I	hypothetical protein
+926846..928783	-	645	58579241	dnaK	ERWE_CDS_05770	-	COG0443O	molecular chaperone DnaK
+928858..930690	-	610	58579242	rne	ERWE_CDS_05780	-	COG1530J	ribonuclease E
+930830..931165	-	111	58579243	-	ERWE_CDS_05790	-	COG1006P	monovalent cation/H+ antiporter subunit C
+931260..931709	-	149	58579244	-	ERWE_CDS_05800	-	COG2111P	monovalent cation/H+ antiporter subunit B
+931672..932262	-	196	58579245	-	ERWE_CDS_05810	-	COG1563P	monovalent cation/H+ antiporter subunit B
+932204..932503	-	99	58579246	-	ERWE_CDS_05820	-	COG1320P	monovalent cation/H+ antiporter subunit G
+932500..932769	-	89	58579247	-	ERWE_CDS_05830	-	COG2212P	monovalent cation/H+ antiporter subunit F
+935101..936759	+	552	58579248	-	ERWE_CDS_05840	-	-	hypothetical protein
+938504..939538	+	344	58579249	-	ERWE_CDS_05850	-	-	hypothetical protein
+941244..941885	+	213	58579250	-	ERWE_CDS_05860	-	-	hypothetical protein
+942928..944943	-	671	58579251	tktA	ERWE_CDS_05870	-	COG0021G	transketolase
+945002..946516	-	504	58579252	-	ERWE_CDS_05880	-	COG2317E	hypothetical protein
+947216..947869	+	217	58579253	pal	ERWE_CDS_05890	-	COG2885M	peptidoglycan-associated lipoprotein precursor
+948664..949956	+	430	58579254	purA	ERWE_CDS_05900	-	COG0104F	adenylosuccinate synthetase
+951728..952198	-	156	58579255	-	ERWE_CDS_05910	-	COG0816L	Holliday junction resolvase
+952581..954368	-	595	58579256	nrdA	ERWE_CDS_05920	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+956420..957250	+	276	58579257	ispA	ERWE_CDS_05930	-	COG0142H	geranyltranstransferase
+957253..958206	+	317	58579258	-	ERWE_CDS_05940	-	-	hypothetical protein
+959918..960982	-	354	58579259	thio	ERWE_CDS_05950	-	COG0665E	thiamine biosynthesis oxidoreductase thiO
+961814..962002	+	62	58579260	-	ERWE_CDS_05960	-	COG0590FJ	hypothetical protein
+962652..963089	-	145	58579261	-	ERWE_CDS_05970	-	COG0590FJ	hypothetical protein
+963095..963337	-	80	58579262	-	ERWE_CDS_05980	-	-	hypothetical protein
+963231..963659	+	142	58579263	-	ERWE_CDS_05990	-	-	hypothetical protein
+965149..966609	+	486	58579264	dnaB	ERWE_CDS_06000	-	COG0305L	replicative DNA helicase
+969121..970080	-	319	58579265	fabH	ERWE_CDS_06010	-	COG0332I	3-oxoacyl-ACP synthase
+970097..971122	-	341	58579266	plsX	ERWE_CDS_06020	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+971144..971326	-	60	161598453	rpmF	ERWE_CDS_06030	-	COG0333J	50S ribosomal protein L32
+971464..972663	+	399	58579268	tgt	ERWE_CDS_06040	-	COG0343J	queuine tRNA-ribosyltransferase
+973502..974263	-	253	58579269	pstB	ERWE_CDS_06050	-	COG1117P	phosphate ABC transporter ATP-binding protein
+974284..975078	-	264	58579270	dapB	ERWE_CDS_06060	-	COG0289E	dihydrodipicolinate reductase
+975075..975569	-	164	58579271	-	ERWE_CDS_06070	-	COG1853R	flavoprotein oxygenase
+975623..976510	-	295	58579272	ubiA	ERWE_CDS_06080	-	COG0382H	4-hydroxybenzoate polyprenyltransferase
+978712..978846	+	44	58579273	rpmH	ERWE_CDS_06090	-	-	50S ribosomal protein L34
+978837..979205	+	122	58579274	-	ERWE_CDS_06100	-	COG0594J	hypothetical protein
+979183..980583	+	466	58579275	-	ERWE_CDS_06110	-	COG1115E	Na+/alanine symporter
+982936..984957	-	673	58579276	comEC	ERWE_CDS_06120	-	COG0658R	competence locus E protein 3
+985689..988058	-	789	58579277	pheT	ERWE_CDS_06130	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+988142..988528	-	128	58579278	rplQ	ERWE_CDS_06140	-	COG0203J	50S ribosomal protein L17
+988547..989671	-	374	58579279	rpoA	ERWE_CDS_06150	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+989703..990086	-	127	58579280	rpsK	ERWE_CDS_06160	-	COG0100J	30S ribosomal protein S11
+990098..990469	-	123	58579281	rpsM	ERWE_CDS_06170	-	COG0099J	30S ribosomal protein S13
+990528..991190	-	220	58579282	adk	ERWE_CDS_06180	-	COG0563F	adenylate kinase
+991175..992473	-	432	58579283	secY	ERWE_CDS_06190	-	COG0201U	preprotein translocase subunit SecY
+992513..992986	-	157	58579284	rplO	ERWE_CDS_06200	-	COG0200J	50S ribosomal protein L15
+992990..993523	-	177	58579285	rpsE	ERWE_CDS_06210	-	COG0098J	30S ribosomal protein S5
+993532..993894	-	120	58579286	rplR	ERWE_CDS_06220	-	COG0256J	50S ribosomal protein L18
+993908..994444	-	178	58579287	rplF	ERWE_CDS_06230	-	COG0097J	50S ribosomal protein L6
+994457..994882	-	141	58579288	rpsH	ERWE_CDS_06240	-	COG0096J	30S ribosomal protein S8
+994876..995184	-	102	58579289	rpsN	ERWE_CDS_06250	-	COG0199J	30S ribosomal protein S14
+995191..995724	-	177	58579290	rplE	ERWE_CDS_06260	-	COG0094J	50S ribosomal protein L5
+995734..996078	-	114	58579291	rplX	ERWE_CDS_06270	-	COG0198J	50S ribosomal protein L24
+996065..996424	-	119	58579292	rplN	ERWE_CDS_06280	-	COG0093J	50S ribosomal protein L14
+996434..996682	-	82	58579293	rpsQ	ERWE_CDS_06290	-	COG0186J	30S ribosomal protein S17
+996651..996854	-	67	58579294	rpmC	ERWE_CDS_06300	-	COG0255J	50S ribosomal protein L29
+996867..997277	-	136	58579295	rplP	ERWE_CDS_06310	-	COG0197J	50S ribosomal protein L16
+997290..997925	-	211	161598452	rpsC	ERWE_CDS_06320	-	COG0092J	30S ribosomal protein S3
+997930..998367	-	145	58579297	rplV	ERWE_CDS_06330	-	COG0091J	50S ribosomal protein L22
+998288..998569	-	93	58579298	rpsS	ERWE_CDS_06340	-	COG0185J	30S ribosomal protein S19
+998573..999403	-	276	58579299	rplB	ERWE_CDS_06350	-	COG0090J	50S ribosomal protein L2
+999408..999698	-	96	58579300	rplW	ERWE_CDS_06360	-	COG0089J	50S ribosomal protein L23
+999695..1000312	-	205	58579301	rplD	ERWE_CDS_06370	-	COG0088J	50S ribosomal protein L4
+1000319..1001029	-	236	58579302	rplC	ERWE_CDS_06380	-	COG0087J	50S ribosomal protein L3
+1001007..1001342	-	111	58579303	rpsJ	ERWE_CDS_06390	-	COG0051J	30S ribosomal protein S10
+1001343..1002530	-	395	161598451	tuf	ERWE_CDS_06400	-	COG0050J	elongation factor Tu
+1002886..1003635	+	249	58579305	-	ERWE_CDS_06410	-	COG0566J	RNA methyltransferase
+1003628..1004266	+	212	58579306	cmk	ERWE_CDS_06420	-	COG0283F	cytidylate kinase
+1004327..1006030	+	567	58579307	rpsA	ERWE_CDS_06430	-	COG0539J	30S ribosomal protein S1
+1006040..1006909	+	289	58579308	sppA	ERWE_CDS_06440	-	COG0616OU	protease IV
+1006912..1007175	+	87	58579309	ihfB	ERWE_CDS_06450	-	COG0776L	integration host factor beta-subunit
+1007176..1007502	+	108	58579310	-	ERWE_CDS_06460	-	-	hypothetical protein
+1007495..1007860	+	121	58579311	-	ERWE_CDS_06470	-	COG3027S	hypothetical protein
+1007976..1009025	+	349	58579312	-	ERWE_CDS_06480	-	-	hypothetical protein
+1010179..1011120	+	313	58579313	hemH	ERWE_CDS_06490	-	COG0276H	ferrochelatase
+1011877..1012950	-	357	58579314	-	ERWE_CDS_06500	-	COG1485R	ATPase n2B
+1015464..1015769	-	101	58579315	-	ERWE_CDS_06510	-	-	hypothetical protein
+1016887..1017762	-	291	58579316	-	ERWE_CDS_06520	-	COG0330O	hypothetical protein
+1019139..1019516	-	125	58579317	-	ERWE_CDS_06530	-	COG0666R	hypothetical protein
+1019570..1019974	-	134	58579318	-	ERWE_CDS_06540	-	COG5271R	hypothetical protein
+1020404..1020676	-	90	58579319	-	ERWE_CDS_06550	-	-	hypothetical protein
+1020743..1023316	+	857	58579320	recB	ERWE_CDS_06560	-	COG1074L	exodeoxyribonuclease V beta chain
+1024449..1025423	-	324	58579321	qor	ERWE_CDS_06570	-	COG0604CR	quinone oxidoreductase
+1026675..1028456	-	593	58579322	aprD	ERWE_CDS_06580	-	COG4618R	alkaline protease secretion ATP-binding protein AprD
+1028822..1029646	+	274	58579323	folP	ERWE_CDS_06590	-	COG0294H	dihydropteroate synthase
+1030207..1031058	+	283	58579324	folP	ERWE_CDS_06600	-	COG0294H	dihydropteroate synthase
+1031654..1032712	-	352	58579325	-	ERWE_CDS_06610	-	-	hypothetical protein
+1033045..1036272	+	1075	58579326	carB	ERWE_CDS_06620	-	COG0458EF	carbamoyl phosphate synthase large subunit
+1038760..1039092	-	110	58579327	-	ERWE_CDS_06630	-	-	hypothetical protein
+1039190..1040575	-	461	58579328	fumC	ERWE_CDS_06640	-	COG0114C	fumarate hydratase
+1040803..1041441	+	212	58579329	dfp	ERWE_CDS_06650	-	COG0452H	DNA/pantothenate metabolism flavoprotein
+1042574..1043923	+	449	58579330	pyrC	ERWE_CDS_06660	-	COG0044F	dihydroorotase
+1045082..1045708	-	208	58579331	lipB	ERWE_CDS_06670	-	COG0321H	lipoate-protein ligase B
+1046132..1046770	-	212	58579332	purN	ERWE_CDS_06680	-	COG0299F	phosphoribosylglycinamide formyltransferase
+1046938..1048440	-	500	58579333	pepA	ERWE_CDS_06690	-	COG0260E	leucyl aminopeptidase
+1050318..1051052	+	244	58579334	-	ERWE_CDS_06700	-	COG3485Q	hypothetical protein
+1053557..1056148	-	863	58579335	clpB	ERWE_CDS_06710	-	COG0542O	ClpB protein
+1056527..1057276	+	249	58579336	-	ERWE_CDS_06720	-	COG1028IQR	hypothetical protein
+1059198..1060853	-	551	58579337	groEL	ERWE_CDS_06730	-	COG0459O	molecular chaperone GroEL
+1060951..1061235	-	94	58579338	groES	ERWE_CDS_06740	-	COG0234O	co-chaperonin GroES
+1061500..1062192	+	230	58579339	radC	ERWE_CDS_06750	-	COG2003L	DNA repair protein radC-like protein
+1062510..1063343	-	277	58579340	purQ	ERWE_CDS_06760	-	COG0047F	phosphoribosylformylglycinamidine synthase
+1065103..1066980	+	625	58579341	gidA	ERWE_CDS_06770	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+1067923..1068843	-	306	58579342	glpX	ERWE_CDS_06780	-	COG1494G	fructose 1,6-bisphosphatase II
+1069287..1069907	+	206	58579343	nlpD	ERWE_CDS_06790	-	COG4942D	lipoprotein nlpD precursor
+1071037..1071492	+	151	58579344	-	ERWE_CDS_06800	-	COG5388	hypothetical protein
+1071669..1071890	+	73	58579345	-	ERWE_CDS_06810	-	-	hypothetical protein
+1071893..1072861	+	322	58579346	bioB	ERWE_CDS_06820	-	COG0502H	biotin synthase
+1075343..1078375	+	1010	58579347	purL	ERWE_CDS_06830	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+1079987..1080511	+	174	58579348	folK	ERWE_CDS_06840	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1081975..1082607	-	210	58579349	-	ERWE_CDS_06850	-	-	hypothetical protein
+1082755..1084056	-	433	58579350	-	ERWE_CDS_06860	-	COG4783R	hypothetical protein
+1084264..1084629	+	121	58579351	-	ERWE_CDS_06870	-	COG0799S	hypothetical protein
+1085035..1085922	+	295	58579352	-	ERWE_CDS_06880	-	COG2199T	hypothetical protein
+1086732..1087370	-	212	58579353	-	ERWE_CDS_06890	-	COG5385	hypothetical protein
+1087522..1088550	+	342	58579354	purM	ERWE_CDS_06900	-	COG0150F	phosphoribosylaminoimidazole synthetase
+1091158..1092114	-	318	58579355	xerC	ERWE_CDS_06910	-	COG4974L	integrase/recombinase
+1092356..1093339	+	327	58579356	gpsA	ERWE_CDS_06920	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1094610..1096025	-	471	58579357	ntrX	ERWE_CDS_06930	-	COG2204T	nitrogen assimilation regulatory protein NtrX
+1096297..1097112	-	271	58579358	ftsQ	ERWE_CDS_06940	-	COG1589M	cell division protein FtsQ
+1097899..1098288	+	129	58579359	ntrX	ERWE_CDS_06950	-	COG2204T	nitrogen assimilation regulatory protein NtrX
+1098507..1099445	-	312	58579360	gshB	ERWE_CDS_06960	-	COG0189HJ	glutathione synthetase
+1100497..1101099	-	200	58579361	-	ERWE_CDS_06970	-	COG2823R	hypothetical protein
+1102059..1103831	+	590	58579362	aspS	ERWE_CDS_06980	-	COG0173J	aspartyl-tRNA synthetase
+1105045..1105251	-	68	58579363	-	ERWE_CDS_06990	-	-	hypothetical protein
+1105385..1106017	+	210	58579364	gpH	ERWE_CDS_07000	-	COG0546R	phosphoglycolate phosphatase
+1105996..1106508	+	170	58579365	-	ERWE_CDS_07010	-	-	hypothetical protein
+1107486..1110107	+	873	58579366	ppdK	ERWE_CDS_07020	-	COG0574G	pyruvate phosphate dikinase
+1111098..1112594	+	498	58579367	nuoL2	ERWE_CDS_07030	-	COG1009CP	NADH dehydrogenase I chain L
+1114302..1115099	-	265	58579368	-	ERWE_CDS_07040	-	COG0596R	hypothetical protein
+1115102..1115626	-	174	58579369	cycM	ERWE_CDS_07050	-	COG3474C	cytochrome c-like protein
+1117963..1118865	-	300	58579370	folD	ERWE_CDS_07060	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1120324..1120953	-	209	58579371	gmk	ERWE_CDS_07070	-	COG0194F	guanylate kinase
+1122722..1123426	+	234	58579372	ccmC	ERWE_CDS_07080	-	COG0755O	Heme exporter protein C
+1123437..1124012	+	191	58579373	ruvA	ERWE_CDS_07090	-	COG0632L	Holliday junction DNA helicase RuvA
+1125167..1126162	+	331	58579374	ruvB	ERWE_CDS_07100	-	COG2255L	Holliday junction DNA helicase RuvB
+1126140..1126373	+	77	58579375	-	ERWE_CDS_07110	-	-	hypothetical protein
+1128979..1129212	+	77	58579376	-	ERWE_CDS_07120	-	-	hypothetical protein
+1129104..1130300	-	398	58579377	bcr	ERWE_CDS_07130	-	COG2814G	bicyclomycin resistance protein
+1131630..1132526	-	298	58579378	thyX	ERWE_CDS_07140	-	COG1351F	FAD-dependent thymidylate synthase
+1134249..1135043	-	264	58579379	sdhB	ERWE_CDS_07150	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+1135059..1136879	-	606	58579380	sdhA	ERWE_CDS_07160	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+1138495..1140246	-	583	58579381	msbA	ERWE_CDS_07170	-	COG1132V	Lipid A export ATP-binding protein
+1140250..1140579	-	109	58579382	cyaY	ERWE_CDS_07180	-	COG1965P	CyaY protein
+1140777..1142042	-	421	58579383	glyA	ERWE_CDS_07190	-	COG0112E	serine hydroxymethyltransferase
+1142111..1142734	-	207	58579384	rplI	ERWE_CDS_07200	-	COG0359J	50S ribosomal protein L9
+1142756..1143043	-	95	58579385	rpsR	ERWE_CDS_07210	-	COG0238J	30S ribosomal protein S18
+1143055..1143384	-	109	58579386	rpsF	ERWE_CDS_07220	-	COG0360J	30S ribosomal protein S6
+1143511..1144122	-	203	58579387	-	ERWE_CDS_07230	-	COG1286R	hypothetical protein
+1144135..1146780	-	881	58579388	-	ERWE_CDS_07240	-	COG4666R	hypothetical protein
+1147404..1148756	+	450	58579389	radA	ERWE_CDS_07250	-	COG1066O	DNA repair protein RadA
+1148753..1149253	+	166	58579390	dsbE	ERWE_CDS_07260	-	COG0526OC	Thiol:disulfide interchange protein Dsb
+1151340..1151561	+	73	58579391	-	ERWE_CDS_07270	-	COG0271T	hypothetical protein
+1151568..1151900	+	110	58579392	grxC2	ERWE_CDS_07280	-	COG0278O	glutaredoxin-like protein GRLA
+1151929..1153953	+	674	58579393	ligA	ERWE_CDS_07290	-	COG0272L	DNA ligase
+1155275..1156444	-	389	58579394	rnd	ERWE_CDS_07300	-	COG0349J	ribonuclease D
+1157081..1159213	-	710	58579395	ntrY	ERWE_CDS_07310	-	COG5000T	nitrogen regulation protein NtrY
+1159391..1159678	-	95	58579396	cspA	ERWE_CDS_07320	-	COG1278K	cold shock-like protein cspA
+1159913..1160755	+	280	58579397	-	ERWE_CDS_07330	-	COG0451MG	hypothetical protein
+1161910..1162467	+	185	58579398	dcd	ERWE_CDS_07340	-	COG0717F	deoxycytidine triphosphate deaminase
+1162845..1163597	-	250	58579399	purC	ERWE_CDS_07350	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+1163764..1165008	+	414	58579400	hisS	ERWE_CDS_07360	-	COG0124J	histidyl-tRNA synthetase
+1165502..1168465	+	987	58579401	-	ERWE_CDS_07370	-	-	hypothetical protein
+1168477..1169229	-	250	58579402	-	ERWE_CDS_07380	-	COG1651O	thiol:disulfide interchange protein dsbA
+1171090..1172169	+	359	58579403	coxW	ERWE_CDS_07390	-	COG1612O	cytochrome C oxidase assembly protein
+1172612..1173253	+	213	58579404	ccmA	ERWE_CDS_07400	-	COG4133O	cytochrome c biogenesis protein CcmA
+1175211..1176851	-	546	58579405	-	ERWE_CDS_07410	-	-	hypothetical protein
+1177023..1181144	-	1373	58579406	-	ERWE_CDS_07420	-	-	hypothetical protein
+1181351..1184050	-	899	58579407	-	ERWE_CDS_07430	-	-	hypothetical protein
+1184632..1185342	-	236	58579408	-	ERWE_CDS_07440	-	-	hypothetical protein
+1186960..1187712	-	250	58579409	-	ERWE_CDS_07450	-	-	hypothetical protein
+1188596..1189153	-	185	58579410	-	ERWE_CDS_07460	-	-	hypothetical protein
+1189216..1189404	-	62	58579411	-	ERWE_CDS_07470	-	-	hypothetical protein
+1190169..1190783	-	204	58579412	-	ERWE_CDS_07480	-	-	hypothetical protein
+1191823..1192383	-	186	58579413	-	ERWE_CDS_07490	-	-	hypothetical protein
+1194324..1194926	-	200	58579414	-	ERWE_CDS_07500	-	-	hypothetical protein
+1194937..1195122	-	61	58579415	-	ERWE_CDS_07510	-	-	hypothetical protein
+1197127..1197555	-	142	58579416	-	ERWE_CDS_07520	-	-	hypothetical protein
+1198005..1198499	-	164	58579417	-	ERWE_CDS_07530	-	-	hypothetical protein
+1199192..1199758	+	188	58579418	mpg	ERWE_CDS_07540	-	COG2094L	3-methyladenine DNA glycosylase
+1201162..1201887	-	241	58579419	-	ERWE_CDS_07550	-	-	hypothetical protein
+1201769..1201987	+	72	58579420	-	ERWE_CDS_07560	-	-	hypothetical protein
+1202076..1202921	-	281	58579421	-	ERWE_CDS_07570	-	-	hypothetical protein
+1205655..1206737	-	360	58579422	-	ERWE_CDS_07580	-	-	hypothetical protein
+1207225..1207569	-	114	58579423	pyrH	ERWE_CDS_07590	-	COG0528F	uridylate kinase
+1207858..1208544	-	228	58579424	cdsA	ERWE_CDS_07600	-	COG4589R	phosphatidate cytidylyltransferase
+1210572..1211129	-	185	58579425	frr	ERWE_CDS_07610	-	COG0233J	ribosome recycling factor
+1211159..1211893	-	244	58579426	pyrH	ERWE_CDS_07620	-	COG0528F	uridylate kinase
+1214512..1217511	-	999	58579427	-	ERWE_CDS_07630	-	COG3164S	hypothetical protein
+1217579..1218040	-	153	58579428	rnhA	ERWE_CDS_07640	-	COG0328L	ribonuclease H
+1219478..1220074	+	198	58579429	-	ERWE_CDS_07650	-	-	hypothetical protein
+1220322..1220867	+	181	58579430	-	ERWE_CDS_07660	-	-	hypothetical protein
+1222852..1226220	+	1122	58579431	mfd	ERWE_CDS_07670	-	COG1197LK	transcription-repair coupling factor
+1227144..1227326	-	60	58579432	-	ERWE_CDS_07680	-	-	hypothetical protein
+1227900..1228085	-	61	58579433	-	ERWE_CDS_07690	-	-	hypothetical protein
+1228871..1229344	-	157	58579434	-	ERWE_CDS_07700	-	-	hypothetical protein
+1229956..1230564	-	202	58579435	-	ERWE_CDS_07710	-	-	hypothetical protein
+1231050..1231850	-	266	58579436	-	ERWE_CDS_07720	-	-	hypothetical protein
+1233310..1234185	-	291	58579437	-	ERWE_CDS_07730	-	-	hypothetical protein
+1236767..1237135	-	122	58579438	-	ERWE_CDS_07740	-	-	hypothetical protein
+1239525..1239962	+	145	58579439	-	ERWE_CDS_07750	-	-	hypothetical protein
+1240624..1241067	+	147	58579440	-	ERWE_CDS_07760	-	-	hypothetical protein
+1241699..1242208	+	169	58579441	-	ERWE_CDS_07770	-	-	hypothetical protein
+1242835..1243308	-	157	58579442	-	ERWE_CDS_07780	-	-	hypothetical protein
+1243656..1244264	+	202	58579443	ribE	ERWE_CDS_07790	-	COG0307H	riboflavin synthase subunit alpha
+1244427..1245830	-	467	58579444	-	ERWE_CDS_07800	-	COG2070R	hypothetical protein
+1247056..1248321	+	421	58579445	-	ERWE_CDS_07810	-	COG0612R	protease
+1249416..1250141	-	241	58579446	-	ERWE_CDS_07820	-	COG1651O	hypothetical protein
+1250199..1250723	-	174	58579447	secB	ERWE_CDS_07830	-	COG1952U	preprotein translocase subunit SecB
+1250840..1251481	+	213	58579448	-	ERWE_CDS_07840	-	COG4395S	hypothetical protein
+1252129..1253358	-	409	58579449	bcr	ERWE_CDS_07850	-	COG2814G	bicyclomycin resistance protein
+1253401..1254009	-	202	58579450	tmk	ERWE_CDS_07860	-	COG0125F	thymidylate kinase
+1254243..1255205	-	320	58579451	fabD	ERWE_CDS_07870	-	COG0331I	malonyl CoA-ACP transacylase
+1255368..1255595	+	75	58579452	rpmE	ERWE_CDS_07880	-	COG0254J	50S ribosomal protein L31
+1255613..1256404	+	263	58579453	ppnK	ERWE_CDS_07890	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+1257741..1259198	+	485	58579454	guaB	ERWE_CDS_07900	-	COG0516F	inosine-5'-monophosphate dehydrogenase
+1264937..1265782	+	281	58579455	-	ERWE_CDS_07910	-	COG2267I	hypothetical protein
+1266004..1266990	+	328	58579456	pdhA	ERWE_CDS_07920	-	COG1071C	pyruvate dehydrogenase E1 component, alpha subunit
+1267138..1267914	+	258	58579457	trbG	ERWE_CDS_07930	-	COG3504U	conjugal transfer protein TRBG precursor
+1268005..1268328	+	107	58579458	trx	ERWE_CDS_07940	-	COG3118O	thioredoxin
+1270253..1271494	-	413	58579459	-	ERWE_CDS_07950	-	COG0621J	hypothetical protein
+1272523..1272711	-	62	58579460	xseB	ERWE_CDS_07960	-	COG1722L	exodeoxyribonuclease VII small subunit
+1272776..1273069	+	97	58579461	-	ERWE_CDS_07970	-	-	NADH-ubiquinone oxidoreductase subunit
+1273712..1274626	+	304	58579462	-	ERWE_CDS_07980	-	COG0679R	hypothetical protein
+1276642..1276830	+	62	58579463	-	ERWE_CDS_07990	-	-	hypothetical protein
+1276814..1277398	-	194	58579464	-	ERWE_CDS_08000	-	COG0742L	methylase
+1277404..1278681	-	425	58579465	-	ERWE_CDS_08010	-	-	hypothetical protein
+1282753..1284084	-	443	58579466	gltX	ERWE_CDS_08020	-	COG0008J	glutamyl-tRNA synthetase
+1285187..1285549	+	120	58579467	-	ERWE_CDS_08030	-	-	hypothetical protein
+1286151..1286936	-	261	58579468	thiG	ERWE_CDS_08040	-	COG2022H	thiazole synthase
+1287167..1287391	-	74	58579469	-	ERWE_CDS_08050	-	COG2104H	hypothetical protein
+1287664..1289070	+	468	58579470	-	ERWE_CDS_08060	-	-	hypothetical protein
+1291000..1291557	-	185	58579471	-	ERWE_CDS_08070	-	COG0694O	hypothetical protein
+1291535..1291990	+	151	58579472	-	ERWE_CDS_08080	-	COG0484O	hypothetical protein
+1293144..1294520	-	458	58579473	rho	ERWE_CDS_08090	-	COG1158K	transcription termination factor Rho
+1295282..1295533	+	83	58579474	-	ERWE_CDS_08100	-	-	hypothetical protein
+1295954..1296523	+	189	58579475	hslV	ERWE_CDS_08110	-	COG5405O	ATP-dependent protease peptidase subunit
+1296526..1297992	+	488	58579476	hslU	ERWE_CDS_08120	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+1298009..1298701	+	230	58579477	ubiE	ERWE_CDS_08130	-	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase ubiE
+1299339..1299545	+	68	58579478	-	ERWE_CDS_08140	-	-	hypothetical protein
+1300149..1301669	-	506	58579479	metG	ERWE_CDS_08150	-	COG0143J	methionyl-tRNA synthetase
+1302026..1303273	+	415	58579480	lysC	ERWE_CDS_08160	-	COG0527E	aspartate kinase
+1304060..1304836	+	258	58579481	ctaC	ERWE_CDS_08170	-	COG1622C	cytochrome c oxidase polypeptide II
+1304845..1306401	+	518	58579482	ctaD	ERWE_CDS_08180	-	COG0843C	cytochrome c oxidase polypeptide I
+1306404..1307291	+	295	58579483	ctaB	ERWE_CDS_08190	-	COG0109O	protoheme IX farnesyltransferase
+1308048..1308800	-	250	58579484	-	ERWE_CDS_08200	-	COG4105R	hypothetical protein
+1308974..1310245	+	423	58579485	purD	ERWE_CDS_08210	-	COG0151F	phosphoribosylamine--glycine ligase
+1312148..1312528	+	126	58579486	-	ERWE_CDS_08220	-	COG1862U	hypothetical protein
+1312738..1312950	+	70	58579487	-	ERWE_CDS_08230	-	-	hypothetical protein
+1313429..1314133	-	234	58579488	-	ERWE_CDS_08240	-	COG3827S	hypothetical protein
+1314155..1315402	-	415	58579489	tolC	ERWE_CDS_08250	-	COG1538MU	outer membrane protein TolC
+1317025..1317495	+	156	58579490	rplM	ERWE_CDS_08260	-	COG0102J	50S ribosomal protein L13
+1317495..1317956	+	153	58579491	rpsI	ERWE_CDS_08270	-	COG0103J	30S ribosomal protein S9
+1317965..1319008	+	347	58579492	argC	ERWE_CDS_08280	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+1319221..1319775	+	184	58579493	ppa	ERWE_CDS_08290	-	COG0221C	inorganic pyrophosphatase
+1320620..1321249	+	209	58579494	-	ERWE_CDS_08300	-	COG2932K	hypothetical protein
+1321578..1322429	+	283	58579495	-	ERWE_CDS_08310	-	COG0745TK	hypothetical protein
+1322500..1323117	+	205	58579496	rnd	ERWE_CDS_08320	-	COG0349J	ribonuclease D
+1323199..1324326	+	375	58579497	dnaN	ERWE_CDS_08330	-	COG0592L	DNA polymerase III, beta chain
+1326151..1326375	-	74	58579498	-	ERWE_CDS_08340	-	-	hypothetical protein
+1326735..1327784	-	349	58579499	mrp	ERWE_CDS_08350	-	COG0489D	Mrp protein
+1327908..1328864	+	318	58579500	prs	ERWE_CDS_08360	-	COG0462FE	ribose-phosphate pyrophosphokinase
+1329674..1330018	+	114	58579501	gatC	ERWE_CDS_08370	-	COG0721J	glutamyl-tRNA(Gln) amidotransferase subunit C
+1331104..1333731	-	875	161598450	acnA	ERWE_CDS_08380	-	COG1048C	aconitate hydratase
+1335126..1335530	-	134	58579503	apaG	ERWE_CDS_08390	-	COG2967P	ApaG
+1336768..1337907	+	379	58579504	purK	ERWE_CDS_08400	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1339194..1341401	-	735	58579505	-	ERWE_CDS_08410	-	-	hypothetical protein
+1343878..1347792	-	1304	58579506	-	ERWE_CDS_08420	-	-	hypothetical protein
+1348974..1354106	-	1710	58579507	-	ERWE_CDS_08430	-	-	hypothetical protein
+1355672..1358044	-	790	58579508	virB4	ERWE_CDS_08440	-	COG3451U	VirB4 protein
+1359722..1360132	-	136	58579509	-	ERWE_CDS_08450	-	-	hypothetical protein
+1360393..1360758	-	121	58579510	-	ERWE_CDS_08460	-	-	hypothetical protein
+1361676..1362038	-	120	58579511	-	ERWE_CDS_08470	-	-	hypothetical protein
+1363495..1363881	-	128	58579512	-	ERWE_CDS_08480	-	-	hypothetical protein
+1363936..1364145	-	69	58579513	-	ERWE_CDS_08490	-	-	hypothetical protein
+1364675..1365745	+	356	58579514	hflK	ERWE_CDS_08500	-	COG0330O	protease activity modulator hflk
+1365757..1366629	+	290	58579515	hflC	ERWE_CDS_08510	-	COG0330O	Hflc protein
+1366629..1368059	+	476	58579516	degP	ERWE_CDS_08520	-	COG0265O	serine protease do-like precursor
+1368067..1368681	+	204	58579517	-	ERWE_CDS_08530	-	COG2834M	hypothetical protein
+1368682..1369365	+	227	58579518	rnc	ERWE_CDS_08540	-	COG0571K	ribonuclease III
+1369362..1369895	+	177	58579519	ctaG	ERWE_CDS_08550	-	COG3175O	cytochrome C oxidase assembly protein
+1371276..1372592	+	438	58579520	-	ERWE_CDS_08560	-	COG0612R	protease
+1372595..1373962	+	455	58579521	-	ERWE_CDS_08570	-	COG0612R	protease
+1374945..1375358	+	137	58579522	-	ERWE_CDS_08580	-	-	hypothetical protein
+1375769..1376443	+	224	58579523	-	ERWE_CDS_08590	-	-	hypothetical protein
+1376701..1377150	-	149	58579524	lspA	ERWE_CDS_08600	-	COG0597MU	lipoprotein signal peptidase
+1377147..1378067	-	306	58579525	ribF	ERWE_CDS_08610	-	COG0196H	riboflavin biosynthesis protein ribF
+1378111..1378398	+	95	58579526	grx	ERWE_CDS_08620	-	COG0695O	glutaredoxin
+1379190..1380032	-	280	58579527	hemK	ERWE_CDS_08630	-	COG2890J	bifunctional methyltransferase HemK/tRNA (guanine-N(7)-)-methyltransferase protoporphyrinogen oxidase
+1380039..1380839	-	266	58579528	map	ERWE_CDS_08640	-	COG0024J	methionine aminopeptidase
+1381457..1381642	+	61	58579529	-	ERWE_CDS_08650	-	COG0024J	hypothetical protein
+1382001..1383119	-	372	58579530	-	ERWE_CDS_08660	-	-	hypothetical protein
+1383132..1383584	-	150	58579531	-	ERWE_CDS_08670	-	-	hypothetical protein
+1384808..1386499	-	563	58579532	-	ERWE_CDS_08680	-	-	hypothetical protein
+1387659..1388867	-	402	58579533	sucB	ERWE_CDS_08690	-	COG0508C	2-oxoglutarate dehydrogenase complex dihydrolipoamide succinyltransferase subunit
+1389451..1389969	-	172	58579534	-	ERWE_CDS_08700	-	COG0663R	hypothetical protein
+1391506..1392378	+	290	58579535	dacF	ERWE_CDS_08710	-	COG1686M	penicillin-binding protein dacF precursor
+1393188..1394396	-	402	58579536	dsbD	ERWE_CDS_08720	-	COG4232OC	thiol:disulfide interchange protein dsbD precursor
+1395204..1395485	-	93	58579537	-	ERWE_CDS_08730	-	COG2938S	hypothetical protein
+1395605..1396744	+	379	58579538	-	ERWE_CDS_08740	-	COG0750M	metalloprotease
+1396749..1399064	+	771	58579539	omp1	ERWE_CDS_08750	-	COG4775M	hypothetical protein
+1399077..1399625	+	182	58579540	-	ERWE_CDS_08760	-	COG2825M	hypothetical protein
+1399635..1400072	+	145	58579541	fabZ	ERWE_CDS_08770	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+1400114..1401628	+	504	58579542	purH	ERWE_CDS_08780	-	COG0138F	bifunctional phospho ribosylaminoimidazole carboxamide formyltransferase/IMP cyclohydrolase
+1402138..1402719	-	193	58579543	pgsA	ERWE_CDS_08790	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1403043..1404344	+	433	58579544	-	ERWE_CDS_08800	-	COG0843C	hypothetical protein
+1405133..1405774	-	213	58579545	surf1	ERWE_CDS_08810	-	COG3346S	Surf1-like protein
+1406197..1408026	+	609	58579546	-	ERWE_CDS_08820	-	COG1357S	hypothetical protein
+1409123..1410991	-	622	58579547	-	ERWE_CDS_08830	-	-	hypothetical protein
+1411798..1412067	-	89	58579548	-	ERWE_CDS_08840	-	-	hypothetical protein
+1412114..1413373	-	419	58579549	egsA	ERWE_CDS_08850	-	COG0371C	glycerol-1-phosphate dehydrogenase (NAD(P))
+1413905..1414096	-	63	58579550	-	ERWE_CDS_08860	-	-	hypothetical protein
+1414309..1415040	+	243	58579551	atpB	ERWE_CDS_08870	-	COG0356C	ATP synthase F0F1 subunit A
+1415110..1415331	+	73	58579552	atpE	ERWE_CDS_08880	-	COG0636C	ATP synthase F0F1 subunit C
+1415341..1415844	+	167	58579553	atpX	ERWE_CDS_08890	-	COG0711C	ATP synthase subunit B
+1415841..1416332	+	163	58579554	-	ERWE_CDS_08900	-	-	hypothetical protein
+1416334..1417593	-	419	58579555	ftsA	ERWE_CDS_08910	-	COG0849D	cell division protein ftsa
+1418617..1420068	-	483	58579556	trkH	ERWE_CDS_08920	-	COG0168P	Trk system potassium uptake protein trkH
+1421457..1422785	+	442	58579557	-	ERWE_CDS_08930	-	COG0037D	hypothetical protein
+1422782..1424617	+	611	58579558	ftsH	ERWE_CDS_08940	-	COG0465O	cell division protein ftsh-like protein
+1426774..1427553	-	259	58579559	lgt	ERWE_CDS_08950	-	COG0682M	prolipoprotein diacylglyceryl transferase
+1429827..1431509	-	560	58579560	-	ERWE_CDS_08960	-	-	hypothetical protein
+1432342..1433868	-	508	58579561	secD	ERWE_CDS_08970	-	COG0342U	preprotein translocase subunit SecD
+1434136..1434318	+	60	58579562	-	ERWE_CDS_08980	-	-	hypothetical protein
+1434266..1435048	-	260	58579563	thiF	ERWE_CDS_08990	-	COG0476H	adenylyltransferase
+1435052..1435663	-	203	58579564	pyrE	ERWE_CDS_09000	-	COG0461F	orotate phosphoribosyltransferase
+1436018..1437091	-	357	58579565	recA	ERWE_CDS_09010	-	COG0468L	recombinase A
+1438571..1439242	-	223	58579566	bioD	ERWE_CDS_09020	-	COG0132H	dethiobiotin synthetase
+1439325..1440254	+	309	58579567	ftsY	ERWE_CDS_09030	-	COG0552U	cell division protein ftsY-like protein
+1441867..1443318	-	483	58579568	icd	ERWE_CDS_09040	-	COG0473CE	isocitrate dehydrogenase
+1443418..1443684	+	88	58579569	asd	ERWE_CDS_09050	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1445461..1447233	+	590	58579570	recJ	ERWE_CDS_09060	-	COG0608L	single-stranded-DNA-specific exonuclease recJ
+1448365..1449558	+	397	58579571	pcnB	ERWE_CDS_09070	-	COG0617J	poly(A) polymerase
+1450809..1451240	-	143	58579572	ndk	ERWE_CDS_09080	-	COG0105F	nucleoside diphosphate kinase
+1451480..1452085	+	201	58579573	-	ERWE_CDS_09090	-	COG1396K	transcriptional regulator
+1452340..1453293	+	317	58579574	-	ERWE_CDS_09100	-	-	Map1-related protein
+1454177..1455061	+	294	58579575	-	ERWE_CDS_09110	-	-	Map1-related protein
+1455102..1455860	+	252	58579576	-	ERWE_CDS_09120	-	-	hypothetical protein
+1455857..1456684	+	275	58579577	-	ERWE_CDS_09130	-	-	Map1-related protein
+1456700..1457581	+	293	58579578	-	ERWE_CDS_09140	-	-	Map1-related protein
+1457609..1458382	+	257	58579579	-	ERWE_CDS_09150	-	-	Map1-related protein
+1458399..1459268	+	289	58579580	-	ERWE_CDS_09160	-	-	Map1-related protein
+1459293..1460141	+	282	58579581	-	ERWE_CDS_09170	-	-	Map1-related protein
+1460110..1461003	+	297	58579582	-	ERWE_CDS_09180	-	-	Map1-related protein
+1461023..1461910	+	295	58579583	-	ERWE_CDS_09190	-	-	Map1-related protein
+1461919..1462536	+	205	58579584	-	ERWE_CDS_09200	-	-	Map1-related protein
+1462576..1463469	+	297	58579585	-	ERWE_CDS_09210	-	-	Map1-related protein
+1463490..1464437	+	315	58579586	-	ERWE_CDS_09220	-	COG3637M	Map1-related protein
+1464461..1465381	+	306	58579587	-	ERWE_CDS_09230	-	-	Map1-related protein
+1466709..1467623	+	304	58579588	-	ERWE_CDS_09240	-	-	Map1-related protein
+1467939..1468868	+	309	58579589	-	ERWE_CDS_09250	-	-	hypothetical protein
+1470475..1471332	-	285	58579590	-	ERWE_CDS_09260	-	-	Map1-related protein
+1471820..1472155	+	111	58579591	-	ERWE_CDS_09270	-	-	hypothetical protein
+1473237..1473770	+	177	58579592	-	ERWE_CDS_09280	-	COG3064M	hypothetical protein
+1474095..1476707	+	870	58579593	secA	ERWE_CDS_09290	-	COG0653U	preprotein translocase subunit SecA
+1477927..1478358	-	143	58579594	-	ERWE_CDS_09300	-	-	hypothetical protein
+1479886..1481154	+	422	58579595	ftsZ	ERWE_CDS_09310	-	COG0206D	cell division protein FtsZ
+1481161..1481568	+	135	58579596	-	ERWE_CDS_09320	-	COG2947S	hypothetical protein
+1481565..1482038	+	157	58579597	-	ERWE_CDS_09330	-	COG0319R	hypothetical protein
+1482252..1483034	+	260	58579598	soj	ERWE_CDS_09340	-	COG1192D	sporulation initiation inhibitor protein soj
+1483045..1483914	+	289	58579599	parB	ERWE_CDS_09350	-	COG1475K	chromosome partitioning protein parB
+1484271..1484789	+	172	58579600	rimM	ERWE_CDS_09360	-	COG0806J	16S rRNA-processing protein RimM
+1484779..1485486	+	235	58579601	trmD	ERWE_CDS_09370	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+1485467..1485856	+	129	58579602	rplS	ERWE_CDS_09380	-	COG0335J	50S ribosomal protein L19
+1486466..1486648	+	60	58579603	-	ERWE_CDS_09390	-	-	hypothetical protein
+1486867..1487367	-	166	58579604	-	ERWE_CDS_09400	-	COG1546R	hypothetical protein
+1487641..1489542	+	633	58579605	thrS	ERWE_CDS_09410	-	COG0441J	threonyl-tRNA synthetase
+1489569..1490090	+	173	58579606	infC	ERWE_CDS_09420	-	COG0290J	translation initiation factor IF-3
+1491562..1492014	-	150	58579607	-	ERWE_CDS_09430	-	COG0802R	hypothetical protein
+1492060..1492764	-	234	58579608	-	ERWE_CDS_09440	-	COG0670R	hypothetical protein
+1492869..1494098	-	409	58579609	-	ERWE_CDS_09450	-	-	hypothetical protein
+1494213..1495220	+	335	58579610	gap	ERWE_CDS_09460	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase
+1496841..1497515	-	224	58579611	elbB	ERWE_CDS_09470	-	COG3155Q	isoprenoid biosynthesis protein with amidotransferase-like domain
+1497531..1498442	+	303	58579612	proC	ERWE_CDS_09480	-	COG0345E	pyrroline-5-carboxylate reductase
+1499228..1500730	+	500	58579613	dnaX	ERWE_CDS_09490	-	COG2812L	DNA polymerase III gamma and tau chains
+1500741..1501046	+	101	58579614	-	ERWE_CDS_09500	-	COG0718S	hypothetical protein
+1501053..1502066	+	337	58579615	asd	ERWE_CDS_09510	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1503799..1505004	-	401	58579616	metK	ERWE_CDS_09520	-	COG0192H	S-adenosylmethionine synthetase
+1505785..1506957	+	390	58579617	-	ERWE_CDS_09530	-	COG0654HC	hypothetical protein
+1507842..1508423	-	193	58579618	-	ERWE_CDS_09540	-	-	hypothetical protein
+1508448..1508690	+	80	58579619	-	ERWE_CDS_09550	-	-	hypothetical protein
+1508784..1509626	+	280	58579620	glyQ	ERWE_CDS_09560	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+1509617..1511749	+	710	58579621	glyS	ERWE_CDS_09570	-	COG0751J	glycyl-tRNA synthetase beta chain
+1511814..1512962	+	382	58579622	dnaJ	ERWE_CDS_09580	-	COG0484O	molecular chaperone DnaJ

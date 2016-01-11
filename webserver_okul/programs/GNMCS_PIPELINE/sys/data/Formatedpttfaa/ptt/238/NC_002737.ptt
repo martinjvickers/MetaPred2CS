@@ -1,0 +1,1699 @@
+Streptococcus pyogenes SF370 chromosome, complete genome - 1..1852441
+1696 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+232..1587	+	451	15674251	dnaA	SPy_0002	-	COG0593L	chromosome replication initiator DnaA
+1742..2878	+	378	15674252	dnaN	SPy_0003	-	COG0592L	DNA polymerase III subunit beta
+2953..3150	+	65	15674253	-	SPy_0004	-	COG4481S	hypothetical protein
+3480..4595	+	371	15674254	-	SPy_0006	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+4665..5234	+	189	15674255	pth	SPy_0007	-	COG0193J	peptidyl-tRNA hydrolase
+5237..8740	+	1167	15674256	trcF	SPy_0008	-	COG1197LK	transcription-repair coupling factor
+8879..9175	+	98	15674257	-	SPy_0009	-	COG1188J	hypothetical protein
+9162..9533	+	123	15674258	divIC	SPy_0010	-	COG2919D	cell division protein DivIC
+9668..10954	+	428	15674259	-	SPy_0012	-	COG2367V	hypothetical protein
+10951..12237	+	428	15674260	-	SPy_0013	-	COG0037D	cell-cycle protein
+12806..14785	+	659	15674261	ftsH	SPy_0015	-	COG0465O	cell division protein
+15110..16501	+	463	15674262	-	SPy_0016	-	COG0531E	amino acid permease
+30546..31742	+	398	15674263	-	SPy_0019	-	COG3883S	hypothetical protein
+31995..32957	+	320	15674264	prsA.2	SPy_0020	-	COG0462FE	ribose-phosphate pyrophosphokinase
+33143..33898	+	251	15674265	recO	SPy_0021	-	COG1381L	DNA repair protein RecO
+34001..35008	+	335	15674266	plsX	SPy_0022	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+35001..35243	+	80	15674267	acpP.2	SPy_0023	-	COG0236IQ	acyl carrier protein
+35364..36098	+	244	15674268	purC	SPy_0024	-	COG0152F	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+36174..39947	+	1257	15674269	-	SPy_0025	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+40108..41562	+	484	15674270	purF	SPy_0026	-	COG0034F	amidophosphoribosyltransferase
+41590..42612	+	340	15674271	purM	SPy_0027	-	COG0150F	phosphoribosylaminoimidazole synthetase
+42780..43334	+	184	15674272	purN	SPy_0028	-	COG0299F	phosphoribosylglycinamide formyltransferase
+45123..46247	-	374	15674273	-	SPy_0031	-	COG3942R	choline binding protein
+46500..47765	+	421	15674274	purD	SPy_0032	-	COG0151F	phosphoribosylamine--glycine ligase
+48043..48534	+	163	15674275	purE	SPy_0033	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+48485..49594	+	369	15674276	purK	SPy_0034	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit
+49621..51264	+	547	15674277	abiR	SPy_0035	-	-	abortive infection phage resistance protein
+51282..52574	+	430	15674278	purB	SPy_0036	-	COG0015F	adenylosuccinate lyase
+52706..53617	+	303	15674279	-	SPy_0037	-	-	hypothetical protein
+53843..54841	+	332	15674280	ruvB	SPy_0038	-	COG2255L	Holliday junction DNA helicase RuvB
+54979..55416	+	145	15674281	-	SPy_0039	-	COG0394T	protein-tyrosine-phosphatase
+55439..55840	+	133	15674282	-	SPy_0040	-	COG4642S	hypothetical protein
+55837..57612	+	591	15674283	-	SPy_0041	-	COG1835I	acyltransferase
+60815..61831	+	338	15674284	adhA	SPy_0044	-	COG1064R	alcohol dehydrogenase
+62219..63511	+	430	15674285	-	SPy_0045	-	COG0534V	Na+ driven multidrug efflux pump
+63712..64020	+	102	15674286	rpsJ	SPy_0047	-	COG0051J	30S ribosomal protein S10
+64268..64894	+	208	15674287	rplC	SPy_0049	-	COG0087J	50S ribosomal protein L3
+64918..65541	+	207	15674288	rplD	SPy_0050	-	COG0088J	50S ribosomal protein L4
+65541..65837	+	98	15674289	rplW	SPy_0051	-	COG0089J	50S ribosomal protein L23
+65855..66688	+	277	15674290	rplB	SPy_0052	-	COG0090J	50S ribosomal protein L2
+66827..67105	+	92	15674291	rpsS	SPy_0053	-	COG0185J	30S ribosomal protein S19
+67121..67465	+	114	15674292	rplV	SPy_0055	-	COG0091J	50S ribosomal protein L22
+67478..68131	+	217	15674293	rpsC	SPy_0056	-	COG0092J	30S ribosomal protein S3
+68135..68548	+	137	15674294	rplP	SPy_0057	-	COG0197J	50S ribosomal protein L16
+68558..68764	+	68	15674295	rpmC	SPy_0059	-	COG0255J	50S ribosomal protein L29
+68790..69050	+	86	15674296	rpsQ	SPy_0060	-	COG0186J	30S ribosomal protein S17
+69075..69443	+	122	15674297	rplN	SPy_0061	-	COG0093J	50S ribosomal protein L14
+69522..69827	+	101	15674298	rplX	SPy_0062	-	COG0198J	50S ribosomal protein L24
+69851..70393	+	180	15674299	rplE	SPy_0063	-	COG0094J	50S ribosomal protein L5
+70409..70594	+	61	15674300	rpsN	SPy_0064	-	COG0199J	30S ribosomal protein S14
+70745..71143	+	132	15674301	rpsH	SPy_0065	-	COG0096J	30S ribosomal protein S8
+71346..71882	+	178	15674302	rplF	SPy_0066	-	COG0097J	50S ribosomal protein L6
+71987..72343	+	118	15674303	rplR	SPy_0067	-	COG0256J	50S ribosomal protein L18
+72362..72856	+	164	15674304	rpsE	SPy_0069	-	COG0098J	30S ribosomal protein S5
+72871..73053	+	60	15674305	rpmD	SPy_0071	-	COG1841J	50S ribosomal protein L30
+73267..73707	+	146	15674306	rplO	SPy_0072	-	COG0200J	50S ribosomal protein L15
+73724..75028	+	434	15674307	secY	SPy_0073	-	COG0201U	preprotein translocase subunit SecY
+75178..75816	+	212	15674308	adk	SPy_0074	-	COG0563F	adenylate kinase
+75934..76152	+	72	15674309	infA	SPy_0075	-	COG0361J	translation initiation factor IF-1
+76178..76294	+	38	15674310	rpmJ	SPy_0076	-	COG0257J	50S ribosomal protein L36
+76312..76677	+	121	15674311	rpsM	SPy_0077	-	COG0099J	30S ribosomal protein S13
+76695..77078	+	127	15674312	rpsK	SPy_0078	-	COG0100J	30S ribosomal protein S11
+77124..78062	+	312	15674313	rpoA	SPy_0080	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+78077..78463	+	128	15675947	rplQ	SPy_0080a	-	COG0203J	50S ribosomal protein L17
+85708..85893	+	61	15674314	-	SPy_0084	-	-	hypothetical protein
+87214..87657	+	147	15674315	adcR	SPy_0092	-	COG1846K	repressor protein
+87661..88380	+	239	15674316	adcC	SPy_0093	-	COG1121P	ABC transporter ATP-binding protein
+88373..89188	+	271	15674317	adcB	SPy_0094	-	COG1108P	ABC transporter permease
+89228..89611	-	127	15674318	-	SPy_0095	-	COG0537FGR	histidine triad (HIT) protein
+89662..90918	-	418	15674319	tyrS	SPy_0096	-	COG0162J	tyrosyl-tRNA synthetase
+91010..93322	+	770	15674320	pbp1b	SPy_0097	-	COG0744M	penicillin-binding protein 1b
+93586..97152	+	1188	15674321	rpoB	SPy_0098	-	COG0085K	DNA-directed RNA polymerase subunit beta
+97243..100884	+	1213	15674322	rpoC	SPy_0099	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+101036..101401	+	121	15674323	-	SPy_0100	-	COG4699S	DNA binding protein
+101494..102432	+	312	15674324	comYA	SPy_0101	-	COG2804NU	ABC transporter subunit ComYA
+102554..103402	+	282	15674325	comYB	SPy_0102	-	COG1459NU	competence protein, ABC transporter subunit
+103404..103730	+	108	15674326	comYC	SPy_0103	-	COG4537U	competence protein
+103705..104133	+	142	15674327	-	SPy_0104	-	COG2165NU	competence protein
+104138..104374	+	78	15674328	-	SPy_0105	-	-	hypothetical protein
+104367..104801	+	144	15674329	comYD	SPy_0106	-	COG4940U	competence protein
+104785..105111	+	108	15674330	-	SPy_0107	-	-	hypothetical protein
+105209..106162	+	317	15674331	-	SPy_0108	-	COG0827L	hypothetical protein
+106221..107417	+	398	15674332	ackA	SPy_0109	-	COG0282C	acetate kinase
+107604..107912	+	102	15674333	-	SPy_0110	-	-	hypothetical protein
+107995..108765	-	256	15674334	proC	SPy_0112	-	COG0345E	pyrroline-5-carboxylate reductase
+108813..109880	-	355	15674335	pepA	SPy_0115	-	COG1363G	glutamyl-aminopeptidase
+109990..110154	-	54	15674336	-	SPy_0116	-	-	hypothetical protein
+110345..110629	+	94	15674337	-	SPy_0117	-	-	hypothetical protein
+112394..113035	-	213	15674338	-	SPy_0121	-	COG1428F	deoxyguanosine kinase/deoxyadenosine kinase(I) subunit
+113055..114032	-	325	15674339	-	SPy_0122	-	COG0042J	tRNA-dihydrouridine synthase
+114019..114891	-	290	15674340	hslO	SPy_0123	-	COG1281O	heat shock protein 33
+115038..116531	-	497	15674341	rofA	SPy_0124	-	-	regulatory protein
+119222..119617	+	131	15674342	-	SPy_0127	-	-	signal peptidase I
+119650..120672	+	340	15674343	-	SPy_0128	-	-	hypothetical protein
+120682..121395	+	237	15674344	-	SPy_0129	-	COG4509S	hypothetical protein
+121417..122064	+	215	15674345	-	SPy_0130	-	-	hypothetical protein
+122251..123603	-	450	15674346	-	SPy_0131	-	COG3436L	hypothetical protein
+123814..124164	-	116	15674347	-	SPy_0133	-	COG3436L	hypothetical protein
+124468..125223	+	251	15674348	-	SPy_0135	-	COG3764M	sortase
+125417..126082	-	221	15674349	-	SPy_0136	-	-	hypothetical protein
+126461..127837	+	458	15674350	atoE	SPy_0137	-	COG2031I	short-chain fatty acids transporter
+128936..130120	+	394	15674351	-	SPy_0140	-	COG0183I	acetyl-CoA acetyltransferase
+130132..130791	+	219	15674352	atoD.2	SPy_0141	-	COG1788I	acetyl-CoA:acetoacetyl-CoA transferase subunit alpha
+130794..131441	+	215	15674353	-	SPy_0142	-	COG2057I	butyrate-acetoacetate CoA-transferase subunit beta
+131563..132243	-	226	15674354	-	SPy_0144	-	COG2964S	hypothetical protein
+132417..132782	+	121	15674355	-	SPy_0145	-	COG0251J	hypothetical protein
+132819..133838	+	339	15674356	-	SPy_0146	-	COG1299G	regulatory protein
+134293..134613	+	106	15674357	-	SPy_0147	-	-	hypothetical protein
+134603..136603	+	666	15674358	ntpI	SPy_0148	-	COG1269C	V-type ATP synthase subunit I
+136605..137084	+	159	15674359	ntpK	SPy_0149	-	COG0636C	V-type ATP synthase subunit K
+137152..137736	+	194	15674360	ntpE	SPy_0150	-	-	V-type Na+ -ATPase subunit E
+137752..138750	+	332	15674361	ntpC	SPy_0151	-	COG1527C	V-type Na+ -ATPase subunit C
+139268..141043	+	591	15674362	ntpA	SPy_0154	-	COG1155C	V-type ATP synthase subunit A
+141044..142459	+	471	15674363	ntpB	SPy_0155	-	COG1156C	V-type ATP synthase subunit B
+142504..143130	+	208	15674364	ntpD	SPy_0157	-	COG1394C	V-type ATP synthase subunit D
+143250..144512	-	420	15674365	-	SPy_0158	-	COG3853P	toxic anion resistance protein
+144525..145403	-	292	15674366	-	SPy_0159	-	-	hypothetical protein
+145841..147133	+	430	15674367	purA	SPy_0160	-	COG0104F	adenylosuccinate synthetase
+147475..148503	+	342	15674368	-	SPy_0163	-	COG1744R	ABC transporter lipoprotein
+148676..149215	+	179	15674369	nusG	SPy_0164	-	COG0250K	transcription antitermination protein NusG
+149587..150930	+	447	15674370	nga	SPy_0165	-	-	NAD glycohydrolase
+151064..151420	+	118	15674371	-	SPy_0166	-	-	hypothetical protein
+151444..153159	+	571	15674372	slo	SPy_0167	-	-	streptolysin O
+153409..153837	+	142	15674373	-	SPy_0168	-	-	hypothetical protein
+154039..154239	-	66	15674374	-	SPy_0169	-	-	hypothetical protein
+154651..154818	-	55	15674375	-	SPy_0170	-	-	hypothetical protein
+155003..155329	-	108	15674376	-	SPy_0171	-	-	hypothetical protein
+155813..156952	+	379	15674377	metB	SPy_0172	-	COG0626E	cystathionine beta-lyase
+157127..159628	+	833	15674378	leuS	SPy_0173	-	COG0495J	leucyl-tRNA synthetase
+159941..161368	+	475	15674379	ulaA	SPy_0174	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+161439..161717	+	92	15674380	-	SPy_0175	-	COG3414G	PTS system 3-keto-L-gulonate specific transporter subunit IIB
+161839..162324	+	161	15674381	-	SPy_0176	-	COG1762GT	PTS system 3-keto-L-gulonate specific transporter subunit IIA
+162415..163077	+	220	15674382	ulaD	SPy_0177	-	COG0269G	3-keto-L-gulonate-6-phosphate decarboxylase
+163082..163945	+	287	15674383	-	SPy_0178	-	COG3623G	L-xylulose 5-phosphate 3-epimerase
+163947..164651	+	234	15674384	araD	SPy_0179	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+164709..164855	+	48	15674385	-	SPy_0180	-	-	hypothetical protein
+164979..166622	+	547	15674386	-	SPy_0181	-	COG3711K	transcriptional regulator
+166875..167966	+	363	15674387	-	SPy_0182	-	COG2220R	L-ascorbate 6-phosphate lactonase
+168454..169650	+	398	15674388	opuAA	SPy_0183	-	COG4175E	glycine betaine/proline ABC transporter ATP-binding protein
+169666..171393	+	575	15674389	opuABC	SPy_0184	-	COG4176E	glycine-betaine binding permease
+171524..174166	+	880	15674390	polA	SPy_0185	-	COG0749L	DNA polymerase I
+174353..174808	+	151	15674391	-	SPy_0186	-	COG1832R	hypothetical protein
+174860..175327	+	155	15674392	spf	SPy_0187	-	COG0735P	ferric transport regulator protein
+175483..175782	+	99	15674393	vlg	SPy_0188	-	-	regulatory protein
+176004..177338	+	444	15674394	-	SPy_0189	-	COG3969R	hypothetical protein
+177331..177861	+	176	15674395	-	SPy_0190	-	COG1475K	hypothetical protein
+177854..178063	+	69	15674396	-	SPy_0191a	-	-	hypothetical protein
+179046..179339	-	97	15674397	-	SPy_0195	-	COG2963L	hypothetical protein
+179417..180727	-	436	15674398	-	SPy_0196	-	COG0471P	hypothetical protein
+180951..181823	+	290	15674399	nadC	SPy_0197	-	COG0157H	nicotinate-nucleotide pyrophosphorylase
+182123..182929	-	268	15674400	-	SPy_0198	-	COG2801L	transposase, IS861
+182950..183465	-	171	15674401	-	SPy_0199	-	COG2963L	hypothetical protein
+183551..184414	-	287	15674402	-	SPy_0201	-	COG5523S	hypothetical protein
+184633..185775	+	380	15674403	tgt	SPy_0203	-	COG0343J	queuine tRNA-ribosyltransferase
+185992..186303	+	103	15674404	-	SPy_0205	-	COG4357S	hypothetical protein
+186307..186846	+	179	15674405	-	SPy_0207	-	COG1268R	biotin synthase
+186986..187765	+	259	15674406	-	SPy_0208	-	COG1234R	hypothetical protein
+188894..190126	-	410	15674407	-	SPy_0210	-	COG5279D	hypothetical protein
+190526..191230	+	234	15674408	speG	SPy_0212	-	-	exotoxin G
+191686..193035	+	449	15674409	pgi	SPy_0215	-	COG0166G	glucose-6-phosphate isomerase
+193384..194892	-	502	15674410	-	SPy_0216	-	-	regulatory protein
+196574..196678	+	34	15674411	-	SPy_0219	-	-	hypothetical protein
+196863..197564	+	233	15674412	-	SPy_0223	-	COG0705R	hypothetical protein
+197663..198562	-	299	15674413	hasC.2	SPy_0224	-	COG1210M	UDP-glucose pyrophosphorylase
+198595..199611	-	338	15674414	gpsA	SPy_0226	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+199909..200118	+	69	15674415	-	SPy_0227	-	-	hypothetical protein
+200127..200360	+	77	15674416	-	SPy_0228	-	-	hypothetical protein
+200353..202059	+	568	15674417	-	SPy_0229	-	COG1132V	ABC transporter ATP-binding protein
+202062..203846	+	594	15674418	-	SPy_0230	-	COG1132V	ABC transporter ATP-binding protein
+203963..204730	+	255	15674419	-	SPy_0233	-	COG1636S	hypothetical protein
+204840..205286	+	148	15674420	dut	SPy_0235	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+205367..206728	+	453	15674421	sms	SPy_0236	-	COG1066O	DNA repair protein RadA
+206917..207414	+	165	15674422	-	SPy_0237	-	COG0288P	hypothetical protein
+207560..208255	+	231	15674423	-	SPy_0238	-	COG2013S	hypothetical protein
+208437..209882	+	481	15674424	gltX	SPy_0239	-	COG0008J	glutamyl-tRNA synthetase
+210277..211623	+	448	15674425	-	SPy_0242	-	COG2972T	histidine kinase
+211620..212903	+	427	15674426	-	SPy_0244	-	COG2972T	histidine kinase
+212907..213647	+	246	15674427	-	SPy_0245	-	COG3279KT	response regulator
+214187..214546	+	119	15674428	rnpA	SPy_0246	-	COG0594J	ribonuclease P
+214512..215339	+	275	15674429	-	SPy_0247	-	COG0706U	hypothetical protein
+215351..216265	+	304	15674430	-	SPy_0248	-	COG1847R	hypothetical protein
+216580..216714	+	44	15674431	rpmH	SPy_0250	-	-	50S ribosomal protein L34
+216988..217692	+	234	15674432	-	SPy_0251	-	COG3010G	N-acetylmannosamine-6-phosphate 2-epimerase
+217741..219060	+	439	15674433	-	SPy_0252	-	COG1653G	N-acetylneuraminate-binding protein
+219088..220050	+	320	15674434	-	SPy_0254	-	COG1175G	N-acetylneuraminate ABC transporter permease
+220063..220893	+	276	15674435	-	SPy_0255	-	COG0395G	N-acetylneuraminate ABC transporter permease
+221050..221712	+	220	15674436	-	SPy_0256	-	COG5578S	hypothetical protein
+221724..222638	+	304	15674437	nanH	SPy_0257	-	COG0329EM	N-acetylneuraminate lyase
+222660..223598	+	312	15674438	-	SPy_0258	-	COG1940KG	glucose kinase
+223709..224539	-	276	15674439	-	SPy_0259	-	COG1737K	hypothetical protein
+224791..225615	+	274	15674440	-	SPy_0260	-	COG0084L	hypothetical protein
+225608..226177	+	189	15674441	-	SPy_0261	-	COG1658L	hypothetical protein
+226291..227163	+	290	15674442	ksgA	SPy_0262	-	COG0030J	dimethyladenosine transferase
+227587..228459	+	290	15674443	-	SPy_0263	-	COG1162R	ribosome-associated GTPase
+228469..229131	+	220	15674444	rpe	SPy_0264	-	COG0036G	ribulose-phosphate 3-epimerase
+229124..229756	+	210	15674445	-	SPy_0265	-	COG1564H	hypothetical protein
+229758..231029	+	423	15674446	-	SPy_0266	-	COG1322S	hypothetical protein
+231019..231957	+	312	15674447	cbf	SPy_0267	-	COG3481R	CMP-binding factor
+232224..233063	+	279	15674448	purR	SPy_0268	-	COG0503F	pur operon repressor
+233054..235675	+	873	15674449	prgA	SPy_0269	-	COG1196D	surface exclusion protein
+235883..236296	+	137	15674450	rpsL	SPy_0271	-	COG0048J	30S ribosomal protein S12
+236317..236787	+	156	15674451	rpsG	SPy_0272	-	COG0049J	30S ribosomal protein S7
+237154..239232	+	692	15674452	fus	SPy_0273	-	COG0480J	elongation factor G
+239580..240590	+	336	15674453	plr	SPy_0274	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+241074..241814	-	246	15674454	-	SPy_0276	-	COG1126E	amino acid ABC transporter ATP-binding protein
+241807..243375	-	522	15674455	-	SPy_0277	-	COG0765E	glutamine-binding periplasmic protein
+243573..245471	+	632	15674456	-	SPy_0278	-	COG4907S	hypothetical protein
+245537..246376	+	279	15674457	uppP	SPy_0280	-	COG1968V	undecaprenyl pyrophosphate phosphatase
+246522..247283	+	253	15674458	mecA	SPy_0281	-	COG4862OTN	adaptor protein
+247290..248459	+	389	15674459	rgpG	SPy_0282	-	COG0472M	hypothetical protein
+248581..249351	+	256	15674460	-	SPy_0285	-	COG0396O	ABC transporter ATP-binding protein
+249446..250708	+	420	15674461	-	SPy_0287	-	COG0719O	hypothetical protein
+250739..251965	+	408	15674462	-	SPy_0288	-	COG0520E	aminotransferase
+251952..252431	+	159	15674463	-	SPy_0289	-	COG0822C	NifU protein
+252424..253842	+	472	15674464	-	SPy_0290	-	COG0719O	hypothetical protein
+255343..256575	-	410	15674465	dacA	SPy_0292	-	COG1686M	D-alanyl-D-alanine carboxypeptidase
+258941..260443	+	500	15674466	oppB	SPy_0294	-	COG0601EP	oligopeptidepermease
+260443..261369	+	308	15674467	oppC	SPy_0295	-	COG1173EP	oligopeptidepermease
+261378..262448	+	356	15674468	oppD	SPy_0296	-	COG0444EP	oligopeptidepermease ATP-binding protein
+262441..263364	+	307	15674469	oppF	SPy_0297	-	COG1123R	oligopeptidepermease
+269686..270237	+	183	15674470	comX1.1	SPy_0300	-	-	competence protein
+270848..271981	+	377	15674471	-	SPy_0303	-	COG5433L	IS1548 transposase
+272087..272671	+	194	15674472	-	SPy_0305	-	COG2179R	hypothetical protein
+272671..273789	+	372	15674473	-	SPy_0306	-	COG1161R	GTP-binding protein YqeH
+273814..274122	+	102	15674474	-	SPy_0307	-	COG1534J	hypothetical protein
+274191..274823	+	210	15674475	nadD	SPy_0308	-	COG1057H	nicotinic acid mononucleotide adenylyltransferase
+274820..275413	+	197	15674476	-	SPy_0309	-	COG1713H	hypothetical protein
+275413..275790	+	125	15674477	-	SPy_0310	-	COG0799S	iojap protein family
+275790..276581	+	263	15674478	-	SPy_0312	-	COG2226H	hypothetical protein
+276835..277941	+	368	15674479	-	SPy_0314	-	COG1323R	hypothetical protein
+278293..278433	+	46	15674480	-	SPy_0315	-	-	hypothetical protein
+278423..279139	+	238	15674481	-	SPy_0316	-	COG0217S	hypothetical protein
+279342..280184	+	280	15674482	-	SPy_0317	-	COG0834ET	ABC transporter substrate-binding protein
+280513..281358	+	281	15674483	-	SPy_0319	-	COG1464P	ABC transporter substrate-binding protein
+281608..282672	+	354	15674484	-	SPy_0320	-	COG1135P	ABC transporter ATP-binding protein
+282704..283366	+	220	15674485	-	SPy_0321	-	COG2011P	ABC transporter permease
+283420..284790	-	456	15674486	braB	SPy_0323	-	COG1114E	branched-chain amino acid transport protein
+285024..286238	+	404	15674487	-	SPy_0324	-	COG3633E	serine/threonine transporter SstT
+286293..286967	-	224	15674488	-	SPy_0326	-	COG0569P	hypothetical protein
+286977..288368	-	463	15674489	ntpJ	SPy_0327	-	COG0168P	V-type Na+ -ATPase subunit J
+288438..289151	-	237	15674490	gidB	SPy_0329	-	COG0357M	16S rRNA methyltransferase GidB
+289301..289858	+	185	15674491	lemA	SPy_0330	-	COG1704S	cytoplasmic membrane protein
+289905..290801	+	298	15674492	htpX	SPy_0331	-	COG0501O	heat shock protein HtpX
+291032..291568	+	178	15674493	-	SPy_0334	-	COG1399R	hypothetical protein
+292527..294029	+	500	15674494	csrS	SPy_0337	-	COG0642T	sensory transduction histidine kinase
+294244..294738	+	164	15674495	nrdR	SPy_0338	-	COG1327K	transcriptional regulator NrdR
+294722..295897	+	391	15674496	-	SPy_0339	-	COG3611L	hypothetical protein
+295898..296800	+	300	15674497	dnaI	SPy_0340	-	COG1484L	primosomal protein DnaI
+296863..298173	+	436	15674498	engA	SPy_0341	-	COG1160R	GTP-binding protein EngA
+298380..301478	+	1032	15674499	snf	SPy_0342	-	COG0553KL	SNF helicase
+301721..302323	+	200	15674500	-	SPy_0343	-	-	hypothetical protein
+302363..303691	+	442	15674501	murC	SPy_0345	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+303737..304219	+	160	15674502	-	SPy_0346	-	COG0456R	arylalkylamine n-acetyltransferase
+304331..305905	+	524	15674503	-	SPy_0348	-	COG1559R	aminodeoxychorismate lyase
+305930..306460	+	176	15674504	greA	SPy_0349	-	COG0782K	transcription elongation factor GreA
+307083..308006	-	307	15674505	-	SPy_0351	-	COG0706U	OxaA-like protein
+308088..308366	-	92	15674506	-	SPy_0352	-	COG1254C	acylphosphatase
+309941..310678	+	245	15674507	-	SPy_0356	-	COG0566J	23S rRNA methyltransferase
+310717..311217	+	166	15674508	-	SPy_0357	-	COG1418R	hypothetical protein
+311232..311921	+	229	15674509	-	SPy_0358	-	COG0670R	hypothetical protein
+312099..312341	+	80	15674510	-	SPy_0359	-	COG3763S	hypothetical protein
+312519..313313	+	264	15674511	glr	SPy_0361	-	COG0796M	glutamate racemase
+313310..314296	+	328	15674512	-	SPy_0362	-	COG0127F	deoxyribonucleotide triphosphate pyrophosphatase/hypothetical protein
+314275..314796	+	173	15674513	-	SPy_0363	-	COG0622R	phosphoesterase
+314793..315254	+	153	15674514	-	SPy_0364	-	COG4109K	hypothetical protein
+315251..315997	+	248	15674515	xerD	SPy_0365	-	COG4974L	site-specific tyrosine recombinase XerD
+315997..316698	+	233	15674516	scpA	SPy_0366	-	COG1354S	segregation and condensation protein A
+316695..317246	+	183	15674517	scpB	SPy_0367	-	COG1386K	segregation and condensation protein B
+317369..318091	+	240	15674518	-	SPy_0369	-	COG1187J	hypothetical protein
+318091..318351	+	86	15674519	-	SPy_0370	-	COG0759S	hypothetical protein
+318529..319077	+	182	15674520	-	SPy_0371	-	COG0219J	23S rRNA methyltransferase
+319388..319951	+	187	15674521	-	SPy_0373	-	COG3601S	hypothetical protein
+319953..320606	+	217	15674522	-	SPy_0374	-	COG0671I	hypothetical protein
+320899..321819	+	306	15674523	-	SPy_0376	-	COG1242R	hypothetical protein
+321858..322412	+	184	15674524	-	SPy_0377	-	COG0144J	SAM-dependent methyltransferase
+322545..323879	+	444	15674525	hlyX	SPy_0378	-	COG1253R	hemolysin
+323957..324748	+	263	15674526	pflC	SPy_0379	-	COG1180O	pyruvate formate-lyase activating protein
+324879..325814	+	311	15674527	-	SPy_0380	-	COG1227C	manganese-dependent inorganic pyrophosphatase
+325890..326543	+	217	15674528	-	SPy_0382	-	-	hypothetical protein
+326588..327625	-	345	15674529	fhuG	SPy_0383	-	COG0609P	ferrichrome ABC transporter permease
+327698..328618	-	306	15674530	fhuB.1	SPy_0384	-	COG0609P	ferrichrome ABC transporter permease
+328629..329561	-	310	15674531	fhuD	SPy_0385	-	COG0614P	ferrichrome ABC transporter substrate-binding protein
+329587..330369	-	260	15674532	fhuA	SPy_0386	-	COG1120PH	ferrichrome ABC transporter ATP-binding protein
+330615..332060	-	481	15674533	murE	SPy_0388	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+332148..333782	+	544	15674534	-	SPy_0390	-	COG2244R	hypothetical protein
+333950..334579	+	209	15674535	upp	SPy_0392	-	COG0035F	uracil phosphoribosyltransferase
+334548..334682	+	44	15674536	-	SPy_0393	-	-	hypothetical protein
+334803..335393	+	196	15674537	clpP	SPy_0395	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+335885..336160	+	91	15674538	-	SPy_0397	-	COG4471S	hypothetical protein
+336409..337044	+	211	15674539	tmk	SPy_0399	-	COG0125F	thymidylate kinase
+337062..337937	+	291	15674540	-	SPy_0400	-	COG0470L	DNA polymerase III subunit delta'
+337956..338195	+	79	15674541	-	SPy_0401	-	-	hypothetical protein
+338600..338923	+	107	15674542	-	SPy_0405	-	COG4467S	DNA replication intiation control protein YabA
+338928..339791	+	287	15674543	-	SPy_0406	-	COG0313R	hypothetical protein
+339818..340210	+	130	15674544	-	SPy_0407	-	-	hypothetical protein
+340257..340886	-	209	15674545	-	SPy_0408	-	COG3142P	hypothetical protein
+341233..341541	+	102	15674546	-	SPy_0410	-	COG1393P	arsenate reductase
+341615..342442	-	275	15674547	exoA	SPy_0412	-	COG0708L	3'-exo-deoxyribonuclease
+342670..343857	+	395	15674548	lctO	SPy_0414	-	COG1304C	L-lactate oxidase
+344120..349063	+	1647	15674549	prtS	SPy_0416	-	COG1404O	cell envelope proteinase
+349834..350541	+	235	15674550	-	SPy_0421	-	COG3619S	hypothetical protein
+350781..352781	+	666	15674551	metG	SPy_0422	-	COG0143J	methionyl-tRNA synthetase
+353276..354289	+	337	15674552	nrdF	SPy_0425	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+354293..354781	+	162	15674553	nrdI	SPy_0426	-	COG1780F	ribonucleotide reductase stimulatory protein
+354748..356928	+	726	15674554	nrdE.1	SPy_0427	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+357122..357874	-	250	15674555	-	SPy_0428	-	COG5585T	hypothetical protein
+358315..358869	+	184	15674556	-	SPy_0430	-	-	hypothetical protein
+358959..359177	-	72	15674557	-	SPy_0431	-	-	hypothetical protein
+359143..359394	+	83	15674558	-	SPy_0432	-	-	hypothetical protein
+359488..360120	-	210	15674559	-	SPy_0433	-	-	hypothetical protein
+360799..361119	+	106	15674560	-	SPy_0435	-	-	hypothetical protein
+361432..362130	-	232	15674561	speJ	SPy_0436	-	-	exotoxin
+362378..362992	-	204	15674562	-	SPy_0437	-	-	hypothetical protein
+363353..363589	+	78	15674563	-	SPy_0439	-	-	hypothetical protein
+363582..364280	+	232	15674564	fabG	SPy_0440	-	COG1028IQR	3-ketoacyl-ACP reductase
+364356..365315	+	319	15674565	-	SPy_0441	-	COG0673R	NAD-dependent oxidoreductase
+365648..366985	+	445	15674566	-	SPy_0442	-	COG2271G	glycerol-3-phosphate transporter
+367158..368540	+	460	15674567	glmU	SPy_0443	-	COG1207M	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+368571..369125	+	184	15674568	-	SPy_0444	-	COG0494LR	hypothetical protein
+369125..369376	+	83	15674569	-	SPy_0446	-	-	hypothetical protein
+369396..370091	+	231	15674570	pfs	SPy_0447	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+370242..370583	+	113	15674571	-	SPy_0448	-	-	hypothetical protein
+370684..371331	-	215	15674572	-	SPy_0450	-	COG1321K	metal-dependent transcriptional regulator
+371477..372409	+	310	15674573	mtsA	SPy_0453	-	COG0803P	ABC transporter metal binding protein
+372473..373198	+	241	15674574	mtsB	SPy_0454	-	COG1121P	ABC transporter ATP-binding protein
+373199..374053	+	284	15674575	mtsC	SPy_0456	-	COG1108P	ABC transporter permease
+374201..375007	-	268	15674576	-	SPy_0457	-	COG0652O	cyclophilin-type protein
+375224..377629	+	801	15674577	-	SPy_0458	-	COG1674D	hypothetical protein
+377699..378052	-	117	15674578	-	SPy_0459	-	-	hypothetical protein
+378296..378721	+	141	15674579	rplK	SPy_0460	-	COG0080J	50S ribosomal protein L11
+378827..379516	+	229	15674580	rplA	SPy_0461	-	COG0081J	50S ribosomal protein L1
+379839..380567	+	242	15674581	pyrH	SPy_0462	-	COG0528F	uridylate kinase
+380596..381153	+	185	15674582	frr	SPy_0463	-	COG0233J	ribosome recycling factor
+381262..382119	+	285	15674583	-	SPy_0464	-	COG2996S	hypothetical protein
+382192..382701	+	169	15674584	msrA.2	SPy_0466	-	COG0225O	methionine sulfoxide reductase A
+382698..382913	+	71	15674585	-	SPy_0467	-	COG4479S	hypothetical protein
+383069..384238	+	389	15674586	-	SPy_0469	-	-	hypothetical protein
+384552..386324	+	590	15674587	-	SPy_0470	-	COG4716S	hypothetical protein
+386483..387535	+	350	15674588	phoH	SPy_0471	-	COG1702T	phosphate starvation-induced protein
+387581..388156	+	191	15674589	-	SPy_0472	-	COG1573L	hypothetical protein
+388315..388812	+	165	15674590	-	SPy_0473	-	COG0319R	metalloprotease
+388793..389200	+	135	15674591	dgk	SPy_0475	-	COG0818M	diacylglycerol kinase
+389320..390216	+	298	15674592	era	SPy_0476	-	COG1159R	GTP-binding protein Era
+390236..390712	+	158	15674593	-	SPy_0477	-	COG1051F	hypothetical protein
+391017..391271	-	84	15674594	-	SPy_0478	-	-	hypothetical protein
+391669..391914	+	81	15674595	-	SPy_0479	-	-	hypothetical protein
+391929..392111	+	60	15674596	-	SPy_0480	-	-	hypothetical protein
+393535..393735	+	66	15674597	-	SPy_0484	-	-	hypothetical protein
+394029..394223	+	64	15674598	-	SPy_0486	-	-	hypothetical protein
+394716..395711	+	331	15674599	-	SPy_0488	-	-	hypothetical protein
+395756..396202	+	148	15674600	-	SPy_0489	-	-	hypothetical protein
+396550..396819	-	89	15674601	-	SPy_0492	-	-	hypothetical protein
+397890..398756	+	288	15674602	mutR	SPy_0496	-	-	positive transcriptional regulator
+398928..399755	+	275	15674603	fpg	SPy_0497	-	COG0266L	formamidopyrimidine-DNA glycosylase
+399752..400345	+	197	15674604	coaE	SPy_0498	-	COG0237H	dephospho-CoA kinase
+400535..402037	+	500	15674605	-	SPy_0500	-	COG0433R	ATPase
+402159..403352	+	397	15674606	-	SPy_0501	-	COG2814G	multi-drug resistance efflux pump
+403541..403777	+	78	15674607	secG	SPy_0502	-	COG1314U	preprotein translocase subunit SecG
+403871..406204	+	777	15674608	-	SPy_0503	-	COG0557K	exoribonuclease R
+406207..406674	+	155	15674609	smpB	SPy_0504	-	COG0691O	SsrA-binding protein
+406680..407399	+	239	15674610	-	SPy_0505	-	COG3823O	glutamine cyclotransferase
+407515..408162	-	215	15674611	pcp	SPy_0506	-	COG2039O	pyrrolidone-carboxylate peptidase
+408212..409138	-	308	15674612	-	SPy_0507	-	COG3817S	hypothetical protein
+409138..409821	-	227	15674613	-	SPy_0508	-	COG3819S	hypothetical protein
+410032..410958	-	308	15674614	-	SPy_0510	-	COG0463M	sugar transferase
+411103..411480	-	125	15674615	gloA	SPy_0511	-	COG0346E	lactoylglutathione lyase
+411491..412156	-	221	15674616	-	SPy_0512	-	COG0778C	NAD(P)H-dependent quinone reductase
+412205..413290	-	361	15674617	pepQ	SPy_0513	-	COG0006E	Xaa-Pro dipeptidase
+413464..414465	+	333	15674618	ccpA	SPy_0514	-	COG1609K	catabolite control protein A
+414596..415594	+	332	15674619	-	SPy_0515	-	COG0438M	sugar transferase
+415596..416930	+	444	15674620	-	SPy_0516	-	COG0438M	1,2-diacylglycerol 3-glucosyltransferase
+417352..419295	+	647	15674621	thrS	SPy_0517	-	COG0441J	threonyl-tRNA synthetase
+419436..420428	+	330	15674622	-	SPy_0518	-	COG4586R	ABC transporter ATP-binding protein
+420430..421248	+	272	15674623	-	SPy_0519	-	COG4587R	hypothetical protein
+421250..422035	+	261	15674624	-	SPy_0521	-	COG3694R	ABC transporter permease
+422780..423928	+	382	15674625	-	SPy_0524	-	COG0183I	acetyl-CoA c-acetyltransferase
+423885..425132	+	415	15674626	-	SPy_0526	-	COG0318IQ	hypothetical protein
+425227..426222	+	331	15674627	-	SPy_0527	-	-	hypothetical protein
+426384..427094	+	236	15674628	vicR	SPy_0528	-	COG0745TK	two-component response regulator
+427087..428439	+	450	15674629	vicK	SPy_0529	-	COG5002T	two-component sensor histidine kinase
+428443..429252	+	269	15674630	vicX	SPy_0530	-	COG1235R	hypothetical protein
+429696..430388	+	230	15674631	rnc	SPy_0531	-	COG0571K	ribonuclease III
+430389..433928	+	1179	15674632	smc	SPy_0532	-	COG1196D	chromosome segregation protein SMC
+434181..435032	-	283	15674633	-	SPy_0533	-	-	positive regulator
+435252..436178	+	308	15674634	aroE	SPy_0534	-	COG0169E	shikimate 5-dehydrogenase
+436175..437011	+	278	15674635	-	SPy_0535	-	COG1082G	hypothetical protein
+437013..437747	+	244	15674636	-	SPy_0536	-	COG1478S	hypothetical protein
+437740..438726	+	328	15674637	-	SPy_0537	-	COG0673R	hypothetical protein
+438736..439935	+	399	15674638	-	SPy_0538	-	COG1812E	S-adenosylmethionine synthetase
+439919..440887	+	322	15674639	-	SPy_0539	-	COG1493T	hypothetical protein
+440942..441931	+	329	15674640	-	SPy_0540	-	COG0463M	hypothetical protein
+442624..443781	+	385	15674641	-	SPy_0542	-	COG1004M	UDP-glucose 6-dehydrogenase
+443866..445074	+	402	15674642	-	SPy_0543	-	COG2270R	efflux protein
+445177..445386	-	69	15674643	-	SPy_0544	-	COG3655K	hypothetical protein
+445376..446221	-	281	15674644	-	SPy_0545	-	-	hypothetical protein
+446306..447034	-	242	15674645	-	SPy_0546	-	-	hypothetical protein
+447025..447249	-	74	15674646	-	SPy_0547	-	-	hypothetical protein
+447249..448343	-	364	15674647	-	SPy_0549	-	-	hypothetical protein
+448362..448676	+	104	15674648	-	SPy_0550	-	COG3077L	hypothetical protein
+448673..448996	+	107	15674649	-	SPy_0552	-	COG3668R	hypothetical protein
+449015..449287	+	90	15674650	-	SPy_0553	-	-	hypothetical protein
+449392..449844	+	150	15674651	-	SPy_0555	-	COG4695S	portal protein
+449886..450224	+	112	15674652	-	SPy_0556	-	-	hypothetical protein
+450638..450979	+	113	15674653	-	SPy_0558	-	COG3177S	hypothetical protein
+451003..451827	+	274	15674654	-	SPy_0559	-	COG0017J	asparagine synthetase A
+451805..453088	+	427	15674655	-	SPy_0560	-	COG0439I	hypothetical protein
+455717..456754	-	345	15674656	tnpA	SPy_0565	-	COG2801L	transposase
+457059..457856	+	265	15674657	-	SPy_0567	-	COG0561R	hypothetical protein
+457860..458684	+	274	15674658	-	SPy_0568	-	COG0561R	hypothetical protein
+458684..460234	+	516	15674659	ftsY	SPy_0569	-	COG0552U	signal recognition particle protein
+460288..461655	-	455	15674660	-	SPy_0570	-	COG2814G	drug resistance protein
+461983..462825	+	280	15674661	licT	SPy_0571	-	COG3711K	transcription antiterminator
+462827..464689	+	620	15674662	-	SPy_0572	-	COG1263G	PTS system beta-glucoside-specific transporter subunit IIABC
+464708..466132	+	474	15674663	bglA	SPy_0574	-	COG2723G	6-phospho-beta-glucosidase
+466231..467046	-	271	15674664	-	SPy_0575	-	COG3689S	hypothetical protein
+467046..467948	-	300	15674665	-	SPy_0576	-	COG0701R	hypothetical protein
+468082..468279	+	65	15674666	-	SPy_0578	-	-	hypothetical protein
+468096..468251	-	51	15674667	-	SPy_0577	-	-	hypothetical protein
+468485..470617	+	710	15674668	-	SPy_0580	-	COG2183K	hypothetical protein
+470604..471041	+	145	15674669	-	SPy_0581	-	COG3091S	hypothetical protein
+471105..471377	+	90	15674670	-	SPy_0583	-	COG1983KT	hypothetical protein
+471682..472674	+	330	161378152	ptsK	SPy_0584	-	COG1493T	HPr kinase/phosphorylase
+472671..473450	+	259	15674672	lgt	SPy_0585	-	COG0682M	prolipoprotein diacylglyceryl transferase
+473472..473879	+	135	15674673	-	SPy_0587	-	COG4768R	hypothetical protein
+473872..474300	+	142	15674674	-	SPy_0588	-	-	hypothetical protein
+474460..474744	-	94	15674675	-	SPy_0589	-	-	hypothetical protein
+474943..475869	+	308	15674676	-	SPy_0590	-	COG0826O	protease
+475960..477246	+	428	15674677	-	SPy_0591	-	COG0826O	protease
+477456..477668	+	70	15674678	-	SPy_0593	-	COG4443S	hypothetical protein
+478041..479534	-	497	15674679	lysS	SPy_0595	-	COG1190J	lysyl-tRNA synthetase
+479708..480610	+	300	15674680	-	SPy_0596	-	COG1011R	hypothetical protein
+480718..481341	-	207	15674681	-	SPy_0598	-	COG0406G	phosphoglycerate mutase
+481682..482161	-	159	15674682	-	SPy_0599	-	COG2606S	transcriptional regulator
+482252..482815	-	187	15674683	-	SPy_0600	-	COG3859S	hypothetical protein
+483084..483932	-	282	15674684	-	SPy_0601	-	COG3757M	N-acetylmuramoyl-L-alanine amidase
+484257..484760	+	167	15674685	-	SPy_0603	-	-	hypothetical protein
+484744..485130	+	128	15674686	-	SPy_0604	-	-	hypothetical protein
+485176..485655	-	159	15674687	bsaA	SPy_0605	-	COG0386O	glutathione peroxidase
+485648..487447	-	599	15674688	pepF	SPy_0606	-	COG1164E	oligopeptidase
+487642..490404	+	920	15674689	ppc	SPy_0608	-	COG2352C	phosphoenolpyruvate carboxylase
+490544..491848	+	434	15674690	ftsW	SPy_0609	-	COG0772D	cell division protein
+492202..493398	+	398	15674691	tuf	SPy_0611	-	COG0050J	elongation factor Tu
+493639..494397	+	252	15674692	tpiA	SPy_0613	-	COG0149G	triosephosphate isomerase
+494496..495731	-	411	15674693	murN	SPy_0615	-	COG2348V	peptidoglycan branched peptide synthesis protein
+495718..496944	-	408	15674694	murM	SPy_0616	-	COG2348V	peptidoglycan branched peptide synthesis protein
+496944..497753	-	269	15674695	-	SPy_0617	-	COG0561R	hypothetical protein
+497904..498137	-	77	15674696	-	SPy_0619	-	-	hypothetical protein
+498209..499510	-	433	15674697	-	SPy_0621	-	COG1078R	hypothetical protein
+499592..499978	+	128	15674698	-	SPy_0622	-	COG4506S	hypothetical protein
+500209..502890	+	893	15674699	pacL	SPy_0623	-	COG0474P	calcium-transporting ATPase
+502974..503969	-	331	15674700	regR	SPy_0627	-	COG1609K	LacI family transcriptional regulator
+504033..505940	-	635	15674701	-	SPy_0628	-	-	hypothetical protein
+506027..506848	-	273	15674702	agaD	SPy_0629	-	COG3716G	PTS system N-acetylgalactosamine-specific transporter subunit IID
+506835..507617	-	260	15674703	agaW	SPy_0630	-	COG3715G	PTS system N-acetylgalactosamine-specific transporter subunit IIC
+507636..508124	-	162	15674704	agaV	SPy_0631	-	COG3444G	PTS system N-acetylgalactosamine-specific transporter subunit IIB
+508160..509359	-	399	15674705	ugl	SPy_0632	-	COG4225R	unsaturated glucuronyl hydrolase
+509359..509796	-	145	15674706	agaF	SPy_0634	-	COG2893G	PTS system N-acetyl-galactosamine- and galactosamine transporrter subunit IIA
+510132..510926	+	264	15674707	idnO	SPy_0636	-	COG1028IQR	gluconate 5-dehydrogenase
+510951..511592	+	213	15674708	-	SPy_0637	-	COG0698G	hypothetical protein
+511621..512622	+	333	15674709	kdgK	SPy_0638	-	COG0524G	2-dehydro-3-deoxygluconokinase
+512627..513262	+	211	15674710	kgdA	SPy_0639	-	COG0800G	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+513552..514208	+	218	15674711	-	SPy_0640	-	COG0637R	hypothetical protein
+514849..516024	+	391	15674712	-	SPy_0642	-	COG1600C	(Fe-S)-binding protein
+516178..517191	+	337	15674713	prfB	SPy_0643	-	COG1186J	peptide chain release factor 2
+517210..517902	+	230	15674714	ftsE	SPy_0644	-	COG2884D	cell-division ATP-binding protein
+517886..518824	+	312	15674715	ftsX	SPy_0645	-	COG2177D	cell-division protein
+519134..519832	-	232	15674716	-	SPy_0646	-	COG0491R	hypothetical protein
+520872..523373	+	833	15674717	dinG	SPy_0649	-	COG1199KL	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon
+523708..524901	+	397	15674718	aspC	SPy_0650	-	COG0436E	aspartate aminotransferase
+524922..526268	+	448	15674719	asnC	SPy_0651	-	COG0017J	asparaginyl-tRNA synthetase
+526682..527572	+	296	15674720	-	SPy_0652	-	COG1660R	hypothetical protein
+527569..528546	+	325	15674721	-	SPy_0653	-	COG0391S	hypothetical protein
+528543..529454	+	303	15674722	-	SPy_0654	-	COG1481S	hypothetical protein
+529631..531046	-	471	15674723	int1	SPy_0655	-	COG1961L	integrase
+531167..531532	-	121	15674724	-	SPy_0656	-	-	hypothetical protein
+531559..532320	-	253	15674725	-	SPy_0657	-	COG2932K	cI-like repressor
+532504..532734	+	76	15674726	-	SPy_0658	-	-	Cro-like protein
+532803..532940	+	45	15674727	-	SPy_0659	-	-	hypothetical protein
+532942..533067	+	41	15674728	-	SPy_0660	-	-	hypothetical protein
+533064..533291	+	75	15674729	-	SPy_0661	-	-	hypothetical protein
+533291..534610	+	439	15674730	-	SPy_0663	-	COG0419L	hypothetical protein
+534625..535716	+	363	15674731	-	SPy_0664	-	-	hypothetical protein
+535756..536178	+	140	15674732	-	SPy_0665	-	-	hypothetical protein
+536180..536914	+	244	15674733	-	SPy_0666	-	-	hypothetical protein
+536936..537571	+	211	15674734	-	SPy_0667	-	-	hypothetical protein
+537571..539154	+	527	15674735	-	SPy_0669	-	COG1061KL	DEAD/DEAH box helicase
+539164..539793	+	209	15674736	-	SPy_0670	-	-	hypothetical protein
+539783..542056	+	757	15674737	-	SPy_0671	-	COG3598L	hypothetical protein
+542334..542552	+	72	15674738	-	SPy_0672	-	-	hypothetical protein
+542545..542940	+	131	15674739	-	SPy_0673	-	COG4570L	phage associated protein
+542937..543158	+	73	15674740	-	SPy_0674	-	-	hypothetical protein
+543435..544070	+	211	15674741	-	SPy_0676	-	COG0286V	phage associated protein
+544343..544777	+	144	15674742	-	SPy_0677	-	-	phage associated protein
+545087..546253	+	388	15674743	-	SPy_0679	-	COG0863L	phage associated protein
+546596..547072	+	158	15674744	-	SPy_0680	-	-	hypothetical protein
+547155..548366	+	403	15674745	-	SPy_0681	-	-	hypothetical protein
+548380..549882	+	500	15674746	-	SPy_0682	-	-	minor capsid protein
+549887..551380	+	497	15674747	-	SPy_0683	-	-	minor capsid protein
+551380..551607	+	75	15674748	-	SPy_0684	-	-	hypothetical protein
+551694..551960	+	88	15674749	-	SPy_0685	-	-	hypothetical protein
+552086..552700	+	204	15674750	-	SPy_0686	-	COG3264M	hypothetical protein
+552704..553522	+	272	15674751	-	SPy_0688	-	-	major head protein
+553576..553992	+	138	15674752	-	SPy_0689	-	-	hypothetical protein
+553982..554314	+	110	15674753	-	SPy_0690	-	-	hypothetical protein
+554314..554670	+	118	15674754	-	SPy_0691	-	-	hypothetical protein
+554667..555065	+	132	15674755	-	SPy_0693	-	-	minor capsid protein
+555065..555460	+	131	15674756	-	SPy_0694	-	-	major tail shaft protein
+555589..556023	+	144	15674757	-	SPy_0695	-	-	hypothetical protein
+556027..556608	+	193	15674758	-	SPy_0696	-	-	phage associated protein
+556598..559858	+	1086	15674759	-	SPy_0697	-	COG1340S	hypothetical protein
+559855..560571	+	238	15674760	-	SPy_0698	-	COG4722S	hypothetical protein
+560568..562712	+	714	15674761	-	SPy_0700	-	COG4926S	hypothetical protein
+562709..563722	+	337	15674762	hylP1	SPy_0701	-	-	phage associated hyaluronidase
+563737..565623	+	628	15674763	-	SPy_0702	-	COG3206M	hypothetical protein
+565635..566066	+	143	15674764	-	SPy_0703	-	-	hypothetical protein
+566069..566686	+	205	15674765	-	SPy_0705	-	-	hypothetical protein
+566696..566971	+	91	15674766	-	SPy_0706	-	-	hypothetical protein
+566968..567195	+	75	15674767	-	SPy_0707	-	COG5546S	holin
+567311..568513	+	400	15674768	-	SPy_0710	-	COG1705NU	phage associated protein
+568581..569288	-	235	15674769	speC	SPy_0711	-	-	pyrogenic exotoxin C
+569399..570157	-	252	15674770	mf2	SPy_0712	-	-	DNAse
+570469..571887	+	472	15674771	pepD	SPy_0713	-	COG4690E	dipeptidase
+572039..573586	+	515	15674772	adcA	SPy_0714	-	COG3443R	adhesion protein
+573734..574456	+	240	15674773	-	SPy_0715	-	COG2188K	GntR family transcriptional regulator
+574475..575674	+	399	15674774	agaS	SPy_0716	-	COG2222M	tagatose-6-phosphate aldose/ketose isomerase
+575771..576031	-	86	15674775	rpmE2	SPy_0717	-	COG0254J	50S ribosomal protein L31
+576146..577087	-	313	15674776	-	SPy_0720	-	COG0618R	hypothetical protein
+577481..577930	+	149	15674777	-	SPy_0721	-	COG0716C	flavodoxin
+578106..578390	+	94	15674778	-	SPy_0722	-	COG1605E	hypothetical protein
+578383..579645	+	420	15674779	-	SPy_0723	-	COG0038P	transposase
+579760..580107	+	115	15674780	rplS	SPy_0724	-	COG0335J	50S ribosomal protein L19
+581119..581679	+	186	15674781	-	SPy_0726	-	COG0546R	hypothetical protein
+581680..583632	+	650	15674782	gyrB	SPy_0727	-	COG0187L	DNA gyrase subunit B
+584000..585724	+	574	15674783	-	SPy_0728	-	COG4477D	septation ring formation regulator EzrA
+585856..586314	-	152	15674784	-	SPy_0729	-	COG5506S	hypothetical protein
+586541..587848	+	435	15674785	eno	SPy_0731	-	COG0148G	phosphopyruvate hydratase
+588374..588964	-	196	15674786	-	SPy_0732	-	COG3547L	hypothetical protein
+589013..589264	-	83	15674787	-	SPy_0733	-	-	hypothetical protein
+591680..597817	+	2045	15674788	epf	SPy_0737	-	COG5271R	extracellular matrix binding protein
+598682..598843	+	53	15674789	sagA	SPy_0738	-	-	streptolysin S associated protein
+599065..600015	+	316	15674790	sagB	SPy_0739	-	COG0778C	streptolysin S associated ORF
+600012..601070	+	352	15674791	sagC	SPy_0740	-	-	streptolysin S associated ORF
+601090..602448	+	452	15674792	-	SPy_0741	-	COG1944S	hypothetical protein
+602423..603094	+	223	15674793	-	SPy_0742	-	COG1266R	hypothetical protein
+603091..603774	+	227	15674794	-	SPy_0743	-	-	hypothetical protein
+603797..604720	+	307	15674795	-	SPy_0744	-	COG1131V	ABC transporter ATP-binding protein
+604729..605856	+	375	15674796	sagH	SPy_0745	-	COG1668CP	ABC transporter ATP-binding protein
+605853..606971	+	372	15674797	-	SPy_0746	-	COG0842V	ABC transporter ATP-binding protein
+607542..610274	+	910	15674798	-	SPy_0747	-	COG2374R	hypothetical protein
+610552..611052	+	166	15674799	-	SPy_0749	-	COG4708S	hypothetical protein
+611246..613204	+	652	15674800	ligA	SPy_0751	-	COG0272L	NAD-dependent DNA ligase LigA
+613218..614240	+	340	15674801	-	SPy_0752	-	COG1597IR	lipid kinase
+614633..614830	+	65	15674802	atpE	SPy_0754	-	COG0636C	ATP synthase F0F1 subunit C
+614865..615581	+	238	15674803	atpB	SPy_0755	-	COG0356C	ATP synthase F0F1 subunit A
+615599..616093	+	164	15674804	atpF	SPy_0756	-	COG0711C	ATP synthase F0F1 subunit B
+616093..616629	+	178	15674805	atpH	SPy_0757	-	COG0712C	ATP synthase F0F1 subunit delta
+616645..618153	+	502	15674806	atpA	SPy_0758	-	COG0056C	ATP synthase F0F1 subunit alpha
+618169..619044	+	291	15674807	atpG	SPy_0759	-	COG0224C	ATP synthase F0F1 subunit gamma
+619206..620612	+	468	15674808	atpD	SPy_0760	-	COG0055C	ATP synthase F0F1 subunit beta
+620625..621041	+	138	15674809	atpC	SPy_0761	-	COG0355C	ATP synthase F0F1 subunit epsilon
+621307..621564	+	85	15674810	-	SPy_0762	-	-	hypothetical protein
+621629..622900	+	423	15674811	-	SPy_0763	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+622904..623092	+	62	15674812	epuA	SPy_0764	-	-	hypothetical protein
+623186..623668	+	160	15674813	endA	SPy_0766	-	-	nuclease
+623951..624994	+	347	161378151	pheS	SPy_0768	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+625204..627609	+	801	15674815	pheT	SPy_0769	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+627719..628096	+	125	15674816	-	SPy_0770	-	COG1765O	hypothetical protein
+628089..628475	+	128	15674817	-	SPy_0771	-	COG3272S	hypothetical protein
+628548..629624	+	358	15674818	-	SPy_0772	-	COG0577V	hypothetical protein
+629634..630302	+	222	15674819	-	SPy_0773	-	COG1136V	ABC transporter ATP-binding protein
+630404..631321	-	305	15674820	-	SPy_0775	-	COG2321R	hypothetical protein
+631472..634687	+	1071	15674821	rexB	SPy_0776	-	COG3857L	ATP-dependent nuclease subunit B
+634684..638316	+	1210	15674822	rexA	SPy_0777	-	COG1074L	ATP-dependent exonuclease subunit A
+638456..639268	+	270	15674823	-	SPy_0778	-	COG0834ET	ABC transporter substrate-binding protein
+639409..639585	+	58	15674824	rpsU	SPy_0779	-	-	30S ribosomal protein S21
+639713..640075	-	120	15674825	mscL	SPy_0780	-	COG1970M	large conductance mechanosensitive channel
+640206..642020	+	604	15674826	dnaG	SPy_0781	-	COG0358L	DNA primase
+642029..643138	+	369	15674827	rpoD	SPy_0782	-	COG0568K	RNA polymerase sigma factor RpoD
+643374..643712	+	112	15674828	-	SPy_0783	-	COG2151R	hypothetical protein
+643850..644704	+	284	15674829	rmlD	SPy_0784	-	COG1091M	dTDP-4-keto-L-rhamnose reductase
+644823..645977	+	384	15674830	rgpAc	SPy_0786	-	COG0438M	hypothetical protein
+645967..646899	+	310	15674831	rgpBc	SPy_0787	-	COG0463M	alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+646944..647705	+	253	15674832	rgpCc	SPy_0789	-	COG1682GM	ABC transporter permease
+647705..648910	+	401	15674833	rgpDc	SPy_0790	-	COG1134GM	ABC transporter ATP-binding protein
+648935..649942	+	335	15674834	rgpEc	SPy_0791	-	COG0463M	glycosyltransferase
+649939..651684	+	581	15674835	rgpFc	SPy_0792	-	COG3754M	hypothetical protein
+651681..654155	+	824	15674836	-	SPy_0793	-	COG1368M	hypothetical protein
+654334..655029	+	231	15674837	-	SPy_0794	-	COG0463M	glycosyl transferase family protein
+655031..655372	+	113	15674838	-	SPy_0796	-	-	hypothetical protein
+655365..656651	+	428	15674839	-	SPy_0797	-	COG2244R	hypothetical protein
+656632..658128	+	498	15674840	-	SPy_0798	-	COG4713S	hypothetical protein
+658222..659445	+	407	15674841	pepT	SPy_0799	-	COG2195E	peptidase T
+659486..659974	+	162	15674842	-	SPy_0800	-	-	pore-forming peptide
+659961..660158	-	65	15674843	-	SPy_0801	-	COG1141C	ferredoxin
+660207..660683	+	158	15674844	-	SPy_0802	-	-	hypothetical protein
+660698..661378	+	226	15674845	cmk	SPy_0803	-	COG0283F	cytidylate kinase
+661540..662070	+	176	15674846	infC	SPy_0804	-	COG0290J	translation initiation factor IF-3
+662112..662309	+	65	15674847	rpmI	SPy_0805	-	COG0291J	50S ribosomal protein L35
+662368..662727	+	119	15674848	rplT	SPy_0806	-	COG0292J	50S ribosomal protein L20
+663018..665228	-	736	15674849	-	SPy_0807	-	COG1368M	hypothetical protein
+665336..666499	+	387	15674850	-	SPy_0808	-	COG1092R	hypothetical protein
+666496..667182	+	228	15674851	aroD	SPy_0809	-	COG0710E	3-dehydroquinate dehydratase
+667276..668442	+	388	15674852	aroF	SPy_0810	-	COG0082E	chorismate synthase
+668503..668844	+	113	15674853	-	SPy_0811	-	COG3679S	hypothetical protein
+669065..670417	+	450	15674854	gor	SPy_0813	-	COG1249C	glutathione reductase
+670505..671773	-	422	15674855	folC.2	SPy_0814	-	COG0285H	folyl-polyglutamate synthetase
+671803..672243	-	146	15674856	-	SPy_0815	-	-	hypothetical protein
+672478..673599	+	373	15674857	-	SPy_0816	-	COG1104E	iron-sulfur cofactor synthesis protein
+673633..674847	+	404	15674858	thiI	SPy_0817	-	COG0301H	thiamine biosynthesis protein ThiI
+674885..676177	+	430	15674859	-	SPy_0818	-	COG2843M	hypothetical protein
+676391..676705	+	104	15674860	rplU	SPy_0819	-	COG0261J	50S ribosomal protein L21
+676717..677043	+	108	15674861	-	SPy_0821	-	COG2868J	hypothetical protein
+677071..677364	+	97	15674862	rpmA	SPy_0822	-	COG0211J	50S ribosomal protein L27
+677712..678626	+	304	15674863	-	SPy_0824	-	COG0583K	capsular polysaccharide biosynthesis protein
+678623..679081	+	152	15674864	lsp	SPy_0826	-	COG0597MU	lipoprotein signal peptidase
+679071..679961	+	296	15674865	-	SPy_0827	-	COG0564J	hypothetical protein
+680357..680878	+	173	15674866	pyrR	SPy_0830	-	COG2065F	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+680894..682153	+	419	15674867	pyrP	SPy_0831	-	COG2233F	uracil permease
+682214..683149	+	311	15674868	pyrB	SPy_0832	-	COG0540F	aspartate carbamoyltransferase
+683193..684275	+	360	15674869	carA	SPy_0833	-	COG0505EF	carbamoyl phosphate synthase small subunit
+684501..687677	+	1058	15674870	carB	SPy_0835	-	COG0458EF	carbamoyl phosphate synthase large subunit
+687884..689155	+	423	15674871	-	SPy_0836	-	COG0845M	hypothetical protein
+689179..689865	+	228	15674872	-	SPy_0837	-	COG1136V	ABC transporter ATP-binding protein
+689877..691097	+	406	15674873	-	SPy_0838	-	COG0577V	ABC transporter permease
+691351..693084	+	577	15674874	-	SPy_0839	-	COG4781C	glycerophosphodiester phosphodiesterase
+693211..693483	+	90	15674875	rpsP	SPy_0840	-	COG0228J	30S ribosomal protein S16
+693493..693732	+	79	15674876	-	SPy_0841	-	COG1837R	RNA binding protein
+694643..697669	+	1008	15674877	-	SPy_0843	-	-	hypothetical protein
+697689..698090	+	133	15674878	-	SPy_0844	-	COG3576R	hypothetical protein
+698270..699145	-	291	15674879	czcD	SPy_0845	-	COG1230P	cation-efflux system membrane protein
+699281..699802	+	173	15674880	-	SPy_0846	-	COG1309K	hypothetical protein
+700017..700535	+	172	15674881	rimM	SPy_0847	-	COG0806J	16S rRNA-processing protein RimM
+700525..701256	+	243	15674882	trmD	SPy_0849	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+701256..702248	+	330	15674883	-	SPy_0850	-	COG0492O	thioredoxin reductase
+702426..703484	+	352	15674884	-	SPy_0851	-	COG3641R	regulatory protein
+703497..704420	+	307	15674885	apbA	SPy_0852	-	COG1893H	2-dehydropantoate 2-reductase
+704676..705389	+	237	15674886	-	SPy_0853	-	COG1349KG	transcriptional repressor
+705386..706297	+	303	15674887	fruB	SPy_0854	-	COG1105G	fructose-1-phosphate kinase
+706294..708240	+	648	15674888	-	SPy_0855	-	COG1299G	PTS system fructose-specific transporter subunit IIABC
+708333..708932	+	199	15674889	mur1.1	SPy_0856	-	COG1705NU	peptidoglycan hydrolase
+709084..709791	+	235	15674890	mur1.2	SPy_0857	-	COG1705NU	peptidoglycan hydrolase
+710747..711766	-	339	15674891	-	SPy_0861	-	-	hypothetical protein
+712669..713049	+	126	15674892	-	SPy_0864	-	COG4835S	hypothetical protein
+713049..713897	+	282	15674893	-	SPy_0865	-	COG1307S	hypothetical protein
+714037..715230	+	397	15674894	papS	SPy_0866	-	COG0617J	tRNA CCA-pyrophosphorylase
+715227..717104	+	625	15674895	-	SPy_0867	-	COG0488R	ABC transporter ATP-binding protein
+717997..718407	+	136	15674896	fms	SPy_0870	-	COG0242J	peptide deformylase
+718489..720501	-	670	15674897	-	SPy_0872	-	COG0737F	5'-nucleotidase
+720721..721371	+	216	15674898	-	SPy_0873	-	COG2357S	GTP pyrophosphokinase
+721374..722042	+	222	15674899	-	SPy_0874	-	COG0745TK	two-component response regulator
+722051..723283	+	410	15674900	-	SPy_0875	-	COG0642T	two-component sensory transduction histidine kinase
+723562..724455	+	297	15674901	mvaK1	SPy_0876	-	COG1577I	mevalonate kinase
+724437..725381	+	314	15674902	mvaD	SPy_0877	-	COG3407I	mevalonate pyrophosphate decarboxylase
+725374..726381	+	335	15674903	mvaK2	SPy_0878	-	COG1577I	phosphomevalonate kinase
+726374..727363	+	329	15674904	-	SPy_0879	-	COG1304C	isopentenyl pyrophosphate isomerase
+727593..728870	-	425	15674905	mvaS.1	SPy_0880	-	COG1257I	3-hydroxy-3-methylglutaryl-coenzyme A
+728857..730032	-	391	15674906	mvaS.2	SPy_0881	-	COG3425I	3-hydroxy-3-methylglutaryl-CoA synthase
+730241..731080	+	279	15674907	thyA	SPy_0882	-	COG0207F	thymidylate synthase
+731160..731657	+	165	15674908	dyr	SPy_0883	-	COG0262H	dihydrofolate reductase
+731677..731847	+	56	15674909	-	SPy_0884	-	-	hypothetical protein
+731977..733206	+	409	15674910	clpX	SPy_0885	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+733216..733815	+	199	15674911	engB	SPy_0886	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+733963..734706	+	247	15674912	-	SPy_0887	-	-	hypothetical protein
+734764..736863	-	699	15674913	clpL	SPy_0888	-	COG0542O	ATP-dependent Clp proteinase ATP-binding subunit
+737243..737926	+	227	15674914	rpiA	SPy_0889	-	COG0120G	ribose-5-phosphate isomerase A
+738003..739214	+	403	15674915	deoB	SPy_0890	-	COG1015G	phosphopentomutase
+739233..739673	+	146	15674916	arsC	SPy_0891	-	COG1393P	arsenate reductase
+739657..740466	+	269	15674917	punA	SPy_0892	-	COG0005F	purine nucleoside phosphorylase
+741129..741842	+	237	15674918	deoD	SPy_0894	-	COG0813F	purine nucleoside phosphorylase
+741835..742623	+	262	15674919	-	SPy_0895	-	-	histidine protein kinase
+742702..743607	-	301	15674920	cpsY	SPy_0898	-	COG0583K	transcriptional regulator
+743829..744365	+	178	15674921	-	SPy_0899	-	-	hypothetical protein
+744642..745334	+	230	15674922	pyrF	SPy_0900	-	COG0284F	orotidine 5'-phosphate decarboxylase
+745392..746021	+	209	15674923	pyrE	SPy_0901	-	COG0461F	orotate phosphoribosyltransferase
+746218..747672	+	484	15674924	amiC	SPy_0902	-	COG0154J	amidase
+747754..748653	+	299	15674925	-	SPy_0903	-	COG0834ET	ABC transporter binding protein
+748682..749332	+	216	15674926	-	SPy_0904	-	COG0765E	ABC transporter permease
+749465..750118	+	217	15674927	ung	SPy_0905	-	COG0692L	uracil-DNA glycosylase
+750250..751518	+	422	15674928	pyrC	SPy_0907	-	COG0044F	dihydroorotase
+751576..752217	-	213	15674929	-	SPy_0908	-	COG0344S	glycerol-3-phosphate acyltransferase PlsY
+752349..754301	+	650	15674930	parE	SPy_0909	-	COG0187L	DNA topoisomerase IV subunit B
+754392..756851	+	819	15674931	parC	SPy_0910	-	COG0188L	DNA topoisomerase IV subunit A
+756974..757996	+	340	15674932	bcaT	SPy_0911	-	COG0115EH	branched-chain amino acid aminotransferase
+758060..758290	+	76	15674933	-	SPy_0912	-	-	hypothetical protein
+758681..759886	+	401	15674934	rpsA	SPy_0913	-	COG0539J	30S ribosomal protein S1
+760433..760735	-	100	15674935	-	SPy_0914	-	-	hypothetical protein
+760934..761920	+	328	15674936	-	SPy_0915	-	COG1054R	hypothetical protein
+761991..762182	+	63	15674937	-	SPy_0916	-	-	hypothetical protein
+762231..762650	+	139	15674938	-	SPy_0917	-	COG0625O	hypothetical protein
+762887..763795	+	302	15674939	-	SPy_0918	-	COG1275P	exfoliative toxin
+763913..764089	-	58	15674940	-	SPy_0919	-	-	hypothetical protein
+764223..765122	+	299	15674941	miaA	SPy_0921	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+765195..766433	+	412	15674942	-	SPy_0922	-	COG2262R	GTP-binding protein
+766426..767061	+	211	15674943	-	SPy_0923	-	COG4468G	hypothetical protein
+767076..768005	+	309	15674944	-	SPy_0924	-	COG1234R	ribonuclease Z
+768005..768769	+	254	15674945	-	SPy_0925	-	COG0300R	oxidoreductase
+768766..770976	+	736	15674946	recJ	SPy_0926	-	COG0608L	ssDNA-binding protein
+771127..771645	+	172	15674947	apt	SPy_0927	-	COG0503F	adenine phosphoribosyltransferase
+771726..772409	+	227	15674948	-	SPy_0928	-	COG3935L	hypothetical protein
+772406..773062	+	218	15674949	nth	SPy_0929	-	COG0177L	endonuclease III
+773134..773820	+	228	15674950	-	SPy_0930	-	COG2384R	hypothetical protein
+773810..774598	+	262	15674951	-	SPy_0931	-	COG0327S	hypothetical protein
+774638..775744	+	368	15674952	-	SPy_0932	-	COG0665E	oxidoreductase
+775802..776671	+	289	15674953	cpsFO	SPy_0933	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+776671..777264	+	197	15674954	cpsFP	SPy_0935	-	COG1898M	dTDP-4-dehydrorhamnose 3,5-epimerase
+777508..778548	+	346	15674955	cpsFQ	SPy_0936	-	COG1088M	dTDP-glucose 4,6-dehydratase
+778642..779781	-	379	15674956	int3	SPy_0937	-	COG4974L	integrase
+780035..780844	-	269	15674957	-	SPy_0938	-	-	hypothetical protein
+780857..781603	-	248	15674958	-	SPy_0939	-	COG2932K	repressor protein
+781793..781951	+	52	15674959	-	SPy_0940	-	-	hypothetical protein
+782130..782969	-	279	15674960	-	SPy_0942	-	-	hypothetical protein
+783029..783169	+	46	15674961	-	SPy_0943	-	-	hypothetical protein
+783087..783314	-	75	15674962	-	SPy_0944	-	-	hypothetical protein
+783388..783594	+	68	15674963	-	SPy_0945	-	-	hypothetical protein
+783634..784362	+	242	15674964	-	SPy_0946	-	COG3561K	P1-type antirepressor
+784394..784660	+	88	15674965	-	SPy_0947	-	-	hypothetical protein
+784595..785401	-	268	15674966	-	SPy_0948	-	-	hypothetical protein
+785543..785779	-	78	15674967	-	SPy_0949	-	-	hypothetical protein
+786231..786416	+	61	15674968	-	SPy_0952	-	-	hypothetical protein
+786899..787285	+	128	15674969	-	SPy_0953	-	COG3935L	hypothetical protein
+787266..787499	+	77	15674970	-	SPy_0954	-	-	hypothetical protein
+787645..787851	+	68	15674971	-	SPy_0956	-	-	hypothetical protein
+787907..788236	+	109	15674972	-	SPy_0957	-	-	hypothetical protein
+788239..789030	+	263	15674973	-	SPy_0958	-	-	hypothetical protein
+789040..789705	+	221	15674974	-	SPy_0959	-	-	hypothetical protein
+789709..790068	+	119	15674975	-	SPy_0960	-	-	hypothetical protein
+790264..790602	+	112	15674976	-	SPy_0961	-	-	hypothetical protein
+790599..791111	+	170	15674977	-	SPy_0962	-	-	hypothetical protein
+791288..791533	+	81	15674978	-	SPy_0963	-	-	hypothetical protein
+791585..792046	+	153	15674979	-	SPy_0965	-	-	hypothetical protein
+792496..792936	+	146	15674980	-	SPy_0967	-	-	hypothetical protein
+793251..794165	+	304	15674981	-	SPy_0968	-	-	hypothetical protein
+794184..794645	+	153	15674982	-	SPy_0970	-	-	hypothetical protein
+794673..795155	+	160	15674983	-	SPy_0971	-	COG3728L	terminase, small subunit
+795133..796422	+	429	15674984	-	SPy_0972	-	COG1783R	terminase large subunit
+797917..799542	+	541	15674985	-	SPy_0975	-	COG5585T	hypothetical protein
+799533..799712	+	59	15674986	-	SPy_0976	-	-	hypothetical protein
+799772..800041	+	89	15674987	-	SPy_0977	-	-	hypothetical protein
+800131..800301	+	56	15674988	-	SPy_0978	-	-	hypothetical protein
+800430..800678	+	82	15674989	-	SPy_0979	-	-	hypothetical protein
+800680..801426	+	248	15674990	-	SPy_0980	-	COG3617K	phage associated antirepressor
+801538..802071	+	177	15674991	-	SPy_0981	-	-	hypothetical protein
+802081..802461	+	126	15674992	-	SPy_0982	-	-	structural protein
+802464..803513	+	349	15674993	-	SPy_0984	-	-	hypothetical protein
+803525..803791	+	88	15674994	-	SPy_0985	-	-	hypothetical protein
+803803..804156	+	117	15674995	-	SPy_0986	-	-	hypothetical protein
+804153..804461	+	102	15674996	-	SPy_0987	-	-	hypothetical protein
+804442..804807	+	121	15674997	-	SPy_0988	-	-	hypothetical protein
+804804..805193	+	129	15674998	-	SPy_0989	-	-	hypothetical protein
+805290..805856	+	188	15674999	-	SPy_0991	-	-	structural protein
+805916..806269	+	117	15675000	-	SPy_0992	-	-	hypothetical protein
+806311..806640	+	109	15675001	-	SPy_0993	-	-	hypothetical protein
+806655..810290	+	1211	15675002	-	SPy_0994	-	COG5412S	minor tail protein
+810323..811102	+	259	15675003	-	SPy_0995	-	COG4722S	hypothetical protein
+811099..813147	+	682	15675004	-	SPy_0996	-	COG0466O	hypothetical protein
+813147..814265	+	372	15675005	hylP2	SPy_0997	-	-	phage associated hyaluronidase
+814278..816188	+	636	15675006	-	SPy_0998	-	-	hypothetical protein
+816202..816363	+	53	15675007	-	SPy_0999	-	-	hypothetical protein
+816366..816977	+	203	15675008	-	SPy_1001	-	-	hypothetical protein
+816988..817284	+	98	15675009	-	SPy_1002	-	-	hypothetical protein
+817578..818912	+	444	15675010	lys	SPy_1006	-	COG3757M	lysin
+819186..819863	+	225	15675011	speI	SPy_1007	-	-	streptococcal exotoxin I
+819889..820599	+	236	15675012	speH	SPy_1008	-	-	exotoxin H
+821203..821679	+	158	15675013	mutX	SPy_1010	-	COG1051F	7,8-dihydro-8-oxoguanine-triphosphatase
+821737..822918	+	393	15675014	-	SPy_1011	-	COG0628R	hypothetical protein
+822908..824155	+	415	15675015	-	SPy_1012	-	COG2956G	hypothetical protein
+824214..825866	-	550	15675016	fbp	SPy_1013	-	COG1293K	fibronectin-binding protein-like protein A
+826220..827218	+	332	15675017	-	SPy_1016	-	COG2984R	hypothetical protein
+827223..827387	+	54	15675018	-	SPy_1017	-	-	hypothetical protein
+827564..828433	+	289	15675019	-	SPy_1018	-	COG4120R	ABC transport protein permease
+828430..829188	+	252	15675020	-	SPy_1019	-	COG1101R	ABC transporter ATP-binding protein
+829392..831053	+	553	15675021	-	SPy_1020	-	COG0595R	Zn-dependent hydrolase
+831186..831971	+	261	15675022	estA	SPy_1022	-	COG0627R	tributyrin esterase
+832001..832327	+	108	15675023	-	SPy_1024	-	-	hypothetical protein
+832373..834280	+	635	15675024	-	SPy_1025	-	COG0488R	ABC transporter ATP-binding protein
+834565..835533	+	322	15675025	acoA	SPy_1026	-	COG1071C	acetoin dehydrogenase (TPP-dependent) subunit alpha
+835592..836590	+	332	15675026	acoB	SPy_1028	-	COG0022C	acetoin dehydrogenase (TPP-dependent) subunit beta
+836775..838184	+	469	15675027	acoC	SPy_1029	-	COG0508C	branched-chain alpha-keto acid dehydrogenase E2 subunit
+838511..840274	+	587	15675028	acoL	SPy_1031	-	COG1249C	dihydrolipoamide dehydrogenase, component E3
+840948..843365	-	805	15675029	hylA	SPy_1032	-	-	hyaluronate lyase
+843598..844587	+	329	15675030	-	SPy_1033	-	COG0095H	lipoate-protein ligase
+844696..845487	-	263	15675031	-	SPy_1034	-	COG3442R	hypothetical protein
+845487..846824	-	445	15675032	-	SPy_1035	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+846937..847788	+	283	15675033	-	SPy_1036	-	COG1624S	hypothetical protein
+847785..848741	+	318	15675034	-	SPy_1037	-	COG4856S	hypothetical protein
+848795..850150	+	451	15675035	glmM	SPy_1038	-	COG1109G	phosphoglucosamine mutase
+850284..850925	+	213	15675036	-	SPy_1039	-	-	hypothetical protein
+850988..852118	+	376	15675037	hemN	SPy_1040	-	COG0635H	coproporphyrinogen III oxidase
+852312..852881	+	189	15675038	-	SPy_1042	-	COG3884I	hypothetical protein
+852881..853645	+	254	15675039	-	SPy_1043	-	COG0647G	hypothetical protein
+853645..854277	+	210	15675040	-	SPy_1044	-	COG4478S	hypothetical protein
+854757..858863	+	1368	15675041	-	SPy_1046	-	COG3513S	hypothetical protein
+858863..859732	+	289	15675042	-	SPy_1047	-	COG1518L	hypothetical protein
+859729..860070	+	113	15675043	-	SPy_1048	-	COG3512S	hypothetical protein
+860060..860722	+	220	15675044	-	SPy_1049	-	-	hypothetical protein
+861900..863732	+	610	15675045	lepA	SPy_1053	-	COG0481M	GTP-binding protein LepA
+863979..864860	+	293	15675046	-	SPy_1054	-	-	hypothetical protein
+865046..865483	+	145	15675047	csrA	SPy_1055	-	COG0229O	methionine sulfoxide reductase B
+865598..866617	+	339	15675048	-	SPy_1056	-	COG2855S	hypothetical protein
+866824..867249	+	141	15675049	-	SPy_1057	-	COG2893G	PTS system mannose/fructose family transporter subunit IIA
+867268..867759	+	163	15675050	-	SPy_1058	-	COG3444G	PTS system mannose/fructose family transporter subunit IIB
+867794..868585	+	263	15675051	-	SPy_1059	-	COG3715G	PTS system mannose/fructose family transporter subunit IIC
+868582..869409	+	275	15675052	-	SPy_1060	-	COG3716G	PTS system mannose/fructose family transporter subunit IID
+869545..871194	+	549	15675053	-	SPy_1061	-	COG2972T	two-component sensor histidine kinase
+871198..871986	+	262	15675054	-	SPy_1062	-	COG4753T	two-component response regulator
+872055..873026	+	323	15675055	-	SPy_1063	-	COG1840P	periplasmic-iron-binding protein
+873123..873470	+	115	15675056	-	SPy_1064	-	COG0727R	hypothetical protein
+873805..874371	+	188	15675057	-	SPy_1065	-	COG0110R	acetyltransferase
+874375..875076	+	233	15675058	-	SPy_1066	-	COG1011R	hypothetical protein
+875171..876568	+	465	15675059	gabD	SPy_1067	-	COG1012C	succinate-semialdehyde dehydrogenase
+876670..878466	+	598	15675060	uvrC	SPy_1068	-	COG0322L	excinuclease ABC subunit C
+878651..879253	+	200	15675061	-	SPy_1069	-	COG0778C	NAD(P)H-dependent quinone reductase
+879378..880787	+	469	15675062	-	SPy_1070	-	COG0624E	dipeptidase PepV
+880855..882231	-	458	15675063	trmE	SPy_1071	-	COG0486R	tRNA modification GTPase TrmE
+882564..883064	+	166	15675064	rplJ	SPy_1072	-	COG0244J	50S ribosomal protein L10
+883129..883494	+	121	15675065	rplL	SPy_1073	-	COG0222J	50S ribosomal protein L7/L12
+884024..884392	+	122	15675066	-	SPy_1075	-	-	hypothetical protein
+884567..884890	+	107	15675067	-	SPy_1077	-	COG0270L	methyl transferase
+885728..886375	+	215	15675068	srtI	SPy_1080	-	-	lantibiotic (srt) production protein
+886526..887212	+	228	15675069	srtR	SPy_1081	-	COG0745TK	DNA binding regulatory protein
+887205..888551	+	448	15675070	srtK	SPy_1082	-	COG0642T	histidine kinase
+888699..888839	+	46	15675071	srtA	SPy_1083	-	-	lantibiotic
+888954..889571	+	205	15675072	srtT	SPy_1084	-	COG1132V	lantibiotic associated ABC transporter ATP-binding protein
+889653..890342	+	229	15675073	srtF	SPy_1085	-	COG1131V	lantibiotic associated ABC transporter ATP-binding protein
+890348..891097	+	249	15675074	srtE	SPy_1086	-	-	hypothetical protein
+891100..891822	+	240	15675075	srtG	SPy_1087	-	COG4200S	hypothetical protein
+892014..892232	+	72	15675076	-	SPy_1088	-	COG1396K	repressor protein
+894068..895303	+	411	15675077	-	SPy_1093	-	COG1686M	D,D-carboxypeptidase, penicillin-binding protein
+895420..896382	-	320	15675078	-	SPy_1094	-	COG0726G	hypothetical protein
+896714..897991	+	425	15675079	folC.1	SPy_1096	-	COG0285H	folyl-polyglutamate synthetase
+898002..898604	+	200	15675080	folE	SPy_1097	-	COG0302H	GTP cyclohydrolase I
+898613..899413	+	266	15675081	folP	SPy_1098	-	COG0294H	dihydropteroate synthase
+899420..899779	+	119	15675082	folQ	SPy_1099	-	COG1539H	dihydroneopterin aldolase
+899776..900276	+	166	15675083	folK	SPy_1100	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+900426..901313	+	295	15675084	murB	SPy_1101	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+901359..902513	+	384	15675085	potA	SPy_1102	-	COG3842E	sperimidine/putrescine ABC transporter ATP-binding protein
+902497..903291	+	264	15675086	potB	SPy_1103	-	COG1176E	spermidine / putrescine ABC transporter permease
+903288..904064	+	258	15675087	potC	SPy_1104	-	COG1177E	spermidine/putrescine ABC transporter permease
+904057..905130	+	357	15675088	potD	SPy_1105	-	COG0687E	spermidine/putrescine ABC transporter periplasmic transport protein
+905185..905850	-	221	15675089	-	SPy_1106	-	COG4565KT	two-component response regulator
+905831..907372	-	513	15675090	-	SPy_1107	-	COG3290T	two-component sensor histidine kinase
+907533..908864	+	443	15675091	malP	SPy_1109	-	COG3493C	L-malate permease
+908895..910061	+	388	15675092	-	SPy_1110	-	COG0281C	NAD-dependent malic enzyme
+910144..911193	-	349	15675093	-	SPy_1111	-	COG1063ER	zinc-containing alcohol dehydrogenase
+911429..912160	+	243	15675094	aphA	SPy_1113	-	COG3700R	acid phosphatase/phosphotransferase
+912338..913870	+	510	15675095	-	SPy_1114	-	COG0038P	hypothetical protein
+914033..914647	+	204	15675096	-	SPy_1115	-	COG2755E	hypothetical protein
+914806..915954	+	382	15675097	-	SPy_1117	-	COG0628R	hypothetical protein
+916003..916683	+	226	15675098	radC	SPy_1118	-	COG2003L	DNA repair protein RadC
+916685..917380	-	231	15675099	-	SPy_1119	-	COG2071R	hypothetical protein
+917390..918034	-	214	15675100	-	SPy_1120	-	COG2344R	redox-sensing transcriptional repressor Rex
+918286..918633	-	115	15675101	-	SPy_1121	-	-	hypothetical protein
+918623..919750	-	375	15675102	-	SPy_1122	-	COG1104E	iron-sulfur cofactor synthesis protein
+919747..920727	-	326	15675103	prs	SPy_1123	-	COG0462FE	ribose-phosphate pyrophosphokinase
+920867..921445	-	192	15675104	-	SPy_1124	-	COG4116S	hypothetical protein
+921533..922204	+	223	15675105	-	SPy_1125	-	COG2357S	GTP pyrophosphokinase
+922179..923015	+	278	15675106	ppnK	SPy_1126	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+923012..923917	+	301	15675107	-	SPy_1127	-	COG0564J	hypothetical protein
+923921..924916	+	331	15675108	eutD	SPy_1128	-	COG0280C	phosphotransacetylase
+926009..926698	-	229	15675109	-	SPy_1131	-	-	Na+ driven multidrug efflux pump
+927118..927846	+	242	15675110	-	SPy_1133	-	COG1125E	ABC transporter ATP-binding protein
+927833..929365	+	510	15675111	-	SPy_1134	-	COG1732M	ABC transporter binding protein
+929643..930626	+	327	15675112	-	SPy_1135	-	COG0516F	guanosine 5'-monophosphate oxidoreductase
+930931..931512	+	193	15675113	xpt	SPy_1136	-	COG0503F	xanthine phosphoribosyltransferase
+931512..932795	+	427	15675114	-	SPy_1137	-	COG2233F	purine permease
+932859..933797	-	312	15675115	-	SPy_1138	-	COG1477H	thiamine biosynthesis lipoprotein
+933850..934035	-	61	15675116	-	SPy_1139	-	COG1942R	4-oxalocrotonate tautomerase
+934173..934742	+	189	15675117	tdk2	SPy_1140	-	COG1435F	thymidine kinase
+934777..935856	+	359	15675118	prfA	SPy_1141	-	COG0216J	peptide chain release factor 1
+935856..936695	+	279	15675119	hemK	SPy_1142	-	COG2890J	protoporphyrinogen oxidase
+936679..937269	+	196	15675120	-	SPy_1143	-	COG0009J	hypothetical protein
+937287..937739	+	150	15675121	-	SPy_1144	-	COG0456R	hypothetical protein
+937729..938985	+	418	15675122	glyA	SPy_1145	-	COG0112E	serine hydroxymethyltransferase
+938992..939969	+	325	15675123	-	SPy_1146	-	-	hypothetical protein
+939970..940569	+	199	15675124	-	SPy_1147	-	COG0741M	hypothetical protein
+940579..942303	+	574	15675125	-	SPy_1148	-	COG1132V	ABC transporter ATP-binding protein
+942300..944027	+	575	15675126	-	SPy_1149	-	COG1132V	ABC transporter ATP-binding protein
+944268..945638	+	456	15675127	nox	SPy_1150	-	COG0446R	NADH oxidase
+945797..946780	-	327	15675128	ldh	SPy_1151	-	COG0039C	L-lactate dehydrogenase
+946971..949457	+	828	15675129	gyrA	SPy_1152	-	COG0188L	DNA gyrase subunit A
+949477..950226	+	249	15675130	-	SPy_1154	-	COG3764M	hypothetical protein
+950309..950722	+	137	15675131	-	SPy_1155	-	COG0346E	hypothetical protein
+951209..951328	+	39	15675132	-	SPy_1156	-	-	hypothetical protein
+951336..951704	+	122	15675133	-	SPy_1157	-	-	hypothetical protein
+951754..952665	-	303	15675134	-	SPy_1158	-	COG1597IR	hypothetical protein
+952782..953432	-	216	15675135	hlyIII	SPy_1159	-	COG1272R	hypothetical protein
+953429..953869	-	146	15675136	-	SPy_1160	-	-	hypothetical protein
+954088..954936	+	282	15675137	rbgA	SPy_1161	-	COG1161R	ribosomal biogenesis GTPase
+954926..955717	+	263	15675138	rnhB	SPy_1162	-	COG0164L	ribonuclease HII
+955782..956618	+	278	15675139	smf	SPy_1163	-	COG0758LU	Smf family DNA processing protein
+956725..958854	+	709	15675140	topA	SPy_1164	-	COG0550L	DNA topoisomerase I
+959824..960369	+	181	15675141	-	SPy_1169	-	COG3641R	hypothetical protein
+960384..961376	+	330	15675142	ddh	SPy_1170	-	COG1052CHR	D-lactate dehydrogenase
+961481..962146	+	221	15675143	satD	SPy_1171	-	-	hypothetical protein
+962139..962855	+	238	15675144	satE	SPy_1172	-	-	hypothetical protein
+963006..964352	+	448	15675145	gid	SPy_1173	-	COG1206J	tRNA (uracil-5-)-methyltransferase Gid
+964505..965911	+	468	15675146	-	SPy_1174	-	COG5016C	oxaloacetate decarboxylase
+965954..966268	+	104	15675147	-	SPy_1175	-	-	hypothetical protein
+966268..966618	+	116	15675148	-	SPy_1176	-	COG4770I	methylmalonyl-CoA decarboxylase, gamma-subunit
+966628..967758	+	376	15675149	-	SPy_1177	-	COG1883C	methylmalonyl-CoA decarboxylase subunit beta
+967958..968842	-	294	15675150	citG	SPy_1178	-	COG1767H	triphosphoribosyl-dephospho-CoA synthase
+968835..969530	-	231	15675151	-	SPy_1179	-	COG1802K	transcriptional regulator
+969688..971094	-	468	15675152	-	SPy_1180	-	COG2851C	Mg2+/citrate complex transporter
+971471..971653	+	60	15675153	-	SPy_1181	-	-	hypothetical protein
+971849..972247	+	132	15675154	-	SPy_1183	-	COG0511I	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+972292..973413	+	373	15675155	-	SPy_1184	-	COG1883C	decarboxylase
+973601..973909	+	102	15675156	citD	SPy_1186	-	COG3052C	citrate lyase subunit gamma
+973897..974784	+	295	15675157	citE	SPy_1188	-	COG2301G	citrate lyase subunit beta
+974787..976319	+	510	15675158	citF	SPy_1189	-	COG3051C	citrate lyase subunit alpha
+976312..976890	+	192	15675159	citX	SPy_1190	-	COG3697HI	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+976890..978299	+	469	15675160	oadA	SPy_1191	-	COG5016C	oxaloacetate decarboxylase
+978409..979461	-	350	15675161	citC	SPy_1192	-	COG3053C	citrate lyase synthetase
+979550..980032	-	160	15675162	-	SPy_1193	-	-	hypothetical protein
+980732..981802	-	356	15675163	xerS	SPy_1196	-	COG4974L	site-specific tyrosine recombinase XerS
+982271..982969	+	232	15675164	-	SPy_1198	-	COG2932K	repressor protein
+983086..984645	-	519	15675165	ffh	SPy_1200	-	COG0541U	signal recognition particle protein
+984660..985001	-	113	15675166	ylxM	SPy_1201	-	COG2739S	DNA-binding protein
+985090..985815	-	241	15675167	-	SPy_1202	-	COG2188K	GntR family transcriptional regulator
+985871..987304	-	477	15675168	-	SPy_1203	-	-	hypothetical protein
+987471..989033	+	520	15675169	guaA	SPy_1204	-	COG0519F	GMP synthase
+989075..990298	-	407	15675170	-	SPy_1205	-	COG2348V	anti resistance factor
+990663..992228	-	521	15675171	-	SPy_1206	-	COG0488R	ABC transporter ATP-binding protein
+992341..992898	-	185	15675172	-	SPy_1208	-	COG4720S	hypothetical protein
+992876..993742	-	288	15675173	pdxK	SPy_1209	-	COG2240H	pyridoxamine kinase
+993832..995100	+	422	15675174	-	SPy_1210	-	COG1167KE	hypothetical protein
+995498..995854	-	118	15675175	-	SPy_1211	-	COG1328F	hypothetical protein
+996176..997753	-	525	15675176	-	SPy_1212	-	COG1502I	cardiolipin synthetase
+997838..999508	-	556	15675177	fhs.1	SPy_1213	-	COG2759F	formate--tetrahydrofolate ligase
+999636..1000655	-	339	15675178	lplA	SPy_1214	-	COG0095H	lipoate-protein ligase
+1000702..1001583	-	293	15675179	-	SPy_1215	-	COG0846K	SIR2 family protein
+1001576..1002388	-	270	15675180	-	SPy_1216	-	COG2110R	hypothetical protein
+1002381..1002713	-	110	15675181	-	SPy_1217	-	COG0509E	glycine cleavage system H protein
+1002755..1003753	-	332	15675182	-	SPy_1218	-	COG2141C	hypothetical protein
+1003750..1004949	-	399	15675183	-	SPy_1219	-	COG1902C	trimethylamine dehydrogenase
+1004946..1005797	-	283	15675184	-	SPy_1220	-	COG0095H	hypothetical protein
+1005984..1006670	+	228	15675185	dpfB	SPy_1221	-	COG0452H	phosphopantothenate--cysteine ligase
+1006663..1007208	+	181	15675186	dfp	SPy_1222	-	COG0452H	phosphopantothenoylcysteine decarboxylase
+1007266..1007835	+	189	15675187	-	SPy_1223	-	COG4684S	hypothetical protein
+1008011..1009729	+	572	15675188	pgmA	SPy_1224	-	COG1109G	phosphoglucomutase
+1009942..1010898	-	318	15675189	-	SPy_1225	-	COG1079R	sugar ABC transporter permease
+1010900..1011964	-	354	15675190	-	SPy_1226	-	COG4603R	sugar ABC transporter permease
+1011957..1013489	-	510	15675191	-	SPy_1227	-	COG3845R	sugar ABC transporter ATP-binding protein
+1013628..1014680	-	350	15675192	-	SPy_1228	-	COG1744R	lipoprotein
+1014774..1015163	-	129	15675193	cdd	SPy_1230	-	COG0295F	cytidine deaminase
+1015816..1016409	-	197	15675194	-	SPy_1232	-	COG2813J	16S rRNA m(2)G 1207 methyltransferase
+1016677..1017597	+	306	15675195	coaA	SPy_1233	-	COG1072H	pantothenate kinase
+1017666..1017899	+	77	15675196	rpsT	SPy_1234	-	COG0268J	30S ribosomal protein S20
+1018024..1019334	-	436	15675197	-	SPy_1236	-	COG2205T	histidine kinase
+1019327..1020001	-	224	15675198	-	SPy_1237	-	COG0745TK	response regulator
+1020347..1022884	-	845	15675199	pepN	SPy_1239	-	COG0308E	lysyl-aminopeptidase
+1023089..1023742	-	217	15675200	phoU	SPy_1240	-	COG0704P	phosphate uptake regulatory protein
+1023810..1024571	-	253	15675201	pstB	SPy_1241	-	COG1117P	phosphate transporter ATP-binding protein
+1024581..1025384	-	267	15675202	pstB2	SPy_1242	-	COG1117P	phosphate transporter ATP-binding protein
+1025400..1026287	-	295	15675203	pstC	SPy_1243	-	COG0581P	phosphate ABC transporter permease
+1026277..1027212	-	311	15675204	pstC2	SPy_1244	-	COG0573P	phosphate ABC transporter permease
+1027223..1028089	-	288	15675205	pstS	SPy_1245	-	COG0226P	phosphate ABC transporter substrate-binding protein
+1028228..1029538	-	436	15675206	-	SPy_1246	-	COG0144J	hypothetical protein
+1029541..1030329	-	262	15675207	-	SPy_1247	-	COG0483G	myo-inositol-1(or 4)-monophosphatase
+1030319..1030597	-	92	15675208	-	SPy_1248	-	COG4476S	hypothetical protein
+1030599..1031003	-	134	15675209	spxA	SPy_1249	-	COG1393P	transcriptional regulator Spx
+1031046..1031978	-	310	15675210	mreA	SPy_1250	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+1032007..1032891	-	294	15675211	truB	SPy_1251	-	COG0130J	tRNA pseudouridine synthase B
+1033007..1034347	-	446	15675212	-	SPy_1252	-	COG4487S	hypothetical protein
+1034444..1035400	-	318	15675213	-	SPy_1253	-	COG4129S	hypothetical protein
+1035411..1036007	-	198	15675214	-	SPy_1254	-	COG0732V	hypothetical protein
+1036099..1038735	-	878	15675215	-	SPy_1255	-	COG0577V	hypothetical protein
+1038750..1039451	-	233	15675216	-	SPy_1257	-	COG1136V	ABC transporter ATP-binding protein
+1039569..1040111	+	180	15675217	-	SPy_1258	-	COG1309K	TetR/AcrR family transcriptional regulator
+1040254..1040895	-	213	15675218	-	SPy_1259	-	COG0490P	transcriptional regulator
+1041058..1041549	-	163	15675219	-	SPy_1260	-	COG1302S	hypothetical protein
+1041557..1041757	-	66	15675220	-	SPy_1261	-	COG3237S	hypothetical protein
+1041798..1042337	-	179	15675221	-	SPy_1262	-	COG1302S	hypothetical protein
+1042350..1042538	-	62	15675222	-	SPy_1263	-	COG5547S	hypothetical protein
+1042549..1043160	-	203	15675223	-	SPy_1264	-	-	hypothetical protein
+1043197..1043445	-	82	15675224	-	SPy_1265	-	COG2261S	hypothetical protein
+1043809..1046127	-	772	15675225	pcrA	SPy_1267	-	COG0210L	DNA helicase II
+1046656..1047978	+	440	15675226	-	SPy_1270	-	COG1115E	Na(+)-linked D-alanine glycine permease
+1048098..1049333	+	411	15675227	-	SPy_1272	-	COG0053P	cation efflux system protein
+1049702..1050475	-	257	15675228	cfa	SPy_1273	-	-	cAMP factor
+1050845..1051681	-	278	15675229	-	SPy_1274	-	COG0834ET	amino acid ABC transporter substrate-binding protein
+1051697..1052326	-	209	15675230	-	SPy_1275	-	COG1126E	amino acid ABC transporter ATP-binding protein
+1052336..1052977	-	213	15675231	-	SPy_1276	-	COG0765E	amino acid ABC transporter permease
+1053083..1053418	-	111	15675232	-	SPy_1277	-	COG2824P	hypothetical protein
+1053614..1055428	-	604	15675233	glmS	SPy_1280	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+1055604..1056161	-	185	15675234	sipC	SPy_1281	-	COG0681U	signal peptidase I
+1056379..1057881	-	500	15675235	pyk	SPy_1282	-	COG0469G	pyruvate kinase
+1057944..1058957	-	337	15675236	pfkA	SPy_1283	-	COG0205G	6-phosphofructokinase
+1059037..1062147	-	1036	15675237	dnaE	SPy_1284	-	COG0587L	DNA polymerase III DnaE
+1062332..1062703	+	123	15675238	-	SPy_1285	-	COG1725K	GntR family transcriptional regulator
+1062703..1063401	+	232	15675239	-	SPy_1286	-	COG1131V	ABC transporter ATP-binding protein
+1063411..1064196	+	261	15675240	-	SPy_1287	-	-	ABC transporter permease
+1064323..1064679	-	118	15675241	-	SPy_1288	-	COG0398S	hypothetical protein
+1064651..1064938	-	95	15675242	-	SPy_1289	-	COG0398S	hypothetical protein
+1065679..1066299	+	206	15675243	-	SPy_1290	-	-	hypothetical protein
+1066556..1068820	-	754	15675244	glgP	SPy_1291	-	COG0058G	glycogen phosphorylase
+1068855..1070348	-	497	15675245	malM	SPy_1292	-	COG1640G	4-alpha-glucanotransferase
+1070463..1071482	-	339	15675246	malR	SPy_1293	-	COG1609K	maltose operon transcriptional repressor
+1071728..1072975	+	415	15675247	-	SPy_1294	-	COG2182G	maltose/maltodextrin-binding protein
+1073249..1074610	+	453	15675248	malF	SPy_1295	-	COG1175G	maltose ABC transporter permease
+1074610..1075446	+	278	15675249	malG	SPy_1296	-	COG3833G	maltose ABC transporter permease
+1075601..1076401	+	266	15675250	-	SPy_1297	-	COG1609K	LacI family transcriptional regulator
+1076517..1077332	-	271	15675251	malA	SPy_1298	-	COG5521S	maltodextrose utilization protein
+1077354..1078214	-	286	15675252	malD	SPy_1299	-	COG3833G	maltodextrin ABC transporter permease
+1078211..1079518	-	435	15675253	malC	SPy_1301	-	COG1175G	maltodextrin ABC transporter permease
+1079593..1081728	-	711	15675254	amyA	SPy_1302	-	COG0366G	cyclomaltodextrin glucanotransferase
+1081754..1083457	-	567	15675255	amyB	SPy_1304	-	COG0366G	cyclomaltodextrinase
+1083623..1084882	-	419	15675256	malX	SPy_1306	-	COG2182G	maltose/maltodextrin-binding protein
+1085497..1086480	-	327	15675257	-	SPy_1308	-	COG0657I	esterase
+1086511..1087761	-	416	15675258	dltD	SPy_1309	-	COG3966M	hypothetical protein
+1087754..1087993	-	79	15675259	dltC	SPy_1310	-	COG0236IQ	D-alanine--poly(phosphoribitol) ligase subunit 2
+1088011..1089267	-	418	15675260	dltB	SPy_1311	-	COG1696M	hypothetical protein
+1089264..1090802	-	512	15675261	dltA	SPy_1312	-	COG1020Q	D-alanine--poly(phosphoribitol) ligase subunit 1
+1091221..1093212	-	663	15675262	uvrB	SPy_1314	-	COG0556L	excinuclease ABC subunit B
+1093405..1095579	+	724	15675263	-	SPy_1315	-	COG0765E	hypothetical protein
+1095579..1096319	+	246	15675264	-	SPy_1316	-	COG1126E	ABC transporter ATP-binding protein
+1098173..1098622	-	149	15675265	-	SPy_1322	-	-	hypothetical protein
+1098619..1098954	-	111	15675266	-	SPy_1323	-	COG1447G	PTS system cellobiose-specific transporter subunit IIA
+1098957..1099268	-	103	15675267	-	SPy_1324	-	COG1440G	PTS system cellobiose-specific transporter subunit IIB
+1099291..1101285	-	664	15675268	-	SPy_1325	-	COG3711K	BglG family transcription antiterminator
+1101391..1102485	-	364	15675269	-	SPy_1326	-	COG3589S	outer surface protein
+1102494..1103894	-	466	15675270	bglA.2	SPy_1328	-	COG2723G	beta-glucosidase
+1104119..1104616	+	165	15675271	-	SPy_1329	-	COG3201H	hypothetical protein
+1104820..1104978	-	52	15675272	-	SPy_1332	-	-	hypothetical protein
+1105047..1106354	-	435	161378150	obgE	SPy_1333	-	COG0536R	GTPase ObgE
+1106787..1107302	+	171	15675274	-	SPy_1335	-	COG2963L	hypothetical protein
+1107323..1108129	+	268	15675275	-	SPy_1336	-	COG2801L	transposase - IS861 associated
+1108178..1108912	-	244	15675276	rsuA	SPy_1337	-	COG1187J	16S pseudouridylate synthase
+1109024..1109389	+	121	15675277	-	SPy_1339	-	COG5496R	hypothetical protein
+1109509..1110729	-	406	15675278	-	SPy_1340	-	COG2814G	hypothetical protein
+1111031..1112587	+	518	15675279	-	SPy_1343	-	COG4868S	hypothetical protein
+1112694..1113095	-	133	15675280	-	SPy_1344	-	COG2050Q	hypothetical protein
+1113180..1113692	-	170	15675281	-	SPy_1345	-	COG2820F	hypothetical protein
+1113997..1115385	-	462	15675282	-	SPy_1346	-	COG2265J	RNA methyltransferase
+1115434..1116885	-	483	15675283	psr	SPy_1350	-	COG1316K	PBP 5 synthesis repressor
+1117093..1117584	-	163	15675284	aroK	SPy_1351	-	COG0703E	shikimate kinase
+1117577..1118869	-	430	15675285	aroA	SPy_1352	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+1118971..1119936	-	321	15675286	-	SPy_1353	-	COG1295S	hypothetical protein
+1119938..1120798	-	286	15675287	map	SPy_1354	-	COG0024J	methionine aminopeptidase
+1120814..1122097	-	427	15675288	-	SPy_1355	-	COG4109K	hypothetical protein
+1122106..1122648	-	180	15675289	-	SPy_1356	-	COG1670J	acetyl transferase
+1122886..1123539	-	217	15675290	grab	SPy_1357	-	COG2723G	protein G-like alpha 2M-binding protein
+1123897..1125156	-	419	15675291	murZ	SPy_1358	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1125330..1126526	-	398	15675292	metK	SPy_1359	-	COG0192H	S-adenosylmethionine synthetase
+1127063..1129441	-	792	15675293	inlA	SPy_1361	-	COG4886S	internalin A
+1129645..1130586	+	313	15675294	birA	SPy_1362	-	COG0340H	biotin--protein ligase
+1130561..1130833	-	90	15675295	-	SPy_1363	-	-	hypothetical protein
+1130859..1132529	-	556	15675296	dnaX	SPy_1364	-	COG2812L	DNA polymerase III subunits gamma and tau
+1132529..1133026	-	165	15675297	-	SPy_1365	-	COG1956T	hypothetical protein
+1133171..1133980	+	269	15675298	-	SPy_1366	-	COG2339S	hypothetical protein
+1134033..1134296	-	87	15675299	-	SPy_1367	-	COG3326S	hypothetical protein
+1134376..1135002	-	208	15675300	udk	SPy_1368	-	COG0572F	uridine kinase
+1135100..1136185	+	361	15675301	deaD2	SPy_1369	-	COG0513LKJ	ATP-dependent RNA helicase
+1136296..1137570	-	424	15675302	-	SPy_1370	-	COG0726G	deacetylase
+1137665..1139092	-	475	15675303	gapN	SPy_1371	-	COG1012C	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+1139277..1141010	-	577	15675304	pstI	SPy_1372	-	COG1080G	phosphoenolpyruvate:sugar phosphotransferase system enzyme I
+1141015..1141278	-	87	15675305	ptsH	SPy_1373	-	COG1925G	phosphocarrier protein HPr
+1141671..1141889	+	72	15675306	nrdH	SPy_1374	-	COG0695O	glutaredoxin
+1141909..1144068	+	719	15675307	nrdE.2	SPy_1375	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+1144401..1145360	+	319	15675308	nrdF	SPy_1378	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+1145335..1146648	+	437	15675309	-	SPy_1379	-	COG0038P	chloride channel protein
+1148034..1148729	-	231	15675310	-	SPy_1384	-	COG1266R	hypothetical protein
+1148748..1149509	-	253	15675311	-	SPy_1385	-	-	hypothetical protein
+1149506..1149721	-	71	15675312	-	SPy_1386	-	COG1476K	transcriptional regulator
+1150082..1152700	-	872	15675313	alaS	SPy_1389	-	COG0013J	alanyl-tRNA synthetase
+1153087..1154142	-	351	15675314	prsA	SPy_1390	-	COG0760O	foldase PrsA
+1154205..1154912	-	235	15675315	-	SPy_1391	-	COG4122R	O-methyltransferase
+1154978..1156174	-	398	15675316	-	SPy_1392	-	COG2271G	oxalate/formate antiporter
+1156550..1158355	-	601	15675317	pepB	SPy_1393	-	COG1164E	oligopeptidase
+1158368..1159330	-	320	15675318	-	SPy_1395	-	COG4469R	transcription factor
+1159756..1160340	-	194	15675319	-	SPy_1398	-	COG1187J	16S pseudouridylate synthetase
+1160459..1161163	-	234	15675320	nagB	SPy_1399	-	COG0363G	N-acetylglucosamine-6-phosphate isomerase
+1161365..1162393	+	342	15675321	queA	SPy_1400	-	COG0809J	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1162400..1163620	+	406	15675322	-	SPy_1401	-	-	hypothetical protein
+1163734..1164324	-	196	15675323	-	SPy_1402	-	COG1686M	hypothetical protein
+1164321..1164569	-	82	15675324	-	SPy_1404	-	-	hypothetical protein
+1164554..1164781	-	75	15675325	-	SPy_1405	-	-	hypothetical protein
+1164948..1165553	-	201	15675326	sodA	SPy_1406	-	COG0605P	superoxide dismutase (Fe/Mn)
+1165650..1166690	-	346	15675327	holA	SPy_1407	-	COG1466L	DNA polymerase III subunit delta
+1166761..1169004	-	747	15675328	comEC	SPy_1408	-	COG2333R	competence protein
+1168985..1169647	-	220	15675329	comEA	SPy_1409	-	COG1555L	competence protein
+1169847..1170665	-	272	15675330	-	SPy_1410	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1170705..1171481	+	258	15675331	-	SPy_1411	-	COG4123R	hypothetical protein
+1171471..1171749	+	92	15675332	-	SPy_1412	-	COG2827L	hypothetical protein
+1171773..1173773	-	666	15675333	-	SPy_1414	-	COG3158P	cation (K+) transport protein
+1173901..1175520	-	539	15675334	deaD	SPy_1415	-	COG0513LKJ	ATP-dependent RNA helicase
+1175827..1177371	-	514	15675335	prfC	SPy_1416	-	COG4108J	peptide chain release factor 3
+1177619..1178314	-	231	15675336	-	SPy_1419	-	COG5522S	hypothetical protein
+1178394..1179785	-	463	15675337	murF	SPy_1420	-	COG0770M	D-Ala-D-Ala adding enzyme
+1179976..1181022	-	348	15675338	ddl	SPy_1421	-	COG1181M	D-alanyl-alanine synthetase A
+1181123..1181719	-	198	15675339	recR	SPy_1422	-	COG0353L	recombination protein RecR
+1182518..1183297	-	259	15675340	-	SPy_1424	-	COG2116P	formate dehydrogenase
+1183421..1183963	-	180	15675341	-	SPy_1425	-	-	hypothetical protein
+1184124..1184645	-	173	15675342	-	SPy_1427	-	COG1827R	transcriptional regulator
+1184752..1185447	-	231	15675343	gpmA	SPy_1429	-	COG0588G	phosphoglyceromutase
+1185686..1186621	+	311	15675344	pyrD	SPy_1432	-	COG0167F	dihydroorotate dehydrogenase 1A
+1186921..1188783	-	620	15675345	-	SPy_1434	-	COG2217P	heavy metal-transporting ATPase
+1189728..1190534	+	268	15675346	mf3	SPy_1436	-	-	deoxyribonuclease
+1190754..1191239	+	161	15675347	-	SPy_1437	-	-	hypothetical protein
+1191309..1192514	-	401	15675348	-	SPy_1438	-	COG1705NU	hypothetical protein
+1192630..1192857	-	75	15675349	-	SPy_1440	-	COG5546S	holin
+1192854..1193129	-	91	15675350	-	SPy_1441	-	-	hypothetical protein
+1193139..1193756	-	205	15675351	-	SPy_1442	-	-	hypothetical protein
+1193759..1194190	-	143	15675352	-	SPy_1443	-	-	hypothetical protein
+1194202..1195986	-	594	15675353	-	SPy_1444	-	COG3206M	hypothetical protein
+1196001..1197113	-	370	15675354	hylP3	SPy_1445	-	-	phage associated hyaluronidase
+1197113..1199071	-	652	15675355	-	SPy_1446	-	COG4926S	hypothetical protein
+1199068..1199763	-	231	15675356	-	SPy_1447	-	COG4722S	hypothetical protein
+1199760..1202117	-	785	15675357	-	SPy_1448	-	COG5412S	hypothetical protein
+1202117..1202488	-	123	15675358	-	SPy_1449	-	-	hypothetical protein
+1202503..1202766	-	87	15675359	-	SPy_1450	-	-	hypothetical protein
+1202777..1203370	-	197	15675360	-	SPy_1451	-	-	structural protein
+1203382..1203717	-	111	15675361	-	SPy_1452	-	-	hypothetical protein
+1203718..1203954	-	78	15675362	-	SPy_1453	-	-	hypothetical protein
+1203947..1204276	-	109	15675363	-	SPy_1454	-	-	hypothetical protein
+1204245..1204667	-	140	15675364	-	SPy_1455	-	-	hypothetical protein
+1204677..1204877	-	66	15675365	-	SPy_1456	-	-	hypothetical protein
+1204877..1205788	-	303	15675366	-	SPy_1457	-	-	structural protein
+1205813..1206274	-	153	15675367	-	SPy_1459	-	-	hypothetical protein
+1206355..1207770	-	471	15675368	-	SPy_1460	-	COG4626R	hypothetical protein
+1207880..1208146	-	88	15675369	-	SPy_1461	-	-	hypothetical protein
+1208139..1208399	-	86	15675370	-	SPy_1462	-	-	hypothetical protein
+1208368..1208592	-	74	15675371	-	SPy_1463	-	-	hypothetical protein
+1208598..1210091	-	497	15675372	-	SPy_1464	-	-	hypothetical protein
+1210084..1211352	-	422	15675373	-	SPy_1465	-	-	structural protein
+1211349..1211705	-	118	15675374	-	SPy_1466	-	-	hypothetical protein
+1211854..1212198	-	114	15675375	-	SPy_1468	-	COG1403V	hypothetical protein
+1212307..1212726	-	139	15675376	-	SPy_1469	-	-	hypothetical protein
+1212994..1213629	-	211	15675377	-	SPy_1470	-	COG0286V	hypothetical protein
+1213631..1213900	-	89	15675378	-	SPy_1471	-	-	hypothetical protein
+1213984..1214496	-	170	15675379	-	SPy_1473	-	-	hypothetical protein
+1214493..1214906	-	137	15675380	-	SPy_1474	-	-	hypothetical protein
+1215011..1215808	-	265	15675381	-	SPy_1475	-	-	hypothetical protein
+1215801..1216001	-	66	15675382	-	SPy_1476	-	-	hypothetical protein
+1215998..1216987	-	329	15675383	-	SPy_1477	-	COG3723L	recombinase
+1216987..1217319	-	110	15675384	-	SPy_1478	-	-	hypothetical protein
+1217375..1217581	-	68	15675385	-	SPy_1479	-	-	hypothetical protein
+1217727..1217960	-	77	15675386	-	SPy_1481	-	-	hypothetical protein
+1217941..1218327	-	128	15675387	-	SPy_1482	-	COG3935L	hypothetical protein
+1218816..1219001	-	61	15675388	-	SPy_1483	-	-	hypothetical protein
+1219003..1219314	-	103	15675389	xis	SPy_1484	-	-	excisionase
+1219584..1219796	-	70	15675390	-	SPy_1485	-	COG1476K	Cro-like repressor protein
+1219998..1220753	+	251	15675391	-	SPy_1486	-	COG2932K	repressor
+1220765..1221283	+	172	15675392	-	SPy_1487	-	-	hypothetical protein
+1221407..1222549	+	380	15675393	int2	SPy_1488	-	COG4974L	integrase
+1222637..1222912	-	91	15675394	hlpA	SPy_1489	-	COG0776L	histone-like DNA-binding protein
+1223011..1223598	-	195	15675395	-	SPy_1491	-	COG4698S	hypothetical protein
+1223576..1224436	-	286	15675396	-	SPy_1492	-	COG2755E	hypothetical protein
+1224411..1225250	-	279	15675397	-	SPy_1493	-	COG1307S	hypothetical protein
+1225478..1226419	-	313	15675398	-	SPy_1494	-	-	hypothetical protein
+1226591..1228252	-	553	15675399	recN	SPy_1495	-	COG0497L	DNA repair and genetic recombination protein
+1228274..1228744	-	156	15675400	-	SPy_1496	-	COG1438K	repressor protein
+1228731..1229558	-	275	15675401	hlyA1	SPy_1497	-	COG1189J	hemolysin
+1229551..1230423	-	290	15675402	fps	SPy_1498	-	COG0142H	geranyltranstransferase
+1230423..1230638	-	71	15675403	xseB	SPy_1499	-	COG1722L	exodeoxyribonuclease VII small subunit
+1230616..1231956	-	446	15675404	xseA	SPy_1500	-	COG1570L	exodeoxyribonuclease VII large subunit
+1232109..1232963	-	284	15675405	folD	SPy_1502	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1233171..1234865	-	564	15675406	-	SPy_1503	-	COG1109G	phosphomannomutase
+1235043..1236452	-	469	15675407	phr	SPy_1505	-	COG0415L	deoxyribodipyrimidine photolyase
+1236601..1237335	-	244	15675408	-	SPy_1506	-	COG1126E	amino acid ABC transporter ATP-binding protein
+1237335..1238021	-	228	15675409	-	SPy_1507	-	COG0765E	amino acid ABC transporter permease
+1238148..1238378	-	76	15675410	-	SPy_1508	-	COG4703S	hypothetical protein
+1238676..1240958	+	760	15675411	clpE	SPy_1509	-	COG0542O	ATP-dependent protease
+1241086..1241541	+	151	15675412	mutT	SPy_1510	-	COG0494LR	mutator protein
+1241592..1241894	+	100	15675413	-	SPy_1511	-	-	hypothetical protein
+1242159..1244960	-	933	15675414	ileS	SPy_1513	-	COG0060J	isoleucyl-tRNA synthetase
+1245233..1245991	-	252	15675415	divIVAS	SPy_1514	-	COG3599D	cell-division initiation protein
+1246001..1246792	-	263	15675416	-	SPy_1515	-	COG2302S	RNA binding protein
+1246792..1247046	-	84	15675417	-	SPy_1516	-	COG0762S	hypothetical protein
+1247051..1247707	-	218	15675418	-	SPy_1518	-	COG1799S	hypothetical protein
+1247719..1248390	-	223	15675419	-	SPy_1519	-	COG0325R	hypothetical protein
+1248393..1249712	-	439	15675420	ftsZ	SPy_1520	-	COG0206D	cell division protein FtsZ
+1249736..1251100	-	454	15675421	ftsA	SPy_1521	-	COG0849D	cell division protein
+1251312..1252460	-	382	15675422	divIB	SPy_1523	-	COG1589M	cell division protein
+1252461..1253564	-	367	161378149	murG	SPy_1524	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+1253543..1254901	-	452	15675424	murD	SPy_1525	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1255285..1255536	-	83	15675425	-	SPy_1526	-	-	hypothetical protein
+1255658..1257499	-	613	15675426	-	SPy_1527	-	COG1217T	GTP-binding protein TypA
+1257682..1258071	-	129	15675427	-	SPy_1528	-	COG0607P	hypothetical protein
+1258081..1259052	-	323	15675428	glcK	SPy_1529	-	COG1940KG	glucose kinase
+1259057..1259260	-	67	15675429	-	SPy_1530	-	COG4483S	hypothetical protein
+1259402..1259929	-	175	15675430	dpr	SPy_1531	-	COG0783P	peroxide resistance protein
+1260157..1260783	+	208	15675431	-	SPy_1532	-	COG2898S	hypothetical protein
+1260865..1261944	-	359	15675432	-	SPy_1533	-	COG0820R	ribosomal RNA large subunit methyltransferase N
+1261948..1262592	-	214	15675433	-	SPy_1534	-	COG4470S	hypothetical protein
+1263016..1263993	-	325	15675434	-	SPy_1535	-	COG1609K	ribose transport operon repressor
+1264407..1265444	-	345	15675435	-	SPy_1536	-	COG3480T	hypothetical protein
+1265431..1265922	-	163	15675436	coaD	SPy_1537	-	COG0669H	phosphopantetheine adenylyltransferase
+1265912..1266451	-	179	15675437	-	SPy_1538	-	COG0742L	hypothetical protein
+1266574..1267566	-	330	15675438	asnA	SPy_1539	-	COG2502E	asparagine synthetase AsnA
+1267879..1268829	-	316	15675439	arcC	SPy_1541	-	COG0549E	carbamate kinase
+1268849..1270180	-	443	15675440	-	SPy_1542	-	COG0624E	hypothetical protein
+1270197..1271690	-	497	15675441	-	SPy_1543	-	COG1288S	hypothetical protein
+1271860..1272873	-	337	15675442	arcB	SPy_1544	-	COG0078E	ornithine carbamoyltransferase
+1272913..1273341	-	142	15675443	-	SPy_1546	-	COG2153R	hypothetical protein
+1273441..1274676	-	411	15675444	sagP	SPy_1547	-	COG2235E	arginine deiminase
+1274950..1275630	-	226	15675445	-	SPy_1548	-	COG0664T	hypothetical protein
+1275772..1276245	+	157	15675446	ahrC.2	SPy_1549	-	COG1438K	arginine repressor ArgR
+1276411..1277127	-	238	15675447	-	SPy_1551	-	COG3382S	hypothetical protein
+1277141..1278220	-	359	15675448	-	SPy_1552	-	COG2315S	hypothetical protein
+1280024..1280764	-	246	15675449	-	SPy_1556	-	COG4753T	two-component response regulator
+1280852..1281958	-	368	15675450	msrA	SPy_1557	-	COG0225O	bifunctional methionine sulfoxide reductase A/B
+1282001..1282624	-	207	15675451	-	SPy_1558	-	COG1225O	hypothetical protein
+1282637..1283347	-	236	15675452	ccdA	SPy_1559	-	COG0785O	cytochrome C-type biogenesis protein
+1283885..1284178	-	97	15675453	-	SPy_1561	-	COG1343L	hypothetical protein
+1284189..1285214	-	341	15675454	-	SPy_1562	-	COG1518L	hypothetical protein
+1285211..1285885	-	224	15675455	-	SPy_1563	-	COG1468L	hypothetical protein
+1285887..1286735	-	282	15675456	-	SPy_1564	-	COG3649L	hypothetical protein
+1286740..1288635	-	631	15675457	-	SPy_1565	-	-	hypothetical protein
+1288635..1289363	-	242	15675458	-	SPy_1566	-	-	hypothetical protein
+1289496..1291904	-	802	15675459	-	SPy_1567	-	COG1203R	hypothetical protein
+1292058..1294706	-	882	15675460	valS	SPy_1568	-	COG0525J	valyl-tRNA synthetase
+1294708..1295271	-	187	15675461	-	SPy_1569	-	COG0563F	hypothetical protein
+1295268..1295447	-	59	15675462	-	SPy_1570	-	COG1670J	hypothetical protein
+1295872..1296267	-	131	15675463	-	SPy_1571	-	-	hypothetical protein
+1296285..1296539	-	84	15675464	-	SPy_1572	-	-	hypothetical protein
+1296969..1298102	+	377	15675465	-	SPy_1574	-	COG5433L	IS1548 transposase
+1298107..1298292	+	61	15675466	-	SPy_1575	-	-	hypothetical protein
+1298344..1299096	+	250	15675467	-	SPy_1576	-	COG2876E	3-deoxy-7-phosphoheptulonate synthase
+1299152..1300225	+	357	15675468	aroB	SPy_1577	-	COG0337E	3-dehydroquinate synthase
+1300660..1300965	-	101	15675469	-	SPy_1580	-	COG1917S	acetate kinase
+1300967..1301305	-	112	15675470	-	SPy_1581	-	COG1917S	hypothetical protein
+1301358..1302113	-	251	15675471	-	SPy_1582	-	COG2226H	SAM-dependent methyltransferase
+1302348..1303226	-	292	15675472	aroE	SPy_1584	-	COG0169E	shikimate 5-dehydrogenase
+1303364..1306870	-	1168	15675473	-	SPy_1586	-	COG3250G	beta-galactosidase
+1306800..1308284	-	494	15675474	-	SPy_1587	-	COG4753T	two-component sensor response regulator
+1308284..1310008	-	574	15675475	-	SPy_1588	-	COG2972T	two-component sensor histidine kinase
+1309998..1310603	-	201	15675476	-	SPy_1589	-	COG5578S	hypothetical protein
+1310909..1311241	-	110	15675477	-	SPy_1591	-	-	hypothetical protein
+1311213..1312355	-	380	15675478	-	SPy_1592	-	COG1653G	hypothetical protein
+1312436..1313362	-	308	15675479	-	SPy_1593	-	COG0395G	sugar-binding transport protein
+1313372..1314322	-	316	15675480	-	SPy_1595	-	COG4209G	sugar-binding transport protein
+1314473..1315396	+	307	15675481	-	SPy_1596	-	COG1940KG	transcriptional regulator
+1316007..1317449	-	480	15675482	-	SPy_1599	-	COG2723G	beta-glucosidase
+1317473..1319167	-	564	15675483	-	SPy_1600	-	-	hyaluronidase
+1319218..1320258	-	346	15675484	-	SPy_1602	-	COG1609K	transcriptional regulator
+1320364..1321677	+	437	15675485	-	SPy_1603	-	COG3538S	hypothetical protein
+1321692..1324397	+	901	15675486	-	SPy_1604	-	COG0383G	hypothetical protein
+1324498..1325853	-	451	15675487	-	SPy_1605	-	COG2972T	two-component responsible histidine kinase
+1326518..1327873	-	451	15675488	-	SPy_1606	-	COG2265J	RNA methyltransferase
+1327988..1328764	+	258	15675489	recX	SPy_1607	-	COG2137R	recombination regulator RecX
+1328844..1329377	+	177	15675490	-	SPy_1608	-	COG3557J	hypothetical protein
+1329747..1330025	+	92	15675491	-	SPy_1610	-	-	hypothetical protein
+1337070..1337618	-	182	15675492	-	SPy_1613	-	COG1544J	hypothetical protein
+1337698..1338363	-	221	15675493	comFC	SPy_1615	-	COG1040R	late competence protein
+1338335..1339660	-	441	15675494	comFA	SPy_1616	-	COG4098L	DNA uptake late competence protein
+1339716..1340348	+	210	15675495	-	SPy_1617	-	COG1739S	hypothetical protein
+1340476..1341417	+	313	15675496	cysM	SPy_1618	-	COG0031E	O-acetylserine lyase
+1341435..1341812	-	125	15675497	-	SPy_1619	-	COG1098J	hypothetical protein
+1343249..1343890	-	213	15675498	-	SPy_1621	-	COG2197TK	two-component response regulator
+1343883..1344887	-	334	15675499	-	SPy_1622	-	COG4585T	two-component sensor histidine kinase
+1344941..1345627	-	228	15675500	-	SPy_1623	-	COG4758S	hypothetical protein
+1345699..1347597	-	632	15675501	-	SPy_1625	-	COG2815S	protein kinase
+1347594..1348334	-	246	15675502	pppL	SPy_1626	-	COG0631T	phosphoprotein phosphatase
+1348372..1349694	-	440	15675503	sunL	SPy_1627	-	COG0144J	16S rRNA m(5)C 967 methyltransferase
+1349684..1350619	-	311	15675504	fmt	SPy_1628	-	COG0223J	methionyl-tRNA formyltransferase
+1350681..1353065	-	794	15675505	priA	SPy_1629	-	COG1198L	primosome assembly protein PriA
+1353130..1353444	-	104	15675506	-	SPy_1630	-	COG1758K	DNA-directed RNA polymerase subunit omega
+1353463..1354098	-	211	15675507	gmk	SPy_1632	-	COG0194F	guanylate kinase
+1354208..1355815	-	535	15675508	-	SPy_1633	-	COG1418R	hypothetical protein
+1355945..1356841	-	298	15675509	-	SPy_1634	-	COG0583K	LysR family transcriptional regulator
+1357043..1358230	+	395	15675510	atoB	SPy_1637	-	COG0183I	acetyl-CoA:acetyltransferase
+1358254..1358904	+	216	15675511	atoD.1	SPy_1638	-	COG1788I	acetyl-CoA:acetoacetyl-CoA transferase subunit A
+1358906..1359565	+	219	15675512	atoA	SPy_1639	-	COG2057I	Acetyl-CoA:acetoacetyl-CoA transferase b subunit
+1359598..1360377	+	259	15675513	-	SPy_1640	-	COG1028IQR	3-hydroxybutyrate dehydrogenase
+1360448..1361779	+	443	15675514	-	SPy_1641	-	COG2610GE	hypothetical protein
+1361763..1362335	+	190	228995275	luxS	SPy_1642	-	COG1854T	S-ribosylhomocysteinase
+1362480..1363949	-	489	15675516	-	SPy_1643	-	-	hypothetical protein
+1363963..1365117	-	384	15675517	-	SPy_1644	-	COG0116L	hypothetical protein
+1365562..1365888	-	108	15675518	-	SPy_1646	-	COG3599D	hypothetical protein
+1366010..1366525	-	171	15675519	-	SPy_1647	-	COG4474S	hypothetical protein
+1366606..1367205	+	199	15675520	recU	SPy_1648	-	COG3331R	Holliday junction-specific endonuclease
+1367192..1369357	+	721	15675521	pbp1A	SPy_1649	-	COG0744M	penicillin-binding protein 1a
+1369824..1371161	-	445	15675522	pepC	SPy_1651	-	COG3579E	cysteine aminopeptidase
+1371346..1372170	-	274	15675523	nadE	SPy_1652	-	COG0171H	NAD synthetase
+1372172..1373626	-	484	15675524	-	SPy_1653	-	COG1488H	nicotinate phosphoribosyltransferase
+1373797..1375176	-	459	15675525	aapA	SPy_1654	-	COG1113E	amino acid permease
+1376326..1376550	-	74	15675526	-	SPy_1656	-	-	hypothetical protein
+1376654..1377397	-	247	15675527	-	SPy_1657	-	COG1126E	amino acid ABC transporter ATP-binding protein
+1377397..1378200	-	267	15675528	-	SPy_1658	-	COG0765E	amino acid ABC transporter permease
+1378395..1379738	-	447	15675529	-	SPy_1659	-	COG0513LKJ	ATP-dependent RNA helicase
+1379896..1380906	-	336	15675530	mraY	SPy_1662	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1380908..1383163	-	751	15675531	pbpX	SPy_1664	-	COG0768M	penicillin binding protein 2X
+1383167..1383490	-	107	15675532	ftsL	SPy_1665	-	COG4839D	cell division protein
+1383495..1384508	-	337	15675533	mraW	SPy_1666	-	COG0275M	S-adenosyl-methyltransferase MraW
+1384982..1386232	-	416	15675534	proA	SPy_1670	-	COG0014E	gamma-glutamyl phosphate reductase
+1386225..1387046	-	273	15675535	proB	SPy_1672	-	COG0263E	gamma-glutamyl kinase
+1387111..1388739	-	542	15675536	-	SPy_1673	-	COG1269C	ABC transporter permease
+1388744..1389478	-	244	15675537	-	SPy_1674	-	COG1131V	ABC transporter ATP-binding protein
+1389512..1389778	-	88	15675538	-	SPy_1675	-	-	hypothetical protein
+1389971..1391956	-	661	161378148	tkt	SPy_1676	-	COG0021G	transketolase
+1392174..1392818	-	214	15675540	-	SPy_1678	-	COG0176G	translaldolase
+1392944..1394443	-	499	15675541	-	SPy_1680	-	COG3711K	trans-acting positive regulator
+1394433..1395779	-	448	15675542	-	SPy_1681	-	COG0446R	NADH peroxidase
+1395887..1396588	-	233	15675543	glpF	SPy_1682	-	COG0580G	glycerol uptake facilitator
+1396590..1398428	-	612	15675544	glpO	SPy_1683	-	COG0578C	alpha-glycerophosphate oxidase
+1398444..1399970	-	508	15675545	glpK	SPy_1684	-	COG0554C	glycerol kinase
+1400330..1400782	-	150	15675546	-	SPy_1686	-	COG3212S	hypothetical protein
+1400849..1401106	-	85	15675547	-	SPy_1687	-	COG4224S	hypothetical protein
+1401260..1403299	-	679	15675548	glyS	SPy_1688	-	COG0751J	glycyl-tRNA synthetase subunit beta
+1403677..1404594	-	305	15675549	glyQ	SPy_1689	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+1404966..1405520	-	184	15675550	-	SPy_1691	-	COG1755S	hypothetical protein
+1405631..1406470	-	279	15675551	-	SPy_1693	-	COG0656R	reductase / dehydrogenase
+1406592..1407740	-	382	15675552	nagA	SPy_1694	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+1407858..1409489	-	543	15675553	-	SPy_1695	-	COG1283P	hypothetical protein
+1409691..1410413	+	240	15675554	-	SPy_1697	-	COG0711C	hypothetical protein
+1410542..1411384	-	280	15675555	-	SPy_1698	-	COG1307S	hypothetical protein
+1411677..1412234	+	185	15675556	-	SPy_1699	-	COG1309K	transcriptional regulator
+1412270..1413094	-	274	15675557	-	SPy_1700	-	COG0561R	hypothetical protein
+1413096..1413701	-	201	15675558	-	SPy_1701	-	COG2860S	hypothetical protein
+1413910..1414887	-	325	15675559	lacD.1	SPy_1704	-	COG3684G	tagatose 1,6-diphosphate aldolase
+1415397..1415912	-	171	15675560	lacB.1	SPy_1707	-	COG0698G	galactose-6-phosphate isomerase subunit LacB
+1415927..1416352	-	141	15675561	lacA.1	SPy_1708	-	COG0698G	galactose-6-phosphate isomerase subunit LacA
+1416592..1418040	-	482	15675562	-	SPy_1709	-	COG3775G	PTS system galactose-specific transporter subunit IIC
+1418069..1418374	-	101	15675563	-	SPy_1710	-	COG3414G	PTS system galactose-specific transporter subunit IIB
+1418367..1418840	-	157	15675564	-	SPy_1711	-	COG1762GT	PTS system galactose-specific transporter subunit IIA
+1419077..1419847	+	256	15675565	lacR.1	SPy_1712	-	COG1349KG	lactose phosphotransferase system repressor protein
+1420051..1420254	-	67	15675566	copZ	SPy_1714	-	COG2608P	copper chaperone
+1420268..1422469	-	733	15675567	copA	SPy_1715	-	COG2217P	cation-transporting ATPase
+1422499..1422933	-	144	15675568	copY	SPy_1717	-	COG3682K	negative transcriptional regulator
+1423105..1424091	+	328	15675569	-	SPy_1718	-	COG0657I	esterase
+1424225..1424581	-	118	15675570	rbfA	SPy_1719	-	COG0858J	ribosome-binding factor A
+1424780..1427641	-	953	15675571	infB	SPy_1721	-	COG0532J	translation initiation factor IF-2
+1427661..1427963	-	100	15675572	-	SPy_1722	-	COG1358J	hypothetical protein
+1427956..1428252	-	98	15675573	-	SPy_1723	-	COG2740K	hypothetical protein
+1428268..1429425	-	385	15675574	nusA	SPy_1724	-	COG0195K	transcription elongation factor NusA
+1429600..1429983	-	127	15675575	-	SPy_1725	-	COG0779S	hypothetical protein
+1430395..1431030	-	211	15675576	trmB	SPy_1726	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+1431030..1431821	-	263	15675577	-	SPy_1727	-	COG0510M	hypothetical protein
+1431885..1432919	-	344	15675578	-	SPy_1728	-	COG4473U	ABC transporter permease
+1432922..1433647	-	241	15675579	-	SPy_1729	-	COG1131V	ABC transporter ATP-binding protein
+1433719..1434138	+	139	15675580	hit	SPy_1730	-	COG0537FGR	cell-cycle regulation histidine triad (HIT) protein
+1434135..1434491	+	118	15675581	-	SPy_1731	-	-	hypothetical protein
+1434602..1435876	-	424	15675582	-	SPy_1733	-	COG1316K	transcriptional regulator
+1435885..1436409	-	174	15675583	-	SPy_1734	-	COG0456R	hypothetical protein
+1436384..1436845	-	153	15675584	-	SPy_1735	-	COG0802R	ATP/GTP hydrolase
+1436999..1438459	-	486	15675585	-	SPy_1736	-	COG2252R	hypothetical protein
+1438723..1439535	+	270	15675586	-	SPy_1737	-	COG0561R	hypothetical protein
+1439887..1440879	+	330	15675587	manL	SPy_1738	-	COG3444G	mannose-specific phosphotransferase system component IIAB
+1440968..1441777	+	269	15675588	manM	SPy_1739	-	COG3715G	PTS system mannose-specific transporter subunit IIC
+1441794..1442705	+	303	15675589	manN	SPy_1740	-	COG3716G	PTS system mannose-specific transporter subunit IID
+1442819..1443178	+	119	15675590	-	SPy_1741	-	COG4687S	hypothetical protein
+1443570..1444847	+	425	15675591	serS	SPy_1742	-	COG0172J	seryl-tRNA synthetase
+1445069..1445839	-	256	15675592	accA	SPy_1743	-	COG0825I	acetyl-CoA carboxylase subunit alpha
+1445836..1446702	-	288	15675593	accD	SPy_1744	-	COG0777I	acetyl-CoA carboxylase subunit beta
+1446711..1448075	-	454	15675594	accC	SPy_1745	-	COG0439I	acetyl-CoA carboxylase biotin carboxylase subunit
+1448107..1448526	-	139	15675595	fabZ	SPy_1746	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+1448526..1449026	-	166	15675596	accB	SPy_1747	-	COG0511I	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+1449028..1450260	-	410	15675597	fabF	SPy_1748	-	COG0304IQ	3-oxoacyl-ACP synthase
+1450275..1451009	-	244	15675598	fabG	SPy_1749	-	COG1028IQR	3-ketoacyl-ACP reductase
+1450999..1451937	-	312	15675599	fabD	SPy_1750	-	COG0331I	ACP S-malonyltransferase
+1451962..1452933	-	323	15675600	fabK	SPy_1751	-	COG2070R	trans-2-enoyl-ACP reductase II
+1453135..1453359	-	74	15675601	acpP	SPy_1753	-	COG0236IQ	acyl carrier protein
+1453420..1454394	-	324	15675602	fabH	SPy_1754	-	COG0332I	3-oxoacyl-ACP synthase
+1454395..1454829	-	144	15675603	-	SPy_1755	-	COG1846K	MarR family transcriptional regulator
+1454906..1455697	-	263	15675604	phaB	SPy_1758	-	COG1024I	enoyl-CoA hydratase
+1455917..1457053	-	378	15675605	dnaJ	SPy_1759	-	COG0484O	molecular chaperone DnaJ
+1457334..1459160	-	608	15675606	dnaK	SPy_1760	-	COG0443O	molecular chaperone DnaK
+1459341..1459913	-	190	15675607	grpE	SPy_1761	-	COG0576O	heat shock protein GrpE
+1459916..1460950	-	344	15675608	hrcA	SPy_1763	-	COG1420K	heat-inducible transcription repressor
+1461085..1461654	-	189	15675609	-	SPy_1764	-	COG1705NU	N-acetylmuramoyl-L-alanine amidase
+1461651..1462394	-	247	15675610	-	SPy_1765	-	COG1876M	D,D-carboxypeptidase
+1462384..1463091	-	235	15675611	-	SPy_1766	-	COG0406G	phosphoglycerate mutase
+1463482..1463721	-	79	15675612	-	SPy_1768	-	COG2261S	hypothetical protein
+1463940..1464155	-	71	15675613	-	SPy_1769	-	-	hypothetical protein
+1464152..1465591	-	479	15675614	gatB	SPy_1770	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1465591..1467057	-	488	15675615	gatA	SPy_1771	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1467057..1467359	-	100	15675616	gatC	SPy_1772	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1468354..1468908	-	184	15675617	-	SPy_1776	-	COG1335Q	pyrazinamidase/nicotinamidase
+1469055..1469837	-	260	15675618	codY	SPy_1777	-	COG4465K	transcriptional repressor CodY
+1470055..1471269	-	404	15675619	-	SPy_1779	-	COG0436E	aminotransferase
+1471446..1471952	+	168	15675620	-	SPy_1780	-	COG0589T	hypothetical protein
+1472075..1473463	-	462	15675621	-	SPy_1781	-	COG4696S	hypothetical protein
+1473535..1474500	+	321	15675622	asnB	SPy_1782	-	COG0252EJ	L-asparaginase
+1474849..1475553	-	234	15675623	-	SPy_1783	-	-	hypothetical protein
+1475566..1476468	-	300	15675624	-	SPy_1784	-	COG1131V	ABC transporter ATP-binding protein
+1476761..1478776	-	671	15675625	recG	SPy_1785	-	COG1200LK	ATP-dependent DNA helicase RecG
+1479151..1480545	-	464	15675626	-	SPy_1787	-	COG1122P	ABC transporter ATP-binding protein
+1480542..1481222	-	226	15675627	-	SPy_1788	-	COG0619P	hypothetical protein
+1481219..1481812	-	197	15675628	-	SPy_1789	-	-	hypothetical protein
+1481809..1483479	-	556	15675629	-	SPy_1790	-	COG1132V	ABC transporter ATP-binding protein
+1483472..1485235	-	587	15675630	-	SPy_1791	-	COG4988CO	ABC transporter ATP-binding protein
+1485232..1486068	-	278	15675631	-	SPy_1793	-	COG1120PH	ABC transporter ATP-binding protein
+1486065..1487087	-	340	15675632	-	SPy_1794	-	COG0609P	ABC transporter permease
+1487089..1487973	-	294	15675633	-	SPy_1795	-	COG0614P	ABC transporter substrate-binding protein
+1487957..1488832	-	291	15675634	-	SPy_1796	-	-	hypothetical protein
+1489029..1492856	-	1275	15675635	-	SPy_1798	-	COG4886S	hypothetical protein
+1493345..1494856	-	503	15675636	isp2	SPy_1801	-	COG3942R	hypothetical protein
+1494943..1496043	-	366	15675637	alr	SPy_1802	-	COG0787M	alanine racemase
+1496040..1496396	-	118	15675638	acpS	SPy_1804	-	COG0736I	4'-phosphopantetheinyl transferase
+1496512..1499031	-	839	15675639	secA	SPy_1805	-	COG0653U	preprotein translocase subunit SecA
+1499197..1500330	-	377	15675641	-	SPy_1807	-	COG5433L	IS1548 transposase
+1500492..1501445	-	317	15675642	pmi	SPy_1810	-	COG1482G	mannose-6-phosphate isomerase
+1501540..1502424	-	294	15675643	scrK	SPy_1811	-	COG1940KG	fructokinase
+1502688..1505675	-	995	15675644	-	SPy_1813	-	-	hypothetical protein
+1505928..1507790	-	620	15675645	scrA	SPy_1815	-	COG1263G	PTS system sucrose-specific transporter subunit IIABC
+1508032..1509471	+	479	15675646	scrB	SPy_1816	-	COG1621G	sucrose-6-phosphate hydrolase
+1509476..1510441	+	321	15675647	scrR	SPy_1817	-	COG1609K	sucrose operon repressor
+1510582..1511034	-	150	15675648	nusB	SPy_1818	-	COG0781K	transcription antitermination protein NusB
+1511027..1511416	-	129	15675649	-	SPy_1820	-	COG1302S	hypothetical protein
+1511462..1512019	-	185	15675650	efp	SPy_1821	-	COG0231J	elongation factor P
+1512115..1512576	-	153	15675651	comEB	SPy_1823	-	COG2131F	DNA-binding late competence protein
+1512611..1513684	-	357	15675652	pepP	SPy_1824	-	COG0006E	Xaa-Pro dipeptidase
+1513799..1516627	-	942	15675653	uvrA	SPy_1825	-	COG0178L	excinuclease ABC subunit A
+1516830..1517774	+	314	15675654	-	SPy_1827	-	COG0598P	divalent cation transport protein
+1517907..1518563	+	218	15675655	-	SPy_1828	-	COG4858S	hypothetical protein
+1518696..1518935	-	79	15675656	rpsR	SPy_1829	-	COG0238J	30S ribosomal protein S18
+1519100..1519591	-	163	15675657	-	SPy_1830	-	COG0629L	single-stranded DNA-binding protein
+1519613..1519903	-	96	15675658	rpsF	SPy_1831	-	COG0360J	30S ribosomal protein S6
+1520076..1520369	-	97	15675659	-	SPy_1832	-	-	hypothetical protein
+1520567..1521691	+	374	15675660	mutY	SPy_1833	-	COG1194L	A/G-specific adenine glycosylase
+1521767..1522354	+	195	15675661	-	SPy_1834	-	COG1476K	hypothetical protein
+1522406..1522720	-	104	15675662	trx	SPy_1835	-	COG3118O	thioredoxin
+1522801..1523304	-	167	15675663	-	SPy_1836	-	COG0671I	hypothetical protein
+1523305..1525644	-	779	15675664	mutS2	SPy_1837	-	COG1193L	DNA mismatch repair protein
+1525793..1526338	-	181	15675665	-	SPy_1839	-	COG1286R	hypothetical protein
+1526341..1526649	-	102	15675666	-	SPy_1840	-	-	hypothetical protein
+1526806..1527708	+	300	15675667	-	SPy_1841	-	COG1039L	ribonuclease HIII
+1527719..1528312	+	197	15675668	spi	SPy_1842	-	COG0681U	signal peptidase I
+1528370..1530823	+	817	15675669	-	SPy_1844	-	COG0507L	exodeoxyribonuclease V subunit alpha
+1530914..1531396	+	160	15675670	-	SPy_1845	-	-	hypothetical protein
+1531489..1532583	-	364	15675671	dinP	SPy_1846	-	COG0389L	DNA polymerase IV
+1532792..1535119	+	775	15675672	pfl	SPy_1849	-	COG1882C	pyruvate formate-lyase
+1535297..1536247	-	316	15675673	-	SPy_1850	-	COG1680V	esterase
+1536232..1536984	-	250	15675674	-	SPy_1851	-	COG2514R	C3-degrading proteinase
+1537291..1538178	+	295	15675675	-	SPy_1852	-	COG0730R	hypothetical protein
+1538514..1539461	-	315	15675676	glpF.2	SPy_1854	-	COG0580G	glycerol uptake facilitator protein
+1539864..1541159	-	431	15675677	norA	SPy_1856	-	COG2814G	antibiotic resistance protein NorA
+1541166..1541885	+	239	15675678	-	SPy_1857	-	COG0664T	transcriptional regulator
+1541907..1544189	+	760	15675679	pepXP	SPy_1858	-	COG2936R	x-prolyl-dipeptidyl aminopeptidase
+1544661..1545035	+	124	15675680	-	SPy_1861	-	COG1476K	repressor
+1545228..1545527	+	99	15675681	-	SPy_1862	-	COG0718S	hypothetical protein
+1545584..1546321	-	245	15675682	-	SPy_1863	-	COG0789K	transcriptional activator
+1546470..1547096	-	208	15675683	dnaQ	SPy_1864	-	COG0847L	DNA polymerase III subunit epsilon
+1547106..1547687	-	193	15675684	-	SPy_1865	-	-	hypothetical protein
+1547842..1549011	+	389	15675685	-	SPy_1866	-	COG2081R	hypothetical protein
+1549106..1549777	-	223	15675686	deoC	SPy_1867	-	COG0274F	deoxyribose-phosphate aldolase
+1549807..1551009	-	400	15675687	nupC	SPy_1868	-	COG1972F	nucleoside transporter
+1551030..1551809	-	259	15675688	udp	SPy_1869	-	COG2820F	uridine phosphorylase
+1552049..1552792	+	247	15675689	-	SPy_1870	-	COG2188K	GntR family transcriptional regulator
+1553028..1553297	+	89	15675690	rpsN	SPy_1871	-	COG0199J	30S ribosomal protein S14
+1553468..1554496	-	342	15675691	-	SPy_1872	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+1554486..1554911	-	141	15675692	-	SPy_1873	-	COG0456R	ribosomal-protein-alanine acetyltransferase
+1554913..1555611	-	232	15675693	-	SPy_1874	-	COG1214O	glycoprotein endopeptidase
+1555896..1556126	+	76	15675694	-	SPy_1875	-	COG5503S	hypothetical protein
+1556128..1557810	+	560	15675695	-	SPy_1876	-	COG0595R	Zn-dependent hydrolase
+1558037..1559383	-	448	15675696	glnA	SPy_1877	-	COG0174E	glutamine synthetase
+1559421..1559792	-	123	15675697	-	SPy_1878	-	COG0789K	transcriptional regulator
+1559859..1560410	-	183	15675698	-	SPy_1879	-	COG4129S	hypothetical protein
+1560673..1561869	-	398	15675699	pgk	SPy_1881	-	COG0126G	phosphoglycerate kinase
+1562062..1562916	-	284	15675700	lppC	SPy_1882	-	COG2503R	acid phosphatase
+1563146..1564036	-	296	15675701	-	SPy_1884	-	COG0330O	several hypersensitive-induced response proteins
+1564273..1565937	-	554	15675702	-	SPy_1885	-	COG1461R	hypothetical protein
+1565937..1566302	-	121	15675703	asp	SPy_1886	-	COG1302S	alkaline-shock protein
+1566454..1566642	-	62	15675704	rpmB	SPy_1888	-	COG0227J	50S ribosomal protein L28
+1567024..1567905	-	293	15675705	fba	SPy_1889	-	COG0191G	fructose-bisphosphate aldolase
+1568251..1569177	-	308	15675706	-	SPy_1892	-	COG1073R	hypothetical protein
+1569345..1570949	-	534	15675707	pyrG	SPy_1894	-	COG0504F	CTP synthetase
+1571206..1571781	-	191	15675708	rpoE	SPy_1895	-	COG3343K	DNA-directed RNA polymerase subunit delta
+1571998..1573281	-	427	15675709	tig	SPy_1896	-	COG0544O	trigger factor
+1573602..1574447	+	281	15675710	-	SPy_1897	-	COG0668M	hypothetical protein
+1574512..1575069	-	185	15675711	-	SPy_1898	-	COG4475S	hypothetical protein
+1575086..1575556	-	156	15675712	-	SPy_1899	-	COG4720S	hypothetical protein
+1575546..1576310	-	254	15675713	thiD	SPy_1900	-	COG0351H	phosphomethylpyrimidine kinase
+1576300..1577049	-	249	15675714	truA	SPy_1901	-	COG0101J	tRNA pseudouridine synthase A
+1577234..1577785	-	183	15675715	comX1.2	SPy_1902	-	-	ComX1-like protein
+1583512..1584585	-	357	15675716	-	SPy_1903	-	COG1929G	hypothetical protein
+1584936..1587914	+	992	15675717	hsdR	SPy_1904	-	COG0610V	type I site-specific deoxyribonuclease
+1587927..1589126	+	399	15675718	hsdS	SPy_1905	-	COG0732V	type I site-specific deoxyribonuclease
+1589139..1590719	+	526	15675719	hsdM	SPy_1906	-	COG0286V	type I site-specific deoxyribonuclease
+1591272..1591877	-	201	15675720	salR	SPy_1908	-	COG2197TK	response regulator of salavaricin regulon
+1593459..1595366	-	635	15675721	salY	SPy_1911	-	COG3127Q	ABC transporter permease
+1595368..1596105	-	245	15675722	salX	SPy_1912	-	COG1136V	ABC transporter ATP-binding protein
+1596637..1598262	-	541	15675723	salB	SPy_1914	-	COG4403V	salivaricin A modification enzyme; amino acid dehydration
+1598345..1598500	-	51	15675724	salA	SPy_1915	-	-	lantibiotic
+1599003..1600409	-	468	15675725	lacG	SPy_1916	-	COG2723G	6-phospho-beta-galactosidase
+1600497..1602194	-	565	15675726	lacE	SPy_1917	-	COG1455G	PTS system lactose-specific transporter subunit IIBC
+1602194..1602511	-	105	15675727	lacF	SPy_1918	-	COG1447G	PTS system lactose-specific transporter subunit IIA
+1602535..1603518	-	327	15675728	lacD.2	SPy_1919	-	COG3684G	tagatose 1,6-diphosphate aldolase
+1603522..1604451	-	309	15675729	lacC.2	SPy_1921	-	COG1105G	tagatose-6-phosphate kinase
+1604499..1605014	-	171	15675730	lacB.2	SPy_1922	-	COG0698G	galactose-6-phosphate isomerase subunit LacB
+1605049..1605477	-	142	15675731	lacA.2	SPy_1923	-	COG0698G	galactose-6-phosphate isomerase subunit LacA
+1605923..1606696	+	257	15675732	lacR.2	SPy_1924	-	COG1349KG	lactose phosphotransferase system repressor protein
+1607352..1607639	+	95	15675733	-	SPy_1926	-	-	DNA-damage-inducible protein J
+1607629..1607964	+	111	15675734	-	SPy_1927	-	-	hypothetical protein
+1609189..1609581	-	130	15675735	rpsI	SPy_1931	-	COG0103J	30S ribosomal protein S9
+1609602..1610048	-	148	15675736	rplM	SPy_1932	-	COG0102J	50S ribosomal protein L13
+1610266..1610472	-	68	15675737	-	SPy_1934	-	COG1476K	transcriptional regulator
+1610469..1611008	-	179	15675738	-	SPy_1935	-	-	hypothetical protein
+1611111..1611971	-	286	15675739	-	SPy_1936	-	COG1307S	hypothetical protein
+1612068..1612586	-	172	15675740	-	SPy_1937	-	COG3688R	hypothetical protein
+1612590..1613336	-	248	15675741	-	SPy_1938	-	COG0566J	tRNA/rRNA methyltransferase
+1613383..1614180	-	265	15675742	-	SPy_1939	-	-	hypothetical protein
+1614376..1614789	-	137	15675743	-	SPy_1940	-	COG1939S	hypothetical protein
+1614782..1616125	-	447	15675744	cysS	SPy_1941	-	COG0215J	cysteinyl-tRNA synthetase
+1616153..1616383	-	76	15675745	-	SPy_1942	-	-	hypothetical protein
+1616862..1617443	-	193	15675746	cysE	SPy_1944	-	COG1045E	serine acetyltransferase
+1617452..1618204	-	250	15675747	-	SPy_1945	-	-	hypothetical protein
+1618197..1620329	-	710	15675748	pnpA	SPy_1946	-	COG1185J	polynucleotide phosphorylase
+1620610..1621341	-	243	15675749	-	SPy_1947	-	COG0176G	translaldolase
+1621494..1622729	-	411	15675750	ulaA	SPy_1949	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+1622756..1623040	-	94	15675751	-	SPy_1950	-	COG3414G	hypothetical protein
+1623033..1625093	-	686	15675752	-	SPy_1952	-	COG3711K	hypothetical protein
+1625445..1625714	-	89	15675753	rpsO	SPy_1955	-	COG0184J	30S ribosomal protein S15
+1625872..1626027	-	51	15675754	-	SPy_1956	-	-	hypothetical protein
+1626153..1626422	+	89	15675755	-	SPy_1957	-	-	hypothetical protein
+1626523..1627137	+	204	15675756	def	SPy_1958	-	COG0242J	peptide deformylase
+1627171..1627713	-	180	15675757	-	SPy_1959	-	COG0431R	hypothetical protein
+1627844..1628272	-	142	15675758	-	SPy_1960	-	COG1846K	MarR family transcriptional regulator
+1628382..1632779	-	1465	15675759	polC	SPy_1961	-	COG2176L	DNA polymerase III PolC
+1633034..1634890	-	618	15675760	proS	SPy_1962	-	COG0442J	prolyl-tRNA synthetase
+1635088..1636347	-	419	15675761	-	SPy_1963	-	COG0750M	hypothetical protein
+1636420..1637214	-	264	15675762	cdsA	SPy_1964	-	COG0575I	phosphatidate cytidylyltransferase
+1637227..1637976	-	249	15675763	uppS	SPy_1965	-	COG0020I	undecaprenyl pyrophosphate synthase
+1638195..1638560	-	121	15675764	yajC	SPy_1968	-	COG1862U	preprotein translocase subunit YajC
+1638676..1639050	-	124	15675765	-	SPy_1971	-	COG0526OC	hypothetical protein
+1639165..1642662	-	1165	15675766	pulA	SPy_1972	-	COG1523G	pullulanase
+1642860..1644473	-	537	15675767	dexB	SPy_1973	-	COG0366G	dextran glucosidase
+1644602..1645735	-	377	15675768	msmK	SPy_1976	-	COG3839G	sugar ABC transporter ATP-binding protein
+1646033..1646881	-	282	15675769	lrp	SPy_1978	-	COG2508TQ	hypothetical protein
+1647241..1648563	+	440	15675770	ska	SPy_1979	-	-	streptokinase A
+1648661..1649104	-	147	15675771	-	SPy_1980	-	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+1649119..1651350	-	743	15675772	relA	SPy_1981	-	COG0317TK	(p)ppGpp synthetase
+1651590..1652636	-	348	15675773	scl	SPy_1983	-	COG5373S	hypothetical protein
+1653018..1653500	+	160	15675774	-	SPy_1984	-	COG1780F	flavoprotein NrdI
+1653894..1654712	-	272	15675775	-	SPy_1985	-	COG3568R	hypothetical protein
+1654795..1656981	-	728	15675776	-	SPy_1986	-	COG1263G	PTS system glucose-specific transporter subunit IIABC
+1657339..1658088	-	249	15675777	-	SPy_1987	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+1658088..1659041	-	317	15675778	prmA	SPy_1988	-	COG2264J	50S ribosomal protein L11 methyltransferase
+1659112..1659543	-	143	15675779	-	SPy_1989	-	-	hypothetical protein
+1659782..1661539	+	585	15675780	pabB	SPy_1990	-	COG0147EH	para-aminobenzoate synthetase
+1661572..1662138	+	188	15675781	trpG	SPy_1991	-	COG0512EH	anthranilate synthase component II
+1662171..1663439	+	422	15675782	-	SPy_1992	-	COG2256L	recombination factor protein RarA
+1663936..1664376	+	146	15675783	-	SPy_1994	-	COG3153R	pai1 protein
+1664431..1664937	+	168	15675784	flaR	SPy_1995	-	COG0563F	topology modulation protein
+1665186..1665887	+	233	15675785	smeZ	SPy_1998	-	-	mitogenic exotoxin Z
+1666171..1666437	-	88	15675786	-	SPy_1999	-	-	hypothetical protein
+1666616..1668244	+	542	15675787	dppA	SPy_2000	-	COG0747E	surface lipoprotein
+1668357..1669334	+	325	15675788	dppB	SPy_2001	-	COG0601EP	transmembrane transport protein
+1669331..1670152	+	273	15675789	dppC	SPy_2002	-	COG1173EP	transmembrane transport protein
+1670164..1670967	+	267	15675790	dppD	SPy_2003	-	COG0444EP	ATPase
+1670951..1671577	+	208	15675791	dppE	SPy_2004	-	COG1124EP	ATPase
+1671658..1671858	-	66	15675792	-	SPy_2005	-	-	hypothetical protein
+1672027..1674504	-	825	15675793	-	SPy_2006	-	-	hypothetical protein
+1674517..1675437	-	306	15675794	lmb	SPy_2007	-	COG0803P	laminin adhesion
+1675673..1676812	-	379	15675795	-	SPy_2009	-	COG5373S	hypothetical protein
+1676909..1680454	-	1181	15675796	scpA	SPy_2010	-	COG1404O	C5A peptidase
+1680888..1682093	+	401	15675797	-	SPy_2013	-	COG3666L	IS1562 transposase
+1682672..1683598	-	308	15675798	sic	SPy_2016	-	-	inhibitor of complement-mediated lysis
+1683787..1685241	-	484	15675799	emm1	SPy_2018	-	COG1196D	M protein type 1
+1685426..1687015	-	529	15675800	mga	SPy_2019	-	-	M protein trans-acting positive regulator
+1687691..1687942	-	83	15675801	-	SPy_2023	-	-	hypothetical protein
+1688021..1689646	-	541	15675802	isp	SPy_2025	-	COG3942R	hypothetical protein
+1689748..1691136	-	462	15675803	-	SPy_2026	-	COG0642T	histidine kinase
+1691133..1691786	-	217	15675804	-	SPy_2027	-	COG0745TK	two-component response regulator
+1691880..1693097	-	405	15675805	-	SPy_2029	-	COG0577V	ABC transporter permease
+1693110..1693784	-	224	15675806	-	SPy_2031	-	COG1136V	ABC transporter ATP-binding protein
+1693771..1695039	-	422	15675807	-	SPy_2032	-	COG0845M	ATP-binding cassette transporter-like protein
+1695462..1695866	-	134	15675808	-	SPy_2033	-	-	hypothetical protein
+1695893..1696189	-	98	15675809	-	SPy_2034	-	-	hypothetical protein
+1696945..1697874	-	309	15675810	prsA	SPy_2037	-	COG0760O	foldase PrsA
+1698661..1699857	-	398	15675811	speB	SPy_2039	-	-	pyrogenic exotoxin B
+1700129..1700299	-	56	15675812	-	SPy_2040	-	-	hypothetical protein
+1700383..1700514	+	43	15675813	-	SPy_2041	-	-	hypothetical protein
+1700798..1701640	+	280	15675814	ropB	SPy_2042	-	-	transcriptional regulator
+1701881..1702696	-	271	15675815	mf	SPy_2043	-	-	mitogenic factor
+1703060..1703569	+	169	15675816	-	SPy_2045	-	COG1267I	low temperature requirement protein C
+1703651..1704739	-	362	15675817	gldA	SPy_2047	-	COG0371C	glycerol dehydrogenase
+1704796..1705464	-	222	15675818	mipB	SPy_2048	-	COG0176G	fructose-6-phosphate aldolase
+1705477..1707894	-	805	15675819	pflD	SPy_2049	-	COG1882C	pyruvate formate-lyase 2
+1708104..1709408	-	434	15675820	-	SPy_2050	-	COG1455G	PTS system cellobiose-specific transporter subunit IIC
+1709418..1709726	-	102	15675821	-	SPy_2051	-	COG1440G	PTS system cellobiose-specific transporter subunit IIB
+1709754..1710074	-	106	15675822	-	SPy_2052	-	COG1447G	PTS system cellobiose-specific transporter subunit IIA
+1710362..1711342	-	326	15675823	-	SPy_2053	-	COG2390K	transcriptional regulator
+1711358..1712104	-	248	15675824	-	SPy_2054	-	COG1349KG	transcriptional regulator
+1712230..1713003	+	257	15675825	-	SPy_2055	-	COG1180O	pyruvate formate-lyase activating protein
+1713240..1713416	-	58	15675826	secE	SPy_2058	-	COG0690U	preprotein translocase subunit SecE
+1713631..1715967	-	778	15675827	pbp2A	SPy_2059	-	COG0744M	penicillin-binding protein 2a
+1716006..1716386	-	126	15675828	-	SPy_2060	-	COG0251J	hypothetical protein
+1717145..1717963	+	272	15675829	-	SPy_2063	-	COG0564J	hypothetical protein
+1718052..1719776	-	574	15675830	-	SPy_2065	-	COG4640S	hypothetical protein
+1719939..1721435	+	498	15675831	-	SPy_2066	-	COG4690E	dipeptidase
+1722638..1724269	-	543	15675832	groEL	SPy_2070	-	COG0459O	molecular chaperone GroEL
+1724305..1724595	-	96	15675833	groES	SPy_2072	-	COG0234O	co-chaperonin GroES
+1724773..1727217	-	814	15675834	clpC	SPy_2073	-	COG0542O	endopeptidase Clp ATP-binding subunit C
+1727217..1727678	-	153	15675835	ctsR	SPy_2074	-	COG4463K	transcriptional regulator
+1727874..1728077	-	67	15675836	csp	SPy_2077	-	COG1278K	cold shock protein
+1729073..1729633	+	186	15675837	ahpC	SPy_2079	-	COG0450O	alkyl hydroperoxide reductase
+1729654..1731186	+	510	15675838	nox1	SPy_2080	-	COG3634O	NADH oxidase/alkyl hydroperoxidase reductase
+1731244..1732530	-	428	15675839	hutI	SPy_2081	-	COG1228Q	imidazolonepropionase
+1732801..1734831	+	676	15675840	hutU	SPy_2082	-	COG2987E	urocanate hydratase
+1734920..1735819	+	299	15675841	-	SPy_2083	-	COG3643E	glutamate formiminotransferase
+1735830..1736456	+	208	15675842	-	SPy_2084	-	COG3404E	formiminotetrahydrofolate cyclodeaminase
+1736474..1738147	+	557	15675843	fhs.2	SPy_2085	-	COG2759F	formate--tetrahydrofolate ligase
+1738169..1738765	+	198	15675844	-	SPy_2087	-	COG3758S	hypothetical protein
+1738985..1740328	+	447	15675845	-	SPy_2088	-	COG0531E	cationic amino acid transporter protein
+1740339..1741880	+	513	15675846	hutH	SPy_2089	-	COG2986E	histidine ammonia-lyase
+1742066..1743052	+	328	15675847	hutG	SPy_2090	-	COG0010E	formimidoylglutamase
+1743083..1746157	-	1024	15675848	-	SPy_2091	-	COG3899R	regulatory protein
+1746461..1747228	+	255	15675849	rpsB	SPy_2092	-	COG0052J	30S ribosomal protein S2
+1747362..1748402	+	346	15675850	tsf	SPy_2093	-	COG0264J	elongation factor Ts
+1748568..1750463	-	631	15675851	pepO	SPy_2095	-	COG3590O	endopeptidase O
+1750671..1752299	-	542	15675852	dexS	SPy_2096	-	COG0366G	dextran glucosidase
+1752366..1754390	-	674	15675853	-	SPy_2097	-	COG1263G	PTS system transporter subunit II
+1754601..1755314	+	237	15675854	-	SPy_2099	-	COG2188K	GntR family transcriptional regulator
+1756118..1756975	+	285	15675855	-	SPy_2103	-	COG2514R	hypothetical protein
+1757017..1757748	+	243	15675856	-	SPy_2104	-	COG3022S	hypothetical protein
+1757922..1758536	-	204	15675857	nrdG	SPy_2105	-	COG0602O	anaerobic ribonucleotide reductase activator
+1758536..1759045	-	169	15675858	-	SPy_2106	-	COG3981R	hypothetical protein
+1759054..1759989	-	311	15675859	-	SPy_2107	-	COG0673R	oxidoreductase
+1760346..1762544	-	732	15675860	nrdD	SPy_2110	-	COG1328F	anaerobic ribonucleoside triphosphate reductase
+1762641..1764200	-	519	15675861	-	SPy_2111	-	COG1807M	hypothetical protein
+1764613..1764918	-	101	15675862	-	SPy_2112	-	COG3906S	hypothetical protein
+1764930..1765349	-	139	15675863	-	SPy_2113	-	COG0816L	Holliday junction resolvase-like protein
+1765346..1765615	-	89	15675864	-	SPy_2114	-	COG4472S	hypothetical protein
+1765728..1766126	-	132	15675865	spxA	SPy_2115	-	COG1393P	transcriptional regulator Spx
+1766417..1767553	-	378	15675866	recA	SPy_2116	-	COG0468L	recombinase A
+1767642..1768913	-	423	15675867	cinA	SPy_2117	-	COG1058R	competence damage-inducible protein A
+1768982..1769542	-	186	15675868	tag	SPy_2118	-	COG2818L	DNA-3-methyladenine glycosylase
+1769552..1770148	-	198	15675869	ruvA	SPy_2119	-	COG0632L	Holliday junction DNA helicase RuvA
+1770150..1771370	-	406	15675870	lmrP	SPy_2120	-	COG2814G	hypothetical protein
+1771381..1773363	-	660	15675871	mutL	SPy_2121	-	COG0323L	DNA mismatch repair protein
+1773458..1774603	-	381	15675872	int4	SPy_2122	-	COG4974L	integrase
+1775862..1776629	-	255	15675873	-	SPy_2125	-	COG2932K	repressor protein
+1776783..1776989	+	68	15675874	-	SPy_2126	-	COG1476K	hypothetical protein
+1777023..1777790	+	255	15675875	-	SPy_2127	-	COG3617K	hypothetical protein
+1777800..1778423	+	207	15675876	-	SPy_2128	-	COG3617K	hypothetical protein
+1778423..1778692	+	89	15675877	-	SPy_2129	-	-	hypothetical protein
+1778948..1779289	+	113	15675878	-	SPy_2130	-	-	hypothetical protein
+1779276..1779497	+	73	15675879	-	SPy_2131	-	-	hypothetical protein
+1779500..1779691	+	63	15675880	-	SPy_2132	-	-	hypothetical protein
+1779703..1780032	+	109	15675881	-	SPy_2133	-	-	hypothetical protein
+1780035..1780307	+	90	15675882	-	SPy_2134	-	-	hypothetical protein
+1780308..1781165	+	285	15675883	-	SPy_2135	-	-	replication protein
+1781134..1782822	+	562	15675884	-	SPy_2136	-	COG3378R	DNA primase
+1783562..1783972	+	136	15675885	-	SPy_2140	-	-	hypothetical protein
+1784046..1784534	+	162	15675886	-	SPy_2142	-	-	hypothetical protein
+1784938..1785300	+	120	15675887	-	SPy_2144	-	-	hypothetical protein
+1785275..1785658	+	127	15675888	-	SPy_2145	-	COG3956R	hypothetical protein
+1785832..1786407	+	191	15675889	-	SPy_2147	-	-	hypothetical protein
+1787021..1789576	-	851	15675890	mutS	SPy_2148	-	COG0249L	DNA mismatch repair protein MutS
+1789563..1789769	-	68	15675891	-	SPy_2149	-	COG4550S	hypothetical protein
+1789912..1790349	-	145	15675892	ahrC	SPy_2150	-	COG1438K	arginine repressor ArgR
+1790640..1792331	+	563	15675893	argS	SPy_2151	-	COG0018J	arginyl-tRNA synthetase
+1792419..1792727	+	102	15675894	-	SPy_2152	-	-	hypothetical protein
+1792754..1793626	-	290	15675895	-	SPy_2153	-	COG1284S	hypothetical protein
+1793669..1794547	-	292	15675896	-	SPy_2154	-	COG1284S	hypothetical protein
+1794567..1795508	-	313	15675897	-	SPy_2155	-	COG1284S	hypothetical protein
+1795501..1797249	-	582	15675898	aspS	SPy_2156	-	COG0173J	aspartyl-tRNA synthetase
+1797587..1798867	-	426	15675899	hisS	SPy_2157	-	COG0124J	histidyl-tRNA synthetase
+1799149..1799268	+	39	15675900	rpmF	SPy_2159	-	COG0333J	50S ribosomal protein L32
+1799284..1799433	+	49	15675901	rpmG	SPy_2160	-	COG0267J	50S ribosomal protein L33
+1799726..1800340	+	204	15675902	cadD	SPy_2162	-	COG4300P	cadmium resistance protein
+1800352..1800690	+	112	15675903	cadC	SPy_2163	-	COG0640K	cadmium efflux system accessory
+1800720..1801664	+	314	15675904	-	SPy_2164	-	-	hypothetical protein
+1801730..1802482	+	250	15675905	-	SPy_2165	-	COG1674D	hypothetical protein
+1802479..1803081	+	200	15675906	-	SPy_2166	-	-	hypothetical protein
+1804292..1805134	+	280	15675907	-	SPy_2169	-	COG2035S	hypothetical protein
+1805181..1805822	-	213	15675908	-	SPy_2170	-	COG1051F	hypothetical protein
+1806029..1806355	+	108	15675909	-	SPy_2172	-	COG1695K	hypothetical protein
+1806342..1806929	+	195	15675910	-	SPy_2173	-	COG4709S	hypothetical protein
+1806926..1808005	+	359	15675911	-	SPy_2174	-	-	hypothetical protein
+1808123..1810396	-	757	15675912	-	SPy_2176	-	COG1511S	hypothetical protein
+1810531..1811064	+	177	15675913	-	SPy_2177	-	COG1309K	TetR/AcrR family transcriptional regulator
+1811218..1811829	-	203	15675914	rpsD	SPy_2178	-	COG0522J	30S ribosomal protein S4
+1812120..1813253	-	377	15675915	-	SPy_2180	-	COG5433L	transposase
+1813885..1814157	-	90	15675916	-	SPy_2181	-	COG4466S	hypothetical protein
+1814174..1815541	-	455	15675917	holB	SPy_2182	-	COG0305L	replicative DNA helicase
+1815571..1816023	-	150	15675918	rplI	SPy_2183	-	COG0359J	50S ribosomal protein L9
+1816020..1817996	-	658	15675919	-	SPy_2184	-	COG3887T	hypothetical protein
+1818087..1819985	-	632	15675920	gidA	SPy_2185	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1820109..1820426	-	105	15675921	-	SPy_2186	-	COG1051F	hypothetical protein
+1821203..1822324	-	373	15675922	mnmA	SPy_2188	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+1822622..1823293	+	223	15675923	sdhB	SPy_2189	-	COG1760E	L-serine dehydratase subunit beta
+1823305..1824177	+	290	15675924	sdhA	SPy_2190	-	COG1760E	L-serine dehydratase subunit alpha
+1824590..1825204	-	204	15675925	-	SPy_2191	-	COG0741M	hypothetical protein
+1825576..1826376	-	266	15675926	-	SPy_2193	-	COG0619P	hypothetical protein
+1826369..1827211	-	280	15675927	cbiO	SPy_2194	-	COG1122P	cobalt transporter ATP-binding subunit
+1827187..1828077	-	296	15675928	cbiO	SPy_2195	-	COG1122P	cobalt transporter ATP-binding subunit
+1828028..1828570	-	180	15675929	pgsA	SPy_2196	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1828584..1829609	-	341	15675930	-	SPy_2197	-	COG1426S	hypothetical protein
+1829659..1830948	-	429	15675931	-	SPy_2198	-	COG0612R	hypothetical protein
+1830950..1832194	-	414	15675932	-	SPy_2199	-	COG0612R	hypothetical protein
+1832625..1833884	+	419	15675933	hasA	SPy_2200	-	COG1215M	hyaluronate synthase
+1833920..1835128	+	402	15675934	hasB	SPy_2201	-	COG1004M	UDP-glucose 6-dehydrogenase
+1835310..1836224	+	304	15675935	hasC	SPy_2202	-	COG1210M	UDP-glucose pyrophosphorylase
+1836532..1836945	+	137	15675936	-	SPy_2203	-	COG2501S	hypothetical protein
+1836947..1838053	+	368	15675937	recF	SPy_2204	-	COG1195L	recombination protein F
+1838108..1838941	-	277	15675938	-	SPy_2205	-	COG4975G	hypothetical protein
+1839173..1840654	-	493	15675939	guaB	SPy_2206	-	COG0516F	inosine 5'-monophosphate dehydrogenase
+1840962..1841984	-	340	15675940	trsA	SPy_2207	-	COG0180J	tryptophanyl-tRNA synthetase
+1842403..1843275	+	290	15675941	-	SPy_2209	-	COG1284S	hypothetical protein
+1843354..1844973	+	539	15675942	-	SPy_2210	-	COG0488R	ABC transporter ATP-binding protein
+1845056..1847632	+	858	15675943	-	SPy_2211	-	COG4485S	ABC transporter permease
+1849661..1850140	-	159	15675944	-	SPy_2215	-	COG1576S	rRNA large subunit methyltransferase
+1850352..1851575	+	407	15675945	htrA	SPy_2216	-	COG0265O	serine protease
+1851634..1852440	+	268	15675946	spoJ	SPy_2217	-	COG1475K	chromosome segregation protein

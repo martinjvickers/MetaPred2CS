@@ -1,0 +1,478 @@
+Mycoplasma genitalium G37, complete genome - 1..580076
+475 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+686..1828	+	380	108885075	dnaN	MG_001	-	COG0592L	DNA polymerase III subunit beta
+1828..2760	+	310	108885076	-	MG_002	-	COG0484O	DnaJ domain-containing protein
+2845..4797	+	650	12044853	gyrB	MG_003	-	COG0187L	DNA gyrase subunit B
+4812..7322	+	836	12044854	gyrA	MG_004	-	COG0188L	DNA gyrase subunit A
+7294..8547	+	417	12044855	serS	MG_005	-	COG0172J	seryl-tRNA synthetase
+8551..9183	+	210	12044856	tmk	MG_006	-	COG0125F	thymidylate kinase
+9156..9920	+	254	12044857	-	MG_007	-	COG0470L	DNA polymerase III subunit delta'
+9923..11251	+	442	12044858	trmE	MG_008	-	COG0486R	tRNA modification GTPase TrmE
+11251..12039	+	262	12044859	-	MG_009	-	COG0084L	TatD family deoxyribonuclease
+12068..12724	+	218	12044860	-	MG_010	-	COG0358L	DNA primase-related protein
+12701..13564	-	287	12044861	-	MG_011	-	COG0189HJ	hypothetical protein
+13569..14432	-	287	12044862	-	MG_012	-	COG0189HJ	alpha-L-glutamate ligase
+14395..15216	-	273	108885077	folD	MG_013	-	COG0190H	methylenetetrahydrofolate dehydrogenase/methylenetetrahydrofolate cyclohydrolase
+15555..17426	+	623	12044864	-	MG_014	-	COG1132V	ABC transporter ATP-binding protein/permease
+17473..19242	+	589	12044865	-	MG_015	-	COG1132V	ABC transporter ATP-binding protein/permease
+19252..22347	+	1031	108885078	-	MG_018	-	COG0553KL	SNF2 family helicase
+22389..23558	+	389	12044869	dnaJ	MG_019	-	COG0484O	chaperone protein DnaJ
+23542..24468	+	308	12044870	pip	MG_020	-	COG0596R	proline iminopeptidase
+24468..26006	+	512	12044871	metS	MG_021	-	COG0143J	methionyl-tRNA synthetase
+26036..26473	+	145	12044872	rpoE	MG_022	-	COG3343K	DNA-directed RNA polymerase subunit delta
+26479..27345	+	288	12044873	fba	MG_023	-	COG0191G	fructose-1,6-bisphosphate aldolase, class II
+27346..28449	+	367	12044874	-	MG_024	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+28652..29548	+	298	12044875	-	MG_025	-	COG0463M	glycosyl transferase, group 2 family protein
+29552..30124	+	190	12044876	efp	MG_026	-	COG0231J	elongation factor P
+30093..30548	+	151	12044877	-	MG_027	-	COG0781K	transcription termination/antitermination protein NusB
+30548..31153	+	201	12044878	-	MG_028	-	-	hypothetical protein
+31143..31703	-	186	12044879	-	MG_029	-	COG0693R	DJ-1/PfpI family protein
+31705..32325	-	206	12044880	upp	MG_030	-	COG0035F	uracil phosphoribosyltransferase
+32359..36714	-	1451	12044881	polC	MG_031	-	COG2176L	DNA polymerase III PolC
+36977..38977	+	666	12044882	-	MG_032	-	-	hypothetical protein
+39127..39903	+	258	12044883	glpF	MG_033	-	COG0580G	glycerol uptake facilitator
+39872..40513	-	213	12044884	tdk	MG_034	-	COG1435F	thymidine kinase
+40542..41786	+	414	12044885	hisS	MG_035	-	COG0124J	histidyl-tRNA synthetase
+41776..43428	+	550	12044886	aspS	MG_036	-	COG0173J	aspartyl-tRNA synthetase
+43401..44753	+	450	12044887	-	MG_037	-	COG1488H	nicotinate phosphoribosyltransferase
+44750..46276	-	508	12044888	glpK	MG_038	-	COG0554C	glycerol kinase
+46267..47421	-	384	12044889	-	MG_039	-	COG0579R	FAD-dependent glycerol-3-phosphate dehydrogenase
+47580..49355	+	591	12044890	-	MG_040	-	COG1744R	lipoprotein
+49376..49642	+	88	12044891	ptsH	MG_041	-	COG1925G	phosphocarrier protein HPr
+49840..51519	+	559	12044892	potA	MG_042	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+51524..52381	+	285	12044893	potB	MG_043	-	COG1176E	spermidine/putrescine ABC transporter permease
+52365..53219	+	284	12044894	potC	MG_044	-	COG1177E	spermidine/putrescine ABC transporter permease
+53204..54655	+	483	12044895	-	MG_045	-	COG0687E	spermidine/putrescine ABC transporter spermidine/putrescine binding protein
+54657..55604	+	315	12044896	-	MG_046	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+55588..56739	+	383	12044897	metX	MG_047	-	COG0192H	S-adenosylmethionine synthetase
+56969..58309	-	446	12044898	ffh	MG_048	-	COG0541U	signal recognition particle protein
+58362..59078	+	238	108885079	deoD	MG_049	-	COG0813F	purine nucleoside phosphorylase
+59082..59753	+	223	12044900	-	MG_050	-	COG0274F	deoxyribose-phosphate aldolase
+59740..61005	+	421	12044901	deoA	MG_051	-	COG0213F	thymidine phosphorylase
+61014..61406	+	130	12044902	cdd	MG_052	-	COG0295F	cytidine deaminase
+61406..63058	+	550	12044903	manB	MG_053	-	COG1109G	phosphoglucomutase/phosphomannomutase
+63035..63985	-	316	12044904	-	MG_054	-	COG0250K	transcription antitermination protein NusG
+63989..64360	-	123	12044905	secE	MG_055	-	COG0690U	preprotein translocase subunit SecE
+64367..64513	-	48	12044906	rpmG	MG_473	-	COG0267J	50S ribosomal protein L33
+64527..64910	-	127	12044907	-	MG_474	-	-	hypothetical protein
+64897..65730	-	277	12044908	-	MG_056	-	COG0313R	tetrapyrrole (corrin/porphyrin) methylase protein
+65712..66248	-	178	12044909	-	MG_057	-	COG1658L	small primase-like protein
+66227..67225	-	332	108885080	prs	MG_058	-	COG0462FE	ribose-phosphate pyrophosphokinase
+67206..67643	-	145	12044911	smpB	MG_059	-	COG0691O	SsrA-binding protein
+67650..68543	+	297	12044912	-	MG_060	-	COG0463M	glycosyl transferase, group 2 family protein
+68522..70225	-	567	108885081	-	MG_061	-	-	MFS family transporter
+70530..72572	+	680	12044914	fruA	MG_062	-	COG1299G	PTS system, fructose-specific IIABC component
+72523..73434	+	303	108885082	fruK	MG_063	-	COG1105G	1-phosphofructokinase
+73690..77685	+	1331	12044916	-	MG_064	-	-	ABC transporter permease
+77685..79085	+	466	12044917	-	MG_065	-	COG1136V	ABC transporter ATP-binding protein
+79089..81035	+	648	12044918	tktA	MG_066	-	COG0021G	transketolase
+81046..82596	+	516	12044919	-	MG_067	-	-	lipoprotein
+82620..84044	+	474	12044920	-	MG_068	-	-	lipoprotein
+88228..90954	+	908	12044921	ptsG	MG_069	-	COG2190G	PTS system, glucose-specific IIABC component
+91065..91919	+	284	12044922	rpsB	MG_070	-	COG0052J	30S ribosomal protein S2
+91924..94548	+	874	12044923	-	MG_071	-	COG0474P	ATPase P
+94535..96955	+	806	12044924	secA	MG_072	-	COG0653U	preprotein translocase subunit SecA
+96933..98903	+	656	12044925	uvrB	MG_073	-	COG0556L	excinuclease ABC subunit B
+98906..99319	+	137	12044926	-	MG_074	-	-	hypothetical protein
+99383..102457	+	1024	12044927	-	MG_075	-	-	hypothetical protein
+102454..102870	-	138	12044928	-	MG_076	-	-	hypothetical protein
+103104..104327	+	407	12044929	oppB	MG_077	-	COG0601EP	peptide ABC transporter permease
+104320..105450	+	376	12044930	oppC	MG_078	-	COG1173EP	peptide ABC transporter permease
+105452..106660	+	402	12044931	oppD	MG_079	-	COG0444EP	peptide ABC transporter ATP-binding protein
+106660..109206	+	848	12044932	oppF	MG_080	-	COG4608E	peptide ABC transporter ATP-binding protein
+109262..109675	+	137	12044933	rplK	MG_081	-	COG0080J	50S ribosomal protein L11
+109675..110355	+	226	12044934	rplA	MG_082	-	COG0081J	50S ribosomal protein L1
+110355..110924	+	189	12044935	pth	MG_083	-	COG0193J	peptidyl-tRNA hydrolase
+110917..111789	+	290	12044936	-	MG_084	-	COG0037D	tRNA(Ile)-lysidine synthetase
+111790..112725	+	311	12044937	ser	MG_085	-	COG1493T	HPr kinase/phosphorylase
+112718..113866	+	382	12044938	lgt	MG_086	-	COG0682M	prolipoprotein diacylglyceryl transferase
+113895..114314	+	139	12044939	rpsL	MG_087	-	COG0048J	30S ribosomal protein S12
+114331..114798	+	155	12044940	rpS7	MG_088	-	COG0049J	30S ribosomal protein S7
+114808..116874	+	688	12044941	fus	MG_089	-	COG0480J	elongation factor G
+116926..117552	+	208	12044942	rpsF	MG_090	-	COG0360J	30S ribosomal protein S6
+117553..118035	+	160	12044943	ssb	MG_091	-	COG0629L	single-strand binding protein family
+118025..118342	+	105	12044944	rpsR	MG_092	-	COG0238J	30S ribosomal protein S18
+118345..118797	+	150	12044945	rplI	MG_093	-	COG0359J	50S ribosomal protein L9
+118781..120187	+	468	108885083	dnaB	MG_094	-	COG0305L	replicative DNA helicase
+120191..121387	+	398	12044947	-	MG_095	-	-	lipoprotein
+121571..123523	+	650	12044948	-	MG_096	-	-	hypothetical protein
+123580..124317	+	245	12044949	ung	MG_097	-	COG0692L	uracil-DNA glycosylase
+124417..125850	+	477	12044950	-	MG_098	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+125853..127286	+	477	12044951	gatA	MG_099	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+127279..128712	+	477	12044952	gatB	MG_100	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+128687..129355	+	222	12044953	-	MG_101	-	COG2188K	hypothetical protein
+129348..130295	+	315	12044954	trxB	MG_102	-	COG0492O	thioredoxin-disulfide reductase
+130285..131127	+	280	12044955	-	MG_103	-	COG1481S	hypothetical protein
+131149..131382	+	77	108885119	secG	MG_476	-	COG1314U	preprotein translocase subunit SecG
+131385..133562	+	725	12044956	vacB	MG_104	-	COG0557K	ribonuclease R
+133570..134172	+	200	108885084	-	MG_105	-	COG1624S	hypothetical protein
+134147..134728	-	193	108885085	def	MG_106	-	COG0242J	peptide deformylase
+134769..135338	+	189	12044959	gmk	MG_107	-	COG0194F	guanylate kinase
+135338..136120	+	260	12044960	-	MG_108	-	COG0631T	protein phosphatase 2C
+136105..137268	+	387	108885086	-	MG_109	-	COG0515RTKL	serine/threonine protein kinase
+137255..138091	+	278	12044962	-	MG_110	-	COG1162R	ribosome small subunit-dependent GTPase A
+138112..139407	+	431	161579581	pgi	MG_111	-	COG0166G	glucose-6-phosphate isomerase
+139397..140026	+	209	12044964	-	MG_112	-	COG0036G	ribulose-phosphate 3-epimerase
+140040..141410	+	456	12044965	asnC	MG_113	-	COG0017J	asparaginyl-tRNA synthetase
+141346..142056	+	236	12044966	pgsA	MG_114	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+142081..142554	+	157	12044967	-	MG_115	-	COG1546R	competence/damage inducible protein CinA
+142563..143318	+	251	12044968	-	MG_116	-	COG1211I	hypothetical protein
+143311..143955	+	214	12044969	-	MG_117	-	-	hypothetical protein
+143936..144958	+	340	12044970	galE	MG_118	-	COG1087M	UDP-glucose 4-epimerase
+144973..146667	+	564	12044971	mglA	MG_119	-	COG3845R	ABC transporter ATP-binding protein
+146674..148236	+	520	12044972	-	MG_120	-	COG4603R	ABC transporter permease
+148239..149159	+	306	12044973	-	MG_121	-	COG1079R	ABC transporter permease
+149199..151328	+	709	12044974	topA	MG_122	-	COG0550L	DNA topoisomerase I
+151306..152721	+	471	12044975	-	MG_123	-	-	hypothetical protein
+152768..153076	+	102	12044976	trxA	MG_124	-	COG3118O	thioredoxin
+153082..153939	+	285	12044977	-	MG_125	-	COG0561R	Cof-like hydrolase
+153920..154963	-	347	12044978	trpS	MG_126	-	COG0180J	tryptophanyl-tRNA synthetase
+154999..155436	+	145	12044979	-	MG_127	-	COG1393P	Spx subfamily protein
+155444..156223	+	259	12044980	ppnK	MG_128	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+156223..156576	+	117	12044981	-	MG_129	-	COG1264G	hypothetical protein
+156566..158020	+	484	12044982	-	MG_130	-	COG1418R	hypothetical protein
+158581..159006	-	141	12044984	-	MG_132	-	COG0537FGR	HIT domain-containing protein
+158984..159778	-	264	108885087	-	MG_133	-	-	hypothetical protein
+159798..160100	+	100	12044986	-	MG_134	-	COG0718S	hypothetical protein
+160072..160914	-	280	12044987	-	MG_135	-	-	hypothetical protein
+160963..162435	+	490	12044988	lysS	MG_136	-	COG1190J	lysyl-tRNA synthetase
+162377..163591	+	404	12044989	glf	MG_137	-	COG0562M	UDP-galactopyranose mutase
+163591..165387	+	598	12044990	lepA	MG_138	-	COG0481M	GTP-binding protein LepA
+165471..167180	+	569	12044991	-	MG_139	-	COG0595R	metallo-beta-lactamase superfamily protein
+175805..179146	+	1113	12044992	-	MG_140	-	COG1112L	hypothetical protein
+179151..180746	+	531	12044993	nusA	MG_141	-	COG0195K	transcription elongation factor NusA
+180746..181018	+	90	108885120	-	MG_477	-	COG2740K	hypothetical protein
+181005..182864	+	619	12044994	infB	MG_142	-	COG0532J	translation initiation factor IF-2
+182851..183189	+	112	12044995	-	MG_143	-	COG0858J	ribosome-binding factor A
+183214..184053	+	279	12044996	-	MG_144	-	-	hypothetical protein
+184053..184862	+	269	12044997	-	MG_145	-	COG0196H	riboflavin biosynthesis protein RibF
+184875..186149	+	424	12044998	-	MG_146	-	COG1253R	hypothetical protein
+186136..187263	+	375	108885088	-	MG_147	-	-	hypothetical protein
+187302..188531	+	409	12045000	-	MG_148	-	COG4487S	hypothetical protein
+188607..189452	+	281	12045001	-	MG_149	-	-	lipoprotein
+189492..189956	+	154	108885089	-	MG_478	-	-	hypothetical protein
+190046..190366	+	106	12045003	rpsJ	MG_150	-	COG0051J	30S ribosomal protein S10
+190370..191143	+	257	12045004	rplC	MG_151	-	COG0087J	50S ribosomal protein L3
+191143..191778	+	211	12045005	rplD	MG_152	-	COG0088J	50S ribosomal protein L4
+191782..192102	+	106	12045006	rplW	MG_153	-	COG0089J	50S ribosomal protein L23
+192102..192959	+	285	12045007	rplB	MG_154	-	COG0090J	50S ribosomal protein L2
+192959..193222	+	87	12045008	rpsS	MG_155	-	COG0185J	30S ribosomal protein S19
+193225..193659	+	144	12045009	rplV	MG_156	-	COG0091J	50S ribosomal protein L22
+193662..194468	+	268	12045010	rpsC	MG_157	-	COG0092J	30S ribosomal protein S3
+194474..194890	+	138	12045011	rplP	MG_158	-	COG0197J	50S ribosomal protein L16
+194890..195492	+	200	12045012	rpmC	MG_159	-	COG0255J	50S ribosomal protein L29
+195492..195749	+	85	12045013	rpsQ	MG_160	-	COG0186J	30S ribosomal protein S17
+195753..196121	+	122	12045014	rplN	MG_161	-	COG0093J	50S ribosomal protein L14
+196121..196447	+	108	12045015	rplX	MG_162	-	COG0198J	50S ribosomal protein L24
+196453..196995	+	180	12045016	rplE	MG_163	-	COG0094J	50S ribosomal protein L5
+196998..197183	+	61	12045017	rpsN	MG_164	-	COG0199J	30S ribosomal protein S14
+197177..197602	+	141	12045018	rpsH	MG_165	-	COG0096J	30S ribosomal protein S8
+197609..198163	+	184	12045019	rplF	MG_166	-	COG0097J	50S ribosomal protein L6
+198165..198512	+	115	12045020	rplR	MG_167	-	COG0256J	50S ribosomal protein L18
+198517..199152	+	211	12045021	rpsE	MG_168	-	COG0098J	30S ribosomal protein S5
+199158..199610	+	150	12045022	rplO	MG_169	-	COG0200J	50S ribosomal protein L15
+199610..201037	+	475	12045023	secY	MG_170	-	COG0201U	preprotein translocase subunit SecY
+201031..201675	+	214	12045024	adk	MG_171	-	COG0563F	adenylate kinase
+201678..202424	+	248	12045025	map	MG_172	-	COG0024J	methionine aminopeptidase, type I
+202424..202636	+	70	12045026	infA	MG_173	-	COG0361J	translation initiation factor IF-1
+202647..202760	+	37	12045027	rpmJ	MG_174	-	-	50S ribosomal protein L36
+202760..203134	+	124	12045028	rpsM	MG_175	-	COG0099J	30S ribosomal protein S13
+203134..203499	+	121	108885090	rpS11	MG_176	-	COG0100J	30S ribosomal protein S11
+203515..204501	+	328	12045030	rpoA	MG_177	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+204514..204885	+	123	12045031	rplQ	MG_178	-	COG0203J	50S ribosomal protein L17
+204872..205696	+	274	12045032	cbiO	MG_179	-	COG1122P	cobalt transporter ATP-binding subunit
+205681..206595	+	304	12045033	cbiO	MG_180	-	COG1122P	cobalt transporter ATP-binding subunit
+206588..207850	+	420	12045034	-	MG_181	-	COG0619P	metal ABC transporter permease
+207843..208577	+	244	12045035	truA	MG_182	-	COG0101J	tRNA pseudouridine synthase A
+208567..210390	+	607	12045036	pepF	MG_183	-	COG1164E	oligoendopeptidase F
+210391..211344	+	317	12045037	-	MG_184	-	-	adenine-specific DNA modification methylase
+211444..213549	+	701	12045038	-	MG_185	-	-	lipoprotein
+216016..216768	+	250	12045039	-	MG_186	-	COG1525L	nuclease-like protein
+216761..218518	+	585	12045040	-	MG_187	-	COG3839G	ABC transporter ATP-binding protein
+218521..219510	+	329	12045041	-	MG_188	-	COG1175G	ABC transporter permease
+219482..220438	+	318	108885091	-	MG_189	-	COG0395G	ABC transporter permease
+220607..221563	+	318	108885092	mgpA	MG_190	-	COG0618R	DHH family phosphoesterase
+221570..225904	+	1444	12045044	mgpB	MG_191	-	-	MgPa adhesin
+225906..229067	+	1053	108885093	mgpC	MG_192	-	-	hypothetical protein
+232009..233034	+	341	12045046	pheS	MG_194	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+233038..235458	+	806	12045047	pheT	MG_195	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+235517..236062	+	181	12045048	infC	MG_196	-	COG0290J	translation initiation factor IF-3
+236065..236244	+	59	12045049	rpmI	MG_197	-	COG0291J	50S ribosomal protein L35
+236247..236621	+	124	12045050	rplT	MG_198	-	COG0292J	50S ribosomal protein L20
+237347..239152	+	601	12045052	-	MG_200	-	COG0484O	DnaJ domain-containing protein
+239164..239817	+	217	12045053	grpE	MG_201	-	COG0576O	co-chaperone GrpE
+239827..240195	+	122	12045054	-	MG_202	-	-	hypothetical protein
+240323..242224	+	633	12045055	parE	MG_203	-	COG0187L	DNA topoisomerase IV, B subunit
+242224..244569	+	781	12045056	parC	MG_204	-	COG0188L	DNA topoisomerase IV, A subunit
+244566..245597	-	343	12045057	hrcA	MG_205	-	COG1420K	heat-inducible transcription repressor
+245633..247426	+	597	12045058	uvrC	MG_206	-	COG0322L	excinuclease ABC, C subunit
+247407..247910	+	167	12045059	-	MG_207	-	COG0622R	serine/threonine protein phosphatase
+247903..248493	-	196	12045060	-	MG_208	-	COG1214O	glycoprotease
+248477..249403	-	308	12045061	-	MG_209	-	COG0564J	RluA family pseudouridine synthase
+249403..249948	-	181	12045062	lspA	MG_210	-	COG0597MU	signal peptidase II
+250149..250808	+	219	12045063	-	MG_480	-	-	hypothetical protein
+250808..250996	+	62	12045331	rpsU	MG_481	-	-	30S ribosomal protein S21
+250998..251441	+	147	12045064	-	MG_211	-	-	hypothetical protein
+251444..251788	+	114	12045065	acpS	MG_482	-	COG0736I	4'-phosphopantetheinyl transferase
+251781..252587	+	268	12045066	plsC	MG_212	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+252580..253995	+	471	12045067	scpA	MG_213	-	COG1354S	segregation and condensation protein A
+253979..254602	+	207	12045068	scpB	MG_214	-	COG1386K	segregation and condensation protein B
+254621..255592	+	323	12045069	pfkA	MG_215	-	COG0205G	6-phosphofructokinase
+255595..257121	+	508	12045070	pyk	MG_216	-	COG0469G	pyruvate kinase
+258041..259159	+	372	12045071	-	MG_217	-	-	proline-rich P65 protein
+259177..264594	+	1805	12045072	hmw2	MG_218	-	COG1196D	HMW2 cytadherence accessory protein
+264597..265637	+	346	12045073	-	MG_491	-	-	hypothetical protein
+265597..266043	+	148	12045074	-	MG_219	-	-	hypothetical protein
+266075..266356	-	93	108885094	-	MG_220	-	-	hypothetical protein
+266666..267091	+	141	108885095	-	MG_221	-	COG2001S	cell division protein MraZ
+267081..268010	+	309	12045077	mraW	MG_222	-	COG0275M	S-adenosyl-methyltransferase MraW
+268012..269247	+	411	12045078	-	MG_223	-	-	hypothetical protein
+269250..270359	+	369	12045079	ftsZ	MG_224	-	COG0206D	cell division protein FtsZ
+270405..271874	+	489	12045080	-	MG_225	-	COG0531E	amino acid-polyamine-organocation (APC) permease family protein
+271840..273318	+	492	108885096	-	MG_226	-	COG0531E	amino acid-polyamine-organocation (APC) permease family protein
+273790..274653	+	287	12045082	thyA	MG_227	-	COG0207F	thymidylate synthase
+274653..275135	+	160	12045083	dhfR	MG_228	-	COG0262H	dihydrofolate reductase
+275141..276163	+	340	12045084	nrdF	MG_229	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+276167..276628	+	153	12045085	nrdI	MG_230	-	COG1780F	ribonucleotide reductase stimulatory protein
+276647..278812	+	721	12045086	nrdE	MG_231	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+278905..279207	+	100	12045087	rplU	MG_232	-	COG0261J	50S ribosomal protein L21
+279200..279499	+	99	12045088	-	MG_233	-	COG2868J	hypothetical protein
+279492..279806	+	104	12045089	rpmA	MG_234	-	COG0211J	50S ribosomal protein L27
+279799..280674	+	291	12045090	-	MG_235	-	COG0648L	apurinic endonuclease (APN1)
+280664..281086	+	140	12045091	-	MG_236	-	COG0735P	hypothetical protein
+281079..281963	+	294	12045092	-	MG_237	-	-	hypothetical protein
+281993..283327	+	444	12045093	tig	MG_238	-	COG0544O	trigger factor
+283396..285783	+	795	12045094	lon	MG_239	-	COG0466O	ATP-dependent protease La
+285780..286832	-	350	108885097	nadD	MG_240	-	COG1713H	nicotinate-nucleotide adenylyltransferase
+286885..288747	+	620	12045096	-	MG_241	-	-	hypothetical protein
+288753..290645	+	630	12045097	-	MG_242	-	-	hypothetical protein
+291334..293445	+	703	12045098	-	MG_244	-	COG0210L	UvrD/REP helicase
+293448..293945	+	165	12045099	-	MG_245	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+293938..294783	+	281	12045100	-	MG_246	-	COG1692S	serine/threonine protein phosphatase
+294767..295486	-	239	12045101	-	MG_247	-	COG0344S	glycerol-3-phosphate acyltransferase PlsY
+295473..296129	-	218	12045102	-	MG_248	-	COG2384R	hypothetical protein
+296113..297606	-	497	12045103	rpoD	MG_249	-	COG0568K	RNA polymerase sigma factor
+297651..299474	-	607	12045104	dnaE	MG_250	-	COG0358L	DNA primase
+299464..300804	-	446	12045105	-	MG_251	-	COG0423J	glycyl-tRNA synthetase
+300824..301552	-	242	12045106	-	MG_252	-	COG0566J	RNA methyltransferase
+301555..302841	-	428	12045107	cysS	MG_253	-	COG0215J	cysteinyl-tRNA synthetase
+302846..304825	-	659	12045108	-	MG_254	-	COG0272L	DNA ligase, NAD-dependent
+305001..306098	+	365	12045109	-	MG_255	-	-	hypothetical protein
+306821..307591	+	256	12045111	-	MG_256	-	-	hypothetical protein
+307637..307930	+	97	12045112	rpmE	MG_257	-	COG0254J	50S ribosomal protein L31
+307930..309009	+	359	12045113	prfA	MG_258	-	COG0216J	peptide chain release factor 1
+309010..310380	+	456	12045114	-	MG_259	-	COG2890J	HemK family modification methylase
+310511..312808	+	765	12045115	-	MG_260	-	-	lipoprotein
+315701..318325	+	874	12045116	polC-2	MG_261	-	COG0587L	DNA polymerase III subunit alpha
+318332..319207	+	291	12045117	-	MG_262	-	COG0258L	5'-3' exonuclease
+319207..320061	+	284	12045118	mutM	MG_498	-	COG0266L	formamidopyrimidine-DNA glycosylase
+320177..321052	+	291	12045119	-	MG_263	-	COG0561R	Cof-like hydrolase
+321046..321642	+	198	12045120	-	MG_264	-	COG0237H	dephospho-CoA kinase
+321578..322414	-	278	12045121	-	MG_265	-	COG0561R	Cof-like hydrolase
+322433..324811	-	792	12045122	leuS	MG_266	-	COG0495J	leucyl-tRNA synthetase
+324812..325159	-	115	12045123	-	MG_267	-	-	hypothetical protein
+325193..325879	-	228	12045124	-	MG_268	-	COG1428F	hypothetical protein
+326030..327052	-	340	12045125	-	MG_269	-	COG1196D	hypothetical protein
+327433..328443	-	336	12045126	lplA	MG_270	-	COG0095H	lipoyltransferase/lipoate-protein ligase
+328454..329827	-	457	12045127	pdhD	MG_271	-	COG1249C	dihydrolipoamide dehydrogenase
+329831..330985	-	384	12045128	pdhC	MG_272	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+331235..332215	-	326	12045129	pdhB	MG_273	-	COG0022C	pyruvate dehydrogenase component E1, beta subunit
+332233..333309	-	358	12045130	pdhA	MG_274	-	COG1071C	pyruvate dehydrogenase component E1, alpha subunit
+333337..334773	-	478	108885099	nox	MG_275	-	COG0446R	NADH oxidase
+334856..335398	-	180	12045132	-	MG_276	-	COG0503F	adenine phosphoribosyltransferase
+335412..338324	-	970	12045133	-	MG_277	-	-	hypothetical protein
+338367..340529	+	720	12045134	relA	MG_278	-	COG0317TK	GTP pyrophosphokinase
+340526..341182	-	218	12045135	-	MG_279	-	-	hypothetical protein
+341175..341972	-	265	108885100	-	MG_280	-	-	hypothetical protein
+342033..343703	-	556	12045137	-	MG_281	-	-	hypothetical protein
+344365..344850	-	161	12045138	greA	MG_282	-	COG0782K	transcription elongation factor GreA
+345182..346633	+	483	12045139	proS	MG_283	-	COG0442J	prolyl-tRNA synthetase
+346854..347252	+	132	12045140	-	MG_284	-	-	hypothetical protein
+347215..348258	+	347	12045141	-	MG_285	-	-	hypothetical protein
+348261..348851	+	196	12045142	-	MG_286	-	-	hypothetical protein
+348883..349137	+	84	12045143	-	MG_287	-	COG0236IQ	acyl carrier protein
+354024..355130	+	368	12045144	-	MG_289	-	-	phosphonate ABC transporter substrate-binding protein
+355120..355857	+	245	12045145	-	MG_290	-	COG1120PH	phosphonate ABC transporter ATP-binding protein
+355847..357478	+	543	12045146	-	MG_291	-	COG3639P	phosphonate ABC transporter permease
+357475..357891	-	138	12045147	-	MG_505	-	COG0816L	hypothetical protein
+357891..360593	-	900	12045148	alaS	MG_292	-	COG0013J	alanyl-tRNA synthetase
+360651..361385	-	244	12045149	-	MG_293	-	COG0584C	glycerophosphoryl diester phosphodiesterase family protein
+361378..362802	-	474	12045150	-	MG_294	-	COG2211G	major facilitator superfamily protein
+362920..364023	-	367	12045151	mnmA	MG_295	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+364026..364415	-	129	12045152	-	MG_296	-	-	hypothetical protein
+364535..365575	-	346	12045153	ftsY	MG_297	-	COG0552U	signal recognition particle-docking protein FtsY
+365582..368530	-	982	12045154	-	MG_298	-	COG1196D	chromosome segregation protein SMC
+368733..369695	-	320	12045155	eutD	MG_299	-	COG0280C	phosphotransacetylase
+369713..370948	-	411	108885101	pgk	MG_300	-	COG0126G	phosphoglycerate kinase
+370950..371963	-	337	12045157	gap	MG_301	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+371994..372947	-	317	12045158	-	MG_302	-	COG0619P	metal ABC transporter permease
+372926..373999	-	357	12045159	-	MG_303	-	COG1122P	metal ABC transporter ATP-binding protein
+373981..374793	-	270	108885102	-	MG_304	-	COG1122P	metal ABC transporter ATP-binding protein
+374919..376706	-	595	12045161	dnaK	MG_305	-	COG0443O	molecular chaperone DnaK
+376794..377975	-	393	12045162	-	MG_306	-	COG0392S	hypothetical protein
+377975..381508	-	1177	12045163	-	MG_307	-	-	lipoprotein
+381493..382725	-	410	12045164	-	MG_308	-	COG0513LKJ	DEAD-box ATP dependent DNA helicase
+382732..386409	-	1225	108885103	-	MG_309	-	-	lipoprotein
+386463..387269	+	268	12045166	-	MG_310	-	COG0596R	alpha/beta fold family hydrolase
+387276..387893	-	205	12045167	rpsD	MG_311	-	COG0522J	30S ribosomal protein S4
+387916..391335	-	1139	12045168	hmw1	MG_312	-	-	HMW1 cytadherence accessory protein
+391395..392258	-	287	12045169	-	MG_313	-	-	hypothetical protein
+392303..393634	-	443	12045170	-	MG_314	-	-	hypothetical protein
+393658..394551	-	297	12045171	-	MG_315	-	COG1466L	DNA polymerase III subunit delta
+394475..395584	-	369	12045172	-	MG_316	-	-	ComEC/Rec2-related protein
+395625..397424	-	599	12045173	hmw3	MG_317	-	-	HMW3 cytadherence accessory protein
+397439..398281	-	280	12045174	-	MG_318	-	-	P32 adhesin
+398298..398834	-	178	12045175	-	MG_319	-	-	hypothetical protein
+398938..399798	-	286	12045176	-	MG_320	-	-	hypothetical protein
+400119..402923	-	934	12045178	-	MG_321	-	-	lipoprotein
+403723..405399	-	558	12045179	-	MG_322	-	COG0168P	TrkH family potassium uptake protein
+405456..406139	+	227	12045180	-	MG_323	-	COG0569P	TrkA family potassium uptake protein
+406975..407784	-	269	12045181	-	MG_515	-	-	hypothetical protein
+407729..408793	-	354	12045182	pepP	MG_324	-	COG0006E	M24 family metallopeptidase
+408793..408954	-	53	12045183	rpmG	MG_325	-	COG0267J	50S ribosomal protein L33
+408971..409858	-	295	12045184	-	MG_326	-	COG1307S	degV family protein
+409871..410677	-	268	12045185	-	MG_327	-	COG0596R	alpha/beta fold family hydrolase
+410664..412934	-	756	12045186	-	MG_328	-	COG1196D	hypothetical protein
+412973..414319	-	448	12045187	engA	MG_329	-	COG1160R	GTP-binding protein EngA
+414323..414976	-	217	12045188	cmk	MG_330	-	COG0283F	cytidylate kinase
+414985..415623	-	212	12045189	-	MG_331	-	-	hypothetical protein
+415611..416330	-	239	12045190	-	MG_332	-	COG0217S	hypothetical protein
+416967..419480	-	837	12045191	valS	MG_334	-	COG0525J	valyl-tRNA synthetase
+419470..420045	-	191	12045192	engB	MG_335	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+420053..420274	-	73	12045193	-	MG_516	-	COG3763S	hypothetical protein
+420333..421358	+	341	12045194	-	MG_517	-	COG0463M	glycosyl transferase, group 2 family protein
+421467..422693	+	408	12045195	nifS	MG_336	-	COG0520E	aminotransferase, class V
+422697..423113	+	138	12045196	-	MG_337	-	COG0822C	hypothetical protein
+423100..426912	-	1270	108885104	-	MG_338	-	-	lipoprotein
+427090..428112	-	340	12045198	recA	MG_339	-	COG0468L	recombinase A
+430580..434458	-	1292	108885105	rpoC	MG_340	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+434468..438640	-	1390	12045200	rpoB	MG_341	-	COG0085K	DNA-directed RNA polymerase subunit beta
+438730..439236	-	168	12045201	-	MG_342	-	COG0431R	NADPH-dependent FMN reductase domain-containing protein
+439315..440355	-	346	12045202	-	MG_343	-	-	hypothetical protein
+440359..441180	-	273	12045203	-	MG_344	-	COG0596R	alpha/beta fold family hydrolase
+441191..443878	-	895	108885106	ileS	MG_345	-	COG0060J	isoleucyl-tRNA synthetase
+443922..444422	+	166	12045205	-	MG_346	-	COG0219J	RNA methyltransferase
+444413..445045	+	210	12045206	-	MG_347	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+445197..446165	-	322	12045207	-	MG_348	-	-	lipoprotein
+446576..447790	+	404	12045208	-	MG_349	-	COG3611L	hypothetical protein
+447790..448725	+	311	12045209	-	MG_350	-	-	hypothetical protein
+448943..449617	-	224	12045210	-	MG_521	-	-	hypothetical protein
+449665..450219	+	184	12045211	ppa	MG_351	-	COG0221C	inorganic pyrophosphatase
+450222..450722	+	166	12045212	-	MG_352	-	COG3331R	recombination protein U
+450719..451048	-	109	12045213	-	MG_353	-	COG0776L	DNA-binding protein HU
+451197..451610	+	137	12045214	-	MG_354	-	-	hypothetical protein
+451613..453757	-	714	12045215	clpB	MG_355	-	COG0542O	ATP-dependent Clp protease ATPase subunit
+453911..454753	-	280	12045216	-	MG_356	-	COG0510M	choline/ethanolamine kinase
+454766..455947	-	393	12045217	ackA	MG_357	-	COG0282C	acetate kinase
+456755..457372	+	205	108885107	ruvA	MG_358	-	COG0632L	Holliday junction DNA helicase RuvA
+457347..458270	+	307	12045219	ruvB	MG_359	-	COG2255L	Holliday junction DNA helicase RuvB
+458260..459495	-	411	12045220	-	MG_360	-	COG0389L	ImpB/MucB/SamB family protein
+459615..460103	+	162	12045221	rplJ	MG_361	-	COG0244J	50S ribosomal protein L10
+460126..460494	+	122	12045222	rplL	MG_362	-	COG0222J	50S ribosomal protein L7/L12
+460497..460670	+	57	12045223	rpmF	MG_363	-	COG0333J	50S ribosomal protein L32
+460685..460951	-	88	12045224	rpsT	MG_522	-	COG0268J	30S ribosomal protein S20
+461015..461689	+	224	12045225	-	MG_364	-	-	hypothetical protein
+461682..462617	+	311	12045226	fmt	MG_365	-	COG0223J	methionyl-tRNA formyltransferase
+462619..464622	+	667	12045227	-	MG_366	-	-	hypothetical protein
+464646..465434	-	262	12045228	rnc	MG_367	-	COG0571K	ribonuclease III
+465424..466410	-	328	12045229	plsX	MG_368	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+466410..468083	-	557	12045230	-	MG_369	-	COG1461R	DAK2 domain-containing protein
+468152..469123	-	323	12045231	-	MG_370	-	COG0564J	RluA family pseudouridine synthase
+469110..470084	-	324	12045232	-	MG_371	-	COG0618R	DHH family protein
+470077..471234	-	385	12045233	guaA	MG_372	-	COG0301H	thiamine biosynthesis protein ThiI
+471221..472066	-	281	12045234	-	MG_373	-	-	hypothetical protein
+472067..472891	-	274	12045235	-	MG_374	-	-	hypothetical protein
+472884..474578	-	564	12045236	thrS	MG_375	-	COG0441J	threonyl-tRNA synthetase
+474578..474892	-	104	12045237	-	MG_376	-	-	hypothetical protein
+474898..475479	-	193	12045238	-	MG_377	-	-	hypothetical protein
+475526..477139	-	537	12045239	argS	MG_378	-	COG0018J	arginyl-tRNA synthetase
+477168..479006	+	612	12045240	gidA	MG_379	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+478999..479577	+	192	12045241	gidB	MG_380	-	COG0357M	methyltransferase GidB
+479570..480226	+	218	12045242	-	MG_381	-	-	hypothetical protein
+480691..481332	+	213	12045243	udk	MG_382	-	COG0572F	uridine kinase
+481329..482075	-	248	12045244	-	MG_383	-	COG0171H	NH(3)-dependent NAD+ synthetase
+482068..483369	-	433	12045245	obgE	MG_384	-	COG0536R	GTPase ObgE
+483369..483818	-	149	12045246	-	MG_524	-	-	hypothetical protein
+483989..484699	-	236	12045247	-	MG_385	-	COG0584C	glycerophosphoryl diester phosphodiesterase family protein
+484702..489552	-	1616	12045248	-	MG_386	-	-	hypothetical protein
+489839..490711	-	290	12045249	era	MG_387	-	COG1159R	GTP-binding protein Era
+490699..491163	-	154	108885108	-	MG_388	-	COG0319R	hypothetical protein
+491147..491530	-	127	12045251	-	MG_389	-	-	hypothetical protein
+491534..493516	-	660	12045252	-	MG_390	-	COG2274V	ABC transporter ATP-binding protein/permease
+493624..494967	-	447	12045253	-	MG_391	-	COG0260E	leucyl aminopeptidase
+494984..496615	-	543	108885109	groEL	MG_392	-	COG0459O	chaperonin GroEL
+496628..496960	-	110	12045255	groES	MG_393	-	COG0234O	co-chaperonin GroES
+497086..498306	-	406	12045256	glyA	MG_394	-	COG0112E	serine hydroxymethyltransferase
+498316..499890	-	524	12045257	-	MG_395	-	-	lipoprotein
+500261..500719	-	152	12045258	-	MG_396	-	COG0698G	ribose-5-phosphate isomerase B
+500720..502420	-	566	12045259	-	MG_397	-	-	hypothetical protein
+502422..502823	-	133	12045260	atpC	MG_398	-	COG0355C	F0F1 ATP synthase subunit epsilon
+502828..504258	-	476	12045261	atpD	MG_399	-	COG0055C	F0F1 ATP synthase subunit beta
+504260..505099	-	279	12045262	atpG	MG_400	-	COG0224C	F0F1 ATP synthase subunit gamma
+505099..506655	-	518	12045263	atpA	MG_401	-	COG0056C	F0F1 ATP synthase subunit alpha
+506671..507201	-	176	12045264	atpH	MG_402	-	COG0712C	F0F1 ATP synthase subunit delta
+507194..507820	-	208	12045265	atpF	MG_403	-	COG0711C	F0F1 ATP synthase subunit B
+507823..508131	-	102	12045266	atpE	MG_404	-	COG0636C	F0F1 ATP synthase subunit C
+508134..509012	-	292	12045267	atpB	MG_405	-	COG0356C	F0F1 ATP synthase subunit A
+508978..509454	-	158	108885110	-	MG_406	-	-	hypothetical protein
+509460..510836	-	458	12045269	eno	MG_407	-	COG0148G	phosphopyruvate hydratase
+510903..511376	+	157	12045270	pmsR	MG_408	-	COG0225O	methionine sulfoxide reductase A
+511373..512050	-	225	12045271	-	MG_409	-	COG0704P	phosphate transport system regulatory protein PhoU
+512053..513042	-	329	12045272	pstB	MG_410	-	COG1117P	phosphate ABC transporter ATP-binding protein
+513027..514991	-	654	12045273	pstA	MG_411	-	COG0573P	phosphate ABC transporter permease
+514991..516124	-	377	12045274	-	MG_412	-	COG0226P	phosphate ABC transporter substrate-binding protein
+516245..519355	-	1036	12045275	-	MG_414	-	-	hypothetical protein
+519420..521414	-	664	108885111	-	MG_525	-	-	hypothetical protein
+521470..521868	-	132	12045277	rpsI	MG_417	-	COG0103J	30S ribosomal protein S9
+521874..522314	-	146	12045278	rplM	MG_418	-	COG0102J	50S ribosomal protein L13
+522352..524145	-	597	108885112	-	MG_419	-	COG2812L	DNA polymerase III subunits gamma/tau
+524151..527015	-	954	12045281	uvrA	MG_421	-	COG0178L	excinuclease ABC subunit A
+526987..529494	-	835	12045282	-	MG_422	-	-	hypothetical protein
+529532..531217	-	561	12045283	-	MG_423	-	COG0595R	hypothetical protein
+531220..531480	-	86	12045284	rpsO	MG_424	-	COG0184J	30S ribosomal protein S15
+531669..533018	+	449	12045285	deaD	MG_425	-	COG0513LKJ	DEAD-box ATP dependent DNA helicase
+533041..533235	+	64	12045286	rpmB	MG_426	-	COG0227J	50S ribosomal protein L28
+533271..533696	+	141	12045287	-	MG_427	-	COG1765O	OsmC-like protein
+533807..534322	+	171	12045288	-	MG_428	-	COG2197TK	LuxR regulatory protein
+534319..536037	-	572	12045289	ptsI	MG_429	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+536041..537564	-	507	108885113	pgm	MG_430	-	COG0696G	phosphoglyceromutase
+537557..538291	-	244	12045291	tpiA	MG_431	-	COG0149G	triosephosphate isomerase
+538351..539547	-	398	12045292	-	MG_432	-	COG1284S	hypothetical protein
+539633..540529	+	298	12045293	tsf	MG_433	-	COG0264J	elongation factor Ts
+540510..541241	+	243	12045294	pyrH	MG_434	-	COG0528F	uridylate kinase
+541241..541792	+	183	12045295	frr	MG_435	-	COG0233J	ribosome recycling factor
+541793..542986	+	397	108885114	-	MG_437	-	COG0575I	phosphatidate cytidylyltransferase
+543006..544157	+	383	12045297	-	MG_438	-	COG0732V	type I restriction modification DNA specificity domain-containing protein
+544562..545380	-	272	12045298	-	MG_439	-	-	lipoprotein
+545380..546156	-	258	12045299	-	MG_440	-	-	lipoprotein
+546299..546709	-	136	12045300	-	MG_441	-	-	hypothetical protein
+546880..547692	-	270	12045301	rbgA	MG_442	-	COG1161R	ribosomal biogenesis GTPase
+547664..548851	-	395	12045302	-	MG_443	-	COG1284S	hypothetical protein
+548867..549226	-	119	12045303	rplS	MG_444	-	COG0335J	50S ribosomal protein L19
+549210..549905	-	231	12045304	trmD	MG_445	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+549905..550192	-	95	108885115	rpsP	MG_446	-	COG0228J	30S ribosomal protein S16
+550803..552446	-	547	12045306	-	MG_447	-	COG0534V	hypothetical protein
+552447..552899	-	150	12045307	-	MG_448	-	COG0229O	methionine sulfoxide reductase B
+553558..554430	-	290	108885116	-	MG_450	-	COG1307S	degV family protein
+554430..555614	-	394	12045310	tuf	MG_451	-	COG0050J	elongation factor Tu
+555667..556452	+	261	12045311	-	MG_452	-	-	hypothetical protein
+556437..557315	+	292	12045312	gtaB	MG_453	-	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+557305..557772	-	155	12045313	-	MG_454	-	COG1764O	OsmC-like protein
+557759..558949	+	396	108885117	tyrS	MG_455	-	COG0162J	tyrosyl-tRNA synthetase
+558939..559943	-	334	12045315	-	MG_456	-	-	hypothetical protein
+560496..562604	-	702	12045316	ftsH	MG_457	-	COG0465O	ATP-dependent metalloprotease FtsH
+562782..563309	-	175	12045317	hpt	MG_458	-	COG0634F	hypoxanthine phosphoribosyltransferase
+563311..563820	-	169	12045318	-	MG_459	-	COG0245I	hypothetical protein
+563993..564931	+	312	12045319	ldh	MG_460	-	COG0039C	lactate dehydrogenase
+564928..566205	-	425	108885118	-	MG_461	-	COG1078R	HD domain-containing protein
+566186..567640	-	484	12045321	gltX	MG_462	-	COG0008J	glutamyl-tRNA synthetase
+567627..568406	-	259	12045322	ksgA	MG_463	-	COG0030J	dimethyladenosine transferase
+568399..569556	-	385	12045323	-	MG_464	-	COG0706U	inner membrane protein translocase component YidC
+569528..569914	-	128	12045324	rnpA	MG_465	-	COG0594J	ribonuclease P protein component
+569883..570029	-	48	12045325	rpmH	MG_466	-	COG0230J	50S ribosomal protein L34
+570055..570990	-	311	12045326	-	MG_467	-	COG1136V	ABC transporter ATP-binding protein
+570994..576345	-	1783	12045327	-	MG_468	-	-	ABC transporter permease
+576351..577205	-	284	12045328	-	MG_526	-	COG1136V	ABC transporter ATP-binding protein
+577268..578581	-	437	12045329	dnaA	MG_469	-	COG0593L	chromosomal replication initiation protein
+579224..580033	-	269	12045330	soj	MG_470	-	COG1192D	CobQ/CobB/MinD/ParA nucleotide binding domain-containing protein

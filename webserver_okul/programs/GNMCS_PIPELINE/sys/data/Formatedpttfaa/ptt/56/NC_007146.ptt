@@ -1,0 +1,1795 @@
+Haemophilus influenzae 86-028NP chromosome, complete genome - 1..1914490
+1792 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+2..1021	+	339	68248552	gapA	NTHI0001	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+1191..3014	+	607	68248553	-	NTHI0002	-	COG1022I	long chain fatty acid CoA ligase
+3051..3839	-	262	68248554	-	NTHI0003	-	COG0561R	hypothetical protein
+3855..4319	-	154	68248555	-	NTHI0004	-	COG0319R	metalloprotease
+4581..5393	-	270	68248556	fdhD	NTHI0006	-	COG1526C	formate dehydrogenase accessory protein
+5664..8750	+	1028	68248557	fdxG	NTHI0007	-	COG0243C	formate dehydrogenase major subunit
+8752..9690	+	312	68248558	fdxH	NTHI0010	-	COG0437C	formate dehydrogenase, iron-sulfur subunit
+9683..10399	+	238	68248559	fdxI	NTHI0011	-	COG2864C	formate dehydrogenase, cytochrome B556 subunit
+10469..11377	+	302	68248560	fdhE	NTHI0012	-	COG3058O	formate dehydrogenase accessory protein FdhE
+11421..11861	-	146	68248561	rimI	NTHI0013	-	COG0456R	ribosomal-protein-alanine N-acetyltransferase
+11864..12268	-	134	68248562	holD	NTHI0015	-	COG3050L	DNA polymerase III subunit psi
+12374..13366	+	330	68248563	rsmC	NTHI0016	-	COG2813J	16S ribosomal RNA m2G1207 methyltransferase
+13434..14342	-	302	68248564	era	NTHI0018	-	COG1159R	GTP-binding protein Era
+14339..15022	-	227	68248565	rnc	NTHI0019	-	COG0571K	ribonuclease III
+15024..16073	-	349	68248566	lepB	NTHI0020	-	COG0681U	Signal peptidase I
+16082..17878	-	598	68248567	lepA	NTHI0021	-	COG0481M	GTP-binding protein LepA
+18047..18430	-	127	68248568	-	NTHI0022	-	COG3445R	autonomous glycyl radical cofactor GrcA
+18688..19347	+	219	68248569	ung	NTHI0025	-	COG0692L	uracil-DNA glycosylase
+19417..20841	-	474	68248570	-	NTHI0026	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+21224..22663	-	479	68248571	-	NTHI0027	-	COG0471P	hypothetical protein
+22665..24062	-	465	68248572	citG	NTHI0028	-	COG1767H	CitXG
+24243..25745	-	500	68248573	citF	NTHI0029	-	COG3051C	citrate lyase alpha chain
+25760..26635	-	291	68248574	citE	NTHI0030	-	COG2301G	citrate lyase beta chain
+26632..26919	-	95	68248575	citD	NTHI0031	-	COG3052C	citrate lyase subunit gamma
+26957..27964	-	335	68248576	citC	NTHI0032	-	COG3053C	[citrate (pro-3S)-lyase] ligase
+28215..29177	-	320	68248577	lipA	NTHI0033	-	COG0320H	lipoyl synthase
+29231..29869	-	212	68248578	lipB	NTHI0034	-	COG0321H	lipoate-protein ligase B
+29871..30149	-	92	68248579	-	NTHI0035	-	COG2921S	hypothetical protein
+30205..31386	-	393	68248580	dacA	NTHI0036	-	COG1686M	penicillin-binding protein 5
+31402..32265	-	287	68248581	rlpA	NTHI0037	-	COG0797M	RlpA-like protein
+32318..33433	-	371	68248582	mrdB	NTHI0038	-	COG0772D	rod shape-determining protein
+33423..35378	-	651	68248583	mrdA	NTHI0039	-	COG0768M	penicillin-binding protein 2
+35400..35867	-	155	68248584	-	NTHI0041	-	COG1576S	rRNA large subunit methyltransferase
+35921..36229	-	102	68248585	-	NTHI0042	-	COG0799S	hypothetical protein
+36354..38009	-	551	68248586	-	NTHI0043	-	COG2985R	hypothetical protein
+38215..39993	+	592	68248587	-	NTHI0044	-	COG4178R	ABC transporter ATP-binding protein
+40123..41178	+	351	229335608	mreB	NTHI0045	-	COG1077D	rod shape-determining protein MreB
+41258..42313	+	351	68248589	mreC	NTHI0046	-	COG1792M	rod shape-determining protein MreC
+42313..42801	+	162	68248590	mreD	NTHI0047	-	COG2891M	rod shape-determining protein MreD
+42852..43628	-	258	68248591	-	NTHI0048	-	-	hypothetical protein
+43638..44441	-	267	68248592	xthA	NTHI0049	-	COG0708L	exonuclease III
+44489..45163	-	224	68248593	rluA2	NTHI0050	-	COG0564J	pseudouridine synthase
+45163..46227	-	354	68248594	-	NTHI0051	-	COG3768S	hypothetical protein
+46287..46949	-	220	68248595	-	NTHI0052	-	COG0670R	FtsH-interacting integral membrane protein
+47276..47830	-	184	68248596	-	NTHI0053	-	COG3054R	hypothetical protein
+47897..48259	+	120	68248597	phnA	NTHI0054	-	COG2824P	PhnA-like protein
+48312..48950	-	212	68248598	eda	NTHI0055	-	COG0800G	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+48959..50362	-	467	68248599	uxuC	NTHI0056	-	COG1904G	glucuronate isomerase
+50372..51229	-	285	68248600	-	NTHI0057	-	COG1028IQR	D-mannonate oxidoreductase
+52192..53463	-	423	68248601	-	NTHI0060	-	COG1593G	TRAP-type C4-dicarboxylate transport system, large permease
+53473..53970	-	165	68248602	-	NTHI0061	-	COG3090G	TRAP-type C4-dicarboxylate transport system, small permease
+54009..54995	-	328	68248603	-	NTHI0062	-	COG1638G	TRAP-type C4-dicarboxylate transport system, periplasmic component
+55022..56050	-	342	68248604	-	NTHI0063	-	COG1063ER	hypothetical protein
+56160..56960	+	266	68248605	uxuR	NTHI0064	-	COG2186K	uxu operon regulator
+56988..58172	+	394	68248606	uxuA	NTHI0065	-	COG1312G	mannonate dehydratase
+58225..58938	-	237	68248607	-	NTHI0066	-	COG0861P	membrane protein TerC
+59036..60865	-	609	68248608	uvrC	NTHI0067	-	COG0322L	excinuclease ABC subunit C
+60867..61631	-	254	68248609	kdsB	NTHI0068	-	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+61702..62700	-	332	68248610	lpxK	NTHI0069	-	COG1663M	tetraacyldisaccharide 4'-kinase
+62773..64536	-	587	68248611	msbA	NTHI0072	-	COG1132V	lipid transporter ATP-binding/permease protein
+64577..66943	-	788	68248612	rec2	NTHI0073	-	COG2333R	recombination protein 2
+67202..67639	+	145	68248613	dksA	NTHI0074	-	COG1734T	DnaK suppressor protein
+67887..69245	+	452	68248614	pcnB	NTHI0076	-	COG0617J	poly polymerase
+69254..69736	+	160	68248615	folK	NTHI0077	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+69812..70288	+	158	68248616	-	NTHI0078	-	COG0802R	hypothetical protein
+70296..71594	+	432	68248617	amiB	NTHI0079	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+71595..73484	+	629	68248618	mutL	NTHI0080	-	COG0323L	DNA mismatch repair protein
+73492..74427	+	311	68248619	miaA	NTHI0081	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+74433..77378	+	981	68248620	glnE	NTHI0082	-	COG1391OT	bifunctional glutamine-synthetase adenylyltransferase/deadenyltransferase
+77463..79139	-	558	68248621	recN	NTHI0083	-	COG0497L	DNA repair protein RecN
+79251..80069	-	272	68248622	ppnK	NTHI0084	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+80133..80837	+	234	68248623	grpE	NTHI0085	-	COG0576O	heat shock protein GrpE
+80850..81194	-	114	68248624	-	NTHI0086	-	COG1669R	hypothetical protein
+81187..81627	-	146	68248625	-	NTHI0087	-	-	hypothetical protein
+81908..84031	+	707	68248626	nrdD	NTHI0088	-	COG1328F	anaerobic ribonucleoside triphosphate reductase
+84150..85010	+	286	68248627	tesB	NTHI0089	-	COG1946I	acyl-CoA thioesterase
+85171..86550	-	459	68248628	cysS	NTHI0091	-	COG0215J	cysteinyl-tRNA synthetase
+86653..87162	+	169	68248629	ppiB	NTHI0092	-	COG0652O	peptidyl-prolyl cis-trans isomerase B
+87166..87597	+	143	68248630	-	NTHI0093	-	COG3692S	hypothetical protein
+87739..88527	+	262	68248631	-	NTHI0095	-	COG0084L	deoxyribonuclease
+88589..88846	+	85	68248632	-	NTHI0096	-	-	hypothetical protein
+88857..89132	+	91	68248633	-	NTHI0097	-	COG0620E	hypothetical protein
+89182..89505	-	107	68248634	trxA	NTHI0098	-	COG3118O	thioredoxin
+89625..90620	-	331	68248635	ddh	NTHI0099	-	COG1052CHR	D-lactate dehydrogenase
+90633..91778	-	381	68248636	metB	NTHI0100	-	COG0626E	cystathionine gamma-synthase
+92334..93170	+	278	68248637	-	NTHI0101	-	COG1192D	chromosome partitioning ATPase
+93172..94527	+	451	68248638	dnaB2	NTHI0102	-	COG0305L	replicative DNA helicase
+94520..96220	+	566	68248639	-	NTHI0103	-	COG1312G	hypothetical protein
+96220..96771	+	183	68248640	-	NTHI0104	-	-	hypothetical protein
+96921..98144	+	407	68248641	-	NTHI0106	-	-	hypothetical protein
+98441..99196	+	251	68248642	-	NTHI0107	-	-	hypothetical protein
+99196..99684	+	162	68248643	-	NTHI0108	-	-	hypothetical protein
+99930..100352	+	140	68248644	ssb2	NTHI0109	-	COG0629L	single-stranded DNA-binding protein
+100379..100897	+	172	68248645	-	NTHI0110	-	-	lipoprotein
+101113..101670	-	185	68248646	-	NTHI0111	-	-	hypothetical protein
+101746..103806	+	686	68248647	topB2	NTHI0112	-	COG0550L	DNA topoisomerase III
+104691..105119	+	142	68248648	-	NTHI0113	-	-	hypothetical protein
+105131..105223	+	30	68248649	-	NTHI0114	-	-	hypothetical protein
+105234..105875	+	213	68248650	-	NTHI0115	-	-	hypothetical protein
+105910..106317	+	135	68248651	-	NTHI0116	-	-	hypothetical protein
+106418..106888	+	156	68248652	radC2	NTHI0117	-	COG2003L	DNA repair radC-like protein
+106981..107577	+	198	68248653	-	NTHI0118	-	-	hypothetical protein
+107635..108399	+	254	68248654	-	NTHI0119	-	-	hypothetical protein
+108498..109127	+	209	68248655	pilL	NTHI0120	-	-	lipoprotein
+109131..109871	+	246	68248656	-	NTHI0121	-	-	hypothetical protein
+109850..110608	+	252	68248657	-	NTHI0122	-	COG0741M	hypothetical protein
+110624..111130	+	168	68248658	-	NTHI0123	-	-	hypothetical protein
+111127..113376	+	749	68248659	-	NTHI0125	-	COG3505U	hypothetical protein
+113695..114381	+	228	68248660	-	NTHI0126	-	-	hypothetical protein
+114512..114862	+	116	68248661	-	NTHI0127	-	-	hypothetical protein
+115131..115532	+	133	68248662	-	NTHI0128	-	-	hypothetical protein
+115552..115923	+	123	68248663	-	NTHI0129	-	-	hypothetical protein
+115935..116579	+	214	68248664	-	NTHI0130	-	-	hypothetical protein
+116579..117448	+	289	68248665	-	NTHI0131	-	-	hypothetical protein
+117459..118859	+	466	68248666	-	NTHI0132	-	-	hypothetical protein
+118869..119276	+	135	68248667	-	NTHI0133	-	-	lipoprotein
+119292..122162	+	956	68248668	-	NTHI0134	-	COG3451U	hypothetical protein
+122170..122577	+	135	68248669	-	NTHI0135	-	-	hypothetical protein
+122587..122910	+	107	68248670	-	NTHI0136	-	-	hypothetical protein
+122919..124412	+	497	68248671	-	NTHI0137	-	-	hypothetical protein
+124468..124797	-	109	68248672	-	NTHI0139	-	-	hypothetical protein
+124955..127960	-	1001	68248673	tnpA	NTHI0141	-	COG4644L	transposon Tn3 transposase
+126925..127041	+	38	68248674	-	NTHI0140	-	-	hypothetical protein
+128088..128681	+	197	162960936	tnpR	NTHI0142	-	COG1961L	transposon Tn3 resolvase
+128729..129589	+	286	162960937	-	NTHI2055	-	COG2367V	beta-lactamase TEM
+129813..129992	+	59	68248676	-	NTHI0143	-	-	hypothetical protein
+130037..130444	-	135	68248677	-	NTHI0144	-	-	hypothetical protein
+130460..132460	-	666	68248678	-	NTHI0145	-	COG3772R	hypothetical protein
+132475..133416	-	313	68248679	-	NTHI0146	-	-	hypothetical protein
+133413..133856	-	147	68248680	-	NTHI0147	-	-	hypothetical protein
+134168..134587	+	139	68248681	-	NTHI0148	-	-	hypothetical protein
+134672..134905	+	77	68248682	-	NTHI0149	-	-	hypothetical protein
+134908..135156	+	82	68248683	-	NTHI0150	-	-	hypothetical protein
+135160..135318	+	52	68248684	-	NTHI0151	-	-	hypothetical protein
+135449..136402	+	317	68248685	traC	NTHI0152	-	COG4227L	antirestriction protein
+136506..137267	+	253	68248686	-	NTHI0153	-	COG0286V	type I restriction enzyme M subunit
+137493..138059	+	188	68248687	-	NTHI0154	-	-	hypothetical protein
+138099..138473	+	124	68248688	-	NTHI0155	-	-	hypothetical protein
+138463..139140	+	225	68248689	-	NTHI0156	-	-	hypothetical protein
+139118..139735	+	205	68248690	-	NTHI0157	-	-	hypothetical protein
+139999..140598	-	199	68248691	-	NTHI0158	-	COG1961L	resolvase/integrase-like protein
+140613..140804	-	63	68248692	-	NTHI0159	-	-	hypothetical protein
+141273..141527	-	84	68248693	-	NTHI0160	-	-	hypothetical protein
+142718..143431	+	237	68248694	-	NTHI0161	-	-	hypothetical protein
+144151..145404	+	417	68248695	-	NTHI0162	-	-	hypothetical protein
+145547..147463	+	638	68248696	-	NTHI0163	-	COG3481R	hypothetical protein
+147524..148366	+	280	68248697	-	NTHI0164	-	COG4974L	site-specific recombinase
+149016..150293	-	425	68248698	thrC	NTHI0165	-	COG0498E	threonine synthase
+150336..151280	-	314	68248699	thrB	NTHI0166	-	COG0083E	homoserine kinase
+151293..153740	-	815	68248700	thrA	NTHI0167	-	COG0527E	bifunctional aspartokinase I/homoserine dehydrogenase I
+154064..154777	+	237	68248701	-	NTHI0168	-	COG0325R	hypothetical protein
+154817..155953	-	378	68248702	grk	NTHI0169	-	COG1929G	glycerate kinase
+155962..157221	-	419	68248703	-	NTHI0171	-	COG2610GE	hypothetical protein
+157343..158449	-	368	68248704	-	NTHI0172	-	COG3835KT	hypothetical protein
+158651..158971	-	106	68248705	-	NTHI0173	-	COG2610GE	hypothetical protein
+159322..160077	-	251	68248706	-	NTHI0175	-	COG2226H	hypothetical protein
+160278..160559	+	93	68248707	-	NTHI0176	-	-	hypothetical protein
+160711..161709	+	332	68248708	hitA	NTHI0177	-	COG1840P	iron-utilization periplasmic protein hFbpA
+161827..163347	+	506	68248709	hitB	NTHI0179	-	COG1178P	iron ABC transporter permease
+163349..164404	+	351	68248710	hitC	NTHI0180	-	COG3842E	iron-utilization ATP-binding protein hFbpC
+164439..165119	-	226	68248711	-	NTHI0181	-	COG1876M	D-alanyl-D-alanine carboxypeptidase
+165121..166254	-	377	68248712	dapE	NTHI0182	-	COG0624E	succinyl-diaminopimelate desuccinylase
+166282..166626	-	114	68248713	-	NTHI0184	-	COG1393P	hypothetical protein
+166705..168600	-	631	68248714	htpG	NTHI0185	-	COG0326O	heat shock protein 90
+168812..169651	+	279	68248715	-	NTHI0186	-	COG0327S	NIF3-like protein
+169825..172197	+	790	68248716	hsdM1	NTHI0188	-	COG0286V	type I restriction-modification system, methyltransferase subunit
+172380..173789	+	469	68248717	-	NTHI0190	-	COG2865K	transcription regulator
+173961..175211	+	416	68248718	hsdS1	NTHI0192	-	COG0732V	type I site-specific restriction-modification system, S subunit
+175311..178337	+	1008	68248719	hsdR1	NTHI0193	-	COG0610V	type I site-specific restriction-modification system, R subunit
+178562..179941	-	459	68248720	ffh	NTHI0194	-	COG0541U	Signal recognition particle protein
+180192..181484	+	430	68248721	corB	NTHI0196	-	COG4536P	Mg2+ and Co2+ transporter
+181505..182383	+	292	68248722	-	NTHI0197	-	COG2966S	hypothetical protein
+182385..182864	+	159	68248723	-	NTHI0198	-	COG3610S	hypothetical protein
+182954..183295	-	113	68248724	-	NTHI0199	-	COG3765M	hypothetical protein
+183462..184751	+	429	68248725	serS	NTHI0200	-	COG0172J	seryl-tRNA synthetase
+185086..185715	+	209	68248726	gst	NTHI0201	-	COG0625O	glutathione S-transferase
+185727..186023	-	98	68248727	-	NTHI0201_1	-	COG2963L	hypothetical protein
+186076..188313	+	745	68248728	hemR	NTHI0202	-	COG1629P	hemin receptor
+195361..197496	-	711	68248729	rlmL	NTHI0203	-	COG0116L	23S rRNA m(2)G2445 methyltransferase
+197889..198998	+	369	68248730	mltA	NTHI0205	-	COG2821M	murein transglycosylase A
+198998..199768	+	256	68248731	-	NTHI0206	-	COG1179H	hypothetical protein
+199946..200947	+	333	68248732	znuA	NTHI0208	-	COG4531P	high-affinity zinc transporter periplasmic component
+200997..201503	-	168	68248733	-	NTHI0209	-	COG5413S	hypothetical protein
+201616..202974	-	452	68248734	mpl	NTHI0210	-	COG0773M	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+203359..204546	-	395	68248735	metC	NTHI0211	-	COG0626E	cystathionine beta-lyase
+204677..205285	+	202	68248736	tsaA	NTHI0212	-	COG0450O	peroxiredoxin
+205386..205943	+	185	68248737	pgsA	NTHI0213	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+206507..207037	-	176	68248738	ppa	NTHI0214	-	COG0221C	inorganic pyrophosphatase
+207271..208587	+	438	68248739	-	NTHI0215	-	COG2252R	hypothetical protein
+208810..209451	+	213	68248740	udk	NTHI0218	-	COG0572F	uridine kinase
+209460..210047	+	195	68248741	dcd	NTHI0219	-	COG0717F	deoxycytidine triphosphate deaminase
+210051..211226	+	391	68248742	-	NTHI0220	-	COG2982M	hypothetical protein
+211226..212434	+	402	68248743	-	NTHI0221	-	COG2814G	sugar efflux transporter
+212495..214009	-	504	68248744	engA	NTHI0222	-	COG1160R	GTP-binding protein EngA
+214691..215458	-	255	68248745	dnaQ	NTHI0223	-	COG0847L	DNA polymerase III subunit epsilon
+215519..215983	+	154	68248746	rnhA	NTHI0224	-	COG0328L	ribonuclease H
+216249..217346	+	365	68248747	ompP2	NTHI0225	-	COG3203M	outer membrane protein P2
+217543..218688	-	381	68248748	nagA	NTHI0226	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+218825..219637	-	270	68248749	nagB	NTHI0227	-	COG0363G	glucosamine-6-phosphate deaminase
+219973..220854	-	293	68248750	nanA	NTHI0228	-	COG0329EM	N-acetylneuraminate lyase
+220865..221731	-	288	68248751	-	NTHI0229	-	COG1737K	HTH-type transcriptional regulator
+221724..222626	-	300	68248752	nanK	NTHI0230	-	COG1940KG	N-acetylmannosamine kinase
+222671..223357	-	228	68248753	nanE	NTHI0231	-	COG3010G	N-acetylmannosamine-6-phosphate 2-epimerase
+223707..224696	+	329	68248754	-	NTHI0232	-	COG1638G	sialic acid transporter, TRAP-type C4-dicarboxylate transport system, periplasmic component
+224761..226611	+	616	68248755	siaT	NTHI0234	-	COG1593G	hypothetical protein
+226775..227914	+	379	68248756	-	NTHI0235	-	COG3055S	N-acetylneuraminic acid mutarotase
+228076..228510	+	144	68248757	-	NTHI0236	-	COG2020O	protein-S-isoprenylcysteine methyltransferase
+228552..229439	-	295	68248758	hflC	NTHI0237	-	COG0330O	hypothetical protein
+229439..230671	-	410	68248759	hflK	NTHI0239	-	COG0330O	HflK
+230781..231488	-	235	68248760	-	NTHI0240	-	COG2091H	4'-phosphopantetheinyl transferase
+231548..232879	-	443	68248761	dcuB2	NTHI0242	-	COG2704R	anaerobic C4-dicarboxylate transporter
+233083..233313	-	76	68248762	acpP	NTHI0243	-	COG0236IQ	acyl carrier protein
+233573..234301	-	242	68248763	fabG	NTHI0244	-	COG1028IQR	3-ketoacyl-ACP reductase
+234318..235256	-	312	68248764	fabD	NTHI0245	-	COG0331I	ACP S-malonyltransferase
+235756..236706	-	316	68248765	fabH	NTHI0247	-	COG0332I	3-oxoacyl-ACP synthase
+236892..237062	-	56	68248766	rpmF	NTHI0248	-	COG0333J	50S ribosomal protein L32
+237085..237609	-	174	68248767	-	NTHI0249	-	COG1399R	hypothetical protein
+237766..238638	+	290	68248768	psd	NTHI0250	-	COG0688I	phosphatidylserine decarboxylase
+238747..240117	-	456	68248769	gor	NTHI0251	-	COG1249C	glutathione reductase
+240333..240932	-	199	68248770	-	NTHI0252	-	COG3056M	lipoprotein
+241628..242971	+	447	68248771	nqrA	NTHI0254	-	COG1726C	Na(+)-translocating NADH-quinone reductase subunit A
+242974..244209	+	411	68248772	nqrB	NTHI0255	-	COG1805C	Na(+)-translocating NADH-quinone reductase subunit B
+244202..244936	+	244	68248773	nqrC	NTHI0256	-	COG2869C	Na(+)-translocating NADH-quinone reductase subunit C
+244936..245562	+	208	68248774	nqrD	NTHI0257	-	COG1347C	Na(+)-translocating NADH-quinone reductase subunit D
+245566..246162	+	198	68248775	nqrE	NTHI0258	-	COG2209C	Na(+)-translocating NADH-quinone reductase subunit E
+246175..247410	+	411	68248776	nqrF	NTHI0259	-	COG2871C	Na(+)-translocating NADH-quinone reductase subunit F
+247554..248594	+	346	68248777	apbE	NTHI0260	-	COG1477H	thiamine biosynthesis lipoprotein ApbE
+248597..248857	+	86	68248778	-	NTHI0261	-	COG2991S	hypothetical protein
+248932..250125	+	397	68248779	mnmA	NTHI0262	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+250169..250903	-	244	68248780	-	NTHI0263	-	COG1496S	hypothetical protein
+250905..251879	-	324	68248781	rluD	NTHI0264	-	COG0564J	23S rRNA pseudouridine synthase D
+251987..252775	+	262	68248782	-	NTHI0266	-	COG4105R	hypothetical protein
+252854..253336	-	160	68248783	-	NTHI0267	-	-	hypothetical protein
+253368..254108	-	246	68248784	pflA	NTHI0268	-	COG1180O	pyruvate formate lyase-activating enzyme 1
+254233..256551	-	772	68248785	pflB	NTHI0269	-	COG1882C	formate acetyltransferase
+256583..257437	-	284	68248786	focA	NTHI0270	-	COG2116P	formate transporter
+257942..258856	+	304	68248787	-	NTHI0273	-	COG1940KG	N-acetyl-D-glucosamine kinase
+259035..260480	+	481	68248788	-	NTHI0274	-	COG1115E	Na+/alanine symporter
+260665..261492	-	275	68248789	-	NTHI0275	-	COG0627R	esterase
+262760..263167	+	135	68248790	-	NTHI0278	-	COG0789K	HTH-type transcriptional regulator
+263325..263612	+	95	68248791	tatA	NTHI0279	-	COG1826U	Sec-independent protein translocase protein TatA/E
+263616..264176	+	186	68248792	tatB	NTHI0280	-	COG1826U	sec-independent translocase
+264186..264956	+	256	68248793	tatC	NTHI0282	-	COG0805U	Sec-independent protein translocase protein TatC
+265317..266666	+	449	68248794	gdhA	NTHI0283	-	COG0334E	glutamate dehydrogenase
+266774..267214	-	146	68248795	fur	NTHI0284	-	COG0735P	ferric uptake regulation protein
+267243..267767	-	174	68248796	fldA	NTHI0285	-	COG0716C	flavodoxin FldA
+267864..268727	-	287	68248797	-	NTHI0286	-	COG0596R	esterase
+268717..269322	+	201	68248798	seqA	NTHI0289	-	COG3057L	replication initiation regulator SeqA
+269325..270683	+	452	68248799	menE	NTHI0290	-	COG0318IQ	O-succinylbenzoic acid--CoA ligase
+270711..274049	+	1112	68248800	-	NTHI0291	-	COG3264M	potassium efflux protein KefA
+274059..275132	+	357	68248801	aroC	NTHI0292	-	COG0082E	chorismate synthase
+275305..276165	+	286	68248802	mepA	NTHI0294	-	COG3770M	penicillin-insensitive murein endopeptidase
+276183..276950	+	255	68248803	-	NTHI0295	-	COG0730R	hypothetical protein
+276997..277953	+	318	68248804	msbB	NTHI0296	-	COG1560M	lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase
+278080..279051	+	323	68248805	selD	NTHI0297	-	COG0709E	selenophosphate synthetase
+279160..279510	-	116	68248806	rplS	NTHI0298	-	COG0335J	50S ribosomal protein L19
+279547..280287	-	246	68248807	trmD	NTHI0299	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+280325..280852	-	175	68248808	rimM	NTHI0300	-	COG0806J	16S rRNA-processing protein RimM
+280897..281145	-	82	68248809	rpsP	NTHI0301	-	COG0228J	30S ribosomal protein S16
+281425..282210	+	261	68248810	-	NTHI0302	-	-	hypothetical protein
+282233..284044	+	603	68248811	nadN	NTHI0303	-	COG0737F	NAD nucleotidase
+284329..284871	+	180	68248812	aroK	NTHI0305	-	COG0703E	shikimate kinase
+284891..285979	+	362	68248813	aroB	NTHI0306	-	COG0337E	3-dehydroquinate synthase
+285981..286841	+	286	68248814	dam	NTHI0307	-	COG0338L	DNA adenine methylase
+287806..287913	+	35	68248815	-	NTHI0307_1	-	-	hypothetical protein
+287932..288657	-	241	68248816	pgpB	NTHI0308	-	COG0671I	phosphatidylglycerophosphatase B
+288703..289377	+	224	68248817	ribA	NTHI0309	-	COG0807H	GTP cyclohydrolase II
+289693..291237	-	514	68248818	-	NTHI0310	-	COG4166E	ABC-type oligopeptide transport system, periplasmic component
+291230..291592	-	120	68248819	-	NTHI0311	-	COG2832S	hypothetical protein
+291711..293756	+	681	68248820	prlC	NTHI0312	-	COG0339E	oligopeptidase A
+293988..295532	+	514	68248821	hsdM2	NTHI0314	-	COG0286V	type I restriction-modification system methyltransferase subunit
+295617..296789	+	390	68248822	hsdS2	NTHI0315	-	COG0732V	type I restriction-modification system specificity protein
+296791..297945	+	384	68248823	prrC	NTHI0316	-	COG4694S	anticodon nuclease
+297948..298946	+	332	68248824	-	NTHI0317	-	COG3943R	DNA binding protein
+298957..302040	+	1027	68248825	hsdR2	NTHI0318	-	COG0610V	type I restriction-modification system
+302187..302816	-	209	68248826	-	NTHI0319	-	COG3059S	hypothetical protein
+303030..304871	-	613	68248827	arcB	NTHI0321	-	COG0642T	aerobic respiration control sensor protein ArcB
+304940..305584	-	214	68248828	-	NTHI0322	-	COG1573L	uracil-DNA glycosylase
+311636..312544	-	302	68248829	birA	NTHI0323	-	COG0340H	biotin--protein ligase
+312671..314137	+	488	68248830	guaB	NTHI0324	-	COG0516F	inosine 5'-monophosphate dehydrogenase
+314247..315818	+	523	68248831	guaA	NTHI0326	-	COG0519F	GMP synthase
+315880..316782	-	300	68248832	-	NTHI0327	-	COG2962R	hypothetical protein
+316845..317351	+	168	68248833	-	NTHI0328	-	COG1522K	transcriptional regulator
+317390..318592	-	400	68248834	nhaA	NTHI0329	-	COG3004P	pH-dependent sodium/proton antiporter
+318780..320090	+	436	68248835	brnQ	NTHI0331	-	COG1114E	branched chain amino acid ABC transporter carrier protein
+320198..320665	-	155	68248836	-	NTHI0332	-	COG2731G	hypothetical protein
+320692..321138	-	148	68248837	-	NTHI0333	-	COG1442M	hypothetical protein
+321411..323540	+	709	68248838	pnp	NTHI0334	-	COG1185J	polynucleotide phosphorylase
+323622..324566	+	314	68248839	nlpL	NTHI0335	-	COG4785R	lipoprotein NlpI
+324686..326527	+	613	68248840	deaD	NTHI0337	-	COG0513LKJ	cold-shock DEAD-box protein A-like protein
+326705..328093	+	462	68248841	-	NTHI0338	-	COG4623M	transglycosylase
+328098..328250	+	50	68248842	-	NTHI0339	-	-	hypothetical protein
+328384..328680	-	98	68248843	-	NTHI0340	-	-	hypothetical protein
+328737..328946	-	69	68248844	-	NTHI0342	-	COG3036S	hypothetical protein
+329014..329364	-	116	68248845	arsC	NTHI0343	-	COG1393P	arsenate reductase
+329443..330492	+	349	68248846	perM	NTHI0344	-	COG0628R	permease PerM-like protein
+330606..331583	-	325	68248847	secF	NTHI0345	-	COG0341U	preprotein translocase subunit SecF
+331591..333441	-	616	68248848	secD	NTHI0346	-	COG0342U	preprotein translocase subunit SecD
+333511..333804	-	97	68248849	yajC	NTHI0347	-	COG1862U	preprotein translocase subunit YajC
+333912..334133	-	73	68248850	-	NTHI0348	-	COG0425O	redox protein, regulator of disulfide bond formation
+334130..334648	-	172	68248851	-	NTHI0349	-	-	hypothetical protein
+334713..335861	-	382	68248852	tgt	NTHI0350	-	COG0343J	queuine tRNA-ribosyltransferase
+336206..337297	-	363	68248853	queA	NTHI0351	-	COG0809J	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+337421..337867	-	148	68248854	-	NTHI0353	-	-	hypothetical protein
+338010..342188	-	1392	68248855	hap	NTHI0354	-	COG3468MU	adhesion and penetration protein Hap
+342506..345337	-	943	68248856	uvrA	NTHI0355	-	COG0178L	excinuclease ABC subunit A
+345490..345996	+	168	68248857	ssb	NTHI0356	-	COG0629L	single-stranded DNA-binding protein
+346174..346968	-	264	68248858	tonB	NTHI0358	-	COG0810M	TonB
+346978..347421	-	147	68248859	exbD	NTHI0359	-	COG0848U	biopolymer transport protein
+347425..347877	-	150	68248860	exbB	NTHI0360	-	COG0811U	transport protein ExbB
+348046..348513	-	155	68248861	bcp	NTHI0361	-	COG1225O	thioredoxin-dependent thiol peroxidase
+348614..349510	+	298	68248862	dapA	NTHI0362	-	COG0329EM	dihydrodipicolinate synthase
+349621..350250	+	209	68248863	-	NTHI0363	-	COG3317M	lipoprotein
+350440..350763	+	107	68248864	-	NTHI0364	-	COG1544J	hypothetical protein
+351477..352415	-	312	68248865	lgtC	NTHI0365	-	COG1442M	UDP-galactose--lipooligosaccharide galactosyltransferase
+352483..353070	-	195	68248866	orfM	NTHI0366	-	COG0127F	deoxyribonucleotide triphosphate pyrophosphatase
+353082..353807	-	241	68248867	kdkA	NTHI0367	-	COG0478T	3-deoxy-D-manno-octulosonic-acid kinase
+353884..354927	+	347	68248868	opsX	NTHI0368	-	COG0859M	ADP-heptose--lipooligosaccharide heptosyltransferase I
+355249..357378	+	709	68248869	hxuC	NTHI0369	-	COG1629P	heme-hemopexin utilization protein C
+357454..359151	+	565	68248870	hxuB	NTHI0370	-	COG2831U	heme/hemopexin-binding protein B
+359163..361928	+	921	68248871	hxuA	NTHI0371	-	COG3210U	heme/hemopexin-binding protein A
+362024..362380	-	118	68248872	folB	NTHI0372	-	COG1539H	dihydroneopterin aldolase
+362463..363062	+	199	68248873	-	NTHI0373	-	COG0344S	glycerol-3-phosphate acyltransferase PlsY
+363104..364807	+	567	68248874	narQ	NTHI0374	-	COG3850T	nitrate/nitrite sensor protein NarQ
+364817..365842	+	341	68248875	murB	NTHI0375	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+365968..366813	+	281	68248876	rpoH	NTHI0376	-	COG0568K	RNA polymerase factor sigma-32
+367280..368146	-	288	68248877	djlA	NTHI0379	-	COG1076O	Dna-J like membrane chaperone protein
+368225..368866	-	213	68248878	pyrE	NTHI0380	-	COG0461F	orotate phosphoribosyltransferase
+368890..369606	-	238	68248879	rph	NTHI0381	-	COG0689J	ribonuclease PH
+369907..371349	-	480	68248880	gltX	NTHI0382	-	COG0008J	glutamyl-tRNA synthetase
+372099..373754	+	551	68248881	lpt6	NTHI0383	-	COG1368M	PE-tn-6--lipooligosaccharide phosphorylethanolamine transferase
+373772..374581	-	269	68248882	rbn	NTHI0384	-	COG1295S	ribonuclease BN
+374578..375063	-	161	68248883	-	NTHI0386	-	COG3012S	hypothetical protein
+375066..375728	-	220	68248884	-	NTHI0387	-	COG2258S	hypothetical protein
+375964..376722	+	252	161761279	udp	NTHI0389	-	COG2820F	uridine phosphorylase
+376948..378264	-	438	68248886	-	NTHI0390	-	COG2814G	metabolite transport protein
+378320..379063	-	247	68248887	-	NTHI0391	-	COG0596R	acyl-CoA thioester hydrolase
+379124..380830	-	568	68248888	menD	NTHI0392	-	COG1165H	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+380846..382117	-	423	68248889	menF	NTHI0393	-	COG1169HQ	menaquinone-specific isochorismate synthase
+382274..383488	+	404	68248890	aspC3	NTHI0395	-	COG0436E	aminotransferase
+383605..384861	+	418	68248891	mtr	NTHI0396	-	COG0814E	tryptophan-specific transport protein
+384970..386337	-	455	68248892	sdaA	NTHI0397	-	COG1760E	L-serine dehydratase
+386372..387610	-	412	68248893	sdaC	NTHI0398	-	COG0814E	serine transporter
+387833..390001	-	722	68248894	-	NTHI0399	-	COG2217P	cation-transporting ATPase
+390841..391227	+	128	68248895	-	NTHI0403	-	COG0789K	heavy metal dependent transcriptional regulator
+391241..391558	-	105	68248896	metJ	NTHI0404	-	COG3060KE	transcriptional repressor protein MetJ
+391802..393064	+	420	68248897	rho	NTHI0405	-	COG1158K	transcription termination factor Rho
+393118..393810	-	230	68248898	pilD	NTHI0406	-	COG1989NOU	type 4 prepilin-like protein specific leader peptidase
+393807..395027	-	406	68248899	pilC	NTHI0407	-	COG1459NU	type IV pilin secretion protein
+395024..396418	-	464	68248900	pilB	NTHI0408	-	COG2804NU	type IV pilin secretion protein
+396415..396864	-	149	68248901	pilA	NTHI0409	-	COG4969NU	Type IV pilin subunit protein
+396979..397539	+	186	68248902	ampD	NTHI0411	-	COG3023V	N-acetyl-anhydromuranmyl-L-alanine amidase
+398161..399060	+	299	68248903	corC	NTHI0412	-	COG4535P	magnesium and cobalt efflux protein CorC
+399044..400612	+	522	68248904	lnt	NTHI0413	-	COG0815M	apolipoprotein N-acyltransferase
+400662..401399	+	245	68248905	-	NTHI0414	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+401396..401956	+	186	68248906	-	NTHI0415	-	COG1678K	hypothetical protein
+401956..402375	+	139	68248907	ruvX	NTHI0416	-	COG0816L	Holliday junction resolvase-like protein
+403545..404756	+	403	68248908	-	NTHI0419	-	COG0582L	prophage CP4-57-like integrase
+404793..405227	-	144	68248909	-	NTHI0420	-	COG1813K	hypothetical protein
+405340..405762	+	140	68248910	-	NTHI0421	-	-	hypothetical protein
+405771..406544	+	257	68248911	-	NTHI0422	-	COG3680S	hypothetical protein
+407079..407270	+	63	68248912	-	NTHI0423	-	-	hypothetical protein
+407319..407471	+	50	68248913	-	NTHI0424	-	-	hypothetical protein
+407638..408528	-	296	68248914	-	NTHI0425	-	-	hypothetical protein
+409189..410004	+	271	68248915	proC	NTHI0426	-	COG0345E	pyrroline-5-carboxylate reductase
+410004..411170	+	388	68248916	hcaT	NTHI0427	-	COG2814G	3-phenylpropionic acid transporter
+411201..412094	+	297	68248917	xerD	NTHI0428	-	COG4974L	site-specific tyrosine recombinase XerD
+412267..412554	+	95	68248918	-	NTHI0429	-	-	hypothetical protein
+412606..413613	-	335	68248919	ruvB	NTHI0430	-	COG2255L	Holliday junction DNA helicase RuvB
+413621..414235	-	204	68248920	ruvA	NTHI0431	-	COG0632L	Holliday junction DNA helicase RuvA
+414298..414870	-	190	68248921	ruvC	NTHI0432	-	COG0817L	Holliday junction resolvase
+414917..415657	-	246	68248922	-	NTHI0433	-	COG0217S	hypothetical protein
+415669..416142	-	157	68248923	ntpA	NTHI0434	-	COG0494LR	dATP pyrophosphohydrolase
+416164..417930	-	588	68248924	aspS	NTHI0435	-	COG0173J	aspartyl-tRNA synthetase
+418149..418667	+	172	68248925	-	NTHI0436	-	COG1755S	hypothetical protein
+418720..419445	+	241	68248926	-	NTHI0438	-	COG4106R	hypothetical protein
+419538..419774	+	78	68248927	-	NTHI0439	-	COG4456S	hypothetical protein
+419771..420175	+	134	68248928	-	NTHI0440	-	COG1487R	nucleic acid-binding protein
+420242..420649	+	135	68248929	gloA	NTHI0441	-	COG0346E	lactoylglutathione lyase
+420723..421412	+	229	68248930	rnt	NTHI0442	-	COG0847L	ribonuclease T
+421726..423078	+	450	68248931	-	NTHI0443	-	COG2056R	hypothetical protein
+423111..423698	+	195	68248932	-	NTHI0444	-	COG3923L	primosomal replication protein N
+424049..424615	-	188	68248933	efp	NTHI0446	-	COG0231J	elongation factor P
+424653..425669	+	338	68248934	-	NTHI0447	-	COG1509E	lysine 2,3-aminomutase
+425768..427063	+	431	68248935	oapA	NTHI0448	-	COG3061M	opacity associated protein
+427122..427526	+	134	68248936	oapB	NTHI0449	-	-	opacity associated protein OapB
+427529..428239	+	236	68248937	recO	NTHI0450	-	COG1381L	DNA repair protein RecO
+428239..429555	+	438	68248938	rumA	NTHI0451	-	COG2265J	23S rRNA 5-methyluridine methyltransferase
+429633..431864	+	743	68248939	relA	NTHI0452	-	COG0317TK	GTP pyrophosphokinase
+431879..432235	+	118	68248940	dgkA	NTHI0453	-	COG0818M	diacylglycerol kinase
+432318..432911	+	197	68248941	mogA	NTHI0454	-	COG0521H	molybdenum cofactor biosynthesis protein MogA
+432913..433251	+	112	68248942	glnB	NTHI0456	-	COG0347E	nitrogen regulatory protein P-II
+433251..434297	+	348	68248943	-	NTHI0457	-	COG0628R	hypothetical protein
+434339..436531	-	730	68248944	priA	NTHI0458	-	COG1198L	primosome assembly protein PriA
+436616..437356	+	246	68248945	trmB	NTHI0459	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+437441..437785	+	114	68248946	-	NTHI0460	-	COG3171S	hypothetical protein
+437991..438521	+	176	68248947	napF	NTHI0461	-	COG1142C	ferredoxin-type protein NapF
+438514..438795	+	93	68248948	napD	NTHI0462	-	COG3062P	NapD
+438817..441315	+	832	68248949	napA	NTHI0463	-	COG0243C	nitrate reductase catalytic subunit
+441369..442208	+	279	68248950	napG	NTHI0464	-	COG1145C	quinol dehydrogenase periplasmic component
+442208..443071	+	287	68248951	napH	NTHI0465	-	COG0348C	quinol dehydrogenase membrane component
+443068..443520	+	150	68248952	napB	NTHI0466	-	COG3043C	diheme cytochrome C NapB
+443535..444137	+	200	68248953	napC	NTHI0467	-	COG3005C	cytochrome C-type protein NapC
+444297..444941	-	214	68248954	adk	NTHI0468	-	COG0563F	adenylate kinase
+445026..446303	-	425	68248955	lic3C	NTHI0469	-	-	integral membrane signal transducer protein
+446445..447461	-	338	68248956	galE	NTHI0471	-	COG1087M	UDP-glucose 4-epimerase
+447634..448596	-	320	68248957	lic3A	NTHI0472	-	-	CMP-Neu5Ac--lipooligosaccharide alpha 2-3 sialyltransferase
+448995..449717	+	240	68248958	-	NTHI0473	-	COG1116P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase
+449714..450451	+	245	68248959	-	NTHI0474	-	COG0600P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease
+450473..451417	+	314	68248960	-	NTHI0475	-	COG0715P	ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic component
+451427..452074	+	215	68248961	-	NTHI0476	-	COG0819K	transcription activator
+452169..452984	-	271	68248962	hfeD	NTHI0477	-	COG1108P	ABC-type chelated iron transport system, permease
+452977..453825	-	282	68248963	hfeC	NTHI0478	-	COG1108P	ABC-type chelated iron transport system, permease
+453829..454749	-	306	68248964	hfeB	NTHI0479	-	COG1121P	ABC-type chelated iron transport system, ATPase
+454749..455630	-	293	68248965	hfeA	NTHI0481	-	COG0803P	periplasmic chelated iron binding protein
+455936..456400	+	154	68248966	-	NTHI0482	-	-	hypothetical protein
+456492..457370	-	292	68248967	pbpG	NTHI0483	-	COG1686M	penicillin-binding protein 7-like protein
+457595..458767	+	390	68248968	-	NTHI0485	-	COG0820R	ribosomal RNA large subunit methyltransferase N
+458867..459406	+	179	68248969	-	NTHI0486	-	COG3063NU	hypothetical protein
+459478..460389	+	303	68248970	-	NTHI0487	-	COG1426S	hypothetical protein
+460398..461504	+	368	68248971	ispG	NTHI0488	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+461514..462785	+	423	68248972	hisS	NTHI0489	-	COG0124J	histidyl-tRNA synthetase
+462803..463417	+	204	68248973	-	NTHI0490	-	COG2976S	hypothetical protein
+463468..463662	-	64	68248974	-	NTHI0491	-	COG2975S	hypothetical protein
+463662..464003	-	113	68248975	fdx	NTHI0492	-	COG0633C	(2Fe-2S) ferredoxin
+464043..465902	-	619	68248976	hscA	NTHI0493	-	COG0443O	chaperone protein HscA
+465921..466607	-	228	68248977	-	NTHI0494	-	-	hypothetical protein
+466658..467182	-	174	68248978	hscB	NTHI0495	-	COG1076O	co-chaperone HscB
+467195..467518	-	107	68248979	-	NTHI0496	-	COG0316S	hypothetical protein
+467576..467956	-	126	68248980	nifU	NTHI0497	-	COG0822C	scaffold protein
+468016..469236	-	406	68248981	nifS2	NTHI0498	-	COG1104E	cysteine desulfurase
+469297..469749	-	150	68248982	-	NTHI0499	-	COG1959K	hypothetical protein
+469802..470527	-	241	68248983	-	NTHI0500	-	COG0565J	tRNA/rRNA methyltransferase
+470967..471428	-	153	68248984	pal	NTHI0501	-	COG2885M	outer membrane protein P6
+471452..472735	-	427	68248985	tolB	NTHI0502	-	COG0823U	translocation protein TolB
+472777..474003	-	408	68248986	tolA	NTHI0503	-	COG3064M	cell envelope integrity inner membrane protein TolA
+474019..474438	-	139	68248987	tolR	NTHI0504	-	COG0848U	colicin uptake protein TolR
+474509..475195	-	228	68248988	tolQ	NTHI0505	-	COG0811U	hypothetical protein
+475212..475622	-	136	68248989	-	NTHI0506	-	COG0824R	thioesterase
+475947..477869	+	640	68248990	dinG	NTHI0507	-	COG1199KL	ATP-dependent helicase
+477882..478592	+	236	68248991	-	NTHI0508	-	COG1214O	hypothetical protein
+478617..479168	+	183	68248992	-	NTHI0509	-	COG3065M	starvation-inducible outer membrane lipoprotein
+479210..480898	+	562	68248993	lcfA	NTHI0510	-	COG0318IQ	long-chain-fatty-acid--CoA ligase
+480954..482096	+	380	68248994	rnd	NTHI0511	-	COG0349J	ribonuclease D
+482139..484007	-	622	68248995	-	NTHI0512	-	COG1835I	acyltransferase
+484081..485172	-	363	68248996	-	NTHI0513	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+485220..485804	-	194	68248997	pth	NTHI0514	-	COG0193J	peptidyl-tRNA hydrolase
+485987..486295	+	102	68248998	-	NTHI0516	-	COG2914S	hypothetical protein
+486298..487512	+	404	68248999	-	NTHI0517	-	COG2850S	hypothetical protein
+487514..488833	+	439	68249000	xseA	NTHI0518	-	COG1570L	exodeoxyribonuclease VII large subunit
+489010..489663	+	217	68249001	adpP	NTHI0519	-	COG0494LR	ADP-ribose pyrophosphatase
+489673..490497	+	274	68249002	icc	NTHI0520	-	COG1409R	cyclic 3',5'-adenosine monophosphate phosphodiesterase
+490595..490882	-	95	68249003	-	NTHI0521	-	COG3691S	hypothetical protein
+491079..492455	+	458	68249004	ompP1	NTHI0522	-	COG2067I	long-chain fatty acid ABC transporter
+492501..493070	+	189	68249005	ogt	NTHI0523	-	COG0350L	methylated-DNA--protein-cysteine methyltransferase
+493067..493738	+	223	68249006	mutH	NTHI0524	-	COG3066L	DNA mismatch repair protein
+493746..495038	-	430	68249007	mesJ	NTHI0525	-	COG0037D	cell cycle protein MesJ
+495215..496162	-	315	68249008	accA	NTHI0528	-	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+496251..497036	-	261	68249009	znuB	NTHI0529	-	COG1108P	high-affinity zinc uptake system membrane protein ZnuB
+497036..497842	-	268	68249010	znuC	NTHI0531	-	COG1121P	ABC transporter ATP-binding protein
+498014..499441	+	475	68249011	-	NTHI0532	-	COG0739M	metalloprotease
+499556..500512	+	318	68249012	tyrR	NTHI0534	-	COG3283KE	transcriptional regulatory protein TyrR
+500608..500883	-	91	68249013	hfq	NTHI0535	-	COG1923R	RNA-binding protein Hfq
+500974..501969	-	331	68249014	rluC	NTHI0536	-	COG0564J	23S rRNA pseudouridylate synthase C
+502315..505170	+	951	68249015	rne	NTHI0538	-	COG1530J	ribonuclease E
+505402..505614	+	70	68249016	-	NTHI0539	-	COG3637M	hypothetical protein
+505938..506735	+	265	68249017	thiM	NTHI0540	-	COG2145H	hydroxyethylthiazole kinase
+506728..507537	+	269	68249018	thiD	NTHI0541	-	COG0351H	phosphomethylpyrimidine kinase
+507548..508228	+	226	68249019	thiE	NTHI0542	-	COG0352H	thiamine-phosphate pyrophosphorylase
+508212..509516	+	434	68249020	-	NTHI0543	-	COG2814G	metabolite transporter
+509528..509629	-	33	68249021	-	NTHI0544	-	-	hypothetical protein
+509685..511064	+	459	68249022	-	NTHI0545	-	COG0826O	protease
+511098..512417	-	439	68249023	srmB	NTHI0546	-	COG0513LKJ	ATP-dependent RNA helicase SrmB
+512463..513185	+	240	68249024	-	NTHI0547	-	COG4123R	O-methyltransferase
+513968..515335	+	455	68249025	pssA	NTHI0549	-	COG1502I	phosphatidylserine synthase
+515381..516106	-	241	68249026	fadR	NTHI0550	-	COG2186K	fatty acid metabolism regulator
+516207..517775	+	522	68249027	nhaB	NTHI0551	-	COG3067P	sodium/proton antiporter
+517785..518318	+	177	68249028	dsbB	NTHI0552	-	COG1495O	disulfide bond formation protein B
+518373..520205	-	610	68249029	glmS	NTHI0553	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+520318..520728	-	136	68249030	hupA	NTHI0554	-	COG0776L	DNA-binding protein HU
+520730..521320	-	196	68249031	-	NTHI0555	-	COG3068S	hypothetical protein
+521356..522150	-	264	68249032	nudC	NTHI0557	-	COG2816L	NADH pyrophosphatase
+522217..522813	-	198	68249033	orfG	NTHI0558	-	COG0694O	DNA uptake protein
+522889..523575	-	228	68249034	comF	NTHI0559	-	COG1040R	competence protein F
+523588..524925	-	445	68249035	comE	NTHI0560	-	COG4796U	competence protein E
+524935..525348	-	137	68249036	comD	NTHI0562	-	-	competence protein D
+525345..525866	-	173	68249037	comC	NTHI0563	-	-	competence protein C
+525863..526369	-	168	68249038	comB	NTHI0564	-	-	competence protein B
+526370..527167	-	265	68249039	comA	NTHI0566	-	COG4972NU	competence protein A
+527266..529860	+	864	68249040	mrcA	NTHI0567	-	COG5009M	penicillin-binding protein 1A
+529933..530778	+	281	68249041	-	NTHI0568	-	COG2961R	hypothetical protein
+530911..531276	+	121	68249042	-	NTHI0569	-	COG0718S	hypothetical protein
+531407..532009	+	200	68249043	recR	NTHI0570	-	COG0353L	recombination protein RecR
+532025..533980	+	651	68249044	topB	NTHI0571	-	COG0550L	DNA topoisomerase III
+534089..534430	+	113	68249045	secG	NTHI0572	-	COG1314U	preprotein translocase subunit SecG
+534975..536645	-	556	68249046	fruA	NTHI0573	-	COG1299G	PTS system, fructose-specific IIBC component
+536647..537588	-	313	68249047	fruK	NTHI0574	-	COG1105G	1-phosphofructokinase
+537590..539089	-	499	68249048	fruB	NTHI0575	-	COG4668G	bifunctional PTS system fructose-specific transporter subunit IIA/HPr protein
+539161..539697	-	178	68249049	-	NTHI0576	-	-	hypothetical protein
+539784..540062	-	92	68249050	vapD	NTHI0577	-	COG3309S	virulence-associated protein D
+540071..540262	-	63	68249051	vapX	NTHI0578	-	-	hypothetical protein
+540334..541632	-	432	68249052	-	NTHI0579	-	COG1253R	hypothetical protein
+541683..542207	-	174	68249053	-	NTHI0580	-	-	hypothetical protein
+542234..543016	-	260	68249054	-	NTHI0581	-	COG0084L	deoxyribonuclease
+543071..544054	-	327	68249055	holB	NTHI0582	-	COG0470L	DNA polymerase III subunit delta'
+544051..544179	-	42	68249056	-	NTHI0584	-	-	hypothetical protein
+544254..546377	+	707	68249057	lav	NTHI0585	-	COG3468MU	autotransported protein Lav
+547283..547942	-	219	68249058	tmk	NTHI0586	-	COG0125F	thymidylate kinase
+547932..548975	-	347	68249059	-	NTHI0587	-	COG1559R	periplasmic solute-binding protein
+549045..549986	-	313	68249060	surA	NTHI0588	-	COG0760O	survival protein SurA-like protein
+550056..550595	-	179	68249061	pyrR	NTHI0589	-	COG2065F	bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase
+550727..551518	+	263	68249062	mazG	NTHI0591	-	COG3956R	nucleoside triphosphate pyrophosphohydrolase
+551568..552443	-	291	68249063	-	NTHI0592	-	COG2990S	hypothetical protein
+552636..555047	+	803	68249064	lon	NTHI0593	-	COG0466O	ATP-dependent protease La
+555164..556315	+	383	68249065	-	NTHI0594	-	COG0635H	coproporphyrinogen III oxidase
+556449..557108	+	219	68249066	rpiA	NTHI0595	-	COG0120G	ribose-5-phosphate isomerase A
+557138..558370	+	410	68249067	serA	NTHI0596	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+558413..559255	-	280	68249068	-	NTHI0597	-	COG0354R	glycine cleavage system protein T
+559265..560128	-	287	68249069	-	NTHI0598	-	COG1561S	hypothetical protein
+560577..561488	+	303	68249070	hisG	NTHI0599	-	COG0040E	ATP phosphoribosyltransferase
+561581..562864	+	427	68249071	hisD	NTHI0600	-	COG0141E	histidinol dehydrogenase
+562933..564036	+	367	68249072	hisC	NTHI0601	-	COG0079E	histidinol-phosphate aminotransferase
+564148..565236	+	362	68249073	hisB	NTHI0602	-	COG0131E	imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+565302..565901	+	199	68249074	hisH	NTHI0603	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+565937..566686	+	249	68249075	hisA	NTHI0604	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+566668..567444	+	258	68249076	hisF	NTHI0605	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+567444..568109	+	221	68249077	hisI	NTHI0606	-	COG0139E	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+568191..568343	+	50	68249078	-	NTHI0606_1	-	-	hypothetical protein
+568373..569575	+	400	68249079	tyrP	NTHI0607	-	COG0814E	tyrosine-specific transport protein 1
+569761..570189	-	142	68249080	atpC	NTHI0608	-	COG0355C	ATP synthase F0F1 subunit epsilon
+570219..571592	-	457	68249081	atpD	NTHI0609	-	COG0055C	ATP synthase F0F1 subunit beta
+571609..572478	-	289	68249082	atpG	NTHI0610	-	COG0224C	ATP synthase F0F1 subunit gamma
+572494..574035	-	513	68249083	atpA	NTHI0611	-	COG0056C	ATP synthase F0F1 subunit alpha
+574048..574581	-	177	68249084	atpH	NTHI0612	-	COG0712C	ATP synthase F0F1 subunit delta
+574594..575064	-	156	68249085	atpF	NTHI0613	-	COG0711C	ATP synthase F0F1 subunit B
+575114..575368	-	84	68249086	atpE	NTHI0614	-	COG0636C	ATP synthase F0F1 subunit C
+575424..576212	-	262	68249087	atpB	NTHI0615	-	COG0356C	ATP synthase F0F1 subunit A
+576249..576623	-	124	68249088	-	NTHI0616	-	COG3312C	F0F1 ATP synthase subunit I
+576749..577360	-	203	68249089	gidB	NTHI0617	-	COG0357M	16S rRNA methyltransferase GidB
+577500..577877	-	125	68249090	-	NTHI0618	-	-	hypothetical protein
+577993..578595	+	200	68249091	-	NTHI0619	-	COG0637R	phosphatase/phosphohexomutase
+578595..579068	+	157	68249092	-	NTHI0620	-	COG1238S	hypothetical protein
+579253..579756	+	167	68249093	luxS	NTHI0621	-	COG1854T	S-ribosylhomocysteinase
+580700..581407	-	235	68249094	aphA	NTHI0623	-	COG3700R	acid phosphatase/phosphotransferase
+581627..582154	+	175	68249095	hslV	NTHI0624	-	COG5405O	ATP-dependent protease peptidase subunit
+582165..583499	+	444	68249096	hslU	NTHI0625	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+583569..584621	-	350	68249097	potD2	NTHI0626	-	COG0687E	spermidine/putrescine-binding periplasmic protein 2
+584761..586056	+	431	68249098	ordL	NTHI0627	-	COG0665E	oxidoreductase OrdL
+586220..587662	+	480	68249099	rmuC	NTHI0628	-	COG1322S	DNA recombination protein RmuC
+587826..588245	+	139	68249100	rbsD	NTHI0629	-	COG1869G	D-ribose pyranase
+588259..589740	+	493	68249101	rbsA	NTHI0630	-	COG1129G	D-ribose transporter ATP binding protein
+589753..590724	+	323	68249102	rbsC	NTHI0631	-	COG1172G	ribose ABC transporter permease protein
+590744..591622	+	292	68249103	rbsB	NTHI0632	-	COG1879G	D-ribose transporter subunit RbsB
+591720..592640	+	306	68249104	rbsK	NTHI0633	-	COG0524G	ribokinase
+592668..593666	+	332	68249105	rbsR	NTHI0634	-	COG1609K	ribose operon repressor
+593772..594323	+	183	68249106	-	NTHI0635	-	COG2862S	hypothetical protein
+594463..594951	-	162	68249107	menG	NTHI0636	-	COG0684H	ribonuclease activity regulator protein RraA
+595003..595935	-	310	68249108	menA	NTHI0637	-	COG1575H	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+595982..596701	+	239	68249109	-	NTHI0638	-	COG1720S	hypothetical protein
+596754..597740	-	328	68249110	tehA	NTHI0639	-	COG1275P	potassium-tellurite ethidium and proflavin transporter
+597892..602142	-	1416	68249111	rpoC	NTHI0640	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+602349..606380	-	1343	68249112	rpoB	NTHI0641	-	COG0085K	DNA-directed RNA polymerase subunit beta
+606764..607453	-	229	68249113	rplA	NTHI0642	-	COG0081J	50S ribosomal protein L1
+607458..607886	-	142	68249114	rplK	NTHI0643	-	COG0080J	50S ribosomal protein L11
+608059..608775	-	238	68249115	deoD	NTHI0644	-	COG0813F	purine nucleoside phosphorylase
+608859..610112	-	417	68249116	-	NTHI0645	-	COG1972F	nucleoside permease
+610211..610999	-	262	68249117	-	NTHI0646	-	COG1180O	pyruvate-formate lyase-activating enzyme
+611008..612552	-	514	68249118	-	NTHI0647	-	COG1882C	hypothetical protein
+612765..613421	+	218	68249119	-	NTHI0648	-	COG2364S	hypothetical protein
+613377..614447	-	356	68249120	waaQ	NTHI0649	-	COG0859M	ADP-heptose--lipooligosaccharide heptosyltransferase III
+614485..615564	-	359	68249121	fba	NTHI0650	-	COG0191G	fructose-bisphosphate aldolase
+615675..616835	-	386	68249122	pgk	NTHI0651	-	COG0126G	phosphoglycerate kinase
+616931..617725	-	264	68249123	-	NTHI0652	-	COG3719J	ribonuclease I
+617803..618063	+	86	68249124	-	NTHI0653	-	COG4231C	ferredoxin-like protein
+618197..619417	-	406	68249125	tyrQ	NTHI0654	-	COG0814E	tyrosine-specific transport protein 2
+619454..620035	-	193	68249126	tdk	NTHI0655	-	COG1435F	thymidine kinase
+620044..621072	-	342	68249127	gcp	NTHI0656	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+621304..621519	+	71	68249128	rpsU	NTHI0657	-	COG0828J	30S ribosomal protein S21
+621653..623434	+	593	68249129	dnaG	NTHI0658	-	COG0358L	DNA primase
+623505..625376	+	623	68249130	rpoD	NTHI0659	-	COG0568K	RNA polymerase sigma factor RpoD
+625686..627113	-	475	68249131	aspA	NTHI0660	-	COG1027E	aspartate ammonia-lyase
+627260..628075	-	271	68249132	ureH	NTHI0661	-	COG0829O	urease accessory protein UreH
+628150..628827	-	225	68249133	ureG	NTHI0662	-	COG0378OK	urease accessory protein
+628930..629637	-	235	68249134	ureF	NTHI0663	-	COG0830O	urease accessory protein UreF
+629622..630179	-	185	68249135	ureE	NTHI0664	-	COG2371O	urease accessory protein UreE
+630307..632025	-	572	68249136	ureC	NTHI0665	-	COG0804E	urease subunit alpha
+632037..632342	-	101	68249137	ureB	NTHI0666	-	COG0832E	urease subunit beta
+632419..632721	-	100	68249138	ureA	NTHI0667	-	COG0831E	urease subunit gamma
+632884..633174	+	96	68249139	groES	NTHI0668	-	COG0234O	co-chaperonin GroES
+633197..634834	+	545	68249140	groEL	NTHI0669	-	COG0459O	molecular chaperone GroEL
+635008..635457	-	149	68249141	rplI	NTHI0670	-	COG0359J	50S ribosomal protein L9
+635474..635701	-	75	68249142	rpsR	NTHI0671	-	COG0238J	30S ribosomal protein S18
+635714..636040	-	108	68249143	priB	NTHI0672	-	COG2965L	primosomal replication protein N
+636027..636404	-	125	68249144	rpsF	NTHI0673	-	COG0360J	30S ribosomal protein S6
+636596..636850	-	84	68249145	infA	NTHI0674	-	COG0361J	translation initiation factor IF-1
+638183..639046	+	287	68249146	ksgA	NTHI0676	-	COG0030J	dimethyladenosine transferase
+639086..640024	-	312	68249147	lic2A	NTHI0677	-	COG3306M	UDP-Gal--lipooligosaccharide galactosyltransferase
+640077..640904	+	275	68249148	apaH	NTHI0679	-	COG0639T	diadenosine tetraphosphatase
+640914..641537	+	207	68249149	-	NTHI0680	-	-	hypothetical protein
+641663..643117	-	484	68249150	gnd	NTHI0681	-	COG0362G	6-phosphogluconate dehydrogenase
+643233..643775	-	180	68249151	-	NTHI0683	-	COG1943L	hypothetical protein
+643858..644046	-	62	68249152	-	NTHI0684	-	COG3759S	hypothetical protein
+644116..644814	-	232	161761278	devB	NTHI0685	-	COG0363G	6-phosphogluconolactonase
+644957..646441	-	494	68249154	zwf	NTHI0686	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+646517..647326	-	269	68249155	cysQ	NTHI0687	-	COG1218P	CysQ
+647331..647747	-	138	68249156	-	NTHI0688	-	-	hypothetical protein
+647804..649786	-	660	68249157	-	NTHI0689	-	COG1297S	hypothetical protein
+650015..650410	+	131	68249158	hslR	NTHI0690	-	COG1188J	heat shock protein 15-like protein
+650436..650888	-	150	68249159	asnC	NTHI0691	-	COG1522K	DNA-binding transcriptional regulator AsnC
+651042..652034	+	330	68249160	asnA	NTHI0692	-	COG2502E	asparagine synthetase AsnA
+652097..652450	-	117	68249161	-	NTHI0693	-	COG2801L	transposase-like protein
+653063..653920	+	285	68249162	-	NTHI0694	-	-	hypothetical protein
+654077..654193	-	38	68249163	-	NTHI0695	-	-	hypothetical protein
+654485..654625	+	46	68249164	-	NTHI0696	-	-	hypothetical protein
+654805..655479	-	224	68249165	gph	NTHI0697	-	COG0546R	phosphoglycolate phosphatase
+655525..656229	-	234	68249166	rpe	NTHI0698	-	COG0036G	ribulose-phosphate 3-epimerase
+656351..658771	-	806	68249167	gyrB	NTHI0699	-	COG0187L	DNA gyrase subunit B
+658897..661209	-	770	68249168	-	NTHI0701	-	COG2183K	transcriptional accessory protein
+661305..661781	+	158	68249169	greB	NTHI0702	-	COG0782K	transcription elongation factor GreB
+661851..662468	-	205	68249170	-	NTHI0703	-	COG1309K	DNA-binding transcriptional repressor FabR
+662468..663373	-	301	68249171	oxyR	NTHI0704	-	COG0583K	DNA-binding transcriptional regulator OxyR
+663496..664221	+	241	68249172	pdgX	NTHI0705	-	COG0678O	peroxiredoxin/glutaredoxin
+664313..664534	-	73	68249173	slyX	NTHI0706	-	COG2900S	hypothetical protein
+664632..665357	+	241	68249174	fkbY	NTHI0707	-	COG0545O	FKBP-type peptidylprolyl isomerase
+665447..666112	+	221	68249175	-	NTHI0708	-	COG2964S	hypothetical protein
+666112..666492	+	126	68249176	-	NTHI0709	-	COG1553P	sulfur transfer complex subunit TusD
+666489..666848	+	119	68249177	-	NTHI0710	-	COG2923P	sulfur relay protein TusC
+666857..667144	+	95	68249178	-	NTHI0711	-	COG2168P	hypothetical protein
+667275..668459	-	394	68249179	tuf	NTHI0712	-	COG0050J	elongation factor Tu
+669165..670088	+	307	68249180	coaA	NTHI0713	-	COG1072H	pantothenate kinase
+670179..671126	-	315	68249181	rseB	NTHI0716	-	COG3026T	periplasmic negative regulator of sigmaE
+671206..671781	-	191	68249182	rseA	NTHI0718	-	COG3073T	sigma-E factor negative regulatory protein
+671806..672375	-	189	68249183	rpoE	NTHI0719	-	COG1595K	RNA polymerase sigma factor RpoE
+672484..672741	-	85	68249184	-	NTHI0720	-	COG2938S	hypothetical protein
+672831..673217	-	128	68249185	mscL	NTHI0721	-	COG1970M	large-conductance mechanosensitive channel
+673290..674666	-	458	68249186	trkA	NTHI0722	-	COG0569P	potassium transporter peripheral membrane component
+674679..676031	-	450	68249187	sun	NTHI0723	-	COG0144J	SUN protein
+676031..676987	-	318	68249188	fmt	NTHI0724	-	COG0223J	methionyl-tRNA formyltransferase
+677088..677597	-	169	68249189	def	NTHI0725	-	COG0242J	peptide deformylase
+677787..678224	-	145	68249190	-	NTHI0726	-	-	hypothetical protein
+678202..678387	-	61	68249191	-	NTHI0727	-	-	hypothetical protein
+684668..685321	-	217	68249192	sxy	NTHI0728	-	COG3070K	DNA transformation protein TfoX
+685693..686757	+	354	68249193	recA	NTHI0729	-	COG0468L	recombinase A
+686836..687294	+	152	68249194	recX	NTHI0730	-	COG2137R	recombination regulator RecX
+687291..687677	-	128	68249195	ccrB	NTHI0731	-	COG0239D	camphor resistance protein CrcB
+687677..688495	-	272	68249196	-	NTHI0732	-	COG0561R	HAD superfamily hydrolase
+688898..689902	+	334	68249197	argF	NTHI0733	-	COG0078E	ornithine carbamoyltransferase
+689912..690844	+	310	68249198	arcC	NTHI0734	-	COG0549E	carbamate kinase
+690949..692478	+	509	68249199	-	NTHI0735	-	COG1288S	hypothetical protein
+697114..697818	+	234	68249200	pepE	NTHI0738	-	COG3340E	peptidase E
+697836..699131	+	431	68249201	-	NTHI0739	-	COG3069C	C4-dicarboxylate transporter
+699203..700474	+	423	68249202	abgA	NTHI0740	-	COG1473R	aminobenzoyl-glutamate utilization protein A
+700567..702540	+	657	68249203	cpdB	NTHI0741	-	COG0737F	bifunctional 2',3'-cyclic nucleotide 2'-phosphodiesterase/3'-nucleotidase periplasmic protein
+702649..703056	-	135	68249204	-	NTHI0742	-	COG0789K	HTH-type transcriptional regulator
+703066..703743	-	225	68249205	-	NTHI0743	-	COG1230P	zinc transporter ZitB
+704251..706140	+	629	68249206	gidA	NTHI0744	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+706322..706696	+	124	68249207	rpsL	NTHI0745	-	COG0048J	30S ribosomal protein S12
+706853..707323	+	156	68249208	rpsG	NTHI0746	-	COG0049J	30S ribosomal protein S7
+707407..709509	+	700	68249209	fusA	NTHI0747	-	COG0480J	elongation factor G
+709574..710758	+	394	68249210	tuf	NTHI0748	-	COG0050J	elongation factor Tu
+711218..711562	+	114	68249211	-	NTHI0749	-	-	chloride channel protein
+711553..711735	+	60	68249212	-	NTHI0751	-	COG0038P	chloride channel protein
+711738..712721	+	327	68249213	dusA	NTHI0753	-	COG0042J	tRNA-dihydrouridine synthase A
+712769..713059	-	96	68249214	-	NTHI0754	-	COG3691S	hypothetical protein
+713082..714092	-	336	68249215	trpS	NTHI0755	-	COG0180J	tryptophanyl-tRNA synthetase
+714215..714832	+	205	68249216	-	NTHI0757	-	COG2915R	hypothetical protein
+714855..716225	+	456	68249217	purB	NTHI0758	-	COG0015F	adenylosuccinate lyase
+716497..716988	+	163	68249218	rplJ	NTHI0759	-	COG0244J	50S ribosomal protein L10
+717043..717414	+	123	68249219	rplL	NTHI0761	-	COG0222J	50S ribosomal protein L7/L12
+717573..718943	+	456	68249220	glmU	NTHI0762	-	COG1207M	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+718978..719289	-	103	68249221	-	NTHI0763	-	-	hypothetical protein
+719828..720763	-	311	68249222	pldB	NTHI0764	-	COG2267I	lysophospholipase L2
+720817..721932	-	371	68249223	asd	NTHI0765	-	COG0136E	aspartate-semialdehyde dehydrogenase
+722098..722814	-	238	68249224	-	NTHI0766	-	COG1285S	hypothetical protein
+723006..723662	+	218	68249225	-	NTHI0767	-	COG0621J	2-methylthioadenine synthetase
+723726..724304	-	192	68249226	mdaB	NTHI0768	-	COG2249R	NADPH-quinone reductase, modulator of drug activity B
+724583..726595	-	670	68249227	rep	NTHI0769	-	COG0210L	ATP-dependent DNA helicase
+726601..726813	-	70	68249228	-	NTHI0770	-	COG5645R	periplasmic lipoprotein
+726810..727280	-	156	68249229	coaD	NTHI0771	-	COG0669H	phosphopantetheine adenylyltransferase
+727277..728560	-	427	68249230	kdtA	NTHI0772	-	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+728623..729387	+	254	68249231	lgtF	NTHI0773	-	COG0463M	UDP-glucose--lipooligosaccharide glucosyltransferase
+729384..729947	-	187	68249232	tag	NTHI0774	-	COG2818L	DNA-3-methyladenine glycosylase
+730062..730814	-	250	68249233	-	NTHI0775	-	-	hypothetical protein
+730826..731632	-	268	68249234	aroE	NTHI0776	-	COG0169E	shikimate 5-dehydrogenase
+731636..732187	-	183	68249235	-	NTHI0777	-	COG0009J	translation factor SUA5
+732203..732739	-	178	68249236	-	NTHI0778	-	COG0551L	zinc finger domain-containing protein
+732749..734665	-	638	68249237	-	NTHI0779	-	COG0488R	ABC transporter ATP-binding protein
+734850..735146	-	98	68249238	-	NTHI0780	-	COG3620K	HTH-type transcriptional regulator
+735139..735321	-	60	68249239	-	NTHI0781	-	COG4679S	hypothetical protein
+735591..738569	-	992	68249240	hgpB	NTHI0782	-	COG1629P	hemoglobin-haptoglobin binding protein B
+739300..741045	+	581	68249241	-	NTHI0783	-	COG4988CO	ABC transporter ATP-binding protein
+741038..742696	+	552	68249242	-	NTHI0785	-	COG1132V	ABC transporter ATP-binding protein
+742780..743811	-	343	68249243	-	NTHI0786	-	COG3550R	hypothetical protein
+743808..744128	-	106	68249244	-	NTHI0787	-	COG3550R	hypothetical protein
+744116..744424	-	102	68249245	-	NTHI0788	-	-	HTH-type transcriptional regulator
+744629..745630	-	333	68249246	glpX	NTHI0789	-	COG1494G	fructose 1,6-bisphosphatase II
+745792..746010	+	72	68249247	-	NTHI0790	-	COG3074S	hypothetical protein
+746109..746549	+	146	68249248	mioC	NTHI0791	-	COG0716C	flavodoxin
+746546..746980	+	144	68249249	dtd	NTHI0792	-	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+747287..747763	-	158	68249250	ispF	NTHI0793	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+747760..748437	-	225	68249251	ispD	NTHI0794	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+748437..748715	-	92	68249252	ftsB	NTHI0795	-	COG2919D	cell division protein FtsB
+748838..749305	-	155	68249253	gpt	NTHI0796	-	COG0503F	xanthine-guanine phosphoribosyltransferase
+749416..750870	+	484	68249254	pepD	NTHI0797	-	COG2195E	aminoacyl-histidine dipeptidase
+750923..751810	-	295	68249255	xerC	NTHI0798	-	COG4973L	site-specific tyrosine recombinase XerC
+751804..752244	-	146	68249256	-	NTHI0799	-	-	hypothetical protein
+752410..753201	+	263	68249257	tpiA	NTHI0800	-	COG0149G	triosephosphate isomerase
+753283..753600	-	105	68249258	glpE	NTHI0801	-	COG0607P	thiosulfate sulfurtransferase
+753601..754479	-	292	68249259	-	NTHI0802	-	COG2962R	hypothetical protein
+754511..755389	-	292	68249260	ilvY	NTHI0803	-	COG0583K	DNA-binding transcriptional regulator IlvY
+756073..757551	+	492	68249261	ilvC	NTHI0804	-	COG0059EH	ketol-acid reductoisomerase
+757662..758942	-	426	68249262	glpC	NTHI0805	-	COG0247C	sn-glycerol-3-phosphate dehydrogenase subunit C
+758953..760251	-	432	68249263	glpB	NTHI0806	-	COG3075E	anaerobic glycerol-3-phosphate dehydrogenase subunit B
+760241..761932	-	563	68249264	glpA	NTHI0808	-	COG0578C	sn-glycerol-3-phosphate dehydrogenase subunit A
+762225..763667	+	480	68249265	glpT	NTHI0809	-	COG2271G	glycerol-3-phosphate transporter
+763771..764865	+	364	68249266	glpQ	NTHI0811	-	COG0584C	glycerophosphodiester phosphodiesterase
+765095..765889	+	264	68249267	glpF	NTHI0812	-	COG0580G	glycerol uptake facilitator protein
+765910..767421	+	503	68249268	glpK	NTHI0813	-	COG0554C	glycerol kinase
+767505..767972	-	155	68249269	gpt2	NTHI0814	-	COG0503F	xanthine-guanine phosphoribosyltransferase
+768257..769081	+	274	68249270	hel	NTHI0816	-	COG2503R	outer membrane protein P4, NADP phosphatase
+769248..769931	+	227	68249271	rluE	NTHI0817	-	COG1187J	pseudouridylate synthase
+771036..774920	-	1294	68249272	-	NTHI0820	-	COG2911S	hypothetical protein
+774930..776666	-	578	68249273	-	NTHI0821	-	COG0729M	hypothetical protein
+776817..777389	-	190	68249274	slyD	NTHI0822	-	COG1047O	FKBP-type peptidylprolyl isomerase
+777467..777889	-	140	68249275	-	NTHI0823	-	COG3076S	hypothetical protein
+777998..779017	+	339	68249276	truD	NTHI0824	-	COG0585S	tRNA pseudouridine synthase D
+779027..779776	+	249	68249277	surE	NTHI0825	-	COG0496R	stationary phase survival protein SurE
+779785..780363	+	192	68249278	-	NTHI0826	-	COG1238S	hypothetical protein
+780372..780557	+	61	68249279	-	NTHI0827	-	-	hypothetical protein
+780592..781809	+	405	68249280	lppB	NTHI0830	-	COG0739M	lipoprotein
+782177..783595	+	472	68249281	tnaA	NTHI0831	-	COG3033E	tryptophanase
+783679..784911	+	410	68249282	tnaB	NTHI0832	-	COG0814E	tryptophan-specific transport protein
+785052..787637	+	861	68249283	mutS	NTHI0834	-	COG0249L	DNA mismatch repair protein MutS
+787843..789228	+	461	68249284	selA	NTHI0835	-	COG1921E	selenocysteine synthase
+789225..791084	+	619	68249285	selB	NTHI0836	-	COG3276J	selenocysteine-specific elongation factor
+791103..791957	+	284	68249286	-	NTHI0837	-	COG4238M	hypothetical protein
+792077..792373	+	98	68249287	relB	NTHI0838	-	COG3077L	DNA-damage-inducible protein J, negative regulator of translation
+792373..792681	+	102	68249288	-	NTHI0839	-	COG3041S	hypothetical protein
+796227..797525	+	432	68249289	tig	NTHI0843	-	COG0544O	trigger factor
+797648..798229	+	193	68249290	clpP	NTHI0844	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+798239..799474	+	411	68249291	clpX	NTHI0846	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+799619..800035	+	138	68249292	secE	NTHI0847	-	COG0690U	preprotein translocase subunit SecE
+800037..800594	+	185	68249293	nusG	NTHI0848	-	COG0250K	transcription antitermination protein NusG
+800745..801497	+	250	68249294	vacJ	NTHI0849	-	COG2853M	VacJ lipoprotein
+801551..801943	+	130	68249295	-	NTHI0851	-	COG0251J	YjgF family translation initiation inhibitor
+802111..802962	+	283	68249296	htpX	NTHI0852	-	COG0501O	heat shock protein HtpX
+803004..803243	-	79	161761277	sirA	NTHI0853	-	COG0425O	sulfur transfer protein SirA
+803359..803979	+	206	68249298	-	NTHI0854	-	COG1739S	hypothetical protein
+803982..805445	+	487	68249299	trkH	NTHI0855	-	COG0168P	Trk system potassium uptake protein TrkH
+811880..812299	+	139	68249300	psiE	NTHI0856	-	COG3223S	phosphate-starvation-inducible protein PsiE
+812363..813649	-	428	68249301	hemY	NTHI0857	-	COG3071H	HemY
+813660..814871	-	403	68249302	hemX	NTHI0858	-	COG2959H	uroporphyrin-III C-methyltransferase
+815177..817708	+	843	68249303	cyaA	NTHI0859	-	COG3072F	adenylate cyclase
+817782..818789	+	335	68249304	gpsA	NTHI0860	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+818806..819609	+	267	68249305	cysE	NTHI0861	-	COG1045E	serine acetyltransferase
+819619..820434	+	271	68249306	aroE	NTHI0862	-	COG0169E	shikimate 5-dehydrogenase
+820572..821957	+	461	68249307	-	NTHI0863	-	COG0471P	di- and tricarboxylate transporter
+822095..822943	-	282	68249308	folD	NTHI0864	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+823471..824757	-	428	68249309	fucP	NTHI0865	-	COG0738G	L-fucose permease
+824796..825446	-	216	68249310	fucA	NTHI0866	-	COG0235G	L-fuculose phosphate aldolase
+825466..825900	-	144	68249311	fucU	NTHI0867	-	COG4154G	fucose operon protein FucU
+825914..827326	-	470	68249312	fucK	NTHI0870	-	COG1070G	L-fuculokinase
+827399..829168	-	589	161761276	fucI	NTHI0871	-	COG2407G	L-fucose isomerase
+829398..830147	-	249	68249314	fucR	NTHI0872	-	COG1349KG	L-fucose operon activator
+830346..833117	+	923	68249315	hepA	NTHI0873	-	COG0553KL	ATP-dependent helicase HepA
+833120..833779	+	219	68249316	rluA	NTHI0874	-	COG0564J	pseudouridylate synthase
+833806..834384	+	192	68249317	glpG	NTHI0875	-	COG0705R	hypothetical protein
+834414..835181	+	255	68249318	glpR	NTHI0876	-	COG1349KG	glycerol-3-phosphate regulon repressor
+835483..836304	-	273	68249319	metQ	NTHI0877	-	COG1464P	D-methionine-binding lipoprotein MetQ
+836343..837032	-	229	68249320	metI	NTHI0878	-	COG2011P	D-methionine transport system permease protein
+837022..838059	-	345	68249321	metN	NTHI0879	-	COG1135P	DL-methionine transporter ATP-binding subunit
+838235..838789	+	184	68249322	-	NTHI0880	-	COG0241E	D,D-heptose 1,7-bisphosphate phosphatase
+845041..845601	+	186	68249323	-	NTHI0881	-	COG3078S	hypothetical protein
+845605..846045	+	146	68249324	-	NTHI0882	-	-	hypothetical protein
+846107..846733	-	208	68249325	narP	NTHI0883	-	COG2197TK	nitrate/nitrite response regulator protein
+846939..848186	-	415	68249326	lysA	NTHI0884	-	COG0019E	diaminopimelate decarboxylase
+848234..848365	-	43	68249327	-	NTHI0885	-	COG5567N	hypothetical protein
+848448..848753	+	101	68249328	cyaY	NTHI0886	-	COG1965P	frataxin-like protein
+848755..850614	+	619	68249329	recQ	NTHI0887	-	COG0514L	ATP-dependent DNA helicase RecQ
+850699..852417	+	572	68249330	proS	NTHI0888	-	COG0442J	prolyl-tRNA synthetase
+852505..854853	-	782	68249331	ostA	NTHI0889	-	COG1452M	organic solvent tolerance protein
+854976..856385	-	469	68249332	sufI	NTHI0890	-	COG2132Q	hypothetical protein
+856387..857109	-	240	68249333	plsC	NTHI0891	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+857195..857908	+	237	68249334	lpxH	NTHI0892	-	COG2908S	UDP-2,3-diacylglucosamine hydrolase
+858138..859664	-	508	68249335	-	NTHI0893	-	COG0733R	sodium-dependent transporter
+859911..860537	+	208	68249336	ilvG	NTHI0894	-	COG0028EH	acetolactate synthase isozyme II large subunit
+860579..862417	+	612	68249337	ilvD	NTHI0895	-	COG0129EG	dihydroxy-acid dehydratase
+862497..864038	+	513	68249338	thd1	NTHI0896	-	COG1171E	threonine dehydratase
+864076..867555	-	1159	68249339	dnaE	NTHI0897	-	COG0587L	DNA polymerase III subunit alpha
+867794..869437	+	547	68249340	pgmB	NTHI0899	-	COG1109G	phosphoglucomutase
+869604..870113	-	169	68249341	secB	NTHI0900	-	COG1952U	preprotein translocase subunit SecB
+870127..870573	-	148	68249342	-	NTHI0901	-	COG0607P	rhodanese-related sulfurtransferase
+870821..872143	+	440	68249343	dcuB	NTHI0902	-	COG2704R	anaerobic C4-dicarboxylate transporter
+872347..873681	+	444	68249344	ndhA	NTHI0903	-	COG1252C	NADH dehydrogenase
+873761..876193	-	810	68249345	plsB	NTHI0904	-	COG2937I	glycerol-3-phosphate acyltransferase
+876442..877071	+	209	68249346	lexA	NTHI0905	-	COG1974KT	LexA repressor
+877214..878038	+	274	68249347	dapF	NTHI0906	-	COG0253E	diaminopimelate epimerase
+878258..878755	-	165	68249348	tpx	NTHI0907	-	COG2077O	thiol peroxidase
+879318..883280	+	1320	68249349	purL	NTHI0909	-	COG0046F	phosphoribosylformylglycinamidine synthase
+883786..884529	+	247	68249350	lex2B	NTHI0913	-	COG3306M	UDP-glucose--lipooligosaccharide glucosyltransferase
+884590..885432	-	280	68249351	-	NTHI0914	-	COG2861S	hypothetical protein
+885432..886664	-	410	68249352	-	NTHI0915	-	COG4942D	membrane-bound metallopeptidase
+886840..887523	+	227	68249353	gpmA	NTHI0916	-	COG0588G	phosphoglyceromutase
+887601..887813	-	70	68249354	rpmE	NTHI0917	-	COG0254J	50S ribosomal protein L31
+887990..889126	+	378	68249355	mutY	NTHI0919	-	COG1194L	A/G-specific adenine glycosylase
+889104..889376	+	90	68249356	-	NTHI0920	-	COG2924CO	hypothetical protein
+889391..890464	+	357	68249357	mltC	NTHI0921	-	COG0741M	murein transglycosylase C
+891075..891755	-	226	68249358	-	NTHI0922	-	COG2129R	diadenosine tetraphosphatase and related serine/threonine protein phosphatase
+891752..893017	-	421	68249359	nadR	NTHI0923	-	COG3172H	nicotinamide-nucleotide adenylyltransferase
+893236..893883	+	215	68249360	ribB	NTHI0925	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+893898..894746	+	282	68249361	lpsA	NTHI0926	-	COG3306M	lipooligosaccharide glycosyl transferase
+894795..895277	-	160	68249362	-	NTHI0927	-	COG0219J	RNA methyltransferase
+895287..895868	-	193	68249363	-	NTHI0928	-	COG0742L	hypothetical protein
+895923..897167	+	414	68249364	ftsY	NTHI0929	-	COG0552U	cell division protein FtsY
+897186..897842	+	218	68249365	ftsE	NTHI0930	-	COG2884D	cell division ATP-binding protein FtsE
+897852..898784	+	310	68249366	ftsX	NTHI0931	-	COG2177D	cell division protein FtsX
+898879..900060	-	393	68249367	atoB	NTHI0932	-	COG0183I	acetyl-CoA acetyltransferase
+900075..901418	-	447	68249368	atoE	NTHI0933	-	COG2031I	short-chain fatty acids transporter
+901421..902086	-	221	68249369	atoA	NTHI0934	-	COG2057I	acetate CoA-transferase subunit beta
+902097..902750	-	217	68249370	atoD	NTHI0935	-	COG1788I	acetyl-CoA:acetoacetyl-CoA transferase subunit alpha
+902956..903903	+	315	68249371	-	NTHI0936	-	COG0583K	HTH-type transcriptional regulator
+904140..904451	+	103	68249372	rpsJ	NTHI0937	-	COG0051J	30S ribosomal protein S10
+904468..905094	+	208	68249373	rplC	NTHI0938	-	COG0087J	50S ribosomal protein L3
+905110..905712	+	200	68249374	rplD	NTHI0939	-	COG0088J	50S ribosomal protein L4
+905709..906008	+	99	68249375	rplW	NTHI0940	-	COG0089J	50S ribosomal protein L23
+906026..906847	+	273	68249376	rplB	NTHI0941	-	COG0090J	50S ribosomal protein L2
+906873..907148	+	91	68249377	rpsS	NTHI0942	-	COG0185J	30S ribosomal protein S19
+907160..907492	+	110	68249378	rplV	NTHI0943	-	COG0091J	50S ribosomal protein L22
+907510..908217	+	235	68249379	rpsC	NTHI0945	-	COG0092J	30S ribosomal protein S3
+908231..908641	+	136	68249380	rplP	NTHI0946	-	COG0197J	50S ribosomal protein L16
+908641..908832	+	63	68249381	rpmC	NTHI0947	-	COG0255J	50S ribosomal protein L29
+908832..909089	+	85	68249382	rpsQ	NTHI0948	-	COG0186J	30S ribosomal protein S17
+909479..910102	+	207	68249383	-	NTHI0950	-	-	hypothetical protein
+910383..910754	+	123	68249384	rplN	NTHI0951	-	COG0093J	50S ribosomal protein L14
+910765..911076	+	103	68249385	rplX	NTHI0952	-	COG0198J	50S ribosomal protein L24
+911094..911633	+	179	68249386	rplE	NTHI0953	-	COG0094J	50S ribosomal protein L5
+911645..911950	+	101	68249387	rpsN	NTHI0954	-	COG0199J	30S ribosomal protein S14
+911987..912379	+	130	68249388	rpsH	NTHI0955	-	COG0096J	30S ribosomal protein S8
+912395..912928	+	177	68249389	rplF	NTHI0956	-	COG0097J	50S ribosomal protein L6
+912942..913295	+	117	68249390	rplR	NTHI0957	-	COG0256J	50S ribosomal protein L18
+913310..913810	+	166	68249391	rpsE	NTHI0958	-	COG0098J	30S ribosomal protein S5
+913817..913996	+	59	68249392	rpmD	NTHI0959	-	COG1841J	50S ribosomal protein L30
+914000..914434	+	144	68249393	rplO	NTHI0960	-	COG0200J	50S ribosomal protein L15
+914442..915767	+	441	68249394	secY	NTHI0961	-	COG0201U	preprotein translocase subunit SecY
+916049..916405	+	118	68249395	rpsM	NTHI0962	-	COG0099J	30S ribosomal protein S13
+916421..916810	+	129	68249396	rpsK	NTHI0963	-	COG0100J	30S ribosomal protein S11
+916838..917458	+	206	68249397	rpsD	NTHI0964	-	COG0522J	30S ribosomal protein S4
+917490..918476	+	328	68249398	rpoA	NTHI0965	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+918517..918903	+	128	68249399	rplQ	NTHI0966	-	COG0203J	50S ribosomal protein L17
+919030..919626	-	198	68249400	-	NTHI0967	-	COG0664T	cAMP-binding protein - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinase
+920579..921388	+	269	68249401	-	NTHI0970	-	COG0730R	permease
+921420..922613	-	397	68249402	dxr	NTHI0971	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+922723..923280	-	185	68249403	frr	NTHI0972	-	COG0233J	ribosome recycling factor
+923432..925048	-	538	68249404	pckA	NTHI0973	-	COG1866C	phosphoenolpyruvate carboxykinase
+925221..926102	-	293	68249405	hslO	NTHI0974	-	COG1281O	heat shock protein 33
+926247..927620	-	457	68249406	argH	NTHI0975	-	COG0165E	argininosuccinate lyase
+927755..928642	-	295	68249407	galU	NTHI0976	-	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+928664..928855	-	63	68249408	csrA	NTHI0977	-	COG1551T	carbon storage regulator
+928933..931557	-	874	68249409	alaS	NTHI0978	-	COG0013J	alanyl-tRNA synthetase
+931744..932169	-	141	68249410	uspA	NTHI0979	-	COG0589T	universal stress protein A
+932271..933563	-	430	68249411	pepP	NTHI0980	-	COG0006E	Xaa-Pro aminopeptidase
+933575..934123	-	182	68249412	-	NTHI0981	-	COG3079S	hypothetical protein
+934294..935319	-	341	68249413	galM	NTHI0982	-	COG2017G	aldose 1-epimerase
+935326..936522	-	398	68249414	galK	NTHI0983	-	COG0153G	galactokinase
+936557..937606	-	349	68249415	galT	NTHI0984	-	COG1085C	galactose-1-phosphate uridylyltransferase
+937814..938812	+	332	68249416	galR	NTHI0986	-	COG1609K	HTH-type transcriptional regulator GalR
+938903..939952	+	349	68249417	mglB	NTHI0987	-	COG1879G	D-galactose-binding periplasmic protein
+940018..941538	+	506	68249418	mglA	NTHI0988	-	COG1129G	galactose/methyl galaxtoside transporter ATP-binding protein
+941555..942565	+	336	68249419	mglC	NTHI0989	-	COG4211G	beta-methylgalactoside transporter inner membrane component
+942711..943445	+	244	68249420	-	NTHI0990	-	-	hypothetical protein
+943451..944008	+	185	68249421	ispZ	NTHI0991	-	COG2917D	intracellular septation protein A
+944008..944472	+	154	68249422	-	NTHI0992	-	COG1607I	acyl-CoA thioester hydrolase
+944489..944785	+	98	68249423	-	NTHI0994	-	COG2350S	hypothetical protein
+944801..946582	+	593	68249424	slt	NTHI0995	-	COG0741M	soluble lytic murein transglycosylase
+946620..946925	+	101	68249425	trpR	NTHI0996	-	COG2973K	Trp operon repressor
+946912..947652	+	246	161761275	mtgA	NTHI0997	-	COG0744M	monofunctional biosynthetic peptidoglycan transglycosylase
+947758..948102	-	114	68249427	frdD	NTHI0998	-	COG3080C	fumarate reductase subunit D
+948115..948525	-	136	68249428	frdC	NTHI0999	-	COG3029C	fumarate reductase subunit C
+948536..949306	-	256	68249429	frdB	NTHI1000	-	COG0479C	fumarate reductase iron-sulfur subunit
+949299..951098	-	599	68249430	frdA	NTHI1002	-	COG1053C	fumarate reductase flavoprotein subunit
+951309..952280	+	323	161761274	genX	NTHI1003	-	COG2269J	lysyl-tRNA synthetase
+952546..953229	-	227	68249432	cpxR	NTHI1004	-	COG0745TK	transcriptional regulatory protein CpxR
+953283..953696	-	137	68249433	smpA	NTHI1005	-	COG2913J	small protein A
+953762..954787	-	341	68249434	ndpA	NTHI1006	-	COG3081R	nucleoid-associated protein NdpA
+954904..955122	+	72	68249435	-	NTHI1007	-	COG3082S	hypothetical protein
+955124..956881	+	585	68249436	-	NTHI1008	-	COG3083R	hydrolase of alkaline phosphatase superfamily
+957079..958071	+	330	68249437	-	NTHI1009	-	COG0402FR	hypothetical protein
+958210..958788	-	192	68249438	mobA	NTHI1010	-	COG0746H	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+958853..959119	+	88	68249439	-	NTHI1011	-	COG3084S	hypothetical protein
+959130..959747	+	205	68249440	dsbA	NTHI1012	-	COG1651O	thiol:disulfide interchange protein DsbA
+959809..960144	+	111	68249441	-	NTHI1013	-	COG3085S	hypothetical protein
+960288..961379	+	363	68249442	trmA	NTHI1014	-	COG2265J	tRNA (uracil-5-)-methyltransferase
+961568..962134	+	188	68249443	-	NTHI1015	-	COG1743L	hypothetical protein
+962128..962562	+	144	68249444	-	NTHI1016	-	COG3086T	positive regulator of sigma E
+962963..963499	+	178	68249445	mobB	NTHI1019	-	COG1763H	molybdopterin-guanine dinucleotide biosynthesis protein B
+963496..964887	+	463	68249446	-	NTHI1020	-	COG2814G	hypothetical protein
+965028..966677	+	549	68249447	hbpA	NTHI1021	-	COG0747E	heme-binding protein A
+966853..967614	+	253	68249448	-	NTHI1022	-	COG0748P	heme iron utilization protein
+967751..968098	-	115	68249449	-	NTHI1023	-	COG3681S	hypothetical protein
+968113..970905	-	930	68249450	polA	NTHI1024	-	COG0749L	DNA polymerase I
+971054..971356	+	100	68249451	-	NTHI1025	-	COG3027S	hypothetical protein
+971679..972242	+	187	68249452	-	NTHI1027	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+972370..974940	+	856	68249453	clpB	NTHI1028	-	COG0542O	ClpB
+974978..975718	-	246	68249454	-	NTHI1029	-	COG0566J	23S rRNA (guanosine-2'-O-)-methyltransferase
+975774..978122	-	782	68249455	vacB	NTHI1030	-	COG0557K	ribonuclease R
+978314..979021	-	235	68249456	-	NTHI1031	-	COG1738S	hypothetical protein
+979214..979846	+	210	161761273	pdxH	NTHI1032	-	COG0259H	pyridoxamine 5'-phosphate oxidase
+979933..981783	-	616	68249458	typA	NTHI1033	-	COG1217T	GTP-binding protein TypA
+981910..982890	-	326	68249459	lic3A2	NTHI1034	-	-	CMP-neu5Ac--lipooligosaccharide alpha 2-3 sialyltransferase
+983047..984459	+	470	68249460	glnA	NTHI1036	-	COG0174E	glutamine synthetase
+984546..985589	+	347	68249461	rmlB	NTHI1037	-	COG1088M	dTDP-glucose 4,6-dehydratase
+985666..986970	+	434	68249462	pepB	NTHI1038	-	COG0260E	aminopeptidase
+986977..987402	+	141	68249463	ndk	NTHI1039	-	COG0105F	nucleoside diphosphate kinase
+987472..988644	-	390	68249464	obgE	NTHI1040	-	COG0536R	GTPase ObgE
+988672..989592	-	306	68249465	-	NTHI1041	-	COG0697GER	transport protein
+989672..989929	-	85	68249466	rpmA	NTHI1042	-	COG0211J	50S ribosomal protein L27
+989950..990261	-	103	68249467	rplU	NTHI1043	-	COG0261J	50S ribosomal protein L21
+990474..991463	+	329	68249468	ispB	NTHI1044	-	COG0142H	octaprenyl-diphosphate synthase
+991514..992251	+	245	68249469	-	NTHI1045	-	COG1636S	hypothetical protein
+992311..993681	-	456	68249470	-	NTHI1046	-	COG1115E	Na+/alanine symporter
+994081..994791	-	236	68249471	arcA	NTHI1047	-	COG0745TK	two-component response regulator
+994983..996722	+	579	68249472	dipZ	NTHI1048	-	COG4232OC	thiol:disulfide interchange protein
+996839..997243	+	134	68249473	-	NTHI1049	-	COG2259S	hypothetical protein
+997432..999030	+	532	68249474	purH	NTHI1051	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+999126..1000415	+	429	68249475	purD	NTHI1052	-	COG0151F	phosphoribosylamine--glycine ligase
+1002261..1003526	+	421	68249476	glyA	NTHI1054	-	COG0112E	serine hydroxymethyltransferase
+1003585..1004217	+	210	68249477	coaE	NTHI1055	-	COG0237H	dephospho-CoA kinase
+1004210..1004416	+	68	68249478	-	NTHI1056	-	COG3024S	zinc-binding protein
+1004525..1005781	+	418	68249479	rhlB	NTHI1057	-	COG0513LKJ	ATP-dependent RNA helicase RhlB
+1006023..1006586	+	187	68249480	-	NTHI1058	-	COG1309K	transcriptional regulator
+1006618..1007814	+	398	68249481	-	NTHI1059	-	COG0845M	membrane-fusion protein
+1007814..1010912	+	1032	68249482	-	NTHI1060	-	COG0841V	cation/multidrug efflux pump
+1011447..1011917	+	156	68249483	-	NTHI1061	-	COG3087D	cell division protein
+1011930..1013462	-	510	68249484	emrB	NTHI1062	-	COG2814G	multidrug resistance protein
+1013472..1014644	-	390	68249485	emrA	NTHI1063	-	COG1566V	multidrug resistance protein A
+1014817..1015299	-	160	68249486	folA	NTHI1065	-	COG0262H	dihydrofolate reductase
+1015401..1016507	+	368	68249487	proB	NTHI1066	-	COG0263E	gamma-glutamyl kinase
+1016588..1017178	+	196	68249488	nudH	NTHI1068	-	COG0494LR	dinucleoside polyphosphate hydrolase
+1017178..1017972	+	264	68249489	-	NTHI1069	-	COG0730R	permease
+1017981..1018787	+	268	68249490	lgt	NTHI1071	-	COG0682M	prolipoprotein diacylglyceryl transferase
+1018797..1019648	+	283	68249491	thyA	NTHI1072	-	COG0207F	thymidylate synthase
+1019648..1020169	+	173	68249492	-	NTHI1073	-	COG0590FJ	hypothetical protein
+1020197..1020511	-	104	68249493	-	NTHI1074	-	COG4701S	hypothetical protein
+1020582..1020893	+	103	68249494	-	NTHI1075	-	-	hypothetical protein
+1021018..1023723	+	901	68249495	secA	NTHI1076	-	COG0653U	preprotein translocase subunit SecA
+1023788..1024198	+	136	68249496	mutT	NTHI1077	-	COG1051F	mutator protein MutT
+1024307..1026163	+	618	68249497	kefB	NTHI1078	-	COG0475P	glutathione-regulated potassium-efflux system protein
+1026264..1027028	+	254	68249498	-	NTHI1079	-	COG2230M	hypothetical protein
+1027206..1027928	+	240	161761272	rpsB	NTHI1080	-	COG0052J	30S ribosomal protein S2
+1028062..1028913	+	283	68249500	tsf	NTHI1081	-	COG0264J	elongation factor Ts
+1029093..1030118	-	341	68249501	lpxD	NTHI1082	-	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1030131..1030724	-	197	68249502	omp26	NTHI1083	-	COG2825M	hypothetical protein
+1030832..1033234	-	800	68249503	-	NTHI1084	-	COG4775M	protective surface antigen D15
+1033254..1034585	-	443	68249504	-	NTHI1085	-	COG0750M	zinc metalloprotease
+1034595..1035461	-	288	68249505	cdsA	NTHI1087	-	COG0575I	phosphatidate cytidylyltransferase
+1035479..1036198	-	239	68249506	uppS	NTHI1088	-	COG0020I	undecaprenyl pyrophosphate synthetase
+1036447..1039032	+	861	68249507	leuS	NTHI1090	-	COG0495J	leucyl-tRNA synthetase
+1039082..1039630	+	182	68249508	-	NTHI1091	-	COG2980M	lipoprotein
+1039630..1040664	+	344	68249509	holA	NTHI1092	-	COG1466L	DNA polymerase III subunit delta
+1040898..1043066	-	722	68249510	glyS	NTHI1093	-	COG0751J	glycyl-tRNA synthetase subunit beta
+1043112..1043528	-	138	68249511	-	NTHI1094	-	-	hypothetical protein
+1043668..1044033	-	121	68249512	-	NTHI1095	-	COG2852S	hypothetical protein
+1044063..1044323	-	86	68249513	-	NTHI1097	-	COG4545O	glutaredoxin-like protein
+1044382..1045290	-	302	68249514	glyQ	NTHI1098	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+1045553..1047079	+	508	68249515	hktE	NTHI1099	-	COG0753P	catalase
+1047311..1048492	-	393	68249516	-	NTHI1100	-	COG0754E	hypothetical protein
+1048493..1049074	-	193	68249517	-	NTHI1101	-	-	hypothetical protein
+1049087..1049539	-	150	68249518	-	NTHI1102	-	COG4316S	hypothetical protein
+1049590..1050900	-	436	68249519	eno	NTHI1103	-	COG0148G	phosphopyruvate hydratase
+1051021..1052226	-	401	68249520	-	NTHI1104	-	COG2081R	hypothetical protein
+1052223..1053365	-	380	68249521	nrfF	NTHI1105	-	COG4235O	formate-dependent nitrite reductase complex nrfFG subunit
+1053362..1053892	-	176	68249522	dsbE2	NTHI1106	-	COG0526OC	thiol:disulfide interchange protein DsbE
+1053892..1055799	-	635	68249523	nrfE	NTHI1107	-	COG1138O	cytochrome c-type biogenesis protein NrfE
+1055908..1056720	-	270	68249524	suhB	NTHI1108	-	COG0483G	inositol monophosphatase
+1056920..1057432	+	170	68249525	-	NTHI1109	-	COG2165NU	hypothetical protein
+1057432..1058151	+	239	68249526	-	NTHI1110	-	COG4795U	hypothetical protein
+1058148..1058831	+	227	68249527	-	NTHI1111	-	-	hypothetical protein
+1058836..1059111	+	91	68249528	-	NTHI1112	-	-	hypothetical protein
+1059157..1062522	+	1121	68249529	recC	NTHI1113	-	COG1330L	exodeoxyribonuclease V subunit gamma
+1062577..1063026	+	149	68249530	nrdR	NTHI1114	-	COG1327K	transcriptional regulator NrdR
+1063029..1064147	+	372	68249531	ribD	NTHI1115	-	COG1985H	riboflavin biosynthesis protein RibD
+1064148..1065170	+	340	68249532	degS	NTHI1116	-	COG0265O	protease DegS
+1065244..1066059	-	271	68249533	mutM	NTHI1118	-	COG0266L	formamidopyrimidine-DNA glycosylase
+1066291..1067826	-	511	68249534	ddc	NTHI1119	-	COG0076E	L-2,4-diaminobutyrate decarboxylase
+1067846..1068244	-	132	68249535	-	NTHI1120	-	COG1487R	nucleic acid-binding protein
+1068244..1068477	-	77	68249536	-	NTHI1121	-	COG4456S	hypothetical protein
+1068624..1069988	-	454	68249537	dat	NTHI1122	-	COG0160E	diaminobutyrate--2-oxoglutarate aminotransferase
+1070335..1070505	-	56	68249538	rpmG	NTHI1123	-	COG0267J	50S ribosomal protein L33
+1070517..1070753	-	78	68249539	rpmB	NTHI1124	-	COG0227J	50S ribosomal protein L28
+1070967..1071671	-	234	68249540	radC	NTHI1125	-	COG2003L	DNA repair protein RadC
+1071795..1072997	+	400	68249541	dfp	NTHI1126	-	COG0452H	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1073045..1073500	+	151	68249542	dut	NTHI1127	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1073504..1074160	+	218	68249543	slmA	NTHI1128	-	COG1309K	nucleoid occlusion protein
+1074182..1074433	+	83	68249544	-	NTHI1129	-	COG3089S	hypothetical protein
+1074418..1075092	+	224	68249545	crp	NTHI1130	-	COG0664T	cAMP-regulatory protein
+1075457..1076635	-	392	68249546	rumB	NTHI1131	-	COG2265J	23S rRNA methyluridine methyltransferase
+1076628..1077683	-	351	68249547	nagZ	NTHI1132	-	COG1472G	beta-hexosaminidase
+1077687..1078037	-	116	68249548	-	NTHI1133	-	COG5633R	periplasmic lipoprotein
+1078037..1078429	-	130	68249549	-	NTHI1134	-	COG0537FGR	HIT-like protein
+1078504..1081329	-	941	68249550	ileS	NTHI1135	-	COG0060J	isoleucyl-tRNA synthetase
+1081358..1082296	-	312	68249551	ribF	NTHI1136	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+1082331..1083863	-	510	68249552	mviN	NTHI1137	-	COG0728R	virulence factor MviN
+1084172..1084435	+	87	161761271	rpsT	NTHI1139	-	COG0268J	30S ribosomal protein S20
+1084507..1085073	-	188	68249554	-	NTHI1140	-	-	hypothetical protein
+1085219..1086076	+	285	68249555	menB	NTHI1141	-	COG0447H	naphthoate synthase
+1086246..1087235	+	329	68249556	menC	NTHI1142	-	COG1441H	O-succinylbenzoate synthase
+1087292..1087741	+	149	68249557	aroQ	NTHI1143	-	COG0757E	3-dehydroquinate dehydratase
+1087895..1088362	+	155	68249558	accB	NTHI1144	-	COG0511I	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+1088539..1089885	+	448	68249559	accC	NTHI1145	-	COG0439I	acetyl-CoA carboxylase biotin carboxylase subunit
+1090090..1090347	+	85	68249560	-	NTHI1146	-	COG3924S	hypothetical protein
+1090344..1091798	+	484	68249561	panF	NTHI1147	-	COG4145H	sodium/panthothenate symporter
+1091919..1092791	+	290	68249562	-	NTHI1148	-	COG5006R	hypothetical protein
+1092826..1093713	+	295	68249563	prmA	NTHI1149	-	COG2264J	ribosomal protein L11 methyltransferase
+1093860..1094840	+	326	68249564	dusB	NTHI1151	-	COG0042J	tRNA-dihydrouridine synthase B
+1094834..1095133	+	99	68249565	fis	NTHI1152	-	COG2901KL	Fis family transcriptional regulator
+1095234..1095719	-	161	68249566	smpB	NTHI1153	-	COG0691O	SsrA-binding protein
+1095958..1096923	-	321	68249567	pfkA	NTHI1154	-	COG0205G	6-phosphofructokinase
+1097019..1097600	-	193	68249568	-	NTHI1155	-	-	hypothetical protein
+1097593..1098444	-	283	68249569	-	NTHI1156	-	COG3022S	hypothetical protein
+1098422..1099543	-	373	68249570	smf	NTHI1157	-	COG0758LU	hypothetical protein
+1100087..1101634	+	515	68249571	leuA	NTHI1160	-	COG0119E	2-isopropylmalate synthase
+1101797..1102873	+	358	68249572	leuB	NTHI1161	-	COG0473CE	3-isopropylmalate dehydrogenase
+1103050..1104459	+	469	68249573	leuC	NTHI1162	-	COG0065E	isopropylmalate isomerase large subunit
+1104484..1105086	+	200	68249574	leuD	NTHI1163	-	COG0066E	isopropylmalate isomerase small subunit
+1105200..1110584	-	1794	68249575	iga1	NTHI1164	-	COG3468MU	IgA-specific serine endopeptidase
+1110811..1111890	-	359	68249576	recF	NTHI1165	-	COG1195L	recombination protein F
+1111892..1112992	-	366	68249577	dnaN	NTHI1166	-	COG0592L	DNA polymerase III subunit beta
+1113185..1114549	-	454	68249578	dnaA	NTHI1167	-	COG0593L	chromosome replication initiator DnaA
+1114736..1117474	-	912	68249579	tbp1	NTHI1168	-	COG1629P	transferrin-binding protein 1
+1117519..1119411	-	630	68249580	tbp2	NTHI1169	-	-	transferrin-binding protein 2
+1119508..1120968	+	486	68249581	-	NTHI1171	-	COG4783R	hypothetical protein
+1121144..1121278	+	44	68249582	rpmH	NTHI1172	-	COG0230J	50S ribosomal protein L34
+1121291..1121650	+	119	68249583	rnpA	NTHI1173	-	COG0594J	ribonuclease P
+1121614..1121874	+	86	68249584	-	NTHI1174	-	COG0759S	hypothetical protein
+1121874..1123499	+	541	68249585	yidC	NTHI1175	-	COG0706U	inner membrane protein translocase component YidC
+1124370..1125728	+	452	68249586	trmE	NTHI1178	-	COG0486R	tRNA modification GTPase TrmE
+1125917..1127785	+	622	68249587	ppiD	NTHI1179	-	COG0760O	peptidyl-prolyl cis-trans isomerase D
+1127873..1129432	+	519	68249588	-	NTHI1180	-	COG2194R	PE--lipooligosaccharide phosphorylethanolamine transferase
+1129502..1130017	+	171	68249589	lspA	NTHI1181	-	COG0597MU	lipoprotein signal peptidase
+1130014..1130958	+	314	68249590	ispH	NTHI1182	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1131127..1131474	+	115	68249591	-	NTHI1183	-	COG1555L	hypothetical protein
+1131721..1132719	+	332	68249592	tbpA	NTHI1185	-	COG4143H	thiamine-binding periplasmic protein
+1132724..1134340	+	538	68249593	thiP	NTHI1186	-	COG1178P	thiamine transporter membrane protein
+1134318..1134971	+	217	68249594	thiQ	NTHI1187	-	COG3840H	thiamine transport ATP-binding protein
+1135084..1136085	+	333	68249595	bioB	NTHI1188	-	COG0502H	biotin synthase
+1136210..1138207	-	665	68249596	tktA	NTHI1189	-	COG0021G	transketolase
+1138588..1139532	+	314	68249597	serB	NTHI1192	-	COG0560E	phosphoserine phosphatase
+1139550..1140041	+	163	68249598	-	NTHI1194	-	COG1666S	nucleotide-binding protein
+1140337..1141284	+	315	68249599	corA	NTHI1195	-	COG0598P	magnesium/nickel/cobalt transporter CorA
+1141275..1141829	+	184	68249600	-	NTHI1196	-	COG0762S	hypothetical protein
+1142009..1142893	-	294	68249601	-	NTHI1197	-	COG0121R	hypothetical protein
+1143050..1143577	-	175	68249602	-	NTHI1198	-	-	hypothetical protein
+1143707..1144909	+	400	68249603	-	NTHI1199	-	COG1373R	ATPase
+1145099..1146448	-	449	68249604	-	NTHI1201	-	COG0806J	hypothetical protein
+1146916..1147416	-	166	68249605	-	NTHI1203	-	COG2768R	ferredoxin
+1147416..1148027	-	203	68249606	-	NTHI1204	-	COG3381R	twin-argninine leader-binding protein DmsD
+1148139..1148978	-	279	68249607	dmsC	NTHI1205	-	COG3302R	anaerobic dimethyl sulfoxide reductase chain C
+1148980..1149597	-	205	68249608	dmsB	NTHI1206	-	COG0437C	anaerobic dimethyl sulfoxide reductase chain B
+1149608..1152028	-	806	68249609	dmsA	NTHI1207	-	COG0243C	anaerobic dimethyl sulfoxide reductase chain A
+1152281..1153390	+	369	68249610	-	NTHI1208	-	COG1305E	hypothetical protein
+1153434..1153727	+	97	68249611	-	NTHI1209	-	-	mercuric transporter MerT
+1153736..1154014	+	92	68249612	-	NTHI1211	-	COG2608P	copper chaperone MerP-like protein
+1154139..1155983	-	614	68249613	-	NTHI1212	-	COG1132V	ABC transporter ATP-binding protein
+1156062..1156958	-	298	68249614	-	NTHI1213	-	COG4977K	transcriptional regulator
+1157070..1157411	+	113	68249615	-	NTHI1214	-	COG0599S	hypothetical protein
+1157522..1158118	-	198	68249616	-	NTHI1215	-	COG3421S	hypothetical protein
+1158124..1160289	-	721	68249617	res	NTHI1216	-	COG3421S	type III restriction-modification system HindVIP enzyme res
+1162596..1163189	-	197	68249618	rnhB	NTHI1219	-	COG0164L	ribonuclease HII
+1163182..1164354	-	390	68249619	lpxB	NTHI1220	-	COG0763M	lipid-A-disaccharide synthase
+1164421..1165209	-	262	68249620	lpxA	NTHI1222	-	COG1043M	UDP-N-acetylglucosamine acyltransferase
+1165223..1165669	-	148	68249621	fabZ	NTHI1223	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+1165745..1167352	-	535	68249622	-	NTHI1224	-	COG2194R	PE--lipooligosaccharide phosphorylethanolamine transferase
+1167445..1168158	+	237	68249623	pyrH	NTHI1225	-	COG0528F	uridylate kinase
+1168397..1169362	-	321	68249624	nrfD	NTHI1226	-	COG3301P	NrfD, formate-dependent nitrite reductase, membrane component
+1169359..1170036	-	225	68249625	nrfC	NTHI1227	-	COG0437C	NrfC, Fe-S-cluster-containing hydrogenase component 1
+1170033..1170716	-	227	68249626	nrfB	NTHI1229	-	-	cytochrome c nitrite reductase pentaheme subunit
+1170760..1172376	-	538	68249627	nrfA	NTHI1230	-	COG3303P	cytochrome c552
+1172538..1176374	-	1278	161761270	hrpA	NTHI1231	-	COG1643L	ATP-dependent RNA helicase HrpA
+1176443..1176817	-	124	68249629	-	NTHI1232	-	COG2363S	small membrane protein
+1176818..1177270	-	150	68249630	-	NTHI1233	-	COG2707S	hypothetical protein
+1177536..1178672	-	378	68249631	cyoB	NTHI1235	-	COG1294C	cytochrome oxidase subunit II
+1178687..1180252	-	521	68249632	cyoA	NTHI1236	-	COG1271C	cytochrome oxidase subunit I
+1180905..1182542	+	545	68249633	pyrG	NTHI1238	-	COG0504F	CTP synthetase
+1182687..1183367	-	226	68249634	pnuC	NTHI1240	-	COG3201H	nicotinamide riboside transporter
+1183549..1184322	-	257	68249635	-	NTHI1241	-	COG1126E	amino-acid ABC transporter ATP-binding protein
+1184326..1185003	-	225	68249636	-	NTHI1242	-	COG0765E	amino-acid ABC transporter permease protein
+1185026..1185799	-	257	68249637	-	NTHI1243	-	COG0834ET	amino-acid ABC transporter binding protein
+1186100..1187374	-	424	68249638	murA	NTHI1244	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1187385..1187642	-	85	68249639	-	NTHI1245	-	COG5007K	BolA family transcriptional regulator
+1187663..1187980	-	105	68249640	-	NTHI1246	-	COG3113R	NTP binding protein, contains STAS domain
+1187991..1188635	-	214	68249641	-	NTHI1247	-	COG2854Q	ABC transporter
+1188668..1189168	-	166	68249642	-	NTHI1248	-	COG1463Q	ABC transporter periplasmic protein
+1189178..1189963	-	261	68249643	-	NTHI1249	-	COG0767Q	ABC transporter permease
+1189960..1190754	-	264	68249644	-	NTHI1250	-	COG1127Q	ABC transporter ATPase
+1191160..1191807	-	215	68249645	sodA	NTHI1251	-	COG0605P	superoxide dismutase
+1192056..1192694	+	212	68249646	ccmA	NTHI1253	-	COG4133O	cytochrome c biogenesis protein CcmA
+1192699..1193364	+	221	68249647	ccmB	NTHI1254	-	COG2386O	heme exporter protein B
+1193425..1194165	+	246	68249648	ccmC	NTHI1255	-	COG0755O	heme exporter protein C
+1194208..1194411	+	67	68249649	ccmD	NTHI1256	-	COG3114U	heme exporter protein D
+1194408..1194929	+	173	68249650	ccmE	NTHI1257	-	COG2332O	cytochrome c-type biogenesis protein CcmE
+1194926..1196872	+	648	68249651	ccmF	NTHI1258	-	COG1138O	cytochrome c-type biogenesis protein CcmF
+1197015..1197560	+	181	68249652	dsbE	NTHI1259	-	COG0526OC	thiol-disulfide interchange protein
+1199060..1199551	+	163	68249653	-	NTHI1262	-	-	hypothetical protein
+1199553..1199861	+	102	68249654	-	NTHI1263	-	-	hypothetical protein
+1199866..1201878	-	670	161761269	ligA	NTHI1265	-	COG0272L	NAD-dependent DNA ligase LigA
+1201990..1202976	-	328	68249656	zipA	NTHI1266	-	COG3115D	cell division protein ZipA
+1203129..1203947	+	272	68249657	cysZ	NTHI1268	-	COG2981E	sulfate transport protein CysZ
+1204046..1204996	+	316	68249658	cysK	NTHI1269	-	COG0031E	cysteine synthase
+1206577..1207617	-	346	68249659	rfaF	NTHI1272	-	COG0859M	ADP-heptose--lipooligosaccharide heptosyltransferase II
+1207693..1208856	-	387	68249660	xylR	NTHI1273	-	COG1609K	xylose operon regulatory protein
+1208968..1210374	-	468	68249661	-	NTHI1274	-	COG1757C	Na(+)/H(+) antiporter
+1210376..1211548	-	390	68249662	aspC2	NTHI1275	-	COG1168E	aspartate aminotransferase
+1211761..1213080	+	439	68249663	xylA	NTHI1276	-	COG2115G	xylose isomerase
+1213083..1214618	+	511	68249664	xylB	NTHI1277	-	COG1070G	xylulose kinase
+1214669..1215595	-	308	68249665	rfaD	NTHI1278	-	COG0451MG	ADP-L-glycero-D-manno-heptose-6-epimerase
+1215648..1216151	-	167	68249666	-	NTHI1279	-	COG0526OC	thioredoxin-like protein
+1216262..1216933	+	223	68249667	deoC	NTHI1280	-	COG0274F	deoxyribose-phosphate aldolase
+1216967..1218496	-	509	68249668	comM	NTHI1282	-	COG0606O	competence protein ComM
+1218611..1219228	-	205	68249669	engB	NTHI1283	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+1219321..1220199	+	292	68249670	-	NTHI1285	-	COG2990S	D-xylose transport permease protein
+1220239..1221237	-	332	68249671	oppF	NTHI1286	-	COG4608E	oligopeptide transport ATP-binding protein
+1221234..1222205	-	323	68249672	oppD	NTHI1287	-	COG0444EP	oligopeptide transporter ATP-binding protein
+1222215..1223150	-	311	68249673	oppC	NTHI1288	-	COG1173EP	oligopeptide transport system permease protein
+1223160..1224080	-	306	68249674	oppB	NTHI1289	-	COG0601EP	oligopeptide transporter permease
+1224161..1225786	-	541	68249675	oppA	NTHI1292	-	COG4166E	periplasmic oligopeptide-binding protein
+1226081..1227034	+	317	68249676	talB	NTHI1293	-	COG0176G	transaldolase B
+1228095..1229696	+	533	68249677	-	NTHI1295	-	COG1966T	carbon starvation protein, membrane protein
+1229898..1230353	+	151	68249678	mraZ	NTHI1296	-	COG2001S	cell division protein MraZ
+1230384..1231349	+	321	68249679	mraW	NTHI1297	-	COG0275M	S-adenosyl-methyltransferase MraW
+1231352..1231675	+	107	68249680	ftsL	NTHI1298	-	COG3116D	cell division protein FtsL
+1231688..1233520	+	610	68249681	ftsI	NTHI1299	-	COG0768M	peptidoglycan synthetase FtsI
+1233530..1234996	+	488	68249682	murE	NTHI1300	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1235010..1236383	+	457	68249683	murF	NTHI1301	-	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1236377..1237459	+	360	68249684	mraY	NTHI1302	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1237571..1238884	+	437	68249685	murD	NTHI1303	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1238907..1240091	+	394	68249686	ftsW	NTHI1304	-	COG0772D	cell division protein FtsW
+1240103..1241158	+	351	68249687	murG	NTHI1305	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1241296..1242723	+	475	68249688	murC	NTHI1307	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+1242792..1243712	+	306	68249689	ddl	NTHI1308	-	COG1181M	D-alanine--D-alanine ligase
+1243712..1244476	+	254	68249690	ftsQ	NTHI1309	-	COG1589M	cell division protein FtsQ
+1244495..1245772	+	425	68249691	ftsA	NTHI1310	-	COG0849D	cell division protein FtsA
+1245856..1247121	+	421	68249692	ftsZ	NTHI1311	-	COG0206D	cell division protein FtsZ
+1247160..1248077	+	305	68249693	lpxC	NTHI1312	-	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1248204..1249361	+	385	68249694	pheA	NTHI1313	-	COG0077E	P-protein
+1249406..1250263	-	285	68249695	-	NTHI1314	-	COG1660R	hypothetical protein
+1250281..1250775	-	164	68249696	ptsN	NTHI1315	-	COG1762GT	nitrogen regulatory IIA protein
+1250778..1251503	-	241	68249697	-	NTHI1316	-	COG1137R	ABC transporter ATP-binding protein
+1251507..1252025	-	172	68249698	-	NTHI1317	-	COG1934S	hypothetical protein
+1252006..1252614	-	202	68249699	-	NTHI1318	-	COG3117S	hypothetical protein
+1252664..1253200	-	178	68249700	-	NTHI1319	-	COG3028S	hypothetical protein
+1253289..1254644	+	451	68249701	pmbA	NTHI1320	-	COG0312R	hypothetical protein
+1255019..1255558	+	179	68249702	hpt	NTHI1321	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+1255864..1257186	+	440	68249703	-	NTHI1323	-	COG1823R	Na+/dicarboxylate symporter
+1257286..1257753	-	155	68249704	nrdG	NTHI1324	-	COG0602O	anaerobic ribonucleotide reductase-activating protein
+1258001..1259731	-	576	68249705	cydC	NTHI1325	-	COG4987CO	cysteine/glutathione ABC transporter membrane/ATP-binding component
+1259731..1261491	-	586	68249706	cydD	NTHI1326	-	COG4988CO	cysteine/glutathione ABC transporter membrane/ATP-binding component
+1261563..1262519	-	318	68249707	trxB	NTHI1327	-	COG0492O	thioredoxin reductase
+1262593..1263450	-	285	68249708	-	NTHI1328	-	COG3118O	thioredoxin
+1263529..1264500	-	323	68249709	hemH	NTHI1329	-	COG0276H	ferrochelatase
+1264497..1264913	-	138	68249710	-	NTHI1330	-	COG2050Q	hypothetical protein
+1264927..1268010	-	1027	68249711	-	NTHI1331	-	COG0277C	hypothetical protein
+1268385..1269464	+	359	68249712	ompP5	NTHI1332	-	COG2885M	outer membrane protein P5
+1269576..1269938	+	120	68249713	-	NTHI1333	-	COG0278O	glutaredoxin-like protein
+1270015..1271115	-	366	68249714	-	NTHI1334	-	COG0079E	histidinol-phosphate aminotransferase
+1271203..1272291	-	362	68249715	serC	NTHI1335	-	COG1932HE	phosphoserine aminotransferase
+1272482..1272826	+	114	68249716	-	NTHI1336	-	COG2926S	hypothetical protein
+1272866..1273432	-	188	68249717	-	NTHI1337	-	COG0115EH	hypothetical protein
+1273432..1274418	-	328	68249718	-	NTHI1338	-	COG0147EH	para-aminobenzoate synthase component I
+1274460..1275041	+	193	68249719	trpG2	NTHI1339	-	COG0512EH	anthranilate synthase component II
+1275126..1276280	+	384	68249720	metK	NTHI1340	-	COG0192H	S-adenosylmethionine synthetase
+1276575..1277090	+	171	68249721	sprT	NTHI1341	-	COG3091S	hypothetical protein
+1277141..1277653	+	170	68249722	opa	NTHI1342	-	COG3637M	opacity protein
+1277689..1277994	-	101	68249723	-	NTHI1344	-	-	hypothetical protein
+1278201..1278884	-	227	68249724	artM	NTHI1345	-	COG4160E	arginine transporter permease subunit ArtM
+1278884..1279549	-	221	68249725	artQ	NTHI1346	-	COG4215E	arginine transporter permease subunit ArtQ
+1279553..1280272	-	239	68249726	artI	NTHI1347	-	COG0834ET	arginine-binding periplasmic protein
+1280290..1281021	-	243	68249727	artP	NTHI1348	-	COG4161E	arginine transporter ATP-binding subunit
+1281147..1281731	-	194	68249728	gmhA	NTHI1350	-	COG0279G	phosphoheptose isomerase
+1281831..1282745	+	304	68249729	ligA	NTHI1352	-	COG1793L	DNA ligase
+1282774..1283757	-	327	68249730	dppF	NTHI1353	-	COG4608E	dipeptide transporter ATP-binding subunit
+1283760..1284752	-	330	68249731	dppD	NTHI1354	-	COG0444EP	dipeptide transporter ATP-binding subunit
+1284762..1285649	-	295	68249732	dppC	NTHI1355	-	COG1173EP	dipeptide transport system permease protein
+1285664..1286665	-	333	68249733	dppB	NTHI1357	-	COG0601EP	dipeptide transport system permease protein
+1286755..1288938	-	727	68249734	uvrD	NTHI1359	-	COG0210L	DNA-dependent helicase II
+1289545..1290180	-	211	68249735	-	NTHI1360	-	COG0602O	organic radical activating protein
+1290181..1290606	-	141	68249736	-	NTHI1361	-	COG0720H	6-pyruvoyl tetrahydrobiopterin synthase
+1290599..1291282	-	227	68249737	-	NTHI1362	-	COG0603R	PP-loop superfamily ATPase
+1291438..1291581	+	47	68249738	-	NTHI1363	-	-	hypothetical protein
+1291632..1292663	-	343	68249739	ilvE	NTHI1364	-	COG0115EH	branched-chain amino acid aminotransferase
+1293138..1294031	+	297	68249740	gcvA	NTHI1365	-	COG0583K	DNA-binding transcriptional activator GcvA
+1294024..1295115	+	363	68249741	-	NTHI1366	-	COG2933R	RNA 2'-O-ribose methyltransferase
+1295151..1296320	+	389	68249742	sucC	NTHI1367	-	COG0045C	succinyl-CoA synthetase subunit beta
+1296320..1297201	+	293	68249743	sucD	NTHI1368	-	COG0074C	succinyl-CoA synthetase alpha chain
+1297322..1297945	+	207	68249744	-	NTHI1369	-	COG0009J	hypothetical protein
+1297993..1299066	+	357	68249745	rluB	NTHI1370	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+1299077..1300048	+	323	68249746	cysB	NTHI1371	-	COG0583K	transcriptional regulator CysB
+1300107..1301051	-	314	68249747	-	NTHI1372	-	COG2890J	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+1301182..1301685	+	167	68249748	-	NTHI1373	-	COG2840S	hypothetical protein
+1301763..1303898	-	711	68249749	pta	NTHI1374	-	COG0280C	phosphate acetyltransferase
+1303966..1305171	-	401	68249750	ackA	NTHI1375	-	COG0282C	acetate kinase
+1305388..1305831	+	147	68249751	-	NTHI1376	-	COG3092S	hypothetical protein
+1305918..1306409	+	163	68249752	cvpA	NTHI1377	-	COG1286R	colicin V production protein
+1306420..1307937	+	505	68249753	purF	NTHI1378	-	COG0034F	amidophosphoribosyltransferase
+1308002..1308892	-	296	68249754	sulA	NTHI1379	-	COG1090R	cell division inhibitor SulA
+1308892..1309347	-	151	68249755	argR	NTHI1380	-	COG1438K	arginine repressor ArgR
+1309554..1310489	+	311	68249756	mdh	NTHI1381	-	COG0039C	malate dehydrogenase
+1310576..1312084	-	502	68249757	lysS	NTHI1382	-	COG1190J	lysyl-tRNA synthetase
+1312196..1313047	-	283	68249758	prfB	NTHI1383	-	COG1186J	peptide chain release factor 2
+1313427..1314116	+	229	68249759	dsbC	NTHI1384	-	COG1651O	thiol-disulfide interchange protein
+1314404..1316131	+	575	68249760	recJ	NTHI1385	-	COG0608L	single-stranded-DNA-specific exonuclease RecJ
+1316124..1316831	+	235	68249761	-	NTHI1387	-	COG1651O	hypothetical protein
+1316828..1317520	+	230	68249762	mtnA	NTHI1389	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1317594..1320341	-	915	68249763	hup	NTHI1390	-	COG1629P	heme utilization protein
+1320641..1322239	-	532	68249764	-	NTHI1391	-	COG1620C	L-lactate permease
+1322643..1323647	-	334	68249765	fbp	NTHI1394	-	COG0158G	fructose-1,6-bisphosphatase
+1323882..1324691	+	269	68249766	truA	NTHI1395	-	COG0101J	tRNA pseudouridine synthase A
+1324784..1325800	-	338	68249767	sapZ	NTHI1396	-	COG2855S	hypothetical protein
+1325812..1326621	-	269	68249768	sapF	NTHI1397	-	COG4167V	anti peptide resistance ABC transporter ATPase
+1326621..1327670	-	349	68249769	sapD	NTHI1398	-	COG4170V	peptide ABC transporter ATP-binding protein
+1327674..1328561	-	295	68249770	sapC	NTHI1399	-	COG4171V	ABC transporter permease
+1328551..1329516	-	321	68249771	sapB	NTHI1400	-	COG4168V	ABC transporter permease
+1329516..1331210	-	564	68249772	sapA	NTHI1401	-	COG4166E	anti peptide resistance ABC transporter periplasmic protein
+1331280..1332692	+	470	68249773	-	NTHI1402	-	COG3106R	hypothetical protein
+1332729..1335368	-	879	68249774	ppc	NTHI1403	-	COG2352C	phosphoenolpyruvate carboxylase
+1335551..1336561	-	336	68249775	purR	NTHI1404	-	COG1609K	DNA-binding transcriptional repressor PurR
+1336924..1337751	+	275	161761268	dapD	NTHI1406	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1337808..1339106	-	432	68249777	purA	NTHI1407	-	COG0104F	adenylosuccinate synthetase
+1339235..1339600	-	121	68249778	-	NTHI1408	-	COG0527E	aspartokinase
+1340448..1340735	-	95	68249779	rplY	NTHI1410	-	COG1825J	50S ribosomal protein L25
+1340903..1341559	+	218	68249780	-	NTHI1412	-	COG0586S	membrane-associated protein
+1341606..1342022	-	138	68249781	-	NTHI1413	-	COG3105S	hypothetical protein
+1342053..1342403	-	116	68249782	-	NTHI1414	-	COG0251J	YjgF family translation initiation inhibitor
+1342515..1343231	+	238	68249783	-	NTHI1415	-	-	hypothetical protein
+1343232..1343774	+	180	68249784	-	NTHI1416	-	COG0790R	hypothetical protein
+1343789..1344247	-	152	68249785	-	NTHI1417	-	COG0789K	HTH-type transcriptional regulator
+1344286..1344969	+	227	68249786	-	NTHI1418	-	COG5266P	ABC-type Co2+ transport system, periplasmic component
+1344982..1345470	+	162	68249787	-	NTHI1419	-	-	hypothetical protein
+1345470..1346090	+	206	68249788	cbiM	NTHI1420	-	COG0310P	cobalt transport protein CbiM
+1346090..1346722	+	210	68249789	-	NTHI1421	-	COG0619P	cobalt ABC transporter permease
+1346724..1347350	+	208	68249790	cbiO	NTHI1422	-	COG1122P	cobalt ABC transporter ATPase
+1347457..1348647	-	396	68249791	aspC	NTHI1423	-	COG1448E	aromatic amino acid aminotransferase
+1348787..1349875	-	362	68249792	purK	NTHI1424	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1349945..1350439	-	164	68249793	purE	NTHI1425	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1350610..1350858	+	82	68249794	hicA	NTHI1426	-	-	HicA
+1350855..1351199	+	114	68249795	hicB	NTHI1427	-	COG4226S	HicB
+1351243..1353852	+	869	68249796	pepN	NTHI1428	-	COG0308E	aminopeptidase
+1353924..1354538	-	204	68249797	ribE	NTHI1429	-	COG0307H	riboflavin synthase subunit alpha
+1354582..1355976	+	464	68249798	norM	NTHI1430	-	COG0534V	multidrug efflux protein
+1355985..1356701	+	238	68249799	sfsA	NTHI1431	-	COG1489R	sugar fermentation stimulation protein A
+1356901..1358088	+	395	68249800	tyrS	NTHI1432	-	COG0162J	tyrosyl-tRNA synthetase
+1358152..1359099	-	315	68249801	prsA	NTHI1433	-	COG0462FE	ribose-phosphate pyrophosphokinase
+1359101..1360054	-	317	68249802	ipk	NTHI1434	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1360054..1360683	-	209	68249803	lolB	NTHI1435	-	COG3017M	molecular chaperone LolB
+1360746..1361996	-	416	68249804	cca	NTHI1436	-	COG0617J	multifunctional tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase/phosphatase
+1362003..1362614	-	203	68249805	-	NTHI1437	-	COG3103T	hypothetical protein
+1362680..1363942	-	420	68249806	-	NTHI1438	-	COG0306P	phosphate permease
+1363967..1364647	-	226	68249807	-	NTHI1439	-	COG1392P	phosphate transport regulator
+1364855..1365310	+	151	68249808	-	NTHI1440	-	COG2259S	hypothetical protein
+1365349..1365636	+	95	68249809	-	NTHI1441	-	COG3767S	hypothetical protein
+1365666..1366619	+	317	68249810	-	NTHI1443	-	COG3220S	hypothetical protein
+1366609..1367325	+	238	68249811	-	NTHI1444	-	COG3219S	hypothetical protein
+1368433..1368600	+	55	68249812	-	NTHI1445	-	-	hypothetical protein
+1368998..1369114	+	38	68249813	-	NTHI1446	-	-	hypothetical protein
+1369564..1369728	-	54	68249814	-	NTHI1447	-	-	hypothetical protein
+1369918..1371870	-	650	68249815	hmw2C	NTHI1448	-	COG3914O	HMW2C, glycosyltransferase involved in glycosylation of HMW1A and HMW2A
+1372262..1373899	-	545	68249816	hmw2B	NTHI1449	-	COG2831U	HMW2B, OMP-85-like protein required for HMW1A and HMW2A secretion
+1374050..1378678	-	1542	68249817	hmw2A	NTHI1450	-	COG2982M	HMW2A, high molecular weight adhesin 2
+1379103..1380149	+	348	68249818	-	NTHI1451	-	COG3025S	hypothetical protein
+1380382..1381758	+	458	68249819	radA	NTHI1453	-	COG1066O	DNA repair protein RadA
+1381838..1382317	+	159	161761267	lrp	NTHI1454	-	COG1522K	leucine-responsive transcriptional regulator
+1382319..1385075	+	918	68249821	ftsK	NTHI1455	-	COG1674D	DNA translocase FtsK
+1385093..1385710	+	205	68249822	lolA	NTHI1456	-	COG2834M	outer-membrane lipoprotein carrier protein
+1385771..1387111	+	446	68249823	-	NTHI1458	-	COG2256L	recombination factor protein RarA
+1387199..1388341	-	380	68249824	-	NTHI1459	-	-	hypothetical protein
+1388351..1389574	-	407	68249825	-	NTHI1460	-	COG0270L	modification methylase BepI-like
+1389829..1391127	-	432	68249826	aroA	NTHI1462	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+1391127..1391963	-	278	68249827	purU	NTHI1463	-	COG0788F	formyltetrahydrofolate deformylase
+1392033..1392437	-	134	68249828	hns	NTHI1464	-	COG2916R	DNA-binding protein H-NS-like protein
+1392841..1394400	+	519	68249829	-	NTHI1465	-	COG1757C	Na+/H+ antiporter
+1394468..1394617	+	49	68249830	-	NTHI1466	-	-	hypothetical protein
+1394667..1396388	+	573	68249831	ilvI	NTHI1468	-	COG0028EH	acetolactate synthase 3 catalytic subunit
+1396388..1396879	+	163	68249832	ilvH	NTHI1469	-	COG0440E	acetolactate synthase 3 regulatory subunit
+1397173..1398906	-	577	68249833	argS	NTHI1470	-	COG0018J	arginyl-tRNA synthetase
+1398986..1399555	+	189	68249834	-	NTHI1471	-	COG3102S	hypothetical protein
+1399634..1399855	+	73	68249835	-	NTHI1472	-	-	lipoprotein
+1399878..1400342	+	154	68249836	pcp	NTHI1473	-	COG3133M	outer membrane lipoprotein PCP
+1400526..1401497	-	323	68249837	lgtD	NTHI1474	-	COG0463M	UDP-GlcNAc--lipooligosaccharide N-acetylglucosamine glycosyltransferase
+1402135..1403784	-	549	161761266	pgi	NTHI1475	-	COG0166G	glucose-6-phosphate isomerase
+1403881..1404963	-	360	68249839	alr	NTHI1476	-	COG0787M	alanine racemase
+1404973..1406487	-	504	68249840	dnaB	NTHI1477	-	COG0305L	replicative DNA helicase
+1406521..1407957	-	478	68249841	pykA	NTHI1479	-	COG0469G	pyruvate kinase
+1408494..1409753	+	419	68249842	-	NTHI1480	-	COG0582L	prophage CP4-57-like integrase
+1410367..1410636	-	89	68249843	-	NTHI1482	-	-	hypothetical protein
+1410741..1410911	-	56	68249844	-	NTHI1483	-	-	hypothetical protein
+1410901..1411434	-	177	68249845	-	NTHI1484	-	-	hypothetical protein
+1411506..1411922	-	138	68249846	-	NTHI1485	-	-	hypothetical protein
+1411926..1412603	-	225	68249847	-	NTHI1486	-	-	hypothetical protein
+1412622..1413785	-	387	68249848	-	NTHI1487	-	COG0270L	modification methylase Bsp6I-like
+1414391..1415287	-	298	68249849	rdgC	NTHI1488	-	COG2974L	recombination associated protein
+1415412..1416758	-	448	68249850	-	NTHI1489	-	COG5243	hypothetical protein
+1416820..1417254	-	144	68249851	ssb3	NTHI1490	-	COG0629L	single-strand binding protein
+1417254..1417898	-	214	68249852	-	NTHI1491	-	-	hypothetical protein
+1417879..1418799	-	306	68249853	-	NTHI1492	-	COG3723L	recombinational DNA repair protein, RecE pathway
+1418812..1419105	-	97	68249854	-	NTHI1493	-	-	hypothetical protein
+1419102..1419446	-	114	68249855	-	NTHI1494	-	-	hypothetical protein
+1419460..1420197	-	245	68249856	-	NTHI1495	-	COG0863L	modification methylase DpnIIB-like
+1420288..1421319	-	343	68249857	-	NTHI1497	-	-	hypothetical protein
+1421309..1421560	-	83	68249858	-	NTHI1498	-	-	hypothetical protein
+1421679..1421990	-	103	68249859	-	NTHI1499	-	-	hypothetical protein
+1422376..1422561	-	61	68249860	-	NTHI1501	-	-	hypothetical protein
+1422722..1423870	-	382	68249861	-	NTHI1502	-	COG4748S	hypothetical protein
+1423881..1424741	-	286	68249862	-	NTHI1503	-	-	hypothetical protein
+1424804..1425169	-	121	68249863	-	NTHI1504	-	COG1595K	hypothetical protein
+1425171..1425758	-	195	68249864	-	NTHI1505	-	-	hypothetical protein
+1425914..1426099	+	61	68249865	-	NTHI1507	-	COG1724N	hypothetical protein
+1426130..1426558	+	142	68249866	-	NTHI1508	-	-	hypothetical protein
+1426559..1427068	-	169	68249867	-	NTHI1509	-	-	hypothetical protein
+1427073..1427663	-	196	68249868	-	NTHI1510	-	-	hypothetical protein
+1427660..1428295	-	211	68249869	-	NTHI1511	-	-	hypothetical protein
+1428280..1429062	-	260	68249870	-	NTHI1512	-	-	hypothetical protein
+1429064..1429297	-	77	68249871	-	NTHI1513	-	-	hypothetical protein
+1429343..1429795	-	150	68249872	-	NTHI1515	-	-	hypothetical protein
+1429839..1430045	-	68	68249873	-	NTHI1516	-	COG4197S	hypothetical protein
+1430179..1431147	+	322	68249874	-	NTHI1517	-	COG2932K	hypothetical protein
+1431341..1431667	+	108	68249875	-	NTHI1518	-	COG1823R	hypothetical protein
+1431654..1432058	+	134	68249876	-	NTHI1519	-	-	hypothetical protein
+1432055..1432444	+	129	68249877	-	NTHI1520	-	-	hypothetical protein
+1432419..1432649	+	76	68249878	-	NTHI1521	-	-	hypothetical protein
+1432658..1433617	+	319	68249879	-	NTHI1522	-	COG1475K	hypothetical protein
+1433596..1434015	+	139	68249880	-	NTHI1523	-	-	DNA modification methylase
+1434012..1434233	-	73	68249881	-	NTHI1525	-	-	hypothetical protein
+1434291..1434659	+	122	68249882	-	NTHI1526	-	COG2197TK	hypothetical protein
+1434673..1435989	+	438	68249883	-	NTHI1527	-	COG1783R	phage terminase large subunit
+1435991..1437307	+	438	68249884	-	NTHI1528	-	COG3567S	hypothetical protein
+1437237..1438049	+	270	68249885	-	NTHI1529	-	COG2369S	phage Mu protein gp30-like protein
+1438055..1439128	+	357	68249886	-	NTHI1530	-	COG3566S	hypothetical protein
+1439142..1439561	+	139	68249887	-	NTHI1531	-	-	hypothetical protein
+1439569..1440570	+	333	68249888	-	NTHI1532	-	COG4834S	hypothetical protein
+1440573..1440761	+	62	68249889	-	NTHI1533	-	-	hypothetical protein
+1440765..1441115	+	116	68249890	-	NTHI1534	-	-	hypothetical protein
+1441108..1441566	+	152	68249891	-	NTHI1535	-	-	hypothetical protein
+1441566..1441925	+	119	68249892	-	NTHI1536	-	-	hypothetical protein
+1441927..1442436	+	169	68249893	-	NTHI1537	-	-	hypothetical protein
+1442423..1443496	+	357	68249894	-	NTHI1538	-	-	hypothetical protein
+1443542..1443967	+	141	68249895	-	NTHI1539	-	-	hypothetical protein
+1443967..1444449	+	160	68249896	-	NTHI1540	-	-	hypothetical protein
+1444485..1444637	+	50	68249897	-	NTHI1541	-	-	hypothetical protein
+1444634..1447051	+	805	68249898	-	NTHI1542	-	COG5281S	phage-like minor tail protein
+1447126..1447698	-	190	68249899	-	NTHI1543	-	-	hypothetical protein
+1448006..1448587	+	193	68249900	-	NTHI1544	-	-	hypothetical protein
+1448584..1448898	+	104	68249901	-	NTHI1546	-	-	hypothetical protein
+1448895..1449851	+	318	68249902	-	NTHI1547	-	-	hypothetical protein
+1449854..1450525	+	223	68249903	-	NTHI1548	-	COG4384S	hypothetical protein
+1450522..1450887	+	121	68249904	-	NTHI1549	-	-	hypothetical protein
+1450880..1452316	+	478	68249905	-	NTHI1550	-	COG3299S	hypothetical protein
+1452325..1452939	+	204	68249906	-	NTHI1551	-	-	hypothetical protein
+1452949..1455297	+	782	68249907	-	NTHI1552	-	-	tail fiber protein
+1455309..1455911	+	200	68249908	-	NTHI1553	-	-	hypothetical protein
+1455908..1456408	+	166	68249909	-	NTHI1554	-	-	hypothetical protein
+1456474..1456923	+	149	68249910	-	NTHI1555	-	-	hypothetical protein
+1456962..1457225	-	87	68249911	-	NTHI1556	-	-	hypothetical protein
+1459009..1459290	-	93	68249912	-	NTHI1560	-	-	hypothetical protein
+1459338..1459523	+	61	68249913	-	NTHI1561	-	COG4383S	hypothetical protein
+1459583..1460251	+	222	68249914	-	NTHI1562	-	-	hypothetical protein
+1460353..1460499	+	48	68249915	-	NTHI1563	-	-	hypothetical protein
+1460532..1461068	+	178	68249916	-	NTHI1564	-	COG3101S	hypothetical protein
+1461269..1461715	+	148	68249917	-	NTHI1565	-	COG0790R	hypothetical protein
+1461715..1461891	+	58	68249918	-	NTHI1566	-	-	hypothetical protein
+1461903..1462562	+	219	68249919	-	NTHI1567	-	COG0790R	hypothetical protein
+1462562..1462738	+	58	68249920	-	NTHI1568	-	-	hypothetical protein
+1462751..1463305	+	184	68249921	-	NTHI1569	-	COG0790R	hypothetical protein
+1463305..1463481	+	58	68249922	-	NTHI1570	-	-	hypothetical protein
+1463494..1464045	+	183	68249923	-	NTHI1571	-	COG0790R	hypothetical protein
+1464321..1465406	+	361	68249924	prfA	NTHI1572	-	COG0216J	peptide chain release factor 1
+1465429..1465899	+	156	68249925	-	NTHI1573	-	COG1714S	hypothetical protein
+1465899..1466777	+	292	68249926	hemK	NTHI1574	-	COG2890J	hypothetical protein
+1466777..1467580	+	267	68249927	-	NTHI1575	-	COG2912S	hypothetical protein
+1467595..1468449	+	284	68249928	kdsA	NTHI1576	-	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+1468509..1469456	+	315	68249929	-	NTHI1577	-	COG1052CHR	glycerate dehydrogenase
+1469456..1470637	+	393	68249930	lolC	NTHI1578	-	COG4591M	lipoprotein releasing system transmembrane protein
+1470649..1471941	+	430	68249931	bioA	NTHI1579	-	COG0161H	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1471950..1473089	+	379	68249932	bioF	NTHI1580	-	COG0156H	8-amino-7-oxononanoate synthase
+1473099..1473746	+	215	68249933	-	NTHI1581	-	COG2830S	hypothetical protein
+1473734..1474516	+	260	68249934	bioC	NTHI1582	-	COG2226H	biotin synthesis protein BioC
+1474526..1475167	+	213	68249935	bioD	NTHI1583	-	COG0132H	dithiobiotin synthetase
+1475249..1475932	+	227	68249936	lolD	NTHI1585	-	COG1136V	lipoprotein releasing system ATP-binding protein LolD
+1475932..1477182	+	416	68249937	lolE	NTHI1586	-	COG4591M	outer membrane-specific lipoprotein transporter subunit LolE
+1477401..1478489	+	362	68249938	aroG	NTHI1587	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+1478559..1478999	-	146	68249939	impA	NTHI1588	-	COG1974KT	ImpA
+1479284..1480528	+	414	68249940	-	NTHI1589	-	COG3633E	serine/threonine transporter SstT
+1480650..1481258	+	202	68249941	-	NTHI1590	-	COG2249R	NAD(P)H oxidoreductase
+1481258..1481812	+	184	68249942	-	NTHI1591	-	COG3381R	component of anaerobic dehydrogenase
+1481859..1482413	-	184	68249943	-	NTHI1592	-	COG0778C	nitroreductase
+1482511..1484358	+	615	68249944	sppA	NTHI1593	-	COG0616OU	endopeptidase IV
+1484396..1485193	-	265	68249945	licD	NTHI1594	-	COG3475M	phosphorylcholine transferase
+1485193..1485894	-	233	68249946	licC	NTHI1595	-	COG4750M	LicC
+1485891..1486769	-	292	68249947	licB	NTHI1596	-	COG2510S	LicB
+1486769..1487728	-	319	68249948	licA	NTHI1597	-	COG0510M	LicA
+1487816..1489828	-	670	68249949	mnmC	NTHI1599	-	COG4121S	5-methylaminomethyl-2-thiouridine methyltransferase
+1489975..1491195	+	406	68249950	fabB	NTHI1600	-	COG0304IQ	3-oxoacyl-ACP synthase
+1491258..1491521	-	87	68249951	grxA	NTHI1601	-	COG0695O	glutaredoxin 1
+1491638..1492546	+	302	68249952	rimK	NTHI1602	-	COG0189HJ	ribosomal protein S6 modification protein
+1492584..1493798	-	404	68249953	gltS	NTHI1603	-	COG0786E	Sodium/glutamate symport carrier protein
+1493840..1496083	-	747	68249954	parC	NTHI1604	-	COG0188L	DNA topoisomerase IV subunit A
+1496150..1498048	-	632	68249955	parE	NTHI1605	-	COG0187L	DNA topoisomerase IV subunit B
+1498122..1499057	-	311	68249956	htrB	NTHI1606	-	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+1499154..1500584	+	476	68249957	rfaE	NTHI1607	-	COG2870M	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase
+1501255..1501611	-	118	68249958	-	NTHI1611	-	-	hypothetical protein
+1501722..1502126	+	134	68249959	uupA2	NTHI1612	-	COG0488R	ABC transporter ATP-binding protein
+1502123..1502683	+	186	68249960	uppB	NTHI1613	-	COG0488R	ABC transporter ATP-binding protein
+1502711..1503400	-	229	68249961	-	NTHI1614	-	COG0288P	carbonic anhydrase
+1503476..1504879	-	467	161761265	asnC	NTHI1615	-	COG0017J	asparaginyl-tRNA synthetase
+1505106..1505579	+	157	68249963	ribH	NTHI1616	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+1505583..1506017	+	144	68249964	nusB	NTHI1617	-	COG0781K	transcription antitermination protein NusB
+1506084..1507070	+	328	68249965	thiL	NTHI1618	-	COG0611H	thiamine-monophosphate kinase
+1507067..1507558	+	163	68249966	pgpA	NTHI1619	-	COG1267I	phosphatidylglycerophosphatase A
+1507558..1508187	+	209	68249967	-	NTHI1620	-	COG1280E	threonine efflux protein
+1508204..1509016	+	270	68249968	dapB	NTHI1621	-	COG0289E	dihydrodipicolinate reductase
+1509011..1509259	-	82	68249969	-	NTHI1622	-	COG0633C	ferredoxin-like protein
+1509305..1510045	+	246	68249970	-	NTHI1623	-	-	hypothetical protein
+1510194..1511183	+	329	68249971	pheS	NTHI1624	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+1511217..1513604	+	795	68249972	pheT	NTHI1625	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+1513606..1513896	+	96	68249973	ihfA	NTHI1626	-	COG0776L	integration host factor subunit alpha
+1513949..1514434	+	161	68249974	-	NTHI1627	-	COG0791M	lipoprotein
+1514443..1515453	+	336	68249975	-	NTHI1628	-	COG2378K	hypothetical protein
+1515512..1515967	+	151	68249976	-	NTHI1629	-	COG4502S	5'(3')-deoxyribonucleotidase
+1515951..1516661	+	236	68249977	-	NTHI1630	-	COG0846K	NAD-dependent deacetylase
+1516710..1517732	-	340	68249978	-	NTHI1631	-	COG3943R	hypothetical protein
+1517927..1518127	+	66	68249979	ftsK2	NTHI1632	-	COG1674D	DNA translocase FtsK
+1518124..1518969	+	281	68249980	-	NTHI1634	-	COG0846K	NAD-dependent deacetylase
+1518969..1519730	+	253	68249981	-	NTHI1635	-	COG0631T	hypothetical protein
+1519808..1520782	+	324	68249982	-	NTHI1636	-	-	hypothetical protein
+1520859..1521026	+	55	68249983	-	NTHI1637	-	-	hypothetical protein
+1521196..1522911	+	571	68249984	-	NTHI1638	-	COG0464O	serine/threonine protein phosphatase family protein
+1522931..1523368	+	145	68249985	-	NTHI1639	-	COG3119P	arylsulfatase
+1523450..1524262	+	270	68249986	-	NTHI1640	-	COG0676G	aldose 1-epimerase
+1524530..1524937	+	135	68249987	infC	NTHI1641	-	COG0290J	translation initiation factor IF-3
+1525148..1525345	+	65	161761264	rpmI	NTHI1642	-	COG0291J	50S ribosomal protein L35
+1525411..1525764	+	117	68249989	rplT	NTHI1643	-	COG0292J	50S ribosomal protein L20
+1525877..1529512	+	1211	68249990	recB	NTHI1644	-	COG1074L	exodeoxyribonuclease V subunit beta
+1529512..1531434	+	640	68249991	recD	NTHI1646	-	COG0507L	exodeoxyribonuclease V subunit alpha
+1531503..1531949	-	148	68249992	-	NTHI1647	-	COG3120S	hypothetical protein
+1532046..1533851	+	601	68249993	lonB	NTHI1648	-	COG1067O	protease La
+1534020..1534553	+	177	68249994	fabA	NTHI1649	-	COG0764I	3-hydroxydecanoyl-ACP dehydratase
+1534789..1535517	+	242	68249995	-	NTHI1650	-	-	hypothetical protein
+1535514..1535651	+	45	68249996	-	NTHI1651	-	-	hypothetical protein
+1535787..1536056	+	89	68249997	rpsO	NTHI1652	-	COG0184J	30S ribosomal protein S15
+1536128..1536499	-	123	68249998	-	NTHI1653	-	COG3676L	transposase-like protein
+1536496..1536612	-	38	68249999	-	NTHI1654	-	-	hypothetical protein
+1536828..1538267	-	479	68250000	dacB	NTHI1655	-	COG2027M	D-alanyl-D-alanine carboxypeptidase/endopeptidase
+1538431..1538907	+	158	68250001	greA	NTHI1658	-	COG0782K	transcription elongation factor GreA
+1538946..1539245	-	99	68250002	-	NTHI1659	-	COG1534J	RNA-binding protein
+1539372..1540001	+	209	68250003	rrmJ	NTHI1660	-	COG0293J	23S rRNA methyltransferase
+1540092..1541999	+	635	68250004	ftsH	NTHI1662	-	COG0465O	cell division protein FtsH-like protein
+1542111..1542941	+	276	68250005	folP	NTHI1663	-	COG0294H	dihydropteroate synthase
+1542974..1544311	+	445	68250006	glmM	NTHI1664	-	COG1109G	phosphoglucosamine mutase
+1544370..1544864	+	164	68250007	sixA	NTHI1666	-	COG2062T	phosphohistidine phosphatase SixA-like protein
+1545066..1545641	+	191	68250008	-	NTHI1667	-	-	hypothetical protein
+1545719..1547083	-	454	68250009	-	NTHI1668	-	COG1538MU	hypothetical protein
+1547310..1547450	+	46	68250010	-	NTHI1669	-	-	hypothetical protein
+1547444..1547596	+	50	68250011	-	NTHI1671	-	-	hypothetical protein
+1547905..1548501	+	198	68250012	-	NTHI1673	-	COG1595K	RNA polymerase sigma factor
+1548511..1548684	+	57	68250013	-	NTHI1674	-	-	hypothetical protein
+1548779..1549681	-	300	68250014	-	NTHI1675	-	COG0697GER	hypothetical protein
+1549817..1550878	+	353	68250015	msaB	NTHI1677	-	COG0229O	bifunctional methionine sulfoxide reductase A/B protein
+1550890..1551531	+	213	68250016	-	NTHI1678	-	COG0785O	hypothetical protein
+1551576..1552046	+	156	68250017	-	NTHI1679	-	COG0526OC	hypothetical protein
+1552228..1552551	-	107	68250018	-	NTHI1680	-	COG3099S	dsDNA-mimic protein
+1552618..1553349	-	243	68250019	moeB	NTHI1681	-	COG0476H	molybdopterin biosynthesis protein MoeB
+1553353..1554567	-	404	68250020	moeA	NTHI1682	-	COG0303H	molybdopterin biosynthesis protein MoeA
+1554705..1555361	+	218	68250021	folE	NTHI1683	-	COG0302H	GTP cyclohydrolase I
+1555365..1555688	+	107	68250022	-	NTHI1684	-	COG3100S	hypothetical protein
+1555791..1556519	+	242	68250023	bioD	NTHI1685	-	COG0132H	dithiobiotin synthetase
+1556608..1557486	-	292	68250024	metF	NTHI1686	-	COG0685E	5,10-methylenetetrahydrofolate reductase
+1557949..1558377	+	142	68250025	rplM	NTHI1687	-	COG0102J	50S ribosomal protein L13
+1558394..1558786	+	130	68250026	rpsI	NTHI1688	-	COG0103J	30S ribosomal protein S9
+1558967..1559605	+	212	68250027	sspA	NTHI1689	-	COG0625O	stringent starvation protein A
+1559605..1560057	+	150	68250028	sspB	NTHI1690	-	COG2969R	ClpXP protease specificity-enhancing factor
+1560093..1561970	-	625	68250029	dxs	NTHI1691	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+1562012..1562902	-	296	68250030	ispA	NTHI1692	-	COG0142H	geranyltranstransferase
+1562902..1563156	-	84	68250031	xseB	NTHI1693	-	COG1722L	exodeoxyribonuclease VII small subunit
+1563315..1564772	+	485	68250032	thiI	NTHI1694	-	COG0301H	thiamine biosynthesis protein ThiI
+1564787..1565107	+	106	68250033	-	NTHI1695	-	COG3098S	hypothetical protein
+1565101..1565820	+	239	68250034	truC	NTHI1696	-	COG0564J	tRNA pseudouridine synthase C
+1565813..1565971	+	52	68250035	-	NTHI1697	-	COG3140S	hypothetical protein
+1566120..1566338	+	72	68250036	cspD	NTHI1698	-	COG1278K	cold shock-like protein CspD
+1566477..1566953	-	158	68250037	-	NTHI1699	-	COG2606S	hypothetical protein
+1567012..1567965	+	317	68250038	usg	NTHI1700	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1568109..1568915	-	268	68250039	trpA	NTHI1701	-	COG0159E	tryptophan synthase subunit alpha
+1568915..1570108	-	397	68250040	trpB	NTHI1702	-	COG0133E	tryptophan synthase subunit beta
+1570125..1570883	-	252	68250041	-	NTHI1703	-	COG4221R	oxidoreductase
+1571063..1572097	+	344	68250042	purM	NTHI1704	-	COG0150F	phosphoribosylaminoimidazole synthetase
+1572152..1572790	+	212	68250043	purN	NTHI1706	-	COG0299F	phosphoribosylglycinamide formyltransferase
+1572874..1573710	-	278	68250044	-	NTHI1707	-	COG5266P	ABC transporter periplasmic protein
+1573908..1574837	-	309	161761263	uspE	NTHI1708	-	COG0589T	universal stress protein UspE
+1574959..1575732	-	257	68250046	fnr	NTHI1709	-	COG0664T	fumarate/nitrate reduction transcriptional regulator
+1576350..1576706	+	118	68250047	-	NTHI1711	-	-	integrase/recombinase
+1576591..1576980	-	129	68250048	-	NTHI1712	-	-	hypothetical protein
+1577285..1577536	-	83	68250049	-	NTHI1713	-	COG3561K	phage anti-repressor protein
+1577874..1579145	-	423	68250050	-	NTHI1714	-	COG1196D	hypothetical protein
+1579746..1579949	+	67	68250051	-	NTHI1715	-	-	hypothetical protein
+1579927..1580085	-	52	68250052	-	NTHI1716	-	-	hypothetical protein
+1580413..1580634	-	73	68250053	-	NTHI1717	-	-	hypothetical protein
+1581561..1581896	-	111	68250054	-	NTHI1718	-	-	hypothetical protein
+1581899..1582978	-	359	68250055	-	NTHI1719	-	-	hypothetical protein
+1583030..1583728	-	232	68250056	-	NTHI1720	-	COG2932K	transcriptional regulator
+1583839..1584027	+	62	68250057	-	NTHI1721	-	COG4197S	hypothetical protein
+1584076..1584516	+	146	68250058	-	NTHI1722	-	-	hypothetical protein
+1584565..1585239	+	224	68250059	-	NTHI1723	-	COG3645S	hypothetical protein
+1585236..1585994	+	252	68250060	-	NTHI1724	-	-	hypothetical protein
+1585979..1586620	+	213	68250061	-	NTHI1725	-	-	hypothetical protein
+1586617..1586841	+	74	68250062	-	NTHI1726	-	-	hypothetical protein
+1586878..1587294	+	138	68250063	ninB	NTHI1727	-	-	recombination protein NinB
+1587562..1587951	+	129	68250064	ninG	NTHI1728_1	-	-	recombination protein NinG-like protein
+1587971..1588600	+	209	68250065	-	NTHI1729	-	-	hypothetical protein
+1588724..1589002	+	92	68250066	-	NTHI1730	-	-	hypothetical protein
+1589052..1590029	-	325	68250067	-	NTHI1731	-	-	hypothetical protein
+1590258..1591043	+	261	68250068	-	NTHI1733	-	COG3617K	hypothetical protein
+1591074..1591256	+	60	68250069	-	NTHI1734	-	-	hypothetical protein
+1591380..1591736	+	118	68250070	-	NTHI1735	-	-	hypothetical protein
+1591816..1592307	+	163	68250071	-	NTHI1736	-	COG3179R	hypothetical protein
+1592300..1592623	+	107	68250072	-	NTHI1737	-	-	hypothetical protein
+1592535..1592816	+	93	68250073	-	NTHI1738	-	-	hypothetical protein
+1592818..1593096	-	92	68250074	-	NTHI1739	-	COG1709K	hypothetical protein
+1593141..1593653	+	170	68250075	-	NTHI1740	-	COG3728L	hypothetical protein
+1593640..1594983	+	447	68250076	-	NTHI1741	-	COG1783R	phage terminase large subunit
+1594985..1596319	+	444	68250077	-	NTHI1742	-	COG3567S	hypothetical protein
+1596348..1597529	+	393	68250078	traN	NTHI1743	-	COG2369S	phage Mu protein gp30-like protein
+1597675..1597851	+	58	68250079	-	NTHI1744	-	COG3566S	hypothetical protein
+1598015..1599034	+	339	68250080	pyrD	NTHI1745	-	COG0167F	dihydroorotate dehydrogenase 2
+1599034..1599858	+	274	68250081	trpH	NTHI1746	-	COG0613R	TrpH
+1599957..1600565	-	202	68250082	-	NTHI1748	-	-	hypothetical protein
+1600693..1602087	-	464	68250083	fumC	NTHI1749	-	COG0114C	fumarate hydratase
+1602237..1603175	-	312	68250084	-	NTHI1750	-	COG1442M	glycosyl transferase family protein
+1603831..1604265	+	144	68250085	holC	NTHI1753	-	COG2927L	DNA polymerase III subunit chi
+1604350..1604520	+	56	68250086	-	NTHI1754	-	-	hypothetical protein
+1604533..1604907	+	124	68250087	-	NTHI1755	-	COG4185S	hypothetical protein
+1604935..1605102	+	55	68250088	-	NTHI1756	-	COG4185S	hypothetical protein
+1605129..1605443	+	104	68250089	-	NTHI1757	-	COG3097S	hypothetical protein
+1605487..1605888	+	133	68250090	-	NTHI1758	-	-	hypothetical protein
+1605940..1608804	+	954	68250091	valS	NTHI1760	-	COG0525J	valyl-tRNA synthetase
+1608839..1608946	-	35	68250092	-	NTHI1762	-	-	hypothetical protein
+1609234..1610667	-	477	68250093	trpC	NTHI1763	-	COG0134E	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1610705..1611706	-	333	68250094	trpD	NTHI1764	-	COG0547E	anthranilate phosphoribosyltransferase
+1611759..1612145	-	128	68250095	-	NTHI1765	-	-	hypothetical protein
+1612194..1612781	-	195	68250096	trpG	NTHI1767	-	COG0512EH	anthranilate synthase component II
+1612794..1614350	-	518	68250097	trpE	NTHI1768	-	COG0147EH	anthranilate synthase component I
+1615485..1615982	-	165	68250098	ftnB	NTHI1772	-	COG1528P	ferritin
+1615998..1616546	-	182	68250099	ftnA	NTHI1773	-	COG1528P	ferritin
+1616989..1618008	+	339	68250100	pstS	NTHI1774	-	COG0226P	phosphate-binding periplasmic protein PstS
+1618100..1619047	+	315	68250101	pstC	NTHI1775	-	COG0573P	phosphate transport system permease protein PstC
+1619049..1619897	+	282	68250102	pstA	NTHI1776	-	COG0581P	phosphate transport system permease protein PstA
+1619907..1620674	+	255	68250103	pstB	NTHI1777	-	COG1117P	phosphate transporter ATP-binding protein
+1620771..1621466	+	231	68250104	phoB	NTHI1778	-	COG0745TK	phosphate regulon transcriptional regulatory protein PhoB
+1621463..1622740	+	425	68250105	phoR	NTHI1779	-	COG5002T	phosphate regulon sensor protein PhoR
+1623432..1624853	-	473	68250106	sbcB	NTHI1780	-	COG2925L	exonuclease I
+1624866..1625741	-	291	68250107	-	NTHI1781	-	-	hypothetical protein
+1625745..1626653	-	302	68250108	-	NTHI1782	-	COG3586S	hypothetical protein
+1626723..1631255	-	1510	68250109	mukB	NTHI1784	-	COG3096D	cell division protein MukB
+1631255..1631989	-	244	68250110	-	NTHI1785	-	COG3095D	condesin subunit E
+1631993..1633051	-	352	68250111	haeIIR	NTHI1786	-	-	type II restriction enzyme HaeII
+1633054..1634010	-	318	68250112	haeIIM	NTHI1787	-	COG0270L	modification methylase HaeII
+1634023..1635450	-	475	68250113	mukF	NTHI1788	-	COG3006D	condesin subunit F
+1635507..1636439	+	310	68250114	-	NTHI1789	-	COG0037D	C32 tRNA thiolase
+1636441..1636770	+	109	68250115	-	NTHI1790	-	COG2920P	dissimilatory sulfite reductase, desulfoviridin subunit gamma
+1636878..1637087	+	69	68250116	mop	NTHI1793	-	COG3585H	molybdenum-pterin binding protein
+1639787..1642567	+	926	68250117	pqqL	NTHI1796	-	COG0612R	zinc protease
+1642690..1644621	-	643	68250118	thrS	NTHI1797	-	COG0441J	threonyl-tRNA synthetase
+1644905..1645489	+	194	68250119	acpD	NTHI1798	-	COG1182I	ACP phosphodieterase
+1645566..1648172	-	868	68250120	topA	NTHI1799	-	COG0550L	DNA topoisomerase I
+1648268..1649185	+	305	68250121	-	NTHI1800	-	COG0583K	HTH-type transcriptional regulator
+1649249..1650673	-	474	68250122	pntB	NTHI1801	-	COG1282C	pyridine nucleotide transhydrogenase
+1650684..1652222	-	512	68250123	pntA	NTHI1802	-	COG3288C	NAD(P) transhydrogenase subunit alpha
+1652483..1654948	-	821	68250124	glgP	NTHI1803	-	COG0058G	glycogen phosphorylase
+1655195..1656625	-	476	68250125	glgA	NTHI1806	-	COG0297G	glycogen synthase
+1656733..1658067	-	444	68250126	glgC	NTHI1807	-	COG0448G	glucose-1-phosphate adenylyltransferase
+1658057..1660033	-	658	68250127	glgX	NTHI1808	-	COG1523G	glycogen operon protein GlgX
+1660132..1662324	-	730	68250128	glgB	NTHI1809	-	COG0296G	glycogen branching enzyme
+1662334..1664433	-	699	68250129	malQ	NTHI1810	-	COG1640G	4-alpha-glucanotransferase
+1664495..1664959	-	154	68250130	-	NTHI1811	-	COG2983S	hypothetical protein
+1665025..1666698	-	557	68250131	glnS	NTHI1812	-	COG0008J	glutaminyl-tRNA synthetase
+1667118..1668593	-	491	68250132	cafA	NTHI1813	-	COG1530J	ribonuclease G
+1668709..1670223	+	504	68250133	putP	NTHI1814	-	COG0591ER	sodium/proline symporter
+1670220..1671185	+	321	68250134	-	NTHI1815	-	COG2230M	hypothetical protein
+1671228..1672106	-	292	68250135	cdd	NTHI1816	-	COG0295F	cytidine deaminase
+1672380..1672862	+	160	68250136	-	NTHI1817	-	COG0783P	DNA-binding ferritin-like protein
+1673434..1674672	-	412	68250137	pepT	NTHI1818	-	COG2195E	peptidase T
+1674942..1676087	+	381	68250138	potA	NTHI1820	-	COG3842E	putrescine/spermidine ABC transporter ATPase protein
+1676071..1676931	+	286	68250139	potB	NTHI1821	-	COG1176E	spermidine/putrescine ABC transporter membrane protein
+1676931..1677701	+	256	68250140	potC	NTHI1822	-	COG1177E	spermidine/putrescine ABC transporter membrane protein
+1677748..1678914	+	388	68250141	potD1	NTHI1823	-	COG0687E	spermidine/putrescine-binding periplasmic protein 1
+1678995..1680938	-	647	68250142	uupA	NTHI1824	-	COG0488R	ABC transporter ATPase
+1681032..1682417	-	461	68250143	-	NTHI1825	-	COG0232F	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+1682510..1683205	-	231	68250144	-	NTHI1826	-	COG1346M	effector of murein hydrolase
+1683224..1683646	-	140	68250145	-	NTHI1827	-	COG1380R	hypothetical protein
+1683761..1684243	+	160	68250146	-	NTHI1828	-	COG1525L	micrococcal nuclease-like protein
+1684245..1685444	+	399	68250147	nifS	NTHI1829	-	COG0520E	selenocysteine lyase
+1685441..1685821	+	126	68250148	-	NTHI1830	-	COG2166R	hypothetical protein
+1685812..1686609	+	265	68250149	-	NTHI1831	-	COG5595R	hypothetical protein
+1686653..1687492	+	279	68250150	queF	NTHI1832	-	COG2904S	7-cyano-7-deazaguanine reductase
+1687525..1688649	-	374	68250151	tyrA	NTHI1833	-	COG0287E	bifunctional chorismate mutase/prephenate dehydrogenase
+1688739..1689659	-	306	68250152	truB	NTHI1834	-	COG0130J	tRNA pseudouridine synthase B
+1689659..1690045	-	128	68250153	rbfA	NTHI1835	-	COG0858J	ribosome-binding factor A
+1690210..1691880	+	556	68250154	hsdM3	NTHI1838	-	COG0286V	type I restriction enzyme HindVIIP M protein
+1691873..1693138	+	421	68250155	hsdS3	NTHI1839	-	COG0732V	type I restriction enzyme HindVIIP specificity protein
+1693131..1694177	+	348	68250156	-	NTHI1841	-	COG0846K	hypothetical protein
+1694179..1697346	+	1055	68250157	hsdR3	NTHI1843	-	COG0610V	type I restriction enzyme HindVIIP R protein
+1697425..1699959	-	844	68250158	infB	NTHI1844	-	COG0532J	translation initiation factor IF-2
+1699971..1701458	-	495	68250159	nusA	NTHI1845	-	COG0195K	transcription elongation factor NusA
+1701475..1701930	-	151	68250160	-	NTHI1846	-	COG0779S	hypothetical protein
+1703591..1704355	-	254	68250161	-	NTHI1849	-	-	hypothetical protein
+1704359..1704886	-	175	68250162	-	NTHI1850	-	-	hypothetical protein
+1704896..1706035	-	379	68250163	-	NTHI1851	-	-	hypothetical protein
+1706052..1706420	-	122	68250164	-	NTHI1852	-	-	hypothetical protein
+1706434..1707255	-	273	68250165	-	NTHI1853	-	-	hypothetical protein
+1707312..1707815	-	167	68250166	-	NTHI1855	-	-	hypothetical protein
+1707812..1708414	-	200	68250167	-	NTHI1856	-	-	hypothetical protein
+1708426..1710948	-	840	68250168	-	NTHI1857	-	COG5301R	tail fiber protein
+1710957..1711493	-	178	68250169	-	NTHI1858	-	COG4385R	bacteriophage P2-related tail formation protein gpI
+1711483..1712397	-	304	68250170	-	NTHI1860	-	COG3948R	phage-like baseplate assembly protein
+1712394..1712732	-	112	68250171	-	NTHI1861	-	COG3628R	baseplate assembly protein W
+1712734..1713333	-	199	68250172	-	NTHI1862	-	COG4540R	phage P2-like baseplate assembly protein
+1713437..1713865	-	142	68250173	-	NTHI1863	-	-	hypothetical protein
+1713874..1714431	-	185	68250174	-	NTHI1864	-	-	hypothetical protein
+1714529..1714981	-	150	68250175	-	NTHI1865	-	-	hypothetical protein
+1714959..1715159	-	66	68250176	-	NTHI1866	-	-	hypothetical protein
+1715203..1717167	-	654	68250177	-	NTHI1867	-	COG5283S	phage-like tail protein
+1717210..1717977	-	255	68250178	-	NTHI1869	-	COG5283S	hypothetical protein
+1718022..1718360	+	112	68250179	-	NTHI1870	-	-	hypothetical protein
+1718371..1718553	-	60	68250180	-	NTHI1871	-	-	hypothetical protein
+1718657..1719004	+	115	68250181	-	NTHI1872	-	-	hypothetical protein
+1719005..1719466	-	153	68250182	-	NTHI1873	-	-	bacteriophage tail completion protein gpS-like protein
+1719466..1719852	-	128	68250183	-	NTHI1874	-	-	bacteriophage tail completion protein gpR-like protein
+1719902..1720009	-	35	68250184	-	NTHI1875	-	-	hypothetical protein
+1720042..1720164	-	40	68250185	-	NTHI1876	-	-	hypothetical protein
+1720161..1720376	-	71	68250186	-	NTHI1878	-	COG1734T	DnaK suppressor protein
+1720551..1720901	-	116	68250187	-	NTHI1879	-	-	hypothetical protein
+1720886..1721404	-	172	68250188	-	NTHI1880	-	COG3772R	phage-like lysozyme
+1721397..1721618	-	73	68250189	-	NTHI1881	-	-	hypothetical protein
+1721620..1721829	-	69	68250190	-	NTHI1882	-	COG5004R	hypothetical protein
+1721829..1722335	-	168	68250191	-	NTHI1883	-	-	hypothetical protein
+1722629..1723279	-	216	68250192	-	NTHI1884	-	-	terminase, endonuclease subunit
+1723291..1724340	-	349	68250193	-	NTHI1885	-	-	major capsid protein
+1724361..1725176	-	271	68250194	-	NTHI1887	-	COG5185	capsid scaffolding protein
+1725341..1727122	+	593	68250195	-	NTHI1888	-	COG5484S	terminase, ATPase subunit
+1727132..1728142	+	336	68250196	-	NTHI1890	-	COG5518R	portal vertex protein
+1728850..1729524	-	224	68250197	siaB	NTHI1891	-	COG1083M	acylneuraminate cytidylyltransferase
+1729638..1730300	+	220	68250198	-	NTHI1892	-	COG0778C	NAD(P)H nitroreductase
+1730347..1731459	-	370	161761262	mrp	NTHI1893	-	COG0489D	ATPase
+1731610..1733658	+	682	68250200	metG	NTHI1894	-	COG0143J	methionyl-tRNA synthetase
+1733769..1734629	+	286	68250201	tehB	NTHI1895	-	COG3615P	tellurite resistance protein TehB
+1734673..1735374	-	233	68250202	gloB	NTHI1896	-	COG0491R	hydroxyacylglutathione hydrolase
+1735426..1736232	-	268	68250203	-	NTHI1897	-	COG2242H	hypothetical protein
+1736468..1736944	+	158	68250204	-	NTHI1898	-	-	hypothetical protein
+1737081..1738844	+	587	68250205	-	NTHI1899	-	COG1944S	hypothetical protein
+1739444..1742086	+	880	68250206	gyrA	NTHI1900	-	COG0188L	DNA gyrase subunit A
+1742141..1743217	-	358	68250207	metX	NTHI1901	-	COG2021E	homoserine O-acetyltransferase
+1743321..1744055	+	244	68250208	sanA	NTHI1902	-	COG2949S	SanA
+1744343..1745656	-	437	68250209	folC	NTHI1903	-	COG0285H	folylpolyglutamate synthase
+1745649..1746539	-	296	68250210	accD	NTHI1904	-	COG0777I	acetyl-CoA carboxylase subunit beta
+1746733..1748124	+	463	68250211	htoA	NTHI1905	-	COG0265O	periplasmic serine protease do/HhoA-like
+1748177..1751617	-	1146	68250212	mfd	NTHI1906	-	COG1197LK	transcription-repair coupling factor
+1751719..1751892	-	57	68250213	-	NTHI1907	-	-	hypothetical protein
+1751889..1753859	-	656	68250214	-	NTHI1908	-	COG1444R	P-loop ATPase fused to an acetyltransferase
+1753864..1754205	-	113	68250215	-	NTHI1910	-	COG3094S	hypothetical protein
+1754267..1755937	-	556	68250216	-	NTHI1911	-	COG0488R	ABC transporter ATP-binding protein
+1756100..1756423	-	107	68250217	-	NTHI1912	-	COG3093R	plasmid maintenance system antidote protein
+1756434..1756739	-	101	68250218	-	NTHI1913	-	COG3549R	plasmid maintenance system killer protein
+1757064..1757684	+	206	68250219	-	NTHI1914	-	COG3683R	ABC transporter periplasmic component
+1757687..1758655	+	322	68250220	-	NTHI1915	-	COG2215R	ABC transporter permease
+1759269..1761308	+	679	68250221	uvrB	NTHI1917	-	COG0556L	excinuclease ABC subunit B
+1761338..1763263	-	641	68250222	-	NTHI1918	-	COG1368M	phosphoglycerol transferase-like protein
+1763504..1765774	-	756	68250223	mao2	NTHI1920	-	COG0281C	malic enzyme
+1765972..1766592	+	206	68250224	-	NTHI1921	-	COG3955M	polysaccharide biosynthesis protein
+1766683..1767381	+	232	68250225	rsuA	NTHI1922	-	COG1187J	ribosomal small subunit pseudouridine synthase A
+1767383..1768579	+	398	68250226	bcr	NTHI1923	-	COG2814G	bicyclomycin/multidrug efflux system
+1768611..1769411	-	266	68250227	-	NTHI1924	-	COG2898S	hypothetical protein
+1769509..1770171	+	220	68250228	-	NTHI1925	-	COG2860S	hypothetical protein
+1770192..1771445	+	417	68250229	proA	NTHI1926	-	COG0014E	gamma-glutamyl phosphate reductase
+1771524..1772669	-	381	68250230	dnaJ	NTHI1928	-	COG0484O	molecular chaperone DnaJ
+1772756..1774663	-	635	68250231	dnaK	NTHI1929	-	COG0443O	molecular chaperone DnaK
+1774930..1776372	+	480	68250232	-	NTHI1930	-	COG5339S	hypothetical protein
+1776529..1776987	-	152	68250233	mgsA	NTHI1931	-	COG1803G	methylglyoxal synthase
+1777287..1779947	+	886	68250234	aceE	NTHI1933	-	COG2609C	pyruvate dehydrogenase subunit E1
+1780010..1781707	+	565	68250235	aceF	NTHI1934	-	COG0508C	dihydrolipoamide acetyltransferase
+1781821..1783245	+	474	68250236	lpdA	NTHI1935	-	COG1249C	dihydrolipoamide dehydrogenase
+1783292..1783399	-	35	68250237	-	NTHI1936	-	-	hypothetical protein
+1783405..1783947	+	180	68250238	apt	NTHI1938	-	COG0503F	adenine phosphoribosyltransferase
+1783959..1786025	+	688	68250239	dnaX	NTHI1939	-	COG2812L	DNA polymerase III subunits gamma and tau
+1786165..1786791	+	208	68250240	upp	NTHI1940	-	COG0035F	uracil phosphoribosyltransferase
+1786895..1788139	+	414	68250241	uraA	NTHI1941	-	COG2233F	uracil permease
+1788205..1788900	+	231	68250242	-	NTHI1942	-	COG0593L	DNA replication initiation factor
+1788967..1789248	-	93	68250243	-	NTHI1943	-	COG0023J	translation initiation factor 1-like proterin
+1789255..1789947	-	230	68250244	pyrF	NTHI1944	-	COG0284F	orotidine 5'-phosphate decarboxylase
+1789971..1791161	-	396	68250245	-	NTHI1945	-	COG2956G	tetratricopeptide repeat protein
+1791161..1791454	-	97	68250246	-	NTHI1946	-	COG3771S	hypothetical protein
+1791529..1791813	-	94	68250247	ihfB	NTHI1947	-	COG0776L	integration host factor subunit beta
+1791936..1793585	-	549	68250248	rpsA	NTHI1948	-	COG0539J	30S ribosomal protein S1
+1793688..1794482	-	264	68250249	cmk	NTHI1949	-	COG0283F	cytidylate kinase
+1794828..1795703	+	291	68250250	-	NTHI1950	-	COG0214H	pyridoxal biosynthesis lyase PdxS
+1795704..1796282	+	192	68250251	-	NTHI1951	-	COG0311H	glutamine amidotransferase subunit PdxT
+1796831..1798525	-	564	68250252	dld	NTHI1952	-	COG0277C	D-lactate dehydrogenase
+1798785..1798895	+	36	68250253	-	NTHI1953	-	-	hypothetical protein
+1799430..1799981	-	183	68250254	nlpC	NTHI1954	-	COG0791M	lipoprotein NlpC
+1800094..1801542	-	482	68250255	tldD	NTHI1955	-	COG0312R	hypothetical protein
+1801644..1802495	-	283	68250256	-	NTHI1956	-	COG0313R	methyltransferase
+1802567..1804294	+	575	68250257	-	NTHI1957	-	COG3107R	lipoprotein
+1804294..1804653	+	119	68250258	-	NTHI1958	-	COG0792L	hypothetical protein
+1804666..1805250	+	194	68250259	-	NTHI1959	-	COG0279G	hypothetical protein
+1805307..1805888	+	193	68250260	-	NTHI1960	-	COG2823R	hypothetical protein
+1806143..1808413	+	756	68250261	nrdA	NTHI1961	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+1808555..1809685	+	376	68250262	nrdB	NTHI1962	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+1809801..1811030	-	409	68250263	sucB	NTHI1963	-	COG0508C	dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+1811133..1813985	-	950	68250264	sucA	NTHI1964	-	COG0567C	2-oxoglutarate dehydrogenase E1
+1814143..1814781	-	212	68250265	-	NTHI1965	-	COG0491R	Zn-dependent hydrolase
+1814791..1815546	-	251	68250266	-	NTHI1966	-	COG0084L	deoxyribonuclease
+1815598..1816158	-	186	68250267	-	NTHI1967	-	COG3108S	hypothetical protein
+1816174..1817643	-	489	68250268	-	NTHI1968	-	COG2989S	hypothetical protein
+1817717..1819804	-	695	68250269	prc	NTHI1969	-	COG0793M	carboxy-terminal protease
+1819826..1820464	-	212	68250270	proQ	NTHI1970	-	COG3109T	solute/DNA competence effector
+1820649..1821899	+	416	68250271	-	NTHI1972	-	COG2995S	paraquat-inducible protein A-like protein
+1821883..1824528	+	881	68250272	-	NTHI1973	-	COG3008R	paraquat-inducible protein B-like protein
+1824583..1825035	-	150	68250273	moaE	NTHI1974	-	COG0314H	molybdopterin converting factor subunit 2
+1825036..1825281	-	81	68250274	moaD	NTHI1976	-	COG1977H	molybdopterin synthase small subunit
+1825283..1825765	-	160	68250275	moaC	NTHI1977	-	COG0315H	molybdenum cofactor biosynthesis protein MoaC
+1825857..1826870	-	337	68250276	moaA	NTHI1978	-	COG2896H	molybdenum cofactor biosynthesis protein A
+1827315..1827788	+	157	68250277	-	NTHI1979	-	COG2846D	regulator of cell morphogenesis and NO signaling
+1827788..1827985	+	65	68250278	-	NTHI1980	-	COG2846D	regulator of cell morphogenesis and NO signaling
+1828522..1829535	+	337	68250279	-	NTHI1981	-	COG0794M	arabinose-5-phosphate isomerase
+1829545..1830087	+	180	68250280	yrbI	NTHI1982	-	COG1778R	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+1830518..1834996	+	1492	68250281	hmw1A	NTHI1983	-	COG2911S	HMW1A, high molecular weight adhesin 1
+1835147..1836784	+	545	68250282	hmw1B	NTHI1984	-	COG2831U	HMW1B, OMP-85-like protein required for secretion of HMW1A and HMW2A
+1836978..1838930	+	650	68250283	hmw1C	NTHI1985	-	COG3914O	HMW1C, glycosyltransferase involved in glycosylation of HMW1A and HMW2A
+1839007..1841163	-	718	68250284	-	NTHI1986	-	COG1289S	hypothetical protein
+1841231..1841896	-	221	68250285	-	NTHI1987	-	COG3110S	hypothetical protein
+1842094..1843155	+	353	68250286	sohB	NTHI1988	-	COG0616OU	periplasmic protease
+1843439..1844017	+	192	68250287	rnfA	NTHI1989	-	COG4657C	Na(+)-translocating NADH-quinone reductase subunit E
+1844105..1844686	+	193	68250288	rnfB	NTHI1990	-	COG2878C	electron transport complex protein RnfB
+1844687..1846684	+	665	68250289	rnfC	NTHI1992	-	COG4656C	electron transport complex protein RnfC
+1846814..1847890	+	358	68250290	rnfD	NTHI1993	-	COG4658C	electron transport complex protein RnfD
+1847890..1848513	+	207	68250291	rnfG	NTHI1994	-	COG4659C	electron transport complex protein RnfG
+1848515..1849222	+	235	68250292	-	NTHI1995	-	COG4660C	electron transport complex RsxE subunit
+1849344..1849979	+	211	68250293	nth	NTHI1996	-	COG0177L	endonuclease III
+1850038..1851411	+	457	68250294	-	NTHI1997	-	COG0733R	SNF family Na+-dependent transporter
+1851435..1852490	-	351	68250295	modC	NTHI1998	-	COG4148P	molybdate transporter ATP-binding protein
+1852477..1853166	-	229	68250296	modB	NTHI1999	-	COG4149P	molybdate ABC transporter permease protein
+1853340..1854104	-	254	68250297	modA	NTHI2000	-	COG0725P	molybdate-binding periplasmic protein
+1854242..1855009	+	255	68250298	modE	NTHI2001	-	COG2005R	transcriptional regulator ModE
+1855119..1855922	-	267	68250299	lsgF	NTHI2002	-	COG0463M	UDP-galactose--lipooligosaccharide galactosyltransferase
+1855924..1856808	-	294	68250300	lsgE	NTHI2003	-	COG1216R	UDP-galactose--lipooligosaccharide galactosyltransferase
+1856820..1857593	-	257	68250301	lsgD	NTHI2004	-	COG3306M	UDP-GlcNAc--lipooligosaccharide N-acetylglucosaminyl glycosyltransferase
+1857605..1858666	-	353	68250302	lsgC	NTHI2005	-	COG0438M	UDP-galactose--lipooligosaccharide galactosyltransferase
+1858668..1859582	-	304	68250303	lsgB	NTHI2006	-	-	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase
+1859579..1860784	-	401	68250304	lsgA	NTHI2007	-	COG2244R	lipooligosaccharide flippase
+1860919..1861662	+	247	68250305	-	NTHI2008	-	COG1434S	hypothetical protein
+1864348..1865424	-	358	68250306	-	NTHI2011	-	COG0795R	permease
+1865421..1866524	-	367	68250307	-	NTHI2012	-	COG0795R	permease
+1866632..1868107	+	491	68250308	pepA	NTHI2013	-	COG0260E	leucyl aminopeptidase
+1868143..1870152	-	669	68250309	-	NTHI2014	-	COG1292M	choline-glycine betaine transporter
+1870447..1871802	-	451	68250310	qseC	NTHI2015	-	COG0642T	sensor protein QseC
+1871799..1872464	-	221	68250311	qseB	NTHI2016	-	COG0745TK	transcriptional regulatory protein
+1872528..1872893	-	121	68250312	-	NTHI2017	-	COG3111S	hypothetical protein
+1874398..1874898	-	166	68250313	crr	NTHI2020	-	COG2190G	PTS system glucose-specific transporter subunit
+1874958..1876685	-	575	68250314	ptsI	NTHI2021	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+1876765..1877022	-	85	68250315	ptsH	NTHI2022	-	COG1925G	phosphocarrier protein HPr
+1877181..1878221	-	346	68250316	engC	NTHI2023	-	COG1162R	ribosome-associated GTPase
+1878292..1878840	+	182	68250317	orn	NTHI2024	-	COG1949A	oligoribonuclease
+1879240..1880307	-	355	68250318	wecA	NTHI2025	-	COG0472M	undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+1880382..1882973	-	863	68250319	glnD	NTHI2026	-	COG2844O	PII uridylyl-transferase
+1883067..1883873	-	268	68250320	map	NTHI2027	-	COG0024J	methionine aminopeptidase
+1884009..1884353	+	114	68250321	-	NTHI2029	-	COG0316S	iron-sulfur cluster insertion protein ErpA
+1884355..1884708	+	117	68250322	-	NTHI2030	-	COG3112S	hypothetical protein
+1884715..1887060	+	781	68250323	mrcB	NTHI2031	-	COG0744M	penicillin-binding protein 1B
+1887185..1888105	+	306	68250324	hemH	NTHI2033	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+1888261..1889595	+	444	68250325	argG	NTHI2034	-	COG0137E	argininosuccinate synthase
+1889666..1890859	-	397	68250326	-	NTHI2035	-	COG1914P	manganese transporter NRAMP
+1890903..1891640	-	245	68250327	-	NTHI2036	-	COG1540R	LamB/YcsF family protein
+1891627..1892556	-	309	68250328	-	NTHI2037	-	COG1984E	allophanate hydrolase subunit 2
+1892553..1893194	-	213	68250329	-	NTHI2038	-	COG2049E	allophanate hydrolase subunit 1
+1893456..1895435	-	659	68250330	rnb	NTHI2041	-	COG4776K	exoribonuclease II
+1895533..1896420	-	295	68250331	fabI	NTHI2042	-	COG0623I	enoyl-ACP reductase
+1896500..1898083	+	527	68250332	prfC	NTHI2044	-	COG4108J	peptide chain release factor 3
+1898159..1898392	-	77	68250333	-	NTHI2045	-	-	hypothetical protein
+1898495..1898824	-	109	68250334	-	NTHI2046	-	COG1687E	branched-chain amino acid permease
+1898821..1899555	-	244	68250335	-	NTHI2047	-	COG1296E	branched-chain amino acid permease
+1899565..1900494	-	309	68250336	metR	NTHI2048	-	COG0583K	HTH-type transcriptional regulator MetR
+1906825..1907970	-	381	68250337	lldD	NTHI2049	-	COG1304C	L-lactate dehydrogenase
+1908182..1908991	-	269	68250338	murI	NTHI2050	-	COG0796M	glutamate racemase
+1909021..1911102	-	693	68250339	recG	NTHI2051	-	COG1200LK	ATP-dependent DNA helicase RecG
+1911099..1913213	-	704	68250340	spoT	NTHI2052	-	COG0317TK	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+1913286..1913552	-	88	68250341	rpoZ	NTHI2053	-	COG1758K	DNA-directed RNA polymerase subunit omega
+1913615..1914241	-	208	68250342	gmk	NTHI2054	-	COG0194F	guanylate kinase

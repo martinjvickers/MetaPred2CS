@@ -1,0 +1,752 @@
+Onion yellows phytoplasma OY-M, complete genome - 1..853092
+749 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1524	+	507	39938487	dnaA	PAM_001	-	COG0593L	chromosomal replication initiator protein
+1831..2967	+	378	39938488	dnaN	PAM_002	-	COG0592L	DNA polymerase III beta subunit
+4447..4866	+	139	39938489	-	PAM_003	-	-	hypothetical protein
+4948..5220	+	90	39938490	-	PAM_004	-	-	hypothetical protein
+5467..6222	-	251	39938491	pgpB	PAM_005	-	-	membrane-associated phospholipid phosphatase
+6431..7063	-	210	39938492	-	PAM_006	-	-	hypothetical protein
+7660..8976	+	438	39938493	folC	PAM_007	-	COG0285H	folylpolyglutamate synthase
+10428..11675	+	415	39938494	rfaG	PAM_008	-	COG0438M	1,2-diacylglycerol 3-glucosyltransferase
+12171..12509	+	112	380343397	rpsF	PAM_009	-	-	ribosomal protein S6
+12524..12868	+	114	39938496	ssb	PAM_010	-	COG0629L	single-stranded DNA-binding protein
+13006..13245	+	79	39938497	rpsR	PAM_011	-	COG0238J	ribosomal protein S18
+13316..15889	+	857	39938498	-	PAM_012	-	COG3887T	exopolyphosphatase-related protein
+15886..17229	+	447	39938499	dnaB	PAM_013	-	COG0305L	replicative DNA helicase
+17300..18355	+	351	39938500	prfA	PAM_014	-	COG0216J	protein chain release factor A
+18448..19005	+	185	39938501	sua5	PAM_015	-	COG0009J	translation factor
+19044..20015	-	323	39938502	holA	PAM_016	-	COG1466L	DNA polymerase III delta subunit
+20275..20865	+	196	39938503	-	PAM_017	-	COG0218R	hypothetical protein
+21671..23713	+	680	39938504	valS	PAM_018	-	COG0525J	valyl-tRNA synthetase
+23899..24366	+	155	39938505	-	PAM_019	-	COG4720S	hypothetical protein
+24424..26190	+	588	39938506	cbiO	PAM_020	-	COG1122P	ABC-type cobalt transport system, ATPase
+27755..28120	+	121	39938507	-	PAM_021	-	-	hypothetical protein
+28890..29273	+	127	39938508	dppB	PAM_022	-	COG0601EP	ABC-type dipeptide/oligopeptide transport system, permease component
+29578..30684	+	368	39938509	-	PAM_023	-	COG1173EP	hypothetical protein
+30946..31737	+	263	39938510	-	PAM_024	-	COG0624E	hypothetical protein
+32258..33295	+	345	39938511	dppD	PAM_025	-	COG0444EP	ABC-type dipeptide/oligopeptide transport system, ATPase component
+33626..34087	+	153	39938512	oppF	PAM_026	-	COG1123R	ABC-type dipeptide/oligopeptide transport system, ATPase component
+34179..37277	-	1032	39938513	-	PAM_027	-	COG0265O	hypothetical protein
+37635..38057	+	140	39938514	ibpA	PAM_028	-	COG0071O	molecular chaperone
+38180..38635	-	151	39938515	-	PAM_029	-	-	hypothetical protein
+38845..41607	-	920	39938516	mgtA	PAM_030	-	COG0474P	cation transport ATPase
+42625..43755	+	376	39938517	-	PAM_031	-	-	hypothetical protein
+44868..45518	+	216	39938518	-	PAM_032	-	-	hypothetical protein
+45800..46258	+	152	39938519	-	PAM_033	-	-	hypothetical protein
+46529..47068	+	179	39938520	-	PAM_034	-	-	hypothetical protein
+47948..48301	+	117	39938521	-	PAM_035	-	-	hypothetical protein
+48277..48939	+	220	39938522	-	PAM_036	-	-	hypothetical protein
+48879..49766	+	295	39938523	smc	PAM_037	-	-	chromosome segregation ATPase
+50195..50506	+	103	39938524	-	PAM_038	-	-	hypothetical protein
+50922..52589	+	555	39938525	-	PAM_039	-	-	hypothetical protein
+52707..53312	+	201	39938526	fliA	PAM_040	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+53544..53873	+	109	39938527	ssb	PAM_041	-	COG0629L	single-stranded DNA-binding protein
+54352..55011	+	219	39938528	dam	PAM_042	-	COG0338L	site-specific DNA methylase
+55120..55410	+	96	39938529	himA	PAM_043	-	COG0776L	bacterial nucleoid DNA-binding protein
+55772..56566	+	264	39938530	-	PAM_044	-	COG1222O	hypothetical protein
+56624..57805	+	393	39938531	-	PAM_045	-	-	hypothetical protein
+58212..59057	+	281	39938532	-	PAM_046	-	-	hypothetical protein
+58996..60171	+	391	39938533	-	PAM_047	-	-	hypothetical protein
+60238..60963	+	241	39938534	-	PAM_048	-	-	hypothetical protein
+61011..61388	+	125	39938535	-	PAM_049	-	-	hypothetical protein
+61925..62146	+	73	39938536	-	PAM_050	-	COG5377L	hypothetical protein
+62166..63443	+	425	39938537	-	PAM_051	-	COG0210L	hypothetical protein
+63851..65281	+	476	39938538	-	PAM_052	-	-	hypothetical protein
+65858..66352	+	164	39938539	-	PAM_053	-	-	hypothetical protein
+67342..69651	+	769	39938540	nrdA	PAM_054	-	COG0209F	ribonucleotide reductase alpha subunit
+70037..71089	+	350	39938541	nrdF	PAM_055	-	COG0208F	ribonucleotide reductase beta subunit
+73506..73904	+	132	39938542	-	PAM_056	-	-	hypothetical protein
+74018..74953	+	311	39938543	-	PAM_057	-	-	hypothetical protein
+75777..76295	+	172	39938544	mscL	PAM_058	-	COG1970M	large-conductance mechanosensitive channel
+76501..78225	+	574	39938545	mdlB	PAM_059	-	COG1132V	ABC-type multidrug/protein/lipid transport system, ATPase component
+80717..81424	+	235	39938546	-	PAM_060	-	-	hypothetical protein
+81782..82084	+	100	39938547	-	PAM_061	-	-	hypothetical protein
+83133..83315	+	60	39938548	-	PAM_062	-	COG0629L	hypothetical protein
+83594..83884	+	96	39938549	himA	PAM_063	-	COG0776L	bacterial nucleoid DNA-binding protein
+84325..86229	+	634	39938550	hflB	PAM_064	-	COG0464O	ATP-dependent Zn protease
+86315..86587	+	90	39938551	-	PAM_065	-	-	hypothetical protein
+86592..87452	+	286	39938552	-	PAM_066	-	-	hypothetical protein
+87922..88545	+	207	39938553	-	PAM_067	-	-	hypothetical protein
+88612..89337	+	241	39938554	-	PAM_068	-	-	hypothetical protein
+89402..90103	+	233	39938555	-	PAM_069	-	-	hypothetical protein
+90298..90870	+	190	39938556	-	PAM_070	-	-	hypothetical protein
+91415..92062	+	215	39938557	-	PAM_071	-	COG5377L	hypothetical protein
+92123..92512	+	129	39938558	-	PAM_072	-	COG0125F	hypothetical protein
+92749..93516	+	255	39938559	-	PAM_073	-	-	hypothetical protein
+93535..95034	+	499	39938560	dnaB	PAM_074	-	COG0305L	replicative DNA helicase
+95046..95924	+	292	39938561	-	PAM_075	-	COG0358L	hypothetical protein
+99183..100070	+	295	39938562	-	PAM_076	-	COG0834ET	hypothetical protein
+100067..101188	+	373	39938563	artM	PAM_077	-	COG0765E	ABC-type amino acid transport system, permease
+101697..103502	+	601	39938564	artM	PAM_078	-	COG0765E	ABC-type amino acid transport system, permease
+103752..104231	+	159	39938565	glnQ	PAM_079	-	COG1126E	ABC-type polar amino acid transport system, ATPase component
+104409..104654	+	81	39938566	-	PAM_080	-	-	hypothetical protein
+105231..105491	+	86	39938567	rpsT	PAM_081	-	COG0268J	ribosomal protein S20
+105664..105870	-	68	39938568	-	PAM_082	-	-	hypothetical protein
+106430..107704	+	424	39938569	serS	PAM_083	-	COG0172J	seryl-tRNA synthetase
+107898..108221	+	107	39938570	-	PAM_084	-	-	hypothetical protein
+108383..109348	+	321	39938571	-	PAM_085	-	COG1054R	hypothetical protein
+109503..109838	+	111	380343398	rplU	PAM_086	-	-	ribosomal protein L21
+109844..110179	+	111	39938573	-	PAM_087	-	COG2868J	hypothetical protein
+110181..110459	+	92	39938574	rpmA	PAM_088	-	COG0211J	ribosomal protein L27
+110486..111754	+	422	39938575	obg	PAM_089	-	COG0536R	hypothetical protein
+112097..112297	+	66	39938576	gepA	PAM_090	-	COG3600S	phage-associated protein
+113366..114295	-	309	39938577	-	PAM_091	-	-	hypothetical protein
+115631..116776	+	381	39938578	znuA	PAM_092	-	COG0803P	ABC-type Mn/Zn transport system, periplasmic Mn/Zn-binding protein
+116807..117571	+	254	39938579	znuC	PAM_093	-	COG1121P	ABC-type Mn/Zn transport system, ATPase
+117672..119831	+	719	39938580	znuB	PAM_094	-	COG1108P	ABC-type Mn/Zn transport system, permease
+120521..121441	+	306	39938581	-	PAM_095	-	-	hypothetical protein
+121578..123077	+	499	39938582	phnL	PAM_096	-	COG1136V	ABC-type transport system, involved in lipoprotein release, ATPase component
+123489..124316	+	275	39938583	nlpA	PAM_097	-	COG1464P	ABC transporter periplasmic component
+124440..124871	+	143	39938584	-	PAM_098	-	-	hypothetical protein
+124840..125193	+	117	39938585	-	PAM_099	-	-	hypothetical protein
+125336..125773	+	145	39938586	iscU	PAM_100	-	COG0822C	nifU-like protein
+125929..126663	-	244	39938587	-	PAM_101	-	COG3481R	hypothetical protein
+127074..128312	-	412	39938588	pcnB	PAM_102	-	COG0617J	tRNA nucleotidyltransferase/polyA polymerase
+128672..129157	-	161	39938589	-	PAM_103	-	COG0590FJ	cytosine/adenosine deaminase
+129216..129845	-	209	39938590	tdk	PAM_104	-	COG1435F	thymidine kinase
+129965..130246	-	93	39938591	rpmE	PAM_105	-	COG0254J	ribosomal protein L31
+130471..130659	-	62	39938592	rpmB	PAM_106	-	COG0227J	ribosomal protein L28
+131206..131559	+	117	39938593	-	PAM_107	-	-	hypothetical protein
+131721..132260	+	179	39938594	-	PAM_108	-	-	hypothetical protein
+133602..134309	+	235	39938595	-	PAM_109	-	-	hypothetical protein
+134511..135191	+	226	39938596	-	PAM_110	-	-	hypothetical protein
+135268..135834	+	188	39938597	-	PAM_111	-	-	hypothetical protein
+135841..136182	+	113	39938598	-	PAM_112	-	-	hypothetical protein
+136537..136968	+	143	39938599	-	PAM_113	-	-	hypothetical protein
+137018..137326	-	102	39938600	-	PAM_114	-	-	hypothetical protein
+137373..138002	+	209	39938601	-	PAM_115	-	-	hypothetical protein
+138038..138400	+	120	39938602	-	PAM_116	-	-	hypothetical protein
+138877..140088	+	403	39938603	hflB	PAM_117	-	COG0464O	ATP-dependent Zn protease
+140090..140833	+	247	39938604	-	PAM_118	-	-	hypothetical protein
+141035..141751	+	238	39938605	-	PAM_119	-	-	hypothetical protein
+142019..142288	+	89	39938606	groES	PAM_120	-	COG0234O	chaperonin GroES
+142480..144090	+	536	39938607	groEL	PAM_121	-	COG0459O	chaperonin GroEL
+144248..144949	+	233	39938608	amp	PAM_122	-	-	antigenic membrane protein
+145355..146122	+	255	39938609	-	PAM_123	-	COG0388R	hypothetical protein
+146315..147289	+	324	39938610	nadE	PAM_124	-	-	NAD synthase
+147401..148537	+	378	39938611	trmU	PAM_125	-	COG0482J	tRNA(5-methylaminomethyl-2-thiouridylate)
+148452..150842	+	796	39938612	spoT	PAM_126	-	COG0317TK	guanosine polyphosphate pyrophosphohydrolase/synthetase
+151153..152421	+	422	39938613	hisS	PAM_127	-	COG0124J	histidyl-tRNA synthetase
+152425..154185	+	586	39938614	aspS	PAM_128	-	COG0173J	aspartyl-tRNA synthetase
+154195..155505	+	436	39938615	mesJ	PAM_129	-	COG0037D	hypothetical protein
+155627..157651	+	674	39938616	hflB	PAM_130	-	COG0465O	ATP-dependent Zn protease
+157887..158798	+	303	39938617	rluA	PAM_131	-	COG0564J	pseudouridylate synthases
+159000..159611	+	203	39938618	abc	PAM_132	-	COG1135P	ABC-type transport system ATPase
+159694..160737	+	347	39938619	nlpA	PAM_133	-	COG1464P	ABC transporter periplasmic component
+160750..161451	+	233	39938620	-	PAM_134	-	COG2011P	ABC transporter permease
+161563..161895	+	110	39938621	-	PAM_135	-	COG3870S	hypothetical protein
+161971..162195	+	74	39938622	rpsO	PAM_136	-	COG0184J	ribosomal protein S15P/S13E
+162349..162891	+	180	39938623	-	PAM_137	-	COG0693R	hypothetical protein
+163245..163703	+	152	39938624	rplM	PAM_138	-	COG0102J	ribosomal protein L13
+163708..164100	+	130	39938625	rpsI	PAM_139	-	COG0103J	ribosomal protein S9
+164200..165549	+	449	39938626	glnS	PAM_140	-	COG0008J	glutamyl- and glutaminyl-tRNA synthetase
+165715..167031	+	438	39938627	cysS	PAM_141	-	COG0215J	cysteinyl-tRNA synthetase
+167203..168843	+	546	39938628	udk	PAM_142	-	COG0572F	uridine kinase
+169118..170422	+	434	39938629	thiI	PAM_143	-	COG0301H	thiamine biosynthesis protein
+170667..171371	+	234	39938630	spoU	PAM_144	-	COG0566J	rRNA methylase
+171465..172019	+	184	39938631	ppa	PAM_145	-	COG0221C	inorganic pyrophosphatase
+172267..172725	+	152	39938632	smpB	PAM_146	-	COG0691O	tmRNA-binding protein
+172933..174789	+	618	39938633	-	PAM_147	-	-	hypothetical protein
+175032..176105	+	357	39938634	nusA	PAM_148	-	COG0195K	transcription terminator
+176111..176368	+	85	39938635	-	PAM_149	-	COG2740K	hypothetical protein
+176528..178387	+	619	39938636	infB	PAM_150	-	COG0532J	translation initiation factor 2
+178391..178732	+	113	39938637	rbfA	PAM_151	-	COG0858J	ribosome-binding factor A
+179034..179600	+	188	39938638	pth	PAM_152	-	COG0193J	peptidyl-tRNA hydrolase
+179708..181000	-	430	39938639	-	PAM_153	-	COG1253R	hemolysin
+181476..183935	-	819	39938640	priA	PAM_154	-	COG1198L	primosomal protein N'
+184282..185001	-	239	39938641	-	PAM_155	-	COG0465O	hypothetical protein
+186032..186349	-	105	39938642	-	PAM_156	-	-	hypothetical protein
+187236..188186	-	316	39938643	-	PAM_157	-	-	hypothetical protein
+188497..189192	+	231	39938644	-	PAM_158	-	COG1272R	hemolysin III
+189434..190666	+	410	39938645	ackA	PAM_159	-	COG0282C	acetate kinase
+192132..192719	+	195	39938646	-	PAM_160	-	-	hypothetical protein
+192871..193596	-	241	39938647	-	PAM_161	-	-	hypothetical protein
+193875..194648	+	257	39938648	-	PAM_162	-	-	hypothetical protein
+194730..195371	+	213	39938649	ung	PAM_163	-	COG0692L	uracil DNA glycosylase
+195555..196007	+	150	39938650	dut	PAM_164	-	COG0756F	dUTPase
+196610..197425	+	271	39938651	rpsB	PAM_165	-	COG0052J	ribosomal protein S2
+197515..198351	+	278	39938652	tsf	PAM_166	-	COG0264J	translation elongation factor Ts
+198441..199166	+	241	39938653	pyrH	PAM_167	-	COG0528F	uridylate kinase
+199169..199723	+	184	39938654	frr	PAM_168	-	COG0233J	ribosome recycling factor
+199795..200712	+	305	39938655	cdsA	PAM_169	-	COG0575I	CDP-diglyceride synthetase
+200974..201798	+	274	39938656	tpiA	PAM_170	-	COG0149G	triosephosphate isomerase
+201977..202774	+	265	39938657	cof	PAM_171	-	COG0561R	hypothetical protein
+203036..203902	+	288	39938658	fba	PAM_172	-	COG0191G	fructose/tagatose bisphosphate aldolase
+204009..204341	+	110	39938659	-	PAM_173	-	-	hypothetical protein
+204612..205808	+	398	39938660	pgk	PAM_174	-	COG0126G	3-phosphoglycerate kinase
+205969..206976	+	335	39938661	gapA	PAM_175	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+207358..208038	+	226	39938662	-	PAM_176	-	-	hypothetical protein
+208663..209136	+	157	39938663	-	PAM_177	-	-	hypothetical protein
+209279..210967	+	562	39938664	-	PAM_178	-	COG1164E	oligoendopeptidase F
+211167..211982	+	271	39938665	cbiO	PAM_179	-	COG1122P	ABC-type cobalt transport system, ATPase
+212828..213877	+	349	39938666	cbiQ	PAM_180	-	COG0619P	ABC-type cobalt transport system, permease
+213971..215221	+	416	39938667	glyA	PAM_181	-	COG0112E	glycine hydroxymethyltransferase
+215698..216618	+	306	39938668	-	PAM_182	-	COG1162R	hypothetical protein
+216815..217906	+	363	39938669	-	PAM_183	-	COG0012J	hypothetical protein
+218019..220721	+	900	39938670	ileS	PAM_184	-	COG0060J	isoleucyl-tRNA synthetase
+220738..221556	+	272	39938671	-	PAM_185	-	COG1284S	hypothetical protein
+221711..224467	+	918	39938672	mgtA	PAM_186	-	COG0474P	cation transport ATPase
+224522..225679	-	385	39938673	-	PAM_187	-	COG2317E	Zn-dependent carboxypeptidase
+225774..226019	-	81	39938674	-	PAM_188	-	COG2317E	Zn-dependent carboxypeptidase
+226296..227099	-	267	39938675	dppC	PAM_189	-	COG1173EP	ABC-type dipeptide/oligopeptide system, permease
+227128..228054	-	308	39938676	dppB	PAM_190	-	COG0601EP	ABC-type dipeptide/oligopeptide transport system, permease component
+231479..233050	-	523	39938677	oppA	PAM_191	-	COG0747E	ABC-type dipeptide/oligopeptide transport system, periplasmic component
+233256..234059	-	267	39938678	dppD	PAM_192	-	COG0444EP	ABC-type dipeptide/oligopeptide transport system, ATPase component
+234071..234652	-	193	39938679	-	PAM_193	-	COG4608E	hypothetical protein
+235406..238492	-	1028	39938680	-	PAM_194	-	-	hypothetical protein
+238797..239279	-	160	39938681	-	PAM_195	-	-	hypothetical protein
+239527..240111	-	194	39938682	-	PAM_196	-	-	hypothetical protein
+240541..240843	+	100	39938683	-	PAM_197	-	-	hypothetical protein
+241162..241368	+	68	39938684	rpmF	PAM_198	-	COG0333J	ribosomal protein L32
+242717..243040	+	107	39938685	rpsJ	PAM_199	-	COG0051J	ribosomal protein S10
+243429..243902	+	157	39938686	rplC	PAM_200	-	COG0087J	ribosomal protein L3
+243889..244512	+	207	39938687	rplD	PAM_201	-	COG0088J	ribosomal protein L4
+244512..244802	+	96	39938688	rplW	PAM_202	-	COG0089J	ribosomal protein L23
+244862..245692	+	276	39938689	rplB	PAM_203	-	COG0090J	ribosomal protein L2
+245705..245986	+	93	39938690	rpsS	PAM_204	-	COG0185J	ribosomal protein S19
+246003..246392	+	129	39938691	rplV	PAM_205	-	COG0091J	ribosomal protein L22
+246376..247134	+	252	39938692	rpsC	PAM_206	-	COG0092J	ribosomal protein S3
+247112..247534	+	140	39938693	rplP	PAM_207	-	COG0197J	ribosomal protein L16/L10E
+247531..247851	+	106	39938694	rpmC	PAM_208	-	-	ribosomal protein L29
+247851..248114	+	87	39938695	rpsQ	PAM_209	-	COG0186J	ribosomal protein S17
+248127..248489	+	120	39938696	rplN	PAM_210	-	COG0093J	ribosomal protein L14
+248611..248850	+	79	39938697	rplX	PAM_211	-	COG0198J	ribosomal protein L24
+248866..249411	+	181	39938698	rplE	PAM_212	-	COG0094J	ribosomal protein L5
+249426..249695	+	89	39938699	rpsN	PAM_213	-	COG0199J	ribosomal protein S14
+249717..250109	+	130	39938700	rpsH	PAM_214	-	COG0096J	ribosomal protein S8
+250156..250710	+	184	39938701	rplF	PAM_215	-	COG0097J	ribosomal protein L6
+250720..251073	+	117	39938702	rplR	PAM_216	-	COG0256J	ribosomal protein L18
+251088..251603	+	171	39938703	rpsE	PAM_217	-	COG0098J	ribosomal protein S5
+251600..251797	+	65	39938704	rpmD	PAM_218	-	COG1841J	ribosomal protein L30/L7E
+251855..252235	+	126	39938705	rplO	PAM_219	-	COG0200J	ribosomal protein L15
+252238..253479	+	413	39938706	secY	PAM_220	-	COG0201U	preprotein translocase subunit SecY
+253498..254151	+	217	39938707	adk	PAM_221	-	COG0563F	adenylate kinase
+254148..254891	+	247	39938708	map	PAM_222	-	COG0024J	methionine aminopeptidase
+254967..255203	+	78	39938709	infA	PAM_223	-	COG0361J	translation initiation factor IF-1
+255216..255332	+	38	39938710	rpmJ	PAM_224	-	COG0257J	ribosomal protein L36
+255345..255710	+	121	39938711	rpsM	PAM_225	-	COG0099J	ribosomal protein S13
+255752..256138	+	128	39938712	rpsK	PAM_226	-	COG0100J	ribosomal protein S11
+256169..256912	+	247	39938713	rpoA	PAM_227	-	COG0202K	DNA-directed RNA polymerase alpha subunit
+257206..257562	+	118	39938714	rplQ	PAM_228	-	COG0203J	ribosomal protein L17
+257734..258465	+	243	39938715	truA	PAM_229	-	COG0101J	pseudouridylate synthase
+258513..259136	+	207	39938716	tmk	PAM_230	-	COG0125F	thymidylate kinase
+259133..260122	+	329	39938717	holB	PAM_231	-	COG0470L	DNA polymerase III, delta prime subunit
+260206..261063	+	285	39938718	-	PAM_232	-	COG0313R	hypothetical protein
+261149..262711	+	520	39938719	metG	PAM_233	-	COG0143J	methionyl-tRNA synthetase
+263120..263794	+	224	39938720	-	PAM_234	-	COG0465O	hypothetical protein
+263801..264769	+	322	39938721	-	PAM_235	-	COG0465O	hypothetical protein
+265227..265478	+	83	39938722	trxA	PAM_236	-	COG3118O	thioredoxin
+265512..266363	+	283	39938723	truB	PAM_237	-	COG0130J	pseudouridine synthase
+266482..267219	+	245	39938724	rsuA	PAM_238	-	COG1187J	16S rRNA pseudouridylate synthase
+267259..267930	+	223	39938725	cmk	PAM_239	-	COG0283F	cytidylate kinase
+267931..269367	+	478	39938726	-	PAM_240	-	COG1160R	hypothetical protein
+269418..270569	+	383	39938727	gpsA	PAM_241	-	COG0240C	glycerol 3-phosphate dehydrogenase
+270744..271028	+	94	39938728	himA	PAM_242	-	COG0776L	bacterial nucleoid DNA-binding protein
+271525..272415	+	296	39938729	-	PAM_243	-	-	hypothetical protein
+272498..272647	+	49	39938730	rpmG	PAM_244	-	COG0267J	ribosomal protein L33
+272915..274171	+	418	39938731	pepP	PAM_245	-	COG0006E	xaa-Pro aminopeptidase
+274923..276347	+	474	39938732	proS	PAM_246	-	COG0442J	prolyl-tRNA synthetase
+276574..276708	+	44	39938733	rpmH	PAM_247	-	COG0230J	ribosomal protein L34
+276812..277237	+	141	39938734	rnpA	PAM_248	-	COG0594J	ribonuclease P
+277256..278833	+	525	39938735	yidC	PAM_249	-	COG0706U	preprotein translocase subunit YidC
+284635..286782	+	715	39938737	pnp	PAM_251	-	COG1185J	polyribonucleotide nucleotidyltransferase
+286852..290022	+	1056	39938738	mgtA	PAM_252	-	COG0474P	cation transport ATPase
+290245..290430	+	61	39938739	rpmG	PAM_253	-	COG0267J	ribosomal protein L33
+290447..290857	+	136	39938740	secE	PAM_254	-	-	preprotein translocase subunit SecE
+290859..291473	+	204	39938741	nusG	PAM_255	-	COG0250K	transcription antiterminator
+291671..292096	+	141	39938742	rplK	PAM_256	-	COG0080J	ribosomal protein L11
+292157..292882	+	241	380343399	rplA	PAM_257	-	-	ribosomal protein L1
+292922..293431	+	169	39938744	rplJ	PAM_258	-	COG0244J	ribosomal protein L10
+293443..293853	+	136	39938745	rplL	PAM_259	-	COG0222J	ribosomal protein L7/L12
+294025..297846	+	1273	39938746	rpoB	PAM_260	-	COG0085K	DNA-directed RNA polymerase beta subunit
+297849..301910	+	1353	39938747	rpoC	PAM_261	-	COG0086K	DNA-directed RNA polymerase beta' subunit
+301931..302350	+	139	39938748	rpsL	PAM_262	-	COG0048J	ribosomal protein S12
+302439..302909	+	156	39938749	rpsG	PAM_263	-	COG0049J	ribosomal protein S7
+302934..305000	+	688	39938750	fusA	PAM_264	-	COG0480J	translation elongation factor EF-G
+305131..306315	+	394	39938751	tufB	PAM_265	-	COG0050J	translation elongation factor EF-Tu
+306887..307555	+	222	39938752	-	PAM_266	-	COG4760S	hypothetical protein
+307603..308241	-	212	39938753	gidB	PAM_267	-	COG0357M	S-adenosylmethionine-dependent
+308228..310081	-	617	39938754	gidA	PAM_268	-	COG0445D	glucose inhibited division protein A
+310138..310833	-	231	39938755	-	PAM_269	-	-	hypothetical protein
+311826..312911	+	361	39938756	-	PAM_270	-	COG1322S	hypothetical protein
+313230..313541	+	103	39938757	-	PAM_271	-	-	hypothetical protein
+314047..315633	+	528	39938758	-	PAM_272	-	COG1418R	hypothetical protein
+315658..316119	+	153	39938759	-	PAM_273	-	COG1692S	hypothetical protein
+316094..316279	+	61	39938760	-	PAM_274	-	COG1692S	hypothetical protein
+316651..317526	+	291	39938761	miaA	PAM_275	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate
+317585..318154	+	189	39938762	efp	PAM_276	-	COG0231J	translation elongation factor EF-P
+318371..319135	+	254	39938763	-	PAM_277	-	-	hypothetical protein
+319165..320052	+	295	39938764	-	PAM_278	-	COG1161R	hypothetical protein
+320143..322086	+	647	39938765	topA	PAM_279	-	COG0550L	topoisomerase IA
+322195..323790	-	531	39938766	norM	PAM_280	-	COG0534V	Na+-driven multidrug efflux pump
+324839..325837	+	332	39938767	pfkA	PAM_281	-	COG0205G	6-phosphofructokinase
+325982..327466	+	494	39938768	-	PAM_282	-	COG0534V	hypothetical protein
+327589..328869	+	426	39938769	pgi	PAM_283	-	COG0166G	glucose-6-phosphate isomerase
+329038..330330	+	430	39938770	eno	PAM_284	-	COG0148G	enolase
+330452..331990	+	512	39938771	gpmI	PAM_285	-	COG0696G	phosphoglyceromutase
+332415..333560	+	381	39938772	citS	PAM_286	-	COG3493C	malate/citrate symporter
+333629..334969	+	446	39938773	pykF	PAM_287	-	COG0469G	pyruvate kinase
+335094..336308	-	404	39938774	-	PAM_288	-	-	hypothetical protein
+336401..337345	-	314	39938775	-	PAM_289	-	-	hypothetical protein
+337963..339339	+	458	39938776	argE	PAM_290	-	COG0624E	acetylornithine deacetylase
+339373..339753	+	126	39938777	-	PAM_291	-	-	hypothetical protein
+339884..340327	+	147	39938778	argE	PAM_292	-	COG0624E	acetylornithine deacetylase
+340372..341238	+	288	39938779	thyA	PAM_293	-	COG0207F	thymidylate synthase
+341235..341726	+	163	39938780	folA	PAM_294	-	COG0262H	dihydrofolate reductase
+341720..342529	+	269	39938781	plsC	PAM_295	-	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+342630..343058	+	142	39938782	-	PAM_296	-	COG1764O	hypothetical protein
+343147..343494	-	115	39938783	-	PAM_297	-	-	hypothetical protein
+343499..343714	-	71	39938784	-	PAM_298	-	COG3763S	hypothetical protein
+343768..344328	-	186	39938785	-	PAM_299	-	COG0742L	N6-adenine-specific methylase
+344325..344924	-	199	39938786	-	PAM_300	-	COG1713H	hypothetical protein
+344911..345480	-	189	39938787	-	PAM_301	-	COG2179R	hypothetical protein
+345470..345982	-	170	39938788	greA	PAM_302	-	COG0782K	transcription elongation factor
+345993..346577	-	194	39938789	smtA	PAM_303	-	COG4122R	SAM-dependent methyltransferase
+346579..347034	-	151	39938790	-	PAM_304	-	COG0816L	Hollyday junction resolvase
+347381..349975	-	864	39938791	alaS	PAM_305	-	COG0013J	alanyl-tRNA synthetase
+350438..351805	+	455	39938792	ksgA	PAM_306	-	COG0030J	dimethyladenosine transferase
+351876..353144	-	422	39938793	hflB	PAM_307	-	COG0465O	ATP-dependent Zn protease
+353275..353958	-	227	39938794	-	PAM_308	-	-	hypothetical protein
+354084..355100	-	338	39938795	lplA	PAM_309	-	COG0095H	lipoate-protein ligase A
+356125..356589	+	154	39938796	-	PAM_310	-	-	hypothetical protein
+357507..357839	+	110	39938797	-	PAM_311	-	-	hypothetical protein
+358034..358504	+	156	39938798	-	PAM_312	-	-	hypothetical protein
+358467..359141	+	224	39938799	-	PAM_313	-	COG5280S	hypothetical protein
+359173..360414	+	413	39938800	-	PAM_314	-	-	hypothetical protein
+360616..363732	+	1038	39938801	uvrD	PAM_315	-	COG0210L	ATP-dependent DNA helicase
+363945..365318	-	457	39938802	hflB	PAM_316	-	COG0464O	ATP-dependent Zn protease
+365361..365651	-	96	39938803	himA	PAM_317	-	COG0776L	bacterial nucleoid DNA-binding protein
+366112..366591	-	159	39938804	-	PAM_318	-	COG0338L	hypothetical protein
+366900..367229	-	109	39938805	ssb	PAM_319	-	COG0629L	single-stranded DNA-binding protein
+367444..368073	-	209	39938806	fliA	PAM_320	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+368215..368709	+	164	39938807	-	PAM_321	-	-	hypothetical protein
+368724..369350	+	208	39938808	-	PAM_322	-	-	hypothetical protein
+369487..370107	+	206	39938809	fliA	PAM_323	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+370112..370441	+	109	39938810	ssb	PAM_324	-	COG0629L	single-stranded DNA-binding protein
+370495..370785	+	96	39938811	himA	PAM_325	-	COG0776L	bacterial nucleoid DNA-binding protein
+370828..372378	+	516	39938812	hflB	PAM_326	-	COG0464O	ATP-dependent Zn protease
+373206..374069	+	287	39938813	-	PAM_327	-	-	hypothetical protein
+374032..374439	+	135	39938814	-	PAM_328	-	-	hypothetical protein
+375253..375576	+	107	39938815	-	PAM_329	-	-	hypothetical protein
+376003..376815	+	270	39938816	-	PAM_330	-	-	hypothetical protein
+376958..377524	+	188	39938817	-	PAM_331	-	-	hypothetical protein
+377580..377939	+	119	39938818	-	PAM_332	-	-	hypothetical protein
+378595..379044	+	149	39938819	-	PAM_333	-	-	hypothetical protein
+381179..381676	+	165	39938820	-	PAM_334	-	COG0305L	hypothetical protein
+381801..382148	+	115	39938821	-	PAM_335	-	-	hypothetical protein
+382174..382650	+	158	39938822	-	PAM_336	-	COG0358L	hypothetical protein
+383271..384200	-	309	39938823	tra5	PAM_337	-	COG2801L	putative transposase
+384618..384992	-	124	39938824	-	PAM_338	-	-	hypothetical protein
+384989..385417	-	142	39938825	-	PAM_339	-	-	hypothetical protein
+386376..386744	-	122	39938826	-	PAM_340	-	-	hypothetical protein
+387203..387796	-	197	39938827	-	PAM_341	-	COG0305L	hypothetical protein
+388385..390145	-	586	39938828	-	PAM_342	-	COG3344L	retron-type reverse transcriptase
+390793..391398	-	201	39938829	-	PAM_343	-	-	hypothetical protein
+391588..392202	-	204	39938830	tmk	PAM_344	-	COG0125F	thymidylate kinase
+392276..392905	-	209	39938831	-	PAM_345	-	COG5377L	hypothetical protein
+393437..394282	-	281	39938832	-	PAM_346	-	-	hypothetical protein
+394311..395036	-	241	39938833	-	PAM_347	-	-	hypothetical protein
+395103..395750	-	215	39938834	smc	PAM_348	-	-	chromosome segregation ATPase
+396223..397095	-	290	39938835	-	PAM_349	-	-	hypothetical protein
+397128..397973	-	281	39938836	-	PAM_350	-	COG4372S	hypothetical protein
+398554..398871	+	105	39938837	-	PAM_351	-	-	hypothetical protein
+399066..399539	+	157	39938838	-	PAM_352	-	-	hypothetical protein
+399502..400176	+	224	39938839	-	PAM_353	-	-	hypothetical protein
+400208..401287	+	359	39938840	-	PAM_354	-	-	hypothetical protein
+401509..404625	+	1038	39938841	uvrD	PAM_355	-	COG0210L	ATP-dependent DNA helicase
+404838..406211	-	457	39938842	hflB	PAM_356	-	COG0464O	ATP-dependent Zn protease
+406254..406544	-	96	39938843	himA	PAM_357	-	COG0776L	bacterial nucleoid DNA-binding protein
+407005..407484	-	159	39938844	-	PAM_358	-	COG0338L	hypothetical protein
+407793..408122	-	109	39938845	ssb	PAM_359	-	COG0629L	single-stranded DNA-binding protein
+408337..408966	-	209	39938846	fliA	PAM_360	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+409108..409602	+	164	39938847	-	PAM_361	-	-	hypothetical protein
+409617..410243	+	208	39938848	-	PAM_362	-	-	hypothetical protein
+410380..411000	+	206	39938849	fliA	PAM_363	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+411005..411334	+	109	39938850	ssb	PAM_364	-	COG0629L	single-stranded DNA-binding protein
+411388..411678	+	96	39938851	himA	PAM_365	-	COG0776L	bacterial nucleoid DNA-binding protein
+411721..413271	+	516	39938852	hflB	PAM_366	-	COG0464O	ATP-dependent Zn protease
+414099..414962	+	287	39938853	-	PAM_367	-	-	hypothetical protein
+414925..415332	+	135	39938854	-	PAM_368	-	-	hypothetical protein
+416146..416469	+	107	39938855	-	PAM_369	-	-	hypothetical protein
+416896..417708	+	270	39938856	-	PAM_370	-	-	hypothetical protein
+417851..418417	+	188	39938857	-	PAM_371	-	-	hypothetical protein
+418473..418832	+	119	39938858	-	PAM_372	-	-	hypothetical protein
+419488..419937	+	149	39938859	-	PAM_373	-	-	hypothetical protein
+420049..420486	+	145	39938860	tmk	PAM_374	-	COG0125F	thymidylate kinase
+422068..422565	+	165	39938861	-	PAM_375	-	COG0305L	hypothetical protein
+423059..423451	+	130	39938862	-	PAM_376	-	COG0358L	hypothetical protein
+423544..424179	+	211	39938863	-	PAM_377	-	COG1196D	hypothetical protein
+424246..424584	+	112	39938864	-	PAM_378	-	-	hypothetical protein
+425341..426198	+	285	39938865	-	PAM_379	-	-	hypothetical protein
+426668..427399	+	243	39938866	smc	PAM_380	-	-	chromosome segregation ATPase
+427492..427803	+	103	39938867	-	PAM_381	-	-	hypothetical protein
+428227..428550	+	107	39938868	-	PAM_382	-	-	hypothetical protein
+428877..429335	+	152	39938869	-	PAM_383	-	-	hypothetical protein
+430013..430201	-	62	39938870	-	PAM_384	-	-	hypothetical protein
+430185..430763	-	192	39938871	-	PAM_385	-	-	hypothetical protein
+431345..431971	-	208	39938872	-	PAM_386	-	-	hypothetical protein
+432561..433439	-	292	39938873	-	PAM_387	-	COG0358L	hypothetical protein
+433451..434944	-	497	39938874	dnaB	PAM_388	-	COG0305L	replicative DNA helicase
+434946..435569	-	207	39938875	-	PAM_389	-	-	hypothetical protein
+435989..436369	-	126	39938876	-	PAM_390	-	COG0125F	hypothetical protein
+436440..437078	-	212	39938877	-	PAM_391	-	COG5377L	hypothetical protein
+437673..438128	-	151	39938878	-	PAM_392	-	-	hypothetical protein
+438220..440514	-	764	39938879	hflB	PAM_393	-	COG0464O	ATP-dependent Zn protease
+440557..440847	-	96	39938880	himA	PAM_394	-	COG0776L	bacterial nucleoid DNA-binding protein
+440956..441615	-	219	39938881	dam	PAM_395	-	COG0338L	site-specific DNA methylase
+442093..442422	-	109	39938882	ssb	PAM_396	-	COG0629L	single-stranded DNA-binding protein
+442897..443292	-	131	39938883	-	PAM_397	-	COG1191K	hypothetical protein
+443637..443972	+	111	39938884	-	PAM_398	-	COG0338L	hypothetical protein
+444553..444969	+	138	39938885	-	PAM_399	-	-	hypothetical protein
+444994..445443	+	149	39938886	-	PAM_400	-	-	hypothetical protein
+445471..445902	+	143	39938887	-	PAM_401	-	-	hypothetical protein
+445899..446189	+	96	39938888	himA	PAM_402	-	COG0776L	bacterial nucleoid DNA-binding protein
+446232..448592	+	786	39938889	hflB	PAM_403	-	COG0464O	ATP-dependent Zn protease
+448608..448931	+	107	39938890	-	PAM_404	-	-	hypothetical protein
+449258..449716	+	152	39938891	-	PAM_405	-	-	hypothetical protein
+450732..451340	-	202	39938892	tra5	PAM_406	-	-	putative transposase
+451784..452338	-	184	39938893	-	PAM_407	-	-	hypothetical protein
+453299..453898	+	199	39938894	rpoD	PAM_408	-	COG1191K	DNA-directed RNA polymerase sigma subunit
+454082..454966	+	294	39938895	dam	PAM_409	-	COG0338L	site-specific DNA methylase
+455138..455473	+	111	39938896	ssb	PAM_410	-	COG0629L	single-stranded DNA-binding protein
+457519..458022	-	167	39938897	-	PAM_411	-	-	hypothetical protein
+458035..458352	-	105	39938898	-	PAM_412	-	-	hypothetical protein
+458850..461282	-	810	39938899	uvrD	PAM_413	-	COG0210L	ATP-dependent DNA helicase
+462170..463150	-	326	39938900	-	PAM_414	-	-	hypothetical protein
+463182..463592	-	136	39938901	-	PAM_415	-	-	hypothetical protein
+463872..464291	-	139	39938902	-	PAM_416	-	-	hypothetical protein
+464516..464833	-	105	39938903	-	PAM_417	-	-	hypothetical protein
+465284..466435	-	383	39938904	-	PAM_418	-	-	hypothetical protein
+466441..467253	-	270	39938905	-	PAM_419	-	-	hypothetical protein
+467350..467559	-	69	380343400	-	PAM_755	-	-	hypothetical protein
+467641..467976	-	111	380343401	-	PAM_756	-	-	hypothetical protein
+468015..468158	-	47	380343402	-	PAM_757	-	-	hypothetical protein
+468172..468504	-	110	380343403	himA	PAM_758	-	-	bacterial nucleoid DNA-binding protein
+468563..468877	-	104	380343404	ssb	PAM_759	-	-	single-stranded DNA-binding protein
+468879..469505	-	208	380343405	rpoD	PAM_760	-	-	DNA-directed RNA polymerase sigma subunit
+469698..469946	+	82	380343406	-	PAM_761	-	-	hypothetical protein
+469952..470650	+	232	380343407	hflB	PAM_762	-	-	ATP-dependent Zn protease
+471114..473126	-	670	380343408	uvrB	PAM_763	-	-	helicase subunit of the DNA excision repair
+473494..474879	-	461	39938919	uvrC	PAM_433	-	COG0322L	nuclease subunit of the excinuclease complex
+475432..476298	+	288	39938920	pdxK	PAM_434	-	COG2240H	pyridoxal/pyridoxine/pyridoxamine kinase
+476422..477027	-	201	39938921	nfnB	PAM_435	-	COG0778C	nitroreductase
+477674..478192	+	172	39938922	-	PAM_436	-	COG0344S	hypothetical protein
+478198..478374	+	58	39938923	-	PAM_437	-	-	hypothetical protein
+478512..480527	+	671	39938924	lig	PAM_438	-	COG0272L	NAD-dependent DNA ligase
+480602..481672	+	356	39938925	-	PAM_439	-	COG1481S	hypothetical protein
+481644..482027	+	127	39938926	acpS	PAM_440	-	COG0736I	phosphopantetheinyl transferase
+482172..483515	+	447	39938927	hcaD	PAM_441	-	COG0446R	NAD-dependent dehydrogenase
+483706..484314	+	202	39938928	sodA	PAM_442	-	COG0605P	superoxide dismutase
+484321..484770	+	149	39938929	nusB	PAM_443	-	COG0781K	transcription termination factor
+485212..486027	+	271	39938930	-	PAM_444	-	-	hypothetical protein
+486559..488376	+	605	39938931	lepA	PAM_445	-	COG0481M	hypothetical protein
+488475..488885	-	136	39938932	-	PAM_446	-	-	hypothetical protein
+489196..490575	+	459	255961249	tldD	PAM_447	-	COG0312R	hypothetical protein
+490572..491948	+	458	380343409	pmbA	PAM_764	-	-	hypothetical protein
+492103..494478	-	791	39938934	lon	PAM_448	-	COG0466O	ATP-dependent Lon protease
+494565..495857	-	430	39938935	tig	PAM_449	-	COG0544O	FKBP-type peptidyl-prolyl cis-trans isomerase
+496528..499446	-	972	39938936	uvrA	PAM_450	-	COG0178L	excinuclease ATPase subunit
+500414..500767	+	117	39938937	-	PAM_451	-	-	hypothetical protein
+500774..501172	+	132	39938938	-	PAM_452	-	-	hypothetical protein
+501698..502771	+	357	39938939	srmB	PAM_453	-	COG0513LKJ	superfamily II DNA and RNA helicase
+503294..504172	+	292	39938940	nfo	PAM_454	-	COG0648L	endonuclease IV
+505066..506739	+	557	39938941	argS	PAM_455	-	COG0018J	arginyl-tRNA synthetase
+507001..508794	+	597	39938942	artM	PAM_456	-	COG0765E	ABC-type amino acid transport system, permease
+508817..510646	+	609	39938943	artI	PAM_457	-	COG0765E	ABC-type amino acid transport system, periplasmic component
+512523..512960	-	145	39938944	-	PAM_458	-	-	hypothetical protein
+512960..513976	-	338	39938945	-	PAM_459	-	-	hypothetical protein
+514166..514495	-	109	39938946	-	PAM_460	-	-	hypothetical protein
+514916..515203	-	95	39938947	-	PAM_461	-	-	hypothetical protein
+515398..515715	-	105	39938948	-	PAM_462	-	-	hypothetical protein
+516641..517093	+	150	39938949	-	PAM_463	-	-	hypothetical protein
+517096..517482	+	128	39938950	artM	PAM_464	-	COG0765E	ABC-type amino acid transport system, permease
+518128..522843	+	1571	39938951	polC	PAM_465	-	COG2176L	DNA polymerase III alpha subunit
+522922..523959	+	345	39938952	trpS	PAM_466	-	COG0180J	tryptophanyl-tRNA synthetase
+524013..524456	-	147	39938953	iscU	PAM_467	-	COG0822C	protein NifU
+524471..525676	-	401	39938954	csdB	PAM_468	-	COG0520E	selenocysteine lyase
+525753..526994	-	413	39938955	tyrS	PAM_469	-	COG0162J	tyrosyl-tRNA synthetase
+527179..527535	-	118	39938956	rplS	PAM_470	-	COG0335J	ribosomal protein L19
+527577..528305	-	242	39938957	trmD	PAM_471	-	COG0336J	tRNA-(guanine-N1)-methyltransferase
+528365..528628	-	87	39938958	rpsP	PAM_472	-	COG0228J	ribosomal protein S16
+529079..530188	-	369	39938959	prfB	PAM_473	-	COG1186J	protein chain release factor B
+530192..532699	-	835	39938960	secA	PAM_474	-	COG0653U	preprotein translocase subunit SecA
+533079..533180	+	33	39938961	-	PAM_475	-	-	hypothetical protein
+533318..533827	-	169	39938962	mutT	PAM_476	-	COG1051F	MutT/nudix family protein
+534581..535153	-	190	39938963	-	PAM_477	-	COG0465O	hypothetical protein
+536639..537271	-	210	39938964	-	PAM_478	-	-	hypothetical protein
+537294..538157	-	287	39938965	-	PAM_479	-	-	hypothetical protein
+538332..539384	-	350	39938966	hflB	PAM_480	-	COG1223R	ATP-dependent Zn protease
+540710..541201	-	163	39938967	-	PAM_481	-	-	hypothetical protein
+541409..541867	-	152	39938968	-	PAM_482	-	-	hypothetical protein
+541906..542544	-	212	39938969	-	PAM_483	-	-	hypothetical protein
+543271..543876	+	201	39938970	-	PAM_484	-	-	hypothetical protein
+544021..544533	-	170	39938971	-	PAM_485	-	-	hypothetical protein
+545398..545610	-	70	380343410	tengu	PAM_765	-	-	tengu-su inducer
+546002..546577	+	191	39938972	-	PAM_486	-	-	hypothetical protein
+546971..547669	+	232	39938973	artM	PAM_487	-	COG0765E	ABC-type amino acid transport system, permease
+547662..548408	+	248	39938974	glnQ	PAM_488	-	COG1126E	ABC-type polar amino acid transport system, ATPase component
+548612..549574	+	320	39938975	artI	PAM_489	-	COG0834ET	ABC-type amino acid transport system, periplasmic component
+549577..550311	+	244	39938976	artM	PAM_490	-	COG0765E	ABC-type amino acid transport system, permease
+550598..550903	+	101	39938977	-	PAM_491	-	-	hypothetical protein
+558252..558833	-	193	39938979	-	PAM_493	-	-	hypothetical protein
+559170..559448	-	92	39938980	artM	PAM_494	-	COG0765E	ABC-type amino acid transport system, permease
+559537..560544	-	335	39938981	artI	PAM_495	-	COG0834ET	ABC-type amino acid transport system, periplasmic component
+560833..561162	-	109	39938982	-	PAM_496	-	-	hypothetical protein
+561379..561885	+	168	39938983	-	PAM_497	-	-	hypothetical protein
+562356..564371	+	671	39938984	gyrB	PAM_498	-	COG0187L	DNA gyrase beta subunit
+564456..566963	+	835	39938985	gyrA	PAM_499	-	COG0188L	DNA gyrase alpha subunit
+567058..567558	+	166	39938986	-	PAM_500	-	COG0802R	hypothetical protein
+567555..568268	+	237	39938987	-	PAM_501	-	COG1214O	hypothetical protein
+568622..570076	+	484	39938988	-	PAM_502	-	-	hypothetical protein
+570235..570435	+	66	39938989	-	PAM_503	-	-	hypothetical protein
+570647..571102	-	151	39938990	-	PAM_504	-	-	hypothetical protein
+571147..573768	-	873	39938991	uvrD	PAM_505	-	COG0210L	ATP-dependent DNA helicase
+573949..574626	-	225	39938992	-	PAM_506	-	-	hypothetical protein
+574616..575107	-	163	39938993	-	PAM_507	-	-	hypothetical protein
+575139..575801	-	220	39938994	-	PAM_508	-	-	hypothetical protein
+576075..576248	-	57	39938995	-	PAM_509	-	-	hypothetical protein
+576443..576775	-	110	39938996	-	PAM_510	-	-	hypothetical protein
+577680..578285	+	201	39938997	fliA	PAM_511	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+578517..578846	+	109	39938998	ssb	PAM_512	-	COG0629L	single-stranded DNA-binding protein
+578883..579173	+	96	39938999	himA	PAM_513	-	COG0776L	bacterial nucleoid DNA-binding protein
+579216..581006	+	596	39939000	-	PAM_514	-	COG0464O	hypothetical protein
+582041..582913	+	290	39939001	-	PAM_515	-	-	hypothetical protein
+583668..584012	+	114	39939002	smc	PAM_516	-	-	chromosome segregation ATPase
+584078..584812	+	244	39939003	-	PAM_517	-	-	hypothetical protein
+584862..585269	+	135	39939004	-	PAM_518	-	-	hypothetical protein
+585303..585638	+	111	39939005	-	PAM_519	-	-	hypothetical protein
+586183..586833	+	216	39939006	-	PAM_520	-	COG5377L	hypothetical protein
+586909..587523	+	204	39939007	tmk	PAM_521	-	COG0125F	thymidylate kinase
+587659..588270	+	203	39939008	-	PAM_522	-	-	hypothetical protein
+588275..589774	+	499	39939009	dnaB	PAM_523	-	COG0305L	replicative DNA helicase
+589785..591110	+	441	39939010	dnaG	PAM_524	-	COG0358L	DNA primase
+591130..591768	+	212	39939011	-	PAM_525	-	-	hypothetical protein
+592342..592800	+	152	39939012	-	PAM_526	-	-	hypothetical protein
+593013..596129	-	1038	39939013	uvrD	PAM_527	-	COG0210L	ATP-dependent DNA helicase
+596565..597347	-	260	39939014	-	PAM_528	-	-	hypothetical protein
+597379..597684	-	101	39939015	-	PAM_529	-	-	hypothetical protein
+597674..598042	-	122	39939016	-	PAM_530	-	-	hypothetical protein
+598683..599015	-	110	39939017	-	PAM_531	-	-	hypothetical protein
+599487..601100	-	537	39939018	-	PAM_532	-	COG0464O	hypothetical protein
+601518..601892	-	124	39939019	-	PAM_533	-	-	hypothetical protein
+602204..602536	-	110	39939020	himA	PAM_534	-	COG0776L	bacterial nucleoid DNA-binding protein
+602609..602923	-	104	39939021	ssb	PAM_535	-	COG0629L	single-stranded DNA-binding protein
+602938..603624	-	228	39939022	fliA	PAM_536	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+603676..604047	+	123	39939023	-	PAM_537	-	-	hypothetical protein
+604274..604639	+	121	39939024	-	PAM_538	-	-	hypothetical protein
+604706..605437	+	243	39939025	-	PAM_539	-	-	hypothetical protein
+605503..605880	+	125	39939026	-	PAM_540	-	-	hypothetical protein
+605901..606668	+	255	39939027	-	PAM_541	-	-	hypothetical protein
+606915..607481	+	188	39939028	-	PAM_542	-	-	hypothetical protein
+608014..608664	+	216	39939029	-	PAM_543	-	COG5377L	hypothetical protein
+608739..609119	+	126	39939030	-	PAM_544	-	COG0125F	hypothetical protein
+610701..611198	+	165	39939031	-	PAM_545	-	COG0305L	hypothetical protein
+611695..612171	+	158	39939032	-	PAM_546	-	COG0358L	hypothetical protein
+612792..613721	-	309	39939033	tra5	PAM_547	-	COG2801L	putative transposase
+614440..614937	-	165	39939034	-	PAM_548	-	-	hypothetical protein
+614937..616262	-	441	39939035	dnaG	PAM_549	-	COG0358L	DNA primase
+616287..617783	-	498	39939036	dnaB	PAM_550	-	COG0305L	replicative DNA helicase
+617804..618409	-	201	39939037	-	PAM_551	-	-	hypothetical protein
+618799..619215	-	138	39939038	-	PAM_552	-	COG0125F	hypothetical protein
+619290..619652	-	120	39939039	-	PAM_553	-	-	hypothetical protein
+620646..621224	-	192	39939040	-	PAM_554	-	-	hypothetical protein
+622001..622333	+	110	39939041	-	PAM_555	-	-	hypothetical protein
+622528..622998	+	156	39939042	-	PAM_556	-	-	hypothetical protein
+622961..623635	+	224	39939043	-	PAM_557	-	-	hypothetical protein
+623667..624746	+	359	39939044	-	PAM_558	-	-	hypothetical protein
+624971..627511	+	846	39939045	uvrD	PAM_559	-	COG0210L	ATP-dependent DNA helicase
+627634..628083	+	149	39939046	-	PAM_560	-	-	hypothetical protein
+628484..629596	-	370	39939047	hflB	PAM_561	-	COG0464O	ATP-dependent Zn protease
+629731..630261	-	176	39939048	-	PAM_562	-	-	hypothetical protein
+630574..630864	-	96	39939049	himA	PAM_563	-	COG0776L	bacterial nucleoid DNA-binding protein
+631045..631380	-	111	39939050	ssb	PAM_564	-	COG0629L	single-stranded DNA-binding protein
+631552..632436	-	294	39939051	dam	PAM_565	-	COG0338L	site-specific DNA methylase
+632760..632996	-	78	39939052	-	PAM_566	-	COG1191K	hypothetical protein
+634664..635593	-	309	39939053	tra5	PAM_567	-	COG2801L	putative transposase
+636225..636788	-	187	39939054	-	PAM_568	-	-	hypothetical protein
+636788..638113	-	441	39939055	dnaG	PAM_569	-	COG0358L	DNA primase
+638138..639634	-	498	39939056	dnaB	PAM_570	-	COG0305L	replicative DNA helicase
+640160..640879	+	239	39939057	-	PAM_571	-	COG0305L	hypothetical protein
+640891..642216	+	441	39939058	dnaG	PAM_572	-	COG0358L	DNA primase
+642357..642983	+	208	39939059	-	PAM_573	-	-	hypothetical protein
+643423..644361	+	312	39939060	tra5	PAM_574	-	COG2801L	putative transposase
+645119..645853	+	244	39939061	-	PAM_575	-	-	hypothetical protein
+645919..646728	+	269	39939062	-	PAM_576	-	-	hypothetical protein
+646867..647355	+	162	39939063	-	PAM_577	-	-	hypothetical protein
+648148..648978	+	276	39939064	-	PAM_578	-	COG0465O	hypothetical protein
+649334..650035	-	233	39939065	QRI7	PAM_579	-	COG0533O	glycoprotein endopeptidase
+650123..650638	-	171	39939066	folK	PAM_580	-	COG0801H	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+650848..651729	-	293	39939067	folP	PAM_581	-	COG0294H	dihydropteroate synthase
+652100..652699	-	199	39939068	-	PAM_582	-	-	hypothetical protein
+652918..653784	-	288	39939069	degV	PAM_583	-	COG1307S	hypothetical protein
+653913..654704	-	263	39939070	-	PAM_584	-	COG1624S	hypothetical protein
+654894..657572	-	892	39939071	mgtA	PAM_585	-	COG0474P	cation transport ATPase
+657945..658394	-	149	39939072	rpsD	PAM_586	-	COG0522J	ribosomal protein S4 and related protein
+659141..659554	+	137	39939073	-	PAM_587	-	-	hypothetical protein
+659720..661450	-	576	39939074	artM	PAM_588	-	COG0765E	ABC-type amino acid transport system, permease
+663083..664618	+	511	39939075	lysU	PAM_589	-	COG1190J	lysyl-tRNA synthetase class II
+665045..665407	+	120	39939076	-	PAM_590	-	-	hypothetical protein
+665511..667388	+	625	39939077	dnaE	PAM_591	-	COG0587L	DNA polymerase III alpha subunit
+668644..669240	+	198	39939078	-	PAM_592	-	-	hypothetical protein
+669354..670133	+	259	39939079	-	PAM_593	-	COG0561R	hypothetical protein
+670192..671868	+	558	39939080	asnB	PAM_594	-	COG0367E	asparagine synthase
+672072..672425	+	117	39939081	-	PAM_595	-	-	hypothetical protein
+672491..673525	+	344	39939082	pheS	PAM_596	-	COG0016J	phenylalanyl-tRNA synthetase alpha subunit
+673491..674036	+	181	39939083	-	PAM_597	-	COG0073R	hypothetical protein
+674029..675957	+	642	39939084	pheT	PAM_598	-	COG0072J	phenylalanyl-tRNA synthetase beta subunit
+676146..677774	+	542	39939085	phnL	PAM_599	-	COG1136V	ABC transporter, ATPase component
+677998..679089	+	363	39939086	acoA	PAM_600	-	COG1071C	thiamine pyrophosphate-dependent dehydrogenase, E1 component alpha subunit
+679092..680066	+	324	39939087	acoB	PAM_601	-	COG0022C	thiamine pyrophosphate-dependent dehydrogenase, E1 component beta subunit
+680390..681574	+	394	39939088	aceF	PAM_602	-	COG0508C	dihydrolipoamide acyltransferase
+681596..682969	+	457	39939089	lpd	PAM_603	-	COG1249C	fatty acid/phospholipid biosynthesis enzyme
+683338..683694	+	118	39939090	-	PAM_604	-	-	hypothetical protein
+684032..684799	+	255	39939091	tatD	PAM_605	-	COG0084L	Mg-dependent DNase
+684894..685229	-	111	39939092	-	PAM_606	-	-	hypothetical protein
+685905..687005	+	366	39939093	plsX	PAM_607	-	COG0416I	fatty acid/phospholipid biosynthesis enzyme
+687002..687718	+	238	39939094	rnc	PAM_608	-	COG0571K	dsRNA-specific ribonuclease
+687660..688343	+	227	39939095	-	PAM_609	-	COG3935L	hypothetical protein
+688470..688937	+	155	39939096	-	PAM_610	-	-	hypothetical protein
+689018..690640	-	540	39939097	pyrG	PAM_611	-	COG0504F	CTP synthase
+690633..691631	-	332	39939098	psd	PAM_612	-	COG0688I	phosphatidylserine decarboxylase
+691644..692378	-	244	39939099	pssA	PAM_613	-	COG1183I	phosphatidylserine synthase
+692554..693063	-	169	39939100	-	PAM_614	-	-	hypothetical protein
+693264..693473	-	69	39939101	-	PAM_615	-	COG0718S	hypothetical protein
+693486..693980	-	164	39939102	-	PAM_616	-	-	hypothetical protein
+693977..695425	-	482	39939103	dnaX	PAM_617	-	COG2812L	DNA polymerase III, gamma/tau subunit
+697333..697932	+	199	39939104	hsdR	PAM_618	-	COG0610V	restriction enzymes type I helicase subunit
+699943..700311	+	122	39939105	hsdM	PAM_619	-	COG0286V	type I restriction-modification system methyltransferase subunit
+701859..703673	+	604	380343411	glnS	PAM_620	-	-	glutamyl- and glutaminyl-tRNA synthetase
+703793..706036	+	747	39939107	uvrD	PAM_621	-	COG0210L	ATP-dependent DNA helicase
+706378..706956	+	192	39939108	-	PAM_622	-	COG5377L	hypothetical protein
+707185..707358	+	57	39939109	rpsU	PAM_623	-	-	ribosomal protein S21
+707580..708020	+	146	39939110	-	PAM_624	-	COG0319R	hypothetical protein
+708144..709031	+	295	39939111	era	PAM_625	-	COG1159R	glycyl-tRNA synthetase
+709131..710489	+	452	39939112	GRS1	PAM_626	-	COG0423J	glycyl-tRNA synthetase, class II
+710499..712313	+	604	39939113	dnaG	PAM_627	-	COG0358L	DNA primase
+712396..713778	+	460	39939114	rpoD	PAM_628	-	COG0568K	DNA-directed RNA polymerase sigma subunit
+713780..714223	+	147	39939115	-	PAM_629	-	COG2384R	hypothetical protein
+714497..714958	-	153	39939116	hit	PAM_630	-	COG0537FGR	diadenosine tetraphosphate hydrolase
+714980..715972	-	330	39939117	-	PAM_631	-	COG1039L	ribonuclease HII Family 2
+716524..716829	-	101	39939118	-	PAM_632	-	COG1393P	hypothetical protein
+717468..719159	-	563	39939119	-	PAM_633	-	COG0595R	hypothetical protein
+719352..720158	+	268	39939120	-	PAM_634	-	COG0561R	hypothetical protein
+720990..721853	-	287	39939122	degV	PAM_636	-	COG1307S	hypothetical protein
+722189..723913	-	574	39939123	-	PAM_637	-	COG0595R	hypothetical protein
+724006..724125	+	39	39939124	-	PAM_638	-	-	hypothetical protein
+725171..725929	-	252	39939125	artM	PAM_639	-	COG0765E	ABC-type amino acid transport system, permease
+726242..727045	-	267	39939126	-	PAM_640	-	-	hypothetical protein
+727017..727391	-	124	39939127	mdoB	PAM_641	-	COG0834ET	amino acid transporter, amino acid-binding
+727774..728712	-	312	39939128	tra5	PAM_642	-	COG2801L	putative transposase
+729127..729507	-	126	39939129	-	PAM_643	-	-	hypothetical protein
+729934..731166	-	410	39939130	dnaG	PAM_644	-	COG0358L	DNA primase
+731179..732672	-	497	39939131	dnaB	PAM_645	-	COG0305L	replicative DNA helicase
+732674..733297	-	207	39939132	-	PAM_646	-	-	hypothetical protein
+733717..734097	-	126	39939133	-	PAM_647	-	COG0125F	hypothetical protein
+734168..734806	-	212	39939134	-	PAM_648	-	COG5377L	hypothetical protein
+735580..735855	-	91	39939135	-	PAM_649	-	-	hypothetical protein
+735947..736642	-	231	39939136	-	PAM_650	-	-	hypothetical protein
+736709..737332	-	207	39939137	-	PAM_651	-	-	hypothetical protein
+737802..738662	-	286	39939138	-	PAM_652	-	-	hypothetical protein
+739442..741295	-	617	39939139	-	PAM_653	-	COG0464O	hypothetical protein
+741367..741657	-	96	39939140	himA	PAM_654	-	COG0776L	bacterial nucleoid DNA-binding protein
+741787..742131	-	114	39939141	ssb	PAM_655	-	COG0629L	single-stranded DNA-binding protein
+742394..742996	-	200	39939142	fliA	PAM_656	-	COG0568K	DNA-directed RNA polymerase specialized sigma
+743087..743401	-	104	39939143	-	PAM_657	-	-	hypothetical protein
+744430..746226	-	598	39939144	hflB	PAM_658	-	COG0465O	ATP-dependent Zn protease
+746888..748141	+	417	39939145	potA	PAM_659	-	COG3842E	ABC-type spermidine/putrescine transport systems, ATPase component
+748135..748983	+	282	39939146	potB	PAM_660	-	COG1176E	ABC-type spermidine/putrescine transport system, permease component I
+748973..749977	+	334	39939147	potC	PAM_661	-	COG1177E	ABC-type spermidine/putrescine transport system, permease component II
+749974..751200	+	408	39939148	potD	PAM_662	-	COG0687E	spermidine/putrescine-binding periplasmic
+751396..752409	-	337	39939149	-	PAM_663	-	-	hypothetical protein
+752869..753312	-	147	39939150	rpt1	PAM_664	-	COG0464O	ATP-dependent 26S proteasome regulatory subunit
+754207..755922	+	571	39939151	-	PAM_665	-	COG1461R	hypothetical protein
+756675..757625	-	316	39939152	tra5	PAM_666	-	COG2801L	putative transposase
+758197..759327	+	376	39939153	clpX	PAM_667	-	COG0529P	ATP-dependent protease Clp, ATPase subunit
+759351..759710	+	119	39939154	-	PAM_668	-	-	hypothetical protein
+759809..760351	-	180	39939155	-	PAM_669	-	-	hypothetical protein
+760415..760816	-	133	39939156	-	PAM_670	-	-	hypothetical protein
+761965..762189	+	74	39939157	cspC	PAM_671	-	COG1278K	cold shock protein
+762974..763792	-	272	39939158	dnaC	PAM_672	-	COG1484L	DNA replication protein
+763875..765068	-	397	39939159	dnaB	PAM_673	-	COG3611L	replication initiation/membrane attachment
+765122..765952	-	276	39939160	nei	PAM_674	-	COG0266L	formamidopyrimidine-DNA glycosylase
+766108..767550	-	480	39939161	polA	PAM_675	-	COG0749L	DNA polymerase I
+767726..768694	-	322	39939162	exo	PAM_676	-	COG0258L	5'-3' exonuclease
+768802..769857	-	351	39939163	-	PAM_677	-	COG0464O	hypothetical protein
+770094..771374	-	426	39939164	ffh	PAM_678	-	COG0541U	signal recognition particle GTPase
+771636..772679	-	347	39939165	ftsY	PAM_679	-	COG0552U	signal recognition particle-docking protein
+773018..773539	-	173	39939166	gmk	PAM_680	-	-	guanylate kinase
+773877..774095	-	72	39939167	-	PAM_681	-	-	hypothetical protein
+774814..775392	-	192	39939168	-	PAM_682	-	-	hypothetical protein
+775705..776652	+	315	39939169	tra5	PAM_683	-	COG2801L	putative transposase
+777057..777686	-	209	39939170	-	PAM_684	-	-	hypothetical protein
+777846..779171	-	441	39939171	dnaG	PAM_685	-	COG0358L	DNA primase
+779198..780697	-	499	39939172	dnaB	PAM_686	-	COG0305L	replicative DNA helicase
+780715..781326	-	203	39939173	-	PAM_687	-	-	hypothetical protein
+781491..782120	-	209	39939174	tmk	PAM_688	-	COG0125F	thymidylate kinase
+782165..782479	-	104	39939175	-	PAM_689	-	-	hypothetical protein
+782918..783181	-	87	39939176	-	PAM_690	-	-	hypothetical protein
+783211..784008	-	265	39939177	-	PAM_691	-	-	hypothetical protein
+784089..785780	-	563	39939178	-	PAM_692	-	COG1196D	hypothetical protein
+785752..786582	-	276	39939179	smc	PAM_693	-	COG3264M	chromosome segregation ATPase
+786515..787456	-	313	39939180	-	PAM_694	-	-	hypothetical protein
+787477..788985	-	502	39939181	hflB	PAM_695	-	COG0464O	ATP-dependent Zn protease
+789226..789624	-	132	39939182	-	PAM_696	-	-	hypothetical protein
+789973..790416	-	147	39939183	-	PAM_697	-	-	hypothetical protein
+790728..791060	-	110	39939184	himA	PAM_698	-	COG0776L	bacterial nucleoid DNA-binding protein
+791133..791447	-	104	39939185	ssb	PAM_699	-	COG0629L	single-stranded DNA-binding protein
+791462..792148	-	228	39939186	fliA	PAM_700	-	COG1191K	DNA-directed RNA polymerase specialized sigma
+792359..792595	-	78	39939187	-	PAM_701	-	COG0629L	hypothetical protein
+792597..793223	-	208	39939188	rpoD	PAM_702	-	COG0568K	DNA-directed RNA polymerase sigma subunit
+794434..795207	-	257	39939189	dnaJ	PAM_703	-	COG0484O	molecular chaperone DnaJ
+795359..797224	-	621	39939190	dnaK	PAM_704	-	COG0443O	molecular chaperone DnaK
+797190..797933	-	247	39939191	grpE	PAM_705	-	COG0576O	molecular chaperone GrpE
+798155..799183	-	342	39939192	hrcA	PAM_706	-	COG1420K	heat-inducible transcription repressor
+800947..801594	+	215	39939193	-	PAM_707	-	-	hypothetical protein
+801872..802084	+	70	39939194	-	PAM_708	-	-	hypothetical protein
+802724..802924	+	66	39939195	-	PAM_709	-	-	hypothetical protein
+802998..803438	+	146	39939196	-	PAM_710	-	-	hypothetical protein
+803705..804298	+	197	39939197	-	PAM_711	-	-	hypothetical protein
+804382..804960	+	192	39939198	-	PAM_712	-	-	hypothetical protein
+805183..806277	+	364	39939199	hflB	PAM_713	-	COG0465O	ATP-dependent Zn protease
+806944..808602	+	552	39939200	srmB	PAM_714	-	COG0513LKJ	superfamily II DNA and RNA helicase
+808734..808919	-	61	39939201	-	PAM_715	-	-	hypothetical protein
+809043..809309	-	88	39939202	-	PAM_716	-	COG0468L	hypothetical protein
+809376..809729	-	117	39939203	-	PAM_717	-	COG0468L	hypothetical protein
+809984..810643	-	219	39939204	-	PAM_718	-	COG0558I	phosphatidylglycerophosphate synthase
+810624..810779	-	51	39939205	-	PAM_719	-	-	hypothetical protein
+811261..812376	-	371	39939206	citS	PAM_720	-	COG3493C	malate/citrate symporter
+812795..813967	-	390	39939207	sfcA	PAM_721	-	COG0281C	malic enzyme
+814527..814697	+	56	39939208	-	PAM_722	-	COG0358L	hypothetical protein
+814922..816133	-	403	39939209	-	PAM_723	-	COG0366G	hypothetical protein
+816154..816372	-	72	39939210	-	PAM_724	-	-	hypothetical protein
+817019..817510	-	163	39939211	-	PAM_725	-	COG2801L	hypothetical protein
+818238..818567	+	109	39939212	ssb	PAM_726	-	COG0629L	single-stranded DNA-binding protein
+819036..820409	+	457	39939213	hflB	PAM_727	-	COG0464O	ATP-dependent Zn protease
+820621..822714	-	697	39939214	-	PAM_728	-	COG0210L	hypothetical protein
+823075..823671	+	198	39939215	-	PAM_729	-	COG4869Q	hypothetical protein
+823978..825231	+	417	39939216	-	PAM_730	-	COG1078R	HD superfamily phosphohydrolase
+825338..826144	+	268	39939217	ksgA	PAM_731	-	COG0030J	dimethyladenosine transferase
+826420..826719	+	99	39939218	-	PAM_732	-	COG2088M	hypothetical protein
+826939..828939	+	666	39939219	zntA	PAM_733	-	COG2217P	cation transport ATPase
+829139..830638	-	499	39939220	norM	PAM_734	-	COG0534V	Na+-driven multidrug efflux pump
+830761..831789	-	342	39939221	-	PAM_735	-	COG0275M	hypothetical protein
+831894..832091	-	65	39939222	rpoZ	PAM_736	-	COG1758K	DNA-directed RNA polymerase subunit K/omega
+832072..832710	-	212	39939223	gmk	PAM_737	-	COG0194F	guanylate kinase
+832861..835326	-	821	39939224	leuS	PAM_738	-	COG0495J	leucyl-tRNA synthetase
+835430..835660	-	76	39939225	acpP	PAM_739	-	COG0236IQ	acyl carrier protein
+835931..836995	-	354	39939226	frvX	PAM_740	-	COG1363G	endo-1,4-beta-glucanase
+836982..837611	-	209	39939227	-	PAM_741	-	-	hypothetical protein
+837750..838373	-	207	39939228	rplT	PAM_742	-	COG0292J	ribosomal protein L20
+838388..838594	-	68	39939229	rpmI	PAM_743	-	-	ribosomal protein L35
+838727..839179	-	150	39939230	infC	PAM_744	-	COG0290J	translation initiation factor IF3
+839910..840836	-	308	39939231	thrS	PAM_745	-	COG0441J	threonyl-tRNA synthetase
+841840..842778	-	312	39939232	-	PAM_746	-	COG0618R	hypothetical protein
+842877..844259	-	460	39939233	thdF	PAM_747	-	COG0486R	tRNA modification GTPase
+844478..845446	-	322	39939234	-	PAM_748	-	COG0618R	exopolyphosphatase-related protein
+845481..847103	-	540	39939235	ugpB	PAM_749	-	COG1653G	sugar-binding periplasmic protein
+847087..847881	-	264	39939236	ugpE	PAM_750	-	COG0395G	sugar permease
+848010..848951	-	313	39939237	ugpA	PAM_751	-	COG1175G	ABC-type sugar transport system, permease
+849015..850058	-	347	39939238	malK	PAM_752	-	COG3842E	ABC-type sugar transport system, ATPase
+850309..850425	-	38	39939239	-	PAM_753	-	-	hypothetical protein
+850542..852062	-	506	39939240	asnS	PAM_754	-	COG0017J	aspartyl/asparaginyl-tRNA synthetase

@@ -1,0 +1,1999 @@
+Streptococcus agalactiae A909 chromosome, complete genome - 1..2127839
+1996 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+101..1462	+	453	76787564	dnaA	SAK_0001	-	COG0593L	chromosome replication initiator DnaA
+1617..2753	+	378	76787013	dnaN	SAK_0002	-	COG0592L	DNA polymerase III subunit beta
+2823..3704	+	293	76787923	-	SAK_0003	-	COG1597IR	diacylglycerol kinase domain-containing protein
+3714..3911	+	65	76788139	-	SAK_0004	-	COG4481S	hypothetical protein
+4113..4229	+	38	76787006	-	SAK_0005	-	-	hypothetical protein
+4473..5588	+	371	76788043	ychF	SAK_0006	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+5672..6247	+	191	76787164	pth	SAK_0007	-	COG0193J	peptidyl-tRNA hydrolase
+6244..9741	+	1165	76788164	mfd	SAK_0008	-	COG1197LK	transcription-repair coupling factor
+10032..10304	+	90	76786971	-	SAK_0009	-	COG1188J	S4 domain-containing protein
+10291..10662	+	123	76788554	-	SAK_0010	-	COG2919D	hypothetical protein
+10665..10799	+	44	76786916	-	SAK_0011	-	-	hypothetical protein
+10799..12085	+	428	76786907	-	SAK_0012	-	COG2367V	hypothetical protein
+12087..13361	+	424	76788050	tilS	SAK_0013	-	COG0037D	tRNA(Ile)-lysidine synthetase
+13366..13908	+	180	76788478	hpt	SAK_0014	-	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+13931..15907	+	658	76787819	ftsH	SAK_0015	-	COG0465O	cell division protein FtsH
+28898..30199	+	433	76788285	pcsB	SAK_0050	-	COG3883S	PcsB protein
+30323..31291	+	322	76787283	prs	SAK_0051	-	COG0462FE	ribose-phosphate pyrophosphokinase
+31399..32574	+	391	76788282	-	SAK_0052	-	COG0436E	aromatic amino acid aminotransferase
+32564..33325	+	253	76787396	recO	SAK_0053	-	COG1381L	DNA repair protein RecO
+33415..34266	+	283	76787992	-	SAK_0054	-	-	CAAX amino terminal protease
+34344..35336	+	330	76786784	plsX	SAK_0055	-	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+35347..35586	+	79	76786855	-	SAK_0056	-	COG0236IQ	acyl carrier protein
+35710..36417	+	235	76788085	purC	SAK_0057	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+36685..40296	+	1203	76787165	-	SAK_0058	-	COG0046F	phosphoribosylformylglycinamidine synthase
+40530..41984	+	484	76788351	purF	SAK_0059	-	COG0034F	amidophosphoribosyltransferase
+42012..43034	+	340	76787420	purM	SAK_0060	-	COG0150F	phosphoribosylaminoimidazole synthetase
+43202..43753	+	183	76788568	purN	SAK_0061	-	COG0299F	phosphoribosylglycinamide formyltransferase
+43773..44525	+	250	76787699	-	SAK_0062	-	COG3393R	acetyltransferase
+44545..46092	+	515	76787816	purH	SAK_0063	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+46285..47184	+	299	76786904	zooA	SAK_0064	-	COG0739M	zoocin A
+47331..48635	+	434	76788047	sip	SAK_0065	-	-	group B streptococcal surface immunogenic protein
+48882..49580	+	232	76788614	-	SAK_0066	-	COG3010G	N-acetylmannosamine-6-phosphate 2-epimerase
+49627..50943	+	438	76787512	-	SAK_0067	-	COG1653G	carbohydrate ABC transporter periplasmic-binding protein
+51031..51918	+	295	76786863	-	SAK_0068	-	COG1175G	carbohydrate ABC transporter permease
+51928..52758	+	276	76787777	-	SAK_0069	-	COG0395G	carbohydrate ABC transporter permease
+52771..53214	+	147	76787046	-	SAK_0070	-	COG2731G	hypothetical protein
+53234..53896	+	220	76787835	-	SAK_0071	-	COG5578S	hypothetical protein
+53893..54810	+	305	76786846	-	SAK_0072	-	COG0329EM	N-acetylneuraminate lyase
+54827..55708	+	293	76788207	-	SAK_0073	-	COG1940KG	ROK family protein
+55716..56693	+	325	76787295	-	SAK_0074	-	COG3458Q	acetyl xylan esterase
+56716..57519	-	267	76788393	-	SAK_0075	-	COG1737K	RpiR family phosphosugar-binding transcriptional regulator
+57802..59064	+	420	76788387	purD	SAK_0076	-	COG0151F	phosphoribosylamine--glycine ligase
+59350..59838	+	162	76786739	purE	SAK_0077	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+59825..60916	+	363	76787880	purK	SAK_0078	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit
+60969..62360	+	463	76786991	-	SAK_0079	-	-	hypothetical protein
+62382..63680	+	432	76788126	purB	SAK_0080	-	COG0015F	adenylosuccinate lyase
+63833..64741	+	302	76788347	-	SAK_0081	-	COG1813K	DNA-binding protein
+64942..65940	+	332	76787346	ruvB	SAK_0082	-	COG2255L	Holliday junction DNA helicase RuvB
+66092..66529	+	145	76787627	-	SAK_0083	-	COG0394T	low molecular weight phosphotyrosine protein phosphatase
+66536..66916	+	126	76788486	-	SAK_0084	-	COG4642S	MORN repeat-containing protein
+66913..68691	+	592	76787884	-	SAK_0085	-	COG1835I	hypothetical protein
+68961..71603	+	880	76787506	-	SAK_0086	-	COG1454C	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+71782..72798	+	338	76786859	adhA	SAK_0087	-	COG1064R	alcohol dehydrogenase
+72918..74408	+	496	76787737	thrC	SAK_0088	-	COG0498E	threonine synthase
+74513..75793	+	426	76787136	-	SAK_0089	-	COG0534V	MATE efflux family protein
+75998..76306	+	102	76788080	rpsJ	SAK_0090	-	COG0051J	30S ribosomal protein S10
+76411..77037	+	208	76786764	rplC	SAK_0091	-	COG0087J	50S ribosomal protein L3
+77061..77684	+	207	76787912	rplD	SAK_0092	-	COG0088J	50S ribosomal protein L4
+77684..77980	+	98	76787401	rplW	SAK_0093	-	COG0089J	50S ribosomal protein L23
+77998..78831	+	277	76788180	rplB	SAK_0094	-	COG0090J	50S ribosomal protein L2
+78930..79208	+	92	76787652	rpsS	SAK_0095	-	COG0185J	30S ribosomal protein S19
+79224..79568	+	114	76787677	rplV	SAK_0096	-	COG0091J	50S ribosomal protein L22
+79581..80234	+	217	76787747	rpsC	SAK_0097	-	COG0092J	30S ribosomal protein S3
+80238..80651	+	137	76787110	rplP	SAK_0098	-	COG0197J	50S ribosomal protein L16
+80661..80867	+	68	76787939	rpmC	SAK_0099	-	COG0255J	50S ribosomal protein L29
+80893..81153	+	86	76788390	rpsQ	SAK_0100	-	COG0186J	30S ribosomal protein S17
+81178..81546	+	122	76788220	rplN	SAK_0101	-	COG0093J	50S ribosomal protein L14
+81626..81931	+	101	76788646	rplX	SAK_0102	-	COG0198J	50S ribosomal protein L24
+81955..82497	+	180	76787491	rplE	SAK_0103	-	COG0094J	50S ribosomal protein L5
+82515..82700	+	61	76787920	rpsN	SAK_0104	-	COG0199J	30S ribosomal protein S14
+82855..83253	+	132	76786843	rpsH	SAK_0105	-	COG0096J	30S ribosomal protein S8
+83363..83899	+	178	76788281	rplF	SAK_0106	-	COG0097J	50S ribosomal protein L6
+84000..84356	+	118	76787371	rplR	SAK_0107	-	COG0256J	50S ribosomal protein L18
+84375..84869	+	164	76786980	rpsE	SAK_0108	-	COG0098J	30S ribosomal protein S5
+84884..85063	+	59	76788098	rpmD	SAK_0109	-	COG1841J	50S ribosomal protein L30
+85188..85628	+	146	76787679	rplO	SAK_0110	-	COG0200J	50S ribosomal protein L15
+85649..86953	+	434	76787809	secY	SAK_0111	-	COG0201U	preprotein translocase subunit SecY
+87048..87686	+	212	76787497	adk	SAK_0112	-	COG0563F	adenylate kinase
+87802..88020	+	72	76788620	infA	SAK_0113	-	COG0361J	translation initiation factor IF-1
+88180..88545	+	121	76788115	rpsM	SAK_0114	-	COG0099J	30S ribosomal protein S13
+88563..88946	+	127	161486743	rpsK	SAK_0115	-	COG0100J	30S ribosomal protein S11
+88996..89934	+	312	76787566	rpoA	SAK_0116	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+89949..90335	+	128	76788670	rplQ	SAK_0117	-	COG0203J	50S ribosomal protein L17
+97532..97963	+	143	76787389	-	SAK_0137	-	-	lipoprotein
+98033..98203	+	56	76788453	-	SAK_0138	-	-	hypothetical protein
+99119..99670	+	183	76787584	-	SAK_0139	-	COG3575S	hypothetical protein
+99890..100309	+	139	76788699	-	SAK_0140	-	-	hypothetical protein
+100509..100988	+	159	76786945	comX	SAK_0141	-	-	competence-specific sigma factor ComX
+101110..101802	+	230	76787906	-	SAK_0142	-	COG0406G	phosphoglycerate mutase
+101799..102551	+	250	76786972	-	SAK_0143	-	COG1876M	D-alanyl-D-alanine carboxypeptidase
+102548..103123	+	191	76788143	-	SAK_0144	-	COG1705NU	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+103266..104300	+	344	76787247	hrcA	SAK_0145	-	COG1420K	heat-inducible transcription repressor
+104342..104875	+	177	76788374	grpE	SAK_0146	-	COG0576O	heat shock protein GrpE
+105056..106885	+	609	76787993	dnaK	SAK_0147	-	COG0443O	molecular chaperone DnaK
+107174..108289	+	371	76787155	dnaJ	SAK_0148	-	COG0484O	molecular chaperone DnaJ
+108403..109650	+	415	76787885	-	SAK_0149	-	COG1167KE	GntR family transcriptional regulator
+109721..110497	+	258	76787537	truA	SAK_0150	-	COG0101J	tRNA pseudouridine synthase A
+110460..111218	+	252	76788690	-	SAK_0151	-	COG0351H	phosphomethylpyrimidine kinase
+111228..111692	+	154	76787611	-	SAK_0152	-	COG4720S	hypothetical protein
+111689..112258	+	189	76788470	-	SAK_0153	-	COG4475S	hypothetical protein
+112295..113137	-	280	76788055	-	SAK_0154	-	COG0668M	hypothetical protein
+113294..114577	+	427	76788439	tig	SAK_0155	-	COG0544O	trigger factor
+114766..115341	+	191	76787332	rpoE	SAK_0156	-	COG3343K	DNA-directed RNA polymerase subunit delta
+115614..117218	+	534	76788516	pyrG	SAK_0157	-	COG0504F	CTP synthetase
+117327..118253	+	308	76787607	-	SAK_0158	-	COG1073R	hypothetical protein
+118448..118894	+	148	76788466	dut	SAK_0160	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+119056..120420	+	454	76787306	radA	SAK_0161	-	COG1066O	DNA repair protein RadA
+120556..121053	+	165	76787210	-	SAK_0162	-	COG0288P	carbonic anhydrase
+121207..122526	+	439	76787855	-	SAK_0163	-	COG1249C	pyridine nucleotide-disulfide oxidoreductase
+122833..123999	-	388	76786755	-	SAK_0164	-	COG2826L	ISSag9, transposase
+124303..125739	+	478	76787836	gltX	SAK_0165	-	COG0008J	glutamyl-tRNA synthetase
+125779..126747	-	322	76787221	rbsB	SAK_0166	-	COG1879G	ribose ABC transporter ribose-binding protein
+126800..127732	-	310	76788382	rbsC	SAK_0167	-	COG1172G	ribose ABC transporter permease
+127743..129221	-	492	76787500	rbsA	SAK_0168	-	COG1129G	ribose ABC transporter ATP-binding protein
+129237..129635	-	132	76788691	rbsD	SAK_0169	-	COG1869G	D-ribose pyranase
+129610..130521	-	303	76787877	rbsK	SAK_0170	-	COG0524G	ribokinase
+130514..131500	-	328	76787493	rbsR	SAK_0171	-	COG1609K	ribose operon repressor
+131682..132770	+	362	76788108	-	SAK_0172	-	COG4591M	permease
+132770..133456	+	228	76786743	-	SAK_0173	-	COG1136V	ABC transporter ATP-binding protein
+133487..134158	+	223	76786780	-	SAK_0174	-	COG0745TK	DNA-binding response regulator
+134151..135221	+	356	76788019	-	SAK_0175	-	COG0642T	sensor histidine kinase
+135375..136565	+	396	76788242	argG	SAK_0176	-	COG0137E	argininosuccinate synthase
+136584..137972	+	462	76787571	argH	SAK_0177	-	COG0165E	argininosuccinate lyase
+138113..138994	+	293	76788266	fba	SAK_0178	-	COG0191G	fructose-bisphosphate aldolase
+139079..139996	-	305	76787360	-	SAK_0179	-	COG0039C	L-2-hydroxyisocaproate dehydrogenase
+140235..140423	+	62	76788045	rpmB	SAK_0180	-	COG0227J	50S ribosomal protein L28
+140555..140920	+	121	76787208	-	SAK_0181	-	COG1302S	hypothetical protein
+140953..142584	+	543	76787815	-	SAK_0182	-	COG1461R	DAK2 domain-containing protein
+142732..143616	+	294	76786719	-	SAK_0183	-	COG0330O	hypothetical protein
+144017..145039	+	340	76787467	-	SAK_0184	-	COG2826L	ISSag3, transposase
+145294..145512	-	72	76788493	-	SAK_0185	-	-	hypothetical protein
+145690..149184	-	1164	76787028	bag	SAK_0186	-	COG5373S	IgA-binding beta antigen
+149264..149791	-	175	76786756	-	SAK_0187	-	COG1755S	isoprenylcysteine carboxyl methyltransferase (ICMT) family protein
+149900..151240	-	446	76787872	-	SAK_0188	-	COG0642T	sensor histidine kinase
+151237..151890	-	217	76787576	-	SAK_0189	-	COG0745TK	DNA-binding response regulator
+152094..152483	-	129	76788631	-	SAK_0190	-	COG3293L	IS1381 transposase B
+152516..152899	-	127	76787216	-	SAK_0191	-	-	IS1381 transposase A
+153000..153170	-	56	76788366	-	SAK_0192	-	-	hypothetical protein
+153511..154251	-	246	76787442	-	SAK_0193	-	COG1126E	amino acid ABC transporter ATP-binding protein
+154261..155811	-	516	76788643	-	SAK_0194	-	COG0765E	His/Glu/Gln/Arg/opine amino acid ABC transporter amino acid-binding protein/permease
+155947..157821	+	624	76786795	-	SAK_0195	-	COG4907S	hypothetical protein
+157867..158706	+	279	76788658	uppP	SAK_0196	-	COG1968V	undecaprenyl pyrophosphate phosphatase
+158826..159581	+	251	76788324	-	SAK_0197	-	COG4862OTN	adaptor protein
+159583..160743	+	386	76787388	-	SAK_0198	-	COG0472M	glycosyl transferase
+160908..161678	+	256	76786975	sufC	SAK_0199	-	COG0396O	FeS assembly ATPase SufC
+161715..162977	+	420	76788150	sufD	SAK_0200	-	COG0719O	hypothetical protein
+162979..164211	+	410	76788148	sufS	SAK_0201	-	COG0520E	cysteine desulfurase
+164198..164641	+	147	76786960	-	SAK_0202	-	COG0822C	NifU family SUF system FeS assembly protein
+164741..166159	+	472	76788577	sufB	SAK_0203	-	COG0719O	hypothetical protein
+166231..167418	-	395	76787492	-	SAK_0204	-	COG1686M	D-alanyl-D-alanine carboxypeptidase
+167571..168806	-	411	76787943	-	SAK_0205	-	COG1686M	D-alanyl-D-alanine carboxypeptidase
+169047..170702	+	551	76787081	-	SAK_0206	-	COG4166E	oligopeptide ABC transporter oligopeptide-binding protein
+170821..171735	+	304	76788112	oppD	SAK_0207	-	COG0601EP	oligopeptide ABC transporter permease
+171745..172776	+	343	76786995	-	SAK_0208	-	COG1173EP	oligopeptide ABC transporter permease OppC
+172789..173835	+	348	76787350	oppD	SAK_0209	-	COG0444EP	oligopeptide ABC transporter ATP-binding protein
+173835..174767	+	310	76788337	oppF	SAK_0210	-	COG1123R	oligopeptide ABC transporter ATP-binding protein
+180308..181159	+	283	76787631	ipk	SAK_0216	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+181245..181688	+	147	76788479	adcR	SAK_0217	-	COG1846K	adc operon repressor AdcR
+181691..182401	+	236	76787726	adcC	SAK_0218	-	COG1121P	zinc ABC transporter ATP-binding protein
+182391..183203	+	270	76788538	adcB	SAK_0219	-	COG1108P	zinc ABC transporter permease
+183414..184445	-	343	76787832	-	SAK_0220	-	-	hypothetical protein
+185024..186283	-	419	76786955	tyrS	SAK_0221	-	COG0162J	tyrosyl-tRNA synthetase
+186394..188691	+	765	76788029	-	SAK_0222	-	COG0744M	penicillin-binding protein 1B
+189215..192790	+	1191	76788022	rpoB	SAK_0223	-	COG0085K	DNA-directed RNA polymerase subunit beta
+192907..196557	+	1216	76787132	rpoC	SAK_0224	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+196671..197036	+	121	76788262	-	SAK_0225	-	COG4699S	hypothetical protein
+197209..198180	+	323	76787380	comGA	SAK_0226	-	COG2804NU	competence protein ComGA
+198215..199117	+	300	76787546	-	SAK_0227	-	COG1459NU	competence protein ComG
+199114..199443	+	109	76786799	-	SAK_0228	-	COG4537U	competence protein
+199493..199831	+	112	76787930	-	SAK_0229	-	-	competence protein
+199803..200102	+	99	76787990	-	SAK_0230	-	-	hypothetical protein
+200125..200517	+	130	76788442	-	SAK_0231	-	COG4940U	hypothetical protein
+200495..200866	+	123	76787254	-	SAK_0232	-	-	hypothetical protein
+200981..201955	+	324	76788668	-	SAK_0233	-	COG0827L	hypothetical protein
+201987..203180	+	397	76787553	ackA	SAK_0234	-	COG0282C	acetate kinase
+203332..203538	+	68	76786939	-	SAK_0235	-	COG1476K	DNA-binding protein
+203597..203734	+	45	76787807	-	SAK_0236	-	-	hypothetical protein
+203775..204230	+	151	76788244	-	SAK_0237	-	-	hypothetical protein
+204299..204964	+	221	76788070	-	SAK_0238	-	-	CAAX amino terminal protease
+204985..205755	-	256	76788429	proC	SAK_0239	-	COG0345E	pyrroline-5-carboxylate reductase
+205825..206892	-	355	76786747	pepA	SAK_0240	-	COG1363G	glutamyl aminopeptidase
+207077..207316	-	79	76788199	-	SAK_0241	-	-	hypothetical protein
+207477..207761	+	94	76786860	-	SAK_0242	-	-	hypothetical protein
+207758..208081	+	107	76788232	-	SAK_0243	-	COG3118O	thioredoxin
+208114..208740	+	208	76787347	-	SAK_0244	-	COG0073R	tRNA-binding domain-containing protein
+208794..209510	-	238	76788097	-	SAK_0245	-	COG2230M	hypothetical protein
+209591..209986	+	131	76787189	ssb2	SAK_0246	-	COG0629L	single-stranded DNA-binding protein
+210110..210754	+	214	76786750	-	SAK_0247	-	COG0637R	HAD-superfamily hydrolase
+210781..212526	+	581	76787899	-	SAK_0248	-	COG3275T	sensor histidine kinase
+212507..213247	+	246	76788489	-	SAK_0249	-	COG3279KT	DNA-binding response regulator
+213417..213872	+	151	76787634	-	SAK_0250	-	COG1380R	hypothetical protein
+213874..214602	+	242	76787194	-	SAK_0251	-	COG1346M	hypothetical protein
+214845..216473	+	542	76786926	-	SAK_0252	-	COG0747E	peptide/opine/nickel uptake ABC transporter substrate-binding protein
+216586..217563	+	325	76787793	-	SAK_0253	-	COG0601EP	peptide/opine/nickel uptake ABC transporter permease
+217560..218381	+	273	76787672	-	SAK_0254	-	COG1173EP	peptide/opine/nickel uptake ABC transporter permease
+218393..219196	+	267	76788583	-	SAK_0255	-	COG0444EP	peptide/opine/nickel uptake ABC transporter ATP-binding protein
+219180..219806	+	208	76787339	-	SAK_0256	-	COG1124EP	peptide/opine/nickel uptake ABC transporter ATP-binding protein
+220089..222119	+	676	76788255	-	SAK_0257	-	COG1263G	PTS system trehalose-specific transporter subunit IIBCA
+222341..223966	+	541	76787425	-	SAK_0258	-	COG0366G	alpha amylase
+224182..226218	+	678	76787340	-	SAK_0259	-	COG3711K	PRD domain/PTS system IIA domain-containing protein
+226221..226505	+	94	76788289	-	SAK_0260	-	COG3414G	PTS system lactose/cellobiose family transporter subunit IIB
+226518..227873	+	451	76787609	ulaA	SAK_0261	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+227876..228733	+	285	76787590	-	SAK_0262	-	COG3959G	transketolase
+228730..229659	+	309	76786827	-	SAK_0263	-	COG3958G	transketolase
+229768..231027	+	419	76787947	-	SAK_0264	-	COG4097P	oxidoreductase, NAD-binding
+231115..231384	+	89	76787061	rpsO	SAK_0265	-	COG0184J	30S ribosomal protein S15
+231765..233894	+	709	76788173	pnp	SAK_0266	-	COG1185J	polynucleotide phosphorylase
+233896..234648	+	250	76787284	-	SAK_0267	-	-	hypothetical protein
+234657..235241	+	194	76788450	cysE	SAK_0268	-	COG1045E	serine O-acetyltransferase
+235251..235433	+	60	76787323	-	SAK_0269	-	-	lipoprotein
+235430..236773	+	447	76787565	cysS	SAK_0270	-	COG0215J	cysteinyl-tRNA synthetase
+236766..237152	+	128	76788467	-	SAK_0271	-	COG1939S	hypothetical protein
+237255..238010	+	251	76787268	-	SAK_0272	-	COG0566J	RNA methyltransferase
+238007..238525	+	172	76788167	-	SAK_0273	-	COG3688R	hypothetical protein
+238618..239478	+	286	76788065	-	SAK_0274	-	COG1307S	DegV family protein
+239823..239942	+	39	76787212	-	SAK_0275	-	-	hypothetical protein
+240359..240805	+	148	76787735	rplM	SAK_0276	-	COG0102J	50S ribosomal protein L13
+240826..241218	+	130	76786886	rpsI	SAK_0277	-	COG0103J	30S ribosomal protein S9
+241346..242500	-	384	76787040	-	SAK_0278	-	COG4974L	phage integrase site specific recombinase
+242569..243120	-	183	76787032	-	SAK_0279	-	-	DNA-binding protein
+243285..243578	+	97	76787469	-	SAK_0280	-	-	hypothetical protein
+243719..244000	+	93	76787143	-	SAK_0281	-	-	hypothetical protein
+244006..244332	+	108	76787770	-	SAK_0282	-	COG2188K	replication initiation factor
+244336..244977	+	213	76788628	-	SAK_0283	-	COG1393P	hypothetical protein
+245277..246152	+	291	76788061	-	SAK_0284	-	COG2946L	replication initiation factor family protein
+246188..246622	+	144	76788682	-	SAK_0285	-	-	hypothetical protein
+246939..248195	+	418	76787314	pre	SAK_0286	-	COG1196D	plasmid recombination enzyme
+248363..248833	+	156	76788426	-	SAK_0287	-	-	hypothetical protein
+249138..249473	-	111	76787010	-	SAK_0288	-	-	hypothetical protein
+249463..249750	-	95	76787058	-	SAK_0289	-	-	hypothetical protein
+250257..250547	+	96	76786778	-	SAK_0290	-	COG4842S	hypothetical protein
+250649..251056	+	135	76787459	-	SAK_0291	-	-	hypothetical protein
+251056..251616	+	186	76787959	-	SAK_0292	-	-	hypothetical protein
+251589..252269	+	226	76787353	-	SAK_0293	-	-	hypothetical protein
+252254..252640	+	128	76788523	-	SAK_0294	-	-	hypothetical protein
+252674..252955	+	93	76788352	-	SAK_0295	-	-	hypothetical protein
+253046..253144	+	32	76787460	-	SAK_0296	-	-	hypothetical protein
+253572..253676	+	34	76787030	-	SAK_0297	-	-	hypothetical protein
+253798..254658	+	286	76787889	-	SAK_0298	-	-	Rgg/GadR/MutR family transcriptional regulator
+254731..255912	+	393	76787142	-	SAK_0299	-	COG2270R	major facilitator family transporter
+255974..256624	-	216	76787433	-	SAK_0300	-	COG1174E	quaternary amine ABC transporter permease
+256625..257551	-	308	76788338	-	SAK_0301	-	COG1732M	quaternary amine ABC transporter amino acid-binding protein
+257554..258189	-	211	76787109	-	SAK_0302	-	COG1174E	quaternary amine ABC transporter permease
+258189..259334	-	381	76787179	-	SAK_0303	-	COG1125E	quaternary amine ABC transporter ATP-binding protein
+265841..267331	+	496	76787902	-	SAK_0320	-	COG3666L	ISSag8, transposase
+267582..268040	+	152	76786763	-	SAK_0321	-	-	lipoprotein
+268104..269738	+	544	76787594	-	SAK_0322	-	-	hypothetical protein
+269757..270029	+	90	76787624	-	SAK_0323	-	-	hypothetical protein
+270039..270389	+	116	76787848	-	SAK_0324	-	-	hypothetical protein
+271250..271831	+	193	76786838	-	SAK_0325	-	-	hypothetical protein
+271834..272052	+	72	76787572	-	SAK_0326	-	COG1476K	DNA-binding protein
+272625..273185	+	186	76788595	-	SAK_0327	-	COG1670J	acetyltransferase
+273285..273863	+	192	76787229	-	SAK_0328	-	COG1670J	acetyltransferase
+273906..274586	+	226	76787084	-	SAK_0329	-	COG1670J	acetyltransferase
+274846..275793	-	315	76788000	-	SAK_0330	-	-	hypothetical protein
+275790..276281	-	163	76786823	-	SAK_0331	-	COG1595K	ECF subfamily RNA polymerase sigma factor
+276861..277469	-	202	76787758	-	SAK_0332	-	COG1309K	TetR family transcriptional regulator
+277493..278590	-	365	76787642	-	SAK_0333	-	COG0842V	ABC transporter permease
+278593..279309	-	238	76788565	-	SAK_0334	-	COG1131V	ABC transporter ATP-binding protein
+279573..280256	-	227	76787729	-	SAK_0335	-	-	hypothetical protein
+280277..280588	-	103	76788063	-	SAK_0336	-	COG1695K	PadR family transcriptional regulator
+280780..281487	+	235	76787152	-	SAK_0337	-	COG0545O	hypothetical protein
+281765..282913	+	382	76787628	nagA	SAK_0338	-	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+283032..283574	+	180	76788238	-	SAK_0339	-	COG1755S	isoprenylcysteine carboxyl methyltransferase (ICMT) family protein
+283887..284801	+	304	76786925	glyQ	SAK_0340	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+284801..285442	+	213	76788687	-	SAK_0341	-	COG1182I	ACP phosphodieterase
+285446..287485	+	679	76787186	glyS	SAK_0342	-	COG0751J	glycyl-tRNA synthetase subunit beta
+287497..287754	+	85	76787953	-	SAK_0343	-	COG4224S	hypothetical protein
+287843..288106	+	87	76786949	-	SAK_0344	-	COG3326S	hypothetical protein
+288221..289729	+	502	76788048	glpK	SAK_0345	-	COG0554C	glycerol kinase
+289742..291571	+	609	76788279	glpO	SAK_0346	-	COG0578C	glycerol-3-phosphate oxidase
+291583..292281	+	232	76788051	glpF	SAK_0347	-	COG0580G	glycerol uptake facilitator protein
+292369..293706	+	445	76786892	-	SAK_0348	-	COG0446R	pyridine nucleotide-disulfide oxidoreductase
+293697..295127	+	476	76787740	-	SAK_0349	-	COG3711K	hypothetical protein
+295252..297237	+	661	76787695	tkt	SAK_0350	-	COG0021G	transketolase
+297450..297755	+	101	76788550	-	SAK_0351	-	-	hypothetical protein
+297775..298509	+	244	76787670	-	SAK_0352	-	COG1131V	ABC transporter ATP-binding protein
+298513..300117	+	534	76788383	-	SAK_0353	-	-	hypothetical protein
+300325..301710	-	461	76787362	-	SAK_0354	-	COG1263G	PTS system transporter subunit IIBC
+301851..302654	+	267	76788341	proB	SAK_0355	-	COG0263E	gamma-glutamyl kinase
+302664..303917	+	417	76787205	proA	SAK_0356	-	COG0014E	gamma-glutamyl phosphate reductase
+304000..304947	+	315	76788170	mraW	SAK_0357	-	COG0275M	S-adenosyl-methyltransferase MraW
+304962..305288	+	108	76787056	-	SAK_0358	-	COG4839D	cell division protein FtsL
+305397..307550	+	717	76787444	pbpX	SAK_0359	-	COG0768M	penicillin-binding protein 2X
+307552..308562	+	336	76788318	mraY	SAK_0360	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+308660..310003	+	447	76787716	-	SAK_0361	-	COG0513LKJ	DEAD/DEAH box helicase
+310141..310953	+	270	76787879	-	SAK_0362	-	COG0834ET	polar amino acid ABC transporter amino acid-binding protein
+311048..311851	+	267	76786946	-	SAK_0363	-	COG0765E	polar amino acid ABC transporter permease
+311851..312594	+	247	76787882	-	SAK_0364	-	COG1126E	polar amino acid ABC transporter ATP-binding protein
+312716..312940	+	74	76787139	-	SAK_0365	-	-	hypothetical protein
+313009..313923	+	304	76788424	trxB	SAK_0366	-	COG0492O	thioredoxin-disulfide reductase
+314081..315541	+	486	76788094	-	SAK_0367	-	COG1488H	nicotinate phosphoribosyltransferase
+315538..316359	+	273	76787651	nadE	SAK_0368	-	COG0171H	NAD synthetase
+316472..317806	+	444	76788509	pepC	SAK_0369	-	COG3579E	aminopeptidase
+317852..320098	-	748	76787392	-	SAK_0370	-	COG0744M	pencillin-binding protein
+320085..320684	-	199	76788277	recU	SAK_0371	-	COG3331R	Holliday junction-specific endonuclease
+320759..321277	+	172	76787461	-	SAK_0372	-	COG4474S	hypothetical protein
+321398..321730	+	110	76788327	-	SAK_0373	-	COG3599D	cell division protein GpsB
+322200..323354	+	384	76788104	-	SAK_0374	-	COG0116L	hypothetical protein
+323367..324830	+	487	76786974	-	SAK_0375	-	-	hypothetical protein
+325055..325537	-	160	76787743	luxS	SAK_0376	-	COG1854T	S-ribosylhomocysteinase
+325726..327333	+	535	76787588	-	SAK_0377	-	COG1418R	hypothetical protein
+327462..328358	+	298	76788694	-	SAK_0378	-	COG1131V	ABC transporter ATP-binding protein
+328345..329085	+	246	76787673	-	SAK_0379	-	COG0842V	hypothetical protein
+329082..330167	+	361	76787343	-	SAK_0380	-	COG4585T	hypothetical protein
+330169..330759	+	196	76788230	-	SAK_0381	-	COG2197TK	LuxR family transcriptional regulator
+330809..331513	+	234	76787818	-	SAK_0382	-	COG3548S	hypothetical protein
+331680..332309	+	209	76787204	gmk	SAK_0383	-	COG0194F	guanylate kinase
+332332..332646	+	104	76787713	rpoZ	SAK_0384	-	COG1758K	DNA-directed RNA polymerase subunit omega
+332720..335110	+	796	76788499	priA	SAK_0385	-	COG1198L	primosome assembly protein PriA
+335157..336092	+	311	76788249	fmt	SAK_0386	-	COG0223J	methionyl-tRNA formyltransferase
+336082..337404	+	440	76787603	sun	SAK_0387	-	COG0144J	sun protein
+337442..338179	+	245	76787637	stp1	SAK_0388	-	COG0631T	serine/threonine protein phosphatase Stp1
+338179..340134	+	651	76788494	stk1	SAK_0389	-	COG0515RTKL	serine/threonine protein kinase Stk1
+340295..340990	+	231	76788446	-	SAK_0390	-	COG4758S	hypothetical protein
+340987..342006	+	339	76788059	-	SAK_0391	-	COG4585T	sensor histidine kinase
+341999..342640	+	213	76788056	-	SAK_0392	-	COG2197TK	LuxR family transcriptional regulator
+342682..344082	+	466	76787428	-	SAK_0393	-	COG0652O	Cof-like hydrolase/peptidyl-prolyl cis-trans isomerase domain-containing protein
+344066..344440	+	124	76788688	-	SAK_0394	-	COG1098J	hypothetical protein
+344487..345263	-	258	76787302	-	SAK_0395	-	COG1180O	pyruvate formate-lyase-activating enzyme
+345384..346139	+	251	76786894	-	SAK_0396	-	COG1349KG	DeoR family transcriptional regulator
+346258..347241	+	327	76788049	-	SAK_0397	-	COG2390K	SorC family transcriptional regulator
+347445..347768	+	107	76786781	-	SAK_0398	-	COG1447G	PTS system lactose/cellobiose family transporter subunit IIA
+347785..348105	+	106	76788663	-	SAK_0399	-	COG1440G	PTS system lactose/cellobiose family transporter subunit IIB
+348107..349408	+	433	76788484	-	SAK_0400	-	COG1455G	PTS system lactose/cellobiose family transporter subunit IIC
+349589..352045	+	818	76787533	-	SAK_0401	-	COG1882C	formate acetyltransferase 2
+352055..352723	+	222	76788400	-	SAK_0402	-	COG0176G	fructose-6-phosphate aldolase
+352791..353879	+	362	76787243	gldA	SAK_0403	-	COG0371C	glycerol dehydrogenase
+354031..354957	-	308	76787456	-	SAK_0404	-	COG0031E	cysteine synthase/cystathionine beta-synthase
+355048..355692	-	214	76787073	-	SAK_0405	-	COG1739S	hypothetical protein
+355748..357037	+	429	76788009	-	SAK_0406	-	COG4098L	competence protein ComFA
+357037..357702	+	221	76787424	-	SAK_0407	-	COG1040R	competence protein ComFC
+357779..358333	+	184	76787963	yfiA	SAK_0408	-	COG1544J	ribosomal subunit interface protein
+363873..365225	-	450	76787071	-	SAK_0414	-	COG0527E	aspartate kinase
+365319..365969	+	216	76787683	-	SAK_0415	-	COG0637R	HAD-superfamily hydrolase
+366106..366897	+	263	76788571	-	SAK_0416	-	COG1024I	enoyl-CoA hydratase
+366993..367427	+	144	76787026	-	SAK_0417	-	COG1846K	MarR family transcriptional regulator
+367427..368398	+	323	76787801	fabH	SAK_0418	-	COG0332I	3-oxoacyl-ACP synthase
+368456..368680	+	74	76787235	acpP	SAK_0419	-	COG0236IQ	acyl carrier protein
+368835..369794	+	319	76788410	fabK	SAK_0420	-	COG2070R	enoyl-ACP reductase
+369814..370740	+	308	76788099	fabD	SAK_0421	-	COG0331I	ACP S-malonyltransferase
+370749..371483	+	244	76788265	fabG	SAK_0422	-	COG1028IQR	3-ketoacyl-ACP reductase
+371499..372731	+	410	76787402	fabF	SAK_0423	-	COG0304IQ	3-oxoacyl-ACP synthase
+372733..373233	+	166	76787890	accB	SAK_0424	-	COG0511I	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+373230..373652	+	140	76787719	fabZ	SAK_0425	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+373690..375060	+	456	76787868	accC	SAK_0426	-	COG0439I	acetyl-CoA carboxylase biotin carboxylase subunit
+375069..375944	+	291	76786983	accD	SAK_0427	-	COG0777I	acetyl-CoA carboxylase subunit beta
+375937..376710	+	257	76787996	accA	SAK_0428	-	COG0825I	acetyl-CoA carboxylase subunit alpha
+377180..377812	+	210	76787129	-	SAK_0429	-	-	hypothetical protein
+377858..379135	-	425	76787984	serS	SAK_0430	-	COG0172J	seryl-tRNA synthetase
+379501..380493	+	330	76786804	-	SAK_0431	-	COG3274S	hypothetical protein
+380531..380833	-	100	76787865	-	SAK_0432	-	COG4687S	hypothetical protein
+381012..381923	-	303	76788575	-	SAK_0433	-	COG3716G	PTS system mannose/fructose/sorbose family IIDsubunit
+381938..382750	-	270	76787659	-	SAK_0434	-	COG3715G	PTS system lactose/cellobiose family transporter subunit IIC
+382783..383793	-	336	76788411	-	SAK_0435	-	COG3444G	PTS system mannose/fructose/sorbose family transporter subunit IIA
+384095..384907	-	270	76787060	-	SAK_0436	-	COG0561R	cof family hydrolase
+384996..385580	+	194	76788188	-	SAK_0437	-	-	hypothetical protein
+385670..386281	+	203	76786758	-	SAK_0438	-	COG4330S	hypothetical protein
+386573..387805	+	410	76788574	-	SAK_0439	-	COG2252R	AzgA family purine transporter
+387888..388397	+	169	76787736	-	SAK_0440	-	COG0802R	hypothetical protein
+388390..388911	+	173	76786869	-	SAK_0441	-	COG1670J	acetyltransferase
+388920..390227	+	435	76788007	-	SAK_0442	-	COG1316K	hypothetical protein
+390291..390587	-	98	76787160	-	SAK_0443	-	-	hypothetical protein
+390584..391003	-	139	76787274	-	SAK_0444	-	COG0537FGR	HIT family protein
+391339..391842	+	167	76787426	-	SAK_0445	-	-	hypothetical protein
+392151..392876	+	241	76788566	ecsA	SAK_0446	-	COG1131V	ABC transporter ATP-binding protein
+392878..393912	+	344	76786938	-	SAK_0447	-	COG4473U	ABC transporter permease
+393970..394770	+	266	76787812	-	SAK_0448	-	COG0510M	hypothetical protein
+394760..395395	+	211	76788052	trmB	SAK_0449	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+395978..396361	+	127	76786908	-	SAK_0451	-	COG0779S	hypothetical protein
+396397..397548	+	383	76788260	nusA	SAK_0452	-	COG0195K	transcription elongation factor NusA
+397570..397866	+	98	76787105	ylxR	SAK_0453	-	COG2740K	hypothetical protein
+397859..398161	+	100	76788527	-	SAK_0454	-	COG1358J	hypothetical protein
+398181..400964	+	927	76787439	infB	SAK_0455	-	COG0532J	translation initiation factor IF-2
+401073..401423	+	116	76788091	rbfA	SAK_0456	-	COG0858J	ribosome-binding factor A
+401507..402511	-	334	76787206	-	SAK_0457	-	COG0657I	GDXG lipolytic enzyme family protein
+402675..403091	+	138	76787636	copY	SAK_0458	-	COG3682K	transcriptional repressor CopY
+403104..405338	+	744	76786753	copA	SAK_0459	-	COG2217P	copper-translocating P-type ATPase
+405379..405585	+	68	76787387	-	SAK_0460	-	COG2608P	copper transporter copper-binding protein
+405695..406309	+	204	76788505	-	SAK_0461	-	COG2860S	hypothetical protein
+406324..407136	+	270	76787344	-	SAK_0462	-	COG0561R	cof family hydrolase
+407249..409891	+	880	76786985	polA	SAK_0463	-	COG0749L	DNA polymerase I
+409921..410361	+	146	76787641	-	SAK_0464	-	COG1832R	CoA-binding domain-containing protein
+410443..410922	+	159	76788267	-	SAK_0465	-	COG0735P	FUR family transcriptional regulator
+411075..412640	+	521	76787504	-	SAK_0466	-	-	cell wall surface anchor family protein
+412753..413439	+	228	76787873	-	SAK_0467	-	COG0745TK	DNA-binding response regulator
+413441..414478	+	345	76786831	-	SAK_0468	-	COG5002T	sensor histidine kinase
+414492..415232	-	246	76788135	-	SAK_0469	-	COG5523S	hypothetical protein
+415419..416561	+	380	76787044	tgt	SAK_0470	-	COG0343J	queuine tRNA-ribosyltransferase
+416668..416979	+	103	76787259	-	SAK_0471	-	COG4357S	hypothetical protein
+416986..417525	+	179	76786715	-	SAK_0472	-	COG1268R	BioY family protein
+417664..418440	+	258	76788127	-	SAK_0473	-	COG1234R	metallo-beta-lactamase
+418440..418946	+	168	76788440	-	SAK_0474	-	COG0590FJ	cytidine/deoxycytidylate deaminase
+419218..420567	+	449	76787153	pgi	SAK_0475	-	COG0166G	glucose-6-phosphate isomerase
+420889..421416	+	175	76787825	-	SAK_0476	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+421413..422084	+	223	76786958	-	SAK_0477	-	COG0705R	rhomboid family protein
+422216..423259	+	347	76787579	-	SAK_0478	-	COG1744R	bmp family protein
+423350..424249	-	299	76788651	galU	SAK_0479	-	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+424286..425302	-	338	76787440	gpsA	SAK_0480	-	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+425472..425801	+	109	76788039	rnpA	SAK_0481	-	COG0594J	ribonuclease P
+425814..426629	+	271	76787291	-	SAK_0482	-	COG0706U	membrane protein OxaA
+426637..427458	+	273	76788459	-	SAK_0483	-	COG1847R	R3H domain-containing protein
+433180..433713	-	177	76787232	-	SAK_0492	-	COG3557J	hypothetical protein
+433797..434573	-	258	76788659	recX	SAK_0493	-	COG2137R	recombination regulator RecX
+434672..436027	+	451	76787486	rumA	SAK_0494	-	COG2265J	23S rRNA (uracil-5-)-methyltransferase RumA
+436296..437060	+	254	76788032	-	SAK_0495	-	COG2820F	hypothetical protein
+437094..437522	+	142	76786898	-	SAK_0496	-	COG2153R	acetyltransferase
+441613..442521	+	302	76787501	-	SAK_0498	-	COG0463M	glycosyl transferase
+443076..444086	+	336	76788476	nrdF	SAK_0499	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+444087..444500	+	137	76787554	nrdI	SAK_0500	-	COG1780F	ribonucleotide reductase stimulatory protein
+444502..446670	+	722	76788702	-	SAK_0501	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+446733..449900	+	1055	76786767	-	SAK_0502	-	-	hypothetical protein
+449913..450302	+	129	76787509	-	SAK_0503	-	COG3576R	pyridoxamine 5'-phosphate oxidase
+450375..450911	+	178	76787008	-	SAK_0504	-	COG2963L	IS861, transposase orfA
+450887..451720	+	277	76787786	-	SAK_0505	-	COG2801L	IS861, transposase orfB
+451781..452239	-	152	76788401	-	SAK_0506	-	COG3708S	hypothetical protein
+452511..452633	-	40	76786979	-	SAK_0507	-	-	hypothetical protein
+452633..452794	-	53	76788640	-	SAK_0508	-	-	hypothetical protein
+452881..453198	-	105	76787526	-	SAK_0509	-	COG0599S	4-carboxymuconolactone decarboxylase
+453222..453617	-	131	76786833	-	SAK_0510	-	COG1917S	cupin
+455178..456020	-	280	76788197	-	SAK_0513	-	COG0656R	aldo/keto reductase
+456105..456968	-	287	76787255	-	SAK_0514	-	COG1230P	cation efflux transporter
+457100..457624	+	174	76787413	-	SAK_0515	-	COG1309K	TetR family transcriptional regulator
+457819..459012	-	397	76788403	-	SAK_0516	-	COG2207K	AraC family transcriptional regulator
+459256..462318	+	1020	76787513	-	SAK_0517	-	-	C protein alpha-antigen
+463652..463957	-	101	76788313	-	SAK_0520	-	COG1917S	hypothetical protein
+463959..464297	-	112	76787399	-	SAK_0521	-	COG1917S	hypothetical protein
+464318..465082	-	254	76788082	-	SAK_0522	-	COG2226H	hypothetical protein
+465273..467333	+	686	76786733	-	SAK_0523	-	COG3711K	PTS system IIA domain-containing protein
+467448..467897	+	149	76788610	-	SAK_0524	-	COG1762GT	PTS system galactitol-specific transporter subunit IIA
+467916..468194	+	92	76787561	-	SAK_0525	-	COG3414G	PTS system galactitol-specific transporter subunit IIB
+468206..469543	+	445	76787647	-	SAK_0526	-	COG3775G	PTS system galactitol-specific transporter subunit IIC
+469566..470396	+	276	76788460	rhaD	SAK_0527	-	COG0235G	rhamnulose-1-phosphate aldolase
+470531..470995	+	154	76787334	-	SAK_0528	-	COG1762GT	PTS system galactitol-specific transporter subunit IIA
+471008..472339	+	443	76787338	-	SAK_0529	-	COG3775G	PTS system galactitol-specific transporter subunit IIC
+472341..472625	+	94	76786964	-	SAK_0530	-	COG3414G	PTS system galactitol-specific transporter subunit IIB
+472910..473740	-	276	76787562	-	SAK_0531	-	COG2207K	AraC family transcriptional regulator
+473979..475256	+	425	76787738	-	SAK_0532	-	COG1653G	sugar ABC transporter sugar-binding protein
+475340..476230	+	296	76786956	-	SAK_0533	-	COG1175G	sugar ABC transporter permease
+476244..477077	+	277	76788427	-	SAK_0534	-	COG0395G	ABC transporter permease
+477087..479288	+	733	76787116	-	SAK_0535	-	COG3345G	alpha-galactosidase
+480563..482044	+	493	76788201	galT	SAK_0537	-	COG4468G	galactose-1-phosphate uridylyltransferase
+482046..483041	+	331	76787113	galE	SAK_0538	-	COG1087M	UDP-glucose 4-epimerase
+483167..484036	+	289	76787717	-	SAK_0539	-	COG2017G	hypothetical protein
+484041..484424	+	127	76786834	-	SAK_0540	-	-	IS1381 transposase A
+484457..484846	+	129	76787257	-	SAK_0541	-	COG3293L	IS1381 transposase B
+484866..485060	+	64	76788578	-	SAK_0542	-	COG2017G	hypothetical protein
+485251..485505	+	84	76787016	-	SAK_0543	-	-	hypothetical protein
+485614..485925	+	103	76788111	-	SAK_0544	-	-	hypothetical protein
+486193..486771	+	192	76787104	-	SAK_0545	-	COG1670J	acetyltransferase
+486768..487460	+	230	76788042	-	SAK_0546	-	-	hypothetical protein
+487482..490136	+	884	76786857	valS	SAK_0547	-	COG0525J	valyl-tRNA synthetase
+490372..491301	-	309	76787147	-	SAK_0548	-	-	hypothetical protein
+491718..492677	+	319	76787333	-	SAK_0549	-	COG0673R	Gfo/Idh/MocA family oxidoreductase
+492838..493740	+	300	76788252	-	SAK_0550	-	COG0598P	magnesium/cobalt transporter CorA
+493900..494964	+	354	76787097	-	SAK_0551	-	COG2315S	hypothetical protein
+495079..496071	+	330	76787967	asnA	SAK_0552	-	COG2502E	asparagine synthetase AsnA
+496116..496565	-	149	76788648	-	SAK_0553	-	-	hypothetical protein
+496697..497236	+	179	76788177	-	SAK_0554	-	COG0742L	methyltransferase
+497535..498020	+	161	76788431	coaD	SAK_0555	-	COG0669H	phosphopantetheine adenylyltransferase
+498010..499083	+	357	76787581	-	SAK_0556	-	COG3480T	hypothetical protein
+499158..500492	+	444	76788696	-	SAK_0557	-	COG0737F	Ser/Thr protein phosphatase
+500561..501139	+	192	76787708	-	SAK_0558	-	COG4470S	hypothetical protein
+501190..502296	+	368	76787054	-	SAK_0559	-	COG0820R	ribosomal RNA large subunit methyltransferase N
+502296..502811	+	171	76787256	-	SAK_0560	-	COG4767V	VanZ family protein
+503007..504752	+	581	76786773	-	SAK_0561	-	COG1132V	ABC transporter permease/ATP-binding protein
+504742..506481	+	579	76788196	-	SAK_0562	-	COG1132V	ABC transporter permease/ATP-binding protein
+506609..507175	+	188	76786963	-	SAK_0563	-	COG0512EH	anthranilate synthase component II
+507187..508677	-	496	76788541	-	SAK_0564	-	COG3666L	ISSag8, transposase
+508803..509342	-	179	76787519	-	SAK_0565	-	COG1268R	BioY family protein
+509343..510335	-	330	76788432	bioB	SAK_0566	-	COG0502H	biotin synthetase
+510460..510954	+	164	76787261	-	SAK_0567	-	-	hypothetical protein
+510964..512079	+	371	76788345	-	SAK_0568	-	COG0183I	acetyl-CoA acetyltransferase
+512072..513301	+	409	76788120	-	SAK_0569	-	COG0318IQ	hypothetical protein
+513414..514046	+	210	76786990	nth	SAK_0570	-	COG0177L	endonuclease III
+514047..514436	-	129	76788443	-	SAK_0571	-	-	A24 family peptidase
+514597..514806	+	69	76787187	-	SAK_0572	-	COG4483S	hypothetical protein
+514803..515771	+	322	76788517	-	SAK_0573	-	COG1940KG	glucokinase
+515783..516163	+	126	76787363	-	SAK_0574	-	COG0607P	rhodanese-like domain-containing protein
+516395..518236	+	613	76788669	typA	SAK_0575	-	COG1217T	GTP-binding protein TypA
+518281..518526	+	81	76787701	-	SAK_0576	-	-	hypothetical protein
+518656..520011	+	451	76787986	murD	SAK_0577	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+520014..521090	+	358	76787694	murG	SAK_0578	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+521094..522230	+	378	76788412	divIB	SAK_0579	-	COG1589M	cell division protein DivIB
+522502..523875	+	457	76787282	ftsA	SAK_0580	-	COG0849D	cell division protein FtsA
+523897..525177	+	426	76786789	ftsZ	SAK_0581	-	COG0206D	cell division protein FtsZ
+525183..525857	+	224	76788184	-	SAK_0582	-	COG0325R	hypothetical protein
+525869..526474	+	201	76787498	-	SAK_0583	-	COG1799S	hypothetical protein
+526477..526731	+	84	76787858	-	SAK_0584	-	-	hypothetical protein
+526733..527521	+	262	76787217	-	SAK_0585	-	COG2302S	S4 domain-containing protein
+527531..528301	+	256	76788602	-	SAK_0586	-	COG3599D	cell division protein DivIVA
+528586..531378	+	930	76788204	ileS	SAK_0587	-	COG0060J	isoleucyl-tRNA synthetase
+531495..531797	-	100	76787312	-	SAK_0588	-	-	hypothetical protein
+531861..532316	-	151	76787987	-	SAK_0589	-	COG0494LR	NUDIX family hydrolase
+532502..534763	-	753	76787618	clpE	SAK_0590	-	COG0542O	ATP-dependent Clp protease, ATP-binding subunit ClpE
+535061..535291	+	76	76788482	-	SAK_0591	-	COG4703S	hypothetical protein
+535433..536125	+	230	76787397	-	SAK_0592	-	COG0765E	polar amino acid ABC transporter permease
+536118..536852	+	244	76787403	-	SAK_0593	-	COG1126E	polar amino acid ABC transporter ATP-binding protein
+537139..538833	+	564	76788263	-	SAK_0594	-	COG1109G	phosphoglucomutase/phosphomannomutase
+538972..539826	+	284	76788200	folD	SAK_0595	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+539823..540659	+	278	76786879	-	SAK_0596	-	COG0063G	hypothetical protein
+540785..542125	+	446	76787645	xseA	SAK_0597	-	COG1570L	exodeoxyribonuclease VII large subunit
+542103..542318	+	71	76788562	xseB	SAK_0598	-	COG1722L	exodeoxyribonuclease VII small subunit
+542318..543190	+	290	76787307	-	SAK_0599	-	COG0142H	geranyltranstransferase
+543183..544010	+	275	76788457	tlyA	SAK_0600	-	COG1189J	hemolysin A
+543997..544470	+	157	76788451	-	SAK_0601	-	COG1438K	arginine repressor ArgR
+544482..546140	+	552	76788066	recN	SAK_0602	-	COG0497L	DNA repair protein RecN
+546253..547089	+	278	76787093	-	SAK_0603	-	COG1307S	DegV family protein
+547082..547921	+	279	76787755	-	SAK_0604	-	COG2755E	GDSL family lipase/acylhydrolase
+547896..548498	+	200	76787964	-	SAK_0605	-	COG4698S	hypothetical protein
+548601..548876	+	91	76786815	hup	SAK_0606	-	COG0776L	DNA-binding protein HU
+548964..550106	-	380	76788652	-	SAK_0607	-	COG4974L	prophage LambdaSa03, site-specific recombinase phage integrase
+550234..550443	-	69	76787620	-	SAK_0608	-	COG2314S	hypothetical protein
+550495..550875	-	126	76787303	-	SAK_0609	-	-	hypothetical protein
+550862..551221	-	119	76787185	-	SAK_0610	-	COG1396K	prophage LambdaSa03, Cro/CI family transcriptional regulator
+551413..551631	+	72	76787517	-	SAK_0611	-	COG1396K	prophage LambdaSa03, Cro/CI family transcriptional regulator
+551729..552061	+	110	76788404	-	SAK_0612	-	-	hypothetical protein
+552166..552501	-	111	76786947	-	SAK_0613	-	-	hypothetical protein
+553227..553376	+	49	76788627	-	SAK_0614	-	-	hypothetical protein
+553649..553939	+	96	76787003	-	SAK_0615	-	-	hypothetical protein
+553926..554609	+	227	76788023	-	SAK_0616	-	COG1484L	hypothetical protein
+554684..556048	+	454	76787074	-	SAK_0617	-	COG1061KL	prophage LambdaSa03, helicase
+556053..556535	+	160	76787775	-	SAK_0618	-	-	hypothetical protein
+556553..558106	+	517	76787543	-	SAK_0619	-	-	bacteriophage resistance protein
+558375..559244	+	289	76787316	-	SAK_0620	-	-	hypothetical protein
+559264..559545	+	93	76788419	-	SAK_0621	-	-	hypothetical protein
+559624..559920	+	98	76786724	-	SAK_0622	-	-	hypothetical protein
+560174..560338	+	54	76786813	-	SAK_0623	-	-	hypothetical protein
+560608..560751	+	47	76788226	-	SAK_0624	-	-	hypothetical protein
+560748..561260	+	170	76787480	-	SAK_0625	-	-	hypothetical protein
+561281..561580	+	99	76786862	-	SAK_0626	-	-	hypothetical protein
+561768..561962	+	64	76787410	-	SAK_0627	-	-	hypothetical protein
+561959..562225	+	88	76786726	-	SAK_0628	-	-	hypothetical protein
+562613..563041	+	142	76787446	-	SAK_0629	-	-	hypothetical protein
+563613..563987	+	124	76788004	-	SAK_0630	-	COG1403V	prophage LambdaSa03, HNH endonuclease
+564138..564494	+	118	76786884	-	SAK_0631	-	-	hypothetical protein
+564491..565759	+	422	76787678	-	SAK_0632	-	-	hypothetical protein
+565752..566972	+	406	76788642	-	SAK_0633	-	-	hypothetical protein
+566972..567160	+	62	76787441	-	SAK_0634	-	-	hypothetical protein
+567268..568683	+	471	76788305	-	SAK_0635	-	COG4626R	prophage LambdaSa03, terminase, large subunit
+568764..569228	+	154	76787173	-	SAK_0636	-	-	hypothetical protein
+569231..570133	+	300	76788005	-	SAK_0637	-	-	prophage LambdaSa03, structural protein
+570130..570345	+	71	76787102	-	SAK_0638	-	-	hypothetical protein
+570359..570790	+	143	76788481	-	SAK_0639	-	-	hypothetical protein
+570741..571079	+	112	76787721	-	SAK_0640	-	-	hypothetical protein
+571309..571644	+	111	76787810	-	SAK_0641	-	-	hypothetical protein
+571654..572211	+	185	76786934	-	SAK_0642	-	-	prophage LambdaSa03, structural protein
+572211..572456	+	81	76788156	-	SAK_0643	-	-	hypothetical protein
+572471..572842	+	123	76787364	-	SAK_0644	-	-	hypothetical protein
+572842..574854	+	670	76788250	-	SAK_0645	-	COG5412S	prophage LambdaSa03, pblA protein, internal deletion
+574848..576380	+	510	76787373	-	SAK_0646	-	COG4722S	prophage LambdaSa03, tail component
+576381..580502	+	1373	76788693	-	SAK_0647	-	COG1705NU	prophage LambdaSa03, minor structural protein
+580503..582506	+	667	76787434	-	SAK_0648	-	-	prophage LambdaSa03, minor structural protein
+582518..582910	+	130	76787055	-	SAK_0649	-	-	hypothetical protein
+582933..583061	+	42	76788123	-	SAK_0650	-	-	hypothetical protein
+583070..583372	+	100	76786738	-	SAK_0651	-	-	hypothetical protein
+583365..583592	+	75	76787863	-	SAK_0652	-	COG5546S	prophage LambdaSa03, holin
+583718..585049	+	443	76787482	-	SAK_0653	-	COG3757M	prophage LambdaSa03, peptidoglycan endolysin
+585311..585514	-	67	76788639	-	SAK_0654	-	-	hypothetical protein
+585900..586079	+	59	76787404	-	SAK_0655	-	-	hypothetical protein
+586485..586682	+	65	76788243	-	SAK_0656	-	-	hypothetical protein
+586726..587658	-	310	76787324	pyrD	SAK_0657	-	COG0167F	dihydroorotate dehydrogenase 1A
+587845..589080	-	411	76788587	fibB	SAK_0658	-	COG2348V	beta-lactam resistance factor
+589099..590310	-	403	76787224	-	SAK_0659	-	COG2348V	FemAB family protein
+590323..591543	-	406	76788174	-	SAK_0660	-	COG2348V	FemAB family protein
+591543..592355	-	270	76787047	-	SAK_0661	-	COG0561R	cof family hydrolase
+592426..593742	-	438	76787909	-	SAK_0662	-	COG1078R	HD domain-containing protein
+593818..594204	+	128	76786828	-	SAK_0663	-	COG4506S	hypothetical protein
+594548..597232	+	894	76787798	-	SAK_0664	-	COG0474P	calcium-transporting ATPase
+598289..600220	+	643	76788630	fbp	SAK_0666	-	COG3855G	fructose-1,6-bisphosphatase
+600310..601434	+	374	76788215	-	SAK_0667	-	COG1600C	(Fe-S)-binding protein
+601503..602601	+	365	76787098	prfB	SAK_0668	-	COG1186J	peptide chain release factor 2
+602620..603312	+	230	76787248	ftsE	SAK_0669	-	COG2884D	cell division ATP binding protein FtsE
+603296..604225	+	309	76788405	-	SAK_0670	-	COG2177D	cell division protein FtsX
+604247..605695	-	482	76787567	-	SAK_0671	-	COG3666L	ISSag8, transposase
+605840..606550	-	236	76788344	-	SAK_0672	-	COG2267I	hypothetical protein
+606547..607245	-	232	76786744	-	SAK_0673	-	COG0491R	metallo-beta-lactamase
+607413..608177	+	254	76788559	-	SAK_0674	-	COG1028IQR	acetoin reductase
+608290..610797	+	835	76786927	-	SAK_0675	-	COG1199KL	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon
+610883..612076	+	397	76787795	-	SAK_0676	-	COG0436E	aspartate aminotransferase
+612097..613443	+	448	76787521	asnC	SAK_0677	-	COG0017J	asparaginyl-tRNA synthetase
+613483..614040	-	185	76788638	-	SAK_0678	-	COG2205T	hypothetical protein
+614037..615020	-	327	76787732	-	SAK_0679	-	COG1957F	inosine-uridine preferring nucleoside hydrolase
+615266..615679	-	137	76786888	-	SAK_0680	-	COG1764O	organic hydroperoxide resistance protein
+615833..616723	+	296	76787366	-	SAK_0681	-	COG1660R	hypothetical protein
+616918..617694	+	258	76787031	-	SAK_0682	-	COG0391S	hypothetical protein
+617691..618602	+	303	76788519	-	SAK_0683	-	COG1481S	hypothetical protein
+618617..620014	+	465	76787692	pepDA	SAK_0684	-	COG4690E	dipeptidase A
+620156..621676	+	506	76787774	adcA	SAK_0685	-	COG3443R	zinc ABC transporter substrate-binding protein
+621789..622049	-	86	76786901	rpmE2	SAK_0686	-	COG0254J	50S ribosomal protein L31
+622158..623093	-	311	76787330	-	SAK_0687	-	COG0618R	DHH family protein
+623359..624381	+	340	76788228	add	SAK_0688	-	COG1816F	adenosine deaminase
+624440..624883	+	147	76787033	-	SAK_0689	-	COG0716C	flavodoxin
+624960..625235	+	91	76787828	-	SAK_0690	-	COG1605E	hypothetical protein
+625228..626424	+	398	76787827	-	SAK_0691	-	COG0038P	voltage-gated chloride channel family protein
+627004..627351	+	115	76788495	rplS	SAK_0692	-	COG0335J	50S ribosomal protein L19
+628380..628784	+	134	76788257	-	SAK_0695	-	COG2963L	hypothetical protein
+629936..630097	-	53	76788074	-	SAK_0697	-	-	hypothetical protein
+630839..632116	+	425	76786953	-	SAK_0698	-	COG4591M	ABC transporter permease
+632126..632782	+	218	76786856	-	SAK_0699	-	COG1136V	ABC transporter ATP-binding protein
+632782..634158	+	458	76787744	-	SAK_0700	-	COG4591M	ABC transporter permease
+634255..634908	+	217	76788680	vncR	SAK_0701	-	COG0745TK	DNA-binding response regulator VncR
+634905..636206	+	433	76787558	-	SAK_0702	-	COG0642T	sensor histidine kinase VncS
+636258..636845	-	195	76787372	-	SAK_0703	-	COG2801L	IS5 family transposase orfB
+637083..637262	+	59	76787995	-	SAK_0704	-	-	CsbD family protein
+637304..637492	+	62	76786825	-	SAK_0705	-	-	hypothetical protein
+637917..639122	+	401	76787918	-	SAK_0706	-	COG0772D	cell cycle protein FtsW
+639241..639801	+	186	76787445	-	SAK_0707	-	COG0546R	HAD-superfamily hydrolase
+639802..641754	+	650	161486746	gyrB	SAK_0708	-	COG0187L	DNA gyrase subunit B
+641848..643572	+	574	76787829	ezrA	SAK_0709	-	COG4477D	septation ring formation regulator EzrA
+643666..644307	+	213	76786917	serB	SAK_0710	-	COG0560E	phosphoserine phosphatase SerB
+644328..644813	-	161	76788579	-	SAK_0711	-	COG1443I	NUDIX family hydrolase
+644826..645281	-	151	76787696	-	SAK_0712	-	COG5506S	hypothetical protein
+645479..646786	+	435	76788358	eno	SAK_0713	-	COG0148G	phosphopyruvate hydratase
+646894..647958	-	354	76787468	-	SAK_0714	-	COG3064M	hypothetical protein
+648187..649470	+	427	76788268	aroA	SAK_0715	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+649463..649975	+	170	76787277	aroK	SAK_0716	-	COG0703E	shikimate kinase
+650032..651405	+	457	76787236	-	SAK_0717	-	COG1316K	transcriptional regulator
+651506..652861	+	451	76788448	rumA	SAK_0718	-	COG2265J	23S rRNA (uracil-5-)-methyltransferase RumA
+653383..653901	+	172	76787481	-	SAK_0719	-	COG4283S	hypothetical protein
+654026..654124	-	32	76788613	-	SAK_0720	-	-	hypothetical protein
+654203..654733	-	176	76786801	-	SAK_0721	-	COG1309K	TetR family transcriptional regulator
+654904..660228	+	1774	76787944	-	SAK_0722	-	COG0810M	hypothetical protein
+661088..662956	+	622	76786752	-	SAK_0723	-	-	hypothetical protein
+663365..663934	+	189	76787904	-	SAK_0724	-	-	hypothetical protein
+663973..665928	-	651	76786923	-	SAK_0725	-	COG0749L	prophage LambdaSa04, DNA polymerase
+665978..666142	-	54	76787769	-	SAK_0726	-	-	hypothetical protein
+666159..666722	-	187	76787707	-	SAK_0727	-	-	hypothetical protein
+666727..667848	-	373	76788560	-	SAK_0728	-	-	hypothetical protein
+667841..668164	-	107	76787869	-	SAK_0729	-	-	hypothetical protein
+668561..670846	+	761	76786816	-	SAK_0730	-	COG3378R	prophage LambdaSa04, DNA primase
+670867..670971	+	34	76788290	-	SAK_0731	-	-	hypothetical protein
+671130..671411	+	93	76787039	-	SAK_0732	-	-	hypothetical protein
+671392..672768	+	458	76788487	-	SAK_0733	-	COG0553KL	prophage LambdaSa04, SNF2 family helicase
+672761..673258	+	165	76787580	-	SAK_0734	-	-	hypothetical protein
+673651..674688	+	345	76787752	metK	SAK_0736	-	COG0192H	S-adenosylmethionine synthetase
+674690..675055	+	121	76787762	-	SAK_0737	-	COG1403V	prophage LambdaSa04, HNH endonuclease
+675788..677026	+	412	76786905	-	SAK_0738	-	COG0863L	prophage LambdaSa04, DNA methylase
+677023..678276	+	417	76788592	-	SAK_0739	-	COG0270L	prophage LambdaSa04, methyltransferase C-5
+678619..679068	+	149	76787238	-	SAK_0740	-	-	hypothetical protein
+679165..679578	+	137	76788377	-	SAK_0741	-	COG3747L	prophage LambdaSa04, P27 family terminase small subunit
+679575..681167	+	530	76788026	-	SAK_0742	-	COG4626R	prophage LambdaSa04, terminase, large subunit
+681223..681525	+	100	76787326	-	SAK_0743	-	COG3077L	prophage LambdaSa04, RelB antitoxin family protein
+681525..681830	+	101	76788686	-	SAK_0744	-	COG3668R	prophage LambdaSa04, RelE/ParE family protein
+681847..682119	+	90	76787541	-	SAK_0745	-	-	hypothetical protein
+682200..683489	+	429	76787772	-	SAK_0746	-	COG4695S	prophage LambdaSa04, HK97 family portal protein
+683482..684180	+	232	76787240	-	SAK_0747	-	COG0740OU	prophage LambdaSa04, ClpP endopeptidase
+684194..685402	+	402	76787049	-	SAK_0748	-	COG4653R	prophage LambdaSa04, HK97 family major capsid protein
+685399..685656	+	85	76788209	-	SAK_0749	-	-	hypothetical protein
+685656..685994	+	112	76788354	-	SAK_0750	-	COG5614R	prophage LambdaSa04, head-tail adaptor
+685987..686355	+	122	76788221	-	SAK_0751	-	-	hypothetical protein
+686364..686690	+	108	76786989	-	SAK_0752	-	-	hypothetical protein
+686693..687262	+	189	76787935	-	SAK_0753	-	-	prophage LambdaSa04, phi13 family major tail protein
+687274..687693	+	139	76787237	-	SAK_0754	-	-	hypothetical protein
+687762..687857	+	31	76787894	-	SAK_0755	-	-	hypothetical protein
+687988..691107	+	1039	76786754	-	SAK_0756	-	COG5280S	prophage LambdaSa04, TP901 family tail tape measure protein
+691104..691829	+	241	76788299	-	SAK_0757	-	COG4722S	prophage LambdaSa04, tail protein
+691829..694744	+	971	76787419	-	SAK_0758	-	COG4926S	prophage LambdaSa04, minor structural protein
+694757..696613	+	618	76788333	-	SAK_0759	-	COG4675S	prophage LambdaSa04, minor structural protein
+696631..697029	+	132	76788100	-	SAK_0760	-	COG4824R	prophage LambdaSa04, holin
+697031..698041	+	336	76787866	-	SAK_0761	-	COG1705NU	prophage LambdaSa04, mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+697996..698436	+	146	76787720	-	SAK_0762	-	COG3858R	prophage LambdaSa04 LysM domain-containing protein
+699217..700458	+	413	76788596	-	SAK_0763	-	COG1961L	prophage LambdaSa04, site-specific recombinase resolvase
+700361..701707	+	448	76787538	-	SAK_0764	-	COG1961L	prophage LambdaSa04, site-specific recombinase resolvase
+701777..702550	+	257	76787177	-	SAK_0765	-	-	hypothetical protein
+702564..704069	+	501	76788068	-	SAK_0766	-	COG0515RTKL	serine/threonine protein kinase
+704319..704531	+	70	76787957	-	SAK_0767	-	-	hypothetical protein
+704649..705386	+	245	76786805	aphA	SAK_0768	-	COG3700R	acid phosphatase/phosphotransferase
+705707..706225	+	172	76787351	-	SAK_0769	-	COG4283S	hypothetical protein
+706354..706590	-	78	76788576	-	SAK_0770	-	-	hypothetical protein
+707062..707394	+	110	76788353	-	SAK_0771	-	-	cell wall surface anchor family protein, truncation
+707515..708264	-	249	76787447	-	SAK_0772	-	COG2801L	ISSag5, transposase orfB
+708384..708659	-	91	76786790	-	SAK_0773	-	COG2963L	ISSag5, transposase orfA
+709317..709664	-	115	76787706	-	SAK_0774	-	COG1281O	chaperone protein HslO
+709858..711066	-	402	76788202	-	SAK_0775	-	COG2207K	AraC family transcriptional regulator
+711448..713112	+	554	76787072	-	SAK_0776	-	COG4932M	cell wall surface anchor family protein
+713201..714124	+	307	76787940	-	SAK_0777	-	COG4932M	cell wall surface anchor family protein
+714126..715043	+	305	76788384	-	SAK_0778	-	COG3764M	sortase
+715000..715851	+	283	76786728	-	SAK_0779	-	COG3764M	sortase
+715933..718605	+	890	76788219	-	SAK_0780	-	COG4932M	Cna B domain-containing protein
+719698..720303	+	201	76787826	-	SAK_0782	-	COG4932M	Cna B domain-containing protein
+722922..723191	+	89	76787335	-	SAK_0785	-	-	hypothetical protein
+723252..724403	+	383	76787997	-	SAK_0786	-	COG1680V	beta-lactamase
+724603..725595	+	330	76787844	-	SAK_0787	-	COG4586R	ABC transporter ATP-binding protein
+725598..726416	+	272	76786839	-	SAK_0788	-	COG4587R	hypothetical protein
+726418..727203	+	261	76788502	-	SAK_0789	-	COG3694R	hypothetical protein
+727828..728133	+	101	76787831	cylX	SAK_0790	-	-	cylX protein
+728133..728981	+	282	76787379	cylD	SAK_0791	-	COG0331I	CylD protein
+728978..729700	+	240	76787982	cylG	SAK_0792	-	COG1028IQR	cylG protein
+729693..729998	+	101	76787600	-	SAK_0793	-	COG0236IQ	acyl carrier protein
+729982..730458	+	158	76786941	cylZ	SAK_0794	-	COG0764I	cylZ protein
+730448..731377	+	309	76788121	cylA	SAK_0795	-	COG1131V	ABC transporter ATP-binding protein
+731370..732248	+	292	76787017	cylB	SAK_0796	-	-	ABC transporter permease
+732245..734248	+	667	76788430	cylE	SAK_0797	-	-	CylE protein
+734245..735198	+	317	76787076	cylF	SAK_0798	-	COG0404E	cylF protein
+735195..737390	+	731	76788190	cylI	SAK_0799	-	COG0304IQ	cylI protein
+737395..738606	+	403	76786782	cylJ	SAK_0800	-	COG1819GC	CylJ protein
+738614..739150	+	178	76787794	cylK	SAK_0801	-	COG2091H	CylK protein
+739493..739834	+	113	76787014	-	SAK_0802	-	-	hypothetical protein
+739868..740383	+	171	76788569	-	SAK_0803	-	-	hypothetical protein
+740435..743092	+	885	76786762	-	SAK_0804	-	COG1404O	S8 family peptidase
+743195..746419	+	1074	76788256	-	SAK_0805	-	-	hypothetical protein
+748666..749697	+	343	76788632	-	SAK_0807	-	COG0596R	hypothetical protein
+749732..750751	+	339	76787936	-	SAK_0808	-	COG0596R	hypothetical protein
+750786..751847	+	353	76787705	-	SAK_0809	-	COG0596R	hypothetical protein
+751971..753200	+	409	76788306	-	SAK_0810	-	COG4591M	permease
+754648..755319	+	223	76787750	-	SAK_0812	-	COG1136V	ABC transporter ATP-binding protein
+755376..756794	-	472	76787422	-	SAK_0813	-	COG4529S	hypothetical protein
+757082..757867	+	261	76787529	-	SAK_0814	-	COG1864F	DNA-entry nuclease
+757945..758583	-	212	76788102	-	SAK_0815	-	COG0586S	DedA family protein
+758800..759456	+	218	76787671	-	SAK_0816	-	COG4619R	ABC transporter ATP-binding protein
+759453..760226	+	257	76788594	-	SAK_0817	-	COG0390R	hypothetical protein
+760390..761208	+	272	76788599	-	SAK_0818	-	-	hypothetical protein
+761245..762129	-	294	76787548	-	SAK_0819	-	COG0583K	LysR family transcriptional regulator
+762322..763380	+	352	76787861	-	SAK_0820	-	COG3641R	hypothetical protein
+763394..764386	+	330	76786808	ldhA	SAK_0821	-	COG1052CHR	D-lactate dehydrogenase
+764592..766142	+	516	76788133	-	SAK_0822	-	COG2211G	sugar transporter
+766209..767234	+	341	76787168	-	SAK_0823	-	COG0524G	PfkB family kinase
+767251..769050	+	599	76788367	-	SAK_0824	-	COG3250G	beta-D-glucuronidase
+769079..769750	+	223	76787181	-	SAK_0825	-	COG2186K	GntR family transcriptional regulator
+769867..770484	+	205	76787876	eda	SAK_0826	-	COG0800G	2-dehydro-3-deoxyphosphooctonate aldolase
+770501..771901	+	466	76786751	uxaC	SAK_0827	-	COG1904G	glucuronate isomerase
+771919..772965	+	348	76788175	uxuA	SAK_0828	-	COG1312G	mannonate dehydratase
+773089..773928	+	279	76786999	-	SAK_0829	-	COG1028IQR	D-mannonate oxidoreductase
+774081..774893	+	270	76787377	-	SAK_0830	-	COG0546R	hypothetical protein
+774909..776699	+	596	76788176	-	SAK_0831	-	COG1472G	glycosyl hydrolase
+776757..777842	-	361	76787569	pepQ	SAK_0832	-	COG0006E	Xaa-Pro dipeptidase
+778052..779056	+	334	76788388	ccpA	SAK_0833	-	COG1609K	catabolite control protein A
+779188..780654	+	488	76788286	-	SAK_0834	-	COG0366G	alpha-amylase
+780699..781697	+	332	76787544	-	SAK_0835	-	COG0438M	glycoside hydrolase
+781699..783033	+	444	76786921	-	SAK_0836	-	COG0438M	glycoside hydrolase
+783490..785433	+	647	76787804	thrS	SAK_0837	-	COG0441J	threonyl-tRNA synthetase
+785655..786359	+	234	76787341	-	SAK_0838	-	COG0745TK	DNA-binding response regulator
+786457..787476	+	339	76787001	-	SAK_0839	-	-	hypothetical protein
+787644..788210	+	188	76788160	-	SAK_0840	-	COG3212S	peptidase propeptide/YPEB domain-containing protein
+788259..788909	-	216	76786730	-	SAK_0841	-	COG0765E	polar amino acid ABC transporter permease
+788921..789616	-	231	76787176	-	SAK_0842	-	COG0765E	polar amino acid ABC transporter permease
+789629..790429	-	266	76788013	-	SAK_0843	-	COG0834ET	polar amino acid ABC transporter amino acid-binding protein
+790441..791196	-	251	76787791	-	SAK_0844	-	COG1126E	polar amino acid ABC transporter ATP-binding protein
+791536..792246	+	236	76786877	-	SAK_0845	-	COG0745TK	DNA-binding response regulator
+792239..793588	+	449	76787924	-	SAK_0846	-	COG5002T	sensory box histidine kinase
+793592..794401	+	269	76788653	-	SAK_0847	-	COG1235R	metallo-beta-lactamase
+794404..794772	+	122	76787516	-	SAK_0848	-	COG2832S	hypothetical protein
+794948..795634	+	228	76788414	rnc	SAK_0849	-	COG0571K	ribonuclease III
+795642..799181	+	1179	76787222	smc	SAK_0850	-	COG1196D	chromosome segregation protein SMC
+799272..800069	+	265	76788165	-	SAK_0851	-	COG0561R	Cof-like hydrolase
+800069..800893	+	274	76787088	-	SAK_0852	-	COG0561R	cof family hydrolase
+800893..802503	+	536	76788040	ftsY	SAK_0853	-	COG0552U	signal recognition particle-docking protein FtsY
+802540..803352	-	270	76787568	-	SAK_0854	-	COG3689S	hypothetical protein
+803352..804254	-	300	76787414	-	SAK_0855	-	COG0701R	permease
+804260..804388	-	42	76787856	-	SAK_0856	-	-	hypothetical protein
+804521..805564	+	347	76786725	-	SAK_0857	-	COG2141C	luciferase
+805669..807831	+	720	76788092	-	SAK_0858	-	COG2183K	S1 RNA-binding domain-containing protein
+807824..808252	+	142	76788463	-	SAK_0859	-	COG3091S	hypothetical protein
+808333..808596	+	87	76788406	-	SAK_0860	-	COG1983KT	PspC domain-containing protein
+808574..808708	+	44	76787267	-	SAK_0861	-	-	hypothetical protein
+808824..809759	+	311	76788192	hprK	SAK_0862	-	COG1493T	HPr kinase/phosphorylase
+809752..810525	+	257	76788292	lgt	SAK_0863	-	COG0682M	prolipoprotein diacylglyceryl transferase
+810540..810938	+	132	76786858	-	SAK_0864	-	COG4768R	hypothetical protein
+810935..811366	+	143	76787739	-	SAK_0865	-	-	hypothetical protein
+811407..811682	-	91	76787308	-	SAK_0866	-	-	hypothetical protein
+812037..812948	+	303	76788507	-	SAK_0867	-	COG0826O	U32 family peptidase
+813078..814364	+	428	76788301	-	SAK_0868	-	COG0826O	U32 family peptidase
+814491..814703	+	70	76787309	-	SAK_0869	-	COG4443S	hypothetical protein
+814827..815447	+	206	76787213	-	SAK_0870	-	-	hypothetical protein
+815502..816842	-	446	76787859	-	SAK_0871	-	COG1914P	Mn2+/Fe2+ transporter
+817571..818680	+	369	76788660	ribD	SAK_0872	-	COG1985H	riboflavin biosynthesis protein RibD
+818661..819311	+	216	76787096	ribE	SAK_0873	-	COG0307H	riboflavin synthase subunit alpha
+819329..820522	+	397	76787663	ribBA	SAK_0874	-	COG0108H	3,4-dihydroxy-2-butanone-4-phosphate synthase
+820537..821007	+	156	76788582	ribH	SAK_0875	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+821082..822572	-	496	76787024	lysS	SAK_0876	-	COG1190J	lysyl-tRNA synthetase
+822747..823649	+	300	76787354	-	SAK_0877	-	COG1011R	HAD-superfamily hydrolase
+823685..824326	-	213	76786796	-	SAK_0878	-	COG0406G	phosphoglycerate mutase
+824348..824821	-	157	76788153	-	SAK_0879	-	COG2606S	YbaK/EbsC family protein
+825116..825733	+	205	76788544	-	SAK_0880	-	COG0451MG	hypothetical protein
+825766..826614	-	282	76787690	-	SAK_0881	-	COG3757M	glycosyl hydrolase
+826771..827295	+	174	76788169	-	SAK_0882	-	COG1928O	hypothetical protein
+827279..827668	+	129	76786944	-	SAK_0883	-	-	lipoprotein
+827727..829526	-	599	76787070	pepF	SAK_0884	-	COG1164E	oligoendopeptidase F
+829735..832530	+	931	76787926	ppc	SAK_0885	-	COG2352C	phosphoenolpyruvate carboxylase
+832636..833904	+	422	76786785	-	SAK_0886	-	COG0772D	cell cycle protein FtsW
+834256..835452	+	398	76787822	tuf	SAK_0887	-	COG0050J	elongation factor Tu
+835633..836391	+	252	76788572	tpiA	SAK_0888	-	COG0149G	triosephosphate isomerase
+836568..837260	+	230	76787711	gpmA	SAK_0889	-	COG0588G	phosphoglyceromutase
+837389..839434	+	681	76788293	-	SAK_0890	-	COG0768M	penicillin-binding protein 2b
+839449..840045	+	198	76787474	recR	SAK_0891	-	COG0353L	recombination protein RecR
+840186..841232	+	348	76787870	ddl	SAK_0892	-	COG1181M	D-alanyl-alanine synthetase A
+841379..842746	+	455	76788062	murF	SAK_0893	-	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+842933..844153	+	406	76786913	-	SAK_0894	-	COG2223P	major facilitator family transporter
+844282..844968	+	228	76788300	-	SAK_0895	-	COG5522S	hypothetical protein
+845147..846685	+	512	76787635	-	SAK_0896	-	COG2373R	cell wall surface anchor family protein
+846862..848406	+	514	76787151	prfC	SAK_0897	-	COG4108J	peptide chain release factor 3
+848492..848872	+	126	76787846	-	SAK_0898	-	-	hypothetical protein
+848993..849727	+	244	76786948	-	SAK_0899	-	COG1135P	amino acid ABC transporter ATP-binding protein
+849720..850382	+	220	76788580	-	SAK_0900	-	COG2011P	amino acid ABC transporter permease
+850398..851228	+	276	76787714	-	SAK_0901	-	COG1464P	ABC transporter substrate-binding protein
+851463..853049	+	528	76786821	-	SAK_0902	-	COG0513LKJ	DEAD/DEAH box helicase
+853234..853500	-	88	76787029	-	SAK_0903	-	COG2827L	GIY-YIG domain-containing protein
+853493..854257	-	254	76787970	-	SAK_0904	-	COG4123R	hypothetical protein
+854392..855132	+	246	76786840	-	SAK_0905	-	COG0204I	acyltransferase
+855232..855885	+	217	76787965	-	SAK_0906	-	COG1555L	competence protein ComE
+855869..858106	+	745	76787621	-	SAK_0907	-	COG2333R	DNA internalization-related competence protein ComEC/Rec2
+858232..859041	+	269	76788551	-	SAK_0908	-	COG0561R	Cof-like hydrolase
+859052..859996	+	314	76787473	-	SAK_0909	-	COG1609K	LacI family sugar-binding transcriptional regulator
+860055..861047	-	330	76788336	-	SAK_0910	-	COG0657I	hypothetical protein
+861223..861951	+	242	76787452	-	SAK_0911	-	COG2226H	hypothetical protein
+862005..863042	+	345	76787655	holA	SAK_0912	-	COG1466L	DNA polymerase III subunit delta
+863122..863730	+	202	76786766	sodA	SAK_0913	-	COG0605P	superoxide dismutase
+864068..864919	+	283	76787317	-	SAK_0914	-	COG3711K	BglG family transcriptional antiterminator
+864912..866780	+	622	76788558	bglF	SAK_0915	-	COG1263G	PTS system beta-glucoside-specific transporter subunit IIABC
+866797..868224	+	475	76786882	-	SAK_0916	-	COG2723G	glycosyl hydrolase
+868293..869387	-	364	76787656	-	SAK_0917	-	COG3835KT	hypothetical protein
+869554..870696	+	380	76787169	-	SAK_0918	-	COG1929G	glycerate kinase
+870721..871977	+	418	76788030	-	SAK_0919	-	COG2610GE	GntP family permease
+872078..873142	+	354	76788231	-	SAK_0920	-	COG1686M	hypothetical protein
+873197..873640	-	147	76787134	-	SAK_0921	-	COG1846K	MarR family transcriptional regulator
+873721..874749	-	342	76787449	queA	SAK_0922	-	COG0809J	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+874902..875582	+	226	76787100	-	SAK_0923	-	COG1814S	hypothetical protein
+875733..876434	+	233	76787681	nagB	SAK_0924	-	COG0363G	glucosamine-6-phosphate isomerase
+876506..877462	-	318	76788588	-	SAK_0925	-	COG0435O	glutathione S-transferase domain-containing protein
+877558..878277	+	239	76787803	-	SAK_0926	-	COG1187J	RNA pseudouridine synthase
+878350..879501	+	383	76787662	-	SAK_0927	-	COG2814G	major facilitator family protein
+879553..880500	+	315	76788002	-	SAK_0928	-	COG4469R	competence protein CoiA
+880516..882321	+	601	76786918	pepB	SAK_0929	-	COG1164E	group B oligopeptidase PepB
+882516..883142	+	208	76788246	-	SAK_0930	-	COG0546R	HAD-superfamily hydrolase
+883252..883923	+	223	76788113	-	SAK_0931	-	COG4122R	O-methyltransferase
+883984..884913	+	309	76788083	prsA	SAK_0932	-	COG0760O	foldase PrsA
+885155..885640	+	161	76787035	-	SAK_0933	-	COG4894S	hypothetical protein
+885656..888274	+	872	76788418	alaS	SAK_0934	-	COG0013J	alanyl-tRNA synthetase
+888356..889072	+	238	76787337	-	SAK_0935	-	COG1811R	hypothetical protein
+889160..889978	+	272	76787727	-	SAK_0936	-	COG1442M	glycosyl transferase
+890399..890692	+	97	76788355	-	SAK_0937	-	-	hypothetical protein
+890737..890952	+	71	76787451	-	SAK_0938	-	COG1476K	DNA-binding protein
+890955..891713	+	252	76787107	-	SAK_0939	-	-	hypothetical protein
+891798..892361	-	187	76787094	-	SAK_0940	-	COG3859S	hypothetical protein
+892696..894147	+	483	76788067	-	SAK_0941	-	COG3666L	ISSag8, transposase
+894163..895122	-	319	76788606	nrdF	SAK_0942	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+895325..897484	-	719	76787476	-	SAK_0943	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+897562..897786	-	74	76786777	-	SAK_0944	-	COG0695O	glutaredoxin-like protein NrdH
+898169..898432	+	87	76788703	ptsH	SAK_0945	-	COG1925G	phosphocarrier protein HPr
+898437..900170	+	577	76787063	ptsI	SAK_0946	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+900320..901747	+	475	76787931	gapN	SAK_0947	-	COG1012C	glyceraldehyde-3-phosphate dehydrogenase
+901887..903140	+	417	76788095	-	SAK_0948	-	COG0726G	polysaccharide deacetylase
+903173..904255	-	360	76786745	-	SAK_0949	-	COG0513LKJ	DEAD/DEAH box helicase
+904400..905029	+	209	76788122	udk	SAK_0950	-	COG0572F	uridine kinase
+905116..905613	+	165	76787190	-	SAK_0951	-	COG1956T	GAF domain-containing protein
+905613..907277	+	554	76787118	dnaX	SAK_0952	-	COG2812L	DNA polymerase III subunits gamma and tau
+907541..908476	-	311	76787252	-	SAK_0953	-	COG0340H	biotin--protein ligase
+908661..909857	+	398	76786895	metK	SAK_0954	-	COG0192H	S-adenosylmethionine synthetase
+910378..912639	+	753	76787972	-	SAK_0955	-	-	hypothetical protein
+912706..913251	+	181	76786826	-	SAK_0956	-	-	hypothetical protein
+913411..913539	+	42	76788205	-	SAK_0957	-	-	hypothetical protein
+913647..914213	+	188	76787593	-	SAK_0958	-	COG4732S	hypothetical protein
+914210..914764	+	184	76787948	-	SAK_0959	-	COG4721S	hypothetical protein
+914768..916054	+	428	76787327	-	SAK_0960	-	COG1122P	ABC transporter ATP-binding protein
+916042..916710	+	222	76788449	-	SAK_0961	-	COG0619P	hypothetical protein
+916794..917474	+	226	76788322	-	SAK_0962	-	COG0819K	TENA/THI-4 family protein
+917476..918273	+	265	76787463	thiD	SAK_0963	-	COG0351H	phosphomethylpyrimidine kinase
+918275..919045	+	256	76788137	thiM	SAK_0964	-	COG2145H	hydroxyethylthiazole kinase
+919059..919730	+	223	76787184	thiE	SAK_0965	-	COG0352H	thiamine-phosphate pyrophosphorylase
+919857..921116	+	419	76787857	murA	SAK_0966	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+921200..921772	+	190	76788485	-	SAK_0967	-	COG1670J	acetyltransferase
+921765..923048	+	427	76788114	-	SAK_0968	-	COG4109K	DRTGG domain/hypothetical protein
+923071..923931	+	286	76788269	map	SAK_0969	-	COG0024J	methionine aminopeptidase
+923933..924853	+	306	76787357	-	SAK_0970	-	COG1295S	ribonuclease BN
+924870..925325	-	151	76787625	-	SAK_0971	-	COG2246S	GtrA family protein
+925507..926016	+	169	76788402	-	SAK_0972	-	COG4708S	hypothetical protein
+926156..928114	+	652	76787534	ligA	SAK_0973	-	COG0272L	NAD-dependent DNA ligase LigA
+928126..929145	+	339	76787799	-	SAK_0974	-	COG1597IR	lipid kinase
+929149..931449	+	766	76786962	pulA	SAK_0975	-	COG1523G	pullulanase
+931655..933523	+	622	76787065	glgB	SAK_0976	-	COG0296G	glycogen branching protein
+933565..934704	+	379	76787471	glgC	SAK_0977	-	COG0448G	glucose-1-phosphate adenylyltransferase
+934694..935827	+	377	76788307	glgD	SAK_0978	-	COG0448G	glucose-1-phosphate adenylyltransferase, GlgD subunit
+935824..937254	+	476	76787437	glgA	SAK_0979	-	COG0297G	glycogen synthase
+937586..937786	+	66	76787494	atpE	SAK_0980	-	COG0636C	ATP synthase F0F1 subunit C
+937819..938535	+	238	76788681	atpB	SAK_0981	-	COG0356C	ATP synthase F0F1 subunit A
+938553..939050	+	165	76788233	atpF	SAK_0982	-	COG0711C	ATP synthase F0F1 subunit B
+939050..939586	+	178	76787472	atpH	SAK_0983	-	COG0712C	ATP synthase F0F1 subunit delta
+939602..941107	+	501	76787122	atpA	SAK_0984	-	COG0056C	ATP synthase F0F1 subunit alpha
+941123..942004	+	293	76788294	atpG	SAK_0985	-	COG0224C	ATP synthase F0F1 subunit gamma
+942078..943484	+	468	76786779	atpD	SAK_0986	-	COG0055C	ATP synthase F0F1 subunit beta
+943497..943910	+	137	76787954	atpC	SAK_0987	-	COG0355C	ATP synthase F0F1 subunit epsilon
+943969..944205	+	78	76787023	-	SAK_0988	-	-	hypothetical protein
+944268..945539	+	423	76787407	murA	SAK_0989	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+945541..945732	+	63	76788334	-	SAK_0990	-	-	hypothetical protein
+945807..946664	+	285	76787680	endA	SAK_0991	-	-	DNA-entry nuclease
+946956..947996	+	346	76788589	pheS	SAK_0992	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+948079..948600	+	173	76787754	-	SAK_0993	-	COG0456R	acetyltransferase
+948654..951059	+	801	76786957	pheT	SAK_0994	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+951128..952030	-	300	76787994	-	SAK_0995	-	COG2321R	hypothetical protein
+952208..955441	+	1077	76787095	rexB	SAK_0996	-	COG3857L	exonuclease RexB
+955431..959054	+	1207	76787847	rexA	SAK_0997	-	COG1074L	exonuclease RexA
+959067..959984	+	305	76786967	-	SAK_0998	-	COG0598P	magnesium/cobalt transporter CorA
+960017..961393	-	458	76788077	trmE	SAK_0999	-	COG0486R	tRNA modification GTPase TrmE
+961521..963431	+	636	76787085	-	SAK_1000	-	COG0488R	ABC transporter ATP-binding protein
+963581..964549	+	322	76788339	-	SAK_1001	-	COG1071C	acetoin dehydrogenase, TPP-dependent, E1 component subunit alpha
+964624..965622	+	332	76787416	-	SAK_1002	-	COG0022C	acetoin dehydrogenase, TPP-dependent, E1 component subunit beta
+965749..967137	+	462	76787510	-	SAK_1003	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+967197..968954	+	585	76788239	-	SAK_1004	-	COG1249C	acetoin dehydrogenase, TPP-dependent, E3 component, dihydrolipoamide dehydrogenase
+969052..970041	+	329	76788326	lplA	SAK_1005	-	COG0095H	lipoate-protein ligase A
+970149..970934	-	261	76787369	-	SAK_1006	-	COG3442R	glutamine amidotransferase domain-containing protein
+970934..972277	-	447	76786996	-	SAK_1007	-	COG0769M	mur ligase
+972417..973268	+	283	76787949	-	SAK_1008	-	COG1624S	hypothetical protein
+973271..974230	+	319	76787430	-	SAK_1009	-	COG4856S	hypothetical protein
+974284..975636	+	450	76788161	glmM	SAK_1010	-	COG1109G	phosphoglucosamine mutase
+975759..976130	+	123	76787009	-	SAK_1011	-	COG3272S	hypothetical protein
+976155..976535	+	126	76788211	-	SAK_1012	-	-	hypothetical protein
+976627..977757	+	376	76788033	-	SAK_1013	-	COG0635H	coproporphyrinogen III oxidase
+977761..978498	+	245	76787703	-	SAK_1014	-	COG3884I	thioesterase
+978499..979269	+	256	76788561	-	SAK_1015	-	COG0647G	HAD family hydrolase
+979244..979915	+	223	76787336	-	SAK_1016	-	COG4478S	hypothetical protein
+980303..984415	+	1370	76788458	-	SAK_1017	-	COG3513S	hypothetical protein
+984417..985286	+	289	76786845	cas1	SAK_1018	-	COG1518L	CRISPR-associated Cas1 family protein
+985283..985624	+	113	76787845	-	SAK_1019	-	COG3512S	CRISPR-associated Cas2 family protein
+985611..986276	+	221	76787198	-	SAK_1020	-	-	hypothetical protein
+987960..988376	+	138	76787985	ndk	SAK_1021	-	COG0105F	nucleoside diphosphate kinase
+988512..990344	+	610	76788416	lepA	SAK_1022	-	COG0481M	GTP-binding protein LepA
+991064..993223	+	719	76787219	-	SAK_1023	-	COG4886S	hypothetical protein
+993347..993982	+	211	76787937	-	SAK_1024	-	COG1418R	HD domain-containing protein
+993991..994455	+	154	76788622	-	SAK_1025	-	COG0456R	acetyltransferase
+994455..994889	+	144	76788014	msrB	SAK_1026	-	COG0229O	methionine sulfoxide reductase B
+995041..997833	+	930	76787455	-	SAK_1027	-	COG0474P	cation transporter HAD ATPase
+997833..998936	+	367	76787875	-	SAK_1028	-	-	hypothetical protein
+999057..999695	-	212	76787199	-	SAK_1029	-	COG0110R	hexapaptide repeat-containing transferase
+1000406..1001017	+	203	76786920	-	SAK_1031	-	COG0398S	hypothetical protein
+1001054..1001836	-	260	76787760	-	SAK_1032	-	-	hypothetical protein
+1001848..1002546	-	232	76787616	-	SAK_1033	-	COG1131V	ABC transporter ATP-binding protein
+1002547..1002915	-	122	76788533	-	SAK_1034	-	COG1725K	GntR family transcriptional regulator
+1003060..1006164	+	1034	76788136	dnaE	SAK_1035	-	COG0587L	DNA polymerase III DnaE
+1006245..1007267	+	340	76787064	pfkA	SAK_1036	-	COG0205G	6-phosphofructokinase
+1007316..1008818	+	500	76787355	pyk	SAK_1037	-	COG0469G	pyruvate kinase
+1008989..1009546	+	185	76788276	lepB	SAK_1038	-	COG0681U	signal peptidase I
+1009560..1009703	-	47	76788531	-	SAK_1039	-	-	hypothetical protein
+1009815..1011629	+	604	76787649	glmS	SAK_1040	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+1011792..1012121	+	109	76787200	phnA	SAK_1041	-	COG2824P	PhnA protein
+1012256..1012897	+	213	76787817	-	SAK_1042	-	COG0765E	polar amino acid ABC transporter permease
+1012907..1013536	+	209	76787018	-	SAK_1043	-	COG1126E	polar amino acid ABC transporter ATP-binding protein
+1013550..1014383	+	277	76788144	-	SAK_1044	-	COG0834ET	polar amino acid ABC transporter amino acid-binding protein
+1014467..1014700	-	77	161486747	rpsT	SAK_1045	-	COG0268J	30S ribosomal protein S20
+1014769..1015689	-	306	76787591	coaA	SAK_1046	-	COG1072H	pantothenate kinase
+1015795..1016385	+	196	76788359	-	SAK_1047	-	COG2813J	methyltransferase domain-containing protein
+1016711..1017100	+	129	76788280	cdd	SAK_1048	-	COG0295F	cytidine deaminase
+1017165..1018214	+	349	76787376	-	SAK_1049	-	COG1744R	Bmp family membrane protein
+1018359..1019894	+	511	76788024	-	SAK_1050	-	COG3845R	carbohydrate ABC transporter periplasmic-binding protein
+1019887..1020948	+	353	76787144	-	SAK_1051	-	COG4603R	carbohydrate ABC transporter permease
+1020950..1021906	+	318	76787083	-	SAK_1052	-	COG1079R	carbohydrate ABC transporter permease
+1022111..1023481	+	456	76787778	nox	SAK_1053	-	COG0446R	NADH oxidase, water-forming
+1023602..1024591	-	329	76786870	ldh	SAK_1054	-	COG0039C	L-lactate dehydrogenase
+1024830..1027289	+	819	76787978	gyrA	SAK_1055	-	COG0188L	DNA gyrase subunit A
+1027296..1028039	+	247	76787438	-	SAK_1056	-	COG3764M	sortase
+1028055..1028468	+	137	76788317	-	SAK_1057	-	COG0346E	glyoxylase
+1028621..1029583	+	320	76787161	-	SAK_1058	-	COG4086S	hypothetical protein
+1029646..1030773	-	375	76788314	-	SAK_1059	-	COG0475P	Na+/H+ antiporter
+1031033..1031416	+	127	76787917	-	SAK_1060	-	-	IS1381 transposase A
+1031449..1031838	+	129	76787668	-	SAK_1061	-	COG3293L	IS1381 transposase B
+1031904..1033466	-	520	76788259	guaA	SAK_1062	-	COG0519F	GMP synthase
+1033679..1034377	+	232	76787390	-	SAK_1063	-	COG2188K	GntR family transcriptional regulator
+1034491..1035825	+	444	76788131	gid	SAK_1064	-	COG1206J	tRNA (uracil-5-)-methyltransferase Gid
+1035903..1036646	+	247	76788001	-	SAK_1065	-	-	acetyltransferase
+1036779..1037627	+	282	76787630	-	SAK_1066	-	COG1464P	NPLA family lipoprotein
+1037659..1038147	-	162	76787779	-	SAK_1067	-	-	hypothetical protein
+1038313..1039275	+	320	76788375	-	SAK_1068	-	COG0793M	nisin resistance protein Nsr
+1039301..1040053	+	250	76787319	-	SAK_1069	-	COG1136V	ABC transporter ATP-binding protein
+1040055..1042010	+	651	76788615	-	SAK_1070	-	COG3127Q	ABC transporter permease
+1042120..1042788	+	222	76787477	-	SAK_1071	-	COG0745TK	DNA-binding response regulator
+1042785..1043723	+	312	76787811	-	SAK_1072	-	COG0642T	sensor histidine kinase
+1043766..1044836	-	356	76788700	xerS	SAK_1073	-	COG4974L	site-specific tyrosine recombinase XerS
+1045289..1046950	+	553	76788058	-	SAK_1074	-	COG4166E	ABC transporter substrate-binding protein
+1046983..1047756	-	257	76787004	-	SAK_1075	-	-	hypothetical protein
+1047746..1048432	-	228	76788145	satD	SAK_1076	-	-	satD protein
+1048499..1050064	-	521	76787075	ffh	SAK_1077	-	COG0541U	signal recognition particle protein
+1050082..1050390	-	102	76787916	-	SAK_1078	-	COG2739S	DNA-binding protein
+1050503..1051816	-	437	76788649	ciaH	SAK_1079	-	COG0642T	sensor histidine kinase CiaH
+1051800..1052480	-	226	76787511	ciaR	SAK_1080	-	COG0745TK	DNA-binding response regulator CiaR
+1052642..1055191	-	849	76788425	pepN	SAK_1081	-	COG0308E	aminopeptidase
+1055337..1055990	-	217	76788179	phoU	SAK_1082	-	COG0704P	phosphate transport system regulatory protein PhoU
+1056024..1056581	-	185	76787311	-	SAK_1083	-	COG1117P	phosphate ABC transporter ATP-binding protein
+1056794..1057597	-	267	76788490	pstB	SAK_1084	-	COG1117P	phosphate transporter ATP-binding protein
+1057609..1058496	-	295	76787264	pstA	SAK_1085	-	COG0581P	phosphate ABC transporter permease
+1058486..1059403	-	305	76788397	pstC	SAK_1086	-	COG0573P	phosphate ABC transporter permease
+1059449..1060309	-	286	76787686	-	SAK_1087	-	COG0226P	phosphate ABC transporter substrate-binding protein
+1060494..1061804	-	436	76787905	-	SAK_1088	-	COG0144J	NOL1/NOP2/sun family RNA methylase
+1061872..1062603	-	243	76786775	-	SAK_1089	-	COG0483G	inositol monophosphatase
+1062626..1062907	-	93	76788189	-	SAK_1090	-	COG4476S	hypothetical protein
+1062900..1063313	-	137	76787080	spxA	SAK_1091	-	COG1393P	Spx family transcriptional regulator
+1063356..1064288	-	310	76787231	ribF	SAK_1092	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+1064301..1065185	-	294	76788553	truB	SAK_1093	-	COG0130J	tRNA pseudouridine synthase B
+1065277..1065708	-	143	76787644	-	SAK_1094	-	COG0456R	acetyltransferase
+1065721..1066992	-	423	76788214	-	SAK_1095	-	COG4487S	hypothetical protein
+1067026..1067616	-	196	76787066	-	SAK_1096	-	COG0732V	hypothetical protein
+1067723..1068601	-	292	76788224	-	SAK_1097	-	COG1266R	CAAX amino terminal protease
+1068707..1071337	-	876	76787604	-	SAK_1098	-	COG4591M	ABC transporter permease
+1071349..1072050	-	233	76788445	-	SAK_1099	-	COG1136V	ABC transporter ATP-binding protein
+1072187..1074307	-	706	76788636	topA	SAK_1100	-	COG0550L	DNA topoisomerase I
+1074402..1075244	-	280	76787406	-	SAK_1101	-	COG0758LU	DNA processing protein DprA
+1075382..1076410	-	342	76786853	-	SAK_1102	-	COG4607P	iron ABC transporter substrate-binding protein
+1076472..1077233	-	253	76787783	-	SAK_1103	-	COG4604P	iron ABC transporter ATP-binding protein
+1077230..1078204	-	324	76788501	-	SAK_1104	-	COG4605P	iron chelate uptake ABC transporter permease
+1078201..1079163	-	320	76786851	-	SAK_1105	-	COG4606P	iron chelate uptake ABC transporter permease
+1079402..1079950	-	182	76788441	-	SAK_1106	-	COG0110R	maltose O-acetyltransferase
+1079971..1080732	-	253	76787278	rnhB	SAK_1107	-	COG0164L	ribonuclease HII
+1080719..1081570	-	283	76787382	rbgA	SAK_1108	-	COG1161R	ribosomal biogenesis GTPase
+1081846..1082418	-	190	76788240	-	SAK_1109	-	COG1376S	hypothetical protein
+1082619..1084103	-	494	76786772	cstA	SAK_1110	-	COG1966T	carbon starvation protein CstA
+1084259..1084993	-	244	76788683	-	SAK_1111	-	COG3279KT	DNA-binding response regulator
+1085005..1086744	-	579	76786997	-	SAK_1112	-	COG3275T	sensor histidine kinase
+1087720..1088094	-	124	76787933	-	SAK_1113	-	-	hypothetical protein
+1088185..1088328	-	47	76787700	-	SAK_1114	-	-	hypothetical protein
+1088525..1088818	-	97	76787764	-	SAK_1115	-	COG4495S	hypothetical protein
+1088829..1089479	-	216	76788624	-	SAK_1116	-	-	hypothetical protein
+1089485..1090321	-	278	76787977	-	SAK_1117	-	-	hypothetical protein
+1090513..1090827	-	104	76787101	-	SAK_1118	-	COG4495S	hypothetical protein
+1090856..1091401	-	181	76786768	-	SAK_1119	-	-	hypothetical protein
+1091407..1092693	-	428	76787922	-	SAK_1120	-	-	hypothetical protein
+1092693..1093049	-	118	76787112	-	SAK_1121	-	-	hypothetical protein
+1093058..1093393	-	111	76788254	-	SAK_1122	-	-	hypothetical protein
+1093406..1097815	-	1469	76788247	-	SAK_1123	-	COG1674D	DNA translocase FtsK
+1097822..1099099	-	425	76787646	-	SAK_1124	-	COG4499S	hypothetical protein
+1099099..1099341	-	80	76788665	-	SAK_1125	-	COG5417S	hypothetical protein
+1099325..1099798	-	157	76787457	-	SAK_1126	-	-	hypothetical protein
+1099807..1102824	-	1005	76788593	-	SAK_1127	-	COG1511S	phage infection protein
+1102906..1103196	-	96	76787660	-	SAK_1128	-	COG4842S	hypothetical protein
+1103363..1103653	-	96	76787853	-	SAK_1129	-	COG4842S	hypothetical protein
+1103770..1104552	-	260	76786873	-	SAK_1130	-	COG5153UI	hypothetical protein
+1104549..1104872	-	107	76786847	-	SAK_1131	-	-	hypothetical protein
+1104999..1108181	-	1060	76788218	carB	SAK_1132	-	COG0458EF	carbamoyl phosphate synthase large subunit
+1108212..1109288	-	358	76788330	carA	SAK_1133	-	COG0505EF	carbamoyl phosphate synthase small subunit
+1109302..1110225	-	307	76788072	pyrB	SAK_1134	-	COG0540F	aspartate carbamoyltransferase
+1110390..1111682	-	430	76788409	pyrC	SAK_1135	-	COG0044F	dihydroorotase
+1111694..1112323	-	209	76787287	pyrE	SAK_1136	-	COG0461F	orotate phosphoribosyltransferase
+1112336..1113037	-	233	76787728	pyrF	SAK_1137	-	COG0284F	orotidine 5'-phosphate decarboxylase
+1113250..1114470	-	406	76787601	-	SAK_1138	-	COG2966S	hypothetical protein
+1114522..1116063	-	513	76787292	-	SAK_1139	-	COG0488R	ABC transporter ATP-binding protein
+1116194..1116532	-	112	76787167	-	SAK_1140	-	COG1328F	ATP cone domain-containing protein
+1116702..1117778	-	358	76787650	asd	SAK_1141	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1117985..1119025	-	346	76788525	-	SAK_1142	-	-	fibrinogen-binding protein
+1119716..1121191	-	491	76786864	-	SAK_1143	-	COG1502I	cardiolipin synthase
+1121430..1123100	-	556	76786984	fhs	SAK_1144	-	COG2759F	formate--tetrahydrofolate ligase
+1123189..1124208	-	339	76787725	lplA	SAK_1145	-	COG0095H	lipoate-protein ligase A
+1124235..1125113	-	292	76786817	-	SAK_1146	-	COG0846K	hypothetical protein
+1125082..1125900	-	272	76788073	-	SAK_1147	-	COG2110R	hypothetical protein
+1125893..1126225	-	110	76788503	-	SAK_1148	-	COG0509E	GcvH family protein
+1126254..1127240	-	328	76787128	-	SAK_1149	-	COG2141C	luciferase
+1127237..1128436	-	399	76788288	-	SAK_1150	-	COG1902C	FAD/FMN-binding oxidoreductase
+1128433..1129266	-	277	76786820	-	SAK_1151	-	COG0095H	hypothetical protein
+1129405..1130106	+	233	76787980	coaB	SAK_1152	-	COG0452H	phosphopantothenate--cysteine ligase
+1130099..1130641	+	180	76788626	coaC	SAK_1153	-	COG0452H	phosphopantothenoylcysteine decarboxylase
+1130687..1131259	+	190	76787928	-	SAK_1154	-	COG4684S	hypothetical protein
+1131369..1133087	+	572	76787313	-	SAK_1155	-	COG1109G	phosphoglucomutase/phosphomannomutase
+1133362..1135095	-	577	76788195	-	SAK_1156	-	COG1132V	ABC transporter permease/ATP-binding protein
+1135096..1136814	-	572	76788413	-	SAK_1157	-	COG1132V	ABC transporter permease/ATP-binding protein
+1136826..1137428	-	200	76787458	-	SAK_1158	-	-	hypothetical protein
+1137430..1138407	-	325	76786727	-	SAK_1159	-	COG3081R	hypothetical protein
+1138412..1139668	-	418	76787605	glyA	SAK_1160	-	COG0112E	serine hydroxymethyltransferase
+1139760..1140356	-	198	76787929	-	SAK_1161	-	COG0009J	Sua5/YciO/YrdC/YwlC family protein
+1140349..1141179	-	276	76786890	-	SAK_1162	-	COG2890J	HemK family modification methylase
+1141179..1142258	-	359	76788237	prfA	SAK_1163	-	COG0216J	peptide chain release factor 1
+1142293..1142862	-	189	76788271	tdk	SAK_1164	-	COG1435F	thymidine kinase
+1143000..1143182	+	60	76788103	-	SAK_1165	-	COG1942R	4-oxalocrotonate tautomerase
+1143322..1144269	+	315	76787011	-	SAK_1166	-	COG1477H	ApbE family protein
+1144287..1144889	+	200	76787867	-	SAK_1167	-	COG0431R	NADPH-dependent FMN reductase domain-containing protein
+1144913..1146148	+	411	76786735	-	SAK_1168	-	COG2461S	NADPH-dependent FMN reductase domain-containing protein
+1146247..1147035	+	262	76788608	-	SAK_1169	-	COG2116P	formate/nitrite transporter family protein
+1147130..1148404	-	424	76787478	pbuX	SAK_1170	-	COG2233F	xanthine permease
+1148404..1148985	-	193	76788707	xpt	SAK_1171	-	COG0503F	xanthine phosphoribosyltransferase
+1149240..1150223	-	327	76787370	guaC	SAK_1172	-	COG0516F	guanosine 5'-monophosphate oxidoreductase
+1150426..1151766	-	446	76786940	-	SAK_1173	-	COG2814G	drug:H+ antiporter-2 (DHA2) family protein
+1152058..1152729	+	223	76787479	-	SAK_1174	-	-	hypothetical protein
+1152800..1154800	-	666	76788474	-	SAK_1175	-	COG3158P	K+ uptake permease (KUP) family protein
+1154935..1155696	-	253	76787328	-	SAK_1176	-	COG4221R	short chain dehydrogenase/reductase oxidoreductase
+1155758..1156750	-	330	76787123	eutD	SAK_1177	-	COG0280C	phosphotransacetylase
+1156776..1157660	-	294	76787983	-	SAK_1178	-	COG0564J	ribosomal large subunit pseudouridine synthase A
+1157657..1158484	-	275	76786881	ppnK	SAK_1179	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+1158468..1159139	-	223	76788526	-	SAK_1180	-	COG2357S	RelA/SpoT domain-containing protein
+1159249..1159839	+	196	76786896	-	SAK_1181	-	COG4116S	hypothetical protein
+1160015..1160989	+	324	76788012	prs	SAK_1182	-	COG0462FE	ribose-phosphate pyrophosphokinase
+1160993..1162108	+	371	76787090	-	SAK_1183	-	COG1104E	cysteine desulfurase
+1162110..1162457	+	115	76787834	-	SAK_1184	-	-	hypothetical protein
+1162618..1163250	+	210	76787178	-	SAK_1185	-	COG2344R	redox-sensing transcriptional repressor Rex
+1163263..1163943	-	226	76788041	radC	SAK_1186	-	COG2003L	DNA repair protein RadC
+1164039..1165172	-	377	76787648	-	SAK_1187	-	COG0628R	hypothetical protein
+1165263..1166699	-	478	76788520	arb	SAK_1188	-	COG2723G	6-phospho-beta-glucosidase
+1166862..1167476	-	204	76786910	-	SAK_1189	-	COG2755E	GDSL family lipase/acylhydrolase
+1167577..1168398	-	273	76787852	-	SAK_1190	-	COG0561R	Cof-like hydrolase
+1169022..1169951	+	309	76788107	-	SAK_1191	-	COG4977K	AraC family transcriptional regulator
+1170008..1171540	-	510	76786977	-	SAK_1192	-	COG0038P	chloride channel (ClC) family protein
+1171649..1172722	-	357	76787391	potD	SAK_1193	-	COG0687E	spermidine/putrescine ABC transporter spermidine/putrescine-binding protein
+1172715..1173491	-	258	76787318	potC	SAK_1194	-	COG1177E	spermidine/putrescine ABC transporter permease PotC
+1173488..1174282	-	264	76787138	potB	SAK_1195	-	COG1176E	spermidine/putrescine ABC transporter permease PotB
+1174266..1175420	-	384	76788172	potA	SAK_1196	-	COG3842E	spermidine/putrescine ABC transporter ATP-binding protein
+1175469..1176371	-	300	76788612	murB	SAK_1197	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+1176515..1177003	-	162	76787503	folK	SAK_1198	-	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1177000..1177362	-	120	76788465	folB	SAK_1199	-	COG1539H	dihydroneopterin aldolase
+1177364..1178167	-	267	76787293	folP	SAK_1200	-	COG0294H	dihydropteroate synthase
+1178171..1178734	-	187	76788132	folE	SAK_1201	-	COG0302H	GTP cyclohydrolase I
+1178753..1180015	-	420	76786740	folC	SAK_1202	-	COG0285H	folylpolyglutamate synthase
+1180017..1180904	-	295	76787365	rarD	SAK_1203	-	COG2962R	rarD protein
+1180891..1181757	-	288	76788454	thrB	SAK_1204	-	COG0083E	homoserine kinase
+1181759..1183042	-	427	76786897	hom	SAK_1205	-	COG0460E	homoserine dehydrogenase
+1183219..1184106	+	295	76788186	-	SAK_1206	-	COG0726G	polysaccharide deacetylase
+1184129..1184866	-	245	76787915	-	SAK_1207	-	COG1292M	glycine betaine transporter OpuD, interruption-C
+1184888..1185277	-	129	76788657	-	SAK_1208	-	COG3293L	IS1381 transposase B
+1185310..1185693	-	127	76787230	-	SAK_1209	-	-	IS1381 transposase A
+1186680..1188056	-	458	76788492	-	SAK_1211	-	COG1012C	aldehyde dehydrogenase
+1188130..1189137	-	335	76786797	-	SAK_1212	-	COG2855S	hypothetical protein
+1189245..1189931	-	228	76787911	-	SAK_1213	-	-	hypothetical protein
+1192141..1192674	+	177	76787871	-	SAK_1216	-	-	hypothetical protein
+1192750..1193244	-	164	76786793	tpx	SAK_1217	-	COG2077O	thiol peroxidase
+1193317..1193976	-	219	76788323	-	SAK_1218	-	COG4912L	hypothetical protein
+1194743..1195384	-	213	76786903	-	SAK_1220	-	COG0490P	transcriptional regulator
+1195548..1196099	-	183	76788511	-	SAK_1221	-	COG1302S	alkaline shock protein 23
+1196121..1196318	-	65	76787606	-	SAK_1222	-	-	hypothetical protein
+1196365..1196907	-	180	76788521	-	SAK_1223	-	COG1302S	alkaline shock protein 23
+1196963..1197157	-	64	76787288	-	SAK_1224	-	COG5547S	hypothetical protein
+1197167..1197748	-	193	76788395	-	SAK_1225	-	-	hypothetical protein
+1197763..1198011	-	82	76787315	-	SAK_1226	-	COG2261S	transglycosylase associated protein
+1198059..1198304	-	81	76787106	-	SAK_1227	-	COG2261S	transglycosylase associated protein
+1198715..1200994	-	759	76787976	pcrA	SAK_1228	-	COG0210L	ATP-dependent DNA helicase PcrA
+1201100..1201486	-	128	76787585	-	SAK_1229	-	COG2050Q	hypothetical protein
+1201619..1202944	-	441	76787156	uraA	SAK_1230	-	COG2233F	uracil permease
+1203540..1204886	+	448	76787715	-	SAK_1231	-	COG1115E	amino acid carrier protein
+1204949..1206184	+	411	76788549	-	SAK_1232	-	COG0053P	cation diffusion facilitator (CDF) family protein
+1206343..1206735	+	130	76787710	-	SAK_1233	-	COG1380R	hypothetical protein
+1206716..1207411	+	231	76788508	-	SAK_1234	-	COG1346M	hypothetical protein
+1207480..1208103	+	207	76787941	-	SAK_1235	-	-	hypothetical protein
+1208516..1209718	-	400	76786829	rpsA	SAK_1237	-	COG0539J	30S ribosomal protein S1
+1210062..1210292	-	76	76787133	-	SAK_1240	-	-	hypothetical protein
+1210375..1211397	-	340	76787952	ilvE	SAK_1241	-	COG0115EH	branched-chain amino acid aminotransferase
+1211510..1213969	-	819	76787368	parC	SAK_1242	-	COG0188L	DNA topoisomerase IV subunit A
+1214103..1216031	-	642	76786737	parE	SAK_1243	-	COG0187L	DNA topoisomerase IV subunit B
+1216181..1216804	+	207	76788210	-	SAK_1244	-	COG0344S	glycerol-3-phosphate acyltransferase PlsY
+1216842..1217495	-	217	76787888	ung	SAK_1245	-	COG0692L	uracil-DNA glycosylase
+1217594..1218079	-	161	76786774	-	SAK_1246	-	-	hypothetical protein
+1218193..1219434	-	413	76787612	neuA	SAK_1247	-	COG1083M	N-acylneuraminate cytidylyltransferase
+1219445..1220074	-	209	76788506	neuD	SAK_1248	-	COG0663R	neuD protein
+1220071..1221225	-	384	76788471	neuC	SAK_1249	-	COG0381M	UDP-N-acetylglucosamine-2-epimerase NeuC
+1221302..1222327	-	341	76787549	neuB	SAK_1250	-	COG2089M	N-acetyl neuramic acid synthetase NeuB
+1222327..1223727	-	466	76788225	cpsL	SAK_1251	-	COG2244R	polysaccharide biosynthesis protein CpsL
+1223724..1224680	-	318	76787358	-	SAK_1252	-	-	capsular polysaccharide biosynthesis protein CpsK
+1224764..1225711	-	315	76788570	-	SAK_1253	-	COG0463M	capsular polysaccharide biosynthesis protein CpsJ
+1225745..1226719	-	324	76787453	cpsI	SAK_1254	-	COG0463M	capsular polysaccharide biosynthesis protein
+1226719..1227858	-	379	76786819	cpsH	SAK_1255	-	-	capsular polysaccharide synthesis protein CpsH
+1227954..1228436	-	160	76787022	-	SAK_1256	-	COG5017S	polysaccharide biosynthesis protein CpsG
+1228436..1228885	-	149	76787898	cpsF	SAK_1257	-	COG0707M	polysaccharide biosynthesis protein CpsF
+1228909..1230297	-	462	76787367	cpsE	SAK_1258	-	COG2148M	glycosyl transferase CpsE
+1230310..1231008	-	232	76788321	cpsD	SAK_1259	-	COG0489D	tyrosine-protein kinase CpsD
+1231019..1231711	-	230	76787622	cpsC	SAK_1260	-	COG3944M	capsular polysaccharide biosynthesis protein cpsC
+1231720..1232451	-	243	76788483	cpsB	SAK_1261	-	COG4464GM	protein-tyrosine-phosphatase
+1232457..1233914	-	485	76787356	-	SAK_1262	-	COG1316K	regulatory protein CpsX
+1234103..1235026	+	307	76788234	cpsY	SAK_1263	-	COG0583K	CpsY family transcriptional regulator
+1235827..1236537	-	236	76787784	deoD	SAK_1265	-	COG0813F	purine nucleoside phosphorylase
+1236521..1237777	-	418	76787723	-	SAK_1266	-	COG0038P	chloride channel (ClC) family protein
+1237779..1238588	-	269	76788598	punA	SAK_1267	-	COG0005F	purine nucleoside phosphorylase
+1238627..1239034	-	135	76788546	arsC	SAK_1268	-	COG1393P	arsenate reductase
+1239085..1240296	-	403	76787408	deoB	SAK_1269	-	COG1015G	phosphopentomutase
+1240353..1241024	-	223	76787126	rpiA	SAK_1270	-	COG0120G	ribose-5-phosphate isomerase A
+1241262..1241972	-	236	76787999	-	SAK_1271	-	COG5549O	hypothetical protein
+1242062..1242850	-	262	76787908	estA	SAK_1272	-	COG0627R	tributyrin esterase
+1242907..1244568	-	553	76787057	-	SAK_1273	-	COG0595R	metallo-beta-lactamase
+1244864..1245625	-	253	76788656	-	SAK_1274	-	COG1101R	ABC transporter ATP-binding protein
+1245625..1246488	-	287	76787514	-	SAK_1275	-	COG4120R	ABC transporter permease
+1246501..1247505	-	334	76786911	-	SAK_1276	-	COG2984R	hypothetical protein
+1247864..1249519	+	551	76787780	fbpA	SAK_1277	-	COG1293K	fibronectin/fibrinogen binding protein
+1249573..1250292	-	239	76787429	budA	SAK_1278	-	COG3527Q	alpha-acetolactate decarboxylase
+1250306..1251988	-	560	76788310	budB	SAK_1279	-	COG0028EH	acetolactate synthase
+1252098..1253324	-	408	76787183	-	SAK_1280	-	COG2956G	hypothetical protein
+1253314..1254504	-	396	76788071	-	SAK_1281	-	COG0628R	hypothetical protein
+1254596..1255057	-	153	76788609	-	SAK_1282	-	COG1051F	NUDIX family hydrolase
+1255047..1255529	-	160	76787693	mutX	SAK_1283	-	COG1051F	mutator mutT protein
+1255748..1258993	+	1081	76787465	hylB	SAK_1284	-	-	hyaluronate lyase
+1259045..1260091	-	348	76788555	rfbB	SAK_1285	-	COG1088M	dTDP-glucose 4,6-dehydratase
+1260298..1260891	-	197	76786998	rmlC	SAK_1286	-	COG1898M	dTDP-4-keto-6-deoxyglucose-3,5-epimerase
+1260891..1261760	-	289	76788332	rfbA	SAK_1287	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+1261819..1262922	-	367	76786716	-	SAK_1288	-	COG0665E	oxidoreductase, FAD-binding
+1262931..1263719	-	262	76788106	-	SAK_1289	-	COG0327S	NIF3 family protein
+1263709..1264392	-	227	76787724	-	SAK_1290	-	COG2384R	hypothetical protein
+1264496..1265176	-	226	76787864	-	SAK_1291	-	COG3935L	DNA replication protein DnaD
+1265294..1265812	-	172	76787454	apt	SAK_1292	-	COG0503F	adenine phosphoribosyltransferase
+1265935..1268499	-	854	76788705	-	SAK_1293	-	COG5492N	hydrophobic W repeat-containing protein
+1268651..1270849	-	732	76786929	recJ	SAK_1294	-	COG0608L	single-stranded-DNA-specific exonuclease RecJ
+1270846..1271607	-	253	76787771	-	SAK_1295	-	COG0300R	short chain dehydrogenase/reductase oxidoreductase
+1271609..1272538	-	309	76787130	rnz	SAK_1296	-	COG1234R	ribonuclease Z
+1272580..1273227	-	215	76788016	-	SAK_1297	-	COG4468G	hypothetical protein
+1273220..1274458	-	412	76787907	-	SAK_1298	-	COG2262R	GTP-binding protein
+1274549..1275439	-	296	76787592	miaA	SAK_1299	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+1275550..1275726	+	58	76788235	-	SAK_1300	-	-	hypothetical protein
+1275768..1276685	-	305	76787665	-	SAK_1301	-	COG1275P	hypothetical protein
+1276819..1280577	-	1252	76786806	-	SAK_1302	-	COG1523G	pullulanase, extracellular
+1280746..1281480	-	244	76787989	-	SAK_1303	-	COG1387ER	hypothetical protein
+1281495..1282079	-	194	76788183	-	SAK_1304	-	COG1573L	hypothetical protein
+1282176..1283582	-	468	76787443	pepV	SAK_1305	-	COG0624E	dipeptidase PepV
+1283629..1284231	-	200	76788369	-	SAK_1306	-	COG0778C	nitroreductase
+1284549..1286183	+	544	76787483	-	SAK_1307	-	COG4781C	glycerophosphoryl diester phosphodiesterase
+1286225..1288006	-	593	76786803	uvrC	SAK_1308	-	COG0322L	excinuclease ABC subunit C
+1288166..1288933	+	255	76788236	-	SAK_1309	-	COG1636S	hypothetical protein
+1288992..1290332	-	446	76787140	-	SAK_1310	-	COG0534V	MATE efflux family protein
+1290433..1290843	-	136	76787298	-	SAK_1311	-	COG2764S	hypothetical protein
+1290853..1291350	-	165	76788452	-	SAK_1312	-	-	hypothetical protein
+1291572..1292168	+	198	76786850	-	SAK_1313	-	-	hypothetical protein
+1292358..1292648	+	96	76787883	-	SAK_1314	-	COG2963L	ISSag4, transposase orfA
+1292684..1293463	+	259	76786787	-	SAK_1315	-	COG2801L	ISSag4, transposase orfB
+1293687..1293977	+	96	76787684	-	SAK_1316	-	-	hypothetical protein
+1295297..1297765	-	822	76788386	-	SAK_1318	-	-	streptococcal histidine triad family protein
+1297778..1298698	-	306	76787520	lmb	SAK_1319	-	COG0803P	laminin-binding surface protein
+1298934..1302386	-	1150	76788661	scpB	SAK_1320	-	COG1404O	C5a peptidase ScpB
+1302923..1303948	-	341	76787782	-	SAK_1321	-	-	hypothetical protein
+1304188..1304478	+	96	76786914	-	SAK_1322	-	COG2963L	ISSag4, transposase orfA
+1304514..1305275	+	253	76788304	-	SAK_1323	-	COG2801L	ISSag4, transposase orfB
+1305401..1307215	-	604	76788222	-	SAK_1324	-	COG2176L	DNA polymerase III subunit epsilon
+1307631..1308866	+	411	76788655	-	SAK_1325	-	-	hypothetical protein
+1309068..1310249	-	393	76787522	-	SAK_1326	-	COG4974L	phage integrase site specific recombinase
+1310504..1311070	-	188	76787821	-	SAK_1327	-	-	plasmid replication protein
+1312896..1313210	-	104	76786932	-	SAK_1330	-	-	hypothetical protein
+1313445..1314650	-	401	76788346	-	SAK_1331	-	-	hypothetical protein
+1314702..1315193	-	163	76787431	-	SAK_1332	-	COG5155	hypothetical protein
+1315207..1318818	-	1203	76788319	-	SAK_1333	-	COG0286V	type IIG restriction enzyme and methyltransferase
+1319059..1319424	-	121	76787462	rplL	SAK_1334	-	COG0222J	50S ribosomal protein L7/L12
+1319488..1319988	-	166	76788028	rplJ	SAK_1335	-	COG0244J	50S ribosomal protein L10
+1320422..1322530	+	702	76787079	clpL	SAK_1336	-	COG0542O	ATP-dependent Clp protease ATP-binding subunit ClpL
+1322624..1323568	-	314	76787540	mmuM	SAK_1337	-	COG2040E	homocysteine methyltransferase
+1323573..1324949	-	458	76786748	-	SAK_1338	-	COG0833E	amino acid permease
+1325079..1325729	-	216	76787300	-	SAK_1339	-	-	hypothetical protein
+1325887..1326210	-	107	76788548	-	SAK_1340	-	-	hypothetical protein
+1326482..1327111	+	209	76788515	-	SAK_1341	-	COG1309K	TetR family transcriptional regulator
+1327092..1327688	-	198	76787685	engB	SAK_1342	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+1327699..1328925	-	408	76786965	clpX	SAK_1343	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+1328986..1329132	+	48	76788125	-	SAK_1344	-	-	hypothetical protein
+1329143..1329637	-	164	76786814	folA	SAK_1345	-	COG0262H	dihydrofolate reductase
+1329717..1330556	-	279	76787961	thyA	SAK_1346	-	COG0207F	thymidylate synthase
+1330710..1331882	+	390	76788504	-	SAK_1347	-	COG3425I	hydroxymethylglutaryl-CoA synthase
+1331884..1333167	+	427	76787661	-	SAK_1348	-	COG1257I	hydroxymethylglutaryl-CoA reductase, degradative
+1333259..1333708	+	149	76788350	-	SAK_1349	-	-	hypothetical protein
+1333713..1334357	+	214	76786976	-	SAK_1350	-	COG1272R	hemolysin III
+1334444..1335358	+	304	76787563	-	SAK_1351	-	COG1597IR	hypothetical protein
+1335459..1336313	+	284	76787958	-	SAK_1352	-	COG0435O	hypothetical protein
+1336359..1336577	-	72	76787086	-	SAK_1353	-	-	hypothetical protein
+1336645..1337640	-	331	76788146	fni	SAK_1354	-	COG1304C	isopentenyl pyrophosphate isomerase
+1337637..1338629	-	330	76788436	-	SAK_1355	-	COG1577I	phosphomevalonate kinase
+1338622..1339566	-	314	76787545	mvaD	SAK_1356	-	COG3407I	diphosphomevalonate decarboxylase
+1339548..1340426	-	292	76788697	mvk	SAK_1357	-	COG1577I	mevalonate kinase
+1340542..1341771	-	409	76786788	-	SAK_1358	-	COG0642T	sensor histidine kinase
+1341771..1342457	-	228	76787910	-	SAK_1359	-	COG0745TK	DNA-binding response regulator
+1342459..1343085	-	208	76787052	-	SAK_1360	-	COG2357S	RelA/SpoT domain-containing protein
+1343193..1344947	-	584	76788037	-	SAK_1361	-	COG1132V	ABC transporter permease
+1344937..1346754	-	605	76787154	-	SAK_1362	-	COG1132V	ABC transporter permease
+1346801..1347241	-	146	76787806	-	SAK_1363	-	COG1846K	MarR family transcriptional regulator
+1347510..1349582	+	690	76786935	-	SAK_1364	-	COG0737F	Ser/Thr protein phosphatase
+1349619..1350029	-	136	76787753	def	SAK_1365	-	COG0242J	peptide deformylase
+1350099..1351448	-	449	76786874	gdhA	SAK_1366	-	COG0334E	glutamate dehydrogenase
+1351616..1352125	+	169	76788586	-	SAK_1367	-	COG3247S	hypothetical protein
+1352166..1353935	-	589	76787704	-	SAK_1368	-	COG1132V	ABC transporter permease/ATP-binding protein
+1353940..1355679	-	579	76787124	-	SAK_1369	-	COG1132V	ABC transporter permease/ATP-binding protein
+1355746..1356219	-	157	76787436	-	SAK_1370	-	COG1246E	acetyltransferase
+1356216..1358084	-	622	76787048	-	SAK_1371	-	COG0488R	ABC transporter ATP-binding protein
+1358095..1359288	-	397	76787734	papS	SAK_1372	-	COG0617J	tRNA CCA-pyrophosphorylase
+1359488..1360336	-	282	76787988	-	SAK_1373	-	COG1307S	DegV family protein
+1360336..1360716	-	126	76788298	-	SAK_1374	-	COG4835S	hypothetical protein
+1360788..1361321	-	177	76787241	-	SAK_1375	-	-	hypothetical protein
+1361372..1361866	-	164	76787860	-	SAK_1376	-	COG4331S	hypothetical protein
+1362055..1364019	-	654	76786718	-	SAK_1377	-	COG1299G	PTS system fructose-specific transporter subunit IIABC
+1364016..1364927	-	303	76788142	-	SAK_1378	-	COG1105G	1-phosphofructokinase
+1364924..1365667	-	247	76787067	-	SAK_1379	-	COG1349KG	DeoR family transcriptional regulator
+1365798..1367033	-	411	76787280	-	SAK_1380	-	COG2348V	beta-lactam resistance factor
+1367177..1368811	-	544	76788435	-	SAK_1381	-	-	bsp protein
+1369023..1369946	-	307	76787552	panE	SAK_1382	-	COG1893H	2-dehydropantoate 2-reductase
+1369959..1371029	-	356	76788645	-	SAK_1383	-	COG3641R	hypothetical protein
+1371166..1372158	-	330	76787927	-	SAK_1384	-	COG0492O	pyridine nucleotide-disulfide oxidoreductase
+1372139..1372894	-	251	76787539	trmD	SAK_1385	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+1372881..1373399	-	172	76787824	rimM	SAK_1386	-	COG0806J	16S rRNA-processing protein RimM
+1373721..1375232	-	503	76787195	-	SAK_1389	-	-	RofA family transcriptional regulator
+1375364..1375606	-	80	76787091	-	SAK_1390	-	COG1837R	hypothetical protein
+1375616..1375888	-	90	76788217	rpsP	SAK_1391	-	COG0228J	30S ribosomal protein S16
+1376017..1377264	-	415	76787036	-	SAK_1392	-	COG0577V	ABC transporter permease
+1377279..1377989	-	236	76788461	-	SAK_1393	-	COG1136V	ABC transporter ATP-binding protein
+1377992..1379236	-	414	76788685	-	SAK_1394	-	COG0845M	RND family efflux transporter MFP subunit
+1379445..1381043	-	532	76787530	-	SAK_1395	-	COG0458EF	carbamoyl-phosphate synthase large subunit
+1381099..1382169	-	356	76786878	carA	SAK_1396	-	COG0505EF	carbamoyl phosphate synthase small subunit
+1382218..1382739	-	173	76787785	pyrR	SAK_1397	-	COG2065F	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+1382915..1383805	-	296	76787790	-	SAK_1398	-	COG0564J	ribosomal large subunit pseudouridine synthase A
+1383789..1384253	-	154	76787896	lspA	SAK_1399	-	COG0597MU	lipoprotein signal peptidase
+1384262..1385167	-	301	76788522	-	SAK_1400	-	COG0583K	LysR family transcriptional regulator
+1385383..1385676	-	97	76787296	rpmA	SAK_1401	-	COG0211J	50S ribosomal protein L27
+1385698..1386036	-	112	76787149	-	SAK_1402	-	COG2868J	hypothetical protein
+1386043..1386357	-	104	76788057	rplU	SAK_1403	-	COG0261J	50S ribosomal protein L21
+1386547..1387725	-	392	76786942	-	SAK_1404	-	COG2843M	CapA domain-containing protein
+1387827..1389041	-	404	76787749	thiI	SAK_1405	-	COG0301H	thiamine biosynthesis protein ThiI
+1389043..1390188	-	381	76788498	-	SAK_1406	-	COG1104E	class V aminotransferase
+1390435..1390887	+	150	76787245	-	SAK_1407	-	-	hypothetical protein
+1390931..1392280	-	449	76788399	gor	SAK_1408	-	COG1249C	glutathione reductase
+1392455..1392790	-	111	76787862	-	SAK_1409	-	COG3679S	hypothetical protein
+1392874..1394040	-	388	76787025	aroC	SAK_1410	-	COG0082E	chorismate synthase
+1394041..1395108	-	355	76788368	aroB	SAK_1411	-	COG0337E	3-dehydroquinate synthase
+1395202..1395879	-	225	76787596	aroD	SAK_1412	-	COG0710E	3-dehydroquinate dehydratase
+1395879..1397036	-	385	76787301	-	SAK_1413	-	COG1092R	hypothetical protein
+1397171..1399315	+	714	76786987	-	SAK_1414	-	COG1368M	sulfatase
+1399557..1399916	-	119	76788134	rplT	SAK_1415	-	COG0292J	50S ribosomal protein L20
+1399974..1400174	-	66	76787843	rpmI	SAK_1416	-	COG0291J	50S ribosomal protein L35
+1400214..1400744	-	176	76788706	infC	SAK_1417	-	COG0290J	translation initiation factor IF-3
+1400905..1401588	-	227	76788155	cmk	SAK_1418	-	COG0283F	cytidylate kinase
+1401599..1402123	-	174	76786875	-	SAK_1419	-	-	hypothetical protein
+1402169..1402366	+	65	76788110	-	SAK_1420	-	COG1141C	ferredoxin
+1402353..1402844	-	163	76787027	-	SAK_1421	-	-	hypothetical protein
+1402873..1404093	-	406	76787349	pepT	SAK_1422	-	COG2195E	peptidase T
+1404228..1405862	-	544	76788261	-	SAK_1423	-	COG2244R	polysaccharide biosynthesis protein
+1405986..1407440	+	484	76787595	murE	SAK_1424	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+1407596..1408390	+	264	76786954	fhuC	SAK_1425	-	COG1120PH	ferrichrome ABC transporter ATP-binding protein
+1408414..1409346	+	310	76787878	fhuD	SAK_1426	-	COG0614P	ferrichrome ABC transporter substrate-binding protein
+1409362..1410387	+	341	76787207	fhuB	SAK_1427	-	COG0609P	ferrichrome ABC transporter permease
+1410384..1411385	+	333	76788178	-	SAK_1428	-	COG0609P	iron ABC transporter permease
+1411414..1412067	-	217	76786809	-	SAK_1429	-	-	hypothetical protein
+1412127..1413062	-	311	76788545	ppaC	SAK_1430	-	COG1227C	manganese-dependent inorganic pyrophosphatase
+1413179..1413967	-	262	76787669	pflA	SAK_1431	-	COG1180O	pyruvate formate-lyase-activating enzyme
+1414035..1415369	-	444	76788362	-	SAK_1432	-	COG1253R	hypothetical protein
+1415549..1416115	-	188	76787418	-	SAK_1433	-	COG2265J	hypothetical protein
+1416108..1417043	-	311	76787125	-	SAK_1434	-	COG1242R	radical SAM family protein
+1417136..1417777	-	213	76788182	-	SAK_1435	-	COG0671I	PAP2 family protein
+1417758..1418342	-	194	76786835	-	SAK_1436	-	COG3601S	hypothetical protein
+1418626..1419225	-	199	76788537	-	SAK_1437	-	COG3764M	sortase
+1419218..1419889	-	223	76787722	-	SAK_1438	-	-	hypothetical protein
+1419879..1420754	-	291	76788296	-	SAK_1439	-	COG3764M	sortase
+1420792..1422300	-	502	76787218	-	SAK_1440	-	COG4932M	surface protein Spb1
+1422341..1425622	-	1093	76788370	-	SAK_1441	-	COG4932M	Cna B domain-containing protein
+1425799..1426641	-	280	76787687	-	SAK_1442	-	-	hypothetical protein
+1426660..1427229	-	189	76787808	lepB	SAK_1443	-	COG2932K	signal peptidase I
+1427213..1427485	-	90	76788157	-	SAK_1444	-	-	hypothetical protein
+1427724..1428872	-	382	76787019	-	SAK_1445	-	COG0438M	glycoside hydrolase
+1428862..1429710	-	282	76787466	-	SAK_1446	-	COG1216R	glycosyl transferase
+1429707..1431131	-	474	76788349	-	SAK_1447	-	COG2244R	polysaccharide biosynthesis protein
+1431131..1432495	-	454	76788475	-	SAK_1448	-	COG4713S	hypothetical protein
+1432497..1433444	-	315	76787575	-	SAK_1449	-	COG1216R	glycosyl transferase
+1433453..1434388	-	311	76787421	-	SAK_1450	-	COG1216R	glycosyl transferase
+1434390..1435445	-	351	76788343	-	SAK_1451	-	COG0451MG	nucleotide sugar dehydratase
+1435448..1436167	-	239	76787697	ispD	SAK_1452	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1436170..1436994	-	274	76786741	licD2	SAK_1453	-	COG3475M	licD2 protein
+1437019..1438752	-	577	76788154	-	SAK_1454	-	-	hypothetical protein
+1438745..1439098	-	117	76786978	-	SAK_1455	-	COG2456S	hypothetical protein
+1439095..1439823	-	242	76788363	-	SAK_1456	-	COG0463M	glycosyl transferase
+1439828..1440769	-	313	76787508	-	SAK_1457	-	COG0463M	glycosyl transferase
+1440759..1441913	-	384	76788087	rgpAc	SAK_1458	-	COG0438M	rgpAc protein
+1442030..1442884	-	284	76787170	rfbD	SAK_1459	-	COG1091M	dTDP-4-dehydrorhamnose reductase
+1442974..1443315	-	113	76787712	-	SAK_1460	-	COG2151R	hypothetical protein
+1443424..1444533	-	369	76788342	rpoD	SAK_1461	-	COG0568K	RNA polymerase sigma factor RpoD
+1444541..1446322	-	593	76787887	dnaG	SAK_1462	-	COG0358L	DNA primase
+1446539..1446916	+	125	76787675	mscL	SAK_1463	-	COG1970M	large conductance mechanosensitive channel protein
+1447013..1447189	-	58	76788105	rpsU	SAK_1464	-	-	30S ribosomal protein S21
+1447293..1447796	-	167	76786732	-	SAK_1465	-	COG0727R	hypothetical protein
+1447879..1448685	-	268	76787172	-	SAK_1466	-	COG0834ET	polar amino acid ABC transporter amino acid-binding protein
+1449010..1450029	-	339	76788096	-	SAK_1467	-	COG0004P	ammonium transporter
+1450133..1451260	+	375	76787657	-	SAK_1468	-	COG2072P	hypothetical protein
+1451297..1452283	-	328	76786765	-	SAK_1469	-	COG1054R	hypothetical protein
+1452446..1452751	+	101	76787348	-	SAK_1470	-	-	hypothetical protein
+1452906..1454279	-	457	76788532	-	SAK_1471	-	COG2271G	glycerol-3-phosphate transporter
+1454694..1456958	-	754	76788379	glgP	SAK_1472	-	COG0058G	glycogen/starch/alpha-glucan phosphorylase
+1456970..1458466	-	498	76788357	malQ	SAK_1473	-	COG1640G	4-alpha-glucanotransferase
+1458587..1459615	-	342	76786902	-	SAK_1474	-	COG1609K	maltose operon transcriptional repressor MalR
+1459871..1461118	+	415	76788036	-	SAK_1475	-	COG2182G	carbohydrate ABC transporter periplasmic-binding protein
+1461216..1462586	+	456	76786830	-	SAK_1476	-	COG1175G	cyclodextrin ABC transporter permease
+1462586..1463422	+	278	76787718	-	SAK_1477	-	COG3833G	cyclodextrin ABC transporter permease
+1463653..1465125	+	490	76787398	-	SAK_1478	-	COG3104E	amino acid/peptide transporter
+1465170..1465634	-	154	76788251	-	SAK_1479	-	COG1051F	NUDIX family hydrolase
+1465917..1467242	-	441	76787643	-	SAK_1480	-	COG0404E	hypothetical protein
+1467235..1468743	-	502	76788567	-	SAK_1481	-	COG0438M	glycoside hydrolase
+1468757..1471144	-	795	76787555	secA	SAK_1482	-	COG0653U	preprotein translocase subunit SecA
+1471131..1472123	-	330	76788664	asp3	SAK_1483	-	-	hypothetical protein
+1472120..1473604	-	494	76787766	asp2	SAK_1484	-	-	hypothetical protein
+1473686..1475230	-	514	76786887	asp1	SAK_1485	-	-	hypothetical protein
+1475230..1476459	-	409	76788006	secY	SAK_1486	-	COG0201U	preprotein translocase subunit SecY
+1476583..1477779	-	398	76787062	-	SAK_1487	-	-	hypothetical protein
+1477840..1478715	-	291	76787068	-	SAK_1488	-	COG1215M	glycosyl transferase
+1478708..1479892	-	394	76788171	-	SAK_1489	-	COG1442M	glycosyl transferase
+1479882..1481123	-	413	76788600	-	SAK_1490	-	COG1442M	glycosyl transferase
+1481120..1482325	-	401	76787768	-	SAK_1491	-	COG1442M	glycosyl transferase
+1482334..1483341	-	335	76788258	-	SAK_1492	-	-	hypothetical protein
+1483672..1487448	-	1258	76787518	-	SAK_1493	-	COG5422	cell wall surface anchor family protein
+1489421..1491412	-	663	76787746	uvrB	SAK_1495	-	COG0556L	excinuclease ABC subunit B
+1491473..1492393	-	306	76788635	-	SAK_1496	-	-	CAAX amino terminal protease
+1492576..1494759	+	727	76788581	-	SAK_1497	-	COG0765E	polar amino acid ABC transporter permease/substrate-binding protein
+1494759..1495499	+	246	76787227	-	SAK_1498	-	COG1126E	polar amino acid ABC transporter ATP-binding protein
+1496083..1496250	-	55	76788078	-	SAK_1499	-	-	hypothetical protein
+1496276..1497583	-	435	161486744	obgE	SAK_1500	-	COG0536R	GTPase ObgE
+1497650..1497778	-	42	76786759	-	SAK_1501	-	-	hypothetical protein
+1497956..1499197	+	413	76788138	pepS	SAK_1502	-	COG2309E	aminopeptidase
+1499232..1499810	-	192	76787193	-	SAK_1503	-	-	cell wall surface anchor family protein
+1499920..1501962	-	680	76787830	-	SAK_1504	-	COG0154J	amidase
+1502047..1502769	-	240	76787384	-	SAK_1505	-	COG1187J	RNA pseudouridine synthase
+1502960..1503802	-	280	76788514	-	SAK_1506	-	COG0656R	aldo/keto reductase
+1504069..1504743	+	224	76788710	-	SAK_1507	-	COG0778C	nitroreductase
+1504831..1505223	+	130	76787502	gloA	SAK_1508	-	COG0346E	lactoylglutathione lyase
+1505352..1506278	+	308	76786943	-	SAK_1509	-	COG0463M	glycosyl transferase
+1506407..1507795	+	462	76787789	cycA	SAK_1510	-	COG1113E	D-Serine/D-alanine/glycine:H+ symporter
+1507879..1508346	-	155	76788109	smpB	SAK_1511	-	COG0691O	SsrA-binding protein
+1508349..1510754	-	801	76787265	rnr	SAK_1512	-	COG0557K	ribonuclease R
+1510867..1511103	-	78	76788385	secG	SAK_1513	-	COG1314U	preprotein translocase subunit SecG
+1511293..1512462	-	389	76787489	-	SAK_1515	-	COG2814G	drug:H+ antiporter-1 (DHA1) family protein
+1512658..1514304	-	548	76788607	-	SAK_1516	-	-	hypothetical protein
+1514294..1514995	-	233	76786966	-	SAK_1517	-	COG1131V	ABC transporter ATP-binding protein
+1515119..1515706	-	195	76787787	coaE	SAK_1518	-	COG0237H	dephospho-CoA kinase
+1515703..1516524	-	273	76788529	mutM	SAK_1519	-	COG0266L	formamidopyrimidine-DNA glycosylase
+1516673..1517521	-	282	76787405	-	SAK_1520	-	COG1396K	Rgg/GadR/MutR family transcriptional regulator
+1517738..1519330	+	530	76787182	-	SAK_1521	-	COG5279D	hypothetical protein
+1519986..1520084	-	32	76787991	-	SAK_1522	-	-	hypothetical protein
+1520319..1520573	-	84	76786836	-	SAK_1523	-	-	CAAX amino terminal protease
+1521303..1521704	-	133	76786786	-	SAK_1524	-	-	hypothetical protein
+1521941..1522840	-	299	76787745	era	SAK_1525	-	COG1159R	GTP-binding protein Era
+1522882..1523280	-	132	76786885	dgkA	SAK_1526	-	COG0818M	diacylglycerol kinase
+1523261..1523746	-	161	76788021	-	SAK_1527	-	COG0319R	metalloprotease
+1524153..1524959	-	268	76787666	-	SAK_1528	-	COG3315Q	tetracenomycin polyketide synthesis O-methyltransferase TcmP
+1525281..1525757	-	158	76788540	-	SAK_1529	-	COG1051F	NUDIX family hydrolase
+1525949..1526752	+	267	76786936	-	SAK_1530	-	-	hypothetical protein
+1526843..1527829	-	328	76787874	-	SAK_1531	-	COG1702T	KH domain-containing protein
+1527953..1529725	-	590	76788585	-	SAK_1532	-	COG4716S	hypothetical protein
+1529882..1530070	-	62	76787412	-	SAK_1533	-	COG4479S	hypothetical protein
+1530094..1530603	-	169	76788166	msrA	SAK_1534	-	COG0225O	methionine sulfoxide reductase A
+1530741..1531595	-	284	76788329	-	SAK_1535	-	COG2996S	hypothetical protein
+1531713..1532270	-	185	76788564	frr	SAK_1536	-	COG0233J	ribosome recycling factor
+1532286..1533014	-	242	76786760	pyrH	SAK_1537	-	COG0528F	uridylate kinase
+1533135..1533815	-	226	76787495	nikE	SAK_1538	-	COG1124EP	nickel ABC transporter ATP-binding protein
+1533802..1534590	-	262	76787632	nikD	SAK_1539	-	COG0444EP	nickel ABC transporter ATP-binding protein
+1534578..1535339	-	253	76788518	nikC	SAK_1540	-	COG1173EP	nickel ABC transporter permease
+1535384..1536328	-	314	76788088	nikB	SAK_1541	-	COG0601EP	nickel ABC transporter permease
+1536315..1537931	-	538	76788275	nikA	SAK_1542	-	COG0747E	nickel ABC transporter nickel-binding protein
+1538320..1539009	-	229	76787201	rplA	SAK_1543	-	COG0081J	50S ribosomal protein L1
+1539113..1539538	-	141	76788089	rplK	SAK_1544	-	COG0080J	50S ribosomal protein L11
+1539800..1540966	+	388	76786876	-	SAK_1545	-	COG2826L	ISSag9, transposase
+1541300..1542682	-	460	76787837	-	SAK_1546	-	COG2271G	major facilitator family protein
+1542690..1543904	-	404	76787015	-	SAK_1547	-	COG1473R	M20D family peptidase
+1544162..1545067	+	301	76788552	-	SAK_1548	-	COG0583K	LysR family transcriptional regulator
+1545552..1546088	+	178	76787121	-	SAK_1549	-	COG2963L	IS861, transposase orfA
+1546064..1546897	+	277	76788018	-	SAK_1550	-	COG2801L	IS861, transposase orfB
+1546946..1548661	-	571	76788312	pabB	SAK_1551	-	COG0147EH	para-aminobenzoate synthase, component I
+1548743..1551184	-	813	76787709	ftsK	SAK_1552	-	COG1674D	DNA translocase FtsK
+1551359..1552162	+	267	76787691	-	SAK_1553	-	COG0652O	cyclophilin type peptidyl-prolyl cis-trans isomerase
+1552214..1553047	-	277	76788539	mtsC	SAK_1554	-	COG1108P	metal ABC transporter permease
+1553049..1553765	-	238	76786930	mtsB	SAK_1555	-	COG1121P	metal ABC transporter ATP-binding protein
+1553936..1554862	-	308	76787756	mtsA	SAK_1556	-	COG0803P	metal ABC transporter substrate-binding protein
+1555029..1555676	+	215	76787262	-	SAK_1557	-	COG1321K	iron-dependent repressor
+1555716..1556405	-	229	76788027	pfs	SAK_1558	-	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1556415..1556684	-	89	76788011	-	SAK_1559	-	-	hypothetical protein
+1556684..1557238	-	184	76786883	-	SAK_1560	-	COG0494LR	NUDIX family hydrolase
+1557259..1558638	-	459	76788672	glmU	SAK_1561	-	COG1207M	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+1558882..1559295	-	137	76787586	-	SAK_1562	-	COG2764S	hypothetical protein
+1559308..1559685	-	125	76787583	-	SAK_1563	-	COG0346E	glyoxalase
+1559774..1560730	-	318	76788456	-	SAK_1564	-	COG0673R	Gfo/Idh/MocA family oxidoreductase
+1561417..1562115	-	232	76788381	fabG	SAK_1566	-	COG1028IQR	3-ketoacyl-ACP reductase
+1562108..1562344	-	78	76787702	-	SAK_1567	-	-	hypothetical protein
+1562434..1562682	-	82	76787475	-	SAK_1568	-	COG3760S	hypothetical protein
+1562880..1563380	-	166	76788480	-	SAK_1569	-	COG0456R	acetyltransferase
+1563620..1565032	-	470	76787260	-	SAK_1570	-	COG1215M	glycosyl transferase
+1565172..1567331	-	719	76787119	-	SAK_1571	-	-	hypothetical protein
+1567338..1568771	-	477	76787131	-	SAK_1572	-	COG5337M	hypothetical protein
+1568776..1569453	-	225	76788025	-	SAK_1573	-	COG1285S	hypothetical protein
+1569505..1570200	-	231	76786968	-	SAK_1574	-	-	hypothetical protein
+1570565..1571902	-	445	76787840	brnQ	SAK_1575	-	COG1114E	branched chain amino acid:H+ symporter
+1572098..1574095	-	665	76788328	metG	SAK_1576	-	COG0143J	methionyl-tRNA synthetase
+1574238..1575113	+	291	76786919	-	SAK_1577	-	COG3615P	tellurite resistance protein TehB
+1575271..1575966	-	231	76787385	-	SAK_1578	-	COG3619S	hypothetical protein
+1576302..1577519	+	405	76788513	-	SAK_1579	-	COG1455G	PTS system lactose/cellobiose family transporter subunit IIC
+1577503..1578345	+	280	76787202	-	SAK_1580	-	COG4814R	hypothetical protein
+1578422..1579249	+	275	76788417	xth	SAK_1581	-	COG0708L	exodeoxyribonuclease III
+1579289..1579645	-	118	76788617	-	SAK_1582	-	COG1393P	hypothetical protein
+1579647..1580123	-	158	76787507	-	SAK_1583	-	COG0350L	methylated-DNA--protein-cysteine S-methyltransferase
+1580178..1581359	-	393	76786837	-	SAK_1584	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+1581422..1581970	-	182	76787797	-	SAK_1585	-	-	acetyltransferase
+1583263..1583898	+	211	76787886	-	SAK_1587	-	COG3142P	CutC family protein
+1584168..1585031	-	287	76787523	-	SAK_1588	-	COG0313R	tetrapyrrole methylase
+1585037..1585363	-	108	76788629	-	SAK_1589	-	COG4467S	DNA replication intiation control protein YabA
+1585393..1586256	-	287	76787329	holB	SAK_1590	-	COG0470L	DNA polymerase III subunit delta'
+1586276..1586911	-	211	76787087	tmk	SAK_1591	-	COG0125F	thymidylate kinase
+1587120..1588286	+	388	76787975	-	SAK_1592	-	COG2826L	ISSag9, transposase
+1588551..1589210	-	219	76786880	-	SAK_1593	-	COG2524K	hypothetical protein
+1589229..1589939	-	236	76787759	livF	SAK_1594	-	COG0410E	hydrophobic amino acid uptake ABC transporter ATP-binding protein LivF
+1589939..1590703	-	254	76787099	livG	SAK_1595	-	COG0411E	hydrophobic amino acid uptake ABC transporter ATP-binding protein LivG
+1590704..1591657	-	317	76787286	livM	SAK_1596	-	COG4177E	hydrophobic amino acid uptake ABC transporter permease LivM
+1591660..1592529	-	289	76786749	livH	SAK_1597	-	COG0559E	hydrophobic amino acid uptake ABC transporter permease LivH
+1593956..1594201	-	81	76788129	-	SAK_1599	-	COG4471S	hypothetical protein
+1594301..1594891	-	196	76787269	clpP	SAK_1600	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+1595016..1595645	-	209	76788496	upp	SAK_1601	-	COG0035F	uracil phosphoribosyltransferase
+1595755..1596924	-	389	76787613	-	SAK_1602	-	COG1168E	aminotransferase, classes I and II
+1597060..1597608	-	182	76786761	-	SAK_1603	-	COG0219J	RNA methyltransferase
+1597781..1599133	-	450	76788035	-	SAK_1604	-	COG0531E	amino acid-polyamine-organocation (APC) family permease
+1599339..1600688	+	449	76786776	trkA	SAK_1605	-	COG0569P	potassium transporter peripheral membrane protein
+1600693..1602132	+	479	76788679	-	SAK_1606	-	COG0168P	K+ transporter (Trk) family protein TrkH
+1602156..1602407	-	83	76786865	-	SAK_1607	-	COG0759S	hypothetical protein
+1602407..1603129	-	240	76787925	rluB	SAK_1608	-	COG1187J	ribosomal large subunit pseudouridine synthase B
+1603119..1603703	-	194	76787148	scpB	SAK_1609	-	COG1386K	segregation and condensation protein B
+1603700..1604407	-	235	76788054	scpA	SAK_1610	-	COG1354S	segregation and condensation protein A
+1604407..1605147	-	246	76788473	xerD	SAK_1611	-	COG4974L	site-specific tyrosine recombinase XerD
+1605137..1605610	-	157	76787279	-	SAK_1612	-	COG0517R	hypothetical protein
+1605607..1606128	-	173	76788676	-	SAK_1613	-	COG0622R	hypothetical protein
+1606110..1607084	-	324	76787573	rdgB	SAK_1614	-	COG0127F	deoxyribonucleotide triphosphate pyrophosphatase/unknown domain fusion protein
+1607081..1607875	-	264	76787427	murI	SAK_1615	-	COG0796M	glutamate racemase
+1608050..1608289	-	79	76788590	-	SAK_1616	-	COG3763S	hypothetical protein
+1608447..1608989	-	180	76787664	-	SAK_1617	-	-	hypothetical protein
+1609051..1609572	-	173	76788340	-	SAK_1618	-	COG1827R	hypothetical protein
+1609640..1610329	-	229	76787395	-	SAK_1619	-	COG0670R	hypothetical protein
+1610352..1610855	-	167	76787034	-	SAK_1620	-	COG1418R	hypothetical protein
+1610893..1611636	-	247	76788278	-	SAK_1621	-	COG0566J	RNA methyltransferase
+1611668..1611946	+	92	76786798	-	SAK_1622	-	COG1254C	acylphosphatase
+1612031..1612963	+	310	76787971	-	SAK_1623	-	COG0706U	OxaA-like protein precursor
+1613163..1613828	-	221	76787814	-	SAK_1624	-	COG0765E	polar amino acid ABC transporter permease
+1613852..1614709	-	285	76788500	-	SAK_1625	-	COG0834ET	polar amino acid ABC transporter polar amino acid-binding protein
+1614870..1616330	-	486	76786950	-	SAK_1626	-	COG0154J	amidase
+1616433..1616915	-	160	76787850	greA	SAK_1627	-	COG0782K	transcription elongation factor GreA
+1616988..1618790	-	600	76787639	-	SAK_1628	-	COG1559R	hypothetical protein
+1618877..1619380	-	167	76788557	-	SAK_1629	-	COG0456R	acetyltransferase
+1619466..1620797	-	443	76787448	murC	SAK_1630	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+1620807..1621424	-	205	76788331	-	SAK_1631	-	-	hypothetical protein
+1621429..1621527	-	32	76787781	-	SAK_1632	-	-	hypothetical protein
+1621589..1624687	-	1032	76787127	-	SAK_1633	-	COG0553KL	Snf2 family protein
+1624842..1626152	-	436	76788647	engA	SAK_1634	-	COG1160R	GTP-binding protein EngA
+1626200..1627102	-	300	76788356	dnaI	SAK_1635	-	COG1484L	primosomal protein DnaI
+1627099..1628274	-	391	76787157	-	SAK_1636	-	COG3611L	hypothetical protein
+1628274..1628753	-	159	76788444	nrdR	SAK_1637	-	COG1327K	NrdR family transcriptional regulator
+1628902..1630407	-	501	76786986	-	SAK_1638	-	COG0642T	sensor histidine kinase CsrS
+1630397..1631086	-	229	76788698	csrR	SAK_1639	-	COG0745TK	DNA-binding response regulator CsrR
+1631321..1631854	-	177	76787266	-	SAK_1640	-	COG1399R	hypothetical protein
+1631959..1632849	-	296	76786915	htpX	SAK_1641	-	COG0501O	heat shock protein HtpX
+1632870..1633424	-	184	76787851	-	SAK_1642	-	COG1704S	LemA family protein
+1633552..1634265	+	237	76787171	gidB	SAK_1643	-	COG0357M	16S rRNA methyltransferase GidB
+1634280..1635659	+	459	76788046	-	SAK_1644	-	COG0168P	K+ transporter (Trk) family protein
+1635672..1636343	+	223	76787137	-	SAK_1645	-	COG0569P	Trk family potassium uptake protein
+1636378..1637208	-	276	76787742	-	SAK_1646	-	COG0619P	nickel/cobalt ABC transporter permease
+1637201..1638877	-	558	76786769	-	SAK_1647	-	COG1123R	ABC transporter ATP-binding protein
+1638894..1639442	-	182	76788141	-	SAK_1648	-	COG4720S	hypothetical protein
+1639611..1640819	-	402	76787037	ygjU	SAK_1649	-	COG3633E	serine/threonine transporter SstT
+1642475..1643530	+	351	76787263	-	SAK_1651	-	COG1063ER	zinc-containing alcohol dehydrogenase
+1643579..1644271	-	230	76788621	metI	SAK_1652	-	COG2011P	D-methionine ABC transporter permease
+1644268..1645338	-	356	76787741	-	SAK_1653	-	COG1135P	amino acid ABC transporter ATP-binding protein
+1645331..1646707	-	458	76786844	-	SAK_1654	-	COG0624E	hypothetical protein
+1646841..1647665	-	274	76788434	-	SAK_1655	-	COG1464P	NLPA family lipoprotein
+1647806..1648639	-	277	76787597	-	SAK_1656	-	COG0834ET	amino acid ABC transporter amino acid-binding protein
+1648741..1649430	-	229	76787226	-	SAK_1657	-	COG2071R	glutamine amidotransferase class I
+1649585..1650301	-	238	76788654	-	SAK_1658	-	COG0217S	hypothetical protein
+1650419..1651207	-	262	76787654	-	SAK_1659	-	COG2376G	DhaKLM operon coactivator DhaQ
+1651415..1651951	-	178	76786734	-	SAK_1660	-	COG1309K	transcriptional regulator
+1652015..1652128	+	37	76786736	-	SAK_1661	-	-	hypothetical protein
+1652125..1653114	+	329	76788064	-	SAK_1662	-	COG2376G	dihydroxyacetone kinase subunit DhaK
+1653152..1653730	+	192	76787203	-	SAK_1663	-	COG2376G	dihydroxyacetone kinase DAK2 domain-containing protein
+1653730..1654104	+	124	76788031	-	SAK_1664	-	COG3412S	PTS system mannnose-specific transporter subunit IIA
+1654114..1654827	+	237	76787162	glpF	SAK_1665	-	COG0580G	glycerol uptake facilitator protein
+1655092..1655496	-	134	76787820	-	SAK_1666	-	COG0662G	hypothetical protein
+1655635..1656348	-	237	76787676	-	SAK_1667	-	COG0789K	MerR family transcriptional regulator
+1656441..1657550	-	369	76788302	-	SAK_1668	-	COG1323R	hypothetical protein
+1657547..1657798	-	83	76787951	-	SAK_1669	-	-	hypothetical protein
+1657821..1658555	-	244	76788556	-	SAK_1670	-	COG2227H	hypothetical protein
+1658621..1658977	-	118	76788208	-	SAK_1671	-	COG0799S	iojap-like protein
+1658979..1659500	-	173	76786832	-	SAK_1672	-	COG1335Q	isochorismatase
+1659563..1660150	-	195	76788391	-	SAK_1673	-	COG1713H	HD domain-containing protein
+1660147..1660779	-	210	76787059	nadD	SAK_1674	-	COG1057H	nicotinic acid mononucleotide adenylyltransferase
+1660909..1661226	-	105	76788008	-	SAK_1675	-	COG1534J	hypothetical protein
+1661319..1662437	-	372	76786933	-	SAK_1676	-	COG1161R	GTP-binding protein YqeH
+1662437..1662970	-	177	76787180	-	SAK_1677	-	COG2179R	HAD superfamily hydrolase
+1663081..1663968	-	295	76787310	-	SAK_1678	-	COG5006R	hypothetical protein
+1664125..1665567	-	480	76788437	gatB	SAK_1679	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1665567..1667033	-	488	76787557	gatA	SAK_1680	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1667033..1667335	-	100	76787528	gatC	SAK_1681	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1667473..1670118	-	881	76788644	ppdK	SAK_1682	-	COG0574G	pyruvate phosphate dikinase
+1670131..1670961	-	276	76786900	-	SAK_1683	-	COG1806S	hypothetical protein
+1670972..1671469	-	165	76788044	-	SAK_1684	-	COG2905T	hypothetical protein
+1671622..1672755	+	377	76788407	-	SAK_1685	-	COG1250I	3-hydroxybutyryl-CoA dehydrogenase
+1672802..1673350	-	182	76787012	-	SAK_1686	-	COG1335Q	isochorismatase
+1673417..1674202	-	261	76786992	codY	SAK_1687	-	COG4465K	transcriptional repressor CodY
+1674328..1675539	-	403	76788130	-	SAK_1688	-	COG0436E	aminotransferase
+1675806..1676258	+	150	76787297	-	SAK_1689	-	COG0589T	hypothetical protein
+1676314..1677696	-	460	76788674	-	SAK_1690	-	COG4696S	Cof-like hydrolase
+1677765..1678727	+	320	76788534	-	SAK_1691	-	COG0252EJ	asparaginase
+1678762..1679640	-	292	76787854	aroE	SAK_1692	-	COG0169E	shikimate 5-dehydrogenase
+1679738..1680652	-	304	76786800	-	SAK_1693	-	COG4989R	aldo/keto reductase
+1680943..1682958	-	671	76788227	recG	SAK_1694	-	COG1200LK	ATP-dependent DNA helicase RecG
+1683038..1684576	-	512	76788283	-	SAK_1695	-	COG3942R	hypothetical protein
+1684669..1685769	-	366	76788152	alr	SAK_1696	-	COG0787M	alanine racemase
+1685766..1686125	-	119	76787432	acpS	SAK_1697	-	COG0736I	4'-phosphopantetheinyl transferase
+1686150..1687157	-	335	76788616	-	SAK_1698	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+1687283..1689811	-	842	76786722	secA	SAK_1699	-	COG0653U	preprotein translocase subunit SecA
+1689920..1690867	-	315	76788603	manA	SAK_1700	-	COG1482G	mannose-6-phosphate isomerase
+1690985..1691866	-	293	76787038	scrK	SAK_1701	-	COG1940KG	fructokinase
+1691934..1693853	-	639	76787932	-	SAK_1702	-	COG1263G	PTS system sucrose-specific transporter subunit IIABC
+1694038..1695477	+	479	76788376	scrB	SAK_1703	-	COG1621G	sucrose-6-phosphate hydrolase
+1695479..1696441	+	320	76787234	scrR	SAK_1704	-	COG1609K	sucrose operon repressor ScrR
+1696528..1696962	-	144	76787394	nusB	SAK_1705	-	COG0781K	transcription antitermination protein NusB
+1696955..1697344	-	129	76788491	-	SAK_1706	-	COG1302S	hypothetical protein
+1697433..1697993	-	186	76786924	efp	SAK_1707	-	COG0231J	elongation factor P
+1698921..1699220	-	99	76787640	-	SAK_1708	-	COG4495S	hypothetical protein
+1699638..1699868	-	76	76788675	-	SAK_1709	-	-	hypothetical protein
+1699881..1700051	-	56	76787532	-	SAK_1710	-	-	hypothetical protein
+1700504..1700629	-	41	76787913	-	SAK_1711	-	-	hypothetical protein
+1700640..1700804	-	54	76787050	-	SAK_1712	-	-	hypothetical protein
+1701106..1701558	-	150	76788185	-	SAK_1713	-	COG2131F	cytidine/deoxycytidylate deaminase
+1702737..1703453	-	238	76788543	-	SAK_1715	-	-	hypothetical protein
+1703455..1704954	-	499	76787653	-	SAK_1716	-	COG2814G	drug:H+ antiporter-2 (DHA2) family protein
+1705290..1708118	-	942	76788140	uvrA	SAK_1717	-	COG0178L	excinuclease ABC subunit A
+1708250..1708921	-	223	76787007	-	SAK_1718	-	COG4858S	hypothetical protein
+1708946..1709890	-	314	76787950	-	SAK_1719	-	COG0598P	magnesium/cobalt transporter CorA
+1710060..1710299	-	79	76786818	rpsR	SAK_1720	-	COG0238J	30S ribosomal protein S18
+1710344..1710835	-	163	76787244	ssb1	SAK_1721	-	COG0629L	single-stranded DNA-binding protein
+1710847..1711134	-	95	76788641	rpsF	SAK_1722	-	COG0360J	30S ribosomal protein S6
+1712228..1713352	+	374	76787082	mutY	SAK_1723	-	COG1194L	A/G-specific adenine glycosylase
+1713529..1714122	+	197	76787796	-	SAK_1724	-	COG1476K	DNA-binding protein
+1714168..1714482	-	104	76788477	trx	SAK_1725	-	COG3118O	thioredoxin
+1715067..1717406	-	779	76787272	-	SAK_1727	-	COG1193L	MutS2 family protein
+1717491..1718033	-	180	76787002	-	SAK_1728	-	COG1286R	hypothetical protein
+1718036..1718347	-	103	76788428	-	SAK_1729	-	-	hypothetical protein
+1718458..1719351	+	297	76787270	rnhC	SAK_1730	-	COG1039L	ribonuclease HIII
+1719367..1719960	+	197	76787897	lepB	SAK_1731	-	COG0681U	signal peptidase I
+1720089..1722509	+	806	76787041	-	SAK_1732	-	COG0507L	recombinase D
+1722624..1723106	+	160	76787619	-	SAK_1733	-	-	hypothetical protein
+1723177..1724271	-	364	76787674	dinB	SAK_1734	-	COG0389L	DNA polymerase IV
+1724456..1726768	+	770	76787667	pflB	SAK_1735	-	COG1882C	formate acetyltransferase 1
+1726869..1727243	+	124	76788295	-	SAK_1736	-	-	FMN-binding protein
+1727278..1728207	-	309	76787423	-	SAK_1737	-	COG1680V	hypothetical protein
+1728204..1728959	-	251	76787053	-	SAK_1738	-	COG0346E	hypothetical protein
+1729021..1729980	+	319	76786973	-	SAK_1739	-	COG0730R	hypothetical protein
+1730059..1730886	-	275	76787359	-	SAK_1740	-	COG0580G	glycerol facilitator/aquaporin
+1731076..1731528	-	150	76788273	-	SAK_1741	-	COG0589T	universal stress family protein
+1731546..1732748	-	400	76787550	-	SAK_1742	-	COG2814G	major facilitator family protein
+1732904..1733563	+	219	76787496	-	SAK_1743	-	COG0664T	transcriptional regulator
+1733587..1735872	+	761	76786791	pepX	SAK_1744	-	COG2936R	x-prolyl-dipeptidyl aminopeptidase
+1735876..1736235	+	119	76787108	-	SAK_1745	-	-	hypothetical protein
+1736281..1737261	+	326	76788536	-	SAK_1746	-	COG0142H	polyprenyl synthetase
+1737346..1739094	-	582	76787966	cydC	SAK_1747	-	COG4987CO	ABC transporter ATP-binding protein
+1739087..1740805	-	572	76788320	cydD	SAK_1748	-	COG4988CO	ABC transporter ATP-binding protein
+1740805..1741824	-	339	76787435	cydB	SAK_1749	-	COG1294C	cytochrome d ubiquinol oxidase, subunit II
+1741825..1743252	-	475	76787464	cydA	SAK_1750	-	COG1271C	cytochrome d ubiquinol oxidase, subunit II
+1743355..1744563	-	402	76788081	-	SAK_1751	-	COG1252C	pyridine nucleotide-disulfide oxidoreductase
+1744576..1745475	-	299	76787215	-	SAK_1752	-	COG1575H	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+1745884..1746807	-	307	76787833	-	SAK_1753	-	-	hypothetical protein
+1747226..1748806	+	526	76787763	hsdM	SAK_1754	-	COG0286V	type I restriction-modification system, M subunit
+1749430..1751202	-	590	76788076	-	SAK_1755	-	-	hypothetical protein
+1751340..1753325	-	661	76787960	tkt	SAK_1756	-	COG0021G	transketolase
+1753374..1754018	-	214	76786729	-	SAK_1757	-	COG0176G	translaldolase
+1754036..1754725	-	229	76788708	-	SAK_1758	-	COG0036G	allulose-6-phosphate 3-epimerase
+1754737..1755840	-	367	76786802	-	SAK_1759	-	COG1299G	PTS system fructose-specific transporter subunit IIC
+1755853..1756302	-	149	76788396	-	SAK_1760	-	COG1762GT	PTS system fructose-specific transporter subunit IIA
+1756316..1756627	-	103	76787556	-	SAK_1761	-	COG1445G	PTS system fructose-specific transporter subunit IIB
+1756641..1758530	-	629	76787092	-	SAK_1762	-	COG3711K	PRD domain/PTS system IIA domain-containing protein
+1761779..1762309	-	176	76786937	-	SAK_1766	-	COG2320S	hypothetical protein
+1762351..1763142	-	263	76788297	-	SAK_1767	-	COG0384R	PhzF family phenazine biosynthesis protein
+1763152..1763562	-	136	76787158	-	SAK_1768	-	COG1670J	acetyltransferase
+1763970..1764068	-	32	76787531	-	SAK_1769	-	-	hypothetical protein
+1764492..1764791	+	99	76788415	-	SAK_1770	-	COG0718S	hypothetical protein
+1764952..1766142	+	396	76787838	cfa	SAK_1771	-	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+1766212..1766937	-	241	76788666	-	SAK_1772	-	COG0789K	MerR family transcriptional regulator
+1767064..1767651	-	195	76787294	-	SAK_1773	-	COG0847L	DNA polymerase III subunit epsilon
+1767695..1768231	-	178	76788181	-	SAK_1774	-	-	hypothetical protein
+1768366..1769538	+	390	76787111	-	SAK_1775	-	COG2081R	hypothetical protein
+1769581..1770363	-	260	76787956	-	SAK_1776	-	COG1085C	hypothetical protein
+1770522..1770791	+	89	76787570	rpsN	SAK_1777	-	COG0199J	30S ribosomal protein S14
+1771152..1772177	-	341	76788677	ltaE	SAK_1778	-	COG2008E	hypothetical protein
+1772296..1773306	-	336	76787524	gcp	SAK_1779	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+1773382..1773789	-	135	76788625	rimI	SAK_1780	-	COG0456R	ribosomal-protein-alanine acetyltransferase
+1773791..1774483	-	230	76787251	-	SAK_1781	-	COG1214O	M22 peptidase
+1774662..1774892	+	76	76788464	-	SAK_1782	-	COG5503S	hypothetical protein
+1774946..1776625	+	559	76787188	-	SAK_1783	-	COG0595R	metallo-beta-lactamase
+1776787..1777296	-	169	76788604	-	SAK_1784	-	COG3942R	CHAP domain-containing protein
+1777444..1778790	-	448	76787196	glnA	SAK_1785	-	COG0174E	glutamine synthetase, type I
+1778824..1779195	-	123	76788373	glnR	SAK_1786	-	COG0789K	GlnR family transcriptional regulator
+1779275..1779814	-	179	76786909	-	SAK_1787	-	COG4129S	hypothetical protein
+1780077..1781273	-	398	76788119	pgk	SAK_1788	-	COG0126G	phosphoglycerate kinase
+1781408..1782277	-	289	76786861	-	SAK_1789	-	COG2503R	5'-nucleotidase
+1782486..1783496	-	336	76787761	gap	SAK_1790	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+1783701..1785779	-	692	76788704	fusA	SAK_1791	-	COG0480J	elongation factor G
+1785934..1786404	-	156	76787220	rpsG	SAK_1792	-	COG0049J	30S ribosomal protein S7
+1786426..1786839	-	137	76788371	rpsL	SAK_1793	-	COG0048J	30S ribosomal protein S12
+1787058..1787870	-	270	76786961	purR	SAK_1794	-	COG0503F	pur operon repressor
+1787967..1788908	-	313	76787767	-	SAK_1795	-	COG3481R	HD domain-containing protein
+1788898..1790172	-	424	76786871	-	SAK_1796	-	COG1322S	RmuC domain-containing protein
+1790174..1790806	-	210	76787415	-	SAK_1797	-	COG1564H	hypothetical protein
+1790799..1791461	-	220	76788542	rpe	SAK_1798	-	COG0036G	ribulose-phosphate 3-epimerase
+1791468..1792340	-	290	161486745	-	SAK_1799	-	COG1162R	ribosome-associated GTPase
+1792496..1793347	-	283	76788311	-	SAK_1800	-	COG2226H	rRNA (guanine-N1-) methyltransferase (mycinamicin-resistance protein)
+1793351..1794223	-	290	76787342	ksgA	SAK_1801	-	COG0030J	dimethyladenosine transferase
+1794251..1794700	-	149	76788284	-	SAK_1802	-	COG0537FGR	HIT family protein
+1794704..1795270	-	188	76788671	-	SAK_1803	-	COG1658L	primase-like protein
+1795257..1796039	-	260	76787488	-	SAK_1804	-	COG0084L	TatD family hydrolase
+1796221..1796493	-	90	76788633	-	SAK_1805	-	-	hypothetical protein
+1796512..1796904	-	130	76787470	-	SAK_1806	-	COG4849S	hypothetical protein
+1796895..1798187	-	430	76788308	-	SAK_1807	-	-	hypothetical protein
+1798187..1798579	-	130	76788213	-	SAK_1808	-	-	hypothetical protein
+1798754..1800016	-	420	76787069	dltD	SAK_1809	-	COG3966M	dltD protein
+1800009..1800248	-	79	76788159	dltC	SAK_1810	-	COG0236IQ	D-alanine--poly(phosphoribitol) ligase subunit 2
+1800263..1801528	-	421	76787689	dltB	SAK_1811	-	COG1696M	dltB protein
+1801525..1803060	-	511	76787903	dltA	SAK_1812	-	COG1020Q	D-alanine--poly(phosphoribitol) ligase subunit 1
+1803206..1804393	-	395	76788245	dltS	SAK_1813	-	COG0642T	sensor histidine kinase DltS
+1804393..1805067	-	224	76788510	dltr	SAK_1814	-	COG0745TK	DNA-binding response regulator DltR
+1805423..1805557	-	44	76788528	rpmH	SAK_1815	-	-	50S ribosomal protein L34
+1805741..1807096	-	451	76787599	-	SAK_1816	-	COG3314S	hypothetical protein
+1807342..1809069	-	575	76788447	proWX	SAK_1817	-	COG4176E	glycine betaine/proline ABC transporter permease/substrate-binding protein
+1809088..1810311	-	407	76788093	proV	SAK_1818	-	COG4175E	glycine betaine/proline ABC transporter ATP-binding protein
+1810687..1813065	-	792	76788198	xpkA	SAK_1819	-	COG3957G	phosphoketolase
+1813155..1814246	-	363	76786783	-	SAK_1820	-	COG2220R	L-ascorbate 6-phosphate lactonase
+1814563..1816170	-	535	76788497	-	SAK_1821	-	COG3711K	PRD domain-containing protein
+1816308..1817069	-	253	76787623	-	SAK_1822	-	COG1082G	hypothetical protein
+1817089..1818606	-	505	76787638	-	SAK_1823	-	COG1070G	carbohydrate kinase
+1818672..1819661	-	329	76787400	-	SAK_1824	-	COG2159R	hypothetical protein
+1819683..1821134	-	483	76787378	-	SAK_1825	-	COG3775G	PTS system transporter subunit IIC
+1821232..1822188	-	318	76788524	-	SAK_1826	-	COG1052CHR	D-isomer specific 2-hydroxyacid dehydrogenase
+1822207..1823226	-	339	76787658	-	SAK_1827	-	-	hypothetical protein
+1823461..1824444	-	327	76786849	-	SAK_1828	-	COG1609K	LacI family sugar-binding transcriptional regulator
+1824608..1825255	-	215	76786931	-	SAK_1829	-	COG0176G	translaldolase
+1825266..1825982	-	238	76788060	araD	SAK_1830	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+1825984..1826847	-	287	76787103	-	SAK_1831	-	COG3623G	L-xylulose 5-phosphate 3-epimerase
+1826851..1827516	-	221	76788309	ulaD	SAK_1832	-	COG0269G	3-keto-L-gulonate-6-phosphate decarboxylase
+1827629..1828114	-	161	76788303	-	SAK_1833	-	COG1762GT	PTS system transporter subunit IIA
+1828181..1828459	-	92	76787045	-	SAK_1834	-	COG3414G	PTS system lactose/cellobiose family transporter subunit IIB
+1828487..1829926	-	479	76787525	ulaA	SAK_1835	-	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+1830094..1830711	-	205	76786812	-	SAK_1836	-	-	hypothetical protein
+1830888..1831343	+	151	76788637	-	SAK_1837	-	-	hypothetical protein
+1831366..1832658	-	430	76787246	purA	SAK_1838	-	COG0104F	adenylosuccinate synthetase
+1833029..1834051	-	340	76788573	pfoR	SAK_1839	-	COG1299G	pfoR protein
+1834413..1835087	+	224	76786969	-	SAK_1840	-	COG2964S	hypothetical protein
+1835257..1837509	+	750	76788315	-	SAK_1841	-	COG2918H	bifunctional glutamate--cysteine ligase/glutathione synthetase
+1837633..1838451	+	272	76786757	-	SAK_1842	-	-	hypothetical protein
+1838448..1839704	+	418	76787901	-	SAK_1843	-	COG3853P	hypothetical protein
+1839844..1840719	+	291	76786981	hslO	SAK_1844	-	COG1281O	heat shock protein 33
+1840703..1841680	+	325	76788535	-	SAK_1845	-	COG0042J	tRNA-dihydrouridine synthase
+1841801..1842442	+	213	76787409	-	SAK_1846	-	COG1428F	deoxynucleoside kinase
+1842456..1842947	+	163	76788325	-	SAK_1847	-	COG1247M	phosphinothricin N-acetyltransferase
+1843167..1845614	-	815	76788075	clpC	SAK_1848	-	COG0542O	ATP-dependent Clp protease, ATP-binding subunit ClpC
+1845611..1846075	-	154	76787159	ctsR	SAK_1849	-	COG4463K	CtsR family transcriptional regulator
+1846248..1846709	+	153	76787998	-	SAK_1850	-	COG2426S	hypothetical protein
+1846869..1847909	-	346	76786912	tsf	SAK_1851	-	COG0264J	elongation factor Ts
+1848003..1848773	-	256	76787145	rpsB	SAK_1852	-	COG0052J	30S ribosomal protein S2
+1849050..1849610	+	186	76787981	ahpC	SAK_1853	-	COG0450O	alkyl hydroperoxide reductase
+1849628..1851160	+	510	76788563	ahpF	SAK_1854	-	COG3634O	NADH dehydrogenase
+1851437..1853506	-	689	76787089	-	SAK_1856	-	COG0025P	monovalent cation:proton antiporter-1 (CPA1) family protein
+1853508..1853744	-	78	76786770	-	SAK_1857	-	-	hypothetical protein
+1853911..1854864	+	317	76788015	-	SAK_1858	-	COG1619V	U61 family peptidase
+1854914..1856809	-	631	76788591	pepO	SAK_1859	-	COG3590O	endopeptidase O
+1856957..1857940	+	327	76787610	-	SAK_1860	-	COG0673R	oxidoreductase, NAD-binding
+1859250..1859894	+	214	76787375	-	SAK_1862	-	COG0664T	cyclic nucleotide-binding protein
+1859960..1860574	+	204	76788216	def	SAK_1863	-	COG0242J	peptide deformylase
+1860646..1861647	-	333	76788117	-	SAK_1864	-	COG1609K	transcriptional regulator
+1861727..1862671	-	314	76788034	-	SAK_1865	-	-	hypothetical protein
+1862739..1862987	+	82	76786899	-	SAK_1866	-	-	hypothetical protein
+1863159..1863773	-	204	76787849	-	SAK_1867	-	COG3560R	nitroreductase
+1863906..1864331	-	141	76787973	-	SAK_1868	-	COG1846K	MarR family transcriptional regulator
+1864458..1868864	-	1468	76787214	polC	SAK_1869	-	COG2176L	DNA polymerase III PolC
+1868987..1869571	-	194	76787290	-	SAK_1870	-	COG1705NU	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+1869696..1871549	-	617	161486742	proS	SAK_1871	-	COG0442J	prolyl-tRNA synthetase
+1871641..1872900	-	419	76788389	-	SAK_1872	-	COG0750M	M50A family peptidase
+1872931..1873725	-	264	76787485	cdsA	SAK_1873	-	COG0575I	phosphatidate cytidylyltransferase
+1873740..1874492	-	250	76787788	uppS	SAK_1874	-	COG0020I	undecaprenyl pyrophosphate synthase
+1874658..1874999	-	113	76788116	yajC	SAK_1875	-	COG1862U	preprotein translocase subunit YajC
+1875076..1875420	-	114	76787900	-	SAK_1876	-	-	hypothetical protein
+1875572..1877041	-	489	76787551	-	SAK_1877	-	COG3666L	ISSag8, transposase
+1877174..1878337	-	387	76788360	-	SAK_1878	-	COG0281C	malate dehydrogenase
+1878362..1879699	-	445	76787271	-	SAK_1879	-	COG3493C	citrate, cation symporter (CCS) family protein
+1879853..1881379	+	508	76788223	-	SAK_1880	-	COG3290T	sensor histidine kinase
+1881381..1882061	+	226	76788394	-	SAK_1881	-	COG4565KT	response regulator
+1882082..1883077	-	331	76787748	galE	SAK_1882	-	COG1087M	UDP-glucose 4-epimerase
+1883165..1884772	-	535	76786807	dexB	SAK_1883	-	COG0366G	glucan 1,6-alpha-glucosidase
+1884901..1886034	-	377	76786866	msmK	SAK_1884	-	COG3839G	sugar ABC transporter ATP-binding protein
+1886135..1886986	-	283	76787633	-	SAK_1885	-	COG2508TQ	Fis family transcriptional regulator
+1887081..1887977	-	298	76788003	-	SAK_1886	-	COG2017G	lactose operon protein LacX
+1888031..1889008	-	325	76787393	lacD	SAK_1887	-	COG3684G	tagatose 1,6-diphosphate aldolase
+1889010..1889942	-	310	76787115	lacC	SAK_1888	-	COG1105G	tagatose-6-phosphate kinase
+1889953..1890468	-	171	76788090	lacB	SAK_1889	-	COG0698G	galactose-6-phosphate isomerase subunit LacB
+1890489..1890914	-	141	76786951	lacA	SAK_1890	-	COG0698G	galactose-6-phosphate isomerase subunit LacA
+1891163..1893316	-	717	76787823	-	SAK_1891	-	COG4409G	sialidase domain-containing protein
+1893377..1893652	-	91	76787175	-	SAK_1892	-	-	hypothetical protein
+1893852..1895300	-	482	76787228	-	SAK_1893	-	COG3775G	PTS system transporter subunit IIC
+1895340..1895645	-	101	76788650	-	SAK_1894	-	COG3414G	PTS system transporter subunit IIB
+1895647..1896111	-	154	76787321	-	SAK_1895	-	COG1762GT	PTS system transporter subunit IIA
+1896329..1897105	+	258	76788695	-	SAK_1896	-	COG1349KG	lactose phosphotransferase system repressor
+1897387..1899969	-	860	76787325	-	SAK_1897	-	-	streptococcal histidine triad family protein
+1899996..1900919	-	307	76788420	-	SAK_1898	-	COG0803P	laminin-binding surface protein
+1901174..1901617	-	147	76786988	dtd	SAK_1899	-	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+1901627..1903843	-	738	76788162	relA	SAK_1900	-	COG0317TK	GTP pyrophosphokinase
+1904103..1906505	+	800	76786868	cpdB	SAK_1901	-	COG0737F	bifunctional 2',3'-cyclic nucleotide 2'-phosphodiesterase/3'-nucleotidase precursor protein
+1906662..1907117	+	151	76788158	nrdI	SAK_1902	-	COG1780F	flavoprotein NrdI
+1907128..1908165	+	345	76788692	-	SAK_1903	-	COG1363G	M42 family peptidase
+1908165..1908662	+	165	76787730	-	SAK_1904	-	COG0645R	hypothetical protein
+1908884..1909921	-	345	76788673	-	SAK_1905	-	COG1840P	ABC transporter substrate-binding protein
+1909933..1910706	-	257	76787582	-	SAK_1906	-	COG4753T	AraC family transcriptional regulator
+1910710..1912359	-	549	76788455	-	SAK_1907	-	COG2972T	hypothetical protein
+1912497..1913324	-	275	76787239	-	SAK_1908	-	COG3716G	PTS system mannose/fructose/sorbose family IIDsubunit
+1913321..1914130	-	269	76788287	-	SAK_1909	-	COG3715G	PTS system mannose/fructose/sorbose family transporter subunit IIC
+1914146..1914637	-	163	76788194	-	SAK_1910	-	COG3444G	PTS system mannose/fructose/sorbose family transporter subunit IIB
+1914655..1915080	-	141	76787043	-	SAK_1911	-	COG2893G	PTS system mannose/fructose/sorbose family transporter subunit IIA
+1915327..1916379	-	350	76787938	-	SAK_1912	-	-	hypothetical protein
+1916590..1917498	-	302	76787945	-	SAK_1913	-	COG1668CP	hypothetical protein
+1917464..1917742	-	92	76786994	-	SAK_1914	-	-	hypothetical protein
+1919126..1919308	+	60	76786854	-	SAK_1916	-	COG2274V	ABC transporter ATP-binding protein
+1919379..1920713	-	444	76787731	rgfC	SAK_1917	-	COG2972T	histidine kinase
+1921118..1921462	-	114	76786848	-	SAK_1918	-	COG3279KT	response regulator
+1921678..1922508	-	276	76787484	rgfB	SAK_1919	-	COG3568R	hypothetical protein
+1922547..1924730	-	727	76788605	-	SAK_1920	-	COG1263G	PTS system glucose-specific transporter subunit IIABC
+1924888..1926543	-	551	76787305	-	SAK_1921	-	COG5002T	sensor histidine kinase
+1926536..1927213	-	225	76788392	-	SAK_1922	-	COG0745TK	phosphate regulon transcriptinal regulatory protein PhoB
+1927213..1927869	-	218	76786792	phoU	SAK_1923	-	COG0704P	phosphate transport system regulatory protein PhoU
+1927866..1928615	-	249	76788206	pstB	SAK_1924	-	COG1117P	phosphate transporter ATP-binding protein
+1928608..1929486	-	292	76786906	pstA	SAK_1925	-	COG0581P	phosphate ABC transporter permease
+1929488..1930333	-	281	76787299	pstC	SAK_1926	-	COG0573P	phosphate ABC transporter permease
+1930348..1931229	-	293	76788423	-	SAK_1927	-	COG0226P	phosphate ABC transporter substrate-binding protein
+1931360..1931920	-	186	76787120	-	SAK_1928	-	COG2019F	hypothetical protein
+1931917..1932657	-	246	76787751	-	SAK_1929	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+1932657..1933610	-	317	76786841	prmA	SAK_1930	-	COG2264J	50S ribosomal protein L11 methyltransferase
+1933607..1934065	-	152	76787487	-	SAK_1931	-	COG4815S	hypothetical protein
+1934189..1934905	+	238	76788512	-	SAK_1932	-	COG0789K	MerR family transcriptional regulator
+1934944..1935414	-	156	76787281	-	SAK_1933	-	COG3153R	acetyltransferase
+1935386..1935844	-	152	76788421	-	SAK_1934	-	COG1051F	NUDIX family hydrolase
+1935837..1936145	-	102	76787042	-	SAK_1935	-	COG4043S	hypothetical protein
+1936188..1936658	-	156	76786810	-	SAK_1936	-	-	hypothetical protein
+1936894..1937475	+	193	76788684	-	SAK_1937	-	COG1247M	acetyltransferase
+1937468..1938736	+	422	76787547	-	SAK_1938	-	COG2256L	recombination factor protein RarA
+1939326..1940435	-	369	76787051	-	SAK_1940	-	-	hypothetical protein
+1940575..1940784	-	69	76787253	-	SAK_1941	-	-	hypothetical protein
+1940873..1941013	-	46	76786771	-	SAK_1942	-	-	hypothetical protein
+1941036..1942166	-	376	76788193	-	SAK_1943	-	COG4974L	phage integrase site specific recombinase
+1942170..1942355	-	61	76788128	-	SAK_1944	-	-	hypothetical protein
+1942416..1943444	-	342	76788472	-	SAK_1945	-	COG2946L	replication initiation factor family protein
+1943447..1943866	-	139	76787893	-	SAK_1946	-	-	hypothetical protein
+1944192..1944365	-	57	76788709	-	SAK_1947	-	-	hypothetical protein
+1944822..1945316	+	164	76787285	-	SAK_1948	-	COG1476K	transcriptional regulator
+1945603..1946553	-	316	76788361	-	SAK_1949	-	COG2378K	hypothetical protein
+1946624..1947214	+	196	76787005	-	SAK_1950	-	COG0693R	DJ-1/PfpI family protein
+1948097..1948483	-	128	76787946	-	SAK_1952	-	-	hypothetical protein
+1948590..1949162	-	190	76788149	-	SAK_1953	-	-	hypothetical protein
+1949164..1949496	-	110	76787242	-	SAK_1954	-	-	hypothetical protein
+1950930..1951058	+	42	76787800	-	SAK_1955	-	-	hypothetical protein
+1951499..1951789	+	96	76786811	-	SAK_1956	-	COG4842S	hypothetical protein
+1951890..1952264	+	124	76787881	-	SAK_1957	-	-	hypothetical protein
+1952333..1952458	+	41	76787574	-	SAK_1958	-	-	hypothetical protein
+1952530..1952913	+	127	76788611	-	SAK_1959	-	-	hypothetical protein
+1952910..1953014	+	34	76787233	-	SAK_1960	-	-	hypothetical protein
+1953193..1953537	+	114	76788398	-	SAK_1961	-	-	hypothetical protein
+1953613..1953921	+	102	76787969	-	SAK_1962	-	-	hypothetical protein
+1954690..1954893	-	67	76786959	-	SAK_1963	-	-	hypothetical protein
+1955121..1955522	-	133	76787117	-	SAK_1964	-	-	hypothetical protein
+1955676..1956398	-	240	76787919	-	SAK_1965	-	-	hypothetical protein
+1956402..1957019	-	205	76786893	-	SAK_1966	-	COG1122P	ABC transporter ATP-binding protein
+1957698..1958552	-	284	76787192	-	SAK_1967	-	-	aminoglycoside 6-adenylyltransferase
+1958731..1959282	-	183	76788270	-	SAK_1968	-	-	hypothetical protein
+1959323..1959712	-	129	76787542	-	SAK_1969	-	COG3293L	IS1381 transposase B
+1959745..1960128	-	127	76788623	-	SAK_1970	-	-	IS1381 transposase A
+1960419..1961027	-	202	76787842	-	SAK_1971	-	-	hypothetical protein
+1961014..1961349	-	111	76786993	-	SAK_1972	-	COG1695K	PadR family transcriptional regulator
+1961878..1962366	-	162	76788168	-	SAK_1973	-	COG1246E	acetyltransferase
+1962535..1963296	-	253	76787289	-	SAK_1974	-	COG2194R	hypothetical protein
+1963293..1964195	-	300	76788364	-	SAK_1975	-	COG1131V	ABC transporter ATP-binding protein
+1964192..1964398	-	68	76787515	-	SAK_1976	-	-	hypothetical protein
+1964400..1965476	-	358	76787698	-	SAK_1977	-	COG1396K	DNA-binding protein
+1965725..1966339	-	204	76788124	-	SAK_1978	-	-	PAP2 family protein
+1966553..1966870	+	105	76786723	-	SAK_1979	-	COG1694R	MagZ family protein
+1966867..1967427	+	186	76787077	-	SAK_1980	-	COG1611R	decarboxylase
+1967732..1968595	+	287	76788191	-	SAK_1981	-	-	CAAX amino terminal protease
+1968752..1969054	-	100	76788597	-	SAK_1982	-	COG0607P	rhodanese-like domain-containing protein
+1969227..1969994	-	255	76787250	cfb	SAK_1983	-	-	cAMP factor
+1970763..1971302	+	179	76786794	-	SAK_1984	-	COG0563F	topology modulation protein
+1971503..1972588	+	361	76787895	-	SAK_1985	-	COG0371C	glycerol dehydrogenase
+1972753..1973460	-	235	76788584	-	SAK_1986	-	COG4420S	hypothetical protein
+1973807..1975651	-	614	76788020	-	SAK_1987	-	COG0646E	bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+1975696..1977933	-	745	76788547	metE	SAK_1988	-	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+1978303..1978626	-	107	76787249	-	SAK_1989	-	COG4392S	hypothetical protein
+1978616..1979308	-	230	76787792	-	SAK_1990	-	COG1296E	azaleucine resistance protein AzlC
+1979631..1984346	+	1571	76787527	cspA	SAK_1991	-	COG1404O	cell surface serine endopeptidase CspA
+1984579..1985265	+	228	76788079	-	SAK_1992	-	COG0745TK	DNA-binding response regulator
+1985262..1986650	+	462	76786746	-	SAK_1993	-	COG0642T	sensor histidine kinase
+1986743..1987351	+	202	76787921	-	SAK_1994	-	-	hypothetical protein
+1987441..1989942	-	833	76788163	leuS	SAK_1995	-	COG0495J	leucyl-tRNA synthetase
+1990319..1991566	+	415	76788380	-	SAK_1996	-	COG2814G	major facilitator family protein
+1991609..1992418	-	269	76787765	-	SAK_1997	-	COG4667R	hypothetical protein
+1992592..1993131	-	179	76786867	nusG	SAK_1998	-	COG0250K	transcription antitermination protein NusG
+1995055..1995438	+	127	76787615	-	SAK_2000	-	-	IS1381 transposase A
+1995471..1995860	+	129	76788248	-	SAK_2001	-	COG3293L	IS1381 transposase B
+1995857..1996456	-	199	76788264	-	SAK_2002	-	-	pathogenicity protein, interuption N-terminus
+1996768..1996941	-	57	76788053	secE	SAK_2003	-	COG0690U	preprotein translocase subunit SecE
+1997178..1999499	-	773	76787598	pbp2A	SAK_2005	-	COG0744M	penicillin-binding protein 2A
+1999543..2000427	+	294	76786717	-	SAK_2006	-	COG0564J	ribosomal large subunit pseudouridine synthase A
+2000452..2002092	-	546	76787892	-	SAK_2007	-	COG4640S	hypothetical protein
+2002262..2003473	-	403	76788229	deoB	SAK_2008	-	COG1015G	phosphopentomutase
+2003540..2004211	-	223	76787304	deoC	SAK_2009	-	COG0274F	deoxyribose-phosphate aldolase
+2004241..2005443	-	400	76788462	-	SAK_2010	-	COG1972F	concentrative nucleoside transporter (CNT) family protein
+2005464..2006243	-	259	76787602	udp	SAK_2011	-	COG2820F	uridine phosphorylase
+2006402..2007139	+	245	76787608	-	SAK_2012	-	COG2188K	GntR family transcriptional regulator
+2007549..2009171	-	540	76786852	groEL	SAK_2013	-	COG0459O	molecular chaperone GroEL
+2009267..2009551	-	94	76788010	groES	SAK_2014	-	COG0234O	co-chaperonin GroES
+2009726..2010529	-	267	76787331	-	SAK_2015	-	COG1101R	ABC transporter ATP-binding protein
+2010534..2011430	-	298	76786891	-	SAK_2016	-	COG4120R	ABC transporter permease
+2011446..2012408	-	320	76787535	-	SAK_2017	-	COG2984R	ABC transporter substrate-binding protein
+2012873..2013670	-	265	76787135	-	SAK_2018	-	COG0561R	Cof-like hydrolase
+2013856..2014716	+	286	76787757	-	SAK_2019	-	COG2514R	glyoxalase
+2014759..2015490	+	243	76787320	-	SAK_2020	-	COG3022S	hypothetical protein
+2015847..2016464	-	205	76787974	nrdG	SAK_2021	-	COG0602O	anaerobic ribonucleoside-triphosphate reductase activating protein
+2016537..2017028	-	163	76787773	-	SAK_2022	-	COG3981R	acetyltransferase
+2017037..2017969	-	310	76786889	-	SAK_2023	-	COG0673R	Gfo/Idh/MocA family oxidoreductase
+2017982..2018125	-	47	76788468	-	SAK_2024	-	-	hypothetical protein
+2018200..2020371	-	723	76786720	nrdD	SAK_2025	-	COG1328F	anaerobic ribonucleoside triphosphate reductase
+2020496..2021983	-	495	76788433	-	SAK_2026	-	-	hypothetical protein
+2022083..2022205	-	40	76787078	-	SAK_2027	-	-	hypothetical protein
+2022288..2022605	-	105	76787617	-	SAK_2028	-	COG3906S	hypothetical protein
+2022631..2023041	-	136	76788469	-	SAK_2029	-	COG0816L	Holliday junction resolvase-like protein
+2023050..2023316	-	88	76787813	-	SAK_2030	-	COG4472S	hypothetical protein
+2023518..2023916	-	132	76788667	spxA	SAK_2031	-	COG1393P	Spx family transcriptional regulator
+2024132..2025229	-	365	332548398	recA	SAK_2032	-	COG0468L	recombinase A
+2025345..2026604	-	419	76788203	cinA	SAK_2033	-	COG1058R	competence damage-inducible protein A
+2026693..2027244	-	183	76787560	tag	SAK_2034	-	COG2818L	DNA-3-methyladenine glycosylase I
+2027267..2027857	-	196	76787979	ruvA	SAK_2035	-	COG0632L	Holliday junction DNA helicase RuvA
+2027859..2029091	-	410	76787211	-	SAK_2036	-	COG2211G	major facilitator family transporter
+2029123..2031096	-	657	76787614	mutL	SAK_2037	-	COG0323L	DNA mismatch repair protein
+2031227..2031328	-	33	76788689	-	SAK_2038	-	-	hypothetical protein
+2031322..2031525	+	67	76788151	-	SAK_2039	-	COG1278K	cold shock protein
+2031582..2034158	-	858	76786970	hexA	SAK_2040	-	COG0249L	DNA mismatch repair protein MutS
+2034215..2034652	-	145	76787141	argR	SAK_2041	-	COG1438K	arginine repressor ArgR
+2034874..2036565	+	563	76787802	argS	SAK_2042	-	COG0018J	arginyl-tRNA synthetase
+2036653..2036961	+	102	76786982	-	SAK_2043	-	-	hypothetical protein
+2036988..2037860	-	290	76788348	-	SAK_2044	-	COG1284S	hypothetical protein
+2037968..2038912	-	314	76787577	-	SAK_2045	-	COG1284S	hypothetical protein
+2038902..2040653	-	583	76788619	aspS	SAK_2046	-	COG0173J	aspartyl-tRNA synthetase
+2040746..2042026	-	426	76788408	hisS	SAK_2047	-	COG0124J	histidyl-tRNA synthetase
+2042246..2042428	+	60	76788212	rpmF	SAK_2048	-	COG0333J	50S ribosomal protein L32
+2042444..2042593	+	49	76786822	rpmG	SAK_2049	-	COG0267J	50S ribosomal protein L33
+2042762..2043970	-	402	76787914	-	SAK_2050	-	-	IS10R, transposase
+2044224..2044838	+	204	76787934	cadD	SAK_2051	-	COG4300P	cadmium resistance protein CadD
+2044850..2045188	+	112	76787805	cadX	SAK_2052	-	COG0640K	cadmium resistance accessory protein CadX
+2045239..2046654	+	471	76787163	-	SAK_2053	-	-	hypothetical protein
+2046975..2047424	+	149	76788038	-	SAK_2054	-	-	hypothetical protein
+2047627..2047833	+	68	76786824	-	SAK_2055	-	-	hypothetical protein
+2047948..2049048	+	366	76788187	-	SAK_2056	-	COG1674D	DNA translocase FtsK
+2049045..2049650	+	201	76786842	-	SAK_2057	-	-	hypothetical protein
+2049856..2050461	+	201	76787536	-	SAK_2058	-	-	plasmid replication protein
+2050792..2052057	+	421	76788634	-	SAK_2059	-	COG4974L	phage integrase site specific recombinase
+2052557..2053087	+	176	76787273	-	SAK_2060	-	COG3212S	peptidase propeptide/YPEB domain-containing protein
+2053173..2053844	+	223	76788272	-	SAK_2061	-	COG0745TK	DNA-binding response regulator
+2053828..2055192	+	454	76787688	-	SAK_2062	-	COG0642T	sensor histidine kinase
+2055300..2056853	-	517	76788017	-	SAK_2063	-	COG1288S	hypothetical protein
+2056947..2057873	-	308	76787352	arcC	SAK_2064	-	COG0549E	carbamate kinase
+2057885..2058883	-	332	76787258	argF	SAK_2065	-	COG0078E	ornithine carbamoyltransferase
+2058986..2060281	+	431	76788601	-	SAK_2066	-	COG0642T	sensor histidine kinase
+2060278..2061111	+	277	76788662	-	SAK_2067	-	COG2204T	response regulator
+2061333..2062055	+	240	76786922	-	SAK_2068	-	COG1125E	glycine betaine/carnitine/choline ABC transporter ATP-binding protein
+2062058..2063572	+	504	76787841	-	SAK_2069	-	COG1732M	glycine betaine/carnitine/choline ABC transporter permease/substrate-binding protein
+2063651..2066191	-	846	76786731	-	SAK_2070	-	COG2898S	hypothetical protein
+2066175..2066918	-	247	76787021	-	SAK_2071	-	COG0596R	hypothetical protein
+2067052..2067408	-	118	76787587	-	SAK_2072	-	COG3759S	hypothetical protein
+2067475..2069793	-	772	76788701	-	SAK_2073	-	COG1511S	hypothetical protein
+2069932..2070471	+	179	76787381	-	SAK_2074	-	COG1309K	prophage Sa05, transcriptional regulator
+2070494..2070790	-	98	76788530	-	SAK_2075	-	-	hypothetical protein
+2071253..2071876	-	207	76788086	-	SAK_2076	-	-	hypothetical protein
+2071866..2072372	-	168	76787839	-	SAK_2077	-	COG3600S	hypothetical protein
+2072646..2072756	-	36	76787197	-	SAK_2078	-	-	hypothetical protein
+2072866..2073252	-	128	76788618	-	SAK_2079	-	-	prophage Sa05, ArpU family transcriptional regulator
+2073227..2073589	-	120	76787499	-	SAK_2080	-	-	hypothetical protein
+2073989..2074477	-	162	76787322	-	SAK_2081	-	-	hypothetical protein
+2074551..2075096	-	181	76788365	-	SAK_2082	-	-	hypothetical protein
+2075461..2076903	-	480	76787223	-	SAK_2083	-	COG3378R	prophage Sa05, P4 family DNA primase
+2076983..2077840	-	285	76787150	-	SAK_2084	-	-	prophage Sa05, DNA replication protein
+2078116..2078445	-	109	76787374	-	SAK_2085	-	-	hypothetical protein
+2078648..2078980	-	110	76787955	-	SAK_2086	-	-	hypothetical protein
+2079069..2079638	-	189	76787629	-	SAK_2087	-	-	hypothetical protein
+2079662..2079835	-	57	76787114	-	SAK_2088	-	-	prophage Sa05, CopG family transcriptional regulator
+2080337..2080975	-	212	76787962	-	SAK_2089	-	COG3646S	prophage Sa05 BRO domain-containing protein
+2081211..2081813	-	200	76788378	-	SAK_2090	-	COG3617K	prophage Sa05 BRO domain-containing protein
+2082243..2082857	+	204	76787968	-	SAK_2091	-	COG1476K	prophage Sa05, DNA-binding protein
+2083250..2083354	-	34	76787225	-	SAK_2092	-	-	hypothetical protein
+2083694..2084659	+	321	76788372	-	SAK_2093	-	-	hypothetical protein
+2084998..2086164	+	388	76787505	-	SAK_2094	-	COG4974L	prophage Sa05, site-specific recombinase phage integrase
+2086271..2086882	-	203	76787020	rpsD	SAK_2095	-	COG0522J	30S ribosomal protein S4
+2087212..2087499	-	95	76787345	-	SAK_2096	-	COG4466S	hypothetical protein
+2087511..2088866	-	451	76788678	dnaC	SAK_2097	-	COG0305L	replicative DNA helicase
+2088909..2089361	-	150	76787578	rplI	SAK_2098	-	COG0359J	50S ribosomal protein L9
+2089367..2091349	-	660	76787942	-	SAK_2099	-	COG3887T	DHH family protein
+2091416..2093317	-	633	76786721	gidA	SAK_2100	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+2093487..2094098	-	203	76788118	-	SAK_2101	-	COG2095U	multiple antibiotic resistance protein MarC
+2094130..2095251	-	373	76788488	mnmA	SAK_2102	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+2095497..2096165	+	222	76787626	sdhB	SAK_2103	-	COG1760E	L-serine dehydratase, iron-sulfur-dependent subunit beta
+2096180..2097052	+	290	76788291	sdhA	SAK_2104	-	COG1760E	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+2097187..2097864	-	225	76787417	-	SAK_2105	-	COG0741M	transglycosylase-like domain-containing protein
+2097997..2098536	-	179	76788069	-	SAK_2106	-	COG0739M	LysM domain-containing protein
+2098752..2099546	-	264	76787209	-	SAK_2107	-	COG0619P	cobalt ABC transporter permease
+2099539..2100381	-	280	76787733	cbiO	SAK_2108	-	COG1122P	cobalt transporter ATP-binding subunit
+2100357..2101196	-	279	76786872	cbiO	SAK_2109	-	COG1122P	cobalt transporter ATP-binding subunit
+2101196..2101738	-	180	76787682	pgsA	SAK_2110	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+2101861..2103144	-	427	76788335	-	SAK_2111	-	COG0612R	M16B family peptidase
+2103146..2104390	-	414	76787361	-	SAK_2112	-	COG0612R	peptidase M16 inactive domain-containing protein
+2104629..2104982	+	117	76788084	-	SAK_2113	-	COG2501S	hypothetical protein
+2104985..2106094	+	369	76787191	recF	SAK_2114	-	COG1195L	recombination protein F
+2106106..2106972	-	288	76787386	-	SAK_2115	-	COG4975G	glucose uptake protein
+2107028..2107690	-	220	76788274	-	SAK_2116	-	COG1395K	DNA-binding protein
+2107765..2109246	-	493	76787891	guaB	SAK_2117	-	COG0516F	inosine 5'-monophosphate dehydrogenase
+2109403..2109888	-	161	76787559	-	SAK_2118	-	COG1438K	arginine repressor ArgR
+2109898..2110578	-	226	76788101	-	SAK_2119	-	COG0664T	Crp/Fnr family transcriptional regulator
+2110786..2111490	+	234	76786742	-	SAK_2120	-	COG3382S	B3/4 domain-containing protein
+2111757..2112989	+	410	76787000	arcA	SAK_2121	-	COG2235E	arginine deiminase
+2113016..2113426	+	136	76788147	-	SAK_2122	-	COG2153R	acetyltransferase
+2113442..2114455	+	337	76788253	argF	SAK_2123	-	COG0078E	ornithine carbamoyltransferase
+2114518..2115945	+	475	76787383	-	SAK_2124	-	COG0531E	arginine/ornithine antiporter
+2115966..2116922	+	318	76788316	arcC	SAK_2125	-	COG0549E	carbamate kinase
+2117043..2118068	-	341	76787411	trpS	SAK_2126	-	COG0180J	tryptophanyl-tRNA synthetase
+2118176..2118868	-	230	76786952	-	SAK_2127	-	COG3619S	hypothetical protein
+2119225..2119983	+	252	76787589	-	SAK_2128	-	COG1284S	hypothetical protein
+2120049..2121668	+	539	76787146	-	SAK_2129	-	COG0488R	ABC transporter ATP-binding protein
+2121791..2124370	+	859	76787776	-	SAK_2130	-	COG4485S	hypothetical protein
+2124951..2125430	-	159	76787276	-	SAK_2134	-	COG1576S	rRNA large subunit methyltransferase
+2125631..2126860	+	409	76788422	htrA	SAK_2135	-	COG0265O	serine peptidase HtrA
+2126958..2127731	+	257	76787490	-	SAK_2136	-	COG1475K	ParB family chromosome partioning protein

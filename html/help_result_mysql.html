@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title id='title'>MetaPred2CS at bioinsilico \dot\ org</title>
+<link rel="stylesheet" type="text/css" href="/MetaPred2cs/CSS/response.css" />
+</head>
+
+<body>
+<div class="body_div" >
+<div class="header_div" ><div class="title_div" >MetaPred2CS<i> Web server</i></div>
+<div class="subtitle_div" ><a href="http://www.bioinsilico.org" >@ bioinsilico \dot\ org</a></div></div><div class="response_div" >
+<div style="position:relative;" class="can_pathway" >
+</span></div>
+
+<div style="text-align:justify;">
+
+<h3_main>
+
+<H3> Result </H3>
+At result table of server, users will see 3 columns which are ID of query proteins
+(that will be composed by the locul tags of query proteins), class of result and the prediction score.
+Here in class section only 2 different variables can be seen and these variables are -1 or +1.
+-1 is representing that the query proteins are not positively interacting so user will see prediction score as 0 for that query.
+However if the query classified as +1 then user will be able to see a prediction score. Scoring range of MetaPred2cs is 0-1.<br>
+Based on prediction score, predictions can be classified as <b>high confidence</b>, <b>medium confidence</b> or <b>low confidence</b>.
+Score ranges of these classes are defined as <b>0.999-0.700</b>, <b>0.699-0.400</b> and <b>0.399-0.000</b>, respectively.<br><br>
+Example result page can be seen below.
+
+<p align="center"><img src="/MetaPred2cs/images/9.png" width="75%"/></p>
+
+<H3>Important Points</H3>
+
+<b> 1) </b> MetaPred2CS is trained on <b> single domain </b> two-component system protein-protein interactions.
+For this reason, to be able to perform predictions for <b>hybrid</b> two-component system proteins,
+users need to work at domain level. In other words, protein sequences of domains of hybrid proteins should be given
+separately instead of complete protein sequence.<br><br>
+
+<div class="footer_div" >
+<hr/><h5 >Finding it useful? Please cite the server.</h5>
+</div>
+</div>
+
+</body>
+</html>

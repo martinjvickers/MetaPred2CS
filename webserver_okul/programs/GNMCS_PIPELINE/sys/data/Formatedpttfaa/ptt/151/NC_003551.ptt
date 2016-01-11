@@ -1,0 +1,1690 @@
+Methanopyrus kandleri AV19, complete genome - 1..1694969
+1687 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+748..1806	-	352	20093441	RCL1	MK0001	-	COG0430A	RNA 3'-terminal-phosphate cyclase
+1888..2403	-	171	20093442	IbpA	MK0002	-	COG0071O	molecular chaperone (small heat shock protein)
+2357..3415	-	352	20093443	-	MK0003	-	COG1084R	GTPase
+3490..3807	+	105	20093444	rpl12p	MK0004	-	COG2058J	50S ribosomal protein L12
+3811..5343	-	510	20093445	-	MK0005	-	COG0470L	replication factor C large subunit
+5349..7256	-	635	20093446	-	MK0006	-	COG0470L	replication factor C (DNA replication ATPase) intein containing
+7315..8682	-	455	20093447	TIP49	MK0007	-	COG1224K	DNA helicase TIP49, TBP-interacting protein
+8796..9161	+	121	20093448	DsrE	MK0008	-	COG1553P	hypothetical protein
+9299..10450	+	383	20093449	-	MK0009	-	-	hypothetical protein
+10400..11074	-	224	20093450	-	MK0010	-	COG4015R	thiazole biosynthesis adenylyltransferase ThiF
+11167..12018	+	283	20093451	Mtd	MK0011	-	COG1927C	F420-dependent methylenetetrahydromethanopterin dehydrogenase
+11999..12547	-	182	20093452	-	MK0012	-	COG4016S	hypothetical protein
+12672..13748	+	358	20093453	Hmd	MK0013	-	COG4074C	H(2)-dependent methylenetetrahydromethanopterin dehydrogenase
+13791..14549	+	252	20093454	-	MK0014	-	COG4017S	hypothetical protein
+14518..15279	+	253	20093455	-	MK0015	-	COG0327S	hypothetical protein
+15236..16306	+	356	20093456	-	MK0016	-	COG0502H	biotin synthase
+16252..17787	+	511	20093457	-	MK0017	-	COG4018S	hypothetical protein
+17781..18263	+	160	20093458	-	MK0018	-	COG4019S	hypothetical protein
+18347..19369	+	340	20093459	-	MK0019	-	COG0826O	protease related to collagenase
+19326..19685	+	119	20093460	-	MK0020	-	-	metal-binding protein
+20108..20878	-	256	20093461	Pnp	MK0021	-	COG0005F	purine nucleoside phosphorylase
+20875..21456	-	193	20093462	Cmk	MK0022	-	COG1102F	cytidylate kinase
+21460..21801	-	113	20093463	rpl34e	MK0023	-	COG2174J	50S ribosomal protein L34
+21809..22345	-	178	20093464	-	MK0024	-	COG1422S	hypothetical protein
+22359..22934	-	191	20093465	AdkA	MK0025	-	COG2019F	adenylate kinase
+22954..24330	-	458	20093466	SecY	MK0026	-	COG0201U	preprotein translocase subunit SecY
+24397..24861	-	154	20093467	RplO	MK0027	-	COG0200J	ribosomal protein L15
+24876..25325	-	149	20093468	rpl30p	MK0028	-	COG1841J	50S ribosomal protein L30
+25473..26153	-	226	20093469	rps5p	MK0029	-	COG0098J	30S ribosomal protein S5
+26170..26769	-	199	161485665	rpl18p	MK0030	-	COG0256J	50S ribosomal protein L18
+26782..27231	-	149	20093471	rpl19e	MK0031	-	COG2147J	50S ribosomal protein L19
+27295..27900	-	201	20093472	-	MK0032	-	COG1779R	C4-type Zn-finger-containing protein
+27917..28900	-	327	20093473	-	MK0033	-	COG2074G	hypothetical protein
+28904..29251	-	115	20093474	-	MK0034	-	COG2450S	hypothetical protein
+29245..30336	-	363	20093475	-	MK0035	-	COG3367S	hypothetical protein
+30390..30980	-	196	20093476	-	MK0036	-	COG0486R	small, Ras-like GTPase
+31183..31749	+	188	20093477	-	MK0037	-	COG1896R	HAD superfamily hydrolase
+31721..32782	+	353	20093478	-	MK0038	-	COG1537R	RNA-binding protein
+33253..34011	-	252	20093479	-	MK0039	-	COG0467T	hypothetical protein
+34081..35229	+	382	20093480	-	MK0040	-	COG1602S	hypothetical protein
+35263..37083	+	606	20093481	-	MK0041	-	COG1542S	hypothetical protein
+37451..38404	-	317	20093482	-	MK0042	-	-	hypothetical protein
+38495..39829	-	444	20093483	-	MK0043	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+40642..41649	-	335	20093484	-	MK0044	-	COG1242R	hypothetical protein
+41815..42918	+	367	20093485	-	MK0045	-	COG1161R	GTPase
+43093..43638	+	181	20093486	-	MK0046	-	COG0293J	SAM-dependent methyltransferase
+43671..44753	-	360	20093487	-	MK0047	-	COG1180O	pyruvate-formate lyase-activating enzyme
+44786..45367	+	193	20093488	-	MK0048	-	COG1590S	hypothetical protein
+45367..49032	+	1221	20093489	-	MK0049	-	COG1110L	Reverse gyrase
+49029..49949	+	306	20093490	-	MK0050	-	-	hypothetical protein
+49918..50835	-	305	20093491	-	MK0051	-	COG0037D	ATPase
+50862..51494	+	210	20093492	GlpG	MK0052	-	COG0705R	membrane serine protease
+51991..53284	+	431	20093493	AmtB	MK0053	-	COG0004P	ammonia permease
+53306..53659	+	117	20093494	-	MK0054	-	COG0347E	nitrogen regulatory protein PII
+53735..54652	-	305	20093495	-	MK0055	-	COG0731C	tRNA-modifying enzyme
+55284..55847	-	187	20093496	-	MK0056	-	COG1772S	hypothetical protein
+55840..56433	-	197	20093497	-	MK0057	-	COG1628S	hypothetical protein
+56430..56768	-	112	20093498	RPB11	MK0058	-	COG1761K	DNA-directed RNA polymerase, subunit L
+56784..57464	-	226	20093499	-	MK0059	-	COG3286S	hypothetical protein
+57457..58047	-	196	20093500	-	MK0060	-	COG1096J	exosome complex RNA-binding protein Csl4
+58044..59066	-	340	20093501	RecJ	MK0061	-	COG0608L	single-stranded DNA-specific exonuclease
+59083..59697	-	204	20093502	-	MK0062	-	COG2263J	RNA methylase
+59694..59882	-	62	20093503	-	MK0063	-	-	Zn-ribbon containing protein
+59908..60720	+	270	20093504	-	MK0064	-	-	hypothetical protein
+60717..61094	-	125	20093505	-	MK0065	-	COG4744S	hypothetical protein
+61097..61705	-	202	20093506	TolQ	MK0066	-	COG0811U	biopolymer transport protein
+61681..62895	-	404	20093507	-	MK0067	-	COG4827R	hypothetical protein
+62910..63524	-	204	20093508	-	MK0068	-	-	hypothetical protein
+63592..63867	-	91	20093509	-	MK0069	-	-	hypothetical protein
+63864..65960	-	698	20093510	-	MK0070	-	COG1112L	superfamily I DNA/RNA helicase
+66184..66945	+	253	20093511	-	MK0071	-	COG1606R	PP family ATPase
+66957..68126	-	389	20093512	-	MK0072	-	-	hypothetical protein
+68133..69011	-	292	20093513	NadA	MK0073	-	COG0379H	quinolinate synthetase
+69027..69896	-	289	20093514	-	MK0074	-	COG1831R	metal-dependent hydrolase
+69998..70933	+	311	20093515	-	MK0075	-	-	hypothetical protein
+70930..71757	+	275	20093516	-	MK0076	-	-	hypothetical protein
+71931..73088	+	385	20093517	-	MK0077	-	COG1341R	GTPase or GTP-binding protein
+73121..74119	+	332	20093518	-	MK0078	-	COG4020S	hypothetical protein
+74116..74928	+	270	20093519	TyrA_1	MK0079	-	COG0077E	prephenate dehydratase
+74941..75492	+	183	20093520	PorG_1	MK0080	-	COG1014C	pyruvate ferredoxin oxidoreductase subunit gamma
+75485..75754	+	89	20093521	PorD	MK0081	-	COG1144C	pyruvate:ferredoxin oxidoreductase, delta subunit
+75767..76918	+	383	20093522	PorA_1	MK0082	-	COG0674C	pyruvate:ferredoxin oxidoreductase, alpha subunit
+76931..77821	+	296	20093523	PorB_1	MK0083	-	COG1013C	pyruvate ferredoxin oxidoreductase subunit beta
+77794..78321	+	175	20093524	-	MK0084	-	COG1142C	Fe-S-cluster-containing hydrogenase component
+78242..79153	+	303	20093525	TtdA	MK0085	-	COG1951C	fumarate hydratase class I
+79158..79691	+	177	20093526	FumA	MK0086	-	COG1838C	fumarate hydratase class I
+79695..80291	+	198	20093527	-	MK0087	-	COG3363F	IMP cyclohydrolase
+80293..82308	-	671	20093528	-	MK0088	-	COG1293K	RNA-binding protein snRNP
+82341..83522	-	393	20093529	-	MK0089	-	COG2524K	CBS-domain-containing protein
+83620..83895	+	91	20093530	-	MK0090	-	-	hypothetical protein
+83902..85701	+	599	20093531	-	MK0091	-	COG1245R	ATPase RIL
+86099..86650	-	183	20093532	-	MK0092	-	COG0622R	phosphoesterase
+86682..87470	-	262	20093533	-	MK0093	-	COG4021S	hypothetical protein
+87467..88255	-	262	20093534	-	MK0094	-	COG1712R	dinucleotide-utilizing protein
+88185..88820	-	211	20093535	-	MK0095	-	COG2428S	hypothetical protein
+88832..89203	-	123	20093536	-	MK0096	-	COG1873S	hypothetical protein
+89216..90763	+	515	20093537	-	MK0097	-	COG2192O	carbamoyl transferase
+90768..91475	+	235	20093538	RibD	MK0098	-	COG1985H	pyrimidine reductase
+91472..91828	+	118	20093539	-	MK0099	-	-	Zn-ribbon-containing protein
+91983..93164	+	393	20093540	-	MK0100	-	-	hypothetical protein
+93378..93962	+	194	20093541	Tmk	MK0101	-	COG0125F	thymidylate kinase
+93969..94385	+	138	20093542	-	MK0102	-	COG1591L	Holliday junction resolvase, type
+94354..95916	-	520	20093543	AsnB	MK0103	-	COG0367E	asparagine synthase
+95989..98838	+	949	20093544	-	MK0104	-	-	hypothetical protein
+98775..99845	-	356	20093545	-	MK0105	-	COG1423L	ATP-dependent DNA ligase
+99868..101157	-	429	20093546	ThiC	MK0106	-	COG0422H	thiamine biosynthesis protein ThiC
+101154..102512	-	452	20093547	-	MK0107	-	-	adenylate cyclase
+102514..103230	-	238	20093548	-	MK0108	-	-	hypothetical protein
+103269..104672	+	467	20093549	LysC	MK0109	-	COG0527E	aspartate kinase
+104669..105400	+	243	20093550	-	MK0110	-	-	hypothetical protein
+105387..107522	-	711	20093551	-	MK0111	-	COG1204R	superfamily II helicase
+107561..108058	+	165	20093552	PaaY	MK0112	-	COG0663R	carbonic anhydrase
+108066..109103	-	345	20093553	-	MK0113	-	COG1548KG	sugar kinase of the RNAseH/HSP70 fold
+109078..110001	-	307	20093554	-	MK0114	-	COG1821R	ATP-grasp superfamily protein
+110027..111160	+	377	20093555	-	MK0115	-	COG1944S	hypothetical protein
+111223..112113	-	296	20093556	Ftr_1	MK0116	-	COG2037C	formylmethanofuran--tetrahydromethanopterin formyltransferase
+112165..113037	-	290	20093557	AroE	MK0117	-	COG0169E	shikimate 5-dehydrogenase
+113009..113827	-	272	20093558	-	MK0118	-	COG2129R	hypothetical protein
+113841..114335	-	164	20093559	UbiC	MK0119	-	COG3161H	chorismate--pyruvate lyase
+114352..115302	-	316	20093560	-	MK0120	-	COG1340S	coiled-coil domain-containing protein
+115299..115952	-	217	20093561	SerB	MK0121	-	COG0560E	phosphoserine phosphatase
+115928..117214	-	428	20093562	glyA	MK0122	-	COG0112E	serine hydroxymethyltransferase
+117235..117816	+	193	20093563	-	MK0123	-	-	hypothetical protein
+117823..118356	+	177	20093564	-	MK0124	-	COG4739S	ferredoxin domain-containing protein
+118374..118637	+	87	20093565	-	MK0125	-	COG4830J	Zn-ribbon containing protein
+118826..120259	+	477	20093566	-	MK0126	-	COG0618R	Kef-type K+ transporter
+120262..122115	-	617	20093567	GlmS	MK0127	-	COG0449M	glucosamine 6-phosphate synthetase
+122121..123176	-	351	20093568	-	MK0128	-	COG0624E	deacetylase
+123173..125095	-	640	20093569	GatE	MK0129	-	COG2511J	glutamyl-tRNA(Gln) amidotransferase subunit E
+125187..125582	+	131	20093570	Ada	MK0130	-	COG0350L	methylated DNA-protein cysteine methyltransferase
+125594..126139	+	181	20093571	-	MK0131	-	COG2029S	hypothetical protein
+126133..127611	+	492	20093572	FrdB/GlpC	MK0132	-	COG0247C	succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+127591..128607	-	338	20093573	TruB	MK0133	-	COG0130J	H/ACA RNA-protein complex component Cbf5p
+128665..134793	-	2042	20093574	-	MK0134	-	COG1429H	CobN/Mg-chelatase
+134868..136871	-	667	20093575	-	MK0135	-	-	Terpene cyclase/mutase
+137011..137391	-	126	20093576	-	MK0136	-	COG3327K	transcriptional regulator
+137551..138318	-	255	20093577	-	MK0137	-	COG2106S	hypothetical protein
+138349..139011	+	220	20093578	-	MK0138	-	COG2045HR	hypothetical protein
+139012..139761	+	249	20093579	-	MK0139	-	COG1916S	hypothetical protein
+139843..140517	+	224	20093580	-	MK0140	-	COG1810S	hypothetical protein
+140548..141339	-	263	20093581	-	MK0141	-	COG0730R	permease
+141415..141891	+	158	20093582	-	MK0142	-	COG0589T	nucleotide-binding protein related to universal stress protein UspA
+141888..142646	-	252	20093583	-	MK0143	-	COG0730R	permease
+142704..143494	-	263	20093584	-	MK0144	-	COG0037D	ATPase
+143437..143949	+	170	20093585	-	MK0145	-	COG2410S	hypothetical protein
+143918..146485	-	855	20093586	-	MK0146	-	COG1444R	P-loop ATPase fused to an acetyltransferase
+146611..147321	+	236	20093587	-	MK0147	-	COG0135E	hypothetical protein
+147400..148779	-	459	20093588	-	MK0148	-	COG3276J	GTPase - translation elongation factor
+148789..149439	-	216	20093589	-	MK0149	-	-	hypothetical protein
+149446..150267	-	273	20093590	-	MK0150	-	COG4022S	hypothetical protein
+150225..150746	+	173	20093591	-	MK0151	-	COG1720S	hypothetical protein
+150700..152415	-	571	20093592	GRS1	MK0152	-	COG0423J	glycyl-tRNA synthetase
+152432..153412	-	326	20093593	SgbH	MK0153	-	COG0269G	3-hexulose-6-phosphate synthase
+153397..154548	-	383	20093594	TRM1_1	MK0154	-	COG1867J	N(2),N(2)-dimethylguanosine tRNA methyltransferase
+154583..154855	-	90	20093595	-	MK0155	-	COG2451J	50S ribosomal protein L35
+154883..156067	+	394	20093596	-	MK0156	-	COG0399M	pyridoxal-phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis
+156089..158347	+	752	20093597	-	MK0157	-	COG1107L	RecJ-like exonuclease
+158344..158832	-	162	20093598	SrtA	MK0158	-	COG3764M	sortase (surface protein transpeptidase)
+158829..159656	-	275	20093599	-	MK0159	-	COG4907S	hypothetical protein
+159680..160726	-	348	20093600	-	MK0160	-	COG1627S	hypothetical protein
+160771..161502	-	243	20093601	PssA	MK0161	-	COG1183I	phosphatidylserine synthase
+161509..162153	-	214	20093602	Psd	MK0162	-	COG0688I	phosphatidylserine decarboxylase
+162159..162707	-	182	20093603	-	MK0163	-	COG1041L	SAM-dependent methyltransferase
+162731..163357	+	208	20093604	-	MK0164	-	COG0486R	small, Ras-like GTPase
+163354..163716	+	120	20093605	-	MK0165	-	COG3365S	hypothetical protein
+163730..163984	+	84	20093606	-	MK0166	-	COG3364R	Zn-ribbon-containing protein
+163989..164609	+	206	20093607	-	MK0167	-	-	hypothetical protein
+164625..165806	+	393	20093608	MreB	MK0168	-	COG1077D	rod shape-determining protein MreB
+165843..166553	+	236	20093609	-	MK0169	-	COG1387ER	phosphatase
+166637..167686	+	349	20093610	-	MK0170	-	COG0144J	RNA methylase
+167695..168651	+	318	20093611	HtpX	MK0171	-	COG0501O	Zn-dependent protease with chaperone function
+168617..169261	-	214	20093612	-	MK0172	-	-	metal-dependent hydrolase
+169255..170073	-	272	20093613	HisF	MK0173	-	COG0107E	imidazoleglycerol-phosphate synthase
+170173..170856	+	227	20093614	-	MK0174	-	COG2454S	hypothetical protein
+170934..171410	+	158	20093615	TroR	MK0175	-	COG1321K	Mn-dependent transcriptional regulator
+171517..171996	+	159	20093616	-	MK0176	-	-	hypothetical protein
+172421..172690	+	89	20093617	-	MK0177	-	-	hypothetical protein
+172865..174169	-	434	20093618	-	MK0178	-	COG3259C	coenzyme F420-reducing hydrogenase, alpha subunit
+174173..175090	-	305	20093619	-	MK0179	-	COG1941C	coenzyme F420-reducing hydrogenase, gamma subunit
+175215..175787	+	190	20093620	CbiM	MK0180	-	COG0310P	cobalamin biosynthesis protein CbiM
+175784..176476	+	230	20093621	CbiQ	MK0181	-	COG0619P	ABC-type cobalt transport system, permease component
+176505..177311	+	268	20093622	CbiO	MK0182	-	COG1122P	ABC-type cobalt transport system, ATPase component
+177298..177972	+	224	20093623	-	MK0183	-	COG1402R	hypothetical protein
+177969..178136	+	55	20093624	-	MK0184	-	-	hypothetical protein
+178176..178400	+	74	20093625	-	MK0185	-	-	hypothetical protein
+178822..179454	+	210	20093626	RnhB	MK0186	-	COG0164L	ribonuclease HII
+179476..180135	+	219	20093627	-	MK0187	-	COG1180O	pyruvate-formate lyase-activating enzyme
+180142..181521	+	459	20093628	Tgt	MK0188	-	COG0343J	queuine/archaeosine tRNA-ribosyltransferase
+181481..182362	+	293	20093629	TRM1_2	MK0189	-	COG1867J	N2,N2-dimethylguanosine tRNA methyltransferase
+182418..184016	+	532	20093630	-	MK0190	-	COG1892S	phosphoenolpyruvate carboxylase
+184291..185067	-	258	20093631	-	MK0191	-	-	hypothetical protein
+185064..187520	-	818	20093632	ChlI/ChlD	MK0192	-	COG1239H	Mg-chelatase subunit ChlI /Chld
+187517..188218	-	233	20093633	Nth_1	MK0193	-	COG0177L	EndoIII-related endonuclease
+188360..189619	-	419	20093634	-	MK0194	-	COG1078R	HD superfamily phosphohydrolase
+189564..190313	-	249	20093635	-	MK0195	-	COG2457S	hypothetical protein
+190289..191185	-	298	20093636	CitG_1	MK0196	-	COG1767H	triphosphoribosyl-dephospho-CoA synthetase
+191179..191640	-	153	20093637	PgpB	MK0197	-	COG0671I	membrane-associated phospholipid phosphatase
+191625..192632	-	335	20093638	HemB	MK0198	-	COG0113H	delta-aminolevulinic acid dehydratase
+192583..193491	+	302	20093639	-	MK0199	-	-	hypothetical protein
+193462..194676	-	404	20093640	HemA	MK0200	-	COG0373H	glutamyl-tRNA reductase
+194763..195011	+	82	20093641	-	MK0201	-	-	hypothetical protein
+195008..195703	-	231	20093642	Mra1	MK0202	-	COG1756S	ribosome biogenesis protein
+195719..196417	+	232	20093643	-	MK0203	-	COG0561R	phosphoglycolate phosphatase
+196414..197445	+	343	20093644	RecJ_1	MK0204	-	COG0608L	single-stranded DNA-specific exonuclease
+197414..199021	-	535	20093645	pyrG	MK0205	-	COG0504F	CTP synthetase
+199348..200073	+	241	20093646	-	MK0206	-	COG2122S	hypothetical protein
+200076..200687	-	203	20093647	-	MK0207	-	COG0218R	GTP-binding protein
+200743..200916	-	57	20093648	-	MK0208	-	COG4023U	hypothetical protein
+201121..201396	+	91	20093649	-	MK0209	-	-	hypothetical protein
+201559..202800	-	413	20093650	-	MK0210	-	COG4129S	ATP-dependent DNA ligase
+202797..203468	-	223	20093651	-	MK0211	-	COG4024S	hypothetical protein
+203539..204414	-	291	20093652	-	MK0212	-	COG4025S	hypothetical protein
+204416..205297	-	293	20093653	-	MK0213	-	COG2248R	hypothetical protein
+205420..205839	-	139	20093654	-	MK0214	-	COG1310R	metal-dependent protease
+205772..206662	-	296	20093655	-	MK0215	-	-	hypothetical protein
+206731..207078	+	115	20093656	-	MK0216	-	COG2018R	Ras-like GTPase activity regulator
+207252..207995	+	247	20093657	-	MK0217	-	COG2905T	hypothetical protein
+207997..208806	+	269	20093658	-	MK0218	-	COG0455D	chromosome partitioning ATPase
+208803..209303	-	166	20093659	-	MK0219	-	COG0098J	RNA-binding protein
+209340..209561	+	73	20093660	LSM1	MK0220	-	COG1958K	small nuclear ribonucleoprotein (snRNP)-like protein
+209582..209770	+	62	20093661	rpl37e	MK0221	-	COG2126J	50S ribosomal protein L37
+209784..210659	+	291	20093662	-	MK0222	-	COG4026R	TOPRIM domain-containing protein
+210649..211632	+	327	20093663	PepP	MK0223	-	COG0006E	Xaa-Pro aminopeptidase
+211590..212726	+	378	20093664	CobT	MK0224	-	COG2038H	hypothetical protein
+212723..213457	-	244	20093665	-	MK0225	-	-	hypothetical protein
+213461..214513	-	350	20093666	HypD	MK0226	-	COG0409O	hydrogenase maturation factor
+214461..214739	-	92	20093667	HypC	MK0227	-	COG0298O	hydrogenase maturation factor
+214814..215236	+	140	20093668	-	MK0228	-	COG1371S	hypothetical protein
+215254..216432	+	392	20093669	-	MK0229	-	COG1103R	Sep-tRNA:Cys-tRNA synthetase
+216609..217232	+	207	20093670	-	MK0230	-	COG2102R	RNA methylase
+217222..217764	-	180	20093671	-	MK0231	-	COG1318K	transcriptional regulator
+217843..218598	+	251	20093672	-	MK0232	-	COG1099R	metal-dependent hydrolase of the TIM-barrel fold
+218648..219319	+	223	20093673	-	MK0233	-	COG2085R	dinucleotide-binding protein
+219392..220681	+	429	20093674	UbiD	MK0234	-	COG0043H	decarboxylase related 3-polyprenyl-4-hydroxybenzoate decarboxylase
+220673..221713	-	346	20093675	PurA	MK0235	-	COG0104F	adenylosuccinate synthetase
+221605..223494	-	629	20093676	-	MK0236	-	-	hypothetical protein
+223440..225296	-	618	20093677	-	MK0237	-	-	hypothetical protein
+225321..226688	+	455	20093678	gatA	MK0238	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+227527..227967	+	146	20093679	-	MK0239	-	COG0030J	SAM-dependent methyltransferase
+228106..228978	-	290	20093680	-	MK0240	-	COG0489D	chromosome partitioning ATPase
+229171..230037	-	288	20093681	-	MK0241	-	-	hypothetical protein
+230076..231260	+	394	20093682	-	MK0242	-	-	hypothetical protein
+231242..232369	-	375	20093683	-	MK0243	-	COG1625C	NifB/MoaA family Fe-S oxidoreductase
+232648..234678	-	676	20093684	-	MK0244	-	COG1205R	helicase
+234728..235990	+	420	20093685	CysH	MK0245	-	COG4027S	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase
+236115..236423	-	102	20093686	rps10p	MK0246	-	COG0051J	30S ribosomal protein S10
+236467..237738	-	423	20093687	-	MK0247	-	COG5256J	elongation factor 1-alpha
+237821..238774	-	317	20093688	-	MK0248	-	COG0673R	dehydrogenase
+238965..240974	-	669	20093689	HdrA_1	MK0249	-	COG1148C	heterodisulfide reductase, subunit A
+241089..241838	-	249	20093690	-	MK0250	-	-	hypothetical protein
+241914..242435	+	173	20093691	rpl10e	MK0251	-	COG0197J	50S ribosomal protein L10
+242469..244781	+	770	20093692	PpsA	MK0252	-	COG0574G	phosphoenolpyruvate synthase
+244787..245512	+	241	20093693	-	MK0253	-	COG1378K	transcriptional regulator
+245475..245990	-	171	20093694	-	MK0254	-	COG1418R	HD superfamily hydrolase
+246012..246296	-	94	20093695	EFB1	MK0255	-	COG2092J	translation elongation factor EF-1beta
+246301..246495	-	64	20093696	-	MK0256	-	COG2888J	Zn-ribbon-containing RNA-binding protein with a function in translation
+246666..246899	-	77	20093697	-	MK0257	-	COG0425O	redox protein, regulator of disulfide bond formation
+247069..248334	+	421	20093698	HgdB	MK0258	-	COG1775E	2-hydroxyglutaryl-CoA dehydratase subunit B
+248342..249646	-	434	20093699	FwdB_1	MK0259	-	COG1029C	formylmethanofuran dehydrogenase subunit B
+249749..250504	-	251	20093700	-	MK0260	-	COG1924I	2-hydroxyglutaryl-CoA dehydratase activator
+250695..251156	+	153	20093701	-	MK0261	-	-	hypothetical protein
+251171..251644	+	157	20093702	-	MK0262	-	COG2391R	transporter component
+251649..252227	+	192	20093703	-	MK0263	-	-	hypothetical protein
+252347..253048	+	233	20093704	-	MK0264	-	COG0063G	sugar kinase
+253054..255024	-	656	20093705	HdrA_2	MK0265	-	COG1148C	heterodisulfide reductase, subunit A, polyferredoxin
+255031..256479	-	482	20093706	-	MK0266	-	COG3259C	coenzyme F420-reducing hydrogenase, alpha subunit
+256476..257390	-	304	20093707	-	MK0267	-	COG1941C	coenzyme F420-reducing hydrogenase, gamma subunit
+257387..257812	-	141	20093708	FlpD_1	MK0268	-	COG1908C	coenzyme F420-reducing hydrogenase, delta subunit
+257952..259379	+	475	20093709	-	MK0269	-	-	hypothetical protein
+259341..259781	-	146	20093710	-	MK0270	-	COG1617S	hypothetical protein
+260022..261596	+	524	20093711	pheS	MK0271	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+261597..262133	-	178	20093712	-	MK0272	-	-	hypothetical protein
+262262..262552	+	96	20093713	-	MK0273	-	COG1872S	hypothetical protein
+263009..263827	+	272	20093714	-	MK0274	-	-	hypothetical protein
+263828..265357	-	509	20093715	-	MK0275	-	COG0119E	2-isopropylmalate synthase
+265405..266217	-	270	20093716	-	MK0276	-	COG4028R	P-loop containing NTPase
+266246..266977	+	243	20093717	-	MK0277	-	COG5014R	Fe-S oxidoreductase
+266967..268979	+	670	20093718	-	MK0278	-	-	hypothetical protein
+269014..271053	+	679	20093719	-	MK0279	-	-	hypothetical protein
+271207..272499	-	430	20093720	HemL	MK0280	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+272912..273337	-	141	20093721	ribH	MK0281	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+273412..274092	+	226	20093722	pcm	MK0282	-	COG2518O	protein-L-isoaspartate O-methyltransferase
+274537..274878	+	113	20093723	-	MK0283	-	-	hypothetical protein
+275404..276174	-	256	20093724	-	MK0284	-	COG1235R	beta-lactamase superfamily hydrolase
+276198..277166	-	322	20093725	-	MK0285	-	COG4079S	hypothetical protein
+277208..278248	-	346	20093726	-	MK0286	-	COG1180O	pyruvate-formate lyase-activating enzyme
+278245..278508	-	87	20093727	PaaD	MK0287	-	COG2151R	metal-sulfur cluster biosynthetic protein
+278515..278901	-	128	20093728	-	MK0288	-	COG0716C	flavodoxin
+278976..280052	-	358	20093729	-	MK0289	-	COG1110L	Reverse gyrase
+280321..280542	+	73	20093730	-	MK0290	-	-	hypothetical protein
+280561..281142	-	193	20093731	Dcd_1	MK0291	-	COG0717F	deoxycytidine deaminase
+281158..282030	+	290	20093732	-	MK0292	-	COG1409R	phosphohydrolase
+282024..282554	-	176	20093733	-	MK0293	-	COG1641S	hypothetical protein
+282582..283844	+	420	20093734	-	MK0294	-	COG3174S	hypothetical protein
+283841..285190	-	449	20093735	-	MK0295	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+285197..285631	-	144	20093736	-	MK0296	-	COG2199T	diguamylate cyclase
+285628..287196	-	522	20093737	-	MK0297	-	COG0111HE	D-3-phosphoglycerate dehydrogenase
+287326..287943	-	205	20093738	-	MK0298	-	-	hypothetical protein
+288089..289126	-	345	20093739	-	MK0299	-	-	hypothetical protein
+289372..290193	-	273	20093740	-	MK0300	-	-	hypothetical protein
+290810..291202	+	130	20093741	-	MK0301	-	-	RNA-binding protein
+291417..292477	+	353	20093742	-	MK0302	-	-	RNA-binding protein
+292704..293645	+	313	20093743	-	MK0303	-	COG1305E	transglutaminase-like supefamily cysteine protease
+293608..294210	+	200	20093744	-	MK0304	-	-	hypothetical protein
+294271..295311	+	346	20093745	-	MK0305	-	-	hypothetical protein
+295669..296193	+	174	20093746	-	MK0306	-	-	hypothetical protein
+296467..297540	+	357	20093747	FwdF_1	MK0307	-	COG1143C	formylmethanofuran dehydrogenase subunit F, ferredoxin containing
+297654..298370	-	238	20093748	-	MK0308	-	-	hypothetical protein
+298367..299332	-	321	20093749	-	MK0309	-	COG1192D	chromosome partitioning ATPase
+299623..300867	-	414	20093750	-	MK0310	-	COG1372L	hypothetical protein
+302118..302261	-	47	20093751	-	MK0311	-	-	hypothetical protein
+302397..303113	+	238	20093752	-	MK0312	-	-	hypothetical protein
+303210..303731	+	173	20093753	-	MK0313	-	-	hypothetical protein
+307991..308224	+	77	20093754	-	MK0316	-	-	hypothetical protein
+309026..309403	-	125	20093755	-	MK0317	-	COG1743L	DNA methylase containing a Zn-ribbon
+309400..310002	-	200	20093756	-	MK0318	-	COG1743L	DNA methylase containing a Zn-ribbon
+310314..310514	-	66	20093757	-	MK0319	-	COG0111HE	dehydrogenase related to phosphoglycerate dehydrogenase, a fragment
+310502..311260	-	252	20093758	SerA	MK0320	-	COG0111HE	dehydrogenase related to phosphoglycerate dehydrogenase
+311717..313774	+	685	20093759	-	MK0321	-	COG3383R	selenocysteine-containing anaerobic dehydrogenase
+313780..314913	+	377	20093760	-	MK0322	-	COG1035C	coenzyme F420-reducing hydrogenase, beta subunit
+315226..315678	+	150	20093761	Fwd_F2	MK0323	-	COG1149C	formylmethanofuran dehydrogenase subunit F, ferredoxin containing
+315855..316253	-	132	20093762	-	MK0324	-	-	fragment of dehydrogenase related to phosphoglycerate dehydrogenase
+316385..316765	-	126	20093763	-	MK0325	-	-	hypothetical protein
+316791..318491	+	566	20093764	-	MK0326	-	-	hypothetical protein
+318525..319349	+	274	20093765	-	MK0327	-	-	hypothetical protein
+319527..320099	+	190	20093766	-	MK0328	-	-	hypothetical protein
+320696..321142	+	148	20093767	-	MK0329	-	-	hypothetical protein
+321611..322570	-	319	20093768	-	MK0330	-	-	hypothetical protein
+323201..323818	+	205	20093769	-	MK0331	-	-	hypothetical protein
+324061..324486	-	141	20093770	-	MK0332	-	COG4029S	hypothetical protein
+324530..325426	+	298	20093771	ThrB	MK0333	-	COG0083E	homoserine kinase
+325541..326770	-	409	20093772	CbiD	MK0334	-	COG1903H	cobalamin biosynthesis protein CbiD
+326767..327753	-	328	20093773	GCN3	MK0335	-	COG0182J	translation initiation factor eIF-2B alpha subunit
+327856..328425	+	189	20093774	-	MK0336	-	-	hypothetical protein
+328419..329402	-	327	20093775	-	MK0337	-	COG1693S	transcription regulator
+329455..330930	-	491	20093776	GlnA	MK0338	-	COG0174E	glutamine synthase
+330946..332115	+	389	20093777	-	MK0339	-	-	hypothetical protein
+332123..333190	-	355	20093778	-	MK0340	-	COG1244R	Fe-S oxidoreductase
+333200..333739	+	179	20093779	SEN2_1	MK0341	-	COG1676J	tRNA splicing endonuclease
+333753..333998	+	81	20093780	-	MK0342	-	COG2197TK	transcription regulator
+334027..335151	+	374	20093781	TrpS	MK0343	-	COG0180J	tryptophanyl-tRNA synthetase
+335153..336226	+	357	20093782	-	MK0344	-	COG1818R	23S rRNA methylase
+336446..336976	+	176	20093783	-	MK0345	-	-	hypothetical protein
+336954..337934	+	326	20093784	-	MK0346	-	COG4030S	hypothetical protein
+337941..339344	-	467	20093785	-	MK0347	-	COG3044R	ABC transporter ATPase
+339352..339930	-	192	20093786	-	MK0348	-	-	hypothetical protein
+339944..340672	-	242	20093787	-	MK0349	-	-	hypothetical protein
+340738..340962	+	74	20093788	-	MK0350	-	COG1531S	hypothetical protein
+340922..341869	-	315	20093789	-	MK0351	-	COG1571R	DNA-binding protein containing a Zn-ribbon
+341898..342389	+	163	20093790	-	MK0352	-	-	hypothetical protein
+342379..343095	-	238	20093791	-	MK0353	-	COG4031R	hypothetical protein
+343122..343445	+	107	20093792	-	MK0354	-	-	hypothetical protein
+343442..344674	-	410	20093793	HMG1	MK0355	-	COG1257I	hydroxymethylglutaryl-CoA reductase
+345316..345639	-	107	20093794	-	MK0356	-	-	hypothetical protein
+345630..346286	-	218	20093795	-	MK0357	-	COG2044R	peroxiredoxin
+346686..347828	-	380	20093796	-	MK0358	-	COG1900S	fused ferredoxin domain/uncharacterized protein
+348126..348431	-	101	161485664	gatC	MK0359	-	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+348428..349369	-	313	20093798	AmpS	MK0360	-	COG2309E	leucyl aminopeptidase (aminopeptidase T)
+349585..350058	-	157	20093799	-	MK0361	-	COG1731H	riboflavin synthase
+350055..351050	-	331	20093800	-	MK0362	-	-	metal-binding protein
+351081..352025	+	314	20093801	GuaA_1	MK0363	-	COG0519F	GMP synthase subunit B
+352038..352766	+	242	20093802	HisA	MK0364	-	COG0106E	phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide isomerase
+352763..353614	-	283	20093803	hisG	MK0365	-	COG0040E	ATP phosphoribosyltransferase
+353673..354968	+	431	20093804	-	MK0366	-	COG0402FR	metal-dependent hydrolase related to cytosine deaminase
+355449..356759	-	436	20093805	-	MK0367	-	-	hypothetical protein
+356998..358272	+	424	20093806	-	MK0368	-	COG0499H	S-adenosyl-L-homocysteine hydrolase
+358478..358597	+	39	20093807	-	MK0369	-	-	hypothetical protein
+359581..360552	+	323	20093808	-	MK0370	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+360613..361065	+	150	20093809	-	MK0371	-	-	hypothetical protein
+361116..362186	-	356	20093810	MurG	MK0372	-	COG0707M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase
+362211..363419	+	402	20093811	-	MK0373	-	COG0012J	translation-associated GTPase
+363447..363887	+	146	20093812	-	MK0374	-	-	hypothetical protein
+364113..364475	-	120	20093813	GimC	MK0375	-	COG1382O	prefoldin, chaperonin cofactor
+364476..364727	-	83	20093814	-	MK0376	-	COG2892S	hypothetical protein
+364743..365321	-	192	20093815	IMP4	MK0377	-	COG2136JA	ribosomal biogenesis protein
+365318..365473	-	51	20093816	RPC10	MK0378	-	COG1996K	DNA-directed RNA polymerase subunit RPC10
+365476..365745	-	89	20093817	rpl37ae	MK0379	-	COG1997J	50S ribosomal protein L37
+365802..366605	-	267	20093818	-	MK0380	-	COG2123J	exosome complex RNA-binding protein Rrp42
+366607..367326	-	239	20093819	Rph	MK0381	-	COG0689J	exosome complex exonuclease Rrp41
+367335..368054	-	239	20093820	RRP4	MK0382	-	COG1097J	exosome complex RNA-binding protein Rrp4
+368062..369129	-	355	20093821	-	MK0383	-	COG1363G	hydrolase related to cellulase M
+369130..369852	-	240	20093822	-	MK0384	-	COG1500J	RNA-associated protein
+369855..370595	-	246	20093823	HslV_1	MK0385	-	COG0638O	proteasome subunit alpha
+370595..371089	-	164	20093824	POP5	MK0386	-	COG1369J	exosome subunit, RNase P subunit P14
+371086..371820	-	244	20093825	RPP30	MK0387	-	COG1603J	ribonuclease P subunit Rpp30
+371817..372278	-	153	20093826	-	MK0388	-	COG1325J	exosome subunit
+372312..372905	-	197	20093827	RPL15A	MK0389	-	COG1632J	50S ribosomal protein L15
+372970..373710	-	246	20093828	-	MK0390	-	COG3481R	HD-superfamily hydrolase
+373774..375273	+	499	20093829	-	MK0391	-	COG0119E	(R)-citramalate synthase
+375270..376295	-	341	20093830	ComC	MK0392	-	COG2055C	L-sulfolactate dehydrogenase
+376299..376865	-	188	20093831	-	MK0393	-	COG0028EH	thiamine pyrophosphate-requiring enzyme
+376933..377703	+	256	20093832	-	MK0394	-	COG1809S	hypothetical protein
+377707..378210	+	167	20093833	-	MK0395	-	COG4032R	thiamine-pyrophosphate-binding protein
+378195..379127	-	310	20093834	-	MK0396	-	COG2520R	SAM-dependent methyltransferase
+379182..379682	-	166	20093835	SEN2_2	MK0397	-	COG1676J	tRNA splicing endonuclease
+379633..379872	-	79	20093836	-	MK0398	-	COG0522J	RNA-binding protein
+379869..380348	-	159	20093837	-	MK0399	-	COG1931S	hypothetical protein
+380305..380895	-	196	20093838	CoaE	MK0400	-	COG0237H	dephospho-CoA kinase
+380949..382022	-	357	20093839	-	MK0401	-	COG1415S	hypothetical protein
+382222..383223	+	333	20093840	-	MK0402	-	COG1818R	RNA-binding protein
+383306..384133	+	275	20093841	TrpA	MK0403	-	COG0159E	tryptophan synthase subunit alpha
+385121..386080	-	319	20093842	ECM27_1	MK0404	-	COG0530P	Ca2+/Na+ antiporter
+386095..386403	+	102	20093843	-	MK0405	-	-	Zn-ribbon-containing protein
+386375..386872	+	165	20093844	MobA	MK0406	-	COG0746H	molybdopterin-guanine dinucleotide biosynthesis protein A
+386862..388859	-	665	20093845	-	MK0407	-	COG2433S	hypothetical protein
+388923..389306	+	127	20093846	-	MK0408	-	COG1714S	hypothetical protein
+389293..389832	-	179	20093847	-	MK0409	-	COG4977K	intracellular protease/amidase
+389846..390271	+	141	20093848	-	MK0410	-	COG4081S	hypothetical protein
+390268..390561	+	97	20093849	-	MK0411	-	COG4033S	hypothetical protein
+390558..391289	-	243	20093850	rpl2p	MK0412	-	COG0090J	50S ribosomal protein L2
+391302..391589	-	95	20093851	RplW	MK0413	-	COG0089J	ribosomal protein L23
+391593..392375	-	260	20093852	rpl4lp	MK0414	-	COG0088J	50S ribosomal protein L4
+392390..393475	-	361	20093853	rpl3p	MK0415	-	COG0087J	50S ribosomal protein L3P
+393619..394368	+	249	20093854	-	MK0416	-	-	hypothetical protein
+394373..394654	+	93	20093855	rpl44e	MK0417	-	COG1631J	50S ribosomal protein L44
+394669..394890	+	73	20093856	rps27e	MK0418	-	COG2051J	30S ribosomal protein S27
+394890..395693	+	267	20093857	SUI2	MK0419	-	COG1093J	translation initiation factor IF-2 subunit alpha
+395697..395897	+	66	20093858	-	MK0420	-	COG2260J	Zn-ribbon-containing RNA-binding protein
+395901..396710	+	269	20093859	-	MK0421	-	COG2047R	hypothetical protein
+397017..397583	+	188	20093860	-	MK0422	-	-	hypothetical protein
+397587..398081	+	164	20093861	-	MK0423	-	COG4083S	hypothetical protein
+398083..399336	+	417	20093862	-	MK0424	-	COG1379S	hypothetical protein
+399333..400784	+	483	20093863	-	MK0425	-	COG2170S	metal-dependent hydrolase of the TIM-barrel fold
+400786..401517	+	243	20093864	-	MK0426	-	COG2159R	hypothetical protein
+401719..402249	+	176	20093865	-	MK0427	-	COG3741E	hypothetical protein
+402254..402685	+	143	20093866	-	MK0428	-	COG2138S	sirohydrochlorin cobaltochelatase
+402699..403346	+	215	20093867	AroD	MK0429	-	COG0710E	3-dehydroquinate dehydratase
+403335..404072	-	245	20093868	-	MK0430	-	COG1635H	ribulose-1,5-biphosphate synthetase
+404095..404466	-	123	20093869	-	MK0431	-	-	hypothetical protein
+404463..404834	-	123	20093870	-	MK0432	-	-	hypothetical protein
+404865..405650	-	261	20093871	SurE	MK0433	-	COG0496R	acid phosphatase
+405568..406407	-	279	20093872	DapF	MK0434	-	COG0253E	diaminopimelate epimerase
+406436..407173	-	245	20093873	DapD	MK0435	-	COG2171E	tetrahydrodipicolinate N-succinyltransferase
+407170..407748	-	192	20093874	PabA	MK0436	-	COG0512EH	anthranilate/para-aminobenzoate synthase component II
+407723..409129	-	468	20093875	TrpE	MK0437	-	COG0147EH	anthranilate/para-aminobenzoate synthase component I
+409120..409710	-	196	20093876	-	MK0438	-	COG1300S	hypothetical protein
+409925..411559	-	544	20093877	-	MK0439	-	COG2024J	O-phosphoseryl-tRNA synthetase
+411681..412184	+	167	20093878	-	MK0440	-	-	hypothetical protein
+412195..412410	+	71	20093879	-	MK0441	-	-	hypothetical protein
+412377..413771	+	464	20093880	-	MK0442	-	-	hypothetical protein
+413745..414398	-	217	20093881	-	MK0443	-	COG2178J	RNA-binding protein
+414419..415777	-	452	20093882	-	MK0444	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+415803..416762	+	319	20093883	-	MK0445	-	COG4034S	hypothetical protein
+416913..417761	+	282	20093884	NadC	MK0446	-	COG0157H	nicotinate-nucleotide pyrophosphorylase
+417779..418756	-	325	20093885	-	MK0447	-	COG0028EH	hypothetical protein
+418732..419226	-	164	20093886	IlvB_1	MK0448	-	COG0028EH	acetolactate synthase large subunit
+419733..420248	+	171	20093887	-	MK0449	-	COG1813K	transcription factor
+420252..420827	-	191	20093888	-	MK0450	-	-	hypothetical protein
+420814..422439	-	541	20093889	FtsA	MK0451	-	COG0849D	heat shock protein 70
+422444..422755	-	103	20093890	-	MK0452	-	COG1694R	pyrophosphatase
+422752..423300	-	182	20093891	-	MK0453	-	COG2263J	SAM-dependent methyltransferase
+423263..423655	-	130	20093892	-	MK0454	-	COG1844S	hypothetical protein
+423708..424130	+	140	20093893	-	MK0455	-	COG4921S	hypothetical protein
+424099..425370	+	423	20093894	-	MK0456	-	COG2262R	HflX family GTPase
+425367..425804	-	145	20093895	-	MK0457	-	COG2524K	transcription regulator
+425875..426513	-	212	20093896	-	MK0458	-	COG2905T	CBS-domain-containing protein
+426513..427271	-	252	20093897	-	MK0459	-	COG2221C	ferredoxin
+427268..427711	-	147	20093898	EhaP	MK0460	-	COG2768R	ferredoxin
+427686..428825	-	379	20093899	EhbK	MK0461	-	COG2878C	ferredoxin
+428829..429407	-	192	20093900	EhaQ	MK0462	-	COG1143C	ferredoxin
+429389..430618	-	409	20093901	EhaO	MK0463	-	COG3261C	Ni,Fe-hydrogenase III large subunit
+430599..431087	-	162	20093902	EhaN	MK0464	-	COG3260C	Ni,Fe-hydrogenase III small subunit
+431084..431524	-	146	20093903	EhaM	MK0465	-	COG4084S	hypothetical protein
+431521..431865	-	114	20093904	EhaL	MK0466	-	COG4035S	hypothetical protein
+431862..432101	-	79	20093905	-	MK0467	-	-	hypothetical protein
+432112..432963	-	283	20093906	EhaJ	MK0468	-	COG0650C	membrane protein related to formate hydrogenlyase subunit 4
+432967..433170	-	67	20093907	-	MK0469	-	-	hypothetical protein
+433183..433854	-	223	20093908	EhaH	MK0470	-	COG4078S	hypothetical protein
+433838..434515	-	225	20093909	EhaG	MK0471	-	COG4036S	hypothetical protein
+434512..435021	-	169	20093910	EhaF	MK0472	-	COG4037S	hypothetical protein
+434978..435265	-	95	20093911	EhaE	MK0473	-	COG4038S	hypothetical protein
+435258..435500	-	80	20093912	EhaD	MK0474	-	COG4039S	hypothetical protein
+435497..435760	-	87	20093913	EhaC	MK0475	-	COG4040S	hypothetical protein
+435757..436278	-	173	20093914	EhaB	MK0476	-	COG4041S	hypothetical protein
+436275..436568	-	97	20093915	EhaA	MK0477	-	COG4042S	hypothetical protein
+436592..437665	+	357	20093916	-	MK0478	-	COG0714R	ATPase
+438675..440018	+	447	20093917	-	MK0479	-	COG2425R	hypothetical protein
+440015..440614	-	199	20093918	-	MK0480	-	-	hypothetical protein
+440625..441635	+	336	20093919	-	MK0481	-	-	NTPase
+441586..442755	-	389	20093920	-	MK0482	-	COG2896H	transcription regulator
+442817..444034	-	405	20093921	LysA	MK0483	-	COG0019E	diaminopimelate decarboxylase
+444079..444621	-	180	20093922	-	MK0484	-	COG4077S	hypothetical protein
+444618..445595	-	325	20093923	-	MK0485	-	COG1469S	GTP cyclohydrolase
+445677..449426	+	1249	20093924	-	MK0486	-	COG1222O	ATPase AAA+
+449457..449915	+	152	20093925	-	MK0487	-	COG1656S	hypothetical protein
+449908..450531	+	207	20093926	-	MK0488	-	COG2078S	hypothetical protein
+450514..451131	-	205	20093927	-	MK0489	-	COG2120S	hypothetical protein
+451128..452138	-	336	20093928	-	MK0490	-	COG1215M	cell wall biosynthesis glycosyltransferase
+452156..453241	-	361	20093929	CarA	MK0491	-	COG0505EF	carbamoyl phosphate synthase small subunit
+453622..454674	+	350	20093930	-	MK0492	-	COG1411R	fused ProFAR isomerase-like protein/uncharacterized protein
+454678..455469	-	263	20093931	-	MK0493	-	COG4044S	hypothetical protein
+455483..456004	-	173	20093932	-	MK0494	-	COG1418R	HD superfamily hydrolase
+456001..456582	-	193	20093933	TFA1	MK0495	-	COG1675K	transcription initiation factor IIE, large subunit
+456587..457279	-	230	20093934	-	MK0496	-	-	hypothetical protein
+457283..459457	-	724	20093935	PurL_2	MK0497	-	COG0046F	phosphoribosylformylglycinamidine synthase domain-containing protein
+459523..460449	-	308	20093936	-	MK0498	-	COG0247C	Fe-S oxidoreductase
+460425..461879	-	484	20093937	-	MK0499	-	COG1530J	ribonuclease of the G/E family
+461906..462208	+	100	20093938	hisE	MK0500	-	COG0140E	phosphoribosyl-ATP pyrophosphatase
+462591..463937	+	448	20093939	-	MK0501	-	COG2509R	hypothetical protein
+463950..464894	+	314	20093940	-	MK0502	-	-	hypothetical protein
+465077..466090	+	337	20093941	-	MK0503	-	COG2234R	aminopeptidase
+466093..466626	+	177	20093942	-	MK0504	-	COG1335Q	nicotinamidase-like amidase
+466623..467993	+	456	20093943	-	MK0505	-	COG2403R	cyclic 2,3-diphosphoglycerate-synthetase
+467990..468223	-	77	20093944	HHT1_1	MK0506	-	COG2036B	histone H3/H4
+468287..469069	+	260	20093945	-	MK0507	-	COG1637L	hypothetical protein
+469072..469722	+	216	20093946	TrpF	MK0508	-	COG0135E	phosphoribosylanthranilate isomerase
+469706..473605	-	1299	20093947	-	MK0509	-	COG1429H	CobN/Mg-chelatase
+473846..475135	+	429	20093948	-	MK0510	-	-	Zn-dependent metallopeptidase
+475141..476415	+	424	20093949	-	MK0511	-	COG2373R	Terpene cyclase/mutase
+476375..477415	-	346	20093950	-	MK0512	-	COG1697L	DNA topoisomerase VI subunit A
+477452..478060	-	202	20093951	-	MK0513	-	COG0415L	RNA-processing protein
+478065..478856	-	263	20093952	RIO1_1	MK0514	-	COG1718TD	serine/threonine protein kinase
+478853..479188	-	111	20093953	InfA	MK0515	-	COG0361J	translation initiation factor IF-1A
+479449..480423	-	324	20093954	TyrS	MK0516	-	COG0162J	tyrosyl-tRNA synthetase
+480456..481520	-	354	20093955	NMD3	MK0517	-	COG1499J	NMD protein affecting ribosome stability and mRNA decay
+481521..482639	-	372	20093956	-	MK0518	-	COG4046S	hypothetical protein
+483150..483854	-	234	20093957	LasT	MK0519	-	COG0565J	rRNA methylase
+483880..485811	+	643	20093958	-	MK0520	-	COG2401R	ABC transporter ATPase
+485808..486257	-	149	20093959	-	MK0521	-	COG0589T	nucleotide-binding protein related to universal stress protein UspA
+486337..486723	+	128	20093960	-	MK0522	-	COG2158R	Zn-finger-containing protein
+486677..487123	-	148	20093961	-	MK0523	-	COG4933S	hypothetical protein
+487264..488313	-	349	20093962	Mer	MK0524	-	COG2141C	methylenetetrahydromethanopterin reductase
+488504..489094	+	196	20093963	-	MK0525	-	COG2905T	CBS-domain-containing protein
+489122..489958	+	278	20093964	-	MK0526	-	COG2524K	CBS domain-containing protein
+489930..492113	-	727	20093965	-	MK0527	-	COG5617S	hypothetical protein
+492151..493311	+	386	20093966	-	MK0528	-	COG1423L	ATP-dependent DNA ligase
+493316..493792	+	158	20093967	-	MK0529	-	COG4087R	hypothetical protein
+493786..495066	+	426	20093968	PyrC	MK0530	-	COG0044F	dihydroorotase
+495059..496756	+	565	20093969	IlvB_2	MK0531	-	COG0028EH	acetolactate synthase catalytic subunit
+497119..497505	+	128	20093970	-	MK0532	-	COG1592C	rubrerythrin
+497572..498342	+	256	20093971	-	MK0533	-	COG1099R	metal-dependent hydrolase of the TIM-barrel fold
+498533..499327	+	264	20093972	-	MK0534	-	COG1810S	hypothetical protein
+499336..499764	-	142	20093973	-	MK0535	-	-	hypothetical protein
+499901..501817	+	638	20093974	-	MK0536	-	COG1151C	6Fe-6S prismane cluster-containing protein
+501838..502950	+	370	20093975	-	MK0537	-	COG3259C	coenzyme F420-reducing hydrogenase, alpha subunit
+502964..503680	+	238	20093976	-	MK0538	-	COG1941C	coenzyme F420-reducing hydrogenase, gamma subunit
+503796..504623	+	275	20093977	-	MK0539	-	COG1035C	coenzyme F420-reducing hydrogenase subunit beta
+504665..505129	+	154	20093978	-	MK0540	-	-	hypothetical protein
+505144..505872	+	242	20093979	-	MK0541	-	COG4047S	N-glycosylase/DNA lyase
+506098..506835	+	245	20093980	-	MK0542	-	COG1719R	transcription regulator
+506807..507148	-	113	20093981	-	MK0543	-	COG0599S	hypothetical protein
+507396..509270	+	624	20093982	ThrS	MK0544	-	COG0441J	threonyl-tRNA synthetase
+509272..509775	-	167	20093983	IlvH	MK0545	-	COG0440E	acetolactate synthase small subunit
+509917..510690	+	257	20093984	TatD	MK0546	-	COG0084L	Mg-dependent DNase
+510899..511126	+	75	20093985	-	MK0547	-	-	hypothetical protein
+511128..511655	+	175	20093986	-	MK0548	-	COG1913R	Zn-dependent protease
+511613..512170	+	185	20093987	-	MK0549	-	COG0456R	acetyltransferase
+512386..513675	+	429	20093988	GltB_1	MK0550	-	COG0069E	glutamate synthase subunit 2
+513689..514252	+	187	20093989	GuaA_2	MK0551	-	COG0518F	GMP synthase subunit A
+514237..515541	+	434	20093990	NhaP	MK0552	-	COG0025P	NhaP-type Na+/H+ or K+/H+ antiporter
+515607..516128	+	173	20093991	MoaB	MK0553	-	COG0521H	molybdopterin biosynthesis protein
+516136..516606	-	156	20093992	moaC	MK0554	-	COG0315H	molybdenum cofactor biosynthesis protein MoaC
+518513..518920	+	135	20093993	-	MK0555	-	COG3780L	DNA endonuclease related to intein-encoded endonuclease
+519350..520219	-	289	20093994	-	MK0556	-	COG0467T	signal transduction ATPase
+520203..520772	-	189	20093995	-	MK0557	-	COG1790S	hypothetical protein
+521047..522033	+	328	20093996	-	MK0558	-	COG1907R	specific sugar kinase
+522045..523307	+	420	20093997	SIK1	MK0559	-	COG1498J	protein implicated in ribosomal biogenesis, Nop56p-like protein
+523355..524053	+	232	20093998	NOP1	MK0560	-	COG1889J	fibrillarin
+524303..525274	+	323	20093999	PitA	MK0561	-	COG0306P	phosphate permease
+525271..525885	+	204	20094000	-	MK0562	-	COG1392P	hypothetical protein
+525882..526838	+	318	20094001	PyrD	MK0563	-	COG0167F	dihydroorotate dehydrogenase
+526826..527614	+	262	20094002	-	MK0564	-	COG0543HC	flavodoxin oxidoreductase related to 2-polyprenylphenol hydroxylase
+527589..528335	+	248	20094003	-	MK0565	-	COG0463M	cell wall biosynthesis glycosyltransferase
+528389..529435	+	348	20094004	Exo	MK0566	-	COG0258L	flap endonuclease-1
+529503..530324	-	273	20094005	-	MK0567	-	COG3366S	hypothetical protein
+530382..531287	+	301	20094006	-	MK0568	-	COG4948MR	O-succinylbenzoate synthase-like protein
+531423..532460	+	345	20094007	-	MK0569	-	COG3367S	hypothetical protein
+532442..532792	-	116	20094008	-	MK0570	-	COG4048S	hypothetical protein
+532866..533444	+	192	20094009	-	MK0571	-	COG4887R	hypothetical protein
+533451..534368	-	305	20094010	HdrB	MK0572	-	COG2048C	heterodisulfide reductase, subunit B
+534381..534959	-	192	20094011	HdrC	MK0573	-	COG1150C	heterodisulfide reductase, subunit C
+535060..535818	+	252	20094012	-	MK0574	-	COG0583K	LysR family transcriptional regulator
+536146..536853	-	235	20094013	-	MK0575	-	COG2043S	hypothetical protein
+536956..537345	+	129	20094014	-	MK0576	-	COG3355K	transcriptional regulator
+537359..537568	+	69	20094015	-	MK0577	-	COG4049R	nucleic-acid-binding protein containing an -type C2H2 Zn-finger
+537647..538099	-	150	20094016	TagD	MK0578	-	COG0615MI	cytidylyltransferase
+538169..538615	+	148	20094017	-	MK0579	-	COG4050S	hypothetical protein
+538628..539851	+	407	20094018	-	MK0580	-	COG1924I	2-hydroxyglutaryl-CoA dehydratase activator
+539864..540490	+	208	20094019	-	MK0581	-	COG4051S	hypothetical protein
+540487..541335	+	282	20094020	-	MK0582	-	COG0535R	Fe-S oxidoreductase
+541340..542266	+	308	20094021	-	MK0583	-	COG4052R	hypothetical protein
+542479..543207	-	242	20094022	-	MK0584	-	COG0373H	hypothetical protein
+543481..544767	+	428	20094023	-	MK0585	-	-	hypothetical protein
+545004..545954	+	316	20094024	PRI1	MK0586	-	COG1467L	DNA primase, small subunit
+545951..546523	+	190	20094025	-	MK0587	-	COG1920S	hypothetical protein
+546629..547708	+	359	20094026	purP	MK0588	-	COG1759R	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+547818..549116	+	432	20094027	ThiD	MK0589	-	COG1992S	fused hydroxymethylpyrimidine/phosphomethylpyrimidine kinase/uncharacterized protein
+549121..549732	+	203	20094028	-	MK0590	-	-	hypothetical protein
+549969..550763	+	264	20094029	-	MK0591	-	-	hypothetical protein
+550754..551515	+	253	20094030	-	MK0592	-	-	hypothetical protein
+551518..551976	+	152	20094031	-	MK0593	-	-	hypothetical protein
+552664..552933	+	89	20094032	-	MK0594	-	-	hypothetical protein
+553054..553923	+	289	20094033	-	MK0595	-	COG2521R	methyltransferase
+553892..554356	-	154	20094034	-	MK0596	-	COG1833S	hypothetical protein
+554373..556742	+	789	20094035	-	MK0597	-	COG5617S	hypothetical protein
+556733..557212	+	159	20094036	-	MK0598	-	-	hypothetical protein
+557225..558235	+	336	20094037	-	MK0599	-	COG2520R	methyltransferase
+558229..558702	-	157	20094038	-	MK0600	-	COG4080L	hypothetical protein
+558753..559712	+	319	20094039	-	MK0601	-	COG0715P	nitrate/sulfonate/taurine/bicarbonate ABC transporter periplasmic protein
+559712..560467	+	251	20094040	-	MK0602	-	COG0600P	nitrate/sulfonate/bicarbonate ABC transporter permease
+560458..561198	+	246	20094041	-	MK0603	-	COG1116P	nitrate/sulfonate/taurine/bicarbonate ABC transporter ATPase
+561299..562033	+	244	20094042	-	MK0604	-	COG0042J	hypothetical protein
+562156..563580	-	474	20094043	-	MK0605	-	COG0675L	transposase
+563941..565068	+	375	20094044	Kch_1	MK0606	-	COG1827R	Kef-type K+ transporter
+566155..567084	-	309	20094045	ThiL	MK0607	-	COG0611H	thiamine monophosphate kinase
+567068..567601	+	177	20094046	NIP7	MK0608	-	COG1374J	RNA-binding protein
+567603..568250	+	215	20094047	-	MK0609	-	COG1707R	metabolic regulator
+568264..568827	+	187	20094048	-	MK0610	-	COG0503F	adenine phosphoribosyltransferase
+568818..569834	-	338	20094049	-	MK0611	-	COG1665S	hypothetical protein
+569848..570273	+	141	20094050	-	MK0612	-	COG1661R	DNA-binding protein
+570239..571111	-	290	20094051	Map	MK0613	-	COG0024J	methionine aminopeptidase
+571138..571800	+	220	20094052	-	MK0614	-	-	hypothetical protein
+572038..572349	-	103	20094053	-	MK0615	-	COG1745R	metal-binding protein
+572365..573780	-	471	20094054	LonB	MK0616	-	COG1067O	ATP-dependent protease
+573932..575161	-	409	20094055	DnaG	MK0617	-	COG0358L	DNA primase
+575280..576332	-	350	20094056	GapA	MK0618	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+576853..577878	-	341	20094057	SUA7_1	MK0619	-	COG1405K	transcription initiation factor IIB
+578231..579271	-	346	20094058	SelA	MK0620	-	COG1921E	selenocysteine synthase
+579226..580800	-	524	20094059	-	MK0621	-	COG5270J	hypothetical protein
+580781..582307	-	508	20094060	ArgH	MK0622	-	COG0165E	argininosuccinate lyase
+582471..583118	+	215	20094061	-	MK0623	-	COG1305E	transglutaminase-like supefamily cysteine protease
+583203..583934	+	243	20094062	-	MK0624	-	COG1667S	hypothetical protein
+583941..584888	+	315	20094063	Mch	MK0625	-	COG3252H	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase
+588697..589611	+	304	20094064	-	MK0626	-	-	hypothetical protein
+589834..590232	-	132	20094065	FlpD_2	MK0627	-	COG1908C	coenzyme F420-reducing hydrogenase, delta subunit
+590310..591596	+	428	20094066	AroA	MK0628	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+591588..592031	-	147	20094067	-	MK0629	-	COG1719R	metabolic regulator
+592104..592511	-	135	20094068	-	MK0630	-	COG1719R	metabolic regulator
+592609..593769	+	386	20094069	AroC	MK0631	-	COG0082E	chorismate synthase
+593764..594639	-	291	20094070	-	MK0632	-	COG1719R	metabolic regulator
+594757..595908	+	383	20094071	-	MK0633	-	COG0075E	aspartate aminotransferase
+595894..596667	-	257	20094072	-	MK0634	-	COG4053S	hypothetical protein
+596667..597305	+	212	20094073	SUA5	MK0635	-	COG0009J	translation factor (SUA5)
+597298..597756	+	152	20094074	-	MK0636	-	COG4090S	hypothetical protein
+597753..598430	+	225	20094075	-	MK0637	-	COG2263J	SAM-dependent methyltransferase
+598427..598936	+	169	20094076	-	MK0638	-	COG2042S	hypothetical protein
+598998..600539	-	513	20094077	-	MK0639	-	COG3883S	hypothetical protein
+600529..601014	-	161	20094078	-	MK0640	-	-	hypothetical protein
+601207..601356	+	49	20094079	rpl40e	MK0641	-	COG1552J	50S ribosomal protein L40
+601360..602079	+	239	20094080	-	MK0642	-	COG1646R	geranylgeranylglyceryl phosphate synthase-like protein
+602066..602473	-	135	20094081	-	MK0643	-	-	hypothetical protein
+602534..603211	+	225	20094082	-	MK0644	-	COG0018J	ATPase
+603358..604410	+	350	20094083	-	MK0645	-	COG5271R	hypothetical protein
+604733..604954	-	73	20094084	-	MK0646	-	-	hypothetical protein
+605491..606189	+	232	20094085	-	MK0647	-	-	hypothetical protein
+606223..608511	-	762	20094086	HypF	MK0648	-	COG0068O	hydrogenase maturation factor
+608508..609632	-	374	20094087	-	MK0649	-	-	hypothetical protein
+609636..610853	-	405	20094088	-	MK0650	-	COG1625C	NifB/MoaA family Fe-S oxidoreductase
+611026..612360	+	444	20094089	McrB	MK0651	-	COG4054H	methyl coenzyme M reductase, beta subunit
+612470..612991	+	173	20094090	McrD	MK0652	-	COG4055H	methyl coenzyme M reductase, subunit D
+613000..613608	+	202	20094091	McrC	MK0653	-	COG4056H	methyl coenzyme M reductase, subunit C
+613750..614523	+	257	20094092	McrG	MK0654	-	COG4057H	methyl coenzyme M reductase, gamma subunit
+614620..616281	+	553	20094093	McrA	MK0655	-	COG4058H	methyl coenzyme M reductase, alpha subunit
+616411..617307	+	298	20094094	MtrE	MK0656	-	COG4059H	tetrahydromethanopterin S-methyltransferase subunit E
+617423..618100	+	225	20094095	MtrD	MK0657	-	COG4060H	tetrahydromethanopterin S-methyltransferase subunit D
+618120..618932	+	270	20094096	MtrC	MK0658	-	COG4061H	tetrahydromethanopterin S-methyltransferase subunit C
+618946..619284	+	112	20094097	MtrB	MK0659	-	COG4062H	tetrahydromethanopterin S-methyltransferase subunit B
+619299..620057	+	252	20094098	MtrA	MK0660	-	COG4063H	tetrahydromethanopterin S-methyltransferase subunit A
+620071..620295	+	74	20094099	MtrG	MK0661	-	COG4064H	tetrahydromethanopterin S-methyltransferase subunit G
+620318..621286	+	322	20094100	MtrH	MK0662	-	COG1962H	tetrahydromethanopterin S-methyltransferase subunit H
+621086..622561	-	491	20094101	-	MK0663	-	COG1429H	hypothetical protein
+622607..624328	+	573	20094102	-	MK0664	-	COG1429H	hypothetical protein
+624364..625800	+	478	20094103	-	MK0665	-	COG4065S	hypothetical protein
+625919..626347	+	142	20094104	-	MK0666	-	COG4066S	hypothetical protein
+626344..627258	+	304	20094105	MetE	MK0667	-	COG0620E	methionine synthase
+627325..627636	+	103	20094106	-	MK0668	-	-	hypothetical protein
+627780..628319	-	179	20094107	-	MK0669	-	-	membrane-associated phospholipid phosphatase
+628363..628776	-	137	20094108	-	MK0670	-	COG2510S	NADH-flavin reductase
+628773..629018	-	81	20094109	-	MK0671	-	-	hypothetical protein
+629019..630314	-	431	20094110	-	MK0672	-	COG0076E	pyridoxal-phosphate-dependent enzyme related to glutamate decarboxylase
+630694..631617	+	307	20094111	-	MK0673	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+631691..632797	+	368	20094112	-	MK0674	-	COG0478T	fused RIO1-like serine/threonine protein kinase/DNA-binding HTH domain-containing protein
+632724..633431	+	235	20094113	-	MK0675	-	COG1691R	NCAIR mutase
+633524..634726	+	400	20094114	-	MK0676	-	COG0585S	hypothetical protein
+634723..634887	-	54	20094115	-	MK0677	-	-	Zn-ribbon-containing protein
+634980..635999	+	339	20094116	TrpD	MK0678	-	COG0547E	anthranilate phosphoribosyltransferase
+636060..639833	-	1257	20094117	FusA	MK0679	-	COG0480J	elongation factor EF-2
+639848..640441	-	197	20094118	RpsG	MK0680	-	COG0049J	30S ribosomal protein S7
+640545..640988	-	147	20094119	rps12P	MK0681	-	COG0048J	30S ribosomal protein S12
+641007..641435	-	142	20094120	nusA	MK0682	-	COG0195K	transcription elongation factor NusA-like protein
+641451..641780	-	109	20094121	RPL30	MK0683	-	COG1911J	ribosomal protein L30E
+642269..643558	-	429	20094122	RpoC_1	MK0684	-	COG0086K	DNA-directed RNA polymerase subunit A''
+643555..646416	-	953	20094123	RpoC_2	MK0685	-	COG0086K	DNA-directed RNA polymerase subunit A'
+646413..648335	-	640	20094124	RpoB_1	MK0686	-	COG0085K	DNA-directed RNA polymerase subunit B'
+648385..649962	-	525	20094125	RpoB_2	MK0687	-	COG0085K	DNA-directed RNA polymerase subunit beta''
+649995..650273	-	92	20094126	rpoH	MK0688	-	COG2012K	DNA-directed RNA polymerase subunit H
+650789..653419	-	876	20094127	SbcC	MK0690	-	COG0419L	SMC1-family ATPase
+653427..654782	-	451	20094128	SbcD	MK0691	-	COG0420L	SbcD/Mre11 family DNA repair exonuclease
+654785..656368	-	527	20094129	-	MK0692	-	COG0433R	P-loop ATPase
+656349..657518	-	389	20094130	-	MK0693	-	-	hypothetical protein
+657749..658219	-	156	20094131	-	MK0694	-	-	hypothetical protein
+658227..658802	-	191	20094132	-	MK0695	-	-	hypothetical protein
+658768..659217	-	149	20094133	-	MK0696	-	COG1991S	hypothetical protein
+659236..661821	+	861	20094134	-	MK0697	-	-	hypothetical protein
+661961..663658	-	565	20094135	-	MK0698	-	-	hypothetical protein
+663655..664569	-	304	20094136	-	MK0699	-	-	hypothetical protein
+664566..664736	-	56	20094137	-	MK0700	-	-	hypothetical protein
+664747..664935	-	62	20094138	-	MK0701	-	-	hypothetical protein
+664932..665126	-	64	20094139	-	MK0702	-	-	hypothetical protein
+665111..666085	-	324	20094140	PppA	MK0703	-	COG1989NOU	prepilin-cleaving (type IV) signal peptidase
+666091..667089	-	332	20094141	-	MK0704	-	-	hypothetical protein
+668048..669025	-	325	20094142	-	MK0705	-	COG4965U	hypothetical protein
+669056..670144	-	362	20094143	-	MK0706	-	COG2064NU	hypothetical protein
+670334..672142	-	602	20094144	-	MK0707	-	COG4962U	ATPase
+672151..673908	-	585	20094145	-	MK0708	-	COG0606O	ATPase AAA
+673914..674513	-	199	20094146	RsmC	MK0709	-	COG2813J	16S rRNA G1207 methylase
+675105..676400	-	431	20094147	aspC	MK0710	-	COG0017J	aspartyl-tRNA synthetase
+676444..677739	-	431	20094148	HisD	MK0711	-	COG0141E	histidinol dehydrogenase
+677717..678481	-	254	20094149	-	MK0712	-	COG1701S	hypothetical protein
+678478..679608	-	376	20094150	Dfp	MK0713	-	COG0452H	phosphopantothenoylcysteine synthetase/decarboxylase
+679601..680143	-	180	20094151	nusA	MK0714	-	COG0195K	transcription elongation factor NusA-like protein
+680294..680575	+	93	20094152	Ssh10b_1	MK0715	-	COG1581K	DNA/RNA-binding protein albA
+680541..682988	-	815	20094153	-	MK0716	-	-	hypothetical protein
+682947..685229	+	760	20094154	CdhA_1	MK0717	-	COG1152C	acetyl-CoA decarbonylase/synthase complex subunit alpha
+685235..685714	+	159	20094155	CdhB	MK0718	-	COG1880C	CO dehydrogenase/acetyl-CoA synthase epsilon subunit
+685725..687623	+	632	20094156	CdhA_1	MK0719	-	COG1152C	acetyl-CoA decarbonylase/synthase complex subunit alpha
+687632..689035	+	467	20094157	CdhC	MK0720	-	COG1614C	acetyl-CoA decarbonylase/synthase complex subunit beta
+689032..689805	+	257	20094158	CooC_1	MK0721	-	COG3640D	CO dehydrogenase maturation factor
+689798..691000	+	400	20094159	CdhD	MK0722	-	COG2069C	acetyl-CoA decarbonylase/synthase complex subunit delta
+691014..692402	+	462	20094160	CdhE	MK0723	-	COG1456C	acetyl-CoA decarbonylase/synthase complex subunit gamma
+692457..693386	+	309	20094161	-	MK0724	-	COG1087M	nucleoside-diphosphate-sugar epimerase
+693426..693929	+	167	20094162	HycB	MK0725	-	COG1142C	Fe-S-cluster-containing hydrogenase component
+693907..694650	+	247	20094163	CooC_2	MK0726	-	COG3640D	CO dehydrogenase maturation factor
+694590..694850	+	86	20094164	-	MK0727	-	COG1146C	ferredoxin
+694843..695961	+	372	20094165	PorA_2	MK0728	-	COG0674C	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+695958..696773	+	271	20094166	PorB_2	MK0729	-	COG1013C	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+696757..697287	+	176	20094167	PorG_2	MK0730	-	COG1014C	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+697284..698363	+	359	20094168	SucC	MK0731	-	COG0045C	succinyl-CoA synthetase beta subunit
+698367..699230	+	287	20094169	SucD	MK0732	-	COG0074C	succinyl-CoA synthetase alpha subunit
+699231..700091	+	286	20094170	-	MK0733	-	COG1829R	sugar kinase superfamily protein
+700084..700260	+	58	20094171	-	MK0734	-	COG1532R	RNA-binding protein
+700349..701005	-	218	20094172	PyrF	MK0735	-	COG0284F	orotidine-5'-phosphate decarboxylase
+700981..701478	-	165	20094173	-	MK0736	-	-	hypothetical protein
+701479..702372	-	297	20094174	DYS1	MK0737	-	COG1899O	deoxyhypusine synthase
+702369..703142	-	257	20094175	-	MK0738	-	COG0010E	arginase
+703117..703527	-	136	20094176	Efp	MK0739	-	COG0231J	translation initiation factor IF-5A
+703599..704051	+	150	20094177	-	MK0740	-	COG1945S	hypothetical protein
+704058..705071	+	337	20094178	SuhB	MK0741	-	COG0483G	fructose-1,6-bisphosphatase
+705044..705874	+	276	20094179	-	MK0742	-	COG0061G	sugar kinase
+705968..706243	-	91	20094180	HHT1_2	MK0743	-	COG2036B	Histones H3/H4
+706262..706693	+	143	20094181	-	MK0744	-	COG1439R	nucleic acid-binding protein
+706675..707529	+	284	20094182	-	MK0745	-	COG4740R	metalloprotease
+707526..708443	+	305	20094183	HemC	MK0746	-	COG0181H	porphobilinogen deaminase
+708436..709227	+	263	20094184	DPH5	MK0747	-	COG1798J	diphthine synthase
+709231..709587	+	118	20094185	-	MK0748	-	COG1885S	hypothetical protein
+709592..710701	-	369	20094186	-	MK0749	-	-	hypothetical protein
+710703..711950	-	415	20094187	-	MK0750	-	-	hypothetical protein
+711973..712422	-	149	20094188	-	MK0751	-	-	hypothetical protein
+712425..713867	-	480	20094189	MurE_1	MK0752	-	COG0769M	UDP-N-acetylmuramyl tripeptide synthase
+713877..714947	-	356	20094190	MraY	MK0753	-	COG0472M	UDP-N-acetylmuramyl pentapeptide phosphotransferase
+714964..716103	-	379	20094191	CarB_1	MK0754	-	COG0458EF	carbamoylphosphate synthase large subunit
+716100..717638	-	512	20094192	MurC	MK0755	-	COG0771M	UDP-N-acetylmuramate-alanine ligase
+717691..718695	-	334	20094193	-	MK0756	-	COG0037D	ATPase
+718688..720403	-	571	20094194	gltX	MK0757	-	COG0008J	glutamyl-tRNA synthetase
+720849..722627	-	592	20094195	ArgS	MK0758	-	COG0018J	arginyl-tRNA synthetase
+722643..723872	-	409	20094196	eRF1	MK0759	-	COG1503J	peptide chain release factor 1
+723901..724572	+	223	20094197	PyrH	MK0760	-	COG0528F	uridylate kinase
+724579..724770	+	63	20094198	-	MK0761	-	COG4068S	Zn-ribbon containing protein
+724738..725484	-	248	20094199	-	MK0762	-	COG4076R	RNA methylase
+725481..726020	-	179	20094200	-	MK0763	-	COG1432S	hypothetical protein
+726042..726800	-	252	20094201	-	MK0764	-	-	hypothetical protein
+726742..727086	-	114	20094202	-	MK0765	-	-	hypothetical protein
+727083..728198	-	371	20094203	PhoH	MK0766	-	COG1702T	phosphate starvation-inducible protein PhoH, ATPase
+728211..729026	-	271	20094204	UppS	MK0767	-	COG0020I	undecaprenyl pyrophosphate synthase
+729066..729563	+	165	20094205	-	MK0768	-	COG0622R	phosphoesterase
+729717..730787	+	356	20094206	-	MK0769	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+730816..731811	+	331	20094207	-	MK0770	-	COG0392S	hypothetical protein
+732207..734036	+	609	20094208	-	MK0771	-	COG4801R	hypothetical protein
+734033..734974	-	313	20094209	-	MK0772	-	COG0663R	carbonic anhydrase
+735042..735533	-	163	20094210	-	MK0773	-	COG4072S	hypothetical protein
+735536..736510	-	324	20094211	IspA	MK0774	-	COG0142H	geranylgeranyl pyrophosphate synthase
+736523..737884	-	453	20094212	-	MK0775	-	COG0595R	metallo-beta-lactamase superfamily hydrolase
+737872..738996	-	374	20094213	LldD	MK0776	-	COG1304C	isopentenyl pyrophosphate isomerase
+738974..739693	-	239	20094214	-	MK0777	-	COG1608R	kinase
+739816..740862	+	348	20094215	ThiI_1	MK0778	-	COG0301H	thiamine biosynthesis ATP pyrophosphatase
+740929..741837	+	302	20094216	-	MK0779	-	COG2524K	CBS-domain-containing protein
+741887..743083	+	398	20094217	-	MK0780	-	COG3287S	hypothetical protein
+743138..743650	+	170	20094218	LeuD_1	MK0781	-	COG0066E	3-isopropylmalate dehydratase small subunit
+743656..744663	+	335	20094219	LeuB_1	MK0782	-	COG0473CE	isocitrate/isopropylmalate dehydrogenase
+744973..745683	+	236	20094220	-	MK0783	-	COG0541U	hypothetical protein
+745708..746904	+	398	20094221	TrpB	MK0784	-	COG0133E	tryptophan synthase subunit beta
+746905..747300	-	131	20094222	-	MK0785	-	COG1719R	metabolic regulator
+747316..747681	+	121	20094223	-	MK0786	-	COG2098S	hypothetical protein
+747678..748961	+	427	20094224	-	MK0787	-	COG1323R	cytidylyltransferase domain/nucleotidyltransferase domain-containing protein
+748958..750166	+	402	20094225	-	MK0788	-	COG1032C	Fe-S oxidoreductase
+750112..750972	+	286	20094226	-	MK0789	-	-	metal-dependent hydrolase
+750903..751583	-	226	20094227	PurL_1	MK0790	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+751653..751907	-	84	20094228	PurS	MK0791	-	COG1828F	phosphoribosylformylglycinamidine (FGAM) synthase, PurS subunit
+751904..752647	-	247	20094229	PurC	MK0792	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+752727..753977	+	416	20094230	-	MK0793	-	COG3287S	hypothetical protein
+753993..755180	+	395	20094231	-	MK0794	-	COG4069S	hypothetical protein
+755237..756220	+	327	20094232	-	MK0795	-	COG2144R	selenophosphate synthetase
+756217..757752	+	511	20094233	-	MK0796	-	COG4070O	hypothetical protein
+757749..759056	+	435	20094234	-	MK0797	-	COG1032C	Fe-S oxidoreductase
+759053..760315	+	420	20094235	TyrA_2	MK0798	-	COG0287E	prephenate dehydrogenase
+760363..762369	-	668	20094236	-	MK0799	-	COG2221C	bifunctional coenzyme F420-reducing hydrogenase subunit beta/oxidoreductase
+762431..762814	+	127	20094237	-	MK0800	-	COG3355K	transcription regulator
+762811..763422	+	203	20094238	-	MK0801	-	COG2221C	oxidoreductase related to nitrite reductase
+763376..764641	-	421	20094239	-	MK0802	-	-	hypothetical protein
+764701..765237	+	178	20094240	-	MK0803	-	COG1303S	SpoU-like RNA methylase
+765234..765932	+	232	20094241	ApaH	MK0804	-	COG0622R	diadenosine tetraphosphatase
+765929..766717	-	262	20094242	-	MK0805	-	-	hypothetical protein
+766921..768012	-	363	20094243	-	MK0806	-	-	Zn-dependent metallohydrolase
+768031..768816	+	261	20094244	-	MK0807	-	COG1912S	hypothetical protein
+768856..770355	-	499	20094245	-	MK0808	-	COG0063G	Short chain dehydrogenase fused to sugar kinase
+771251..771961	+	236	20094246	HypB_1	MK0810	-	COG0378OK	Ni2+-binding GTPase involved in regulation of expression and maturation of hydrogenase
+771930..772610	+	226	20094247	-	MK0811	-	COG2000R	Fe-S protein
+772762..773676	-	304	20094248	-	MK0812	-	COG1578S	hypothetical protein
+773691..774935	-	414	20094249	-	MK0813	-	-	membrane-associated Zn-dependent protease
+774937..775368	-	143	20094250	-	MK0814	-	COG0432S	hypothetical protein
+775372..776106	+	244	20094251	MscS	MK0815	-	COG0668M	small-conductance mechanosensitive channel
+776227..777129	+	300	20094252	Ftr_2	MK0816	-	COG2037C	formylmethanofuran--tetrahydromethanopterin formyltransferase
+777133..778026	+	297	20094253	-	MK0817	-	COG0524G	ribokinase sugar kinase
+778042..778800	-	252	20094254	-	MK0818	-	COG0602O	organic-radical-activating enzyme
+778761..779243	-	160	20094255	-	MK0819	-	COG0720H	6-pyruvoyl tetrahydrobiopterin synthase
+779435..781207	+	590	20094256	pheT	MK0820	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+781211..782434	+	407	20094257	FtsZ_1	MK0821	-	COG0206D	cell division protein FtsZ
+782450..782635	+	61	20094258	Sss1	MK0822	-	COG2443U	protein translocase subunit Sss1
+782651..783142	+	163	20094259	nusG	MK0823	-	COG0250K	transcription antitermination protein NusG
+783170..783670	+	166	20094260	rpl11p	MK0824	-	COG0080J	50S ribosomal protein L17
+783684..784328	+	214	20094261	rpl1P	MK0825	-	COG0081J	50S ribosomal protein L1
+784328..785416	+	362	20094262	rplP0	MK0826	-	COG0244J	acidic ribosomal protein P0
+785439..785981	+	180	20094263	-	MK0827	-	COG1618F	NTPase
+785987..787657	+	556	20094264	sdhA	MK0828	-	COG1053C	succinate dehydrogenase flavoprotein subunit
+787632..789431	-	599	20094265	AdeC	MK0829	-	COG1001F	adenine deaminase
+789454..790515	-	353	20094266	-	MK0830	-	COG5650S	hypothetical protein
+790663..791670	-	335	20094267	-	MK0831	-	-	hypothetical protein
+791741..792721	-	326	20094268	IlvC	MK0832	-	COG0059EH	ketol-acid reductoisomerase
+792735..793019	-	94	20094269	RPL14A	MK0833	-	COG2163J	50S ribosomal protein L14
+793046..794548	+	500	20094270	-	MK0834	-	-	hypothetical protein
+794560..797016	+	818	20094271	-	MK0835	-	COG1202R	helicase
+797005..798327	-	440	20094272	-	MK0836	-	-	hypothetical protein
+798324..798665	-	113	20094273	-	MK0837	-	-	hypothetical protein
+798710..799576	+	288	20094274	-	MK0838	-	COG4071S	hypothetical protein
+799566..800123	-	185	20094275	SPT15	MK0839	-	COG2101K	transcription factor
+800146..801222	-	358	20094276	-	MK0840	-	COG2377O	molecular chaperone distantly related to HSP70-fold metalloprotease
+801199..801678	+	159	20094277	rpl22p	MK0841	-	COG0091J	50S ribosomal protein L22
+801692..802375	+	227	20094278	rps3p	MK0842	-	COG0092J	30S ribosomal protein S3
+802379..802612	+	77	20094279	RpmC	MK0843	-	COG0255J	ribosomal protein L29
+802632..802952	+	106	20094280	SUI1	MK0844	-	COG0023J	translation initiation factor (SUI1)
+802945..803634	-	229	20094281	-	MK0845	-	COG2226H	SAM-dependent methyltransferase
+803550..803876	+	108	20094282	POP4_1	MK0846	-	COG1588J	RNAse P subunit P29
+803850..804587	-	245	20094283	-	MK0847	-	COG0330O	membrane protease subunit stomatin/prohibitin-like protein
+804584..805012	-	142	20094284	-	MK0848	-	COG1585OU	membrane protein implicated in regulation of membrane protease activity
+805062..806366	+	434	20094285	Lpd	MK0849	-	COG1249C	dihydrolipoamide dehydrogenase
+806368..808374	-	668	20094286	MetG	MK0850	-	COG0143J	methionyl-tRNA synthetase
+808381..809715	-	444	20094287	-	MK0851	-	-	hypothetical protein
+809802..810416	-	204	20094288	-	MK0852	-	-	hypothetical protein
+810419..811066	-	215	20094289	-	MK0853	-	-	hypothetical protein
+811293..812264	-	323	20094290	-	MK0854	-	COG0707M	UDP-N-acetylglucosamine 2-epimerase
+812269..812874	-	201	20094291	HisB	MK0855	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+812939..813283	+	114	20094292	-	MK0856	-	COG4085R	RNA-binding protein
+813255..814070	+	271	20094293	-	MK0857	-	-	hypothetical protein
+814061..814984	-	307	20094294	SUA7_2	MK0858	-	COG1405K	transcription initiation factor IIB
+815000..815284	-	94	20094295	GAR1	MK0859	-	COG3277J	RNA-binding protein involved in rRNA processing
+815362..815964	-	200	20094296	-	MK0860	-	COG1146C	ferredoxin
+815970..816254	+	94	20094297	-	MK0861	-	-	hypothetical protein
+816285..817220	+	311	20094298	PhoU	MK0862	-	COG0704P	phosphate uptake regulator
+817232..817948	+	238	20094299	FtsZ_2	MK0863	-	COG0206D	GTPase FtsZ
+817961..818197	+	78	20094300	-	MK0864	-	-	DNA-binding protein
+818237..819400	+	387	20094301	argJ	MK0865	-	COG1364E	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+819624..820862	+	412	20094302	-	MK0866	-	COG1915S	hypothetical protein
+820834..821088	-	84	20094303	-	MK0867	-	-	hypothetical protein
+821117..822100	+	327	20094304	-	MK0868	-	COG2074G	2-phosphoglycerate kinase
+822107..822523	+	138	20094305	-	MK0869	-	COG3448T	CBS-domain-containing protein
+822747..823631	-	294	20094306	-	MK0870	-	-	hypothetical protein
+823635..824180	-	181	20094307	CyaB	MK0871	-	COG1437F	adenylate cyclase
+824222..825364	-	380	20094308	EriC	MK0872	-	COG0038P	chloride channel protein EriC
+825400..825711	+	103	20094309	CpsB_1	MK0873	-	COG0662G	mannose-6-phosphate isomerase
+825979..826695	+	238	20094310	-	MK0874	-	COG0663R	acetyltransferase
+826703..827305	+	200	20094311	-	MK0875	-	-	hypothetical protein
+827312..828238	+	308	20094312	CitG_2	MK0876	-	COG1767H	triphosphoribosyl-dephospho-CoA synthetase
+828174..828677	+	167	20094313	-	MK0877	-	-	hypothetical protein
+828838..830148	+	436	20094314	RPT1	MK0878	-	COG1222O	proteasome-activating nucleotidase
+830233..831030	+	265	20094315	-	MK0879	-	-	hypothetical protein
+830924..831646	+	240	20094316	-	MK0880	-	COG0463M	cell wall biosynthesis glycosyltransferase
+831689..833029	+	446	20094317	-	MK0881	-	COG0446R	NAD(FAD)-dependent dehydrogenase
+833026..833541	+	171	20094318	-	MK0882	-	COG1824P	ABC transporter permease
+833538..834059	+	173	20094319	-	MK0883	-	COG1824P	ABC transporter permease
+834071..834661	+	196	20094320	-	MK0884	-	COG3273S	hypothetical protein
+834663..834959	+	98	20094321	-	MK0885	-	COG3357K	transcription regulator
+834949..835605	-	218	20094322	-	MK0886	-	-	hypothetical protein
+835602..836366	-	254	20094323	-	MK0887	-	-	hypothetical protein
+836360..837130	-	256	20094324	TruA	MK0888	-	COG0101J	TruD family pseudouridine synthase
+837127..838032	-	301	20094325	-	MK0889	-	COG2144R	selenophosphate synthetase-like protein
+838029..839210	-	393	20094326	-	MK0890	-	COG1784S	hypothetical protein
+839229..839777	+	182	20094327	-	MK0891	-	-	hypothetical protein
+839829..841106	-	425	20094328	-	MK0892	-	COG1208MJ	translation initiation factor eIF2B subunit
+841103..842461	-	452	20094329	CpsG_1	MK0893	-	COG1109G	phosphomannomutase
+842475..843281	+	268	20094330	-	MK0894	-	COG1041L	DNA-modification methylase
+843334..844707	-	457	20094331	-	MK0895	-	COG1032C	Fe-S oxidoreductase
+844704..846110	-	468	20094332	-	MK0896	-	COG0535R	Fe-S oxidoreductase
+846128..847237	-	369	20094333	ThiH_1	MK0897	-	COG1060HR	thiamine biosynthesis protein ThiH-like protein
+847218..848264	-	348	161485663	cofG	MK0898	-	COG1060HR	FO synthase subunit 1
+848389..851631	+	1080	20094335	IleS	MK0899	-	COG0060J	isoleucyl-tRNA synthetase
+851628..854384	+	918	20094336	alaS	MK0900	-	COG0013J	alanyl-tRNA synthetase
+854758..856533	-	591	20094337	NrdD	MK0901	-	COG1328F	oxygen-sensitive ribonucleoside-triphosphate reductase
+856681..858303	-	540	20094338	-	MK0902	-	-	hypothetical protein
+858399..858818	+	139	20094339	-	MK0903	-	COG2221C	ferredoxin
+858815..859825	+	336	20094340	-	MK0904	-	COG0826O	protease
+859827..860189	+	120	20094341	-	MK0905	-	COG4215E	metal-binding protein
+860186..860890	+	234	20094342	-	MK0906	-	COG0826O	protease
+860862..862367	-	501	20094343	-	MK0907	-	COG1900S	CBS domain-containing protein
+862342..863466	-	374	20094344	ThiI_2	MK0908	-	COG0301H	ATP pyrophosphatase
+863512..864411	+	299	20094345	-	MK0909	-	COG2013S	hypothetical protein
+864567..866477	-	636	20094346	-	MK0910	-	-	hypothetical protein
+866594..868288	-	564	20094347	CarB_2	MK0911	-	COG0458EF	carbamoylphosphate synthase large subunit
+868674..869447	+	257	20094348	-	MK0912	-	-	hypothetical protein
+869366..870883	+	505	20094349	-	MK0913	-	-	hypothetical protein
+870784..873003	-	739	20094350	-	MK0914	-	COG5617S	hypothetical protein
+872967..873524	-	185	20094351	-	MK0915	-	-	hypothetical protein
+873521..874090	-	189	20094352	-	MK0916	-	-	hypothetical protein
+874490..875560	-	356	20094353	-	MK0917	-	COG1208MJ	translation initiation factor eIF2B subunit
+875582..876487	-	301	20094354	AgaS	MK0918	-	COG2222M	phosphosugar isomerase
+876477..876932	-	151	20094355	-	MK0919	-	COG2246S	hypothetical protein
+876957..878327	+	456	20094356	CpsG_2	MK0920	-	COG1109G	phosphomannomutase
+878332..879759	+	475	20094357	-	MK0921	-	COG1389L	DNA topoisomerase VI subunit B
+880054..881355	+	433	20094358	-	MK0922	-	-	hypothetical protein
+881345..881530	-	61	20094359	-	MK0923	-	-	hypothetical protein
+882370..883326	+	318	20094360	-	MK0924	-	COG3366S	hypothetical protein
+883220..884197	-	325	20094361	-	MK0925	-	-	hypothetical protein
+884275..885705	+	476	20094362	MurE_1	MK0926	-	COG0769M	UDP-N-acetylmuramyl tripeptide synthase
+885706..886470	+	254	20094363	-	MK0927	-	-	hypothetical protein
+886477..887508	+	343	20094364	PflX	MK0928	-	COG1313R	hypothetical protein
+887505..888422	-	305	20094365	-	MK0929	-	COG1035C	coenzyme F420-reducing hydrogenase subunit beta
+888425..889183	-	252	20094366	-	MK0930	-	COG1941C	coenzyme F420-reducing hydrogenase, gamma subunit
+889351..890601	-	416	20094367	-	MK0931	-	COG3259C	coenzyme F420-reducing hydrogenase, alpha subunit
+890735..892306	+	523	20094368	-	MK0932	-	COG1032C	Fe-S oxidoreductase
+892458..893501	-	347	20094369	-	MK0933	-	COG2220R	metallo-beta-lactamase superfamily hydrolase
+893506..894342	-	278	20094370	KsgA	MK0934	-	COG0030J	dimethyladenosine transferase (rRNA methylase)
+894329..895165	-	278	20094371	-	MK0935	-	COG2131F	RNA-binding protein
+895204..895467	+	87	20094372	-	MK0936	-	COG2524K	CBS-domain-containing protein
+895592..896863	-	423	20094373	-	MK0937	-	-	hypothetical protein
+896885..897463	-	192	20094374	-	MK0938	-	COG0655R	WrbA family multimeric flavodoxin
+897491..898330	+	279	20094375	-	MK0939	-	COG1650S	hypothetical protein
+898801..899631	-	276	20094376	-	MK0940	-	COG2520R	SAM-dependent methyltransferase
+899633..900397	-	254	20094377	-	MK0941	-	COG4002R	phosphate acetyltransferase
+901574..902758	+	394	20094378	ArgG	MK0942	-	COG0137E	argininosuccinate synthase
+902832..903947	-	371	20094379	-	MK0943	-	COG0842V	ABC-type multidrug transport system, permease subunit
+903932..904639	-	235	20094380	-	MK0944	-	COG1131V	ABC-type multidrug transport system, ATPase subunit
+904797..905420	-	207	20094381	-	MK0945	-	-	hypothetical protein
+905879..906190	+	103	20094382	-	MK0946	-	-	hypothetical protein
+906696..908201	+	501	20094383	-	MK0947	-	-	hypothetical protein
+908194..910293	+	699	20094384	-	MK0948	-	-	hypothetical protein
+910269..911270	+	333	20094385	-	MK0949	-	-	hypothetical protein
+911951..912499	-	182	20094386	-	MK0950	-	COG2110R	hypothetical protein
+912898..913887	+	329	20094387	ECM27_2	MK0951	-	COG0530P	Ca2+/Na+ antiporter
+914028..915068	+	346	20094388	-	MK0952	-	COG1180O	pyruvate-formate lyase-activating enzyme
+915262..916077	+	271	20094389	UbiA	MK0953	-	COG0382H	4-hydroxybenzoate polyprenyltransferase
+916066..917193	-	375	20094390	-	MK0954	-	COG1980G	hypothetical protein
+917240..917590	-	116	20094391	nac	MK0955	-	COG1308K	nascent polypeptide-associated complex protein
+917639..918091	-	150	20094392	-	MK0956	-	COG1370O	prefoldin, molecular chaperone implicated in de novo protein folding, alpha subunit
+918107..919444	+	445	20094393	TldD	MK0957	-	COG0312R	Zn-dependent protease
+919444..920673	+	409	20094394	PmbA	MK0958	-	COG0312R	hypothetical protein
+920942..921322	+	126	20094395	-	MK0959	-	-	hypothetical protein
+921362..922747	+	461	20094396	gatB	MK0960	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+922744..923442	-	232	20094397	SpeE	MK0961	-	COG0421E	spermidine synthase
+923454..923702	+	82	20094398	-	MK0962	-	COG4003S	hypothetical protein
+923724..924575	+	283	20094399	-	MK0963	-	COG1355R	dioxygenase
+924582..925004	+	140	20094400	-	MK0964	-	-	hypothetical protein
+925021..926991	+	656	20094401	MCM2_1	MK0965	-	COG1241L	ATPase
+926988..927662	+	224	20094402	-	MK0966	-	COG3390S	hypothetical protein
+927666..928082	+	138	20094403	GCD7	MK0967	-	COG1601J	translation initiation factor IF-2 subunit beta
+928083..928427	+	114	20094404	-	MK0968	-	COG2412S	hypothetical protein
+928424..929482	+	352	20094405	-	MK0969	-	COG0116L	N-6 adenine-specific DNA methylase
+929468..930193	-	241	20094406	-	MK0970	-	COG1011R	HAD superfamily hydrolase
+930168..930926	+	252	20094407	-	MK0971	-	COG1478S	hypothetical protein
+931280..932956	+	558	20094408	-	MK0972	-	-	hypothetical protein
+932946..934205	+	419	20094409	-	MK0973	-	-	hypothetical protein
+934272..935483	+	403	20094410	ThrC	MK0974	-	COG0498E	threonine synthase
+935967..936332	-	121	20094411	-	MK0975	-	COG2105S	hypothetical protein
+936332..938134	+	600	20094412	-	MK0976	-	COG3356S	hypothetical protein
+938193..939227	+	344	20094413	-	MK0977	-	COG1819GC	glycosyl transferase, related to UDP-glucuronosyltransferase
+939220..939801	+	193	20094414	SEC59	MK0978	-	COG0170I	dolichol kinase
+939803..940735	+	310	20094415	-	MK0979	-	-	hypothetical protein
+941177..942388	-	403	20094416	-	MK0980	-	COG0535R	Fe-S oxidoreductase
+942395..943513	-	372	20094417	-	MK0981	-	COG0750M	membrane-associated Zn-dependent protease
+943478..944167	+	229	20094418	-	MK0982	-	COG2413R	DNA polymerase beta family nucleotidyltransferase
+944171..944794	+	207	20094419	-	MK0983	-	COG2517R	RNA-binding protein
+944800..945213	+	137	20094420	-	MK0984	-	COG1846K	transcriptional regulator
+945361..945537	-	58	20094421	-	MK0985	-	-	hypothetical protein
+945634..947301	+	555	20094422	LysS	MK0986	-	COG1384J	lysyl-tRNA synthetase
+947313..948383	+	356	20094423	-	MK0987	-	COG2108R	Fe-S protein related to pyruvate formate-lyase activating enzyme
+948365..948892	+	175	20094424	-	MK0988	-	-	hypothetical protein
+948921..950180	+	419	20094425	-	MK0989	-	COG2100R	Fe-S oxidoreductase
+950200..950649	+	149	20094426	rps19p	MK0990	-	COG0185J	30S ribosomal protein S19
+950650..951324	-	224	20094427	-	MK0991	-	-	hypothetical protein
+951376..952827	+	483	20094428	-	MK0992	-	COG1032C	Fe-S oxidoreductase
+952778..953764	-	328	20094429	ERG12	MK0993	-	COG1577I	mevalonate kinase
+953789..954649	+	286	20094430	-	MK0994	-	COG1667S	hypothetical protein
+954953..956260	+	435	20094431	MurD_1	MK0995	-	COG0771M	UDP-N-acetylmuramoylalanine-D-glutamate ligase
+956267..957001	+	244	20094432	-	MK0996	-	COG1938R	hypothetical protein
+957063..957452	+	129	20094433	-	MK0997	-	COG1935S	hypothetical protein
+957638..958237	+	199	20094434	-	MK0998	-	COG1305E	transglutaminase-like supefamily cysteine protease
+958234..959913	-	559	20094435	CDC9	MK0999	-	COG1793L	ATP-dependent DNA ligase
+960189..961070	+	293	20094436	-	MK1000	-	COG0478T	serine/threonine protein kinase
+961247..962146	+	299	20094437	-	MK1001	-	COG1149C	ferredoxin
+962187..962981	+	264	20094438	MhpD	MK1002	-	COG0179Q	2-keto-4-pentenoate hydratase
+963347..964648	-	433	20094439	-	MK1003	-	COG1571R	DNA-binding protein containing a Zn-ribbon
+964675..964869	+	64	20094440	-	MK1004	-	-	hypothetical protein
+964874..965851	+	325	20094441	-	MK1005	-	COG1395K	transcription regulator
+965913..967550	+	545	20094442	GroL	MK1006	-	COG0459O	HSP60 family chaperonin
+967621..967887	-	88	20094443	-	MK1007	-	COG2034S	hypothetical protein
+967906..968730	+	274	20094444	SecF	MK1008	-	COG0341U	preprotein translocase subunit SecF
+968734..969945	+	403	20094445	secD	MK1009	-	COG0342U	preprotein translocase subunit SecD
+969971..971443	+	490	20094446	TrkG	MK1010	-	COG0168P	potassium transporter
+971489..972157	+	222	20094447	TrkA	MK1011	-	COG0569P	NAD-binding component of a K+ transport system
+972487..974457	+	656	20094448	NtpI	MK1012	-	COG1269C	V-type ATP synthase subunit I
+974472..977537	+	1021	20094449	NtpK	MK1013	-	-	vacuolar-type H+-ATPase subunit K
+977572..978174	+	200	20094450	NtpE	MK1014	-	COG1390C	V-type ATP synthase subunit E
+978178..979302	+	374	20094451	NtpC	MK1015	-	COG1527C	vacuolar-type H+-ATPase subunit C
+979315..979653	+	112	20094452	NtpF	MK1016	-	COG1436C	vacuolar-type H+-ATPase subunit F
+979665..981443	+	592	20094453	NtpA	MK1017	-	COG1155C	V-type ATP synthase subunit A
+981484..982095	+	203	20094454	-	MK1018	-	COG1901S	hypothetical protein
+982627..982932	-	101	20094455	-	MK1019	-	COG0011S	hypothetical protein
+982920..983942	-	340	20094456	-	MK1020	-	-	hypothetical protein
+983976..984734	+	252	20094457	-	MK1021	-	COG1082G	sugar phosphate isomerase/epimerase
+984769..984969	-	66	20094458	-	MK1022	-	COG3269R	hypothetical protein
+985170..985793	-	207	20094459	-	MK1023	-	COG1042C	acyl-CoA synthetase
+985790..986929	-	379	20094460	-	MK1024	-	COG0436E	aspartate aminotransferase
+986956..987471	+	171	20094461	-	MK1025	-	COG0317TK	transcription regulator
+987473..988462	+	329	20094462	-	MK1026	-	COG2419S	hypothetical protein
+988455..989405	+	316	20094463	-	MK1027	-	COG1180O	pyruvate-formate lyase-activating enzyme
+989456..989920	+	154	20094464	-	MK1028	-	COG1051F	ADP-ribose pyrophosphatase
+989917..990534	+	205	20094465	-	MK1029	-	COG4499S	hypothetical protein
+990746..991507	+	253	20094466	DnaN	MK1030	-	COG0592L	DNA polymerase sliding clamp (PCNA)
+991571..992038	-	155	20094467	LepB	MK1031	-	COG0681U	Type I signal peptidase
+992204..993154	+	316	20094468	RadA_1	MK1032	-	COG0468L	RadA recombinase
+993238..994077	-	279	20094469	-	MK1033	-	COG1234R	beta-lactamase superfamily hydrolase
+994067..995521	-	484	20094470	-	MK1034	-	-	hypothetical protein
+995608..998340	+	910	20094471	Lhr	MK1035	-	COG1201R	Lhr-like superfamily II helicase
+998337..999296	-	319	20094472	-	MK1036	-	-	hypothetical protein
+999306..999872	-	188	20094473	CobL_1	MK1037	-	COG2242H	precorrin-6B methylase
+999865..1000527	+	220	20094474	CobF	MK1038	-	COG2243H	precorrin-2 methylase
+1000589..1003081	+	830	20094475	PolB	MK1039	-	COG0417L	B family DNA polymerase
+1003150..1004791	+	546	20094476	-	MK1040	-	COG1031C	Fe-S oxidoreductase
+1004793..1009553	-	1586	20094477	-	MK1041	-	COG1429H	CobN/Mg-chelatase
+1009534..1009770	-	78	20094478	-	MK1042	-	-	hypothetical protein
+1010030..1010881	+	283	20094479	-	MK1043	-	COG1657I	Terpene cyclase/mutase
+1010902..1011384	+	160	20094480	-	MK1044	-	-	hypothetical protein
+1011565..1013082	+	505	20094481	-	MK1045	-	-	hypothetical protein
+1013137..1013823	-	228	20094482	-	MK1046	-	COG4948MR	O-succinylbenzoate-synthase-related enzyme
+1013993..1015405	+	470	20094483	MurD_2	MK1047	-	COG0771M	UDP-N-acetylmuramoylalanine-D-glutamate ligase
+1015395..1016936	+	513	20094484	HyuB	MK1048	-	COG0146EQ	N-methylhydantoinase B
+1016944..1017231	+	95	20094485	-	MK1049	-	COG1694R	pyrophosphatase
+1017228..1018340	+	370	20094486	-	MK1050	-	COG0402FR	metal-dependent hydrolase related to cytosine deaminase
+1018337..1018726	+	129	20094487	-	MK1051	-	COG0415L	nucleotide-binding protein related to universal stress protein, UspA
+1018718..1020367	-	549	20094488	ELP3	MK1052	-	COG1243KB	RNA polymerase II complex ELP3 subunit
+1020723..1021256	+	177	20094489	-	MK1053	-	COG1994R	Zn-dependent protease
+1021422..1022354	-	310	20094490	-	MK1054	-	COG0037D	ATPase
+1022751..1023809	+	352	20094491	-	MK1055	-	COG0123BQ	deacetylase
+1024357..1026507	-	716	20094492	-	MK1056	-	COG1033R	RND superfamily exporter
+1026786..1027487	+	233	20094493	-	MK1057	-	-	Zn-ribbon-containing-protein
+1027491..1028459	+	322	20094494	-	MK1058	-	COG0731C	Fe-S oxidoreductase
+1028450..1028851	-	133	20094495	-	MK1059	-	-	hypothetical protein
+1028915..1029487	+	190	20094496	-	MK1060	-	COG1936F	nucleotide kinase related to CMP and AMP kinase
+1029500..1030444	+	314	20094497	-	MK1061	-	COG0663R	acetyltransferase
+1030519..1031127	+	202	20094498	PDX2	MK1062	-	COG0311H	pyridoxine biosynthesis glutamine amidotransferase
+1031140..1032081	+	313	20094499	GltB_2	MK1063	-	COG0067E	glutamate synthase subunit 1
+1032078..1032770	+	230	20094500	GltB_3	MK1064	-	COG0070E	glutamate synthase subunit 3
+1032777..1033466	+	229	20094501	-	MK1065	-	COG0603R	PP-loop superfamily ATPase
+1033579..1033920	+	113	20094502	-	MK1066	-	-	hypothetical protein
+1033966..1035177	+	403	20094503	-	MK1067	-	COG1092R	SAM-dependent methyltransferase
+1035174..1036619	-	481	20094504	-	MK1068	-	COG5650S	hypothetical protein
+1036609..1037562	-	317	20094505	Ldh	MK1069	-	COG0039C	malate dehydrogenase
+1037571..1038509	-	312	20094506	ArgF	MK1070	-	COG0078E	ornithine carbamoyltransferase
+1038509..1039858	-	449	20094507	PurD	MK1071	-	COG0151F	phosphoribosylamine-glycine ligase
+1039833..1040384	-	183	20094508	PyrE	MK1072	-	COG0461F	orotate phosphoribosyltransferase
+1040378..1040899	-	173	20094509	CdsA	MK1073	-	COG0575I	hypothetical protein
+1040918..1042417	+	499	20094510	-	MK1074	-	COG1964R	Fe-S oxidoreductase
+1042423..1043175	+	250	20094511	SIR2	MK1075	-	COG0846K	Sir2 family NAD-dependent protein deacetylase
+1043739..1044446	-	235	20094512	-	MK1076	-	COG1634R	hypothetical protein
+1044460..1045491	+	343	20094513	argC	MK1077	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+1045573..1046004	-	143	20094514	-	MK1078	-	COG1719R	metabolic regulator
+1046073..1046807	-	244	20094515	-	MK1079	-	COG1237R	beta-lactamase superfamily hydrolase
+1047394..1047978	+	194	20094516	MobB	MK1080	-	COG1763H	molybdopterin-guanine dinucleotide biosynthesis protein
+1048183..1049454	-	423	20094517	MiaB	MK1081	-	COG0621J	2-methylthioadenine synthetase
+1049460..1050929	-	489	20094518	-	MK1082	-	-	hypothetical protein
+1050955..1052430	-	491	20094519	-	MK1083	-	COG0438M	glycosyltransferase
+1052589..1054142	-	517	20094520	-	MK1084	-	COG1549J	queuine tRNA-ribosyltransferase
+1054126..1055544	-	472	20094521	PurB	MK1085	-	COG0015F	adenylosuccinate lyase
+1055634..1056806	-	390	20094522	-	MK1086	-	COG1180O	fused ferredoxin domain/pyruvate-formate lyase-activating protein
+1056850..1057029	-	59	20094523	-	MK1087	-	COG0347E	nitrogen regulatory protein PII-like protein
+1057581..1058501	+	306	20094524	-	MK1088	-	COG3366S	hypothetical protein
+1058600..1058881	+	93	20094525	Ssh10b_2	MK1089	-	COG1581K	DNA/RNA-binding protein albA
+1058918..1059742	+	274	20094526	-	MK1090	-	COG2524K	CBS-domain-containing protein
+1059786..1061828	+	680	20094527	HyuA_1	MK1091	-	COG0145EQ	N-methylhydantoinase A
+1061983..1062237	+	84	20094528	-	MK1092	-	-	hypothetical protein
+1062427..1063875	-	482	20094529	HyuA_2	MK1093	-	COG0145EQ	N-methylhydantoinase A
+1063943..1064371	-	142	20094530	-	MK1094	-	-	hypothetical protein
+1064771..1065691	-	306	20094531	-	MK1095	-	-	hypothetical protein
+1066239..1067360	-	373	20094532	-	MK1096	-	-	hypothetical protein
+1067565..1067867	-	100	20094533	-	MK1097	-	-	hypothetical protein
+1067881..1068231	-	116	20094534	-	MK1098	-	-	hypothetical protein
+1068430..1069563	-	377	20094535	-	MK1099	-	-	hypothetical protein
+1070068..1071114	+	348	20094536	-	MK1100	-	COG2342G	extracellular polysaccharide hydrolase
+1071283..1072530	+	415	20094537	-	MK1101	-	-	hypothetical protein
+1072764..1073159	-	131	20094538	Fur_1	MK1102	-	-	transcription regulator
+1073510..1074421	+	303	20094539	-	MK1103	-	COG0037D	ATPase
+1074418..1075152	-	244	20094540	-	MK1104	-	-	hypothetical protein
+1075156..1076343	-	395	20094541	-	MK1105	-	COG1641S	hypothetical protein
+1076417..1076743	+	108	20094542	-	MK1106	-	COG4075S	nitrogen regulatory protein PII-like protein
+1076740..1077711	-	323	20094543	-	MK1107	-	COG1719R	metabolic regulator
+1077887..1079302	-	471	20094544	-	MK1108	-	COG1012C	NAD-dependent aldehyde dehydrogenase
+1079336..1080184	-	282	20094545	-	MK1109	-	-	hypothetical protein
+1080370..1081089	-	239	20094546	-	MK1110	-	-	hypothetical protein
+1081197..1082513	+	438	20094547	-	MK1111	-	-	hypothetical protein
+1082635..1084164	-	509	20094548	-	MK1112	-	COG1196D	hypothetical protein
+1084374..1084985	-	203	20094549	-	MK1113	-	-	hypothetical protein
+1085323..1086447	-	374	20094550	-	MK1114	-	-	hypothetical protein
+1086530..1088314	-	594	20094551	-	MK1115	-	COG4932M	hypothetical protein
+1088392..1090035	-	547	20094552	-	MK1116	-	-	hypothetical protein
+1090497..1090760	-	87	20094553	-	MK1117	-	-	hypothetical protein
+1090917..1091960	-	347	20094554	-	MK1118	-	-	hypothetical protein
+1091917..1092153	-	78	20094555	-	MK1119	-	-	hypothetical protein
+1092364..1093884	-	506	20094556	MCM2_2	MK1120	-	COG1241L	ATPase
+1095025..1095999	+	324	20094557	-	MK1121	-	-	hypothetical protein
+1096289..1097245	+	318	20094558	HmdIII	MK1122	-	COG4007R	H(2)-dependent methylenetetrahydromethanopterin dehydrogenase-related protein
+1097550..1097834	-	94	20094559	-	MK1123	-	-	hypothetical protein
+1098197..1099186	+	329	20094560	-	MK1124	-	-	hypothetical protein
+1099190..1100172	-	327	20094561	-	MK1125	-	COG2342G	extracellular polysaccharide hydrolase
+1101061..1101891	-	276	20094562	FtsZ_3	MK1126	-	-	GTPase FtsZ
+1102191..1102478	+	95	20094563	-	MK1127	-	-	hypothetical protein
+1102596..1103690	-	364	20094564	-	MK1128	-	COG2814G	major facilitator superfamily permease
+1104523..1105320	+	265	20094565	-	MK1129	-	COG4285S	protease or amidase
+1105400..1105687	+	95	20094566	-	MK1130	-	-	hypothetical protein
+1107532..1108419	-	295	20094567	-	MK1131	-	-	hypothetical protein
+1109620..1110027	+	135	20094568	-	MK1132	-	COG2250S	hypothetical protein
+1110240..1110470	-	76	20094569	-	MK1133	-	COG5617S	hypothetical protein
+1113424..1114281	+	285	20094570	-	MK1134	-	-	hypothetical protein
+1114332..1115444	+	370	20094571	-	MK1135	-	COG3104E	major facilitator superfamily permease
+1115624..1116253	+	209	20094572	-	MK1136	-	-	hypothetical protein
+1116295..1116663	-	122	20094573	-	MK1137	-	COG1708R	DNA polymerase beta family nucleotidyltransferase
+1116684..1116905	+	73	20094574	-	MK1138	-	COG2250S	hypothetical protein
+1116898..1117071	+	57	20094575	-	MK1139	-	-	hypothetical protein
+1117134..1117373	-	79	20094576	-	MK1140	-	-	hypothetical protein
+1117370..1117810	-	146	20094577	-	MK1141	-	-	hypothetical protein
+1117919..1118431	-	170	20094578	-	MK1142	-	-	hypothetical protein
+1119001..1119915	-	304	20094579	-	MK1143	-	-	hypothetical protein
+1120281..1121489	-	402	20094580	-	MK1144	-	-	hypothetical protein
+1122067..1122807	+	246	20094581	-	MK1145	-	-	hypothetical protein
+1122763..1123665	-	300	20094582	-	MK1146	-	-	hypothetical protein
+1125171..1125659	-	162	20094583	-	MK1147	-	-	hypothetical protein
+1125923..1130821	+	1632	20094584	-	MK1148	-	-	hypothetical protein
+1130814..1136363	+	1849	20094585	-	MK1149	-	-	hypothetical protein
+1136364..1137101	+	245	20094586	-	MK1150	-	-	hypothetical protein
+1137105..1137752	+	215	20094587	-	MK1151	-	-	hypothetical protein
+1138095..1138991	+	298	20094588	-	MK1152	-	-	hypothetical protein
+1139217..1139651	+	144	20094589	-	MK1153	-	-	hypothetical protein
+1139945..1141204	+	419	20094590	-	MK1154	-	COG4956R	hypothetical protein
+1141640..1142470	+	276	20094591	-	MK1155	-	-	hypothetical protein
+1142499..1142942	+	147	20094592	-	MK1156	-	-	hypothetical protein
+1143512..1144135	-	207	20094593	-	MK1157	-	-	hypothetical protein
+1144383..1145600	-	405	20094594	-	MK1158	-	-	hypothetical protein
+1145844..1146677	+	277	20094595	-	MK1159	-	-	hypothetical protein
+1146822..1147688	+	288	20094596	-	MK1160	-	COG1299G	hypothetical protein
+1148015..1148680	+	221	20094597	-	MK1161	-	-	hypothetical protein
+1148705..1149403	+	232	20094598	-	MK1162	-	-	hypothetical protein
+1149695..1150318	-	207	20094599	-	MK1163	-	-	hypothetical protein
+1151111..1151647	-	178	20094600	-	MK1164	-	COG1525L	nuclease
+1151966..1152913	-	315	20094601	-	MK1165	-	-	hypothetical protein
+1152967..1154208	-	413	20094602	-	MK1166	-	COG3287S	hypothetical protein
+1155432..1156157	+	241	20094603	-	MK1167	-	-	hypothetical protein
+1156220..1157155	+	311	20094604	-	MK1168	-	-	hypothetical protein
+1158073..1158933	-	286	20094605	-	MK1169	-	-	hypothetical protein
+1160085..1161410	-	441	20094606	-	MK1170	-	-	hypothetical protein
+1161703..1162374	-	223	20094607	-	MK1171	-	COG1988R	membrane-bound metal-dependent hydrolase
+1162560..1163432	+	290	20094608	-	MK1172	-	-	hypothetical protein
+1163540..1164262	+	240	20094609	-	MK1173	-	-	hypothetical protein
+1165552..1166187	+	211	20094610	-	MK1174	-	-	hypothetical protein
+1167028..1167396	-	122	20094611	-	MK1175	-	-	hypothetical protein
+1167393..1167758	-	121	20094612	-	MK1176	-	-	hypothetical protein
+1168689..1171121	+	810	20094613	-	MK1177	-	COG5643R	metal-binding domain-containing protein
+1171194..1174100	+	968	20094614	-	MK1178	-	-	hypothetical protein
+1174103..1174543	-	146	20094615	-	MK1179	-	-	hypothetical protein
+1174740..1175693	-	317	20094616	-	MK1180	-	-	hypothetical protein
+1176046..1176945	+	299	20094617	-	MK1181	-	-	hypothetical protein
+1177071..1177787	-	238	20094618	-	MK1182	-	-	hypothetical protein
+1178571..1179359	-	262	20094619	-	MK1183	-	COG0348C	polyferredoxin
+1179463..1179858	-	131	20094620	-	MK1184	-	-	hypothetical protein
+1179906..1180262	-	118	20094621	-	MK1185	-	COG3889R	hypothetical protein
+1181791..1182024	+	77	20094622	-	MK1186	-	-	hypothetical protein
+1182514..1183490	+	325	20094623	-	MK1187	-	COG2342G	extracellular polysaccharide hydrolase
+1183487..1183930	+	147	20094624	-	MK1188	-	-	hypothetical protein
+1184101..1185807	-	568	20094625	-	MK1189	-	COG1123R	ABC transporter ATPase
+1185746..1186216	-	156	20094626	-	MK1190	-	-	hypothetical protein
+1186199..1186804	+	201	20094627	-	MK1191	-	COG0671I	membrane-associated phospholipid phosphatase
+1186783..1187529	+	248	20094628	-	MK1192	-	COG0327S	hypothetical protein
+1187747..1189015	+	422	20094629	-	MK1193	-	COG3635G	cofactor-independent phosphoglycerate mutase
+1189020..1189562	+	180	20094630	-	MK1194	-	COG1238S	hypothetical protein
+1189569..1190054	+	161	20094631	PurE	MK1195	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1190035..1190634	-	199	20094632	CobH	MK1196	-	COG2082H	precorrin isomerase
+1190631..1192280	-	549	20094633	IlvD	MK1197	-	COG0129EG	dihydroxyacid dehydratase
+1192330..1192938	+	202	20094634	-	MK1198	-	COG2095U	multiple antibiotic resistance protein MarC
+1192943..1194109	+	388	20094635	-	MK1199	-	COG1163R	GTPase
+1194106..1194801	+	231	20094636	-	MK1200	-	COG2068R	hypothetical protein
+1194798..1194998	-	66	20094637	TatA	MK1201	-	COG1826U	Sec-independent protein secretion pathway component
+1195047..1195664	-	205	20094638	HyaB	MK1202	-	COG0374C	Ni,Fe-hydrogenase I large subunit
+1195681..1196247	-	188	20094639	-	MK1203	-	COG0374C	hypothetical protein
+1196692..1196952	-	86	20094640	-	MK1204	-	-	hypothetical protein
+1196967..1197401	-	144	20094641	-	MK1205	-	COG1255S	hypothetical protein
+1197474..1197980	-	168	20094642	LeuD_2	MK1206	-	COG0066E	3-isopropylmalate dehydratase small subunit
+1197964..1198437	-	157	20094643	-	MK1207	-	COG3431S	hypothetical protein
+1198443..1199651	-	402	20094644	LeuC_2	MK1208	-	COG0065E	3-isopropylmalate dehydratase large subunit
+1200171..1201364	-	397	20094645	aksA	MK1209	-	COG0119E	trans-homoaconitate synthase
+1201369..1201722	-	117	20094646	-	MK1210	-	COG1993S	hypothetical protein
+1201704..1202099	-	131	20094647	CrcB	MK1211	-	COG0239D	hypothetical protein
+1202106..1202915	-	269	20094648	-	MK1212	-	COG1968V	hypothetical protein
+1203140..1203412	+	90	20094649	-	MK1213	-	COG3830T	hypothetical protein
+1203418..1204770	+	450	20094650	-	MK1214	-	COG2848S	hypothetical protein
+1204838..1205845	+	335	20094651	LeuB_2	MK1215	-	COG0473CE	isopropylmalate dehydrogenase
+1206266..1206589	+	107	20094652	POP4_2	MK1216	-	COG1588J	RNAse P subunit P29
+1206604..1206942	+	112	161485662	rps17p	MK1217	-	COG0186J	30S ribosomal protein S17
+1206955..1207356	+	133	20094654	rpl14p	MK1218	-	COG0093J	50S ribosomal protein L14
+1207371..1207820	+	149	20094655	rpl24p	MK1219	-	COG0198J	50S ribosomal protein L24
+1207835..1208617	+	260	20094656	RPS4A	MK1220	-	COG1471J	30S ribosomal protein S4
+1208630..1209190	+	186	20094657	rpl5p	MK1221	-	COG0094J	50S ribosomal protein L5
+1209205..1209351	+	48	20094658	rps14P	MK1222	-	COG0199J	30S ribosomal protein S14
+1209368..1209760	+	130	20094659	rps8p	MK1223	-	COG0096J	30S ribosomal protein S8
+1209774..1210388	+	204	20094660	RplF	MK1224	-	COG0097J	50S ribosomal protein L6
+1210401..1210796	+	131	20094661	rpl32e	MK1225	-	COG1717J	50S ribosomal protein L32
+1210813..1211850	-	345	20094662	PurM	MK1226	-	COG0150F	phosphoribosylaminoimidazole synthetase
+1211864..1213822	-	652	20094663	-	MK1227	-	COG0054H	metal-dependent RNase
+1213888..1214520	-	210	20094664	HslV_2	MK1228	-	COG0638O	protease subunit of the proteasome
+1214563..1216020	-	485	20094665	ProS	MK1229	-	COG0442J	prolyl-tRNA synthetase
+1215994..1217055	+	353	20094666	GldA	MK1230	-	COG0371C	glycerol dehydrogenase
+1217045..1217704	-	219	20094667	SlpA	MK1231	-	COG1047O	FKBP-type peptidylprolyl isomerase
+1217710..1218660	-	316	20094668	SufB	MK1232	-	COG0719O	ABC transporter membrane protein
+1218618..1219331	-	237	20094669	SufC	MK1233	-	COG0396O	iron ABC transporter ATPase
+1219555..1220589	+	344	20094670	-	MK1234	-	COG0037D	hypothetical protein
+1220565..1221341	-	258	20094671	-	MK1235	-	COG4998L	RecB family endonuclease
+1221500..1222936	-	478	20094672	-	MK1236	-	COG0028EH	acetolactate synthase large subunit-like protein
+1222933..1223619	-	228	20094673	-	MK1237	-	COG1458R	hypothetical protein
+1223616..1224314	-	232	20094674	-	MK1238	-	-	hypothetical protein
+1224388..1225167	-	259	20094675	-	MK1239	-	COG1149C	MinD family protein
+1225182..1225970	-	262	20094676	-	MK1240	-	COG1149C	MinD family protein
+1225978..1226307	-	109	20094677	-	MK1241	-	COG1433S	hypothetical protein
+1226308..1226547	-	79	20094678	-	MK1242	-	COG1592C	Zn-ribbon-containing protein
+1226554..1226736	-	60	20094679	-	MK1243	-	COG2221C	ferredoxin
+1226760..1227170	-	136	20094680	-	MK1244	-	COG3678UNTP	hypothetical protein
+1227252..1227620	+	122	20094681	-	MK1245	-	COG2524K	CBS domain-containing protein
+1227625..1228965	+	446	20094682	-	MK1246	-	COG1042C	acyl-CoA synthetase
+1228998..1229237	+	79	20094683	FeoA	MK1247	-	COG1918P	ferrous ion uptake system subunit
+1229242..1231194	+	650	20094684	FeoB	MK1248	-	COG0370P	ferrous ion uptake system subunit, GTPase
+1231755..1232132	-	125	20094685	-	MK1249	-	COG1592C	rubrerythrin
+1232451..1232984	-	177	20094686	-	MK1250	-	-	hypothetical protein
+1234371..1235411	-	346	20094687	-	MK1251	-	-	hypothetical protein
+1236233..1236910	-	225	20094688	-	MK1252	-	-	hypothetical protein
+1237175..1240579	+	1134	20094689	-	MK1253	-	-	hypothetical protein
+1241043..1241195	+	50	20094690	-	MK1254	-	-	hypothetical protein
+1241416..1241982	+	188	20094691	-	MK1255	-	-	RNA-binding protein
+1241966..1242934	-	322	20094692	-	MK1256	-	-	hypothetical protein
+1243554..1244471	-	305	20094693	-	MK1257	-	-	hypothetical protein
+1244552..1245679	+	375	20094694	-	MK1258	-	COG0595R	fused hydrolase/uncharacterized domain-containing protein
+1245681..1248527	-	948	20094695	-	MK1259	-	COG1743L	DNA methylase containing a Zn-ribbon module
+1248593..1250761	+	722	20094696	-	MK1260	-	COG1483R	ATPase AAA+
+1253762..1254154	+	130	20094697	Fur_2	MK1261	-	COG0735P	Fe2+/Zn2+ uptake regulator
+1254244..1255155	+	303	20094698	-	MK1262	-	COG1192D	chromosome partitioning ATPase
+1255170..1255841	+	223	20094699	-	MK1263	-	-	hypothetical protein
+1255904..1257532	+	542	20094700	-	MK1264	-	-	hypothetical protein
+1257546..1258277	+	243	20094701	-	MK1265	-	-	hypothetical protein
+1258311..1259615	+	434	20094702	-	MK1266	-	-	hypothetical protein
+1259840..1261165	+	441	20094703	-	MK1267	-	-	hypothetical protein
+1261784..1263256	-	490	20094704	-	MK1268	-	-	hypothetical protein
+1264021..1264473	+	150	20094705	-	MK1269	-	-	hypothetical protein
+1264935..1265888	-	317	20094706	-	MK1270	-	-	hypothetical protein
+1266112..1267695	-	527	20094707	-	MK1271	-	COG3144N	hypothetical protein
+1267711..1269366	-	551	20094708	-	MK1272	-	-	hypothetical protein
+1269348..1270529	-	393	20094709	-	MK1273	-	-	hypothetical protein
+1270586..1271590	-	334	20094710	-	MK1274	-	COG0595R	metallo-beta-lactamase superfamily hydrolase
+1271731..1272240	-	169	20094711	-	MK1275	-	COG1795S	hypothetical protein
+1272292..1273644	-	450	20094712	-	MK1276	-	-	hypothetical protein
+1274035..1274772	+	245	20094713	-	MK1277	-	-	hypothetical protein
+1275808..1277502	-	564	20094714	-	MK1278	-	-	hypothetical protein
+1277672..1278295	+	207	20094715	-	MK1279	-	-	hypothetical protein
+1278820..1279008	+	62	20094716	-	MK1280	-	-	hypothetical protein
+1279599..1280219	-	206	20094717	-	MK1281	-	-	hypothetical protein
+1280956..1281933	-	325	20094718	-	MK1282	-	-	hypothetical protein
+1282214..1283809	-	531	20094719	-	MK1283	-	-	hypothetical protein
+1283981..1284406	-	141	20094720	-	MK1284	-	COG2250S	hypothetical protein
+1284412..1284786	+	124	20094721	-	MK1285	-	COG1708R	DNA polymerase beta family nucleotidyltransferase
+1285068..1286045	+	325	20094722	-	MK1286	-	-	hypothetical protein
+1286185..1286763	-	192	20094723	-	MK1287	-	-	hypothetical protein
+1287009..1287983	-	324	20094724	-	MK1288	-	-	hypothetical protein
+1288128..1290386	+	752	20094725	-	MK1289	-	COG1743L	adenine-specific DNA methylase
+1290370..1291122	+	250	20094726	-	MK1290	-	-	hypothetical protein
+1291279..1291923	-	214	20094727	-	MK1291	-	-	hypothetical protein
+1292092..1292835	-	247	20094728	-	MK1292	-	COG2250S	fused nucleotidyltransferase/uncharacterized domain-containing protein
+1292953..1294143	+	396	20094729	-	MK1293	-	COG4006S	hypothetical protein
+1294371..1295660	+	429	20094730	-	MK1294	-	-	hypothetical protein
+1295771..1296877	-	368	20094731	-	MK1295	-	-	hypothetical protein
+1298182..1300266	-	694	20094732	-	MK1296	-	COG1604L	hypothetical protein
+1301091..1303472	+	793	20094733	-	MK1297	-	COG1353R	DNA-dependent DNA polymerase
+1303469..1304803	+	444	20094734	-	MK1298	-	-	hypothetical protein
+1304800..1305828	+	342	20094735	-	MK1299	-	COG1336L	hypothetical protein
+1308020..1308490	-	156	20094736	-	MK1300	-	-	hypothetical protein
+1308525..1310213	-	562	20094737	-	MK1301	-	COG1657I	Terpene cyclase/mutase
+1311974..1312216	+	80	20094738	-	MK1302	-	-	hypothetical protein
+1312185..1313237	-	350	20094739	-	MK1303	-	-	hypothetical protein
+1313373..1314599	-	408	20094740	-	MK1304	-	-	hypothetical protein
+1314596..1316125	-	509	20094741	-	MK1305	-	-	hypothetical protein
+1316132..1317607	-	491	20094742	-	MK1306	-	COG0438M	glycosyltransferase
+1319237..1319530	-	97	20094743	-	MK1307	-	COG1708R	DNA polymerase beta family nucleotidyltransferase
+1319573..1321492	-	639	20094744	-	MK1308	-	-	P-loop ATPase
+1322642..1323265	+	207	20094745	-	MK1309	-	-	hypothetical protein
+1324335..1324640	-	101	20094746	-	MK1310	-	COG1343L	hypothetical protein
+1324652..1326787	-	711	20094747	-	MK1311	-	COG1431J	the argonaute protein, implicated in translation or RNA processing
+1326771..1327766	-	331	20094748	-	MK1312	-	COG1518L	hypothetical protein
+1329452..1330918	-	488	20094749	-	MK1313	-	-	hypothetical protein
+1331274..1334015	+	913	20094750	-	MK1314	-	COG1353R	DNA-dependent DNA polymerase
+1334017..1334541	+	174	20094751	-	MK1315	-	COG1421L	hypothetical protein
+1334554..1335609	+	351	20094752	-	MK1316	-	COG1337L	hypothetical protein
+1335611..1336702	+	363	20094753	-	MK1317	-	COG1567L	hypothetical protein
+1336699..1338027	+	442	20094754	-	MK1318	-	-	hypothetical protein
+1338024..1339115	+	363	20094755	-	MK1319	-	COG1332L	hypothetical protein
+1339214..1339987	+	257	20094756	-	MK1320	-	COG0726G	xylanase/chitin deacetylase
+1340038..1340202	+	54	20094757	-	MK1321	-	-	hypothetical protein
+1340374..1340895	+	173	20094758	-	MK1322	-	COG0842V	hypothetical protein
+1340890..1341540	-	216	20094759	-	MK1323	-	COG1237R	beta-lactamase superfamily hydrolase
+1342074..1342703	+	209	20094760	-	MK1324	-	-	hypothetical protein
+1342985..1343332	+	115	20094761	-	MK1325	-	COG2018R	Ras-like GTPase activity regulator
+1344045..1344728	+	227	20094762	-	MK1326	-	-	hypothetical protein
+1344701..1345228	+	175	20094763	-	MK1327	-	-	hypothetical protein
+1345308..1345556	-	82	20094764	-	MK1328	-	-	hypothetical protein
+1345608..1346639	-	343	20094765	-	MK1329	-	-	hypothetical protein
+1346857..1349094	-	745	20094766	-	MK1330	-	-	hypothetical protein
+1349240..1350568	-	442	20094767	-	MK1331	-	-	hypothetical protein
+1351003..1351692	+	229	20094768	-	MK1332	-	-	hypothetical protein
+1351717..1352718	+	333	20094769	-	MK1333	-	-	hypothetical protein
+1352753..1353799	-	348	20094770	-	MK1334	-	COG1988R	membrane-bound metal-dependent hydrolase
+1353804..1354355	-	183	20094771	-	MK1335	-	-	Zn-dependent hydrolase
+1354689..1355963	-	424	20094772	-	MK1336	-	-	hypothetical protein
+1356271..1356459	-	62	20094773	-	MK1337	-	-	hypothetical protein
+1356793..1357287	-	164	20094774	-	MK1338	-	-	hypothetical protein
+1357826..1360414	-	862	20094775	-	MK1339	-	-	hypothetical protein
+1360653..1361492	+	279	20094776	-	MK1340	-	-	hypothetical protein
+1361489..1361719	+	76	20094777	-	MK1341	-	-	hypothetical protein
+1361829..1362332	+	167	20094778	-	MK1342	-	-	hypothetical protein
+1364466..1365077	+	203	20094779	-	MK1343	-	-	hypothetical protein
+1365140..1366013	+	290	20094780	-	MK1344	-	-	hypothetical protein
+1366319..1367176	-	285	20094781	-	MK1345	-	COG0535R	Fe-S oxidoreductase
+1367297..1368256	-	319	20094782	-	MK1346	-	-	hypothetical protein
+1368270..1368527	-	85	20094783	-	MK1347	-	-	hypothetical protein
+1369122..1369865	-	247	20094784	-	MK1348	-	-	hypothetical protein
+1369858..1370589	-	243	20094785	-	MK1349	-	-	hypothetical protein
+1370729..1371478	-	249	20094786	-	MK1350	-	COG1305E	transglutaminase-like supefamily cysteine protease
+1371767..1375339	-	1190	20094787	-	MK1351	-	COG1429H	CobN/Mg-chelatase
+1375488..1376102	+	204	20094788	-	MK1352	-	COG4930O	hypothetical protein
+1376114..1376947	+	277	20094789	-	MK1353	-	-	hypothetical protein
+1376796..1377713	+	305	20094790	-	MK1354	-	COG4907S	hypothetical protein
+1378052..1378888	+	278	20094791	-	MK1355	-	-	hypothetical protein
+1379071..1380000	+	309	20094792	-	MK1356	-	-	hypothetical protein
+1380143..1380862	+	239	20094793	-	MK1357	-	-	hypothetical protein
+1381069..1381686	+	205	20094794	-	MK1358	-	COG1280E	component of a threonine efflux system
+1381905..1382150	-	81	20094795	-	MK1359	-	-	hypothetical protein
+1382453..1383180	+	242	20094796	-	MK1360	-	COG1615S	hypothetical protein
+1384064..1385821	+	585	20094797	-	MK1361	-	COG1409R	hypothetical protein
+1385837..1386457	-	206	20094798	Nth_2	MK1362	-	COG0177L	A/G-specific adenine glycosylase
+1387524..1389643	+	706	20094799	-	MK1363	-	COG5617S	hypothetical protein
+1389932..1392763	+	943	20094800	leuS	MK1364	-	COG0495J	leucyl-tRNA synthetase
+1392767..1393741	-	324	20094801	HmdII	MK1365	-	COG4007R	H(2)-dependent methylenetetrahydromethanopterin dehydrogenase-related protein
+1393825..1395282	-	485	20094802	CCA1	MK1366	-	COG1746J	tRNA CCA-pyrophosphorylase
+1395443..1396009	-	188	20094803	LigT	MK1367	-	COG1514J	2'-5' RNA ligase
+1396144..1397154	+	336	20094804	-	MK1368	-	COG1223R	ATPase AAA+
+1397219..1398223	-	334	20094805	SelD	MK1369	-	COG0709E	selenophosphate synthetase
+1398408..1399037	-	209	20094806	thyA	MK1370	-	COG0207F	thymidylate synthase
+1399129..1400016	-	295	20094807	SNZ1	MK1371	-	COG0214H	pyridoxal biosynthesis lyase PdxS
+1400084..1400647	+	187	20094808	-	MK1372	-	COG2229R	small, Ras-like GTPase
+1400669..1401601	+	310	20094809	-	MK1373	-	-	hypothetical protein
+1401670..1402089	+	139	20094810	-	MK1374	-	-	hypothetical protein
+1402137..1402895	+	252	20094811	CobM	MK1375	-	COG2875H	precorrin-4 methylase
+1403490..1404254	+	254	20094812	CobJ	MK1376	-	COG1010H	precorrin-3B methylase
+1404218..1404622	-	134	20094813	-	MK1377	-	COG1545R	nucleic-acid-binding protein containing a Zn-ribbon
+1404635..1405819	-	394	20094814	-	MK1378	-	COG0183I	acetyl-CoA acetyltransferase
+1405824..1406876	-	350	20094815	PksG	MK1379	-	COG3425I	hypothetical protein
+1406873..1407622	-	249	20094816	-	MK1380	-	COG1709K	transcription regulator
+1407623..1409290	+	555	20094817	-	MK1381	-	COG0463M	cell wall biosynthesis glycosyltransferase
+1409287..1410831	+	514	20094818	-	MK1382	-	COG1032C	Fe-S oxidoreductase
+1410810..1411397	-	195	20094819	-	MK1383	-	COG1814S	hypothetical protein
+1411404..1411694	-	96	20094820	-	MK1384	-	COG1888S	hypothetical protein
+1411726..1412775	+	349	20094821	NifD	MK1385	-	COG2710C	nitrogenase molybdenum-iron subunit
+1412760..1413503	-	247	20094822	CitT	MK1386	-	COG0471P	di- and tricarboxylate transporter
+1413918..1414901	+	327	20094823	-	MK1387	-	COG0392S	hypothetical protein
+1414907..1415602	+	231	20094824	-	MK1388	-	COG1407R	calcineurin superfamily phosphoesterase
+1415734..1416798	+	354	20094825	Asd	MK1389	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1416789..1417262	-	157	20094826	-	MK1390	-	COG1611R	Rossmann fold nucleotide-binding protein
+1417522..1418286	+	254	20094827	TrpC	MK1391	-	COG0134E	indole-3-glycerol phosphate synthase
+1418283..1419104	+	273	20094828	-	MK1392	-	-	hypothetical protein
+1419288..1419860	-	190	20094829	-	MK1393	-	COG4073S	hypothetical protein
+1419851..1421071	+	406	20094830	PRI2	MK1394	-	COG2219L	DNA primase large subunit
+1421041..1421427	-	128	20094831	-	MK1395	-	COG0092J	Zn-ribbon-containing protein
+1421429..1422007	-	192	20094832	-	MK1396	-	-	hypothetical protein
+1422004..1422678	-	224	20094833	ribB	MK1397	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+1422654..1423097	-	147	20094834	-	MK1398	-	COG1339KH	riboflavin/FAD biosynthetic operon transcriptional regulator
+1423066..1423941	-	291	20094835	RIO1_2	MK1399	-	COG1718TD	serine/threonine protein kinase
+1424001..1425185	-	394	20094836	PncB	MK1400	-	COG1488H	nicotinate phosphoribosyltransferase
+1425410..1425775	+	121	20094837	-	MK1401	-	-	metal-binding protein
+1426225..1426971	-	248	20094838	-	MK1402	-	-	hypothetical protein
+1426968..1428236	-	422	20094839	-	MK1403	-	COG1061KL	P-loop ATPase
+1428233..1429309	-	358	20094840	-	MK1404	-	COG0050J	translation elongation factor, GTPase
+1429356..1435184	-	1942	20094841	-	MK1405	-	COG1429H	CobN/Mg-chelatase
+1435198..1436574	-	458	20094842	-	MK1406	-	-	Terpene cyclase/mutase
+1436627..1437628	-	333	20094843	-	MK1407	-	COG0701R	permease
+1437721..1438929	-	402	20094844	-	MK1408	-	COG1465E	3-dehydroquinate synthase
+1438936..1439748	-	270	20094845	FbaB	MK1409	-	COG1830G	fructose-bisphosphate aldolase
+1439755..1440072	-	105	20094846	-	MK1410	-	COG3388S	hypothetical protein
+1440119..1441096	-	325	20094847	-	MK1411	-	COG2423E	ornithine cyclodeaminase, mu-crystallin-like protein
+1441454..1442305	+	283	20094848	Kch_2	MK1412	-	COG1827R	NAD-binding subunit of the Kef-type K+ transport systems_
+1442302..1442811	-	169	20094849	-	MK1413	-	-	hypothetical protein
+1442838..1444322	+	494	20094850	CobQ	MK1414	-	COG1492H	cobyric acid synthase
+1444325..1444906	+	193	20094851	-	MK1415	-	COG2519J	SAM-dependent methyltransferase involved in tRNA-Met maturation
+1444991..1445791	-	266	20094852	NifH	MK1416	-	COG1348P	nitrogenase subunit NifH (ATPase)
+1445815..1446627	+	270	20094853	-	MK1417	-	COG4086S	hypothetical protein
+1446749..1447603	+	284	20094854	NadE	MK1418	-	COG0171H	NAD synthetase
+1447622..1447993	+	123	20094855	-	MK1419	-	-	hypothetical protein
+1447990..1448730	+	246	20094856	-	MK1420	-	-	hypothetical protein
+1448743..1449780	+	345	20094857	-	MK1421	-	-	hypothetical protein
+1449777..1450604	+	275	20094858	DapB	MK1422	-	COG0289E	dihydrodipicolinate reductase
+1450639..1451508	+	289	20094859	-	MK1423	-	COG4260S	hypothetical protein
+1452087..1454831	-	914	20094860	ValS	MK1424	-	COG0525J	valyl-tRNA synthetase
+1454880..1455605	+	241	20094861	-	MK1425	-	COG4089S	metal-binding protein
+1455566..1456741	+	391	20094862	HisC	MK1426	-	COG0079E	histidinol-phosphate aminotransferase
+1456817..1457656	-	279	20094863	-	MK1427	-	COG0535R	Fe-S oxidoreductase
+1457683..1458321	+	212	20094864	CobL_2	MK1428	-	COG2241H	precorrin-6B methylase
+1458332..1459861	+	509	20094865	-	MK1429	-	COG1032C	Fe-S oxidoreductase
+1459862..1460179	+	105	20094866	ModE	MK1430	-	COG2005R	molybdenum-binding protein
+1460163..1460975	-	270	20094867	-	MK1431	-	COG1409R	calcineurin superfamily phosphohydrolase
+1460972..1461496	-	174	20094868	-	MK1432	-	COG4008K	transcription factor
+1461502..1463100	-	532	20094869	-	MK1433	-	COG1123R	ABC transporter ATPase
+1463176..1463880	+	234	20094870	KptA	MK1434	-	COG1859J	RNA:NAD 2'-phosphotransferase
+1463867..1464556	+	229	20094871	Nfi	MK1435	-	COG1515L	deoxyinosine 3'endonuclease (endonuclease V)
+1464534..1467488	+	984	20094872	-	MK1436	-	COG1948L	topoisomerase V
+1467491..1468675	-	394	20094873	CsdB	MK1437	-	COG0520E	selenocysteine lyase
+1468781..1469572	-	263	20094874	-	MK1438	-	COG2263J	RNA methylase
+1469870..1472335	+	821	20094875	-	MK1439	-	COG5617S	hypothetical protein
+1472310..1473566	-	418	20094876	LeuC_1	MK1440	-	COG0065E	3-isopropylmalate dehydratase large subunit
+1473643..1474941	+	432	20094877	-	MK1441	-	COG1599L	replication factor A (ssDNA-binding protein)
+1474919..1475872	+	317	20094878	radA	MK1442	-	COG0468L	DNA repair and recombination protein RadA
+1475944..1477071	+	375	20094879	-	MK1443	-	COG0644C	dehydrogenase (flavoprotein)
+1477068..1477274	-	68	20094880	RPL24A	MK1444	-	COG2075J	50S ribosomal protein L24
+1477287..1477511	-	74	20094881	rps28e	MK1445	-	COG2053J	30S ribosomal protein S28
+1477629..1478021	+	130	20094882	RPS6A	MK1446	-	COG2125J	30S ribosomal protein S6
+1478058..1479296	+	412	20094883	-	MK1447	-	COG5257J	translation initiation factor IF-2 subunit gamma
+1479303..1479695	+	130	20094884	-	MK1448	-	COG1412R	RNA-binding protein
+1479700..1480290	+	196	20094885	MenG	MK1449	-	COG0684H	demethylmenaquinone methyltransferase
+1480295..1480825	+	176	20094886	Ppa	MK1450	-	COG0221C	inorganic pyrophosphatase
+1480832..1481383	+	183	20094887	RpoE1	MK1451	-	COG1095K	DNA-directed RNA polymerase subunit E'
+1481625..1481819	+	64	20094888	RpoE2	MK1452	-	COG2093K	DNA-directed RNA polymerase subunit E''
+1481816..1482391	+	191	20094889	-	MK1453	-	COG1909S	hypothetical protein
+1482334..1482684	+	116	20094890	RPS24A	MK1454	-	COG2004J	ribosomal protein S24E
+1482701..1482883	+	60	20094891	RPS31	MK1455	-	COG1998J	ribosomal protein S27AE
+1482944..1483564	+	206	20094892	-	MK1456	-	COG3642T	Mn2+-dependent serine/threonine protein kinase
+1483561..1484421	-	286	20094893	-	MK1457	-	-	hypothetical protein
+1484461..1485501	+	346	20094894	QRI7	MK1458	-	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+1485851..1486678	+	275	20094895	-	MK1459	-	-	hypothetical protein
+1486724..1488307	+	527	20094896	SerS	MK1460	-	COG0172J	seryl-tRNA synthetase
+1488365..1489000	+	211	20094897	RPS1A	MK1461	-	COG1890J	30S ribosomal protein S3
+1489038..1490084	+	348	20094898	-	MK1462	-	COG1818R	RNA-binding protein
+1490418..1491233	+	271	20094899	-	MK1463	-	COG0434R	hypothetical protein
+1491224..1491904	+	226	20094900	-	MK1464	-	COG2413R	DNA polymerase beta family nucleotidyltransferase
+1491877..1492431	-	184	20094901	UbiX	MK1465	-	COG0163H	3-polyprenyl-4-hydroxybenzoate decarboxylase
+1492501..1493112	-	203	20094902	-	MK1466	-	-	hypothetical protein
+1493235..1493510	+	91	20094903	-	MK1467	-	COG4009S	hypothetical protein
+1493507..1494061	+	184	20094904	-	MK1468	-	COG4010S	hypothetical protein
+1494113..1494733	+	206	20094905	-	MK1469	-	COG2129R	phosphoesterase
+1494730..1495332	+	200	20094906	-	MK1470	-	COG1418R	HD superfamily hydrolase
+1495427..1495882	+	151	20094907	rps13p	MK1471	-	COG0099J	30S ribosomal protein S13
+1495896..1496456	+	186	20094908	rps4p	MK1472	-	COG0522J	30S ribosomal protein S4
+1496474..1496887	+	137	20094909	rps11p	MK1473	-	COG0100J	30S ribosomal protein S11
+1496884..1497711	+	275	20094910	RpoA	MK1474	-	COG0202K	DNA-directed RNA polymerase alpha subunit
+1497708..1498091	+	127	20094911	RPL18A	MK1475	-	COG1727J	50S ribosomal protein L18
+1498106..1498585	+	159	20094912	RplM	MK1476	-	COG0102J	50S ribosomal protein L13
+1498586..1498990	+	134	20094913	rps9p	MK1477	-	COG0103J	30S ribosomal protein S9
+1499006..1499224	+	72	20094914	RPB10	MK1478	-	COG1644K	DNA-directed RNA polymerase subunit N
+1499506..1500867	+	453	20094915	-	MK1479	-	-	hypothetical protein
+1501160..1502089	+	309	20094916	pyrB	MK1480	-	COG0540F	aspartate carbamoyltransferase
+1502086..1502556	+	156	20094917	PyrI	MK1481	-	COG1781F	aspartate carbamoyltransferase
+1502646..1503560	+	304	20094918	-	MK1482	-	COG0583K	LysR family transcriptional regulator
+1504035..1505579	-	514	20094919	FolP	MK1483	-	COG0294H	dihydropteroate synthase
+1505554..1506294	-	246	20094920	-	MK1484	-	COG1036C	flavoprotein
+1506320..1506547	-	75	20094921	MtrF	MK1485	-	COG4218H	N5-methyl-tetrahydromethanopterin:coenzyme M methyltransferase, subunit F
+1506670..1507077	-	135	20094922	-	MK1486	-	COG1786S	hypothetical protein
+1507201..1507398	-	65	20094923	MrtA	MK1487	-	COG4058H	methyl coenzyme M reductase, alpha subunit, fragment
+1507688..1508737	+	349	20094924	-	MK1488	-	COG1625C	NifB/MoaA family Fe-S oxidoreductase
+1508860..1509792	+	310	20094925	-	MK1489	-	COG0391S	LPPG:FO 2-phospho-L-lactate transferase
+1509797..1510498	+	233	20094926	NfnB	MK1490	-	COG0778C	nitroreductase
+1510584..1511174	+	196	20094927	-	MK1491	-	COG2890J	rRNA/ tRNA methylase
+1511252..1511560	+	102	20094928	CutA	MK1492	-	COG1324P	hypothetical protein
+1511580..1512938	-	452	20094929	HypE_1	MK1493	-	COG1973O	hydrogenase maturation factor
+1513509..1513742	+	77	20094930	-	MK1494	-	-	hypothetical protein
+1513859..1514368	-	169	20094931	CysG_1	MK1495	-	COG1648H	siroheme synthase
+1514479..1515249	-	256	20094932	-	MK1496	-	-	hypothetical protein
+1515253..1516320	-	355	20094933	-	MK1497	-	COG4012S	hypothetical protein
+1516295..1516912	-	205	20094934	-	MK1498	-	COG2054R	kinase related to aspartokinase
+1517027..1517572	-	181	20094935	HyaD_1	MK1499	-	COG0680C	Ni,Fe-hydrogenase maturation factor
+1517569..1518687	-	372	20094936	-	MK1500	-	COG0076E	pyridoxal-phosphate-dependent enzyme related to glutamate decarboxylase
+1518684..1519490	-	268	20094937	-	MK1501	-	COG1497K	transcription regulator
+1519494..1519919	-	141	20094938	-	MK1502	-	COG0864K	transcription regulator
+1519963..1520475	-	170	20094939	-	MK1503	-	COG1986S	hypothetical protein
+1520450..1520923	-	157	20094940	-	MK1504	-	COG1019R	phosphopantetheine adenylyltransferase
+1520920..1521717	-	265	20094941	-	MK1505	-	COG1365R	ATPase
+1521830..1522651	-	273	20094942	-	MK1506	-	COG1430S	hypothetical protein
+1522677..1523396	+	239	20094943	-	MK1507	-	COG1624S	hypothetical protein
+1523389..1524582	+	397	20094944	-	MK1508	-	COG1812E	S-adenosylmethionine synthetase
+1524636..1526012	-	458	20094945	AnsB	MK1509	-	COG0252EJ	glutamyl-tRNA(Gln) amidotransferase subunit D
+1526044..1526646	+	200	20094946	HisH	MK1510	-	COG0118E	glutamine amidotransferase
+1526643..1527143	+	166	20094947	-	MK1511	-	COG1719R	metabolic regulator
+1527145..1527771	+	208	20094948	-	MK1512	-	COG1493T	serine protein kinase
+1527775..1528134	+	119	20094949	-	MK1513	-	-	hypothetical protein
+1528140..1528403	+	87	20094950	-	MK1514	-	COG1873S	hypothetical protein
+1528916..1529248	+	110	20094951	-	MK1515	-	COG0640K	ArsR family transcriptional regulator
+1529214..1530110	-	298	20094952	CbiB	MK1516	-	COG1270H	cobalamin biosynthesis protein CobD/CbiB
+1530110..1531141	-	343	20094953	DPH2	MK1517	-	COG0411E	diphthamide synthase subunit DPH2
+1531169..1531531	+	120	20094954	CbiG	MK1518	-	COG2073H	cobalamin biosynthesis protein CbiG
+1531570..1532046	+	158	20094955	-	MK1519	-	-	hypothetical protein
+1532641..1533588	-	315	20094956	Dcm	MK1520	-	COG0270L	site-specific DNA methylase
+1533710..1534465	+	251	20094957	-	MK1521	-	COG0725P	ABC-type molybdate transport system, periplasmic component
+1534462..1535247	+	261	20094958	-	MK1522	-	COG0555O	ABC-type molybdate transport systems, permease component
+1535234..1535920	+	228	20094959	-	MK1523	-	COG3839G	ABC-type molibdate transport systems, ATPase component
+1535907..1537154	+	415	20094960	MoeA	MK1524	-	COG0303H	molybdopterin biosynthesis protein
+1537248..1537487	+	79	20094961	FwdG	MK1525	-	COG1149C	ferredoxin
+1537502..1537897	+	131	20094962	FwdD	MK1526	-	COG1153C	formylmethanofuran dehydrogenase subunit D
+1537981..1539282	+	433	20094963	FwdB_2	MK1527	-	COG1029C	formylmethanofuran dehydrogenase subunit B, selenocysteine containing
+1539400..1539711	+	103	20094964	-	MK1528	-	-	Zn-ribbon-containing protein
+1539750..1541495	+	581	20094965	FwdA	MK1529	-	COG1229C	formylmethanofuran dehydrogenase subunit A
+1541523..1542326	+	267	20094966	FwdC	MK1530	-	COG2218C	formylmethanofuran dehydrogenase subunit C
+1542396..1542695	+	99	20094967	-	MK1531	-	COG4013S	hypothetical protein
+1542781..1544628	+	615	20094968	-	MK1532	-	COG1196D	hypothetical protein
+1544563..1546239	-	558	20094969	-	MK1533	-	COG1657I	hypothetical protein
+1546215..1551530	+	1771	20094970	-	MK1534	-	COG1429H	CobN/Mg-chelatase
+1551496..1552785	-	429	20094971	-	MK1535	-	COG0527E	aspartokinase
+1552958..1554892	-	644	20094972	-	MK1536	-	COG1855R	ATPase
+1554926..1555351	-	141	20094973	hisI	MK1537	-	COG0139E	phosphoribosyl-AMP cyclohydrolase
+1555348..1556613	-	421	20094974	HisS	MK1538	-	COG0124J	histidyl-tRNA synthetase
+1556613..1557965	-	450	20094975	-	MK1539	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+1557946..1558869	-	307	20094976	MoaA	MK1540	-	COG2896H	molybdenum cofactor biosynthesis protein
+1558896..1559870	-	324	20094977	-	MK1541	-	-	hypothetical protein
+1560542..1561234	+	230	20094978	-	MK1542	-	COG2220R	metal-dependent hydrolase
+1561292..1562038	-	248	20094979	-	MK1543	-	-	hypothetical protein
+1562041..1563039	-	332	20094980	HypE_2	MK1544	-	COG0309O	hydrogenase maturation factor
+1563101..1563502	+	133	20094981	RPS8A	MK1545	-	COG2007J	30S ribosomal protein S8
+1563499..1564155	-	218	20094982	HypB_2	MK1546	-	COG0378OK	Ni2+-binding GTPase involved in regulation of expression and maturation of hydrogenase
+1564142..1564570	-	142	20094983	HybF	MK1547	-	COG0375R	zinc finger protein
+1564629..1565369	+	246	20094984	CysG_2	MK1548	-	COG0007H	uroporphyrinogen-III methylase
+1565366..1566509	+	380	20094985	Kch_3	MK1549	-	COG1827R	fused NAD-binding/uncharacterized domain-containing protein
+1566513..1567199	-	228	20094986	HemD	MK1550	-	COG1587H	uroporphyrinogen-III synthase
+1567196..1567507	-	103	20094987	SEC65	MK1551	-	COG1400U	signal recognition particle protein Srp19
+1567473..1568744	-	423	20094988	-	MK1552	-	-	hypothetical protein
+1568769..1569284	+	171	20094989	-	MK1553	-	COG2061E	homoserine dehydrogenase regulatory protein
+1569260..1570273	+	337	20094990	ThrA	MK1554	-	COG0460E	homoserine dehydrogenase
+1570324..1570851	-	175	20094991	-	MK1555	-	-	hypothetical protein
+1570848..1571285	-	145	20094992	-	MK1556	-	-	hypothetical protein
+1571504..1571908	-	134	20094993	-	MK1557	-	COG1765O	OsmC family protein
+1571926..1572834	-	302	20094994	-	MK1558	-	COG2144R	selenophosphate synthetase-related enzyme
+1572806..1573468	-	220	20094995	-	MK1559	-	-	hypothetical protein
+1573487..1574383	+	298	20094996	-	MK1560	-	COG0679R	permease
+1574882..1575780	-	299	20094997	TrxB	MK1561	-	COG0492O	thioredoxin reductase
+1575813..1576907	-	364	20094998	-	MK1562	-	COG2303E	flavoprotein related to choline dehydrogenase
+1576935..1577945	+	336	20094999	-	MK1563	-	COG2340S	hypothetical protein
+1577960..1580194	+	744	20095000	InfB_1	MK1564	-	COG0532J	translation initiation factor 2, GTPase
+1580201..1580878	+	225	20095001	-	MK1565	-	-	hypothetical protein
+1580875..1581339	+	154	20095002	Dcd_2	MK1566	-	COG0717F	deoxycytidine deaminase
+1581336..1581887	+	183	20095003	-	MK1567	-	COG0491R	Zn-dependent hydrolase
+1581884..1582210	-	108	20095004	-	MK1568	-	-	metal-binding protein
+1582270..1583277	+	335	20095005	-	MK1569	-	-	major facilitator superfamily permease
+1583274..1584155	+	293	20095006	MMT1	MK1570	-	COG0053P	Co/Zn/Cd cation transporter
+1584185..1585000	-	271	20095007	-	MK1571	-	-	hypothetical protein
+1584936..1585493	+	185	20095008	-	MK1572	-	-	hypothetical protein
+1585777..1587114	+	445	20095009	CobB_1	MK1573	-	COG1797H	cobyrinic acid a,c-diamide synthase
+1587128..1587742	+	204	20095010	-	MK1574	-	COG1237R	beta-lactamase superfamily hydrolase
+1587924..1589219	-	431	20095011	-	MK1575	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+1589278..1590753	-	491	20095012	-	MK1576	-	COG0531E	amino acid transporter
+1590858..1591445	-	195	20095013	-	MK1577	-	COG2411S	hypothetical protein
+1591464..1592075	-	203	20095014	rps2P	MK1578	-	COG0052J	30S ribosomal protein S2
+1592112..1592303	-	63	20095015	-	MK1579	-	COG1245R	ferredoxin
+1592327..1592497	-	56	20095016	RpoZ	MK1580	-	COG1758K	DNA-directed RNA polymerase subunit K/omega
+1592624..1593769	+	381	20095017	-	MK1581	-	COG0624E	deacylase
+1593766..1594827	-	353	20095018	-	MK1582	-	COG3367S	hypothetical protein
+1594854..1596443	-	529	20095019	HYS2	MK1583	-	COG1311L	DNA polymerase II small subunit
+1596507..1597112	+	201	20095020	-	MK1584	-	-	hypothetical protein
+1597109..1597681	+	190	20095021	-	MK1585	-	COG0235G	epimerase
+1597665..1598027	-	120	20095022	-	MK1586	-	COG1698S	hypothetical protein
+1597981..1598511	+	176	20095023	-	MK1587	-	COG1284S	transcription regulator
+1598508..1598981	+	157	20095024	-	MK1588	-	COG1645R	hypothetical protein
+1598944..1600101	+	385	20095025	-	MK1589	-	COG2232R	ATP-dependent carboligase related to biotin carboxylase
+1600098..1601198	+	366	20095026	MurF	MK1590	-	COG0770M	UDP-N-acetylmuramyl pentapeptide synthase
+1601232..1601696	+	154	20095027	Ndk	MK1591	-	COG0105F	nucleoside diphosphate kinase
+1601691..1603019	-	442	20095028	RecJ_1	MK1592	-	COG0608L	single-stranded-DNA-specific exonuclease
+1603095..1603544	-	149	20095029	rps15p	MK1593	-	COG0184J	30S ribosomal protein S15
+1603551..1604117	-	188	20095030	-	MK1594	-	COG0127F	xanthosine triphosphate pyrophosphatase
+1604190..1605986	+	598	20095031	InfB_2	MK1595	-	COG0532J	translation initiation factor IF-2
+1606043..1606858	-	271	20095032	-	MK1596	-	COG3608R	aminoacylase-2/carboxypeptidase Z family hydrolase
+1606866..1607216	-	116	20095033	-	MK1597	-	COG1990S	peptidyl-tRNA hydrolase
+1607390..1607761	+	123	20095034	rpl7ae	MK1598	-	COG1358J	50S ribosomal protein L7
+1608218..1608949	+	243	20095035	-	MK1599	-	-	hypothetical protein
+1608909..1610417	-	502	20095036	GuaB	MK1600	-	COG0516F	IMP dehydrogenase
+1610484..1611053	-	189	20095037	-	MK1601	-	-	hypothetical protein
+1611106..1611819	-	237	20095038	-	MK1602	-	COG1891S	hypothetical protein
+1611915..1612466	+	183	20095039	-	MK1603	-	-	hypothetical protein
+1612436..1614199	+	587	20095040	TopA	MK1604	-	COG0550L	topoisomerase IA
+1614640..1615353	+	237	20095041	-	MK1605	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+1615336..1616505	-	389	20095042	ArgD	MK1606	-	COG4992E	pyridoxal-phosphate-dependent aminotransferase
+1616509..1617411	-	300	20095043	dapA	MK1607	-	COG0329EM	dihydrodipicolinate synthase
+1617430..1617642	-	70	20095044	RPS17A	MK1608	-	COG1383J	ribosomal protein S17E
+1617635..1617913	-	92	20095045	PheA	MK1609	-	COG1605E	chorismate mutase
+1617867..1618727	-	286	20095046	-	MK1610	-	COG1685EH	shikimate kinase
+1618931..1619194	-	87	20095047	-	MK1611	-	-	hypothetical protein
+1619379..1620722	-	447	20095048	Ffh	MK1612	-	COG0541U	Signal recognition particle GTPase
+1620719..1621768	-	349	20095049	FtsY	MK1613	-	COG0552U	Signal recognition particle GTPase
+1621798..1622271	-	157	20095050	GIM5	MK1614	-	COG1730O	prefoldin subunit alpha
+1622271..1622513	-	80	20095051	RPL20A	MK1615	-	COG2157J	ribosomal protein L20A (L18A)
+1622531..1623196	-	221	20095052	TIF6	MK1616	-	COG1976J	translation initiation factor IF-6
+1623199..1623459	-	86	20095053	RPL31A	MK1617	-	COG2097J	50S ribosomal protein L31
+1623475..1623630	-	51	20095054	rpl39e	MK1618	-	COG2167J	50S ribosomal protein L39
+1623644..1623997	-	117	20095055	-	MK1619	-	COG2118R	hypothetical protein
+1624027..1624476	-	149	20095056	RPS19A	MK1620	-	COG2238J	30S ribosomal protein S19
+1624522..1624839	-	105	20095057	-	MK1621	-	COG1534J	RNA-binding protein
+1624826..1625212	-	128	20095058	RPR2	MK1622	-	COG2023J	ribonuclease P protein component 4
+1625166..1626401	+	411	20095059	-	MK1623	-	-	hypothetical protein
+1626335..1626904	+	189	20095060	HyaD_2	MK1624	-	COG0680C	Ni,Fe-hydrogenase maturation factor
+1626880..1627365	-	161	20095061	-	MK1625	-	COG2768R	fused ferredoxin domain/DNA-binding domain-containing protein
+1627362..1628921	-	519	20095062	-	MK1626	-	COG2244R	membrane protein implicated in protein export
+1628934..1629821	-	295	20095063	IlvE	MK1627	-	COG0115EH	branched-chain amino acid aminotransferase
+1630003..1631064	+	353	20095064	-	MK1628	-	-	hypothetical protein
+1631048..1631341	+	97	20095065	-	MK1629	-	-	hypothetical protein
+1631366..1632712	-	448	20095066	-	MK1630	-	COG0144J	tRNA/rRNA cytosine-C5-methylase
+1632739..1633479	+	246	20095067	ArgB	MK1631	-	COG0548E	acetylglutamate kinase
+1633413..1633727	+	104	20095068	-	MK1632	-	COG1849S	hypothetical protein
+1633814..1634437	+	207	20095069	-	MK1633	-	-	hypothetical protein
+1634606..1635241	-	211	20095070	-	MK1634	-	COG0491R	Zn-dependent hydrolase
+1635284..1636138	+	284	20095071	-	MK1635	-	COG0030J	N-6 adenine-specific DNA methylase
+1636477..1637091	-	204	20095072	-	MK1636	-	-	hypothetical protein
+1637295..1637957	-	220	20095073	-	MK1637	-	COG1372L	hypothetical protein
+1637857..1638960	-	367	20095074	-	MK1638	-	-	hypothetical protein
+1639406..1640485	+	359	20095075	-	MK1639	-	COG1679S	hypothetical protein
+1640674..1641513	-	279	20095076	-	MK1640	-	-	hypothetical protein
+1641667..1642548	+	293	20095077	FtsJ	MK1641	-	COG0293J	SAM-dependent methyltransferase
+1642496..1642894	-	132	20095078	CpsB_2	MK1642	-	COG0662G	mannose-6-phosphate isomerase
+1642891..1644282	-	463	20095079	CobB_2	MK1643	-	COG1797H	cobyrinic acid a,c-diamide synthase
+1644369..1644533	+	54	20095080	-	MK1644	-	-	hypothetical protein
+1644717..1645973	-	418	20095081	-	MK1645	-	COG0644C	dehydrogenase (flavoprotein)
+1646079..1647389	-	436	20095082	-	MK1646	-	COG1258J	pseudouridylate synthase
+1647793..1649076	+	427	20095083	Eno	MK1647	-	COG0148G	enolase
+1649073..1650479	-	468	20095084	-	MK1648	-	-	hypothetical protein
+1650476..1651831	-	451	20095085	PurF	MK1649	-	COG0034F	glutamine phosphoribosylpyrophosphate amidotransferase
+1652250..1655972	-	1240	20095086	-	MK1650	-	COG1933L	DNA polymerase II large subunit
+1656406..1657362	-	318	20095087	SplB	MK1651	-	COG1533L	DNA photolyase
+1657359..1658759	-	466	20095088	LldP	MK1652	-	COG1620C	L-lactate permease
+1658795..1659637	+	280	20095089	-	MK1653	-	-	hypothetical protein
+1659793..1660500	-	235	20095090	-	MK1654	-	COG1136V	ABC transporter ATPase
+1660512..1661624	-	370	20095091	-	MK1655	-	COG4591M	ABC transporter permease
+1661638..1662354	-	238	20095092	-	MK1656	-	COG1326R	Zn-finger-containing protein
+1662382..1662804	+	140	20095093	-	MK1657	-	COG2090S	hypothetical protein
+1662954..1663568	-	204	20095094	-	MK1658	-	COG1491J	RNA-binding protein
+1663572..1663961	-	129	20095095	-	MK1659	-	COG1460S	hypothetical protein
+1663977..1664285	-	102	20095096	RPL21A	MK1660	-	COG2139J	50S ribosomal protein L21
+1664287..1664700	-	137	20095097	-	MK1661	-	COG4080L	hypothetical protein
+1664704..1665924	-	406	20095098	Pgk	MK1662	-	COG0126G	3-phosphoglycerate kinase
+1665945..1666487	-	180	20095099	-	MK1663	-	COG0794M	sugar phosphate isomerase
+1666501..1667181	-	226	20095100	TpiA	MK1664	-	COG0149G	triosephosphate isomerase
+1667190..1667828	-	212	20095101	RpiA	MK1665	-	COG0120G	ribose 5-phosphate isomerase
+1667891..1669519	+	542	20095102	CarB_3	MK1666	-	COG0458EF	carbamoylphosphate synthase large subunit
+1669535..1670410	+	291	20095103	PrsA	MK1667	-	COG0462FE	phosphoribosylpyrophosphate synthetase
+1670607..1670876	+	89	20095104	-	MK1668	-	COG4014S	hypothetical protein
+1670877..1671116	-	79	20095105	-	MK1669	-	COG1873S	hypothetical protein
+1671113..1671736	-	207	20095106	-	MK1670	-	COG2266H	GTP:adenosylcobinamide-phosphate guanylyltransferase
+1671733..1672458	-	241	20095107	CobS	MK1671	-	COG0368H	cobalamin-5-phosphate synthase
+1672455..1673528	-	357	20095108	PgpA	MK1672	-	COG1865S	fused phosphatidlglycerophosphatase A/uncharacterized domain-containing protein
+1673554..1676526	+	990	20095109	NtpB	MK1673	-	COG1156C	vacuolar-type H+-ATPase subunit B, contains an intein
+1676578..1677276	+	232	20095110	NtpD	MK1674	-	COG1394C	V-type ATP synthase subunit D
+1677295..1677675	+	126	20095111	-	MK1675	-	COG1417S	hypothetical protein
+1677675..1678118	+	147	20095112	-	MK1676	-	COG2083S	hypothetical protein
+1678361..1678825	+	154	20095113	HHT1_3	MK1677	-	COG2036B	histone H3/H4
+1678882..1681107	-	741	20095114	MPH1/MUS81	MK1678	-	COG1111L	Hef nuclease
+1681086..1681853	-	255	20095115	-	MK1679	-	COG4088F	nucletide kinase
+1681881..1682882	+	333	20095116	ArsA	MK1680	-	COG0003P	arsenite transporting ATPase
+1682894..1683577	+	227	20095117	-	MK1681	-	COG1387ER	hypothetical protein
+1683574..1686540	-	988	20095118	RtcB	MK1682	-	COG1690S	hypothetical protein
+1686554..1687210	-	218	20095119	-	MK1683	-	COG3382S	hypothetical protein
+1687182..1687805	-	207	20095120	-	MK1684	-	COG2226H	SAM-dependent methyltransferase
+1687856..1688686	+	276	20095121	-	MK1685	-	COG1429H	hypothetical protein
+1688751..1689122	+	123	20095122	-	MK1686	-	COG1504S	hypothetical protein
+1689119..1689883	-	254	20095123	PstB	MK1687	-	COG1117P	ABC-type phosphate transport system, ATPase component
+1689888..1691672	-	594	20095124	PstA	MK1688	-	COG0573P	ABC-type phosphate transport system, permease component
+1691739..1692728	-	329	20095125	PstS	MK1690	-	COG0226P	ABC-type phosphate transport system, periplasmic component
+1692804..1693688	+	294	20095126	-	MK1691	-	COG0037D	ATPase
+1693706..1694500	+	264	20095127	-	MK1692	-	COG0037D	ATPase
