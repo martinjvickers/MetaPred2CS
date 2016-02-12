@@ -33,7 +33,7 @@ if (!$upload_filehandle3)
 {
     system "mkdir -p /var/www/html/MetaPred2cs/input_check_$tempdir/";
                 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/input_check_$tempdir/";
-                my $input_check1 = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/input_check_$tempdir/wait_page.html";
+                my $input_check1 = "http://localhost/MetaPred2cs/input_check_$tempdir/wait_page.html";
 
 my $progress_url1 = "/var/www/html/MetaPred2cs/input_check_$tempdir/wait_page.html";
 my $header       = "/var/www/html/MetaPred2cs/header.html";
@@ -90,7 +90,7 @@ if (!$upload_filehandle4)
    
 system "mkdir -p /var/www/html/MetaPred2cs/input_check_$tempdir/";
                 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/input_check_$tempdir/";
-                my $input_check1 = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/input_check_$tempdir/wait_page.html";
+                my $input_check1 = "http://localhost/MetaPred2cs/input_check_$tempdir/wait_page.html";
 
 my $progress_url1 = "/var/www/html/MetaPred2cs/input_check_$tempdir/wait_page.html";
 my $header       = "/var/www/html/MetaPred2cs/header.html";
@@ -172,7 +172,7 @@ my $cut_off7 = $q->param("ct7"); #default - cutoff value of the all to all NCBI 
 
 system "mkdir -p /var/www/html/MetaPred2cs/user_$tempdir/";
 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/user_$tempdir/";
-my $wait_url = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/user_$tempdir/wait_page.html";
+my $wait_url = "http://localhost/MetaPred2cs/user_$tempdir/wait_page.html";
  
 print &Redirect("$wait_url","permanent");
 #print $q->redirect('$wait_url');

@@ -77,7 +77,7 @@ if (!$header_check1) {
 
 system "mkdir -p /var/www/html/MetaPred2cs/input_check_$tempdir/";
                 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/input_check_$tempdir/";
-                my $input_check1 = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/input_check_$tempdir/wait_page.html";
+                my $input_check1 = "http://localhost/MetaPred2cs/input_check_$tempdir/wait_page.html";
 
 my $progress_url1 = "/var/www/html/MetaPred2cs/input_check_$tempdir/wait_page.html";
 my $header       = "/var/www/html/MetaPred2cs/header.html";
@@ -100,7 +100,7 @@ if (!$header_check2) {
 
 system "mkdir -p /var/www/html/MetaPred2cs/input_check2_$tempdir/";
                 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/input_check2_$tempdir/";
-                my $input_check2 = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/input_check2_$tempdir/wait_page.html";
+                my $input_check2 = "http://localhost/MetaPred2cs/input_check2_$tempdir/wait_page.html";
 
 my $progress_url2 = "/var/www/html/MetaPred2cs/input_check2_$tempdir/wait_page.html";
 my $header       = "/var/www/html/MetaPred2cs/header.html";
@@ -122,7 +122,7 @@ chomp (my $prA1 = qx(grep "`grep ">" $first_user_input | cut -d "|" -f 2`" id2gi
 if (!$prA1) {
 		system "mkdir -p /var/www/html/MetaPred2cs/input_check_$tempdir/";
                 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/input_check_$tempdir/";
-                my $input_check1 = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/input_check_$tempdir/wait_page.html";
+                my $input_check1 = "http://localhost/MetaPred2cs/input_check_$tempdir/wait_page.html";
 
 my $progress_url1 = "/var/www/html/MetaPred2cs/input_check_$tempdir/wait_page.html";
 my $header       = "/var/www/html/MetaPred2cs/header.html";
@@ -144,7 +144,7 @@ if (!$query_specie) {
         
 system "mkdir -p /var/www/html/MetaPred2cs/query_specie_$tempdir/";
                 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/query_specie_$tempdir/";
-                my $query_specie = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/query_specie_$tempdir/wait_page.html";
+                my $query_specie = "http://localhost/MetaPred2cs/query_specie_$tempdir/wait_page.html";
 
 my $progress_url1 = "/var/www/html/MetaPred2cs/query_specie_$tempdir/wait_page.html";
 my $header       = "/var/www/html/MetaPred2cs/header.html";
@@ -167,7 +167,7 @@ if (!$prA2) {
 
 		system "mkdir -p /var/www/html/MetaPred2cs/input_check2_$tempdir/";
                 system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/input_check2_$tempdir/";
-                my $input_check2 = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/input_check2_$tempdir/wait_page.html";
+                my $input_check2 = "http://localhost/MetaPred2cs/input_check2_$tempdir/wait_page.html";
 
 my $progress_url2 = "/var/www/html/MetaPred2cs/input_check2_$tempdir/wait_page.html";
 my $header       = "/var/www/html/MetaPred2cs/header.html";
@@ -213,7 +213,7 @@ if (@data){
 		
 		system "mkdir -p /var/www/html/MetaPred2cs/user_$tempdir/";
 		system "cp -f /var/www/html/MetaPred2cs/wait_page.html /var/www/html/MetaPred2cs/user_$tempdir/";
-		my $wait_url = "http://metapred2cs.ibers.aber.ac.uk/MetaPred2cs/user_$tempdir/wait_page.html";
+		my $wait_url = "http://localhost/MetaPred2cs/user_$tempdir/wait_page.html";
 
 		my $progress_url = "/var/www/html/MetaPred2cs/user_$tempdir/wait_page.html";
 		my $header_final = "/var/www/html/MetaPred2cs/checkmysql_header.html";
@@ -264,7 +264,7 @@ if (@data){
 		
 		system "cp -f /var/www/html/second_page_dnm.html /var/www/html/second_page/second_page_$tempdir.html";
                 
-		my $second_page = "http://metapred2cs.ibers.aber.ac.uk/second_page/second_page_$tempdir.html";
+		my $second_page = "http://localhost/second_page/second_page_$tempdir.html";
 
                 my $progress_url = "/var/www/html/second_page/second_page_$tempdir.html";
                 my $header_final = "/var/www/html/second_page_header.html";
