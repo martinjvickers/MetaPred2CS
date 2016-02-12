@@ -53,6 +53,13 @@ A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-w
   sudo make install
   ```
 
+###INSTALL fasta-36.2.5
+
+  ```
+  wget http://faculty.virginia.edu/wrpearson/fasta/fasta3/fasta-36.2.5.tar.gz
+  
+  ```
+
 ###Enable CGI module
 
   ```
