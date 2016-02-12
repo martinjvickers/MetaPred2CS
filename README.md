@@ -57,7 +57,11 @@ A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-w
 
   ```
   wget http://faculty.virginia.edu/wrpearson/fasta/fasta3/fasta-36.2.5.tar.gz
-  
+  tar xvf fasta-36.2.5.tar.gz
+  cd fasta-36.2.5/src
+  make -f ../make/Makefile.linux_sse all
+  cd ../../
+  mv fasta-36-2.5 /opt/
   ```
 
 ###Enable CGI module
