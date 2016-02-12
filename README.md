@@ -8,6 +8,18 @@ http://metapred2cs.ibers.aber.ac.uk
 
 A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-wide prediction of prokaryotic two-component system networks using a sequence-based meta-predictor. BMC Bioinformatics 2015, 16:297. http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0741-7
 
+###Development
+
+Contributions are always welcome. The install instructions below are for a fresh install of metapred2cs and also indicated the dependencies required. This has only been tested on Ubuntu 14.04 and 15.10. 
+
+If you wish to get up and running with MetaPred2cs quicker, you can download the pre-installed VirtualBox OVA file and run MetaPred2cs in a virtual machine on your desktop. All that is needed is virtualbox;
+
+https://www.virtualbox.org/
+
+and the OVA;
+
+LINK TO COME
+
 ##Install Instructions
 
 ###Using Ubuntu server 15.10
