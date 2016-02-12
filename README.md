@@ -11,9 +11,10 @@ A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-w
 ##Install Instructions
 
 ###Using ubuntu server 14.03 LTS
-
-  `sudo apt-get update`
-  `sudo apt-get upgrade`
+  ```
+  sudo apt-get update
+  sudo apt-get upgrade
+  ```
 
 ###Install dependencies
 
