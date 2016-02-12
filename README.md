@@ -10,7 +10,7 @@ A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-w
 
 ##Install Instructions
 
-###Using Ubuntu server 14.03 LTS
+###Using Ubuntu server 15.10
   ```
   sudo apt-get update
   sudo apt-get upgrade
@@ -42,7 +42,7 @@ A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-w
    mv metapred2cs.conf /etc/apache2/sites-enabled/
    ```
 
-###INSTALL CGI::Response.pm!
+###INSTALL CGI::Response.pm
 
   ```
   wget ftp://ftp.auckland.ac.nz/pub/perl/CPAN/authors/Marc_Hedlund/CGI-Response-0.03.tar.gz
