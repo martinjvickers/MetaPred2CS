@@ -19,7 +19,7 @@ A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-w
 ###Install dependencies
 
   ```
-  apt-get install git apache2 make clustalw blast2 libapache2-mod-fastcgi libapache2-mod-perl2 libapache2-mod-php5 php5 ncbi-blast+ perl libgd-gd2-perl libcgi-session-perl libclass-base-perl libexpat1-dev blast2 ncbi-blast+-legacy gcc libc6-dev bioperl
+  apt-get install git apache2 make clustalw blast2 libapache2-mod-fastcgi libapache2-mod-perl2 libapache2-mod-php5 php5 ncbi-blast+ perl libgd-gd2-perl libcgi-session-perl libclass-base-perl libexpat1-dev blast2 ncbi-blast+-legacy gcc libc6-dev bioperl openjdk-7-jdk libc6-i386
   ```
 ###git clone and put in correct places
 
@@ -62,6 +62,7 @@ A. Kara, M. Vickers, M. Swain, D.E. Whitworth and N. Fernandez-Fuentes. Genome-w
   make -f ../make/Makefile.linux_sse all
   cd ../../
   mv fasta-36-2.5 /opt/
+  ln -s /opt/fasta-36-2.5/bin/ssearch36 /usr/sbin/ssearch34
   ```
 
 ###Enable CGI module
