@@ -108,3 +108,10 @@ http://metapred2cs.ibers.aber.ac.uk/MetaPred2CS.ova
   `mysql -u meta_user -p Precalculated_inputs < mysql_updated.sql`
 
 ###Uniprot DB?
+
+  Download the complete FASTA (canonical) fasta file from this URL.
+  http://www.uniprot.org/uniprot/?query=taxonomy:2
+  
+  TODO TESTS
+  
+  formatdb without output named Uniprot_bacteria and located in /var/www/webserver_okul/UniprotKB/DB
