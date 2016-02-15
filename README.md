@@ -111,7 +111,11 @@ http://metapred2cs.ibers.aber.ac.uk/MetaPred2CS.ova
 
   Download the complete FASTA (canonical) fasta file from this URL.
   http://www.uniprot.org/uniprot/?query=taxonomy:2
-  
-  TODO TESTS
-  
-  formatdb without output named Uniprot_bacteria and located in /var/www/webserver_okul/UniprotKB/DB
+
+  This will download a fasta.gz file (uniprot-taxonomy%3A2.fasta.gz). Uncompress, create a BLAST database and copy to the correct location. Ensure that the name of the BLAST database is titled Uniprot_bacteria.
+
+  ```
+  gunzip uniprot-taxonomy%3A2.fasta.gz
+  formatdb -i uniprot-taxonomy%3A2.fasta -n Uniprot_bacteria
+  mv Uniprot_bacteria.* /var/www/webserver_okul/UniprotKB/DB/
+  ```
