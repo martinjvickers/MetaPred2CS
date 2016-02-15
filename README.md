@@ -84,10 +84,6 @@ http://metapred2cs.ibers.aber.ac.uk/MetaPred2CS.ova
   sudo service apache2 restart
   ```
 
-###Needed for virtual box
-
-  `apt-get install virtualbox-guest-dkms`
-
 ###Install sqldatabase
 
   `apt-get install mysql-server`
