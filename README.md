@@ -18,7 +18,7 @@ https://www.virtualbox.org/
 
 and the OVA;
 
-http://metapred2cs.ibers.aber.ac.uk/MetaPred2CS.ova
+http://metapred2cs.ibers.aber.ac.uk/download
 
 ##Install Instructions
 
