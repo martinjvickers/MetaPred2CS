@@ -22,7 +22,7 @@ http://metapred2cs.ibers.aber.ac.uk/download
 
 ##Install Instructions
 
-###Using Ubuntu server 15.10
+###Using Ubuntu Server 14.04LTS and 15.10
   ```
   sudo apt-get update
   sudo apt-get upgrade
