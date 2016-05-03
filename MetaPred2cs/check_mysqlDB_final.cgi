@@ -275,8 +275,10 @@ if (@data){
 
                 	system("cat $header_final > $progress_url");
                 	open(HTML,">>$progress_url");
+			my $fl1 = substr($fl1, 0, 17);
 			print HTML "Fasta file of first protein sequence: $fl1 \n";
 			print HTML "<input type='checkbox' name='prt1_fasta' value='$first_input' checked> <br> ";
+			my $fl2 = substr($fl2, 0, 17);
 			print HTML "Fasta file of second protein sequence: $fl2 \n";
 			print HTML "<input type='checkbox' name='prt2_fasta' value='$second_input' checked> <br> ";
 			close(HTML);

@@ -11,103 +11,20 @@
 <div class="header_div" ><div class="title_div" >MetaPred2CS<i> Web server</i></div>
 <div class="subtitle_div" ><a href="http://www.bioinsilico.org" >@ bioinsilico \dot\ org</a></div></div><div class="response_div" >
 <div style="position:relative;" class="can_pathway" >
+
+  <span class="pathway" ><a href="index.html" >Submit</a></span>
+  <span class="pathway" ><a href="#" >Help</a></span>
+  <span class="pathway" ><a href="Methods.html" target="_blank" >Methods</a></span>
+  <span class="pathway" ><a href="http://metapred2cs.ibers.aber.ac.uk/download/" >Get MetaPred2CS</a></span>
+  <span class="pathway" ><a href="disclaimer_page.html" target="_blank" >Disclaimer</a></span>
+	
+</div>
 </span></div>
+
 
 <div style="text-align:justify;">
 
 <h3_main>
-  <H3> General Information</H3>
-
-MetaPred2CS is a meta-predictor specifically designed to predict interactions in prokaryotic two-component system,
-i.e the pairing between histidine kinases and response regulators.
-MetaPred2CS is based on <a href="http://www.ncbi.nlm.nih.gov/pubmed/17160063" target="_blank">Support Vector Machine (SVM)</a>
-that combines six individual sequence based protein-protein interaction prediction
-methods: two co-evolutionary based methods (<a href="http://www.ncbi.nlm.nih.gov/pubmed/11933068" target="_blank">in-silico
-two hybrid (i2h)</a> and <a href="http://www.ncbi.nlm.nih.gov/pubmed/11707606" target="_blank">mirror tree (MT)</a> methods) and four genomic context
-methods (<a href="http://www.ncbi.nlm.nih.gov/pubmed/15947018" target="_blank">phylogenetic profiling (PP)</a>,
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/10573422" target="_blank">gene fusion (GF)</a>,
-<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030043" target="_blank">gene neighbourhood (GN)</a>
-and <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030043" target="_blank">gene operon methods (GO)</a>).
-<br><br>
-
-All methods implemented in MetaPred2CS require a <a href="http://www.ncbi.nlm.nih.gov/pubmed/2231712" target="_blank">BLAST</a> search to 
-identify homologous proteins to the query proteins. In the case of i2h and MT methods, the search is perfomed against <a href="http://www.uniprot.org/downloads" target="_blank">UniProtKB</a> downloaded 
-from UniProt. In the case of genomics context based methods, sequences search are performed against our local reference 
-genome database that included 243 genomes (see Table 1). The genomes and genome annotation were downloaded 
-from <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/" target="_blank">NCBI database</a> and operon architecture and transcription 
-units from <a href="http://microbiome.wlu.ca/public/TUpredictions/Predictions/" target="_blank"> here</a>.<br><br>
-
-Lastly, Metapred2CS has been trained in single-domain Histidine kinase and Response regulator proteins, 
-in the case of <b> hybrid </b> two-component system proteins, users need to decompose the protein sequence in separate domains 
-and submit them separately. <br><br>
- 
-<script>
-function toggleTable() {
-    var lTable = document.getElementById("loginTable");
-    lTable.style.display = (lTable.style.display == "table") ? "none" : "table";
-}
-</script>
-<style>
-
-table {
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-    font-family:sans-serif;
-    font-size:10pt;
-}
-
-th {
-  font-weight: bold;
-  font-family:sans-serif;
-  font-size:10pt;
-  background: #CEDADA;
-                text-align:center;
-                }
-
-td {
-  font-family:sans-serif;
-  font-size:10pt;  
-  background: #F0F0F0;
-  text-align:center;
-}
-
-</style>
-<a id="loginLink" onclick="toggleTable();" href="#">Table 1</a>.
-<table id="loginTable" border="1" align="center" style="display:none">
-
-<tr><th>Class/Group</th>
-<th>Organism Number Included in Database</th></tr>
-<tr><td>Alphaproteobacteria</td><td>27</td></tr>
-<tr><td>Aquificae</td><td>1</td></tr>
-<tr><td>Firmicutes</td><td>49</td></tr>
-<tr><td>Bacteroidetes/Chlorobi</td><td>5</td>
-</tr><tr><td>Delta/epsilon subdivisions</td><td>10</td>
-</tr><tr><td>Actinobacteria</td><td>16</td>
-</tr><tr><td>Betaproteobacteria</td><td>13</td>
-</tr><tr><td>Spirochaetes</td><td>2</td>
-</tr><tr><td>Gammaproteobacteria</td><td>49</td>
-</tr><tr><td>Chlamydiae/Verrucomicrobia</td><td>10</td>
-</tr><tr><td>Deinococcus-Thermus</td><td>3</td>
-</tr><tr><td>Fusobacteria</td><td>1</td></tr>
-<tr><td>Cyanobacteria</td><td>11</td></tr>
-<tr><td>Fibrobacteres/Acidobacteria</td><td>3</td></tr>
-<tr><td>Spirochaetes</td><td>4</td></tr>
-<tr><td>Tenericutes</td><td>12</td></tr>
-<tr><td>Planctomycetes</td><td>1</td></tr>
-<tr><td>Thermotogae</td><td>1</td></tr>
-<tr><td>Chloroflexi</td><td>2</td></tr>
-<tr><td>Crenarchaeota*</td><td>6</td></tr>
-<tr><td>Euryarchaeota*</td><td>16</td></tr>
-<tr><td>Nanoarchaeota*</td><td>1</td></tr>
-</table>
-<br>
-
-<br><b> Training & Test - The P+ and P- datasets </b><br><br>
-The <a href="P+_dataset.faa" target="_blank">P+</a> and <a href="P-_dataset.faa" target="_blank">P-</a> datasets contain 113 interacting
-and 1134 non-interacting experimentally validated TCS pairs respectively,
-and were compiled and manually curated from the current literature. These datasets and different sub-classes of these sets
-were used to train and test the MetaPred2CS using a k-fold cross validation strategy.
 
 <H3>Submission Form – Pre-computed predictions</H3>
 
@@ -115,12 +32,12 @@ Users are requested to submit the sequences of the query proteins can be either 
 The format of the sequences must be Fasta and the header should follow the following specifications and format as the example 
 shown below:<br><br>
 
->gi|16128384|ref|NP_414933.1| response regulator in two-component regulatory system with PhoR (or CreC) [Escherichia coli str. K-12 substr. MG1655] <br>
-<br>
+<b> >gi|16128384|ref|NP_414933.1| response regulator in two-component regulatory system with PhoR (or CreC) [Escherichia coli str. K-12 substr. MG1655] <br>
+</b> <br>
 The different fields of the header are delimited by the pipe character “|” and include the NCBI gi and RefSEQ identification numbers, 
 a short description and the Source organism. This information is required during the prediction process, as they are used to query 
 different databases. The repository of NCBI annotated prokaryotes genomes including FASTA files in the required format can be downloaded 
-from <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/" target="_blank">here</a>.<br>
+from <a href="ftp://ftp.ncbi.nih.gov/genomes/archive/old_refseq/Bacteria/" target="_blank">here</a>.<br>
 
 <p align="center"><img src="/MetaPred2cs/images/y1.png" width="75%"/></p>
 <p align="center"><b>Figure 1.</b> Submission web page.</p> <br>
@@ -139,85 +56,25 @@ If the given pair of proteins is not present in the pre-computed database, the u
 
 <H3>Submission Form – De novo predictions</H3>
 
-<b> Input files </b> <br><br>
-
-Besides the sequences of the query proteins, users need to provide two extra files: TUS and PTT files and set the prediction 
-parameters if not agree with default values. The first section of the submission web page allows to upload the TUS and PTT files 
-required by GO and GN methods (Figure 3). <br>
-<p align="center"><img src="/MetaPred2cs/images/y2.png" width="75%"/></p>
-<p align="center"><b> Figure 3. </b> Second submission web page. Input file section.</p><br>
-
-Note that the sequences are inherited from the first submission web page.<br> 
-As described, the TUS file is required by the GO method. It gives information of the transcription units, or operon, of the target specie 
-under consideration. An example of the TUS files can be accessed  <a href="http://microbiome.wlu.ca/public/TUpredictions/Predictions/uid158055.tus" target="_blank">here</a>. 
-The complete collection of predicted transcriptional units for 
-different prokariots can be downloaded from <a href="http://microbiome.wlu.ca/public/TUpredictions/Predictions/" target="_blank"> here</a>.
-The PTT file is required by the GN methods. It contains the annotation of the genome under consideration using NCBI format. 
-An example of a PTT files can be accessed  <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.ptt" target="_blank">here</a>.
-NCBI repository of PTT files can be accessed <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria/" target="_blank">here</a>.<br>
-
-<h4>Prediction Parameters</h4>
-<b>i2h and MT methods </b><br><br>
-
-At the second section of submission form users have the option of tune the default values of the six different 
-parameters used by i2h and MT methods (Figure 4). <br>
-
-<p align="center"><img src="/MetaPred2cs/images/y3.png" width="75%"/></p>
-<p align="center"><b>Figure 4.</b> Parameter i2h and Mirror tree methods.</p><br>
-
-i2h and MT methods requires multiple sequence alignments  that are created automatically from user's 
-query proteins using BLAST and <a href="http://www.ncbi.nlm.nih.gov/pubmed/17846036" target="_blank">clustalw</a>. 
-For BLAST search, users can adjust the <a href="http://www.entelechon.com/2008/08/blast-parameters/" target="_blank">e-value</a> 
-and <a href="http://www.entelechon.com/2008/08/blast-parameters/" target="_blank">b_value</a>. 
-The rest of the parameters will be used as default such as the as scoring matrix, 
-which is <a href="http://www.ncbi.nlm.nih.gov/Class/FieldGuide/BLOSUM62.txt" target="_blank">BLOSUM_62</a>.
+Besides the sequences of the query proteins, users need to set the prediction 
+parameters if not agree with default values.
+Information about these parameters and individual predictors that employed during the development of this metapredictor
+can be found in <b>Methods page</b>. Method page can be reached from the top menu.
+Note that the sequences are inherited from the first submission web page. Structure of a result page which will be 
+generated by MetaPred2CS for a <i>de novo</i> predictions can be seen below.<br> 
 
 
-The <b> Min Matches </b> and <b> Max Matches </b> parameters stand for the minimum and maximum number of common species in both multiple 
-sequence alignments between both query proteins. These parameters are used to filter the number of sequence and reduce 
-the number of them. If the minimum number of common species is not reached, the job will be terminated. 
-In this case, users need to re-submit using  lower cut-off value for the Min Matches paremeter and/or a higher b_value for the BLAST search.
-The final set of parameters is the correlation function and the substitution matrix. 
-The available options for the scoring function are: <a href="http://www.ncbi.nlm.nih.gov/pubmed/11933068" target="_blank"> corr </a> and 
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/11933068" target="_blank"> rankorr</a> and 
-the substitution matrice: <a href="ftp://ftp.genesilico.pl/lukaskoz/other_stuff/PHDsec/phd/mat/Maxhom_GCG.metric" target="_blank">Maxhom_GCG.metric</a> 
-and <a href="http://csbg.cnb.csic.es/pazos/Xdet/Maxhom_McLachlan.metric" target="_blank">Maxhom_McLachlan.metric</a>.<br><br>
 
-<b> Genomic context methods </b> <br><br>
-At third section of submission form users has de option of tune the default parameters in the genome methods (Figure 5).<br>
+<h4>Results web page</h4>
 
-<p align="center"><img src="/MetaPred2cs/images/y4.png" width="75%"/></p>
-<p align="center"><b>Figure 5.</b> Paramers Genomic context methods.</p><br> 
-
-In the case of Phylogenetic profiles users can change the E-value cut-off of  the BLASTP search used to detect 
-homologue proteins across the reference. This parameter is very important as discussed in 
-this <a href="http://www.ncbi.nlm.nih.gov/pubmed/15947018" target="_blank">work</a>. 
-The second parameter accounts for <a href="http://www.ncbi.nlm.nih.gov/pubmed/15947018" target="_blank"> mutual information</a>
-to infer functional linkages between proteins.
-
-Likewise, in the case of Gene Fusion methods, users can also change the E-value cut-off on BLASTP . Moreover, users can 
-tune the Bits cut-off on the local alignments performed using <a href="http://computing.bio.cam.ac.uk/local/doc/fasta_guide.pdf" target="_blank">ssearch36</a>
-for query proteins which using <a href="http://www.ncbi.nlm.nih.gov/pubmed/1774068" target="_blank">Smith-Waterman algorithm</a> to identify fusion events. 
-Finally, in the case Gene Neighbourhood & Gene Operon methods, the two tunable parameters are the E-value cut-off on the 
-BLASTP search and the cut-off genomic distance. The latter is important to define neighbouring genes and have been 
-extensive discussed in the following works: 
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/10823905" target="_blank">Salgado H. et al., 2000</a>; 
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/12952538" target="_blank">Strong M. et al., 2003</a>;
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/11222772" target="_blank">Ermolaeva MD. et al, 2001</a>; 
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/12169563" target="_blank">Moreno-HG. et al., 2002</a>;
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/10077608" target="_blank">Ross O. et al., 1999</a>
-being 200bp (default) the generally accepted cut-off value.
-
-<H3>Results web page </H3>
-
-Upon completion, a results web-page will be displayed (Figure 6). 
-The results page is composed of four different tables. The first three tables describe the information on the submitted files 
+Upon completion, a results web-page will be displayed (Figure 3). 
+This page is composed of four different tables. The first three tables describe the information on the submitted files 
 and prediction parameters, e.g. cut-off values for each individual preidciton methods. The final table contains the prediction score, 
 that ranges between 0-1 Based on prediction score, predictions can be classified as <b> high confidence, medium confidence </b> or 
 <b> low confidence </b>. Score ranges of these classes are defined as <b> 0.999-0.700, 0.699-0.400 and 0.399-0.000 </b>, respectively.
 
 <p align="center"><img src="/MetaPred2cs/images/4.png" width="75%"/></p>
-<p align="center"><b>Figure 6.</b> Results web page.</p><br><br>
+<p align="center"><b>Figure 3.</b> Results web page.</p><br><br>
 
 <div class="footer_div" >
 <hr/><h5 >Finding it useful? Please cite the server.</h5>

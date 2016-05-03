@@ -45,6 +45,7 @@ http://metapred2cs.ibers.aber.ac.uk/download
   cp -r html /var/www/
   chown -R www-data /var/www/html
   chown -R www-data /var/www/MetaPred2cs
+  chgrp -R www-data /usr/lib/cgi-bin/MetaPred2cs
   ```
 
 ###Copy sites-enabled script
