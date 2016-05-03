@@ -116,3 +116,16 @@ http://metapred2cs.ibers.aber.ac.uk/download
   formatdb -i uniprot-taxonomy%3A2.fasta -n Uniprot_bacteria
   mv Uniprot_bacteria.* /var/www/webserver_okul/UniprotKB/DB/
   ```
+
+###Download and extract processed data into correct directories
+
+  ```
+  wget http://metapred2cs.ibers.aber.ac.uk/download/Formatedpttfaa.tar.gz
+  tar xvf Formatedpttfaa.tar.gz /var/www/webserver_okul/programs/GNMCS_PIPELINE/sys/data/Formatedpttfaa/faa/
+
+  wget http://metapred2cs.ibers.aber.ac.uk/download/tus-repository-20160503.tar.gz
+  tar xvf tus-repository-20160503.tar.gz /var/www/webserver_okul/TUSs_Repository/
+
+  wget http://metapred2cs.ibers.aber.ac.uk/download/ptt-repository-20160503.tar.gz
+  tar xvf ptt-repository-20160503.tar.gz /var/www/webserver_okul/PTT_Repository/
+  ```
