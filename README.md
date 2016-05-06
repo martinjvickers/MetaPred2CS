@@ -109,7 +109,7 @@ http://metapred2cs.ibers.aber.ac.uk/download
   Download the complete FASTA (canonical) fasta file from this URL.
   http://www.uniprot.org/uniprot/?query=taxonomy:2
 
-  This will download a fasta.gz file (uniprot-taxonomy%3A2.fasta.gz). Uncompress, create a BLAST database and copy to the correct location. Ensure that the name of the BLAST database is titled Uniprot_bacteria.
+  This will download a fasta.gz file (uniprot-taxonomy%3A2.fasta.gz). Uncompress, create a BLAST database and copy to the correct location. Ensure that the name of the BLAST database is titled Uniprot_bacteria. This is a very large file, 6.1GB.
 
   ```
   gunzip uniprot-taxonomy%3A2.fasta.gz
