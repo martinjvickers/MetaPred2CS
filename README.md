@@ -121,11 +121,11 @@ http://metapred2cs.ibers.aber.ac.uk/download
 
   ```
   wget http://metapred2cs.ibers.aber.ac.uk/download/Formatedpttfaa.tar.gz
-  tar xvf Formatedpttfaa.tar.gz /var/www/webserver_okul/programs/GNMCS_PIPELINE/sys/data/Formatedpttfaa/faa/
+  tar xvf Formatedpttfaa.tar.gz -C /var/www/webserver_okul/programs/GNMCS_PIPELINE/sys/data/Formatedpttfaa/faa/
 
   wget http://metapred2cs.ibers.aber.ac.uk/download/tus-repository-20160503.tar.gz
-  tar xvf tus-repository-20160503.tar.gz /var/www/webserver_okul/TUSs_Repository/
+  tar xvf tus-repository-20160503.tar.gz -C /var/www/webserver_okul/TUSs_Repository/
 
   wget http://metapred2cs.ibers.aber.ac.uk/download/ptt-repository-20160503.tar.gz
-  tar xvf ptt-repository-20160503.tar.gz /var/www/webserver_okul/PTT_Repository/
+  tar xvf ptt-repository-20160503.tar.gz -C /var/www/webserver_okul/PTT_Repository/
   ```
